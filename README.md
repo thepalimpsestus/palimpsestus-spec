@@ -63,6 +63,28 @@ The accompanying arXiv preprint formally derives the performance claims and arch
 
 ---
 
+## Implementation Rights
+
+This specification establishes the **relational grammar** of Palimpsestus OS — the formal derivation chain, algebraic invariants, and capability semantics that constitute the system's open topological field.
+
+**What you can do with this specification:**
+
+Anyone may build a clean-room implementation of Palimpsestus OS using the formal rules in this repository without infringing on trade secrets, provided they develop their own execution mechanics for the physical process layer ($IP$) and autonomic gate layer ($II$).
+
+Specifically, this specification grants you:
+- The complete 32-verb capability taxonomy ($IC$) and its derivation invariants
+- The 32 canonical role definitions ($IL$) and their constitutional obligations
+- The 64 physical process definitions ($IP$) and the algebraic inversion law ($O^{-1} \circ O \equiv I$)
+- The 64 autonomic gate trigger conditions ($II$) and Heaviside step function semantics
+
+**What is not in this repository:**
+
+The proprietary reference implementation (`kernel-core`) — including AVX2/AVX-512 SIMD vector routines, 64-byte cache-line memory layouts, the in-memory `ReactionContext` bitmask pipeline, and the post-quantum transport apparatus — is not covered by this license and is subject to separate commercial terms.
+
+The distinction maps directly onto the Discovery ↔ Enactment axis: this specification is the open grammar. The reference kernel is the physical concrescence of that grammar in silicon.
+
+---
+
 ## License
 
 This specification is published under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
