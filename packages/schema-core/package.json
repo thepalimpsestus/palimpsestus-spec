@@ -1,0 +1,13 @@
+{
+  "name": "@palimpsestus/schema-core",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Outer Torus: Root Axioms (CC_1..CC_11), Ontological Schemas & Semantic Entity Types",
+  "main": "src/index.mjs",
+  "exports": {
+    ".": "./src/index.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}

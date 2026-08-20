@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you cite or utilize this specification, please cite it as below."
+title: "The Palimpsestus OS Open Specification"
+authors:
+  - family-names: "Weber"
+    given-names: "Stephen"
+    affiliation: "Palimpsestus Architecture Group"
+date-released: 2026-08-14
+url: "https://spec.palimpsestus.org"
+license: CC-BY-4.0
+keywords:
+  - Operating Systems
+  - Directed Acyclic Graphs
+  - Non-Equilibrium Physics
+  - Post-Quantum Security

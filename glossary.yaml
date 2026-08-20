@@ -1,0 +1,45 @@
+# Palimpsestus OS Open Specification - Machine-Readable Platform Glossary & Derivation Registry
+version: 1.0.0
+license: CC-BY-4.0
+description: Foundational vocabulary, structural derivations, and constitutional rules for Palimpsestus OS.
+
+terms:
+  - id: AbsenceRecord
+    name: "Absence Record"
+    matrix_code: "CI-5"
+    derivation_formula: "CP-22 x LI-27"
+    irreducible_claim: "A non-received state payload is stored as an active absence node driving subsequent state transitions, replacing empty null values."
+    in_degree: ["CP-22", "LI-27"]
+    out_degree: ["LI-13", "LP-459"]
+
+  - id: IncomprehensionLock
+    name: "Incomprehension Lock"
+    matrix_code: "LP-456"
+    derivation_formula: "CP-5 x LI-37"
+    irreducible_claim: "When an agent outputs an uncertainty tag, the infrastructure locks mutation permissions over that subgraph to prevent non-verifiable writes."
+    in_degree: ["CP-5", "LI-37"]
+    out_degree: ["LI-38"]
+
+  - id: ReversalDeltaFrame
+    name: "Reversal Delta Frame"
+    matrix_code: "LI-8"
+    derivation_formula: "CI-3 x LP-12"
+    irreducible_claim: "Inverse operator frame reversing topological state modifications without full database transaction rollback."
+    in_degree: ["CI-3", "LP-12"]
+    out_degree: ["LI-9"]
+
+  - id: TraversalScar
+    name: "Traversal Scar"
+    matrix_code: "CP-65"
+    derivation_formula: "CP-3 x LI-5"
+    irreducible_claim: "Every graph traversal deposits a decaying trajectory wake that accumulates structural mass along traversed edges, acting as a self-proving audit trail."
+    in_degree: ["CP-3", "LI-5"]
+    out_degree: ["CI-37", "LI-64"]
+
+  - id: PulseClock
+    name: "Pulse Clock"
+    matrix_code: "CP-30"
+    derivation_formula: "PC-3 x CL-1"
+    irreducible_claim: "Distributed periodic metabolic clock driving autonomic circuit evaluation and strain tensor time decay."
+    in_degree: ["PC-3", "CL-1"]
+    out_degree: ["II-1", "II-64"]

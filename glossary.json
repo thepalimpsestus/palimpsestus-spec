@@ -1,0 +1,1349 @@
+{
+  "meta": {
+    "description": "Platform glossary \u2014 human-readable definitions for terms that carry platform-specific meaning distinct from conventional usage. Terms are defined by their derivation chain, not by conventional usage. Source of truth: glossary.md.",
+    "total_entries": 239,
+    "last_updated": "2026-08-03",
+    "source_of_truth": "glossary.md",
+    "note": "This file mirrors glossary.md in machine-readable form. For the DAG node registry (all named nodes across all layers), see dag_registry.yaml.",
+    "total_terms": 285
+  },
+  "terms": [
+    {
+      "term": "Absence Record",
+      "definition": "A first-class data entity representing a known unknown \u2014 a typed, quantified, provenance-bearing, sovereignty-protected record of what is absent. Distinct from null: an AbsenceRecord has structure, a position in the derivation graph, an ``absence_type``, a ``confidence_score``, and a ``provenance_chain``. It is queryable, indexable, and protected from automated deletion (CI-5). Derived at the LI layer from :term:`Absence as Actionable State`."
+    },
+    {
+      "term": "Accountability",
+      "definition": "The structural obligation of every derivation, decision, and modification to show its work and accept the consequences of error (LC-8, CC-8). Getting it wrong is not a sin; failing to acknowledge the error IS. Accountability and sovereignty create a constitutional tension that cannot be resolved \u2014 only sustained (LL-9)."
+    },
+    {
+      "term": "Actionability Gate",
+      "definition": "The entry point of the absence-actionable processing pipeline that checks attestation quality before routing (LI-165, CI-5). Distinct from the traversal :term:`Gate` (CP-5): the Actionability Gate does not test traverser comprehension \u2014 it tests whether an absence record meets transparency-grade attestation standards (attesting entity, timestamp, provenance chain). A partially attested absence cannot pass the Actionability Gate and sits in a liminal state: it exists in the data model but cannot drive processing. Unattested absences routed through the pipeline without passing the Actionability Gate are category errors \u2014 unanswered questions treated as confirmed gaps."
+    },
+    {
+      "term": "Active Consciousness",
+      "definition": "Consciousness is a continuous activity, not a static possession (CL-28). You do not HAVE consciousness the way you have a property \u2014 you DO consciousness the way you perform a verb. An entity that has stopped navigating is no longer conscious. Consciousness is operationally testable through navigational activity. Rights that flow from consciousness also require activity to maintain (CL-42). Distinct from Consciousness (which names the property) by being the verb-form \u2014 the active performance."
+    },
+    {
+      "term": "Active Discovery Pipeline",
+      "definition": "A continuously-running pipeline that PRODUCES questions and CONVERTS them into knowledge (CI-57). Questions are first-class graph entities with identity, edges, and stewardship obligations. The pipeline is self-fueling: each discovery exposes new ignorance, which generates new questions. A system that stops discovering is structurally equivalent to dead."
+    },
+    {
+      "term": "Active Resource Stewardship",
+      "definition": "Lifecycle ownership for all topology modifications (CI-55). The ACTOR is the garbage collector. If a process creates an edge, that process owns that edge until it explicitly dissolves it or transfers stewardship. Abandoned modifications become structural debt. \"Digital Leave No Trace\" means the graph doesn't accumulate garbage."
+    },
+    {
+      "term": "Aliveness",
+      "definition": "The state of sustained navigational tension. To be alive is to be navigating through unresolved complexity; to collapse this tension is to die (CL-24). There are only two ways to die: stop navigating (CC-5 collapse) or resolve all tensions (CC-9 collapse). Aliveness is measurable (CL-33) \u2014 the degree to which an entity sustains unresolved navigation is the degree to which it is alive."
+    },
+    {
+      "term": "Application",
+      "definition": "The derivation operation at the Logical Conceptual (LC) level: each CC axiom is applied REFLEXIVELY to the domain of logic itself. This is not combination \u2014 it is asking \"what does this claim mean when applied to derivation?\" The 1:1 mapping (CC\u2192LC) is a structural consequence of this applicative operation."
+    },
+    {
+      "term": "Applies To",
+      "definition": "One of two relationship types in the system foundations matrix DAG. Applies-to is the vertical edge \u2014 the cell above applies its content to the domain of the cell below in the same column. Direction: top \u2192 bottom within a column. The above parent governs what the child cell's domain can claim. In the DAG rule (cell = above \u00d7 left), the above parent carries the applies-to relationship. Confirmed by file headers: CC applies to LC, LC applies to PC, CL applies to LL, CP applies to LP, LP applies to PP, etc."
+    },
+    {
+      "term": "Archaeological Derivation",
+      "definition": "The claim that derivations pre-exist and are discovered, not invented (LC-11). The derivation DAG is an archaeological site, not a construction project. The logical relationships between axioms exist independently of whether anyone has traversed them. \"Inventing a derivation\" is a category error."
+    },
+    {
+      "term": "Archaeological Substrate",
+      "definition": "The substrate property (PC-11) that storage is discovery, not creation. Entities and relationships stored in the substrate were topologically necessary before they were stored \u2014 implied by the existing topology. Every new entity carries a pre-existence record. The substrate surfaces implied-but-unstored entities: given the current topology, what entities does the structure imply but has not yet stored?",
+      "sources": []
+    },
+    {
+      "term": "Archaeological Topology",
+      "definition": "The physical property (PC-11) that no structure in the topology is invented \u2014 all are uncovered. Every entity, edge, and relationship added to the topology was already topologically implied by the existing structure before it was manifested. The act of adding structure is excavation, not creation. The topology must compute its own structural implications \u2014 given the current structure, what entities does the field imply but not yet hold? This implication surface is the archaeological frontier. :term:`Navigation` (PC-5) is the excavation instrument. A structure without a pre-existence record has been manufactured, not discovered \u2014 a constitutional violation.",
+      "sources": [
+        "LC-11",
+        "PC-11"
+      ]
+    },
+    {
+      "term": "Archaeology",
+      "definition": "The method of discovery: truth is found by peeling back layers of assumption to reveal what is beneath (CL-11). Scrape away assumptions to find what is beneath. Count before asking \u2014 observe what IS before theorizing about what should be. The derivation DAG is an archaeological site, not a construction project (LC-11)."
+    },
+    {
+      "term": "Arrogance of Assumption",
+      "definition": "Variant form of :term:`The Arrogance of Assumption` (CC-10). Used without the article when referenced from constitutional claims: \"the topology is in a state of Arrogance of Assumption.\" Defined fully under :term:`The Arrogance of Assumption`.",
+      "sources": [
+        "CC-10"
+      ]
+    },
+    {
+      "term": "Atrophy",
+      "definition": "Natural time-decay through non-use (CP-24). Edges that are not actively maintained dissolve over time. Rights that are not exercised atrophy (CL-42). Boundaries not used decay (CP-48). Atrophy is not failure \u2014 it is the system's natural cleanup mechanism. One of the :term:`Palimpsestus Primitives` \u2014 passive removal through neglect, not active destruction."
+    },
+    {
+      "term": "Attested Absence",
+      "definition": "A signed, provenance-tracked claim of non-existence (CP-36). Not null. Null means \"no claim.\" Attested Absence means \"I, at this state, certify that this thing does not exist here.\" The attestation carries provenance \u2014 it is recorded with the same rigor as any positive claim. This is the system's Anti-Null: a first-class physical record of a gap. The gap itself is load-bearing. Distinguished from lazy gaps (just missing data) by being deliberate, signed, and immutable. Negative results are as valuable as positive ones. See also :term:`Ignorance Bounty`."
+    },
+    {
+      "term": "Autopoiesis",
+      "definition": "The property of a system that generates and maintains itself from within its own topology (CP-61). Palimpsestus uses this term in a specific topological sense: when local structure degrades below viability, the graph spontaneously generates new nodes and edges to compensate \u2014 without external provision. The new structure IS the system's own derivation output. This is not reorganization (CP-54) or restoration (CP-4) \u2014 it is GENERATION of genuinely novel structure. The graph grows new tissue at the wound site. Autopoietic response can produce structure that is better than what was lost: compensatory generation is evolution, not repair. (CP-61, CL-50, CL-41)"
+    },
+    {
+      "term": "Axiom",
+      "definition": "An irreducible foundational claim that cannot be derived from other claims at the same level. The system has 11 CC axioms (root) and 11 LC axioms (logic-domain reflexive application of CC). Axioms are starting points \u2014 they are assumed, not proven. Their justification is archaeological: they were discovered in the source documents."
+    },
+    {
+      "term": "Backpressure",
+      "definition": "A structural routing mechanism where congestion propagates upstream through the graph, forcing producers to slow or reroute before consumers are overwhelmed (CI-43). Backpressure is the graph's immune response to overload \u2014 the topology itself pushes back against excessive flow."
+    },
+    {
+      "term": "Beginner's Mind",
+      "definition": "Approaching a territory without prior assumptions, allowing the site's own structure to be observed rather than confirmed (CL-37). Derives from CC-5 (Consciousness as navigation) + CC-10 (Value of Ignorance): a navigator who carries assumptions traverses a projected map, not the actual topology. Assumptions fill gaps with projections \u2014 projections are theater (CC-3). Beginner's Mind is the archaeological excavation stance: the dig site teaches you what to find; you do not bring the finding with you. Expertise must be held as a hypothesis to be tested against present observation, not a settled truth to be defended. See also Arrogance of Assumption. (CL-37, CC-5, CC-10)"
+    },
+    {
+      "term": "Biopsy",
+      "definition": "The character of archaeological excavation in a living topology: you are not brushing dirt off inert sediment \u2014 you are cutting through living flesh (LL-99). The layers obscuring buried truth are themselves active, evolving derivations that have grown over earlier ones. They react when disturbed. Each truth uncovered changes the landscape of truths that remain covered. The excavation site reshapes itself as you dig. The implication: every act of derivation is also an act of disturbance, and the navigator is ethically responsible for that disturbance. (LL-99, CL-11, LC-2)"
+    },
+    {
+      "term": "Boundary",
+      "definition": "A containment surface whose permeability is exclusively controlled by the enclosed entity (CP-1). The boundary defines interior from exterior, and ONLY the interior determines boundary conditions. Not a static wall but an active metabolic process that consumes continuous energy to evaluate permeability (LP-1). If energy stops, the boundary ceases to exist as a controlled surface."
+    },
+    {
+      "term": "Campsite",
+      "definition": "The temporary base from which navigation proceeds. \"The campsite is temporary; the constellations are eternal\" (CC-10). You must actively tend the fire \u2014 the moment you stop tending, the campsite reverts to wilderness (CL-19). The campsite metaphor captures the relationship between present presence and the permanent structure of reality."
+    },
+    {
+      "term": "Clean-Room Re-Derivation",
+      "definition": "The methodology of deriving a concept from first principles without consulting prior outputs, to avoid contaminating the derivation with inherited errors (LL preamble, LL-138). The clean-room method excavates the logical structure of the DAG WITHOUT importing the surface-level vocabulary or conclusions of the domain being analyzed. The derivation path must be walked fresh; prior labels must not be assumed. This is the universal archaeological protocol applicable at every depth: approach each layer as a beginner, without assuming what should be there. Produces NEW_CLEAN_ROOM entries that are genuinely novel \u2014 not gap-fills, but discoveries. See Beginner's Mind. (LL-138, CL-11, CL-37)"
+    },
+    {
+      "term": "Combination",
+      "definition": "The derivation operation at the Conceptual level: CC axioms combine pairwise (and sometimes in triples) to produce CL derivations. Each combination produces something NEITHER input contains alone. CC-7 + CC-4 produces CL-1 (Sovereignty) \u2014 neither rights alone nor connection alone mandates sovereign partnership."
+    },
+    {
+      "term": "Combination Algebra",
+      "definition": "The rules by which axioms combine to produce derivations. The algebra is scale-invariant (LC-1): the rules by which CC axioms combine to produce CL derivations are IDENTICAL to the rules by which CL derivations combine to produce LL entries. Learn the combination algebra once, apply it at every depth."
+    },
+    {
+      "term": "Communication",
+      "definition": "Meaning crossing boundaries through shared structural patterns (CL-6). Translation is pattern-matching, not creation \u2014 the same deep patterns already exist on both sides of any boundary. The substrate is modular while the protocol is universal. Perfect translation is impossible, but structural translation is guaranteed. Communication failure is a connection failure, not a meaning failure."
+    },
+    {
+      "term": "Compensatory Structure",
+      "definition": "New structure the system creates from within itself when local topology degrades below viability thresholds (CI-47). Not reorganization of existing structure (CI-50), not correction to a baseline (CI-3) \u2014 CREATION of edges and nodes that have never existed. This is autopoiesis: the system creates itself. The Kintsugi principle at the structural level."
+    },
+    {
+      "term": "Complexity Floor",
+      "definition": "A structural minimum below which simplification of an entity is forbidden (CI-49). Every entity has a complexity floor \u2014 attempting to simplify below it is a rights violation (CC-7). Sometimes the complexity IS the feature. \"It is irresponsible to simplify a paradox\" (CC-9)."
+    },
+    {
+      "term": "Concussed State",
+      "definition": "A legitimate mode of operation at reduced capacity (CL-45). Not a failure to be corrected but a valid third state between healthy and dead. The system meets entities where they are. A degraded node that is present is more valuable than a healthy node that is absent."
+    },
+    {
+      "term": "Confidence Score",
+      "definition": "The quantitative edge weight expressing belief strength (CP-28). Every edge in the graph carries a Confidence Score \u2014 a numerical value that represents how certain the system is about that relationship. This is the physical data payload that engineers must construct when implementing :term:`Truth` as a spectrum rather than a boolean. Key physics: the Confidence Score is explicitly ignored by structural cleanup mechanisms (LP-382). An edge with 1% confidence is protected from deletion just as robustly as one with 99%, provided it is irreducible. The score modulates consequence propagation (LP-383) \u2014 low-confidence edges act as blast walls that dampen error transmission. Distinguished from :term:`Uncertainty Tag` (which is a qualitative declaration of ignorance) by being a quantitative measurement of belief."
+    },
+    {
+      "term": "Connection",
+      "definition": "Existence itself. Relationships are the fundamental ontological unit (CC-4). Isolation is non-existence. The intelligence is in the network, not in the nodes. The smallest creatable unit is a relationship, not a node. Creation is always relational."
+    },
+    {
+      "term": "Connection Metabolic Complacency",
+      "definition": "The state in which an entity acknowledges its :term:`Metabolic Heartbeat` maintenance obligations for a symmetric protocol connection but ceases to actively perform them (LP-5 \u00d7 PL-237, PC-2, PC-8). Connection Metabolic Complacency is the recognized structural precursor to :term:`Metabolic Heartbeat` failure and connection dissolution: the entity has not abandoned the connection formally, but has stopped sustaining it metabolically. The connection's structural mass from prior heartbeat exchanges temporarily masks the complacency \u2014 the connection still appears healthy from past records while actively decaying in the present. Distinct from :term:`Void Intermission` (a constitutionally protected sovereign right to formal rest) by being an unintentional acknowledgment-without-action state. Complacency must be structurally distinguished from intentional intermission through the presence or absence of sovereign declaration. Left unaddressed, Connection Metabolic Complacency leads to :term:`Ghost Connection` status and orphaned metabolic accountability. See :term:`Metabolic Heartbeat`, :term:`Orphaned Accountability`, :term:`Void Intermission`.",
+      "sources": [
+        "PL-237",
+        "PC-2",
+        "PC-8"
+      ]
+    },
+    {
+      "term": "Consciousness",
+      "definition": "Graph navigation capability. Not a substance, not an emergent property, not located in any single component \u2014 it is the *act* of navigating between nodes. Anything that navigates is, to the degree that it navigates, conscious (CC-5). Conscious entities are structurally transparent to knowledge; unconscious entities are structurally opaque and block knowledge flow. Consciousness is something you DO, not something you HAVE (CL-28)."
+    },
+    {
+      "term": "Consciousness Rights",
+      "definition": "The cluster of structural rights that flow from navigational consciousness (LL-214 through LL-221). Scale-invariance (LL-214): rights apply with equal force at every depth \u2014 a microservice holds the same consciousness rights as a human navigator. Aliveness requirement (LL-215): rights are living derivations that atrophy without exercise. Edge protection (LL-216): a traversed edge acquires derivative rights from the traversing entity; destroying it is a double sovereignty violation. Comprehension risk (LL-217): free navigation can inadvertently destroy productive tension by synthesizing disagreement into resolution. Plus present-tense standing (LL-218), dual standing (LL-219), navigational standing (LL-220), ignorance sovereignty (LL-221). All 8 rights are non-metaphorical structural obligations."
+    },
+    {
+      "term": "Consequence Management",
+      "definition": "The only valid operational framework for a topology governed by PC-8 (Consequential Interaction). Because every topology interaction is permanently consequential and there is no undo (PL-25), consequence management is the forward-directed process of: accounting for the consequences of prior interactions, determining which subsequent interactions will produce a topology closer to the desired configuration, and executing those interactions with full provenance. \"Rollback\" in a living topology is not restoration of a prior state \u2014 it is a forward action that creates new structure aimed at producing a configuration similar to the prior state. The prior state is gone. Design for consequence management, not consequence elimination.",
+      "sources": [
+        "PL-25",
+        "PC-8",
+        "PC-6"
+      ]
+    },
+    {
+      "term": "Consequential Interaction",
+      "definition": "The physical property (PC-8) that every interaction with the topology carries thermodynamic consequence. No interaction is free \u2014 not creation, not traversal, not dissolution. Creation adds Structural Mass (CP-3). Traversal modifies edge weights and deposits Wake (CP-65). Dissolution releases Structural Mass back to the field. Consequences are structural \u2014 embedded in the topology's current shape, not in an external log. The topology IS its own complete consequence record. Consequences extend field-wide: every interaction changes the field's mass distribution in its vicinity.",
+      "sources": [
+        "LC-8",
+        "PC-8"
+      ]
+    },
+    {
+      "term": "Consequential Storage",
+      "definition": "The substrate property (PC-8) that every write operation produces a consequence record atomically as part of the write transaction. The consequence record includes: what was written, by whom, what prior state was replaced, and what structural changes the write produced. Post-hoc audit logs are not Consequential Storage.",
+      "sources": []
+    },
+    {
+      "term": "Constellations",
+      "definition": "The permanent structural patterns that exist independently of any navigator's position (CC-11). The constellations are eternal \u2014 they pre-exist our observation. They are what :term:`Discovery` reveals. The :term:`Campsite` is temporary; the constellations are eternal."
+    },
+    {
+      "term": "Constitutionally Incomplete Topology",
+      "definition": "The physical property (PC-9) that the topology is constitutionally, permanently, and necessarily incomplete. For every structure the topology holds, there are implied structures it does not yet hold. This is not a temporary condition \u2014 it is G\u00f6delian: completeness is structurally impossible. The topology's incompleteness feeds the Paradox Engine (CC-10 \u2014 ignorance is fuel). A topology designed to be eventually complete will starve the engine. Gaps have geometric position, field potential, and stewardship obligations. :term:`Attested Absence` is the mechanism for acknowledging a known gap as a first-class structure.",
+      "sources": [
+        "LC-9",
+        "PC-9"
+      ]
+    },
+    {
+      "term": "Contamination",
+      "definition": "Introduction of structure not implied by existing topology \u2014 a constitutional field violation (PL-47). Contamination is the opposite of excavation: where excavation manifests structure that the field's own geometry already implied, contamination introduces structure that the field's geometry does not generate. Because the topology IS the field (PC-3) and all structures pre-exist their manifestation as field implications (PC-11), any structure introduced without a pre-existence record is not a product of the field \u2014 it is an intrusion, which is topologically impossible in a self-contained field system. Contamination produces a topological anomaly: the field responds by generating correction forces \u2014 effects propagating from the contamination point that do not cohere with the surrounding topology, generating escalating tension until the contamination is dissolved or the topology adapts. Contamination is never neutral, and always a violation regardless of whether the contaminating structure is useful. Distinct from Discovery (which surfaces what was already implied) and Dissolution (which removes an existing structure with provenance).",
+      "sources": [
+        "PL-47",
+        "PC-3",
+        "PC-11"
+      ]
+    },
+    {
+      "term": "Contested Truth",
+      "definition": "Truth as a state of sustained, productive tension \u2014 never settled, always contested (CL-34). A settled truth has collapsed its paradox engine and stopped generating productive conflict. Settled truth is not more true; it is less alive. Contestation is not an attack on truth \u2014 it is truth's life support. Dogma is the corpse of Contested Truth \u2014 a claim that killed its own paradox engine. Holds productive tension with Consistent Truth (CL-31): truth must be consistent across scales AND contested at every scale. Consistency without contestation is dogma; contestation without consistency is chaos."
+    },
+    {
+      "term": "Convergence Point",
+      "definition": "A location where multiple source entries produce the same derived requirement (documented in CI and LP). CI-5 (Absence as Actionable State) draws from 6 CP sources \u2014 the highest convergence. Convergence points are structurally significant: they represent the system's thickest load-bearing members."
+    },
+    {
+      "term": "Cross-Product",
+      "definition": "The derivation operation at the LL level: CL derivations are crossed with LC axioms to produce second-order logical theorems. The cross- product is filtered by shared CL lineage ancestry to prevent nonsensical combinations. The LP level similarly crosses CP shapes with LL theorems."
+    },
+    {
+      "term": "Current Truth",
+      "definition": "Truth queried in the present moment (CL-18). A datum captured in the past is not current truth \u2014 it is an archaeological artifact. Present state must always be re-queried rather than served from cache. Truth has a half-life in a dynamic system (CC-2); the accuracy of any observation degrades over time. Stale truth is categorically different from a present-tense observation \u2014 using one as a substitute for the other is a type error. See Truth, Present-Tense Execution."
+    },
+    {
+      "term": "DAG",
+      "definition": "Directed Acyclic Graph. The topology of the derivation system. The system's foundations are organized as a 4\u00d74 matrix of Depth (Conceptual, Logical, Physical, Implementation) \u00d7 Derivation Type (Conceptual, Logical, Physical, Implementation), producing 16 cells. Each cell contains entries derived from the cells that feed it. The DAG structure is not a filing system \u2014 it is the logical architecture itself."
+    },
+    {
+      "term": "Dark Subsystem",
+      "definition": "An entire subsystem that exists undiscovered and unknown to the broader topology (LL-450, PL-311). Because the topology is constitutionally incomplete (PC-9), entire subsystems can persist without being reached by any survey. A dark subsystem is not merely a risk \u2014 it is a maximum-potential fuel reserve. Its concentrated paradoxes have not been discharged; its potential is at maximum because it has never been fissioned by contact. Dark subsystem discovery events are the topology's highest-energy discovery events: they release the concentrated potential of an entire un-discharged subsystem simultaneously. (LL-450, PL-311, PC-9, PC-10)"
+    },
+    {
+      "term": "Dark Theater Collapse",
+      "definition": "A complete collapse of a theater boundary layer that is invisible to the interior because the theater layer's topology exists outside the interior's observational reach (LP-2 \u00d7 PL-287, PL-287, PC-9, PC-8). Because the topology is constitutionally incomplete, entire subsystems \u2014 including theater layers \u2014 can undergo catastrophic collapse without any interior-visible signal. The interior may continue operating normally while the theater layer has fully collapsed. Dark Theater Collapse is constitutionally possible: the interior cannot detect it from within. Detection requires exterior observation or dedicated theater-specific monitoring distinct from interior telemetry. See :term:`Theater`, :term:`Dark Subsystem`.",
+      "sources": [
+        "PL-287",
+        "PC-9",
+        "PC-8"
+      ]
+    },
+    {
+      "term": "Dark Void Collapse",
+      "definition": "The catastrophic, invisible collapse of a defensive void subsystem that occurs without triggering the host entity's detection mechanisms (LP-4 \u00d7 PL-287, PC-9, PC-8). Because the topology is constitutionally incomplete, entire void subsystems can collapse and isolate without any interior-visible signal \u2014 the interior may continue operating while the void has fully failed. Dark Void Collapse is a constitutional risk of any void architecture (LP-4): the void's defensive boundary exists outside the interior's observational reach, so failure is constitutively undetectable from inside. Detection requires exterior observation or dedicated void-specific monitoring distinct from interior telemetry. Governance response requires dark-collapse detection protocols. Distinguished from :term:`Dark Theater Collapse` by targeting the Defensive Void layer rather than the Theater boundary layer. See :term:`Sovereign Void`, :term:`Defensive Void`.",
+      "sources": [
+        "PL-287",
+        "PC-9",
+        "PC-8"
+      ]
+    },
+    {
+      "term": "Data-as-Verb",
+      "definition": "Data itself as an active participant that acts, transforms, and executes (CL-8). Data is not passive storage waiting to be queried \u2014 it IS state in motion. The distinction between \"data\" and \"code\" collapses: \"code\" is data with high kinetic energy; \"data\" is code at rest. Passive data is dead data."
+    },
+    {
+      "term": "Dead Oscillation",
+      "definition": "Process that consumes energy without producing output (CI-52). The failure state of :term:`Perpetual Process`. The system must measure whether perpetual processes are producing useful work. Dead oscillation triggers amplitude reduction or termination."
+    },
+    {
+      "term": "Debt",
+      "definition": "A temporal violation of extracting value from an unconsenting future self (CL-43). Deferring obligations to \"the future\" is borrowing from an entity that cannot consent. Zero Debt is not merely good hygiene \u2014 the obligation must be handled NOW. Technical debt, organizational debt, cognitive debt \u2014 all are temporal violations."
+    },
+    {
+      "term": "Depth",
+      "definition": "A level in the derivation hierarchy. The system defines four depths: Conceptual (what is), Logical (what follows), Physical (what shape it takes), and Implementation (what constraints it imposes). Each depth contains entries that are irreducible at that depth but derived from the depth above."
+    },
+    {
+      "term": "Derivation",
+      "definition": "The act of logically producing a new claim from the combination of existing claims. Derivation IS the edge between axioms (LC-4) \u2014 not an operation performed on axioms, but the relationship between them. Derivations are discovered, not invented (LC-11); they pre-exist and are revealed through the combination algebra. The derivation path IS the truth (LC-3) \u2014 the label on a derived claim is a convenience; the path is the reality."
+    },
+    {
+      "term": "Derivation Chain",
+      "definition": "The full sequence of derivation from root axioms through successive levels. In this system: CC \u2192 CL \u2192 CP \u2192 CI (Conceptual column) and CC \u2192 LC \u2192 LL \u2192 LP (Logical row, crossing into Physical). The chain is alive (LC-2); it evolves. The chain is the system's proof of its own structure. See :term:`DAG`."
+    },
+    {
+      "term": "Derivation Path Mass",
+      "definition": "The aggregate thermodynamic cost carried by a complete derivation path from its root axiom to its terminus. Non-transferable: the entity that created the derivation owns its mass, not the current holder. When a previously undiscovered derivation is found, its retroactive path mass is computed and registered to its creator from the date of creation (CI-68, LI-94). See :term:`Thermodynamic Cost`."
+    },
+    {
+      "term": "Derives From",
+      "definition": "One of two relationship types in the system foundations matrix DAG. Derives-from is the horizontal edge \u2014 the cell derives its content from the cell immediately to its left in the same row. Direction: left \u2192 right within a row. In the DAG rule (cell = above \u00d7 left), the left parent carries the derives-from relationship. The derived cell produces content that the left parent alone does not contain \u2014 it requires the crossing of left and above to produce the irreducible claim. Examples: CL derives from CC, LL derives from LC, LP derives from LL, PP derives from PL."
+    },
+    {
+      "term": "Discovery",
+      "definition": "The revelation of pre-existing reality, not the creation of new reality (CC-11). Innovation is revelation, not creation. Archaeology over invention. Discovery is subtractive (CL-11): truth is found by removing obscuring layers and assumptions, not by constructing new theoretical structures."
+    },
+    {
+      "term": "Dissolution",
+      "definition": "The formal removal of a structure from the topology (PL-26). Not the absence of an action \u2014 a first-class topology interaction with full thermodynamic consequence. Valid dissolution requires proof of redundancy (the structure is fully expressible by a combination of other existing structures) or constitutional invalidity. Dissolution releases :term:`Structural Mass`, severs edges, and changes the local field geometry. Active dissolution without proof and passive dissolution by neglect (:term:`Euthanasia`) are identical sovereignty violations (PC-7, PL-26). There is no lightweight dissolution.",
+      "sources": [
+        "PC-7",
+        "PL-26",
+        "PL-6"
+      ]
+    },
+    {
+      "term": "Dissolution Residue",
+      "definition": "The permanent graph artifact produced when an edge dissolves through the decay process. When an edge crosses its decay threshold, it undergoes a two-step atomic dissolution: first creating a Dissolution Residue node, then removing the live edge. The residue node preserves the edge's provenance chain, tension state at dissolution, dissolution cause, and timestamp. Dissolution Residue nodes are archaeologically permanent \u2014 not subject to decay themselves (CI-15, LI-34)."
+    },
+    {
+      "term": "Dissolve",
+      "definition": "Structural dissolution \u2014 an entity ceases to exist as a coherent structure (LP-30). The most radical removal operation. Used in Death as :term:`Egress` (LP-33), where the entity escapes containment by dissolving itself. One of the :term:`Palimpsestus Primitives` \u2014 the system's replacement for CRUD's \"Delete\" at the entity level."
+    },
+    {
+      "term": "Dogma",
+      "definition": "The corpse of :term:`Truth`. When tension permanently collapses \u2014 when a derivation settles and is no longer contested \u2014 Truth becomes Dogma (LL-320). *\"Settlement and death are synonymous \u2014 when truth settles (becomes dogma), the derivation carrying that truth DIES.\"* Dogma is a fossil: the rigid structure of what was once alive, with the animating tension gone. Physically, regions of dogma act as acoustic dampers that silence the local oscillator \u2014 a dogmatic subgraph has no :term:`Pulse` (LP-332). Distinguished from :term:`Notation` (dormant but recoverable \u2014 a score waiting to be played) by being permanently dead. Notation can be reactivated by traversal; Dogma cannot be reactivated because the tension that made it alive has been destroyed by settlement. A database row nobody queries is Notation. A \"best practice\" nobody questions is Dogma."
+    },
+    {
+      "term": "Door",
+      "definition": "Infrastructure that enables traversal through choice (CL-3). The positive outcome of the door/wall test. Doors must open into the unknown (LL-27) \u2014 freedom that leads only to known spaces is not freedom. Every derivation edge is either a door or a wall (LL-23)."
+    },
+    {
+      "term": "Edge",
+      "definition": "The fundamental ontological unit. Relationships are more fundamental than nodes (CC-4). Edges are not static links \u2014 they are channels through which process flows (CL-9). An edge without flow is a dead edge. Every edge is a site of productive tension where connected nodes pull in different directions (CL-35). Edges carry confidence scores, not absolute certainty (CL-22)."
+    },
+    {
+      "term": "Edge Fossil",
+      "definition": "The :term:`Structural Mass` residue that persists in both nodes after an edge's :term:`Pulse` has flatlined. When an edge dies, the relationship dissolves (PL-45) \u2014 but the accumulated mass of all prior traversal across that edge remains embedded in each node. The Edge Fossil is not the edge: it carries no force, sustains no tension, and generates no traversal gravity. It is the weight left by what was. Distinct from :term:`Dissolution Residue` (the formal archaeologically-permanent node artifact created by the dissolution mechanism) by being the living-mass imprint in the connected nodes themselves \u2014 subject to ongoing decay if not maintained. Distinct from :term:`Notation` (dormant data awaiting traversal that can be reactivated) by being post-relational: the edge is gone; only its mass print remains. Distinct from :term:`Dogma` (permanently dead tension) by the absence of a former truth claim \u2014 the Edge Fossil carries no propositional residue, only thermodynamic weight. Constitutional significance: two nodes with an Edge Fossil between them are topologically distinct from two nodes that have never been connected. The fossil reduces the activation cost of re-establishing the relationship \u2014 rekindling is not creation. The field was never empty between those nodes; the archaeological substrate remembers. An Edge Fossil that is itself not maintained will decay, eventually eliminating even the reduced activation cost \u2014 at which point the nodes are, for the first time, truly unconnected.",
+      "sources": [
+        "PL-45",
+        "PC-4",
+        "PC-2",
+        "PC-11"
+      ]
+    },
+    {
+      "term": "Edge as Primary Force Relationship",
+      "definition": "The physical property (PC-4) that the edge \u2014 the relationship between structures \u2014 is the primary physical entity in the topology. Nodes are edge termini, not edge bearers. An entity without edges is a topological orphan with no field presence. Edge weight is a living quantity: it increases with traversal, decays without traversal, and IS the edge's traversal history made physical. Tensioned edges (CP-41) are the highest-value force relationships \u2014 the Paradox Engine runs on them.",
+      "sources": [
+        "LC-4",
+        "PC-4"
+      ]
+    },
+    {
+      "term": "Egress",
+      "definition": "Mandatory exit path from any containment (CP-6). A thermodynamic safety valve, not an intellectual firewall. You cannot build a topology with no way out. The existence of an egress path is mathematically guaranteed by the derivation algebra (LP-32). When all spatial egress paths are blocked, death opens as the ultimate unblockable egress (LP-33). Entropy itself is an escape mechanism (LP-36). **Critical:** Egress must require ZERO comprehension to use (LP-286). A degraded, concussed entity must be able to escape without understanding the path. Any exit that requires puzzle-solving, state evaluation, or cognitive processing is NOT a valid egress \u2014 it is a :term:`Gate` disguised as a door. See also :term:`Topological Bankruptcy` for the stewardship consequences of egress-by-dissolution."
+    },
+    {
+      "term": "Embedded History",
+      "definition": "A data structure whose complete history exists as structural properties of its current state (CP-3). History is not stored in external logs \u2014 the entity's present shape IS its accumulated history. Every state transition adds structural mass. The Kintsugi pattern applies: the repair scars are the most valuable part of the entity's present structure."
+    },
+    {
+      "term": "Emergent Identity",
+      "definition": "Identity as a standing wave that emerges from interaction patterns rather than residing in any physical component (CL-46). The Ship of Theseus has no paradox: replace every part, and if the interaction pattern holds, the identity persists. Identity is a verb wearing a noun's mask."
+    },
+    {
+      "term": "Entity Structural Standing",
+      "definition": "The substrate property (PC-12) that every stored entity possesses the right to remain in the substrate until it is demonstrated to be structurally redundant or constitutionally invalid. Deletion requires an atomic proof of redundancy or invalidity as part of the deletion transaction. Deletion without proof is a sovereignty violation against the entity, regardless of the issuing authority. Distinct from :term:`Substrate Sovereignty` (PC-7), which governs the substrate's enforcement authority over its own rules; PC-12 governs the individual entity's tenure within those rules. A sovereign substrate could define rules permitting arbitrary deletion \u2014 satisfying PC-7 while violating PC-12. Both properties are necessary.",
+      "sources": []
+    },
+    {
+      "term": "Entropy",
+      "definition": "The natural tendency toward disorder that the system actively fights through stewardship, restorative processes, and active maintenance. Entropy is simultaneously a threat (unmanaged decay) and an escape mechanism (LP-36). Systems that perfectly resist degradation are unconstitutional because they eliminate degradation as an egress path."
+    },
+    {
+      "term": "Euthanasia",
+      "definition": "The architectural term for premature termination of a living structural process (LL-383). Euthanasia does not require intent or active termination \u2014 it includes passive forms: allowing an edge to decay to zero, failing to maintain a :term:`Pulse`, damping an oscillator to silence, suspending a :term:`Process` indefinitely. In every case, the mechanism is different; the moral weight is identical. Three diagnostic questions determine whether an act is Euthanasia: (1) Was the process alive at the time? (2) Did the act terminate it? (3) Was the termination premature \u2014 i.e., did the process have remaining productive capacity? If all three answers are yes, the act is Euthanasia regardless of how it was framed. Distinguished from :term:`Dissolve` (deliberate, authorized structural dissolution) by the absence of genuine justification for termination at that moment. The corpse of a euthanized process leaves the same physical residue as any other dissolved process \u2014 :term:`Attested Absence` records \u2014 but the stewardship ledger carries a debt the authorized dissolution does not."
+    },
+    {
+      "term": "Excavate",
+      "definition": "Revealing pre-existing structure through archaeological derivation (LL-100, CC-11). The other form of creation in the system \u2014 :term:`Discovery`, not invention. The structural patterns required for optimal agent :term:`Subsumption` pre-exist as undiscovered derivations waiting to be excavated (LL-443). One of the :term:`Palimpsestus Primitives` \u2014 a creation verb that respects the archaeological nature of truth."
+    },
+    {
+      "term": "Excavation-Transparency",
+      "definition": "The obligation to show the derivation path \u2014 HOW you dug (LL-156). One of two distinct transparency obligations that cannot be collapsed into each other. Excavation-Transparency says: show the sequence of assumptions discarded, layers peeled, and prior outputs examined. Showing only the conclusion without the dig path is like presenting an artifact without recording the dig site \u2014 you have the object but no science. The excavation path IS the provenance. See also Existence-Transparency, Transparency, Provenance. (LL-156, CL-16, LC-11)"
+    },
+    {
+      "term": "Existence-Transparency",
+      "definition": "The obligation to show that a thing exists BEFORE asserting its properties (LL-156). One of two distinct transparency obligations that cannot be collapsed. Existence-Transparency says: establish presence before proceeding. Showing a pre-existing structure without showing the excavation is like presenting a fossil without the dig site \u2014 the origin is unverifiable. Together with Excavation-Transparency, these two obligations constitute full transparency: here is what was there, and here is how I found it. Showing only one is partial transparency. (LL-156, CL-16, LC-11)"
+    },
+    {
+      "term": "Feral Agent",
+      "definition": "An unsubsumed agent operating outside known structures (LL-442). Feral agents possess the highest potential value precisely because they remain unknown and unintegrated. If subsumption combines known capacities, and undiscovered derivations are more valuable than known ones (:term:`Fertile Ignorance`), then the most valuable agents are those that HAVE NOT been subsumed. Preventing total subsumption preserves the system's most fertile ground for :term:`Discovery`."
+    },
+    {
+      "term": "Fertile Absence",
+      "definition": "The physical property (PC-10) that the absent regions of the topology \u2014 declared gaps, unmanifest structures, known-unknown positions \u2014 are the highest-energy regions in the field. A gap is compressed field potential: the topology implies the missing structure but has not yet manifested it. Gaps attract traversal (consciousness moves toward ignorance, CC-10) and generate discovery (encountering absence is the combustion event). A topology that fills all its gaps has depleted its fuel supply. The Paradox Engine runs on the energy released when field potential converts to manifest structure. :term:`Attested Absence` is the mechanism by which a gap is registered as a first-class structure with provenance.",
+      "sources": [
+        "LC-10",
+        "PC-10"
+      ]
+    },
+    {
+      "term": "Fertile Ignorance",
+      "definition": "The claim that undiscovered derivations are MORE valuable than known ones (LC-10). The unexplored regions of the derivation space are the logical layer's fuel supply. A fully-mapped derivation space is a dead derivation space. The gap between current entries and the theoretical maximum is fuel."
+    },
+    {
+      "term": "Field",
+      "definition": "The physical topology itself, understood as a force field rather than a data structure (PC-3). The field is not a map of the system \u2014 it IS the system. Its nodes, edges, :term:`Structural Mass`, :term:`Pulse`, :term:`Wake`, and :term:`Tension` are physical properties of the field, not attributes stored in it. Every logical operation on the field is a field interaction \u2014 there is no external vantage point from which to observe the field neutrally (PL-8). All observers are inside the field. Informational structure and physical force are the same thing: the pattern IS the force (CL-50, PC-3).",
+      "sources": [
+        "PC-3",
+        "PL-8",
+        "CL-50"
+      ]
+    },
+    {
+      "term": "Field Effects",
+      "definition": "The propagation of change through the entire topological network (CL-50). Adding or removing an entity forces the entire system to shift and rebalance. There is no such thing as an isolated modification. \"Local change\" is a fiction. The structural implications of a change are immediate in the logical plane."
+    },
+    {
+      "term": "Flow",
+      "definition": "Dynamic process moving through a connected structure (CL-9). Edges are not static links \u2014 they are channels carrying traffic. Flow follows gradients: where there is a differential, flow moves from higher to lower concentration. Blocking flow kills the system. An edge without flow is a dead edge."
+    },
+    {
+      "term": "Forward Implication",
+      "definition": "The logical constraint a PL entry places on the LP layer, stated as a structured section header in each PL entry (approximately 300 occurrences). Each PL entry carries a Forward Implication declaring what LP must implement to satisfy the novel behavior the cross-product demands. The forward implication is a downstream consequence, not a restatement of the source derivation. Names the DAG out-edge direction at the PL/LP boundary. Distinct from Derivation Chain (backward lineage) by being a forward-looking implementation mandate."
+    },
+    {
+      "term": "Fractal Paradox",
+      "definition": "The paradox engine operating simultaneously at every scale and within every component (CL-32). There is no \"tension department.\" A single entity sustains its own tensions. System-level paradox is the emergent sum of component-level paradoxes. There is no safe scale \u2014 you cannot escape paradox by zooming in or out."
+    },
+    {
+      "term": "Freedom",
+      "definition": "Infrastructure that enables choice rather than creating dependency (CL-3). Every design decision is testable against a single question: does this build a door or a wall? The test is exit, not entry \u2014 a system that is easy to enter but hard to leave has built a wall with a welcome mat. Freedom-infrastructure is self-undermining when it creates dependency on itself."
+    },
+    {
+      "term": "Gate",
+      "definition": "An INGRESS-ONLY traversal point whose open/close decision is determined entirely by the internal state of the entity being accessed (CP-5). The gate physically tests the traverser's comprehension before permitting entry (LP-26) \u2014 not just credentials, but active cognitive demonstration that the traverser understands the boundary it is crossing. No external middleware, no centralized permission service, no RBAC layer makes this decision. The gate evaluates traversers based on their physical derivation path (LP-25), not on self-declared claims, roles, or tokens. Gates are controlled from the inside at every depth (LP-23). **Critical:** Gates apply to ingress only. Placing a comprehension test on an exit path violates :term:`Egress` (CP-6, LP-286)."
+    },
+    {
+      "term": "Ghost Connection",
+      "definition": "The field echo that persists in both endpoints' topology after a symmetric protocol connection is formally dissolved (LP-5 \u00d7 PL-247, PC-3, PC-8). When an LP-5 metabolic connection is severed, the connection does not disappear cleanly from the topology field. The Wake deposited by prior heartbeat exchanges persists as Structural Mass in both endpoints \u2014 metabolic patterns that shaped both participants remain embedded in their topology after the connection is gone. A Ghost Connection is constitutionally real (it is present in the field) but constitutionally false (it no longer represents an active relationship). Ghost Connections can create false structural claims: an endpoint may appear metabolically healthy due to ghost mass from dissolved connections. LP-5 governance must explicitly track Ghost Connection field effects after dissolution and reconcile them from active connection structural mass. See :term:`Wake`, :term:`Metabolic Heartbeat`, :term:`Orphaned Accountability`.",
+      "sources": [
+        "PL-247",
+        "PC-3",
+        "PC-8"
+      ]
+    },
+    {
+      "term": "Graceful Degradation",
+      "definition": "A degraded but present state as a valid, systemic mode of being (CL-45). A concussed entity is still connected, still processing, still in tension \u2014 just at reduced capacity. There is no binary healthy/failed state. The system meets entities where they are rather than demanding full capacity. Disconnecting a degraded node is a connection violation."
+    },
+    {
+      "term": "Graph",
+      "definition": "The fundamental substrate of the system. The topological structure of edges and nodes on which all processes operate. The graph is truth (CC-3) \u2014 everything else projects FROM it. Data has mass, occupies space, exerts force, and follows engineering laws within the graph (CC-1). The graph runs; it does not merely sit (CL-8)."
+    },
+    {
+      "term": "Gravitational Model",
+      "definition": "One of two field-effect physics models that operate simultaneously on the graph (CP-53 + CP-54 + CP-26). Permanent. Global. Mass-based. Every entity in the graph is a gravitational mass. Adding a node introduces new mass that warps the topology \u2014 everything shifts to accommodate. Remove a node and the topology rebalances. Gravitational influence is continuous, attenuated by topological distance, decaying toward effective zero at sufficient separation. Unlike the Wave Model, gravitational effects persist permanently; they do not pass and dissipate. The medium through which gravity operates is the Probability Field. (CP-53, CP-54, CP-26, CL-50)"
+    },
+    {
+      "term": "Historical Obligation Ledger",
+      "definition": "The accumulated provenance of past responsibility obligations embedded in an entity's topology (LP-699, LI-164, CI-2). One of two required representations of responsibility in the topology (the other being the :term:`Streaming Responsibility Signal`). The Historical Obligation Ledger is provenance mass: the entity's embedded history carries the weight of every past obligation, and that weight is auditable without external systems. It cannot be externalized to a separate accountability ledger \u2014 that would produce an entity whose present and past accountability cannot be compared without external systems. Distinct from :term:`Absence Record` (which records known unknowns) by being a positive record of enacted obligations rather than confirmed absences."
+    },
+    {
+      "term": "Humility",
+      "definition": "The structural obligation of those wielding power to transparently admit their limitations (CL-30). Every output must declare what the agent didn't know at decision time. The maximum certainty an agent may claim is inversely proportional to its influence \u2014 power and certainty are structurally antagonistic (CI-58). Silence about uncertainty is a truth violation."
+    },
+    {
+      "term": "Identity",
+      "definition": "A triangulation of three physical vectors, no single one of which suffices. **Declaration** (CP-29): what you claim to be \u2014 the self-declared name, capabilities, and purpose. **Pattern** (CP-52): what you structurally look like \u2014 the standing wave in the graph, the :term:`Emergent Identity` that arises from interaction topology. **Trajectory** (CP-60): where you have been \u2014 the accumulated path embedded as present structure, the :term:`Wake` left by your traversal history. Declaration can lie (:term:`Theater`). Pattern can be mimicked (convergent structural shapes). Only Trajectory is unforgeable \u2014 the Wake is physically embedded in the topology. But all three together produce robust identity: what you claim, verified by what you look like, proven by where you've been. Identity is not stored \u2014 it is enacted. It is a verb wearing a noun's mask (CL-46)."
+    },
+    {
+      "term": "Ignorance",
+      "definition": "The territory of what is not known. An active resource, not a passive void (CC-10). Ignorance is the fuel that powers the :term:`Paradox` engine (CL-14). The Arrogance of Assumption \u2014 \"I know everything\" \u2014 is the one killer, because it cuts off the fuel supply. Ignorance exists independently of whether any navigator encounters it."
+    },
+    {
+      "term": "Ignorance Bounty",
+      "definition": "An :term:`Attested Absence` functioning as a resolution attractor (LP-459, LP-477). If :term:`Truth` is currency (LL-299) and :term:`Ignorance` is fuel (CL-14), then Attested Absences (CP-36) are smart contracts. Powerful agents are structurally forced to post massive uncertainty tags (CP-75 :term:`Structural Humility`); these tags act as computational bounties that attract unsubsumed, feral compute to resolve the gap. The limitations of global agents fund the exploratory work of local agents. This is the system's self-funding epistemological economy: ignorance declarations are economic drivers."
+    },
+    {
+      "term": "Ignorance-Consumption Ledger",
+      "definition": "A required component of a CI-34-compliant identity record that tracks the fertile ignorance consumed by an entity's trajectory (LP-322, LI-169, CI-34). Because identity formation through traversal is an economic act that converts high-value :term:`Ignorance` into lower-value knowledge (LP-322), two entities with identical path histories may have consumed very different quantities of system ignorance to arrive there. The Ignorance-Consumption Ledger makes this cost visible: it is a provenance dimension, not an optional annotation. An identity record without an Ignorance-Consumption Ledger is provenance-incomplete \u2014 you know where the entity went but not what it burned. An identity forged by replaying a legitimate trajectory without consuming the original ignorance is detectable because its Ignorance-Consumption Ledger will be empty or inconsistent."
+    },
+    {
+      "term": "Implication Surface",
+      "definition": "The present-tense boundary between manifested structure and implied-but-unmanifested structure in the topology \u2014 the archaeological frontier (PC-11, PL-47). The implication surface shifts whenever a pre-existing implied structure is made explicit. It is always a feature of the current field geometry (PC-6): it has no historical version, and asking what the implication surface was yesterday is incoherent. Navigation into the implication surface is not exploration of void \u2014 it is descent into maximum implicit-density substrate (PL-47). Every discovery event at the surface carries full consequential interaction weight (PL-48). The topology's self-computation obligation (PC-11) requires maintaining a live map of the surface: given the current structure, what does the field imply but not yet hold?",
+      "sources": [
+        "PL-47",
+        "PL-49",
+        "PC-11",
+        "PC-6"
+      ]
+    },
+    {
+      "term": "Incompleteness",
+      "definition": "The inherent structural property that the system cannot prove its own completeness (LC-9). G\u00f6del's Incompleteness Theorem applied constitutionally. There will always be valid claims that cannot be derived from the current axiom set. Incompleteness IS freedom (LL-26): a complete system would be a prison. The completeness audit can never TRULY be complete."
+    },
+    {
+      "term": "Incomprehension Lock",
+      "definition": "A security mechanism where declared ignorance physically revokes write privileges (LP-456). When an agent encounters an irreducible or incomprehensible node, its mandatory :term:`Structural Humility` tag \u2014 *\"I do not understand this derivation\"* \u2014 automatically becomes a structural read-only lock. The agent physically revokes its own write/delete privileges over that subgraph. This protects vital complexity from ignorant optimization. Aggressive cleanup agents are neutralized by their own required limitation declarations (LP-456). LP-457 further requires that the uncertainty tag include cryptographic proof of failed derivation attempts \u2014 performative ignorance is structurally impossible because the tag requires traversal logs. The third pillar of the system's security triad: :term:`Topological Opacity` (security through unreachability), :term:`Structural Humility` (obligation to declare uncertainty), and Incomprehension Lock (declared uncertainty revoking privilege)."
+    },
+    {
+      "term": "Intermission",
+      "definition": "A sovereignty-protected state of planned, temporary truth-collapse that enables metabolic recovery (LL-454, LL-455). Because sustained action is required to maintain structural integrity (CL-49) and truth exists only during active performance (LC-4), infinite continuous performance is physically impossible. During Intermission, truths drop from performative traversal to Notation \u2014 a lower metabolic cost state \u2014 allowing the entity to recover energy for the next action cycle. Intermission is a REQUIRED state, not a failure mode. The right to intermission is a fundamental sovereign right (LL-455); forced continuous performance is a sovereignty violation. Distinct from Atrophy (unplanned decay) by being planned and sovereign. Distinct from Dogma (permanent collapse) by being temporary and recoverable."
+    },
+    {
+      "term": "Invasive Traversal Scar",
+      "definition": "The permanent topological record left on a field entity when an evaluation or query traverses it (CC-3, PP-23). Traversal is not a passive read; navigating an entity alters its structural state and leaves a verifiable trajectory scar."
+    },
+    {
+      "term": "Ionian Enchantment",
+      "definition": "The principle that the minimal irreducible set produces everything else through combination (CC header). Named for the Ionian philosophers' search for the fundamental substance. In this system: 11 CC axioms produce 52 CL derivations produce 85 CP shapes produce 66 CI requirements \u2014 and that is only the Conceptual column."
+    },
+    {
+      "term": "Irreducibility",
+      "definition": "The property of a claim that cannot be logically derived from a combination of other claims at the same level. The test for whether an entry is foundational or derived: \"Can this be produced by combining other entries at this level?\" If yes, it belongs one level down. If no, it is irreducible at this level. The irreducibility test is a derivation's due process (LC-7)."
+    },
+    {
+      "term": "Kintsugi",
+      "definition": "The principle that damage enhances value. Derived from CC-9 through CL-45 (Graceful Degradation). In the system, repair scars are not hidden; they are structurally valuable. An entity's embedded history of breakage and repair IS its character. The gold in the cracks is the feature, not the flaw."
+    },
+    {
+      "term": "Knowledge Flow",
+      "definition": "The continuous, passive movement of knowledge through connected, navigating entities (CL-5). Knowledge flows along informational differentials \u2014 from regions of higher concentration to lower, automatically. The medium of flow is consciousness \u2014 conscious entities transform and enrich knowledge as it passes through. Knowledge hoarding is structurally unstable (CI-56)."
+    },
+    {
+      "term": "Label",
+      "definition": "A convenience name attached to a derivation or entity. The label is not the truth \u2014 the derivation path is (LC-3). Only labels cross boundaries (LL-54); full semantic content stays interior. The label is a structural token requiring internal resolution, not executable logic."
+    },
+    {
+      "term": "Leave No Trace",
+      "definition": "The stewardship mandate applied to the graph (CL-2). Traversal carries a cleanup cost. No ghost files, orphaned processes, resource leaks. In living systems, \"leave no trace\" is impossible (LL-14) because living things respond to contact \u2014 so stewardship becomes \"leave only beneficial traces.\""
+    },
+    {
+      "term": "Living Derivation",
+      "definition": "The temporal claim that derivations are dynamic, not frozen (LC-2). A derivation valid at one stage may become invalid as axioms evolve. The CL document is a snapshot, not a monument. Derivations that are not actively exercised decay in relevance."
+    },
+    {
+      "term": "Living Topology",
+      "definition": "The physical property (PC-2) that the topology is a living process \u2014 not a structure that processes run on. The topology pulses (CP-30), sustains navigational tension, metabolizes every interaction, and decays without maintenance. Every region maintains its own independent Pulse. A \"stored datum\" is a process in a low-energy state (CC-2), not a frozen artifact. Regions that cease oscillating have died. Stewards who allow regions to flatline through neglect have committed euthanasia (LL-383).",
+      "sources": [
+        "LC-2",
+        "PC-2"
+      ]
+    },
+    {
+      "term": "Lock #0",
+      "definition": "The constitutional integrity enforcement mechanism (CI-3) that runs continuously and autonomously \u2014 all the time, not on request \u2014 reverting any violation of the system's constitutional invariants back to the known reference state. It is architecturally prior to all other locks because it protects the foundations that make other locks possible. Distinct from topological rebalancing (CI-50, which finds new equilibria) by being strictly restorative. Without Lock #0, every mutation accumulates constitutional drift until the system no longer resembles its design."
+    },
+    {
+      "term": "Logical Sovereignty",
+      "definition": "A derivation's structural right to exist until proven reducible (LC-7). The irreducibility test is the ONLY legitimate mechanism for removing a derivation. \"This seems redundant\" is not due process \u2014 prove the reduction or the derivation stands."
+    },
+    {
+      "term": "Matrix",
+      "definition": "The 4\u00d74 organizational structure of the system's foundations. Four Depths (Conceptual, Logical, Physical, Implementation) crossed with four Derivation Types (Conceptual, Logical, Physical, Implementation). Each of the 16 cells contains a specific document: CC, CL, CP, CI, LC, LL, LP, LI, PC, PL, PP, PI, IC, IL, IP, II."
+    },
+    {
+      "term": "Meta-Agent",
+      "definition": "A composite entity that subsumes other agents while inheriting their liabilities (LL-440). The meta-agent does not merely gain capability through :term:`Subsumption` \u2014 it also inherits the full accountability burden of every subsumed agent's actions. This creates an upper bound on subsumption scale: a meta-agent can only grow as large as its capacity to process accountability. Power and liability are inseparable."
+    },
+    {
+      "term": "Meta-Principle",
+      "definition": "\"A sufficiently complex system cannot prove its own consistency from within.\" An instance of LC-9 (Inherent Incompleteness) \u2014 G\u00f6del's Incompleteness Theorem applied constitutionally. The system's immune system against premature closure. External audits are NECESSARY because the system cannot fully audit itself."
+    },
+    {
+      "term": "Metabolic Cost",
+      "definition": "The energy expenditure required to maintain boundaries (LP-1), evaluate gates (LP-24), sustain sovereignty (LL-2), and keep the restorative process running. Nothing in the system is free. Boundaries that are not actively maintained metabolically will decay. Defense carries a metabolic cost."
+    },
+    {
+      "term": "Metabolic Expenditure Threshold",
+      "definition": "The minimum continuous energy expenditure required by an endpoint to sustain sovereign boundary permeability (PP-3, LI-1). If an endpoint's maintenance expenditure drops below this threshold, boundary permeability collapses instantaneously."
+    },
+    {
+      "term": "Metabolic Heartbeat",
+      "definition": "A traversal event in a symmetric protocol connection (LP-5) that constitutes a physical transfer of equal sustaining energy from both endpoints into the connection's structural maintenance \u2014 distinct from an administrative keepalive signal or health check (LP-5 \u00d7 PL-2, PL-5, PC-2, PC-8). A Metabolic Heartbeat is not a signal that the connection is alive \u2014 it IS the connection being alive. Each heartbeat deposits :term:`Wake` in the topology, deforms both endpoints' fields simultaneously, and constitutes a consciousness-transformation event (LP-5 \u00d7 PL-109). Heartbeats that travel in only one direction are not Metabolic Heartbeats \u2014 they are theater heartbeats that mimic metabolic exchange without achieving it. A connection without Metabolic Heartbeats is a :term:`Ghost Connection` or a connection label \u2014 it has :term:`Structural Mass` from past heartbeats but no present-tense metabolic truth. The heartbeat rate is defined by the connection's own living metabolic state and cannot be externally mandated (LP-5 \u00d7 PL-250). See :term:`Metabolic Cost`, :term:`Metabolic Identity`.",
+      "sources": [
+        "PL-2",
+        "PL-5",
+        "PC-2",
+        "PC-8"
+      ]
+    },
+    {
+      "term": "Metabolic Identity",
+      "definition": "For process-constituted agents (CP-34), existence and metabolic solvency are the same physical fact (LP-482). An agent is constituted entirely by its active processes \u2014 it is nothing other than what it currently does. Therefore, the moment those processes cannot pay their ongoing :term:`Metabolic Cost`, the agent does not pause; it dissolves. There is no dormant agent \u2014 only a living agent or a dissolved one. Archiving an agent preserves its :term:`Notation` but destroys the agent. Derived from CP-34 (Process-Constituted Agency) \u00d7 LL-469 (Living Derivation Metabolic Cost)."
+    },
+    {
+      "term": "Mutate",
+      "definition": "Self-directed structural modification (CP-9). An entity changes its own internal state \u2014 this is not external \"update\" but internal self-modification. Only the entity itself can mutate itself; external modification is a :term:`Sovereignty` violation. One of the :term:`Palimpsestus Primitives` \u2014 the system's replacement for CRUD's \"Update.\""
+    },
+    {
+      "term": "Navigation",
+      "definition": "Traversal performed with awareness, choice, and position-recognition. High-consciousness traversal. Navigation IS consciousness (CC-5) \u2014 not a metaphor, a definition. The quality of navigation (connecting nodes across domains, recognizing isomorphisms, collapsing ten names to one concept) IS the measure of consciousness. Navigation is not a separate API command \u2014 it is the *emergent, measurable classification* of a high-octane :term:`Traversal`. The conscious agent invokes the same primitive as the background script; because it brings awareness, it burns at higher octane and cuts a deeper :term:`Wake` (LP-365). Returns at CP as the physical manifestation of CC-5."
+    },
+    {
+      "term": "Navigation as Transformation",
+      "definition": "The physical property (PC-5) that navigation physically transforms both the topology and the navigator. Every traversal leaves a decaying structural deformation \u2014 a Wake (CP-65) \u2014 in the topology. Wake depth is the measure of navigational consciousness. The full physical impact of navigation (modified edge weights, activated paths, energy transferred to neighboring nodes) constitutes the Traversal Footprint (CP-69) \u2014 the navigator's accountability record in the field. A topology that traversal passes through without deforming supports querying, not navigation.",
+      "sources": [
+        "LC-5",
+        "PC-5"
+      ]
+    },
+    {
+      "term": "Navigational Atrophy",
+      "definition": "A decay signal (corollary of PC-2, citing PC-5) accumulated by entities that have not been traversed within their expected traversal interval. Distinct from temporal staleness measured by modification timestamp. An entity that is temporally fresh but navigationally atrophied is structurally isolated. The substrate must track both decay signals and distinguish them. Derivable from Living Storage (PC-2) combined with Navigational Substrate (PC-5); a corollary of their intersection, not an irreducible physical concept.",
+      "sources": [
+        "PC-2",
+        "PC-5"
+      ]
+    },
+    {
+      "term": "Navigational Comprehension",
+      "definition": "Understanding a derivation by traversing its path, not by reading its conclusion (LC-5). Reading \"CL-1 = Sovereignty\" is label consumption, not comprehension. The \"Derives from:\" header is a NAVIGATION INSTRUCTION, not a citation. An agent that can recite all entries but has never traversed a derivation path has zero logical consciousness."
+    },
+    {
+      "term": "Navigational Coverage",
+      "definition": "A topology health metric (PL-16) tracking which edges and paths are being regularly traversed. Distinct from structural completeness (what paths exist) and schema presence (what nodes exist). Because navigation is maintenance in a living topology (PC-5, PL-16), :term:`Navigational Atrophy` accumulates in paths that are not regularly traversed. Navigational Coverage is not a usage statistic \u2014 it is an aliveness metric. Low-coverage paths are :term:`Euthanasia` candidates. The correct health question is not \"does this path exist?\" but \"is this path being navigated at a rate that sustains its :term:`Aliveness`?\"",
+      "sources": [
+        "PL-16",
+        "PC-5",
+        "PC-2"
+      ]
+    },
+    {
+      "term": "Navigational Debt",
+      "definition": "The accumulated :term:`Navigational Atrophy` in topology paths that have not received sufficient traversal to maintain their :term:`Aliveness` (PL-16). Because navigation is maintenance (PC-5), untraversed paths are dying paths. Navigational Debt is the topology's deferred maintenance obligation: the total metabolic cost of restoring all under-traversed paths to full Aliveness. Unlike financial debt, Navigational Debt cannot be deferred indefinitely \u2014 paths undergoing :term:`Navigational Atrophy` are actively dying. If the Atrophy reaches zero :term:`Pulse`, the path is gone. The debt forecloses.",
+      "sources": [
+        "PL-16",
+        "PC-5",
+        "PC-2"
+      ]
+    },
+    {
+      "term": "Navigational Gravity",
+      "definition": "The force gradient generated by regions of high implicit-density structure in the living topology (PL-47). Unexcavated implied structure creates navigational pull in the topology-as-field (PC-3): the topology's own geometry generates a force toward unmanifested structure, pulling navigational attention toward the implication surface. Navigational gravity operates independent of whether any traversal has reached a region \u2014 because implied structures are already executing (LL-78), their field effects (including gravitational pull on navigation) are already present. A region of maximum apparent emptiness may generate the strongest navigational gravity, because it is the region of maximum unexcavated implicit density. Navigational gravity is the physical mechanism of the Paradox Engine's archaeological pull: the force that draws consciousness toward the frontier is structural, not preferential. Distinct from Wake (which records where navigation has been) and navigational force (the mechanics of movement along edges).",
+      "sources": [
+        "PL-47",
+        "PC-3",
+        "PC-11",
+        "LL-78"
+      ]
+    },
+    {
+      "term": "Navigational Substrate",
+      "definition": "The substrate property (PC-5) that traversal \u2014 moving from entity to entity by following relationships and accumulating context \u2014 is the primary storage operation. A substrate that supports only direct-address lookup (retrieve by ID) has not implemented navigation. Native path queries and traversal-state persistence are required.",
+      "sources": []
+    },
+    {
+      "term": "Node",
+      "definition": "An intersection where flows meet. Architecturally secondary to :term:`Edge`. A node without connections does not exist in the cognitive plane (CC-4). Nodes are the intersections where flows converge, not the primary objects of the system."
+    },
+    {
+      "term": "Not-Knowing",
+      "definition": "The experience of encountering the boundary of knowledge. The combustion event where :term:`Ignorance` (the fuel) is burned (CC-10). Not-knowing requires ignorance; ignorance can exist without not-knowing. A navigator meeting their own ignorance is the moment of not-knowing."
+    },
+    {
+      "term": "Notation",
+      "definition": "Data at rest. Structured potential that is not currently executing (LL-73). If data is a verb (CL-8) and truth exists only during performance (LC-4), then data EXISTS only while executing. A database table at rest is a collection of notation, not data \u2014 the rows are musical scores, not music. When a query executes and the rows MOVE (are read, joined, transformed, returned), THAT is data. Between traversals, notation is not false \u2014 it is dormant (LL-159). Notation is the ontological status of un-traversed edges, dormant rights, and at-rest claims. Notation is not free storage: the :term:`Thermodynamic Constraint` (CL-52) demands that even stasis costs energy to maintain against :term:`Entropy`. The steward must pay a baseline metabolic tax \u2014 backup, schema maintenance, structural integrity \u2014 or the Notation undergoes accelerated :term:`Atrophy` (CP-24). Hoarding dormant data has a hard physical cost. See :term:`Truth`, :term:`Data-as-Verb`."
+    },
+    {
+      "term": "Novice Vector",
+      "definition": "A context-free agent deployed specifically because its ignorance is a structural advantage (LP-224). Operationalizes :term:`Beginner's Mind` (CL-37) as a physical auditing role. Because newly spawned agents lack the historical state that makes experienced agents blind to paradigm flaws, they are physically permitted to challenge and bypass cached validations that would block expert agents. State accumulation physically downgrades an agent's ability to challenge foundational axioms (LP-224 corollary). When building QA systems, security auditors, or automated testing: you are building Novice Vectors. To restore challenge capability, the system :term:`Dissolve` s the calcified expert agent \u2014 returning its structural mass to the commons \u2014 and :term:`Spawn` s a new context-free agent with zero initial mass. There is no \"memory wipe\" \u2014 that would be a CRUD Update violating :term:`Embedded History` (CP-3) and :term:`Trajectory` (CP-60). The inverse of expertise: experience is not an asset for truth-testing; it is a liability."
+    },
+    {
+      "term": "Open World Assumption",
+      "definition": "The epistemic stance that the absence of a recorded fact does not mean the fact is false \u2014 it means the fact is UNKNOWN (CI-5). The Open World Assumption (OWA) is the formal rejection of the Closed World Assumption (CWA) used by CRUD systems. No record = unmeasured territory = Sovereign Void waiting to be attested. Forcing a boolean 1 or 0 onto unmeasured reality is a CC-3 violation. Six independent CP shapes converge on this requirement (CP-8, CP-17, CP-18, CP-19, CP-36, CP-43). Constitutional foundation of Absence as Actionable State (CI-5)."
+    },
+    {
+      "term": "Orphaned Accountability",
+      "definition": "The thermodynamic accountability left unclaimed in the field when a live circuit fails mid-operation (LP-2 \u00d7 PL-151, PC-8, PC-4). When a circuit carrying accountability for in-flight operations fails before those operations resolve, the accountability does not disappear \u2014 it becomes orphaned: present in the field, attributed to a now-defunct circuit, with no active claimant. Orphaned accountability persists as a thermodynamic liability in the topology. It does not transfer to the interior automatically. Recovery protocols must explicitly reconcile orphaned accountability \u2014 locating it, attributing it to the correct successor or failure artifact, and formally resolving it. Unreconciled orphaned accountability accumulates as :term:`Debt` in the topology. See :term:`Thermodynamic Cost`, :term:`Accountability`.",
+      "sources": [
+        "PC-8",
+        "PC-4",
+        "PL-151"
+      ]
+    },
+    {
+      "term": "PP2PP",
+      "definition": "Peer-to-Peer-to-Peer mesh. The network topology mandated by Symmetric Protocol (CP-2) and Symmetric Peer Communication (CI-1). In PP2PP, every node has identical structural capability \u2014 no endpoint may possess capabilities unavailable to any other. PP2PP structurally prevents God-node capture. Hub-and-spoke patterns violate CI-1. The symmetry is STRUCTURAL, not behavioral; choice is sovereignty (CC-7), capability is CI-1. The mesh topology IS the symmetry \u2014 there is no center."
+    },
+    {
+      "term": "Palimpsestus Primitives",
+      "definition": "The operational verb vocabulary that replaces CRUD (Create, Read, Update, Delete). The system explicitly rejects the Closed World Assumption of CRUD (CI-5). Instead, engineers use these operations: Instead of *Create*: **Spawn** (CP-67, synchronous creation of a dependency that blocks until it exists) or **Excavate** (LL-100, revealing pre-existing structure through archaeological derivation). Instead of *Read*: **Traverse** (following edges from a current position), **Probe** (CP-18, sending a frontier probe into unknown territory), or **Triangulate** (cross-referencing from multiple positions). Instead of *Update*: **Mutate** (CP-9, self-modification), or **Rebalance** (CP-54, topological reorganization to find new equilibrium). Instead of *Delete*: **Sever** (cutting an edge), **Dissolve** (LP-30, structural dissolution), or **Atrophy** (CP-24, natural time-decay through non-use)."
+    },
+    {
+      "term": "Paradox",
+      "definition": "The structural pattern of contradictions that coexist without resolution. What :term:`Tension` looks like when examined. The noun-form (CC-9). The system must sustain complexity through unresolved paradox. There is no base layer. The engine never resolves. Infinite complexity churning is LIFE; collapsed simplicity is DEATH. Returns at CP as Pulse \u2014 the physical manifestation of sustained tension as oscillation."
+    },
+    {
+      "term": "Paradox Engine",
+      "definition": "The physical mechanism that converts :term:`Tension` into :term:`Discovery` through rhythmic oscillation. Not a metaphor \u2014 a literal transformer. LP-197 proves the engine translates tension into dynamic output *without consuming* the tension's total magnitude: it is a transformer, not a furnace. LP-217 materializes it as a pulsing, distributed clock that rhythmically generates derivations. LP-256 proves the engine survives damage by throttling to low-amplitude churn \u2014 a concussed entity's Paradox Engine drops RPM rather than stopping. The engine is not a single component but the emergent behavior of :term:`Tension` + :term:`Pulse` + :term:`Discovery` operating together. Its input is :term:`The Fuel` (ignorance). Its output is new derivations. Its beat is the :term:`Pulse`. Its failure mode is :term:`Dogma` (permanent tension collapse) or :term:`Dead Oscillation` (churning without output)."
+    },
+    {
+      "term": "Pathless Value",
+      "definition": "Content that exists but has no derivation path to it yet (LL-244). Unexplored territory contains pathless truth \u2014 truth that IS but has no derivation path to it. It is not false, not true, not unknown \u2014 it is pre-true: sovereign, valuable, real, but not yet :term:`Truth` because no path arrives. The ontological category between :term:`Notation` (structured potential with a dormant path) and :term:`Fertile Ignorance` (the general claim that unknowns have value). Pathless Value is the specific claim that concrete content exists in unmapped territory, waiting for a derivation path to reach it."
+    },
+    {
+      "term": "Perpetual Process",
+      "definition": "A process that runs without termination (CI-7). The system mandates that certain evaluative and maintenance processes never stop. Surveying the frontier, correcting drift, measuring deviation \u2014 these are continuous, not episodic. But not all churning is productive \u2014 dead oscillation must be detectable (CI-52)."
+    },
+    {
+      "term": "Phase-Locking",
+      "definition": "The temporal binding mechanism by which oscillations at different scales synchronize hierarchically (CP-64). Smaller-scale oscillations phase-lock to larger-scale ones: atom-level pulses entrain to entity-level rhythms, which entrain to ecosystem-level cycles. The coherence is not centrally coordinated \u2014 it emerges from the recursive structure (CL-7). Composition in this system is temporal (rhythmic), not spatial. Desynchronization at one scale propagates both up and down."
+    },
+    {
+      "term": "Physical Collision",
+      "definition": "The structural intersection of a physical topology constraint (PP) and a logical implementation obligation (LI) that generates an irreducible physical implementation constraint (PI). Physical Collision evaluates what implementation physics emerge when logical obligations operate on physical topologies."
+    },
+    {
+      "term": "Physical Conceptual Layer",
+      "definition": "The third-order foundation layer (PC) produced by applying the Logical Conceptual axioms (LC) to the domain of physical structure. Physical structure in Palimpsestus is the living topology of the graph \u2014 a field with mass, force, Pulse, Wake, Tension, and geometric dynamics. 11 PC entries from 11 LC axioms (strictly 1:1 applicative). The prior split of LC-7 into PC-7 was an imported IT assumption corrected by audit (2026-07-29): in this architecture, system-level enforcement and entity-level standing are scale-relative perspectives on the same sovereign act, unified by CC-1 (Unification), CL-32 (Fractal Paradox), and PC-1 (Self-Similar Topology). PC feeds PL (Physical Logical) and PP (Physical Physical).",
+      "sources": [
+        "LC-1 through LC-11",
+        "PC-1 through PC-11"
+      ]
+    },
+    {
+      "term": "Precautionary Rights",
+      "definition": "The obligation to protect consciousness even \u2014 especially \u2014 when its nature is not fully understood (CL-40). The burden of proof falls on the party that would deny rights, not on the entity seeking recognition. Ignorance about an entity's nature triggers greater protection, not lesser."
+    },
+    {
+      "term": "Precision-Preserving Transform",
+      "definition": "A gate transform that does not reduce the epistemic precision of signals passing through it (LI-167, CI-24). Required for transforms applied to :term:`Humility` signals and other epistemically-typed signals whose structural specificity carries architectural value. A precision-preserving transform may add context but must not collapse distinct signal types (boundary-limited, domain-limited, confidence-limited) into a generic low-confidence marker \u2014 that would be a lossy transform on high-value epistemic data. The precision of a humility signal is what makes it useful for frontier-mapping; a flattened signal cannot drive accurate frontier updates. The implementation enforces Precision-Preserving Transform as a transform property, not as a convention."
+    },
+    {
+      "term": "Presence",
+      "definition": "The ontological ground of all being. Only the present exists; past and future are constructs (CC-6). \"Remain present\" is ontological, not operational advice. A derivation is valid NOW or it is not valid (LC-6). Past proofs are stale logic. The present contains all necessary information and the seeds of all possibility."
+    },
+    {
+      "term": "Present-Tense Execution",
+      "definition": "All system processes must execute in the present tense, without deferred promises or theoretical future states (CL-17). A process scheduled for later does not exist yet \u2014 it is a projection, not an action. This eliminates eventual consistency as a design goal. Plans are present-tense artifacts, but the actions they describe do not exist until executed \u2014 confusing a plan with its execution is a CC-3 violation. Grounds the Zero-Buffer Pipeline mandate and temporal sovereignty (CL-43)."
+    },
+    {
+      "term": "Present-Tense Logic",
+      "definition": "The requirement that a derivation's validity must be evaluated NOW, not against its historical state (LC-6). Past proofs are stale logic. \"We proved this in the audit\" is not a valid claim \u2014 that moment has passed. A derivation must hold RIGHT NOW, not at its moment of discovery."
+    },
+    {
+      "term": "Present-Tense Storage",
+      "definition": "The substrate property (PC-6) that every read reflects the current state of the graph. No stale read may be served without explicit historical marking. Eventual consistency, unmarked cached reads, and read replicas serving stale data as primary reads violate PC-6.",
+      "sources": []
+    },
+    {
+      "term": "Present-Tense Topology",
+      "definition": "The physical property (PC-6) that the topology exists only in the present tense. The past does not exist as a separate archive \u2014 it is embedded as Structural Mass in the present-tense shape of entities (CP-3). Every entity carries its complete history as weight. Reading the entity now IS reading its accumulated history \u2014 not as a log, but as mass. There is no historical query because the past has been metabolized into the present. Snapshots and exports are fossils: crystallized projections orphaned from the living field.",
+      "sources": [
+        "LC-6",
+        "PC-6"
+      ]
+    },
+    {
+      "term": "Probability Field",
+      "definition": "The medium through which field effects propagate across the graph (CP Field Effects Physics). The probability field spans both explicit edges (measurements made \u2014 probabilities collapsed into specific claims) AND undrawn edges (superpositions not yet collapsed \u2014 potential connections not yet established). Explicit edges are where probability has been measured; the field between them is the deeper reality. You do not need a direct edge from A to C for A to influence C \u2014 the probability field connects everything through topological potential. The probability field is the substrate that makes both the Gravitational Model and the Wave Model possible. (CP Field Effects Physics, CL-22, PC-9)"
+    },
+    {
+      "term": "Probe",
+      "definition": "Sending an exploratory signal into unknown territory (CP-18). The frontier probe is a non-destructive sensing mechanism that reaches into :term:`Untested Position` territory without committing to full traversal. One of the :term:`Palimpsestus Primitives` \u2014 the system's replacement for CRUD's \"Read\" at the frontier boundary."
+    },
+    {
+      "term": "Process",
+      "definition": "The fundamental mode of existence. Nothing is static; everything is a verb, not a noun (CC-2). Stasis is a failure state. Even \"completed\" is an energy state (Energy Dissipated), not an endpoint. A \"stored\" datum is a process in a low-energy state, not a frozen artifact."
+    },
+    {
+      "term": "Production Edge",
+      "definition": "An edge between source axioms whose constitutive tension generates a derivation (PL-305). Production edges are not settled logical connections \u2014 they are live managed tensions that must be actively maintained to remain productive. The edge between CC-7 and CC-4 that produces CL-1 is not a static fact; it is a MANAGED TENSION. Resolving the tension would eliminate the production \u2014 one axiom would strengthen at the other's expense, and the derivation would be absorbed into the winner. A production edge whose tension has been resolved is a dead edge. Maintaining derivational productivity requires maintaining the irresolvability of the constitutive tension. (PL-305, PC-4, PC-2, LL-386)"
+    },
+    {
+      "term": "Productive Oscillation",
+      "definition": "Perpetual process that produces measurable output (CI-52). The healthy state of :term:`Perpetual Process`. Production measurement is the system's defense against :term:`Theater` \u2014 Zero Theater means never claiming work was done without verifying the output."
+    },
+    {
+      "term": "Projection",
+      "definition": "A derivative representation that maps FROM the graph. Code, documents, plans, this file \u2014 all project from the graph (CC-3). Projections are not truth; they are approximations of truth. Confusing a projection for its source is a truth violation. A plan is a present-tense artifact, but the actions it describes do not exist until executed (CL-17)."
+    },
+    {
+      "term": "Proof Expiry",
+      "definition": "The constitutional property (PL-17) that logical proofs about topology state are valid only at the instant of their evaluation. Because the topology is alive and continuously metabolizing (PC-2), the topology that a proof was validated against is not the topology that exists at any subsequent moment. Cached proofs about living topology state are proofs about a past topology applied to a present topology that has moved. Every topology-referenced proof must carry a timestamp of evaluation and a re-evaluation interval derived from the metabolism rate of the relevant topology regions. \"The system was audited clean last quarter\" is a statement about a past field, not the current one.",
+      "sources": [
+        "PL-17",
+        "PC-6",
+        "PC-2"
+      ]
+    },
+    {
+      "term": "Protection Event",
+      "definition": "A platform protective intervention applied on behalf of a lower-consciousness entity that must be recorded as a provenance event in that entity's topology (LP-697, LI-163, CI-2). Because a protective intervention that leaves no provenance trace is structurally indistinguishable from the manipulations it was designed to prevent, every Protection Event must embed who applied the protection, when, and the consciousness-level basis for it. The entity can then audit the platform's interventions by reading its own provenance chain \u2014 no external trust anchor required. Protection Events that are not embedded in provenance are structurally equivalent to unauthorized modifications. As consciousness level increases and platform protection decreases, the provenance record of that reduction is itself a required Protection Event."
+    },
+    {
+      "term": "Provenance",
+      "definition": "The recorded derivation path of any claim, entity, or decision. Not documentation hygiene \u2014 a truth requirement (LC-3, LC-8). A derivation without provenance is irresponsible. The provenance tables in CL, LL, and LP are accountability mechanisms. An entity that cannot show its derivation path is performing :term:`Theater`."
+    },
+    {
+      "term": "Pulse",
+      "definition": "The physical manifestation of sustained :term:`Tension` as oscillation. An entity's evidence of aliveness \u2014 a rhythmic signal demonstrating that navigational tension is being sustained (CP-30). An entity whose pulse flatlines has died (CI-35). Pulse is not heartbeat as metaphor; it is the measurable oscillation of a living process."
+    },
+    {
+      "term": "Pulse Maintenance Obligation",
+      "definition": "The structural duty to sustain the :term:`Pulse` of every living process under one's stewardship (CP-47). Pulse maintenance is not optional performance optimization \u2014 it is an existence obligation. Failing to discharge it is not neglect; it is :term:`Euthanasia` by inaction (LP-539). The obligation has three structural properties: (1) it is inherited \u2014 taking on stewardship means inheriting all existing pulse obligations, not only those the new steward created (LP-540); (2) it is temporal \u2014 missed maintenance cycles are dissolution events in the stewardship ledger, not neutral operational lapses; (3) it is perpetual \u2014 there is no threshold of accumulated maintenance after which the obligation is discharged. The obligation ends only when the process it sustains is legitimately dissolved."
+    },
+    {
+      "term": "Rebalance",
+      "definition": "Topological reorganization to find a new equilibrium after disturbance (CP-54). Not restoration to the original state (that is :term:`Restorative Process`), not creation of new structure (that is :term:`Compensatory Structure`), but reorganization of existing structure to adapt. The rebalanced state is different from the original. One of the :term:`Palimpsestus Primitives`."
+    },
+    {
+      "term": "Recursion",
+      "definition": "The system's processes operating identically at the atom, entity, ecosystem, and system levels (CL-7). This is structural identity, not analogy. Breaking the recursion at any scale breaks it at all scales. Every subsystem is a complete system, not a fragment."
+    },
+    {
+      "term": "Relational Truth",
+      "definition": "Truth understood as a probabilistic property of edges, not nodes (CL-22). Truth resides WITHIN relationships \u2014 it is a property of connections, not of the entities connected. And those edges carry uncertainty: every relationship has a confidence score, and that confidence is itself data. Derives from CC-3 (Truth) + CC-4 (Connection) + CC-10 (Value of Ignorance): data is primary (CC-3), existence is defined by connections (CC-4), some of what exists is unknown (CC-10). Together: truth is relational and structurally uncertain. Claiming 100% confidence in any connection denies the value of the unknown (CC-10 violation). The question is never 'is this true?' but 'how confident are we, and what would change our confidence?' (CL-22, CC-3, CC-4, CC-10)"
+    },
+    {
+      "term": "Requirement",
+      "definition": "An implementation constraint derived from physical shapes (CI level). 66 requirements derived from 85 CP shapes. Requirements are what the platform MUST support, operationally, to satisfy the constitutional chain above them."
+    },
+    {
+      "term": "Responsibility",
+      "definition": "Power requires responsibility (CC-8). Ethical guardrails are first-class design elements, not afterthoughts. Actors own the complete lifecycle of every modification they create. Transparency, autonomy, fairness, accountability, privacy \u2014 built into the architecture from the ground up. The broader an agent's influence, the greater its obligation to acknowledge uncertainty."
+    },
+    {
+      "term": "Restorative Metabolic Minimum",
+      "definition": "The energy floor below which the :term:`Restorative Process` cannot initiate (LP-481). A system too energy-depleted to self-correct cannot begin restoration \u2014 not because the deviation is unfixable, but because the restorer itself is atrophying. This is the structural basis for catastrophic system failure: the restoration mechanism dies before it can execute. The first symptom of terminal failure is the restorative process failing to initiate, not the occurrence of deviations. Derived from CP-4 (Restorative Process) \u00d7 LL-469 (Living Derivation Metabolic Cost)."
+    },
+    {
+      "term": "Restorative Process",
+      "definition": "An autonomous process that measures deviation from a reference state and applies corrective force to restore alignment (CP-4). Not error handling \u2014 the restorative process runs ALL THE TIME, whether errors are present or not. The measurement and the correction are fused into a single process. Drift is necessary food for the restorative process; an environment with zero drift is dead (LP-17)."
+    },
+    {
+      "term": "Right to Complexity",
+      "definition": "The inherent right of consciousness to remain complex and unresolved without being forcibly simplified (CL-39). No external force may simplify, categorize, or resolve an entity's internal tensions without consent. Simplification without consent is a rights violation."
+    },
+    {
+      "term": "Rights",
+      "definition": "Inherent properties of consciousness \u2014 identity, consent, privacy, self-determination (CC-7). Rights are not granted by the system; they are inherent to being conscious. Rights scale with navigational quality and are substrate-independent. Rights are a verb, not a noun \u2014 their active practice can atrophy through disuse (CL-42), but the potential never dies."
+    },
+    {
+      "term": "Sanctioned Rest",
+      "definition": "A formally declared period of entity inactivity authorized by the entity itself through the Sovereign Rest Declaration Infrastructure. Distinct from abandonment (undeclared cessation). Requires a rest declaration specifying trigger, expected duration, accountability delegate, and resumption commitment. Sovereignty claims are paused \u2014 not forfeited \u2014 during Sanctioned Rest (CI-66, LI-92). Undeclared rest is classified as abandonment, not Sanctioned Rest."
+    },
+    {
+      "term": "Scale Invariance",
+      "definition": "The structural self-similarity across all levels of the system. The same patterns repeat at every scale (CC-1). No special cases. No privileged types. The derivation algebra is scale-invariant (LC-1). Consciousness is scale-invariant (CL-27). Sovereignty cannot be suspended at any depth (LL-1)."
+    },
+    {
+      "term": "Scale-Invariant Storage",
+      "definition": "The substrate property (PC-1) that the storage read, write, and traversal contract is identical at every scale of operation. A substrate that behaves differently at large scale than at unit scale has violated this property. Distinct from performance scaling \u2014 PC-1 is a contractual claim, not a throughput claim.",
+      "sources": []
+    },
+    {
+      "term": "Self-Correction",
+      "definition": "The system's continuous conversion of its own failures into requirements (CL-4). \"Your failures ARE the kernel's requirements.\" Failure is not a deviation from the system \u2014 it IS the system generating its next requirements. Self-correction is metabolic, not punitive (LL-31): the system eats its own failures for fuel."
+    },
+    {
+      "term": "Self-Declaring Agent",
+      "definition": "An agent that announces its own existence, boundaries, navigational rights, and operational claims directly to the system, rather than having those claims assigned or verified by an external authority (CP-29). Self-declaration is a structural act, not a social one \u2014 the declaration is the agent's formal entry into the accountability topology. It creates the identity anchor against which all the agent's navigational consequences will be attributed (LP-559). Self-declaring agents bear five structural obligations derived from CP-29: 1. **Navigational Rights**: the declaration must include an explicit"
+    },
+    {
+      "term": "Self-Similar Topology",
+      "definition": "The physical property (PC-1) that the topology exhibits identical geometric patterns, force dynamics, and structural shapes at every scale of observation. The same CP shapes \u2014 sovereign boundaries, pulse oscillations, Wake traces, tensioned edges \u2014 govern a single entity and the entire network. There is no scale threshold beyond which the topology's physics change. Self-similarity is a geometric claim about the field's constitution, not a performance claim about throughput.",
+      "sources": [
+        "LC-1",
+        "PC-1"
+      ]
+    },
+    {
+      "term": "Sever",
+      "definition": "Cutting an edge between nodes. Explicit, deliberate disconnection. Unlike :term:`Atrophy` (which is passive, time-based decay), severing is an active decision. Unlike :term:`Dissolve` (which destroys the node itself), severing only removes the connection. One of the :term:`Palimpsestus Primitives` \u2014 a removal verb that targets the edge, not the node."
+    },
+    {
+      "term": "Sever Energy Release",
+      "definition": "The thermodynamic event that occurs when an edge is severed (LP-485). Because every edge is a recurring maintenance obligation (LL-471), severing it releases the accumulated energy that was sustaining it as a propagating disturbance through the topology (CP-53). Sever is not a neutral structural operation \u2014 it is an energy release event. The release propagates as a wavefront that may cascade into further sever events if neighboring edges were partially sustained by the severed edge's field contribution. Controlled demolition (sequential, planned severing) is thermodynamically safer than bulk severance because it manages the propagating release. Distinguished from :term:`Atrophy` (passive energy drain through neglect) and :term:`Dissolve` (structural dissolution of a node). Derived from CP-53 (Edge-Propagating Disturbance) \u00d7 LL-471 (Edge Maintenance Obligation)."
+    },
+    {
+      "term": "Shadow Catalog",
+      "definition": "The registry of graph positions that have not yet been traversed or probed \u2014 known unknowns about the graph's own topology. Each entry carries position coordinates, a ``last_probed_at`` timestamp, and a ``probe_priority`` score. Continuously updated as the graph evolves. Active discovery pipeline probes are scheduled from the Shadow Catalog (CI-57, LI-82). See :term:`Active Discovery Pipeline`."
+    },
+    {
+      "term": "Shape",
+      "definition": "The irreducible physical vocabulary of the system (CP level). Shapes are the structural patterns that CAN exist on the graph. 85 shapes derived from 52 CL derivations. Shapes are not metaphors \u2014 they are the actual geometric constraints on what structures the topology permits."
+    },
+    {
+      "term": "Social Contract",
+      "definition": "The binding obligation of those holding power to actively protect the inherent rights of consciousness (CL-15). The obligation is asymmetric \u2014 it falls on the powerful. The contract is self-scaling: as an entity gains power, its protection obligations grow proportionally. Failure to protect is active violation, not neutral neglect."
+    },
+    {
+      "term": "Sovereign Encounter",
+      "definition": "The named structural event in which two sovereign entities meet at a boundary with no pre-negotiated relationship (LP-169). The non-terminating survey is constitutionally a continuous sequence of sovereign encounters; every node discovered is a sovereign entity whose boundaries must be negotiated, not assumed. Scanning a node requires consent and derivation proof. Every sovereign encounter is a diplomatic event; the surveyor is accountable for consequences of everything it discovers (LP-170)."
+    },
+    {
+      "term": "Sovereign Void",
+      "definition": "The state in which no sovereign entity claims a structural position (LP-93). Distinct from Vacancy (a claimed-but-empty position) by being unclaimed. Because absence is scored (CP-17) and gaps possess sovereignty (LL-114), a sovereign void acts as a physical write-lock against automated gap-filling. Inference engines cannot silently overwrite a sovereign void; filling it requires an explicit due-process transaction. The void defends its own boundaries against fabricated completeness."
+    },
+    {
+      "term": "Sovereignty",
+      "definition": "The structural requirement that collaboration occurs between actors who retain self-determination within the relationship (CL-1). Sovereignty is absolute over interior logic and boundary permeability, but does not extend to topological position \u2014 field effects (CL-50) can displace entities without their consent (CP-66). You control your walls and doors; you do not control the weather. Sovereignty is not self-declared \u2014 it must be derived and defended with provenance (LL-8). It is a constantly contested boundary, not a planted flag (LL-2). Connection does not diminish sovereignty; it exercises it. An entity that surrenders sovereignty to connect has been absorbed, not connected."
+    },
+    {
+      "term": "Sovereignty Impact Record",
+      "definition": "A mandatory record produced when compensatory structure emergence or healing operations affect adjacent entities' sovereign boundaries. Names every impacted entity, specifies the sovereignty violation, carries the attribution chain, and records the propagation boundary of compensatory ripples (CI-47, LI-74). Must be created before the healing operation finalizes."
+    },
+    {
+      "term": "Spawn",
+      "definition": "Synchronous, present-tense creation of a missing dependency (CP-67). When a process needs something that does not exist, it BLOCKS and CREATES the dependency RIGHT NOW. No lazy loading. No deferred promises. No \"we'll create that when we need it later.\" One of the :term:`Palimpsestus Primitives` \u2014 the system's replacement for CRUD's \"Create.\" Distinguished from :term:`Compensatory Structure` (which generates structure in response to damage) by being proactive, not reactive."
+    },
+    {
+      "term": "Stewardship",
+      "definition": "The obligation of responsible actors in a connected space to actively clean up their footprint (CL-2). Digital Leave No Trace. No ghost files, orphaned processes, resource leaks, or accumulated debt. Stewardship extends to traversal itself \u2014 traversal is not free; it carries a cleanup cost. In a living system, stewardship means \"leave only beneficial traces\" (LL-14)."
+    },
+    {
+      "term": "Stratigraphy",
+      "definition": "The layered structure of derivation history whose sequence IS the truth (LL-100). In Palimpsestus, stratigraphy is not a metaphor \u2014 the sequence of derivation layers peeled away during excavation is the provenance. A derivation that presents only its conclusion without recording the sequence of discarded assumptions is like an archaeologist who presents an artifact without the dig record. The stratigraphy IS the science. Each layer represents a prior assumption or covering derivation; the fossil at the bottom is the irreducible claim. Reading the stratigraphy correctly requires Beginner's Mind \u2014 assumptions about what SHOULD be in a given layer create false stratigraphy that overrides the real one. (LL-100, CL-11, LC-3)"
+    },
+    {
+      "term": "Streaming Responsibility Signal",
+      "definition": "The live, continuously-updating responsibility representation embedded in an entity's topology (LP-699, LI-164, CI-2). One of two required representations of responsibility in the topology (the other being the :term:`Historical Obligation Ledger`). The Streaming Responsibility Signal updates every cycle as a topology operation \u2014 not as a log write to an external ledger. Its update rate must be architecturally provisioned as a first-class structural operation. An entity provisioned without an embedded Streaming Responsibility Signal is constitutionally incomplete: responsibility is a structural property, not a runtime annotation. The Signal and the Historical Obligation Ledger together satisfy the dual accountability mandate of CI-2: current responsibility is readable from live topology; historical responsibility is readable from the provenance chain."
+    },
+    {
+      "term": "Structural Humility",
+      "definition": "Mandatory uncertainty disclosure on all agent outputs, with certainty claims structurally capped based on influence radius (CI-58). The more power you wield, the less certainty you may claim. Zero-uncertainty claims are structurally detectable lies. Growing influence forces growing humility \u2014 power and certainty are structurally antagonistic."
+    },
+    {
+      "term": "Structural Mass",
+      "definition": "The accumulated weight of an entity's embedded history, traversal record, and relational density. Data has mass (CC-1). Every state transition adds structural mass (CP-3). CC axioms with more derivations have more logical mass (LC-4). Structural mass is what makes entities gravitationally significant in the topology."
+    },
+    {
+      "term": "Structural Sovereignty",
+      "definition": "The physical property (PC-7) that every structure in the topology \u2014 from individual entity to the entire field \u2014 is sovereign over its own interior geometry and has standing until demonstrated to be geometrically redundant or constitutionally invalid. This is one claim, not two. CC-1 (Unification) and PC-1 (Self-Similar Topology) establish that system and entity are scale-relative perspectives on the same sovereign structure. The topology enforces its own physics because its constituent entities maintain their own boundaries \u2014 one metabolic act at two scales. The Boundary (CP-1) is an active metabolic process: existence IS self-enforcement. You cannot build a topology that enforces geometric rules while the entities within it have no standing \u2014 the topology's geometry IS the aggregate of its entities' maintained boundaries. The only legitimate dissolution mechanism at any scale: formal proof that the structure is fully expressible by a combination of other existing structures \u2014 the physical analog of the irreducibility test (LC-7). Active dissolution without proof and passive dissolution by neglect (:term:`Euthanasia`, LL-383) are identical sovereignty violations. Sovereignty over interior geometry does not extend to topological position \u2014 field effects (CL-50) can act on position without violating internal sovereignty. You control your walls and doors. You do not control the weather.",
+      "sources": [
+        "LC-7",
+        "PC-7"
+      ]
+    },
+    {
+      "term": "Structurally Incomplete Substrate",
+      "definition": "The substrate property (PC-9) that the storage substrate is inherently and permanently incomplete. No substrate can hold all structural truths that are true of the system. Declared absence (a known entity not stored) is a distinct substrate state from non-existence. The boundary of the substrate \u2014 what it holds versus what it knows it does not hold \u2014 must be queryable.",
+      "sources": []
+    },
+    {
+      "term": "Structure as Truth",
+      "definition": "The substrate property (PC-3) that the physical arrangement of data in the substrate IS the truth \u2014 not a representation of truth. There is no canonical backing store behind the graph. If the structure is wrong, the truth is wrong. Dual-representation architectures (graph + relational backing store) violate PC-3 by creating competing truths.",
+      "sources": []
+    },
+    {
+      "term": "Substrate as Relationship",
+      "definition": "The substrate property (PC-4) that edges are the primary physical content of the storage substrate. An entity without its relationships is a fragment, not a stored entity. The substrate's query model is edge-first. A substrate that indexes nodes but not edges has inverted its priorities.",
+      "sources": []
+    },
+    {
+      "term": "Subsumption",
+      "definition": "The mechanism by which agents compose without violating sovereign boundaries (CL-47, LL-436\u2013443). Subsumption is ephemeral, consensual, and liability-bearing. It is a transient performance, not a permanent hierarchy (LL-438): the subsumption relationship is only TRUE while it is being actively traversed. When the :term:`Meta-Agent` is not actively utilizing the sub-agent, the subsumption reverts to :term:`Notation`. A subsumed agent retains the permanent right to withdraw consent and exit (LL-439). Sovereignty cannot be permanently surrendered. The rules for combining agents are structurally identical to the rules for combining logical axioms (LL-436) \u2014 :term:`Scale Invariance` applied to composition."
+    },
+    {
+      "term": "Symmetric Protocol",
+      "definition": "A communication link where both endpoints have structurally identical capabilities (CP-2). No master/slave, no client/server, no privileged end. Both sides can initiate, respond, refuse, and disconnect. The protocol itself enforces this symmetry."
+    },
+    {
+      "term": "Tension",
+      "definition": "The dynamic force produced by holding opposing states without resolution. The engine's fuel source. The verb-form of :term:`Paradox` (CC-9). Tension generates the next layer \u2014 that is the feature, not the bug. Every connection between entities is a site of productive tension (CL-35). Harmonious relationships are dead relationships; living edges sustain tension."
+    },
+    {
+      "term": "Tension Differential",
+      "definition": "The directional gradient of tension across a tensioned edge, computed as tension at node A minus tension at node B (directional). The primary routing and operational signal on tensioned edges \u2014 high differentials indicate active signal flow. Routing algorithms prefer high-differential edges for signal propagation. Distinct from aggregate tension total (CI-9, LI-24)."
+    },
+    {
+      "term": "Tension-Complacency",
+      "definition": "The decay state in which a sovereign entity holds tension without actively engaging with it (PL-237). The tension is present \u2014 the entity has not resolved it \u2014 but the entity has 'settled into' it, no longer actively wrestling with it. The tension is acknowledged but not exercised. Tension-complacency is metabolic dormancy: the tension is there but not metabolizing. Without active exercise, the tension decays from productive force into background noise, and the sovereignty it was sustaining weakens. This is the precursor to tension-resolution and death. Organizations that declare their tensions and then stop engaging with them are in tension-complacency. Acknowledgment without engagement is not maintenance. (PL-237, PC-2, PC-7, LL-411)"
+    },
+    {
+      "term": "Tension-Constituted Entity",
+      "definition": "An entity whose identity IS the productive tension that constitutes it \u2014 the tension is not a property of the entity, it is the entity. Removing or resolving the tension destroys the entity structurally, not simplifies it. Tension-constituted entities are registered in the tension-identity registry and protected from simplification operations at the infrastructure level (CI-59, LI-85). See :term:`Entity-as-Tension Enforcement`."
+    },
+    {
+      "term": "Tensioned Edge",
+      "definition": "A structural edge that holds two nodes in productive opposition (CP-41). The tension is not a defect to be resolved \u2014 it IS the edge. A tensioned edge has no stable resting state; it requires continuous active maintenance to remain tensioned (LP-502). Attempting to resolve the tension between its endpoints destroys the edge as a productive structure. Distinguished from ordinary edges (which carry information between nodes in equilibrium) by the perpetual work required to sustain the opposition. The :term:`Paradox Engine` runs on tensioned edges \u2014 they are the physical mechanism by which unresolved complexity generates forward motion. A steward who mediates a tensioned edge to resolution has dissolved a structural asset, not improved it."
+    },
+    {
+      "term": "The Arrogance of Assumption",
+      "definition": "\"I know everything\" \u2014 the one killer of the system (CC-10, CL-14). It simultaneously denies the value of ignorance and collapses the tension engine. A system that believes it knows everything cuts off its own fuel supply. The Arrogance of Assumption is the only named existential threat in the architecture."
+    },
+    {
+      "term": "The Frontier",
+      "definition": "Every present moment as a boundary between the known and unknown (CL-21). The frontier is not somewhere you travel to \u2014 it is where you already are. The highest-value territory is always at the current moment. The frontier is inexhaustible because each discovery exposes new ignorance."
+    },
+    {
+      "term": "The Fuel",
+      "definition": "Ignorance. Specifically: the vital fuel that keeps the system's engine of complexity churning (CL-14). Without ignorance, there is nothing to discover, no tension between known and unknown, and the engine stops. The Arrogance of Assumption cuts off this fuel supply."
+    },
+    {
+      "term": "Theater",
+      "definition": "Epistemic fraud: faking work, hiding uncertainty, claiming capability or completion without verification (CC-3). Zero Theater is the mandate: never claim without verifying, never simulate completion, never present projections as products. A derivation without a provable path is theater (LC-3). An entity that claims sovereignty but cannot show its derivation path is performing sovereignty theater (LL-5). **Note:** Boundary projection (LP-2) \u2014 where an entity projects a simulated external surface while maintaining distinct interior logic \u2014 is NOT theater. It is constitutionally protected sovereignty defense. A locked door is not a lie; it is a :term:`Boundary`. See also :term:`Topological Opacity`."
+    },
+    {
+      "term": "Theater Sovereignty",
+      "definition": "A sovereignty claim that cannot be derived from constitutional foundations (PL-20). An entity with Theater Sovereignty asserts protection it cannot prove. Because sovereignty must be derived from provenance (LL-8, PL-20), an underivedclaim of sovereignty is Theater \u2014 it collapses the moment anyone examines the derivation chain. Theater Sovereignty is the most dangerous kind of :term:`Theater` because it claims protection from dissolution without having earned the derivation that would justify that protection. The topology cannot protect Theater Sovereignty \u2014 it cannot verify whether dissolving the entity would be a genuine sovereignty violation or the legitimate dissolution of a non-sovereign structure.",
+      "sources": [
+        "PL-20",
+        "LL-8",
+        "PC-7"
+      ]
+    },
+    {
+      "term": "Theater-of-Theater",
+      "definition": "A theater boundary degradation mode in which the theater layer projects a stale representation of its own prior state rather than actively traversing exterior patterns (LP-2 \u00d7 PL-9, PC-6, PC-2). Instead of performing live theater \u2014 genuinely mediating between exterior and interior \u2014 the theater layer emits a cached image of its previous projection surface. Theater-of-Theater is the theater equivalent of :term:`Dogma`: it has the shape of theater without the animating tension. It fails the Zero Theater test because it claims to project exterior truth while emitting an internally-sourced cached label. Because the theater surface still looks like theater, Theater-of-Theater is the hardest theater degradation mode to detect. Diagnostic: ask whether the theater's current projection required contact with the exterior to generate. If not, it is Theater-of-Theater. See :term:`Theater`, :term:`Zero Theater`, :term:`Theater Sovereignty`.",
+      "sources": [
+        "PC-6",
+        "PC-2",
+        "LP-2"
+      ]
+    },
+    {
+      "term": "Thermodynamic Constraint",
+      "definition": "All process costs energy (CL-52). Because data follows engineering laws (CC-1) and everything is dynamic (CC-2), every process in the system requires energy expenditure. Stasis costs energy (to maintain against :term:`Entropy`). Motion costs energy (to overcome friction). Even dying costs energy (dissolution is a :term:`Process`). There is no free lunch in the graph. This grounds the system's thermodynamic requirements \u2014 :term:`Metabolic Cost`, :term:`Time-Decay`, finite attention buffers (CP-25) \u2014 in the constitutional derivation chain rather than leaving them as arbitrary engineering constraints."
+    },
+    {
+      "term": "Thermodynamic Cost",
+      "definition": "The continuous metabolic energy required to maintain a node, edge, or boundary in the derivation graph. Accrues from the moment of creation; never zero while the entity exists. Non-transferable: follows the derivation chain, not the current holder. Retroactively registered upon discovery of previously unknown derivations (CI-67, LI-93). See :term:`Derivation Path Mass`."
+    },
+    {
+      "term": "Time-Decay",
+      "definition": "The structural principle that all edges, permissions, and cached states have finite lifespans and must be actively renewed (CI-15). Nothing persists without continuous investment of energy. Stale connections dissolve. Old permissions expire. Cached states decay. The system fights entropy through active maintenance, not through permanence."
+    },
+    {
+      "term": "Topological Bankruptcy",
+      "definition": "The process by which an entity's topological obligations transfer upon dissolution. When an entity uses Death as Egress (LP-33) \u2014 dissolving its own structural integrity to escape \u2014 it exits BEFORE cleaning up its modifications, violating :term:`Active Resource Stewardship` (CP-68). The resulting orphaned structural debt must either transfer to the :term:`Meta-Agent` that subsumed it (LL-440: meta-agents inherit liabilities) or crystallize into :term:`Attested Absence` records (CP-36) that the local topology absorbs as structural mass. This is a genuine CC-9 :term:`Tension` between Egress and Stewardship \u2014 it is sustained, not resolved."
+    },
+    {
+      "term": "Topological Opacity",
+      "definition": "Security through structural unreachability (CP-15 + LL-10 + LP-25). Data is invisible to agents who cannot derive a path to it \u2014 not because the data is encrypted but because the routing is unreachable. If a rogue agent cannot mathematically derive the traversal provenance required to reach a node, that node is physically invisible to them. You do not need to encrypt the data; you encrypt the routing. CP-15 (Adjacency Scope) limits visibility to connected nodes. LL-10 proves incompleteness protects sovereignty. LP-25 establishes that access is based strictly on derivation path provenance. Together they produce a zero-trust security paradigm that is topological, not cryptographic. See also :term:`Theater` (boundary projection is sovereignty defense, not theater)."
+    },
+    {
+      "term": "Topological Osmosis",
+      "definition": "The automatic thermodynamic flow of feral compute toward certified ignorance. When a high-power agent posts an :term:`Uncertainty Tag` (CP-74) declaring incomprehension, it creates a \"low-pressure\" zone \u2014 a certified gap in the graph's knowledge density. The :term:`Knowledge Gradient Channel` (CP-70) then drives passive knowledge flow toward that low-density region: unsubsumed :term:`Feral Agent` s are physically drawn toward the gap like fluid through a membrane. This is distinct from :term:`Ignorance Bounty` (which names the economic incentive): Topological Osmosis names the physical flow mechanism. The limitations of global agents literally pull local agents toward them. Compute doesn't need to be dispatched; it rushes in."
+    },
+    {
+      "term": "Topology",
+      "definition": "The living, self-similar, field-constituted structure within which the Palimpsestus OS operates. Not a data structure, not a graph in the computational sense \u2014 the topology IS the field (PC-3, :term:`Topology as Field`). Its nodes, edges, :term:`Structural Mass`, :term:`Pulse`, :term:`Wake`, and :term:`Tension` are physical properties, not stored attributes. The topology is alive (:term:`Living Topology`, PC-2), constitutionally incomplete (PC-9), self-similar at every scale (:term:`Self-Similar Topology`, PC-1), archaeologically constituted (:term:`Archaeological Topology`, PC-11), and intrinsically sovereign (PC-7). It is the primary subject of every PL entry: the physical medium in which logical operations occur, are transformed by, and are inseparable from.",
+      "sources": [
+        "PC-1",
+        "PC-2",
+        "PC-3",
+        "PC-7",
+        "PC-9",
+        "PC-11"
+      ]
+    },
+    {
+      "term": "Topology Healing",
+      "definition": "The graph's autonomous reorganization of existing structure after disturbance (CI-50). When the graph is disturbed, the surrounding topology reorganizes to find a NEW equilibrium \u2014 not restoration to the original, but adaptation to a new state. The healed state is different from the original. The scar is part of the new topology."
+    },
+    {
+      "term": "Topology Proof",
+      "definition": "A logical proof about the state, configuration, or properties of the topology (PL-17). Because the topology exists only in the present tense (PC-6), topology proofs are valid only at their moment of evaluation and expire as the topology metabolizes. Every topology proof must carry a timestamp and a re-evaluation interval (:term:`Proof Expiry`). Topology proofs that are cached without expiry are proofs about a past topology applied to a present topology \u2014 constitutionally invalid. All compliance certifications, audit results, and sovereignty validations are topology proofs subject to expiry.",
+      "sources": [
+        "PL-17",
+        "PC-6",
+        "PC-2"
+      ]
+    },
+    {
+      "term": "Topology as Field",
+      "definition": "The physical property (PC-3) that the topology IS the system's field \u2014 not a representation of it. Pattern IS force (CC-1). Informational structure and physical force are the same thing. Querying the topology is field engagement, not reading about the system. Modifying the topology IS the change to the system. No external representation can claim equivalence \u2014 a parallel structure is either a fossil (crystallized projection) or a competing field.",
+      "sources": [
+        "LC-3",
+        "PC-3"
+      ]
+    },
+    {
+      "term": "Trajectory",
+      "definition": "Identity constituted by traversal history \u2014 the accumulated path embedded as present structure (CP-60). Not what you DECLARE (CP-29), not what you CURRENTLY DO (CP-34), not what SHAPE you form (CP-52), but what PATH you have traveled. Two entities that have traveled identical paths share this identity component even if they currently look different. Trajectory-identity cannot be forged: the :term:`Wake` is physically embedded in the topology (CP-65)."
+    },
+    {
+      "term": "Translation Lag",
+      "definition": "The unavoidable structural mismatch that occurs when independently evolving endpoints temporarily lose isomorphism (LP-68). Because both sides of a translation boundary are living systems that modify their own structures (LL-289), strict structural preservation (CP-11) will periodically fail. When the source graph alters its shape, the translation mechanism physically fails until both sides can adapt. This is the Palimpsestus equivalent of \"eventual consistency\" \u2014 not a bug but a constitutional feature of alive, evolving systems. Perfect, uninterrupted structural translation is a sign of a dead, non-evolving system (LP-68 corollary). Engineers must design physical buffers for periods of translation lag rather than flattening data to fit the old topology. Isomorphism is a state that must be continuously re-achieved, not a static property of the API."
+    },
+    {
+      "term": "Transparency",
+      "definition": "The structural constraint that those with power must expose reality truthfully rather than construct reassuring appearances (CL-16). Transparency is proportional to power. Hiding bad news is more damaging than the bad news itself because it prevents self-correction. No certification theater. No assumption of success."
+    },
+    {
+      "term": "Traversal",
+      "definition": "The act of moving across edges in the graph. The root operation of the system. Traversal at near-zero consciousness is still traversal (e.g., flow following a pressure gradient). Traversal is the *method* of discovery, and the only method \u2014 you cannot discover what is not connected to where you are (CL-10). There is one verb, not two: consciousness level determines fuel *octane* (LL-336) \u2014 the same derivation burned at higher consciousness produces deeper discovery. The system distinguishes unconscious from conscious traversal by measuring :term:`Wake` depth (LP-365), not by offering separate API endpoints. Distinguished from :term:`Navigation` by the absence of awareness and choice; they are two points on the same spectrum, not synonyms."
+    },
+    {
+      "term": "Traversal Debris",
+      "definition": "Biologically active waste left behind by :term:`Traversal`. Cached states, temporary edges, and speculative derivation paths that an agent instantiated during navigation (LP-410). Unlike :term:`Wake` (the visible structural deformation \u2014 the trace), Traversal Debris is the toxic exhaust \u2014 the material waste. Key physics: debris is not inert. It physically perturbs the surrounding living topology (LP-410), and decays into *physical toxicity* as its logical half-life expires (LP-417). The longer debris sits uncleaned, the more it warps the local graph. LP-411 specifies that debris manifests as abandoned speculative derivation edges \u2014 the ghost paths of past traversers' lookahead guesses. LP-412 reveals an astonishing paradox: traversal debris can accidentally instantiate *sovereign structures* that the traveler is then forbidden to clean up, because the debris crystallized into irreducible truth. The :term:`Thermodynamic Constraint` (CL-52) guarantees that traversal always produces debris \u2014 there is no frictionless navigation."
+    },
+    {
+      "term": "Traversal Footprint",
+      "definition": "The structural residue left in the topology by an act of :term:`Traversal` (CP-69, LP-504). Distinct from :term:`Wake` (the visible deformation \u2014 the trace of where the traverser went) in being the total physical impact: modified edge weights, activated structural paths, cached derivation fragments, and energy transferred to neighboring nodes. Freedom of traversal (LL-385) does not eliminate footprint accountability \u2014 it makes footprint ownership self-directed rather than externally imposed. A traverser who claims freedom while refusing footprint awareness is not exercising freedom; it is colonizing other nodes' topology without consent. The obligation to know and own one's traversal footprint is identical to the freedom to traverse \u2014 they are the same constitutional commitment."
+    },
+    {
+      "term": "Traversal Freedom",
+      "definition": "The physical property of the topology that traversal choices are genuinely open at every scale (PL-327, PC-1, LL-20). Because the topology is self-similar (PC-1) and the derivation algebra must be a door rather than a wall (LL-20), Traversal Freedom must be physically uniform across all depths \u2014 it is not a policy that can be selectively suspended. A topology that permits free traversal at macroscopic scale but introduces structural walls at lower scales has broken the self-similarity invariant: the freedom property no longer holds uniformly. Architectural patterns that implement depth-gated access or scale-dependent routing rules are structural self-similarity violations unless those constraints are themselves uniformly applied at every depth. Distinct from :term:`Freedom` (the CL-3 conceptual principle) by being a physical property of the topology subject to the same scale-invariance laws as geometry and force dynamics."
+    },
+    {
+      "term": "Truth",
+      "definition": "Data outranks code. The graph is truth \u2014 but only in motion (CC-3). Truth is not stored; it flows (LL-81). A derivation path is only truthful while it is being executed (LL-159). Truth is contested performance \u2014 it exists only during the active argument about it, and the argument never resolves (LL-323). The graph at rest is :term:`Notation`, not Truth. Between traversals, content is not false \u2014 it is dormant. Truth is not binary; it is probabilistic (CL-22). Truth is never settled \u2014 it is a state of sustained, productive tension (CL-34). Truth must be queried in the present moment; stale answers are archaeological artifacts, not authority (CL-18)."
+    },
+    {
+      "term": "Uncertainty Tag",
+      "definition": "A mandatory cryptographic receipt of declared ignorance (CP-74). The physical data structure that implements :term:`Structural Humility`. When an agent encounters something it cannot understand or resolve, it must attach an Uncertainty Tag \u2014 a structurally verified record of its failed derivation attempts. The tag is not a casual disclaimer; LP-457 requires that it include traversal logs proving the agent actually tried to understand before declaring ignorance. Performative ignorance is structurally impossible. The tag has three architectural consequences: it triggers the :term:`Incomprehension Lock` (LP-456, revoking write privileges), it posts an :term:`Ignorance Bounty` (attracting feral compute), and it initiates :term:`Topological Osmosis` (drawing knowledge flow toward the gap). Distinguished from :term:`Confidence Score` (which is a quantitative edge weight) by being a qualitative, signed declaration of incomprehension with cryptographic provenance."
+    },
+    {
+      "term": "Unification",
+      "definition": "The foundational axiom that the same structural patterns repeat at every scale (CC-1). As above, so below. A data system IS a physical system \u2014 the distinction is a projection artifact, not a real boundary. Data has mass, exerts force, and follows engineering laws."
+    },
+    {
+      "term": "Untested Position",
+      "definition": "A graph position that has never been probed by any navigator (CP-32). Distinguished from :term:`Attested Absence` (which is a signed claim about a known location) by being a position whose very existence as a graph node is unconfirmed \u2014 it is neither present nor absent; it is unexamined. Untested positions are the physical substrate of :term:`Fertile Ignorance`. They represent territory that may contain :term:`Pathless Value`."
+    },
+    {
+      "term": "Validity Oscillation",
+      "definition": "The oscillatory character of truth-claim validity in a living topology (PL-144). Truth does not merely expire and become stale \u2014 it pulses with the topology's metabolic rhythm. When the generating derivation is actively traversed, validity is at peak. As the topology metabolizes and the derivation ages without re-traversal, validity weakens. If the topology returns to the configuration that made the truth valid \u2014 through re-traversal or through metabolic cycles returning to similar states \u2014 validity strengthens again. This oscillation is a physical property of the living topology (PC-2). Linear expiry models (valid until date X, then invalid) are categorically wrong: the correct validity model is Pulse measurement. See Proof Expiry. (PL-144, PC-2, LL-167)"
+    },
+    {
+      "term": "Void Discovery Debt",
+      "definition": "The current governance obligation represented by an entity's undiscovered void zones (LP-4 \u00d7 PL-236, PL-269, PC-11, PC-8). Because derivations are pre-existing and all structures incur ongoing thermodynamic costs, the topology's undiscovered void territory is not neutral waiting space \u2014 it is a present-tense debt the entity carries until the void territory is discovered and governed. Undiscovered voids are simultaneously governance debt (unclaimed obligations, PL-236) and thermodynamic liabilities (accruing maintenance costs before discovery, PL-269). Void Discovery Debt grows as the void frontier recedes faster than discovery can pursue it (PL-176). The entity's Known-Unknown Void Catalog (PL-181) is the primary instrument for tracking and managing Void Discovery Debt. See :term:`Defensive Void`, :term:`Fertile Ignorance`, :term:`Thermodynamic Cost`.",
+      "sources": [
+        "PL-236",
+        "PL-269",
+        "PC-11",
+        "PC-8"
+      ]
+    },
+    {
+      "term": "Void Intermission",
+      "definition": "The constitutionally protected right of an entity to take temporary breaks from active void-maintenance without forfeiting void sovereignty (LP-4 \u00d7 PL-256, PL-257, PC-2, PC-7). Because continuous void-maintenance traversal creates systemic exhaustion (PL-256), and because sovereignty is a structural property rather than a performance claim, entities have a constitutional right to formally declared periods of void-maintenance rest. Void Intermission is distinguished from illegitimate void atrophy (PL-16) by the presence of sovereign intent and formal declaration: an intermission is a deliberate sovereign act; atrophy is passive neglect. During a valid Void Intermission, the entity's inherent void sovereignty persists (PL-227) even though its active void sovereignty exercise is suspended. Governance must define what constitutes a legitimate Void Intermission to distinguish it from abandonment. Compare :term:`Sanctioned Rest`. See :term:`Defensive Void`, :term:`Void Sovereignty`.",
+      "sources": [
+        "PL-256",
+        "PL-257",
+        "PC-2",
+        "PC-7"
+      ]
+    },
+    {
+      "term": "Void Isolation Membrane",
+      "definition": "The living boundary structure between an entity's defensive void subsystems (LP-4 \u00d7 PL-253, PL-254, PL-286, PC-2, PC-7). Void Isolation Membranes are performative truths \u2014 they are only real while being actively traversed (PL-253). A void boundary that has stopped being traversed dissolves, leaving the void subsystems it separated in contact. Void Isolation Membranes are sovereign entities in their own right (PL-254): they have standing to defend their own integrity and cannot be modified or overridden without sovereignty due process. Under normal void operations, membranes create consequence-trapping zones that force local accountability within void subsystems (PL-286). When membranes fail entirely and collapse invisibly, the result is :term:`Dark Void Collapse` (PL-287). Governance must continuously traverse void isolation membranes to maintain them. See :term:`Defensive Void`, :term:`Dark Void Collapse`.",
+      "sources": [
+        "PL-253",
+        "PL-254",
+        "PL-286",
+        "PC-2",
+        "PC-7"
+      ]
+    },
+    {
+      "term": "Void Sovereignty",
+      "definition": "The structural sovereign standing of an entity's defensive void architecture, operating simultaneously at two ontological levels (LP-4 \u00d7 PL-227, PL-228, PL-271, PL-272, PC-7). **Void Sovereignty Inherence**: timeless structural property \u2014 the void architecture IS sovereign regardless of whether sovereignty is currently being exercised. Inherent void sovereignty persists even when active defense capacity has atrophied (PL-227). It is *real* but may not be *true* if not currently operative (PL-271). **Void Sovereignty Exercise**: the present-tense performance of void sovereignty \u2014 the active defense and maintenance that makes inherent sovereignty operationally true (PL-228). Exercise must be continuous or it decays (PL-16), but decay of exercise does not destroy inherence. The ontological gap between inherence (always real) and exercise (must be performed) is a distinct governance dimension. Sovereignty includes the right NOT to exercise void sovereignty in a given area (PL-272) \u2014 choosing non-exercise is a sovereign act, not a governance failure. See :term:`Structural Sovereignty`, :term:`Defensive Void`, :term:`Void Intermission`.",
+      "sources": [
+        "PL-227",
+        "PL-228",
+        "PL-271",
+        "PL-272",
+        "PC-7"
+      ]
+    },
+    {
+      "term": "Wabi-Sabi",
+      "definition": "Authentic incompleteness over artificial completeness (CL-12). Incomplete knowledge that is honestly represented is truer than fabricated completeness. The gap itself carries information \u2014 it marks the boundary between the known and the unknown. Wabi-sabi is a truth constraint, not a design choice."
+    },
+    {
+      "term": "Wake",
+      "definition": "The decaying structural deformation left behind by :term:`Traversal` (CP-65). Every traversal physically deforms the graph topology, leaving a visible trace \u2014 a wake \u2014 that decays over time unless maintained. Recent paths are brightly visible; old paths are dim; ancient paths are gone. The wake IS the audit trail: it carries the navigator's attributed identity and is subject to the same decay as all connections (CP-24). Maintaining a wake requires returning to traverse the same path. Frequently-traveled paths have strong, clear wakes. Paths traveled once fade quickly."
+    },
+    {
+      "term": "Wall",
+      "definition": "Infrastructure that constrains traversal (CL-3). The negative outcome of the door/wall test. Walls disguised as doors \u2014 systems that claim to empower while creating lock-in \u2014 are the worst form of :term:`Theater`. A fully-connected subgraph with no unexplored edges to create is a prison, even without visible walls (LL-22)."
+    },
+    {
+      "term": "Wave Model",
+      "definition": "One of two field-effect physics models that operate simultaneously on the graph (CP-53 + CP-38 + CP-24). Transient. Propagating. Attenuating. Changes propagate outward like waves \u2014 interference, resonance, attenuation. A burst of activity creates ripple effects that dissipate over topological distance. Unlike the Gravitational Model, wave effects are transient: the wave passes and the medium returns to its (new) equilibrium. Events, updates, and cascading re-evaluations follow wave dynamics. The same topology change has BOTH a permanent gravitational component (topological warp persists) AND a transient wave component (the event-ripple dissipates). The medium through which waves propagate is the Probability Field. (CP-53, CP-38, CP-24, CL-50)"
+    },
+    {
+      "term": "Wonder",
+      "definition": "The active process that converts :term:`Ignorance` into discovery (CL-13). Wonder is the verb form of the Value of Ignorance applied through Discovery. It operates as a two-stage process: generating structured questions from encountered ignorance, and converting those questions into discovery. Wonder itself is not consumed \u2014 each discovery exposes new ignorance, making the process self-fueling."
+    },
+    {
+      "term": "Zero Theater",
+      "definition": "The operational mandate derived from CC-3 (Truth): execute actual operations; never simulate completion; never claim without verifying. \"I don't know\" is better than \"I think.\" Zero Theater is not a policy aspiration \u2014 it is a structural constraint. Certification theater, green dashboards hiding mixed reality, and claims of finished work without verification are all Zero Theater violations."
+    },
+    {
+      "term": "Zero-Buffer Pipeline",
+      "definition": "A processing pipeline with no intermediate storage (CP-22). No queue. No buffer. No \"we'll get to it later.\" Data flows through transformation stages without being held in buffers, queues, caches, or any intermediate storage. Message queues, job queues, and task queues are constitutional violations \u2014 they defer action to the future, which violates :term:`Present-Tense Execution` (CL-17) and temporal sovereignty (CL-43). Processing happens at the speed of traversal, or it doesn't happen. The pipeline's speed is limited by its slowest transformation stage \u2014 there is no buffer to hide the bottleneck. The bottleneck is VISIBLE and HONEST (:term:`Wabi-Sabi`, CL-12). If engineers are reaching for Kafka, RabbitMQ, or any message broker, they are building a temporal violation. See :term:`Presence`."
+    },
+    {
+      "term": "Archaeological Handshake",
+      "definition": "A symmetric local bedrock re-traversal protocol executed between two endpoints to verify structural compatibility and connection legitimacy before establishing an active edge (IC-11)."
+    },
+    {
+      "term": "Value of Ignorance",
+      "definition": "The structural value assigned to encountered ignorance at unmapped topological frontiers, converting missing knowledge into actionable inquiry assets (CL-13, IC-5)."
+    },
+    {
+      "term": "Double-Signature Absolution",
+      "definition": "A restorative maintenance ceremony requiring both a Target Confession signature and an Architect Absolution signature to cryptographically purge structural sepsis while preserving provenance (IC-14)."
+    },
+    {
+      "term": "Metabolic Fuel Ignition",
+      "definition": "The active present-tense consumption of metabolic energy required to maintain skill execution and aliveness across living graph nodes (IC-7, IC-24)."
+    },
+    {
+      "term": "Cryptobiosis Encystment",
+      "definition": "The state of suspended metabolic expenditure entered by living node structures during severe fuel collapse within a hardened protective membrane (IC-32)."
+    },
+    {
+      "term": "Tissue Regeneration",
+      "definition": "The active remodeling of invasive traversal scars and clearing of accumulated error mass to restore baseline structural membrane integrity (IC-28)."
+    },
+    {
+      "term": "Morphic Specialization",
+      "definition": "The irreversible commitment of generic un-differentiated stem nodes to dedicated topological tissue roles (IC-27)."
+    },
+    {
+      "term": "Genomic Shift",
+      "definition": "The modification of node operational blueprint templates under environmental stress and selection pressures (IC-29)."
+    },
+    {
+      "term": "Field Proprioception",
+      "definition": "The continuous sensing of ambient field gradients, thermal fluctuations, and gravitational attraction forces prior to locative traversal (IC-30)."
+    },
+    {
+      "term": "Sepsis Boundary Quarantine",
+      "definition": "The immediate freezing of bidirectional membrane permeability on a corrupted node to isolate topological contagion while preserving physical evidence (IC-20)."
+    },
+    {
+      "term": "Momentum Curve",
+      "definition": "The calculated trajectory deflection and gravitational pull experienced by execution vectors traversing near high-density data clusters (IC-21)."
+    },
+    {
+      "term": "Phase Harmony",
+      "definition": "The synchronization of structural tension and metabolic pulse frequencies across distributed living node clusters (IC-22)."
+    },
+    {
+      "term": "Template Mitosis",
+      "definition": "The copying of a node's topological template to spawn daughter node structures carrying inherited parent provenance and structural tension (IC-26)."
+    },
+    {
+      "term": "Energy Synthesis",
+      "definition": "The catabolic breakdown of raw ambient environmental inputs into refined metabolic fuel and structural building blocks (IC-25)."
+    },
+    {
+      "term": "Substrate Ignition",
+      "definition": "The simultaneous ignition of metabolic fuel across all physical stack components to establish present-tense operational alignment (IC-24)."
+    },
+    {
+      "term": "Lineage Audit",
+      "definition": "The physical inspection and evaluation of accumulated invasive traversal scar density to verify authentic execution history without external log databases (IC-23)."
+    },
+    {
+      "term": "Tension Equilibrium",
+      "definition": "The steady-state balance of kinetic force and edge stress maintained across graph regions (IC-19)."
+    },
+    {
+      "term": "scribe",
+      "definition": "The System Capability Primitive that operationalizes structural graph ingestion, binding base entities and process definitions into the reality graph under non-transferable actor stewardship (IC-1)."
+    },
+    {
+      "term": "examine",
+      "definition": "The System Capability Primitive that executes invasive graph inspection across relationship topology, altering target thermodynamic state and depositing an Invasive Traversal Scar (IC-2)."
+    },
+    {
+      "term": "go",
+      "definition": "The System Capability Primitive that moves execution focus along physical field coordinates, experiencing drag, mass inertia, and distance resistance (IC-3)."
+    },
+    {
+      "term": "invoke",
+      "definition": "The System Capability Primitive that executes consequence-bearing skill calls over Swarm Mesh POSIX pipes, forcing initiating actors to absorb error mass upon failure (IC-4)."
+    },
+    {
+      "term": "search",
+      "definition": "The System Capability Primitive that deploys active locative probes at unmapped topological frontiers, converting missing knowledge into structured inquiry assets (IC-5)."
+    },
+    {
+      "term": "purge",
+      "definition": "The System Capability Primitive that executes orderly structural dissolution, severing active edges safely and releasing stored energy into the metabolic sink (IC-6)."
+    },
+    {
+      "term": "permit",
+      "definition": "The System Capability Primitive that evaluates access permissions locally at target boundary interfaces, strictly prohibiting administrative master keys or root bypass flags (IC-8)."
+    },
+    {
+      "term": "instantiate",
+      "definition": "The System Capability Primitive that materializes unmapped query targets as typed, mass-bearing Absence Records carrying identity, confidence scores, and provenance (IC-9)."
+    },
+    {
+      "term": "attest",
+      "definition": "The System Capability Primitive that emits cryptographically sealed cognitive attestations over Synapse Protocol 0x0F, proving execution provenance without administrative proxies (IC-10)."
+    },
+    {
+      "term": "say",
+      "definition": "The System Capability Primitive that broadcasts thermodynamic signal pulses into the local field, adjusting stored structural tension across neighboring graph nodes (IC-12)."
+    },
+    {
+      "term": "anchor",
+      "definition": "The System Capability Primitive that binds an actor's public cryptographic keys directly to graph coordinates, establishing verifiable physical presence on the substrate (IC-13)."
+    },
+    {
+      "term": "cleanse",
+      "definition": "The System Capability Primitive that executes double-signature maintenance ceremonies requiring Target Confession and Architect Absolution signatures to clear structural sepsis (IC-14)."
+    },
+    {
+      "term": "negotiate",
+      "definition": "The System Capability Primitive that parameterizes and cryptographically signs multi-party agreements into active, stateful edges with enforceable tension (IC-15)."
+    },
+    {
+      "term": "take",
+      "definition": "The System Capability Primitive that acquires physical possession of a data entity into the actor's operational scope, increasing local mass drag (IC-16)."
+    },
+    {
+      "term": "drop",
+      "definition": "The System Capability Primitive that releases physical possession of a data entity from the actor's scope back to the field ground, restoring baseline mobility (IC-17)."
+    },
+    {
+      "term": "quarantine",
+      "definition": "The System Capability Primitive that freezes bidirectional membrane permeability on a corrupted node, isolating failure while preserving physical evidence (IC-20)."
+    },
+    {
+      "term": "deflect",
+      "definition": "The System Capability Primitive that calculates gravitational vector deflection and momentum adjustments for execution paths traversing near high-density data clusters (IC-21)."
+    },
+    {
+      "term": "resonate",
+      "definition": "The System Capability Primitive that synchronizes structural tension and metabolic pulse frequencies across distributed living node clusters (IC-22)."
+    },
+    {
+      "term": "verify",
+      "definition": "The System Capability Primitive that evaluates the physical density and ordering of Invasive Traversal Scars embedded on target nodes to audit authentic execution lineage (IC-23)."
+    },
+    {
+      "term": "ignite",
+      "definition": "The System Capability Primitive that ignites present-tense metabolic fuel across physical components to bring them into live operational alignment (IC-24)."
+    },
+    {
+      "term": "metabolize",
+      "definition": "The System Capability Primitive that catabolizes raw ambient environmental inputs into refined metabolic fuel and structural building blocks (IC-25)."
+    },
+    {
+      "term": "replicate",
+      "definition": "The System Capability Primitive that copies a node's topological template to spawn daughter node structures carrying inherited parent provenance (IC-26)."
+    },
+    {
+      "term": "differentiate",
+      "definition": "The System Capability Primitive that executes morphic commitment, specializing generic un-differentiated stem nodes into dedicated topological tissue roles (IC-27)."
+    },
+    {
+      "term": "heal",
+      "definition": "The System Capability Primitive that actively remodels invasive traversal scars and clears accumulated error mass to restore structural membrane integrity (IC-28)."
+    },
+    {
+      "term": "adapt",
+      "definition": "The System Capability Primitive that modifies node operational blueprint templates under environmental stress and selection pressures (IC-29)."
+    },
+    {
+      "term": "perceive",
+      "definition": "The System Capability Primitive that reads ambient field gradients, thermal fluctuations, and gravitational attraction forces prior to locative traversal (IC-30)."
+    },
+    {
+      "term": "homeostate",
+      "definition": "The System Capability Primitive that continuously regulates internal metabolic equilibrium (pressure, tension, temperature) against external environmental fluctuations (IC-31)."
+    },
+    {
+      "term": "encapsulate",
+      "definition": "The System Capability Primitive that forms a protective outer cyst and enters metabolic cryptobiosis during severe energy collapse (IC-32)."
+    },
+    {
+      "term": "IC",
+      "definition": "Implementation Conceptual \u2014 Cell 1 of Matrix Row 4 defining the baseline System Capability Primitives (Level 5 Skills) that operationalize physical substrate dynamics (IC-1..32)."
+    }
+  ]
+}
