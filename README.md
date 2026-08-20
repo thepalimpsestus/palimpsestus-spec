@@ -3,8 +3,9 @@
 **A scale-invariant 4D topological field operating system grounded in process ontology, non-equilibrium physics, and formal constitutional derivation.**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Patent Pending](https://img.shields.io/badge/Patent-Pending%20US%2064%2F136%2C744-blue)](https://www.uspto.gov/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22036005.svg)](https://doi.org/10.5281/zenodo.22036005)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/thepalimpsestus/palimpsestus-spec/releases/tag/v1.0.0)
+
 
 ---
 
