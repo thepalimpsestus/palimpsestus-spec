@@ -72,14 +72,6 @@ You are free to share, adapt, and build upon this specification for any purpose 
 
 ---
 
-## Patent Notice
-
-Patent Pending: US Provisional Application No. 64/136,744.
-
-Publication of this specification constitutes prior art establishment and does not constitute a waiver of patent rights in the described methods and systems.
-
----
-
 ## Attribution
 
 **Inventor:** Stephen Weber  
