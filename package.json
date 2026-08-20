@@ -1,8 +1,0 @@
-{
-  "name": "@palimpsestus/spec",
-  "version": "1.0.0",
-  "type": "module",
-  "description": "The Palimpsestus OS Open Specification (4x4 Matrix, 11 Axioms, DAG Rules)",
-  "license": "CC-BY-4.0",
-  "homepage": "https://spec.palimpsestus.org"
-}
