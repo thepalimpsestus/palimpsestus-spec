@@ -1,168 +1,89 @@
-# 1791 Technologies - The Palimpsestus Platform
+# Palimpsestus OS — Open Specification
 
-## 🏛️ Monorepo Reorganization - Industry-Leading Implementation Complete
+**A scale-invariant 4D topological field operating system grounded in process ontology, non-equilibrium physics, and formal constitutional derivation.**
 
-**Date**: September 29, 2025
-**Status**: ✅ COMPLETE - Industry-Leading Standards Achieved
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Patent Pending](https://img.shields.io/badge/Patent-Pending%20US%2064%2F136%2C744-blue)](https://www.uspto.gov/)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/thepalimpsestus/palimpsestus-spec/releases/tag/v1.0.0)
 
-### 🏆 Major Achievements
+---
 
-- **🏛️ Single Source of Truth**: Eliminated all organizational ambiguity through fractal patterns
-- **📋 Authority Hierarchy**: Clear ownership established for every component and file
-- **🔄 FrontierForge Migration**: 130+ files successfully migrated to The Palimpsestus structure
-- **📚 Standards Compliance**: Full adherence to 1791 Technologies documentation standards
-- **🧠 Knowledge Integration**: All documentation searchable via QRB semantic search
-- **⚡ Fractal Cave-Ship Philosophy**: Organizational patterns consistently applied at every level
+## What Is Palimpsestus OS?
 
-### 🏗️ Repository Structure
+Palimpsestus OS is a non-von Neumann computational substrate in which **edges are more fundamental than nodes**, existence is verified by active metabolic process rather than static state, and security is enforced through path-derived capability rather than ambient authority tables.
 
-Following our fractal philosophy, the repository structure mirrors the same organizational patterns at every level:
+The architecture is governed by:
 
-#### **✅ Monorepo Reorganization Complete**
-**Date**: September 29, 2025
-**Status**: Industry-Leading Implementation Achieved
+- **11 Constitutional Axioms** (CC-1 through CC-11) establishing the foundational ontology
+- **A 4×4 Matrix Derivation Chain** (CC, CL, CP, CI, LC, LL, LP, LI, PC, PL, PP, PI, IC, IL, IP, II) producing laws, roles, processes, and reaction gates through formal composition
+- **32 Atomic Capability Verbs** (IC-1 through IC-32) — the complete vocabulary of system action
+- **64 Autonomic Reaction Gates** (II-1 through II-64) — hardware-level threshold transitions
+- **State reversion in 3.29 µs** via algebraic inverse (O⁻¹ ∘ O ≡ I), operating ~3,700× faster than Redis WAL replay
 
-- **🏛️ Single Source of Truth**: All organizational ambiguity eliminated
-- **📋 Authority Hierarchy**: Clear ownership for every component established
-- **🔄 FrontierForge Migration**: 130 files successfully migrated to The Palimpsestus structure
-- **📝 Naming Standards**: 100+ files fixed from malformed letter-separated names to proper kebab-case
-- **📚 Standards Compliance**: Full adherence to 1791 Technologies documentation standards
-- **🧠 Knowledge Integration**: All documentation searchable via QRB semantic search
+The theoretical foundations span Oliver Heaviside's operational calculus, Alfred North Whitehead's process ontology, Peter Guthrie Tait's singularity-free manifold geometry, and Kurt Gödel's metalogical incompleteness as a constitutional protection for agent sovereignty.
 
-### 🗂️ Directory Structure
+---
 
-```
-1791tech-phoenix/
-├── products/                           # Deployable products
-│   └── 1791-tech/                      # Main product
-├── packages/                           # Platform packages
-│   ├── memory-core/                    # QRB vector database
-│   ├── workflow-core/                  # AAO framework
-│   └── config-core/                    # Business configuration
-├── docs/                              # Centralized documentation
-│   ├── source/
-│   │   ├── products/the-palimpsestus/ # Platform documentation
-│   │   ├── standards/                 # Documentation standards
-│   │   └── technical/                 # Technical documentation
-│   └── _build/                        # Generated documentation
-├── infra/                             # Infrastructure as Code
-├── scripts/                           # Build and utility scripts
-├── CODEOWNERS                         # Governance and ownership
-├── .gitignore                         # Version control exclusions
-└── README.md                          # Repository overview
-```
+## What Is In This Repository?
 
-### 📋 Core Components
+This repository contains the **open specification** for Palimpsestus OS — the full 4×4 matrix derivation chain and master glossary, published under CC-BY-4.0.
 
-#### **Memory Core** (`packages/memory-core/`)
-- **QRB Knowledge System**: Quantum-resistant vector database
-- **Semantic Search**: Advanced knowledge discovery
-- **Knowledge Graph**: Structured relationship mapping
-- **Post-Quantum Security**: CRYSTALS-Kyber integration
+| File | Contents |
+|------|----------|
+| `system-foundations-conceptual-conceptual.md` | CC cell — Constitutional Axioms |
+| `system-foundations-conceptual-logical.md` | CL cell — Logical derivations from axioms |
+| `system-foundations-conceptual-physical.md` | CP cell — Physical manifestations of axioms |
+| `system-foundations-conceptual-implementation.md` | CI cell — Implementation mappings from axioms |
+| `system-foundations-logical-conceptual.md` | LC cell — Logical-Conceptual cross-derivations |
+| `system-foundations-logical-logical.md` | LL cell — Logical law compositions |
+| `system-foundations-logical-physical.md` | LP cell — Logical-Physical derivations |
+| `system-foundations-logical-implementation.md` | LI cell — Logical-Implementation mappings |
+| `system-foundations-physical-conceptual.md` | PC cell — Physical-Conceptual grounding |
+| `system-foundations-physical-logical.md` | PL cell — Physical-Logical derivations |
+| `system-foundations-physical-physical.md` | PP cell — Physical law compositions |
+| `system-foundations-physical-implementation.md` | PI cell — Physical-Implementation mappings |
+| `system-foundations-implementation-conceptual.md` | IC cell — 32 Atomic Capability Verbs |
+| `system-foundations-implementation-logical.md` | IL cell — 32 System Actor Roles |
+| `system-foundations-implementation-physical.md` | IP cell — 64 Operational Processes |
+| `system-foundations-implementation-implementation.md` | II cell — 64 Autonomic Reaction Gates |
+| `glossary.md` | Master glossary (human-readable) |
+| `glossary.json` | Master glossary (machine-readable) |
+| `glossary.yaml` | Master glossary (YAML schema) |
+| `CITATION.cff` | Citation metadata |
 
-#### **Workflow Core** (`packages/workflow-core/`)
-- **AAO Framework**: Actor-Agent-Operator cognitive architecture
-- **Team Spawning**: Autonomous team creation and management
-- **Orchestration Systems**: Multi-agent coordination
-- **Self-Improvement**: Continuous system evolution
+---
 
-#### **Config Core** (`packages/config-core/`)
-- **Business Model Configuration**: Strategic alignment
-- **Platform Governance**: Standards and policies
-- **Cross-Cutting Configuration**: Unified settings management
+## Academic Paper
 
-### 📚 Documentation Standards
+The accompanying arXiv preprint formally derives the performance claims and architectural theorems:
 
-#### **RST Format Requirements**
-- Proper RST header formatting with overline/underline
-- Consistent metadata frontmatter in all files
-- Proper Sphinx reference syntax
-- Code blocks with syntax highlighting
+> *Palimpsestus OS: A Scale-Invariant Topological Field Operating System with 3.29 µs State Reversion via Algebraic Inverse*
+> Stephen Weber — [arXiv link to be added upon publication]
 
-#### **Naming Conventions**
-- **Files**: Kebab-case (`kebab-case.rst`)
-- **Directories**: Kebab-case (`kebab-case/`)
-- **Variables**: Kebab-case where applicable
-- **Classes**: PascalCase for JavaScript/TypeScript
+---
 
-#### **Metadata Standards**
-All files must include:
+## License
 
-```rst
-:status: <current-status>
-:owner: <responsible-party>
-:version: <semantic-version>
-:tags: <comma-separated-tags>
-:timestamp: <iso-timestamp>
-```
+This specification is published under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-### ⚡ Fractal Cave-Ship Philosophy
+You are free to share, adapt, and build upon this specification for any purpose — including commercially — provided you give appropriate credit.
 
-The fractal cave-ship philosophy guides every aspect of our organization:
+**The proprietary kernel implementation** (the Rust crates, MVEP engines, and production infrastructure) is not included in this repository and is not covered by this license.
 
-- **Fractal**: Consistent patterns at micro, meso, macro, and meta scales
-- **Cave**: Contained knowledge environment ("no out, only in")
-- **Ship**: Reliable navigation through complex systems
-- **洲呈文 (Zhōu Chéng Wén)**: Excellence in technical implementation and scholarly presentation
+---
 
-### 🏛️ Governance
+## Patent Notice
 
-#### **Code Ownership (CODEOWNERS)**
-- Platform-wide ownership by ArchitectActor
-- Package-specific ownership by specialized teams
-- Documentation ownership by technical writers
-- Review requirements for critical changes
+Patent Pending: US Provisional Application No. 64/136,744.
 
-#### **Standards Enforcement**
-- Automated linting and validation
-- CI/CD pipeline integration
-- Path-based automation for testing and deployment
-- Continuous standards compliance monitoring
+Publication of this specification constitutes prior art establishment and does not constitute a waiver of patent rights in the described methods and systems.
 
-### 🚀 Quick Start
+---
 
-1. **Clone Repository**:
-   ```bash
-   git clone <repository-url>
-   cd 1791tech-phoenix
-   ```
+## Attribution
 
-2. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
+**Inventor:** Stephen Weber  
+**Organization:** 1791 Technologies LLC  
+**Contact:** [1791.tech](https://1791.tech)
 
-3. **Start QRB Knowledge System**:
-   ```bash
-   cd packages/memory-core/src/qrb-memory-core/api
-   npm start
-   ```
-
-4. **Access Platform**:
-   - **QRB API**: http://localhost:3001
-   - **Health Check**: http://localhost:3001/health
-   - **Documentation**: http://localhost:3001/docs
-
-### 🔗 Key Resources
-
-- **📋 Implementation Tracker**: `docs/source/products/the-palimpsestus/business/implementation-tracker.rst`
-- **🏛️ Monorepo Strategy**: `docs/source/standards/monorepo-strategy-governance-guide.rst`
-- **📚 Documentation Standards**: `docs/source/standards/documentation-standards.rst`
-- **🔒 Security Standards**: `docs/source/standards/security-standards.rst`
-
-### 🎯 Mission
-
-1791 Technologies builds **The Palimpsestus Platform** - a distributed cognitive infrastructure platform that combines:
-
-- **Quantum-Resistant Security**: Post-quantum cryptography protecting knowledge assets
-- **Autonomous Operations**: AAO framework enabling self-managing systems
-- **Fractal Organization**: Consistent patterns supporting infinite scalability
-- **Knowledge Integration**: Semantic search across all organizational knowledge
-
-**🏛️ Monorepo Governance: COMPLETE**
-**📚 Standards Compliance: COMPLETE**
-**🔄 Migration: COMPLETE**
-**🧠 Knowledge Integration: OPERATIONAL**
-**⚡ Fractal Philosophy: PERMANENTLY EMBEDDED**
-
-*This platform operates under the 洲呈文 philosophy - pursuing excellence in technical implementation, clear knowledge presentation, and scholarly documentation standards.*
+If you implement, extend, or publish research based on this specification, please cite using the `CITATION.cff` file in this repository.
