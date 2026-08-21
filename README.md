@@ -1,81 +1,56 @@
-# Palimpsestus OS — Open Specification
+# Palimpsestus Open Architecture Specification (`palimpsestus-spec`)
 
-**A scale-invariant 4D topological field operating system grounded in process ontology, non-equilibrium physics, and formal constitutional derivation.**
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Patent Pending](https://img.shields.io/badge/Patent-Pending%20US%2064%2F136%2C744-blue)](https://www.uspto.gov/)
-[![Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/thepalimpsestus/palimpsestus-spec/releases/tag/v1.0.0)
-
----
-
-## What Is Palimpsestus OS?
-
-Palimpsestus OS is a non-von Neumann computational substrate in which **edges are more fundamental than nodes**, existence is verified by active metabolic process rather than static state, and security is enforced through path-derived capability rather than ambient authority tables.
-
-The architecture is governed by:
-
-- **11 Constitutional Axioms** (CC-1 through CC-11) establishing the foundational ontology
-- **A 4×4 Matrix Derivation Chain** (CC, CL, CP, CI, LC, LL, LP, LI, PC, PL, PP, PI, IC, IL, IP, II) producing laws, roles, processes, and reaction gates through formal composition
-- **32 Atomic Capability Verbs** (IC-1 through IC-32) — the complete vocabulary of system action
-- **64 Autonomic Reaction Gates** (II-1 through II-64) — hardware-level threshold transitions
-- **State reversion in 3.29 µs** via algebraic inverse (O⁻¹ ∘ O ≡ I), operating ~3,700× faster than Redis WAL replay
-
-The theoretical foundations span Oliver Heaviside's operational calculus, Alfred North Whitehead's process ontology, Peter Guthrie Tait's singularity-free manifold geometry, and Kurt Gödel's metalogical incompleteness as a constitutional protection for agent sovereignty.
+**Classification:** Public Law — Constitutional Architecture & Structural Mechanics  
+**Governing Universal Invariants (Provenance Fidelity):**  
+$$\boxed{ \underbrace{\text{No Ancestral Erasure}}_{\text{Universal Invariant (Subtractive Integrity)}} \rightleftharpoons \underbrace{\text{No Warrant Inflation}}_{\text{Non-Inflationary Warrant (Additive Integrity)}} }$$  
+**Governing Open Frontier Physics:**  
+$$\boxed{\text{Procedural Saturation} \neq \text{Ontological Closure}}$$  
+**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)  
+**Specification Version:** `1.0.2`  
+**Governing Constitution:** `C_1`  
 
 ---
 
-## What Is In This Repository?
+## Specification Navigation
 
-This repository contains the **open specification** for Palimpsestus OS — the full 4×4 matrix derivation chain and master glossary, published under CC-BY-4.0.
+This repository contains the normative public law, mathematical foundation, generative mechanics, and JSON schema contracts for **Palimpsestus**.
 
-| File | Contents |
-|------|----------|
-| `system-foundations-conceptual-conceptual.md` | CC cell — Constitutional Axioms |
-| `system-foundations-conceptual-logical.md` | CL cell — Logical derivations from axioms |
-| `system-foundations-conceptual-physical.md` | CP cell — Physical manifestations of axioms |
-| `system-foundations-conceptual-implementation.md` | CI cell — Implementation mappings from axioms |
-| `system-foundations-logical-conceptual.md` | LC cell — Logical-Conceptual cross-derivations |
-| `system-foundations-logical-logical.md` | LL cell — Logical law compositions |
-| `system-foundations-logical-physical.md` | LP cell — Logical-Physical derivations |
-| `system-foundations-logical-implementation.md` | LI cell — Logical-Implementation mappings |
-| `system-foundations-physical-conceptual.md` | PC cell — Physical-Conceptual grounding |
-| `system-foundations-physical-logical.md` | PL cell — Physical-Logical derivations |
-| `system-foundations-physical-physical.md` | PP cell — Physical law compositions |
-| `system-foundations-physical-implementation.md` | PI cell — Physical-Implementation mappings |
-| `system-foundations-implementation-conceptual.md` | IC cell — 32 Atomic Capability Verbs |
-| `system-foundations-implementation-logical.md` | IL cell — 32 System Actor Roles |
-| `system-foundations-implementation-physical.md` | IP cell — 64 Operational Processes |
-| `system-foundations-implementation-implementation.md` | II cell — 64 Autonomic Reaction Gates |
-| `glossary.md` | Master glossary (human-readable) |
-| `glossary.json` | Master glossary (machine-readable) |
-| `glossary.yaml` | Master glossary (YAML schema) |
-| `CITATION.cff` | Citation metadata |
+### Core Constitutional Specification
+* 📄 **[MANIFESTO.md](MANIFESTO.md):** Constitutional Footing, Philosophy, Tri-Temporal Coupling, and Derivation of Relational Consequences.
+* 📄 **[CONSTITUTIONAL_SPEC.md](CONSTITUTIONAL_SPEC.md):** System Specification, 5-Tier Epistemic Taxonomy, Scale-Homologous Functorial Projections ($F_s$), and Operationalized `OpenFrontierGate`.
+* 📄 **[dag-crossing-method.md](dag-crossing-method.md):** Matrix Generative Operators (Layer Fold $\Phi_r \rightleftharpoons$ Cell Crossing $\text{Cross}$), Zero Pre-Filtering Mandate, and Inviolable Topological Authorship Sequence.
+
+### Normative JSON Schemas ([/schemas/](schemas/))
+* 📄 **[node.schema.json](schemas/node.schema.json):** Derivation Lattice Node Schema.
+* 📄 **[cross-receipt.schema.json](schemas/cross-receipt.schema.json):** Foundation Cross Receipt Schema.
+* 📄 **[fold-receipt.schema.json](schemas/fold-receipt.schema.json):** Foundation Fold Receipt Schema.
+* 📄 **[migration-receipt.schema.json](schemas/migration-receipt.schema.json):** Ancestry-Preserving Constitutional Migration Receipt Schema.
+
+### Matrix Derivation Lattice (3,269+ Authored Entries)
+* 📄 **[system-foundations-conceptual-conceptual.md](system-foundations-conceptual-conceptual.md):** Conceptual Basis (CC)
+* 📄 **[system-foundations-logical-logical.md](system-foundations-logical-logical.md):** Logical Closure (LL)
+* 📄 **[system-foundations-physical-physical.md](system-foundations-physical-physical.md):** Physical Closure (PP)
+* 📄 **[system-foundations-implementation-implementation.md](system-foundations-implementation-implementation.md):** Implementation Closure (II)
+* *(...and 12 cross-cell derivation files mapping the complete $M_{4 \times 4}$ matrix lattice).*
 
 ---
 
-## Academic Paper
+## Tri-Repository Architecture
 
-The accompanying arXiv preprint formally derives the performance claims and architectural theorems:
+$$\boxed{
+\begin{array}{ccc}
+\mathbf{\text{palimpsestus-spec}} & \mathbf{\text{palimpsestus-conformance}} & \mathbf{\text{palimpsestus-platform}} \\[4pt]
+\text{What must hold?} & \text{How is compliance checked?} & \text{How do we make it work?} \\[4pt]
+\textbf{PUBLIC LAW (CC BY 4.0)} & \textbf{PUBLIC VERIFIER (MIT)} & \textbf{PROPRIETARY ENGINE}
+\end{array}
+}$$
 
-> *Palimpsestus OS: A Scale-Invariant Topological Field Operating System with 3.29 µs State Reversion via Algebraic Inverse*
-> Stephen Weber — [arXiv link to be added upon publication]
-
----
-
-## License
-
-This specification is published under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-You are free to share, adapt, and build upon this specification for any purpose — including commercially — provided you give appropriate credit.
-
-**The proprietary kernel implementation** (the Rust crates, MVEP engines, and production infrastructure) is not included in this repository and is not covered by this license.
+* **Specification Repository (`palimpsestus-spec`):** Defines normative law, constitutional invariants, matrix derivation entries, and schema contracts.
+* **Conformance Repository (`palimpsestus-conformance`):** Provides machine-checkable structural DAG validators, behavioral harnesses, and test vectors pinned to this specification.
+* **Platform Repository (`palimpsestus-platform`):** Proprietary execution engine, agent prompts, and search compilers.
 
 ---
 
-## Attribution
+## Citation & Metadata
 
-**Inventor:** Stephen Weber  
-**Organization:** 1791 Technologies LLC  
-**Contact:** [1791.tech](https://1791.tech)
-
-If you implement, extend, or publish research based on this specification, please cite using the `CITATION.cff` file in this repository.
+If you cite or build upon this specification, please cite as defined in [CITATION.cff](CITATION.cff) and [.zenodo.json](.zenodo.json).

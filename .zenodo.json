@@ -19,5 +19,12 @@
     "Non-Equilibrium Thermodynamics",
     "Topological Zero-Trust",
     "Post-Quantum Cryptography"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22036005",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    }
   ]
 }
