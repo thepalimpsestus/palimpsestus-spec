@@ -1,5 +1,10 @@
 # Palimpsestus Open Architecture Specification (`palimpsestus-spec`)
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Patent Pending](https://img.shields.io/badge/Patent-Pending%20US%2064%2F136%2C744-blue)](https://www.uspto.gov/)
+[![Version](https://img.shields.io/badge/Version-1.0.2-green)](https://github.com/thepalimpsestus/palimpsestus-spec/releases/tag/v1.0.2)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22036005.svg)](https://doi.org/10.5281/zenodo.22036005)
+
 **Classification:** Public Law — Constitutional Architecture & Structural Mechanics  
 **Governing Universal Invariants (Provenance Fidelity):**  
 $$\boxed{ \underbrace{\text{No Ancestral Erasure}}_{\text{Universal Invariant (Subtractive Integrity)}} \rightleftharpoons \underbrace{\text{No Warrant Inflation}}_{\text{Non-Inflationary Warrant (Additive Integrity)}} }$$  
@@ -48,6 +53,14 @@ $$\boxed{
 * **Specification Repository (`palimpsestus-spec`):** Defines normative law, constitutional invariants, matrix derivation entries, and schema contracts.
 * **Conformance Repository (`palimpsestus-conformance`):** Provides machine-checkable structural DAG validators, behavioral harnesses, and test vectors pinned to this specification.
 * **Platform Repository (`palimpsestus-platform`):** Proprietary execution engine, agent prompts, and search compilers.
+
+---
+
+## License & Patent Notice
+
+This specification is published under the [Creative Commons Attribution 4.0 International License](LICENSE).
+
+**Patent Pending:** US Provisional Application No. 64/136,744. Publication of this specification constitutes prior art establishment and does not constitute a waiver of patent rights in the described methods and systems.
 
 ---
 
