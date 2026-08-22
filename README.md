@@ -25,6 +25,11 @@ This repository contains the normative public law, mathematical foundation, gene
 * 📄 **[CONSTITUTIONAL_SPEC.md](CONSTITUTIONAL_SPEC.md):** System Specification, 5-Tier Epistemic Taxonomy, Scale-Homologous Functorial Projections ($F_s$), and Operationalized `OpenFrontierGate`.
 * 📄 **[dag-crossing-method.md](dag-crossing-method.md):** Matrix Generative Operators (Layer Fold $\Phi_r \rightleftharpoons$ Cell Crossing $\text{Cross}$), Zero Pre-Filtering Mandate, and Inviolable Topological Authorship Sequence.
 
+### Public Falsification Surface — Crucibles Framework ([/crucibles/](crucibles/))
+* 🧪 **[crucibles/README.md](crucibles/README.md):** Falsification Philosophy ("Crucibles are attempts to discover where Palimpsestus ceases to be warranted"), No-Ad-Hoc-Rescue Rule, and 9 Outcome Definitions.
+* 📋 **[crucibles/INDEX.md](crucibles/INDEX.md):** Pre-Populated 3-Band Challenge Board (Learn, Claim, Frontier).
+* 📄 **[crucibles/TEMPLATE.md](crucibles/TEMPLATE.md):** Standardized 16-Section Analysis & Hidden-Premise Audit Template.
+
 ### Normative JSON Schemas ([/schemas/](schemas/))
 * 📄 **[node.schema.json](schemas/node.schema.json):** Derivation Lattice Node Schema.
 * 📄 **[cross-receipt.schema.json](schemas/cross-receipt.schema.json):** Foundation Cross Receipt Schema.

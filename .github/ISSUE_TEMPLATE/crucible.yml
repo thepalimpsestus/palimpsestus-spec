@@ -1,0 +1,58 @@
+name: "Submit a Crucible (Hard Problem / Paradox)"
+description: "Submit a problem, paradox, distributed systems failure, or governance challenge to test Palimpsestus."
+title: "[CRUCIBLE]: "
+labels: ["crucible", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Public Crucible Submission Form
+        Welcome! You do NOT need to understand formal Palimpsestus mathematics to submit a problem. Describe the scenario, premises, and apparent contradiction below.
+
+  - type: input
+    id: domain
+    attributes:
+      label: Domain Category
+      description: What domain does this problem belong to? (e.g. Philosophy, Distributed Systems, Governance, Epistemology, AI, Law)
+      placeholder: "e.g. Distributed Systems"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem_statement
+    attributes:
+      label: Problem Statement
+      description: Describe the problem, paradox, or edge case in plain domain language.
+      placeholder: "Describe what happens..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: minimal_premises
+    attributes:
+      label: Minimal Premises
+      description: What are the key assumptions or events required for this problem to arise?
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: contradiction
+    attributes:
+      label: Why is this difficult / Apparent Contradiction
+      description: Where does the paradox or failure manifest? Why is it hard to resolve cleanly?
+      placeholder: "Explain the apparent contradiction..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_resolution
+    attributes:
+      label: Proposed Resolution (Optional)
+      description: Do you have a proposed resolution or hypothesis?
+      placeholder: "Optional thoughts on resolution..."
+    validations:
+      required: false
