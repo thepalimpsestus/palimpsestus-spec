@@ -4,14 +4,14 @@ title: "Sorites / The Heap"
 domain: "epistemology"
 difficulty: "introductory"
 
-status: "STABLE"
+status: "ADVERSARIAL_REVIEW"
 primary_outcome: "UNDERDETERMINED"
 outcomes:
   - "UNDERDETERMINED"
   - "REFRAMED"
 
 constitution: "C_1"
-spec_version: "v1.0.6"
+spec_version: "v1.0.7"
 
 constitutional_dependencies:
   - "CC-1"

@@ -4,14 +4,14 @@ title: "The Great Vector War"
 domain: "history-of-science"
 difficulty: "introductory"
 
-status: "STABLE"
+status: "ADVERSARIAL_REVIEW"
 primary_outcome: "REFRAMED"
 outcomes:
   - "LOCALIZED"
   - "REFRAMED"
 
 constitution: "C_1"
-spec_version: "v1.0.6"
+spec_version: "v1.0.7"
 
 constitutional_dependencies:
   - "CC-1"

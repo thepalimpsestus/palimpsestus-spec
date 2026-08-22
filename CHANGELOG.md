@@ -4,6 +4,13 @@ All notable changes to the Palimpsestus Open Architecture Specification will be 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.7] - 2026-08-22
+
+### Changed
+- **Worked Reference Launch Posture (`CR-001..003`):** Transitioned Worked Reference Crucibles status to `ADVERSARIAL_REVIEW` to establish that initial maintainer analyses serve as public method demonstrations open for challenge rather than unchallengeable canon.
+
+---
+
 ## [1.0.6] - 2026-08-22
 
 ### Added
