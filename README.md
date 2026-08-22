@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Patent Pending](https://img.shields.io/badge/Patent-Pending%20US%2064%2F136%2C744-blue)](https://www.uspto.gov/)
-[![Version](https://img.shields.io/badge/Version-1.0.3-green)](https://github.com/thepalimpsestus/palimpsestus-spec/releases/tag/v1.0.3)
+[![Version](https://img.shields.io/badge/Version-1.0.4-green)](https://github.com/thepalimpsestus/palimpsestus-spec/releases/tag/v1.0.4)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22036005.svg)](https://doi.org/10.5281/zenodo.22036005)
 
 **Classification:** Public Law — Constitutional Architecture & Structural Mechanics  
@@ -11,7 +11,7 @@ $$\boxed{ \underbrace{\text{No Ancestral Erasure}}_{\text{Universal Invariant (S
 **Governing Open Frontier Physics:**  
 $$\boxed{\text{Procedural Saturation} \neq \text{Ontological Closure}}$$  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)  
-**Specification Version:** `1.0.3`  
+**Specification Version:** `1.0.4`  
 **Governing Constitution:** `C_1`  
 
 ---

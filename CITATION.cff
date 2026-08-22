@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you cite or utilize this specification, please cite it as below."
 title: "The Palimpsestus OS Open Specification"
-version: "1.0.3"
+version: "1.0.4"
 authors:
   - family-names: "Weber"
     given-names: "Stephen"

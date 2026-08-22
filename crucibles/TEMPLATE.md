@@ -10,8 +10,8 @@ outcomes:
   - "PENDING"
 
 constitution: "C_1"
-spec_version: "v1.0.3"
-spec_commit: "0d15cb5"
+spec_version: "v1.0.4"
+spec_commit: "0a79efc"
 
 constitutional_dependencies:
   - "CC-1"
