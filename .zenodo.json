@@ -2,7 +2,7 @@
   "title": "Palimpsestus OS: Open Specification for a Scale-Invariant Topological Field Architecture",
   "upload_type": "publication",
   "publication_type": "workingpaper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Foundational technical specification for Palimpsestus OS, detailing the 4x4 matrix (CC, CL, CP, CI, LC, LL, LP, LI, PC, PL), non-equilibrium graph mechanics, 64 autonomic reaction gates, and path-derived topological security.",
   "creators": [
     {

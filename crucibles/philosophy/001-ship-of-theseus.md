@@ -10,8 +10,8 @@ outcomes:
   - "REFRAMED"
 
 constitution: "C_1"
-spec_version: "v1.0.4"
-spec_commit: "0a79efc"
+spec_version: "v1.0.5"
+spec_commit: "PENDING"
 
 constitutional_dependencies:
   - "CC-4"
@@ -37,10 +37,10 @@ A ship belonging to Theseus is maintained over years by replacing every wooden p
 - **P4:** Both $T_n$ and $R_n$ claim identity with $T_0$.
 
 ## 3. Epistemic Classification
-- **P1:** Minimal Observation (Historical occurrence).
-- **P2:** Minimal Observation (Sequential physical state mutation).
-- **P3:** Minimal Observation (Sequential physical state mutation).
-- **P4:** Constitutive Assumption (Semantic identity claims).
+- **P1:** Tier 1 Phenomenological Constraint (Minimal Observation).
+- **P2:** Tier 1 Phenomenological Constraint (Minimal Observation).
+- **P3:** Tier 1 Phenomenological Constraint (Minimal Observation).
+- **P4:** Tier 5 Operational Heuristic (Semantic identity claims).
 
 ## 4. Hidden-Premise Audit
 - **Hidden Premise A:** "Identity" is a singular, context-free binary predicate $Identity(A, B) \in \{0, 1\}$.
@@ -67,13 +67,13 @@ A ship belonging to Theseus is maintained over years by replacing every wooden p
 
 ## 8. Constitutional Traversal & Operator Application
 - **CC-4 (Connection & Relational Stabilization):** Relata and relations mutually stabilize ($Object \rightleftharpoons Relation$).
-- **CC-5 (Traversal & Affordance Frontier):** Identity is path traversal reachability across versioned occurrences.
+- **CC-5 (Traversal & Affordance Frontier):** History defines reachability across versioned occurrence nodes.
 - **CC-6 (Effective History):** Past occurrences survive as inherited causal constraints shaping present trace.
 
 ## 9. Formal Derivation & Analysis
 Palimpsestus models $T_0$ not as a static noun, but as an occurrence node $v_{T_0}$ in the historical DAG $G_{\le t}$.
-- The active ship $T_n$ possesses a continuous, unbroken causal-historical lineage $v_{T_0} \prec \dots \prec v_{T_n}$.
-- The reassembled ship $R_n$ possesses a continuous material-composition lineage $v_{T_0} \xrightarrow{M_0} v_{R_n}$.
+1. **Historical Ancestry ($G_{\le t}$):** The active ship $T_n$ possesses a continuous, unbroken causal-historical lineage $v_{T_0} \prec \dots \prec v_{T_n}$. The reassembled ship $R_n$ possesses a continuous material-composition lineage $v_{T_0} \xrightarrow{M_0} v_{R_n}$.
+2. **Semantic Overlay ($E_{\text{semantic}}$):** Combining $G_{\le t}$ with explicit semantic relation typing reveals that $T_n$ and $R_n$ satisfy distinct, non-conflicting identity relations.
 
 The apparent paradox arises exclusively from **Hidden Premise A** (demanding one context-free identity predicate). Under $C_1$, identity is reframed as relationally stabilized historical provenance:
 
@@ -104,4 +104,5 @@ None. The tension between causal continuity and material composition is fully lo
 - **Historical Source:** Plutarch, *Life of Theseus*, 75 CE; Thomas Hobbes, *De Corpore*, 1655.
 
 ## 16. Revision History
-- **`v1.0`** (2026-08-22): Worked reference analysis completed under $C_1$.
+- **`v1.0`** (2026-08-22): Initial worked reference under $C_1$.
+- **`v1.1`** (2026-08-22): Self-correction pass: aligned epistemic tiers and clarified explicit derivation step connecting semantic relation typing to $G_{\le t}$.

@@ -11,8 +11,8 @@ outcomes:
   - "REFRAMED"
 
 constitution: "C_1"
-spec_version: "v1.0.4"
-spec_commit: "0a79efc"
+spec_version: "v1.0.5"
+spec_commit: "PENDING"
 
 constitutional_dependencies:
   - "CC-1"
@@ -28,21 +28,21 @@ authors:
 # CR-002 — Sorites / The Heap
 
 ## 1. Problem Statement
-A single grain of sand is not a heap ($H(1) = 0$). Adding a single grain of sand to a non-heap cannot turn it into a heap ($\forall n, H(n) \to H(n+1)$). By mathematical induction, 1,000,000 grains of sand is not a heap ($H(10^6) = 0$), contradicting human observation.
+A single grain of sand is not a heap ($\neg H(1)$). Adding a single grain of sand to a non-heap cannot turn it into a heap ($\forall n, \neg H(n) \implies \neg H(n+1)$). By mathematical induction, 1,000,000 grains of sand is not a heap ($\neg H(10^6)$), contradicting physical observation.
 
 ## 2. Minimal Premises
-- **P1:** $H(1) = \text{False}$ (1 grain is not a heap).
-- **P2:** $H(n) \implies H(n+1)$ (Tolerance premise: 1 grain difference is epistemically indistinguishable).
-- **P3:** $H(10^6) = \text{True}$ (1,000,000 grains is a heap).
+- **P1:** $\neg H(1)$ (1 grain is a non-heap).
+- **P2:** $\neg H(n) \implies \neg H(n+1)$ (Tolerance premise: adding 1 grain to a non-heap cannot create a heap).
+- **P3:** $H(10^6)$ (1,000,000 grains is a heap).
 
 ## 3. Epistemic Classification
-- **P1:** Minimal Observation.
-- **P2:** Constitutive Assumption (Epistemic tolerance boundary).
-- **P3:** Minimal Observation.
+- **P1:** Tier 1 Phenomenological Constraint (Minimal Observation).
+- **P2:** Tier 5 Operational Heuristic (Epistemic tolerance boundary).
+- **P3:** Tier 1 Phenomenological Constraint (Minimal Observation).
 
 ## 4. Hidden-Premise Audit
-- **Hidden Premise A:** The semantic quotient predicate $Heap(x)$ possesses a sharp micro-scale boundary independent of scale or observer quotient.
-- **Hidden Premise B:** Induction holds uniformly across scale transformations without quotient coarsening.
+- **Hidden Premise A:** The macro-scale predicate $Heap(x)$ possesses a sharp micro-scale boundary independent of scale or observer quotient.
+- **Hidden Premise B:** Mathematical induction holds uniformly across scale transformations without quotient coarsening.
 
 ## 5. Relational & Domain Decomposition
 - **Actors / Relata:** Grains $g_1 \dots g_N$, Heap predicate $H$.
@@ -58,7 +58,7 @@ A single grain of sand is not a heap ($H(1) = 0$). Adding a single grain of sand
 
 ## 8. Constitutional Traversal & Operator Application
 - **CC-1 (Scale Recurrence):** Scale-preserving functorial projections $F_s(f \circ g) = F_s(f) \circ F_s(g)$.
-- **CC-10 (Ignorance & Open Frontier):** Strategic boundary ambiguity ($\text{Procedural Saturation} \neq \text{Ontological Closure}$).
+- **CC-10 (Ignorance & Open Frontier):** Strategic refusal of premature closure ($\text{Procedural Saturation} \neq \text{Ontological Closure}$).
 
 ## 9. Formal Derivation & Analysis
 Under $C_1$, $Heap(x)$ is a macro-scale quotient predicate $F_s(x)$, not a micro-scale property of single grains.
@@ -77,7 +77,7 @@ The exact epistemic boundary between micro-grains and macro-heaps remains an ope
 
 ## 12. Outcome Classification & Justification
 - **Primary Outcome:** `UNDERDETERMINED`
-- **Outcomes:** `[UNDERDETERMINED, REFRAMED]`
+- **Outcomes:** `[UNDERDETERMINED, REFREMED]`
 - **Justification:** Given $C_1$ and initial premises, multiple sharp boundary thresholds are equally warranted; first principles cannot select one without warrant inflation.
 
 ## 13. Resolution Dependency Audit
@@ -91,4 +91,5 @@ The exact epistemic boundary between micro-grains and macro-heaps remains an ope
 - **Historical Source:** Eubulides of Miletus, 4th Century BCE.
 
 ## 16. Revision History
-- **`v1.0`** (2026-08-22): Worked reference analysis completed under $C_1$.
+- **`v1.0`** (2026-08-22): Initial worked reference under $C_1$.
+- **`v1.1`** (2026-08-22): Self-correction pass: fixed formal tolerance premise to $\neg H(n) \implies \neg H(n+1)$ and aligned epistemic tiers.

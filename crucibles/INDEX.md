@@ -11,9 +11,9 @@ This registry tracks all official Palimpsestus Crucibles across three operationa
 
 | ID | Title | Domain | Pinned Spec | Status | Outcomes | Reference File |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CR-001** | **Ship of Theseus** | Identity | `C_1` (`v1.0.3`) | `STABLE` | `REFRAMED` | [`philosophy/001-ship-of-theseus.md`](philosophy/001-ship-of-theseus.md) |
-| **CR-002** | **Sorites / The Heap** | Epistemology | `C_1` (`v1.0.3`) | `STABLE` | `UNDERDETERMINED` | [`epistemology/002-sorites-threshold.md`](epistemology/002-sorites-threshold.md) |
-| **CR-003** | **The Great Vector War** | History of Science | `C_1` (`v1.0.3`) | `STABLE` | `LOCALIZED`, `REFRAMED` | [`history-of-science/003-great-vector-war.md`](history-of-science/003-great-vector-war.md) |
+| **CR-001** | **Ship of Theseus** | Identity | `C_1` (`v1.0.5`) | `STABLE` | `REFRAMED` | [`philosophy/001-ship-of-theseus.md`](philosophy/001-ship-of-theseus.md) |
+| **CR-002** | **Sorites / The Heap** | Epistemology | `C_1` (`v1.0.5`) | `STABLE` | `UNDERDETERMINED` | [`epistemology/002-sorites-threshold.md`](epistemology/002-sorites-threshold.md) |
+| **CR-003** | **The Great Vector War** | History of Science | `C_1` (`v1.0.5`) | `STABLE` | `LOCALIZED`, `REFRAMED` | [`history-of-science/003-great-vector-war.md`](history-of-science/003-great-vector-war.md) |
 
 ---
 
@@ -21,10 +21,10 @@ This registry tracks all official Palimpsestus Crucibles across three operationa
 
 | ID | Title | Domain | Pinned Spec | Status | Primary Outcome | Reference File |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CR-004** | **Two Clocks Disagree** | Distributed Systems | `C_1` (`v1.0.3`) | `FORMALIZED` | `PENDING` | [`distributed-systems/004-two-clocks-disagree.md`](distributed-systems/004-two-clocks-disagree.md) |
-| **CR-005** | **Revoked Delegation in Flight** | Governance | `C_1` (`v1.0.3`) | `FORMALIZED` | `PENDING` | [`governance/005-revoked-delegation-in-flight.md`](governance/005-revoked-delegation-in-flight.md) |
-| **CR-006** | **Duplicate Payment After Crash** | Distributed Systems | `C_1` (`v1.0.3`) | `FORMALIZED` | `PENDING` | [`distributed-systems/006-duplicate-payment-after-crash.md`](distributed-systems/006-duplicate-payment-after-crash.md) |
-| **CR-007** | **Conflicting Witnesses** | Epistemology | `C_1` (`v1.0.3`) | `FORMALIZED` | `PENDING` | [`epistemology/007-conflicting-witnesses.md`](epistemology/007-conflicting-witnesses.md) |
+| **CR-004** | **Two Clocks Disagree** | Distributed Systems | `C_1` (`v1.0.5`) | `FORMALIZED` | `PENDING` | [`distributed-systems/004-two-clocks-disagree.md`](distributed-systems/004-two-clocks-disagree.md) |
+| **CR-005** | **Revoked Delegation in Flight** | Governance | `C_1` (`v1.0.5`) | `FORMALIZED` | `PENDING` | [`governance/005-revoked-delegation-in-flight.md`](governance/005-revoked-delegation-in-flight.md) |
+| **CR-006** | **Duplicate Payment After Crash** | Distributed Systems | `C_1` (`v1.0.5`) | `FORMALIZED` | `PENDING` | [`distributed-systems/006-duplicate-payment-after-crash.md`](distributed-systems/006-duplicate-payment-after-crash.md) |
+| **CR-007** | **Conflicting Witnesses** | Epistemology | `C_1` (`v1.0.5`) | `FORMALIZED` | `PENDING` | [`epistemology/007-conflicting-witnesses.md`](epistemology/007-conflicting-witnesses.md) |
 
 ---
 
@@ -32,9 +32,9 @@ This registry tracks all official Palimpsestus Crucibles across three operationa
 
 | ID | Title | Domain | Pinned Spec | Status | Primary Outcome | Reference File |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CR-F01** | **Constitutional Fork** | Governance | `C_1` (`v1.0.3`) | `FORMALIZED` | `PENDING` | [`governance/F01-constitutional-fork.md`](governance/F01-constitutional-fork.md) |
-| **CR-F02** | **Actor Boundary Problem** | Ontology | `C_1` (`v1.0.3`) | `PROPOSED` | `PENDING` | *Open for Formalization* |
-| **CR-F03** | **Self-Amendment Limit** | Governance | `C_1` (`v1.0.3`) | `PROPOSED` | `PENDING` | *Open for Formalization* |
+| **CR-F01** | **Constitutional Fork** | Governance | `C_1` (`v1.0.5`) | `FORMALIZED` | `PENDING` | [`governance/F01-constitutional-fork.md`](governance/F01-constitutional-fork.md) |
+| **CR-F02** | **Actor Boundary Problem** | Ontology | `C_1` (`v1.0.5`) | `PROPOSED` | `PENDING` | *Open for Formalization* |
+| **CR-F03** | **Self-Amendment Limit** | Governance | `C_1` (`v1.0.5`) | `PROPOSED` | `PENDING` | *Open for Formalization* |
 
 ---
 
