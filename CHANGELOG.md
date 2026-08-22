@@ -4,6 +4,17 @@ All notable changes to the Palimpsestus Open Architecture Specification will be 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.2] - 2026-08-22
+
+### Added
+- **Mandatory Explicit Epistemic Tiers:** Added explicit `**Epistemic Tier:** Tier X` metadata tags to all **3,269** authored entries in the specification, eliminating silent cell defaults.
+- **Defect Ledger Expansion (`D13`–`D15`):** Expanded `DEFECT_LEDGER.md` to track zero-theater verifier code enforcement hardening.
+
+### Fixed
+- **PP-42 Heading Repair:** Repaired missing title heading for entry `PP-42` (*Gate Identity Evaluation Must Assess Structural Mass*).
+
+---
+
 ## [1.1.1] - 2026-08-22
 
 ### Added

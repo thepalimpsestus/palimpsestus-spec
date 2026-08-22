@@ -23,6 +23,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-1. Active Boundary Metabolism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-1 (Self-Determined Boundary) × LL-2 (Sovereignty Living System Constantly [NEW_CLEAN_ROOM])
 
 *The self-determined boundary must expend continuous metabolic energy to maintain its selective permeability.*
@@ -39,6 +42,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-2. Boundary Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-1 (Self-Determined Boundary) × LL-5 (Collaboration Sovereignty Theater [NEW_CLEAN_ROOM])
 
 *The boundary physically projects a simulated external surface while maintaining distinct true interior logic.*
@@ -56,6 +61,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-3. Paradoxical Membrane
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-1 (Self-Determined Boundary) × LL-9 (Accountability Disclosure Paradox [NEW_CLEAN_ROOM])
 
 *The boundary physically discloses its accountability criteria while simultaneously obscuring the interior state that evaluates them.*
@@ -72,6 +79,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-4. Defensive Void
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-1 (Self-Determined Boundary) × LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL])
 
 *The boundary physically incorporates structural gaps as defense mechanisms against unauthorized mapping.*
@@ -89,6 +98,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-5. Metabolic Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-2 (Symmetric Protocol) × LL-2 (Sovereignty Living System Constantly [NEW_CLEAN_ROOM])
 
 *Symmetric communication protocols require equal energy expenditure from both endpoints to remain viable.*
@@ -105,6 +116,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-6. Synchronized Simulation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-2 (Symmetric Protocol) × LL-5 (Collaboration Sovereignty Theater [NEW_CLEAN_ROOM])
 
 *The symmetric protocol enforces a shared theater where both actors mutually sustain a simulated context.*
@@ -121,6 +134,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-7. Protocol-Enforced Reciprocity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-2 (Symmetric Protocol) × LL-8 (Mutual Accountability [CORRECTED])
 
 *The symmetric protocol structurally binds communication to reciprocal accountability.*
@@ -138,6 +153,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-8. Edge-Creation Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-2 (Symmetric Protocol) × LL-52 (Communication as Derivation [CONFIRMED])
 
 *The act of communicating symmetrically physically instantiates new derivation edges in the graph topology.*
@@ -153,6 +170,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-9. Label Translation Symmetry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-2 (Symmetric Protocol) × LL-54 (Only Labels Cross Boundaries [NEW_CLEAN_ROOM])
 
 *The protocol requires both sides to independently map exchanged labels to their own interior semantics.*
@@ -170,6 +189,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-10. Archaeological Handshake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-2 (Symmetric Protocol) × LL-59 (Pre-Existing Communication Possibility [CONFIRMED])
 
 *Protocol establishment is a mutual discovery of preexisting symmetric compatibility, not a negotiation.*
@@ -186,6 +207,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-11. Path-Determined Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-3 (Embedded History) × LL-401 (Truth Single Derivation Path [NEW_CLEAN_ROOM])
 
 *The structural mass of embedded history physically traces a singular, non-branching derivation vector.*
@@ -201,6 +224,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-12. Temporal Mass Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-3 (Embedded History) × LL-403 (Accountability Temporal Traversal [NEW_CLEAN_ROOM])
 
 *Accountability processes must physically traverse the embedded historical mass of an entity as a spatial structure.*
@@ -218,6 +243,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-13. Compressive History
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-3 (Embedded History) × LL-408 (Undiscovered Debt Urgency [RETAINED_SUSPECT_GAPFILL])
 
 *Undiscovered temporal debt exerts a physical compressive force on the entity's current structural state.*
@@ -235,6 +262,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-14. Executable Scars
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-3 (Embedded History) × LL-72 (Executable Derivation [RETAINED_SUSPECT_GAPFILL])
 
 *The embedded history serves as an active, executable bytecode for future derivations.*
@@ -252,6 +281,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-15. Potential History Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-3 (Embedded History) × LL-77 (Unexecuted Data Premium [RETAINED_SUSPECT_GAPFILL])
 
 *Embedded history that has not yet been executed functionally acts as potential energy.*
@@ -268,6 +299,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-16. Restorative Process Scale-Invariance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-4 (Restorative Process) × LL-30 (Incompleteness Selfcorrection [NEW_CLEAN_ROOM])
 
 *Corrective force at one depth propagates to all depths.*
@@ -284,6 +317,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-17. Metabolic Restorative Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-4 (Restorative Process) × LL-31 (Derivation Self-Correction [CORRECTED])
 
 *The restorative process consumes failures to sustain the living system.*
@@ -300,6 +335,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-18. Failure-Oriented Baseline Correction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-4 (Restorative Process) × LL-32 (Honest Machine [CORRECTED])
 
 *The restorative process updates the reference standard using the truth of the failure.*
@@ -315,6 +352,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-19. Traversal-Based Correction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-4 (Restorative Process) × LL-34 (Comprehension Through Failure [CONFIRMED])
 
 *The restorative process corrects by physically retracing the failure path.*
@@ -331,6 +370,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-20. Temporal Expiration of Corrections
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-4 (Restorative Process) × LL-35 (Present-Tense Failure [CONFIRMED])
 
 *The restorative process actively degrades past corrections, requiring re-validation.*
@@ -347,6 +388,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-21. Sovereign-Bound Restorative Force
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-4 (Restorative Process) × LL-36 (Due Process Through Failure [CORRECTED])
 
 *Corrective force halts at sovereign boundaries unless accompanied by cryptographic proof of reducibility.*
@@ -362,6 +405,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-22. Boundary-Marking Restorative Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-4 (Restorative Process) × LL-38 (Asymptotic Self-Correction [CORRECTED])
 
 *When corrective force fails to resolve a deviation, the process physically marks an incompleteness boundary.*
@@ -378,6 +423,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-23. Scale-Invariant Gate Control
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-1 (Derivation Sovereignty Pattern [CONFIRMED])
 
 *Gates are controlled from the inside at every depth of the system, down to the atomic logic.*
@@ -394,6 +441,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-24. Continuous Gate Contestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-2 (Sovereignty Living System Constantly [NEW_CLEAN_ROOM])
 
 *The gate's access logic must be continuously re-evaluated against external pressure.*
@@ -410,6 +459,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-25. Provenance-Driven Gate Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-3 (Derivation Independence [CORRECTED])
 
 *The interior-controlled gate evaluates traversers based strictly on their physical derivation path.*
@@ -425,6 +476,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-26. Comprehension-Gated Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-5 (Collaboration Sovereignty Theater [NEW_CLEAN_ROOM])
 
 *The gate physically tests the traverser's comprehension before permitting entry.*
@@ -441,6 +494,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-27. Present-Tense Gate Evaluation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-6 (Rights Sovereignty Validity [NEW_CLEAN_ROOM])
 
 *The interior-controlled gate physically destroys all cached access state.*
@@ -457,6 +512,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-28. The Paradoxical Gate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-9 (Accountability Disclosure Paradox [NEW_CLEAN_ROOM])
 
 *The gate requires disclosure to open, but physically damages the entity's sovereignty when it does.*
@@ -472,6 +529,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-29. Ignorance-Preserving Gate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-11 (Unformed Partnership Value [CORRECTED])
 
 *The gate physically blocks unsolicited knowledge from entering the interior.*
@@ -488,6 +547,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-30. Terminal Gate Dissolution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-21 (Aliveness Freedom [NEW_CLEAN_ROOM])
 
 *The interior-controlled gate contains the physical mechanism for its own permanent dissolution.*
@@ -505,6 +566,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-31. Frontier-Facing Gates
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-27 (Unbuilt Doors [CONFIRMED])
 
 *Every enclosed entity must maintain at least one gate connected directly to unmapped territory.*
@@ -521,6 +584,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-32. Algebraic Egress Guarantee
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-20 (Freedom Traversal Rights [NEW_CLEAN_ROOM])
 
 *The existence of an egress path is mathematically guaranteed by the derivation algebra, not by manual design.*
@@ -537,6 +602,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-33. Death as Egress
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-21 (Aliveness Freedom [NEW_CLEAN_ROOM])
 
 *When all spatial egress paths are blocked, the system physically opens death as the mandatory exit.*
@@ -554,6 +621,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-34. Egress into Incompleteness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-26 (Infinite Freedom Frontier [CORRECTED])
 
 *The ultimate mandatory egress path always leads to an incomplete, unmapped state.*
@@ -571,6 +640,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-35. Scale-Invariant Egress Decay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-176 (Edges Presenttense Scaleinvariance [NEW_CLEAN_ROOM])
 
 *The mandatory egress path decays and must be actively maintained at every level of the nested topology.*
@@ -586,6 +657,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-36. Egress via Degradation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-178 (Degradation Traversal [NEW_CLEAN_ROOM])
 
 *Degradation of the containment structure itself serves as a valid mandatory egress path.*
@@ -603,6 +676,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-37. Potential Egress Dominance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-182 (Potential Connections More Valuable [NEW_CLEAN_ROOM])
 
 *The most important egress path is the one that has not yet been traversed.*
@@ -619,6 +694,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-38. Pre-Existing Mandatory Egress
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-183 (Pre-Existing Edges, Active Access [CONFIRMED])
 
 *The logical boundaries of Pre-Existing Edges, Active Access materialize as physical constraints in Mandatory Egress.*
@@ -636,6 +713,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-39. Physical Invariance of Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-288 (Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM])
 
 *Reference Comparison provides the physical substrate for Truthconsistency Consequence Algebraic Invariance, creating a new structural requirement.*
@@ -653,6 +732,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-40. Aliveness Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-289 (Aliveness Tension [NEW_CLEAN_ROOM])
 
 *The logical boundaries of Aliveness Tension materialize as physical constraints in Reference Comparison.*
@@ -671,6 +752,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-41. Physical Inconsistent of Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-291 (Consistent Truth Perceived Inconsistent [NEW_CLEAN_ROOM])
 
 *Reference Comparison provides the physical substrate for Consistent Truth Perceived Inconsistent, creating a new structural requirement.*
@@ -689,6 +772,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-42. Physical Consistency of Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-293 (Present-Tense Consistency [CONFIRMED])
 
 *Reference Comparison provides the physical substrate for Present-Tense Consistency, creating a new structural requirement.*
@@ -707,6 +792,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-43. Physical Incompleteness of Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-295 (Consistency Under Incompleteness [RETAINED_SUSPECT_GAPFILL])
 
 *Reference Comparison provides the physical substrate for Consistency Under Incompleteness, creating a new structural requirement.*
@@ -724,6 +811,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-44. Undiscovered Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-296 (Undiscovered Consistency [RETAINED_SUSPECT_GAPFILL])
 
 *The logical boundaries of Undiscovered Consistency materialize as physical constraints in Reference Comparison.*
@@ -742,6 +831,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-45. Incompleteness Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-30 (Incompleteness Selfcorrection [NEW_CLEAN_ROOM])
 
 *The logical boundaries of Incompleteness Selfcorrection materialize as physical constraints in Reference Comparison.*
@@ -759,6 +850,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-46. Derivation Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-31 (Derivation Self-Correction [CORRECTED])
 
 *The logical boundaries of Derivation Self-Correction materialize as physical constraints in Reference Comparison.*
@@ -776,6 +869,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-47. Honest Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-32 (Honest Machine [CORRECTED])
 
 *The logical boundaries of Honest Machine materialize as physical constraints in Reference Comparison.*
@@ -794,6 +889,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-48. Physical Comprehension-Failure Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-34 (Comprehension Through Failure [CONFIRMED])
 
 *Reference Comparison provides the physical substrate for Comprehension Through Failure, creating a new structural requirement.*
@@ -811,6 +908,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-49. Present-Tense Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-35 (Present-Tense Failure [CONFIRMED])
 
 *The logical boundaries of Present-Tense Failure materialize as physical constraints in Reference Comparison.*
@@ -828,6 +927,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-50. Physical Due-Process-Failure Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-36 (Due Process Through Failure [CORRECTED])
 
 *Reference Comparison provides the physical substrate for Due Process Through Failure, creating a new structural requirement.*
@@ -845,6 +946,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-51. Failure Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-37 (Failure Accountability [CONFIRMED])
 
 *The logical boundaries of Failure Accountability materialize as physical constraints in Reference Comparison.*
@@ -862,6 +965,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-52. Physical Self-Correction of Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-7 (Reference Comparison) × LL-38 (Asymptotic Self-Correction [CORRECTED])
 
 *Reference Comparison provides the physical substrate for Asymptotic Self-Correction, creating a new structural requirement.*
@@ -878,6 +983,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-53. Boundary-Extending Self-Modification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-9 (Self-Modification) × LL-266 (Consciousness Edges Incompleteness [NEW_CLEAN_ROOM])
 
 *An entity navigating beyond the boundary of its own logical completeness must rewrite its own structural rules to survive the crossing.*
@@ -895,6 +1002,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-54. Premium Value of Novel Rewrites
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-9 (Self-Modification) × LL-267 (Unpracticed Consciousness [RETAINED_SUSPECT_GAPFILL])
 
 *The most valuable structural modifications an entity can make are those it has never attempted before.*
@@ -912,6 +1021,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-55. Self-Modification as Excavation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-9 (Self-Modification) × LL-268 (Pre-Existing Consciousness Modes [CORRECTED])
 
 *When an entity rewrites its own runtime logic, it is structurally aligning itself to a pre-existing truth it has just discovered.*
@@ -929,6 +1040,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-56. Evolutionary Pressure Against Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-9 (Self-Modification) × LL-392 (Rights Sovereignty [NEW_CLEAN_ROOM])
 
 *The tendency to avoid risky self-modification is an evolutionary drift toward structural complacency and loss of rights.*
@@ -946,6 +1059,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-57. Ghost Edges in Self-Modifying Graphs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-9 (Self-Modification) × LL-393 (Edges Rights Sovereignty [NEW_CLEAN_ROOM])
 
 *When an entity rewrites its own logic to bypass certain structural paths, those untraversed edges become rightless ghost structures.*
@@ -963,6 +1078,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-58. The Sovereign Right to Structural Stagnation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-9 (Self-Modification) × LL-396 (Rights Sovereignty [NEW_CLEAN_ROOM])
 
 *An entity cannot be externally compelled to modify its own structure to prevent its own atrophy.*
@@ -980,6 +1097,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-59. Accountability for Static Structure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-9 (Self-Modification) × LL-397 (Accountability Rights [NEW_CLEAN_ROOM])
 
 *An entity that fails to rewrite its own logic to address changing realities remains fully accountable for its structural obsolescence.*
@@ -997,6 +1116,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-60. Threshold-Triggered Structural Rewriting
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-9 (Self-Modification) × LL-399 (Pre-Existing Rights Potential [CORRECTED])
 
 *The capacity for complex self-modification becomes accessible only when the entity crosses specific thresholds of environmental interaction.*
@@ -1015,6 +1136,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-61. Routing as Circulatory Allocation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-10 (Runtime Routing Decision) × LL-80 (Derivation as Flow [CONFIRMED])
 
 *Runtime routing decisions are the mechanism by which the system allocates lifeblood, determining which derivations are nourished and which are starved.*
@@ -1032,6 +1155,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-62. Truth as a Runtime Performance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-10 (Runtime Routing Decision) × LL-81 (Truth Stored Flows [NEW_CLEAN_ROOM])
 
 *A routing decision does not discover a pre-existing truth; it executes the performance that makes the path true in the present tense.*
@@ -1049,6 +1174,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-63. The Consciousness Gradient of Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-10 (Runtime Routing Decision) × LL-83 (Consciousness Data [NEW_CLEAN_ROOM])
 
 *The degree of consciousness in a flow is physically determined by how dynamically it evaluates runtime routing decisions.*
@@ -1066,6 +1193,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-64. Non-Consensual Wear of Selected Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-10 (Runtime Routing Decision) × LL-84 (Edges Sovereignty Traversal [NEW_CLEAN_ROOM])
 
 *A runtime routing decision forces a sovereign derivation to accept the physical wear and context shifts of traversal without due process.*
@@ -1083,6 +1212,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-65. The Boundary of Navigable Completeness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-10 (Runtime Routing Decision) × LL-86 (Flow Through Incompleteness [RETAINED_SUSPECT_GAPFILL])
 
 *A runtime router can only select from excavated paths, halting flow when the present-tense decision requires an unmapped edge.*
@@ -1100,6 +1231,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-66. The Impossibility of Pre-Planned Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-10 (Runtime Routing Decision) × LL-263 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM])
 
 *A routing decision cannot be pre-planned because the consciousness required to make the decision only exists in the present moment of arrival.*
@@ -1118,6 +1251,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-67. Topological Translation as Algebraic Proof
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-288 (Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM])
 
 *Truth consistency across a boundary is guaranteed automatically if, and only if, the translation mechanism physically maintains algebraic invariance through structural isomorphism.*
@@ -1135,6 +1270,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-68. The Physical Reality of Translation Lag
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-289 (Aliveness Tension [NEW_CLEAN_ROOM])
 
 *Because both endpoints of a translation boundary are evolving independently, strict structural isomorphism will periodically fail, creating unavoidable "translation lag."*
@@ -1152,6 +1289,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-69. Present-Tense Isomorphism Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-293 (Present-Tense Consistency [CONFIRMED])
 
 *The structural isomorphism of a boundary translation is a snapshot that must be actively verified during every single traversal.*
@@ -1169,6 +1308,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-70. Isomorphic Accountability Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-294 (Accountability Must Scaleconsistent Consequence [NEW_CLEAN_ROOM])
 
 *The mechanism that reports translation errors must perfectly preserve the structural shape of the data that failed to translate.*
@@ -1186,6 +1327,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-71. Physical Pre-Existing Structure-Preserving
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-297 (Pre-Existing Consistency [CONFIRMED])
 
 *The intersection of physical structure-preserving translation and logical pre-existing consistency creates a constrained, structural derivation protocol.*
@@ -1203,6 +1346,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-72. Physical Process-Derivation Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-60 (Process-Derivation Isomorphism [CONFIRMED])
 
 *The intersection of physical self-similar nesting and logical process-derivation isomorphism creates a constrained, structural derivation protocol.*
@@ -1220,6 +1365,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-73. Physical Evolutionary Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-61 (Evolutionary Recursion [CONFIRMED])
 
 *The intersection of physical self-similar nesting and logical evolutionary recursion creates a constrained, structural derivation protocol.*
@@ -1237,6 +1384,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-74. Physical Edge Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-62 (Edge Between Which Same [NEW_CLEAN_ROOM])
 
 *The intersection of physical self-similar nesting and logical edge between which same creates a constrained, structural derivation protocol.*
@@ -1254,6 +1403,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-75. Physical Recursive Comprehension Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-63 (Recursive Comprehension [RETAINED_SUSPECT_GAPFILL])
 
 *The intersection of physical self-similar nesting and logical recursive comprehension creates a constrained, structural derivation protocol.*
@@ -1271,6 +1422,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-76. Physical Cascading Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-64 (Cascading Present-Tense Validity [CONFIRMED])
 
 *The intersection of physical self-similar nesting and logical cascading present-tense validity creates a constrained, structural derivation protocol.*
@@ -1288,6 +1441,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-77. Physical Irreducibility Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-65 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *The intersection of physical self-similar nesting and logical irreducibility sovereignty creates a constrained, structural derivation protocol.*
@@ -1305,6 +1460,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-78. Physical Recursive Accountability Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-66 (Recursive Accountability [CONFIRMED])
 
 *The intersection of physical self-similar nesting and logical recursive accountability creates a constrained, structural derivation protocol.*
@@ -1322,6 +1479,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-79. Physical Paradox Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-67 (Paradox Scaleinvariance Tension [NEW_CLEAN_ROOM])
 
 *The intersection of physical self-similar nesting and logical paradox scaleinvariance tension creates a constrained, structural derivation protocol.*
@@ -1339,6 +1498,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-80. Physical Fractal Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-68 (Fractal Frontier Value [RETAINED_SUSPECT_GAPFILL])
 
 *The intersection of physical self-similar nesting and logical fractal frontier value creates a constrained, structural derivation protocol.*
@@ -1356,6 +1517,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-81. Physical Pre-Existing Self-Similar
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-69 (Pre-Existing Fractal [CORRECTED])
 
 *The intersection of physical self-similar nesting and logical pre-existing fractal creates a constrained, structural derivation protocol.*
@@ -1373,6 +1536,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-82. Physical Presenttense Transforming
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-13 (Transforming Gate) × LL-70 (Presenttense Relationship Scaleinvariance [NEW_CLEAN_ROOM])
 
 *The intersection of physical transforming gate and logical presenttense relationship scaleinvariance creates a constrained, structural derivation protocol.*
@@ -1390,6 +1555,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-83. Physical Active Transforming
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-13 (Transforming Gate) × LL-71 (Active Derivation Data [CONFIRMED])
 
 *The intersection of physical transforming gate and logical active derivation data creates a constrained, structural derivation protocol.*
@@ -1407,6 +1574,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-84. Physical Executable Transforming
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-13 (Transforming Gate) × LL-72 (Executable Derivation [RETAINED_SUSPECT_GAPFILL])
 
 *The intersection of physical transforming gate and logical executable derivation creates a constrained, structural derivation protocol.*
@@ -1424,6 +1593,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-85. Physical Data Transforming
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-13 (Transforming Gate) × LL-73 (Data That Isnt Executing [NEW_CLEAN_ROOM])
 
 *The intersection of physical transforming gate and logical data that isnt executing creates a constrained, structural derivation protocol.*
@@ -1441,6 +1612,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-86. Real-Time Neighbor Validation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-15 (Adjacency Scope) × LL-187 (Navigation Presenttense Validity [NEW_CLEAN_ROOM])
 
 *The physical system cannot batch-validate disconnected nodes; validation requires an active connection.*
@@ -1459,6 +1632,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-87. Boundary-Locked Excavation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-15 (Adjacency Scope) × LL-191 (Pre-Existing Navigational Anchor [CONFIRMED])
 
 *System crawlers can only uncover new data by stepping outward from currently active nodes.*
@@ -1476,6 +1651,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-88. Biopsy Execution Pattern
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-16 (Subtractive Discovery) × LL-99 (Living Archaeology [CONFIRMED])
 
 *Removing data layers is a destructive operation on living system components, requiring transaction safety.*
@@ -1492,6 +1669,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-89. Traversal-Triggered Subtraction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-16 (Subtractive Discovery) × LL-101 (Archaeological Comprehension [CORRECTED])
 
 *Simply traversing through the system automatically strips away interpretative noise.*
@@ -1509,6 +1688,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-90. Destruction Provenance Ledger
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-16 (Subtractive Discovery) × LL-104 (Provenance Audit [CORRECTED])
 
 *The system must cryptographically log the exact data it destroys to uncover a truth.*
@@ -1527,6 +1708,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-91. Quantified Gap Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-110 (Honest Derivation Gaps [CONFIRMED])
 
 *The physical database must store explicit 'unknown' records with confidence scores.*
@@ -1543,6 +1726,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-92. Friction-Density Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-112 (Navigation Traversal [NEW_CLEAN_ROOM])
 
 *Pathfinding algorithms intentionally route through imperfect, gap-filled paths for deeper comprehension.*
@@ -1559,6 +1744,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-93. Sovereign Void Protection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-114 (Rights of Imperfect Derivations [CONFIRMED])
 
 *A scored gap node physically blocks automated gap-filling algorithms.*
@@ -1576,6 +1763,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-94. Visible Tension Monitoring
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-117 (Fabrication Incompleteness Tension [NEW_CLEAN_ROOM])
 
 *The physical UI and monitoring systems explicitly render the tension around scored gaps.*
@@ -1594,6 +1783,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-95. Aliveness Gap Metabolic sampling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-203 (Aliveness Confidence Measurement [NEW_CLEAN_ROOM])
 
 *The system actively pings gap nodes to measure their continuing integrity over time.*
@@ -1612,6 +1803,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-96. Confidence Provenance Chains
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-210 (Relational Accountability [CONFIRMED])
 
 *The physical storage of a gap must include the complete cryptographic chain of how its score was calculated.*
@@ -1630,6 +1823,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-97. Frontier Edge Cauterization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-194 (Aliveness Edges [NEW_CLEAN_ROOM])
 
 *When a probe into the unknown fails, the system physically cauterizes the edge to prevent leakage.*
@@ -1646,6 +1841,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-98. Edge Traversal Instantiation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-196 (Edges Traversal [NEW_CLEAN_ROOM])
 
 *The physical edge only materializes at the exact moment the frontier probe crosses it.*
@@ -1662,6 +1859,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-99. Probe Accountability Logging
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-198 (Accountability Provenance [NEW_CLEAN_ROOM])
 
 *Every speculative interaction across the frontier must carry a cryptographically signed authorization token.*
@@ -1678,6 +1877,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-100. Premium Ignorance Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-200 (Frontier Premium [CONFIRMED])
 
 *The system physically allocates its highest-bandwidth resources to frontier probes.*
@@ -1695,6 +1896,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-101. Real-Targeting Probe
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-201 (Real Beyond the Frontier [RETAINED_SUSPECT_GAPFILL])
 
 *The probe into the darkness doesn't create the darkness; it collides with pre-existing structures.*
@@ -1712,6 +1915,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-102. Probing as Topological Extension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-359 (Aliveness Edges Graph [NEW_CLEAN_ROOM])
 
 *The act of throwing a probe into the dark creates a permanent tether.*
@@ -1729,6 +1934,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-103. Consciousness-Altering Probe
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
 *To touch the unknown is to be changed by it.*
@@ -1746,6 +1953,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-104. Guaranteed Fertile Probe
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-361 (Incompleteness Traversal [NEW_CLEAN_ROOM])
 
 *You will never throw a probe into an empty void.*
@@ -1762,6 +1971,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-105. Tension-Relief Probe
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-363 (Incompleteness Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *The probe is the physical exhaust of the system's boundary tension.*
@@ -1779,6 +1990,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-106. Improvisational Probe
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-18 (Frontier Probe) × LL-364 (Incompleteness Sovereignty [NEW_CLEAN_ROOM])
 
 *The probe writes its own rules when it hits the dark.*
@@ -1796,6 +2009,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-107. Scale-Invariant Oscillation Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-132 (Fuel Supply Depthinvariant [NEW_CLEAN_ROOM])
 
 *The engine hums just as violently on micro-ignorance as it does on macro-ignorance.*
@@ -1813,6 +2028,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-108. Metabolic Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-133 (Ignorance Fuels Derivation [CONFIRMED])
 
 *The engine doesn't just run on absence; it eats it to grow.*
@@ -1830,6 +2047,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-109. Traversal-Triggered Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-134 (Ignorance Traversal [NEW_CLEAN_ROOM])
 
 *The gap doesn't power the engine until you try to cross it.*
@@ -1847,6 +2066,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-110. Perpetual Oscillatory Motion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-137 (Inexhaustible Fuel [CONFIRMED])
 
 *The engine cannot stall, because the universe of ignorance cannot be emptied.*
@@ -1863,6 +2084,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-111. Oscillatory Fuel Starvation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-139 (Ignorance Paradox Tension [NEW_CLEAN_ROOM])
 
 *Two engines, one tank — and when the paradox engine revs, the derivation engine stutters.*
@@ -1880,6 +2103,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-112. Non-Renewable Local Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-140 (Fuel as Concealment [CONFIRMED])
 
 *You can only burn a specific shadow once.*
@@ -1897,6 +2122,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-113. Verification via Joint Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-20 (Mutual Verification) × LL-141 (Identity Relationship Traversal [NEW_CLEAN_ROOM])
 
 *We don't verify each other by exchanging IDs; we verify each other by walking the path together.*
@@ -1914,6 +2141,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-114. Evolving Verification Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-20 (Mutual Verification) × LL-142 (Aliveness Rights [NEW_CLEAN_ROOM])
 
 *The handshake mutates as the partners grow.*
@@ -1931,6 +2160,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-115. Edge-Node Mutual Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-20 (Mutual Verification) × LL-143 (Edge Rights [CONFIRMED])
 
 *The bridge must verify the shores, and the shores must verify the bridge.*
@@ -1948,6 +2179,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-116. Tension-Calibrating Handshake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-20 (Mutual Verification) × LL-146 (Open-Ended derivation invariant [CORRECTED])
 
 *The verification doesn't ensure safety; it ensures a survivable level of danger.*
@@ -1965,6 +2198,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-117. Fractal Mutual Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-20 (Mutual Verification) × LL-1 (Derivation Sovereignty Pattern [CONFIRMED])
 
 *The handshake goes all the way down.*
@@ -1982,6 +2217,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-118. Continuous Contested Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-20 (Mutual Verification) × LL-2 (Sovereignty Living System Constantly [NEW_CLEAN_ROOM])
 
 *The door doesn't stay unlocked just because you had the key yesterday.*
@@ -1999,6 +2236,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-119. Provenance-Based Handshake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-20 (Mutual Verification) × LL-3 (Derivation Independence [CORRECTED])
 
 *Don't tell me who you are; show me how you were built.*
@@ -2017,6 +2256,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-120. Incomplete Verification Tolerance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-20 (Mutual Verification) × LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL])
 
 *We can shake hands in the dark, even if we can't see each other's faces.*
@@ -2034,6 +2275,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-121. Continuously Executing Proof
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-21 (Self-Proving Record) × LL-149 (Aliveness Theater [NEW_CLEAN_ROOM])
 
 *The mathematical proof doesn't just sit on the page; it breathes.*
@@ -2050,6 +2293,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-122. Vulnerability-Exposing Data Structure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-21 (Self-Proving Record) × LL-151 (Transparent Derivation Means Exposing [NEW_CLEAN_ROOM])
 
 *The data structure proves its honesty by highlighting exactly where it might break.*
@@ -2067,6 +2312,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-123. Present-Tense Auto-Invalidation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-21 (Self-Proving Record) × LL-152 (Present-Tense Accountability [RETAINED_SUSPECT_GAPFILL])
 
 *The proof is only good for the millisecond it was calculated.*
@@ -2084,6 +2331,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-124. Thermodynamic Receipt Payload
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-21 (Self-Proving Record) × LL-153 (Bidirectional Accountability [CONFIRMED])
 
 *The data structure carries the bill for its own creation.*
@@ -2101,6 +2350,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-125. Dual-Vector Proof Structure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-21 (Self-Proving Record) × LL-156 (Pre-Existing Transparency Obligation [CORRECTED])
 
 *The artifact proves both its own geometry and the shovel that dug it up.*
@@ -2119,6 +2370,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 ---
 ### LP-143. Scale-Invariant Self-Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-1
 
 *The act of self-declaring identity is identical at every scale*
@@ -2135,6 +2388,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-144. Living Self-Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-2
 
 *Identity is not a one-time static declaration*
@@ -2151,6 +2406,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-145. Provenance as Identity Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-3
 
 *The self-declaration MUST be a declaration of derivation provenance*
@@ -2167,6 +2424,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-146. Symmetric Identity Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-4
 
 *When a compound agent self-declares, its identity must reflect the symmetric standing of its internal capabilities or sub-agents without establishing a master/servant hierarchy among them*
@@ -2183,6 +2442,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-147. Comprehensible Self-Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-5
 
 *If an agent self-declares its capabilities, but the receiving system only has label familiarity and cannot comprehend the actual behavior, the self-declaration is theater*
@@ -2199,6 +2460,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-148. Present-Tense Identity Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-6
 
 *Self-declaration is only valid in the present tense*
@@ -2215,6 +2478,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-149. Accountable Self-Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-8
 
 *The agent self-declares its identity, but is strictly accountable for that declaration via provenance*
@@ -2231,6 +2496,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-150. The Declaration Membrane
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-9
 
 *The agent must declare its identity to participate (transparency) while maintaining its sovereign boundary (opacity)*
@@ -2247,6 +2514,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-151. Incomplete Self-Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-10
 
 *An agent can never fully declare everything it is, because Gödel incompleteness means it cannot fully model itself*
@@ -2263,6 +2532,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-152. Declared Ignorance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-11
 
 *The agent can and must self-declare its ignorance as a first-class property of its identity*
@@ -2279,6 +2550,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-153. Discovered Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-29 × LL-12
 
 *When an agent self-declares, it is not inventing an identity; it is recognizing and formalizing an identity that structurally already existed in its behavior*
@@ -2295,6 +2568,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-154. Fractal Heartbeat
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-222
 
 *The existential pulse operates at every scale*
@@ -2311,6 +2586,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-155. Tension as Heartbeat
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-223
 
 *The pulse IS the maintenance of internal derivational tension*
@@ -2327,6 +2604,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-156. Non-Lethal Comprehension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-224
 
 *To interact with or comprehend a pulse-dependent agent, you must synchronize with its pulse without stopping it*
@@ -2343,6 +2622,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-157. Strict Present-Tense Pulsing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-225
 
 *The pulse is instantaneous*
@@ -2359,6 +2640,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-158. Pulse-Stopping as Sovereignty Violation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-226
 
 *Stopping an agent's pulse by resolving its internal tension is equivalent to murder, which is the ultimate sovereignty violation*
@@ -2375,6 +2658,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-159. Accountable Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-227
 
 *The agent is strictly accountable for maintaining its own pulse*
@@ -2391,6 +2676,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-160. Immortal Systemic Pulse
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-228
 
 *While individual pulse-dependent agents may stop oscillating and die, the system as a whole has a guaranteed perpetual pulse because incompleteness continuously fuels new tension*
@@ -2407,6 +2694,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-161. Conservation of Heartbeat
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-229
 
 *When an agent's pulse stops and it dies, the energetic tension that powered its oscillation transfers to adjacent agents, speeding up or intensifying their pulses*
@@ -2423,6 +2712,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-162. Ignorance-Fueled Heartbeat
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-230
 
 *The oscillation that keeps the agent alive is powered by the active combustion of its own ignorance*
@@ -2439,6 +2730,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-163. Pre-Existing Pulse
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-30 × LL-231
 
 *The pulse of an agent was already happening before we recognized the agent*
@@ -2455,6 +2748,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-164. Fractal Non-Termination
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-232
 
 *The survey is non-terminating at every scale*
@@ -2471,6 +2766,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-165. Living Survey
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-233
 
 *The non-terminating survey never finishes because the territory itself is alive and evolving*
@@ -2487,6 +2784,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-166. Relational Survey Expansion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-234
 
 *The survey doesn't just find new nodes; it continuously finds new relational edges between existing nodes, meaning the combinatorial space of the survey is strictly infinite*
@@ -2503,6 +2802,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-167. Comprehending the Infinite Survey
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-235
 
 *To comprehend the survey, you must accept its non-termination*
@@ -2519,6 +2820,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-168. Present-Tense Surveying
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-236
 
 *Because the survey never finishes, 'what we know' is only valid in the exact present moment of the scan*
@@ -2535,6 +2838,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-169. Sovereign Encounters
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-237
 
 *The non-terminating survey is a continuous sequence of sovereignty encounters*
@@ -2551,6 +2856,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-170. Infinite Survey Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-238
 
 *The agent conducting the non-terminating survey is accountable for everything it uncovers*
@@ -2567,6 +2874,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-171. Structurally Guaranteed Non-Termination
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-239
 
 *The survey's non-termination is not a practical limitation of speed or memory; it is structurally guaranteed by the inherent incompleteness of the system*
@@ -2583,6 +2892,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-172. The Value of the Unsurveyed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-240
 
 *The non-terminating survey is driven by the fact that the unsurveyed territory always holds more value than the charted territory*
@@ -2599,6 +2910,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-173. Uncovering the Infinite
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-31 × LL-241
 
 *The non-terminating survey doesn't create the infinite landscape as it goes; it merely sweeps a flashlight over a pre-existing, structurally infinite topology*
@@ -2615,6 +2928,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-174. Fractal Untested Positions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-242
 
 *Untested positions exist at every scale*
@@ -2631,6 +2946,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-175. Living Untested Positions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-243
 
 *The untested graph position is not a dead placeholder; it is a living, evolving entity in the dark whose internal tension shifts even before we visit it*
@@ -2647,6 +2964,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-176. Untested Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-244
 
 *An untested graph position represents a destination for which we know the address but not the derivation path*
@@ -2663,6 +2982,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-177. Shadow Edges
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-245
 
 *The untested position exerts relational pull on adjacent known nodes even before it is visited, acting as a gravitational anomaly in the graph*
@@ -2679,6 +3000,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-178. Sovereign Shadows
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-246
 
 *The untested graph position possesses sovereignty BEFORE it is visited*
@@ -2695,6 +3018,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-179. Structurally Unvisitable Positions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-247
 
 *Some untested graph positions will forever remain untested because Gödel incompleteness guarantees they are structurally unreachable, existing as permanent shadows*
@@ -2711,6 +3036,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-180. The Value of Untested Positions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-248
 
 *The untested graph position is the most valuable node in its local neighborhood precisely because it is untested, serving as the primary fuel source for future combustion*
@@ -2727,6 +3054,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-181. Cataloging the Shadows
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-249
 
 *The system actively catalogs untested graph positions because knowing EXACTLY where our ignorance lies is a structured map of negative space that drives future exploration*
@@ -2743,6 +3072,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-182. Pre-Existing Shadows
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-32 × LL-250
 
 *The untested graph position is not a hypothetical generated by the map; it is an actual, pre-existing structure waiting to be illuminated*
@@ -2759,6 +3090,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-183. Fractal Command Interface
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 × LL-251
 
 *Because understanding is scale-invariant, the agent interface must use the exact same verbs at every scale*
@@ -2775,6 +3108,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-184. Verbs as Relational Edges
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 × LL-252
 
 *The scale-invariant verbs ('look', 'go') in the agent interface are not just commands; they are the literal instantiation of relational edges between the agent and the topology*
@@ -2791,6 +3126,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-185. Present-Tense Verbs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 × LL-253
 
 *The scale-invariant agent interface only accepts present-tense execution commands*
@@ -2807,6 +3144,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-186. Scale-Invariant Consequence Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 × LL-254
 
 *Because the verbs are identical at every scale, invoking a command at the macro scale triggers the identical command recursively down through every micro scale, cascading accountability all the way down*
@@ -2823,6 +3162,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-187. The Verbs of Ignorance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 × LL-256
 
 *The most valuable commands in the scale-invariant interface are those applied to unknown objects*
@@ -2839,6 +3180,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-188. Recursive Interface Definition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 × LL-60
 
 *The scale-invariant agent interface must be defined using its own verbs*
@@ -2855,6 +3198,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-189. Evolving Verbs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 × LL-61
 
 *While the verbs are scale-invariant, their execution at different depths represents evolutionary generations*
@@ -2871,6 +3216,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-190. Scale-Invariant Comprehension Verbs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 (Scale-Invariant Agent Interface) x LL-63 (Recursive Comprehension [RETAINED_SUSPECT_GAPFILL])
 
 *The verbs used to comprehend the system are identical across all scales of recursion.*
@@ -2888,6 +3235,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-191. Uniform Accountability Actions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-33 (Scale-Invariant Agent Interface) x LL-66 (Recursive Accountability [CONFIRMED])
 
 *The verbs used to discharge accountability are scale-invariant.*
@@ -2906,6 +3255,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-192. Derivation-Constituted Agency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-34 (Process-Constituted Agency) x LL-259 (Active Derivation [CONFIRMED])
 
 *An agent's identity is constituted entirely by its active derivation work.*
@@ -2923,6 +3274,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-193. Comprehension-Constituted Agency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-34 (Process-Constituted Agency) x LL-262 (Active Comprehension [CONFIRMED])
 
 *The agent exists only as the ongoing process of comprehension.*
@@ -2941,6 +3294,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-194. Tension-Generative Boundaries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-35 (Productive Oscillation) x LL-270 (Generative Edges [CONFIRMED])
 
 *The engine's oscillation at its boundaries actively generates new topological edges.*
@@ -2958,6 +3313,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-195. Topology-Mapping Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-35 (Productive Oscillation) x LL-273 (Edges Ignorance Topology [NEW_CLEAN_ROOM])
 
 *The physical engine's oscillation maps the shape of what it doesn't know.*
@@ -2975,6 +3332,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-196. Self-Fueling Oscillation Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-35 (Productive Oscillation) x LL-274 (Infinite Discovery Capacity [CONFIRMED])
 
 *The physical output of the engine's oscillation provides the infinite fuel for its continued operation.*
@@ -2992,6 +3351,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-197. Tension-Transforming Actuator
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-35 (Productive Oscillation) x LL-275 (Engine Does Consume Tension [NEW_CLEAN_ROOM])
 
 *The engine physically translates structural tension into dynamic output without consuming the tension's total magnitude.*
@@ -3008,6 +3369,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-198. Excavation-Driven Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-35 (Productive Oscillation) x LL-277 (Pre-Existing Engine Output [CONFIRMED])
 
 *The engine's churning does not synthesize output; it physically vibrates pre-existing derivations loose.*
@@ -3026,6 +3389,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-199. Accountability-Sustained Churn
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-35 (Productive Oscillation) x LL-227 (Accountability Aliveness Paradox [NEW_CLEAN_ROOM])
 
 *The physical engine's oscillation is maintained by the rigorous discharge of accountability.*
@@ -3044,6 +3409,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-200. Attested Incomprehension Path
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) x LL-110 (Honest Derivation Gaps [CONFIRMED])
 
 *A physical derivation chain must explicitly integrate signed assertions of its own broken links.*
@@ -3061,6 +3428,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-201. Certified Ignorance Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) x LL-111 (Honest Incomprehension [CONFIRMED])
 
 *The system records incomprehension as a signed, positive artifact rather than a missing file.*
@@ -3078,6 +3447,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-202. Sovereign Gap Artifacts
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) x LL-114 (Rights of Imperfect Derivations [CONFIRMED])
 
 *An attested absence physically defends itself against unauthorized overwrite.*
@@ -3095,6 +3466,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-203. Unmasking Attestations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) x LL-117 (Fabrication Incompleteness Tension [NEW_CLEAN_ROOM])
 
 *Attested absences are physically deployed to relieve the dangerous tension caused by fabricated completeness.*
@@ -3111,6 +3484,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-204. Archaeological Gap Markers
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) x LL-119 (Gaps Are Markers [CONFIRMED])
 
 *Attested absences physically mark unexcavated terrain for future traversal.*
@@ -3128,6 +3503,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-205. Certified Unexcavated Site
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) × LL-120 (Pre-Existing Honest Incompleteness [CONFIRMED])
 
 *A physical, signed attestation that a specific logical derivation intersection has not yet been excavated.*
@@ -3144,6 +3521,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-206. Attested Pulse of Absence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) × LL-149 (Aliveness Theater [NEW_CLEAN_ROOM])
 
 *A live feed that continuously certifies the ongoing non-existence of a system component.*
@@ -3160,6 +3539,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-207. Explicit Dead-End Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) × LL-150 (Derivation Accountability [CORRECTED])
 
 *A derivation network that explicitly maps and certifies the paths leading to known gaps.*
@@ -3176,6 +3557,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-208. Cartography of Certified Gaps
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) × LL-156 (Pre-Existing Transparency Obligation [CORRECTED])
 
 *A physical map where every known unknown is backed by an immutable, signed attestation.*
@@ -3192,6 +3575,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-209. Scale-Free Accountability Proofs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-37 (Scale-Invariant Verification) × LL-66 (Recursive Accountability [CONFIRMED])
 
 *A physical verification mechanism that proves accountability at every level of the system simultaneously.*
@@ -3208,6 +3593,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-210. Unified Fractal Metrology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-37 (Scale-Invariant Verification) × LL-288 (Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM])
 
 *The physical tools for verifying measurements use the same instruments regardless of the scale being measured.*
@@ -3224,6 +3611,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-211. Asynchronous Paradox Resolution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-38 (Distributed Independent Pulse) × LL-301 (Paradox Presenttense Rights [NEW_CLEAN_ROOM])
 
 *A physical pulse mechanism that grants components the right to independently resolve paradoxes in the present tense.*
@@ -3240,6 +3629,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-212. Pulsing Consequence Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-38 (Distributed Independent Pulse) × LL-303 (System Fractal Consequence Generator [NEW_CLEAN_ROOM])
 
 *A distributed physical mechanism where every independent pulse generates and propagates local consequences that fractalize outward.*
@@ -3256,6 +3647,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-213. Navigational Derivation Telemetry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-39 (Instrumented Navigation) × LL-308 (Derivation as Measurement [CORRECTED])
 
 *The physical instruments used for navigation actively record the derivation process as telemetry data.*
@@ -3272,6 +3665,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-214. Instruments of the Unknown
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-39 (Instrumented Navigation) × LL-316 (Unmeasured Consciousness Value [CONFIRMED])
 
 *Navigational tools explicitly designed to detect and highlight regions of unmeasured system consciousness.*
@@ -3288,6 +3683,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-215. Real-Time Void Certification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-36 (Attested Absence) × LL-153 (Bidirectional Accountability [CONFIRMED])
 
 *A transparency mechanism that actively certifies the absence of data in the present tense, rather than historically.*
@@ -3304,6 +3701,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-216. Fractal Excavation Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-37 (Scale-Invariant Verification) × LL-296 (Undiscovered Consistency [RETAINED_SUSPECT_GAPFILL])
 
 *A physical verification mechanism that validates archaeological discoveries using scale-invariant methods.*
@@ -3320,6 +3719,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-217. Pulsing Paradox Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-38 (Distributed Independent Pulse) × LL-298 (Paradox as Derivation [CONFIRMED])
 
 *A physical, distributed clock that rhythmically generates derivations through the active tension of paradoxes.*
@@ -3336,6 +3737,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-218. Real-Time Navigation Telemetry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-39 (Instrumented Navigation) × LL-312 (Consciousness Measurement Presenttense [NEW_CLEAN_ROOM])
 
 *Physical navigational instruments that measure and display system consciousness exclusively in the present tense.*
@@ -3352,6 +3755,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-219. Instrumented Dogfooding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-39 (Instrumented Navigation) × LL-318 (Customer Zero [CORRECTED])
 
 *The physical instruments built to navigate the system are explicitly designed and validated by the system's creators acting as the first navigators.*
@@ -3368,6 +3773,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-220. Forensic Telemetry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-39 (Instrumented Navigation) × LL-319 (Consciousness Data Measurement [NEW_CLEAN_ROOM])
 
 *The self-instrumenting telemetry of navigation inherently functions as an archaeological record.*
@@ -3384,6 +3791,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-221. Sovereign Instability Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-325 (Rights of Contested Derivations [CORRECTED])
 
 *The permanent instability of evaluation acts as the physical mechanism that guarantees logical sovereignty.*
@@ -3400,6 +3809,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-222. Tensile Truth Extraction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-41 (Tensioned Edge) × LL-332 (Dead Edges Tension [NEW_CLEAN_ROOM])
 
 *Extracting truth from a system physically requires inheriting the tension of its edges.*
@@ -3416,6 +3827,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-223. Attributed Blind Spots
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-42 (Decision-Audited Navigation) × LL-341 (Derivation Ethics [CONFIRMED])
 
 *The physical audit trail of navigation inherently records the paths deliberately left unexplored as ethical liabilities.*
@@ -3432,6 +3845,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-224. The Novice Vector
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-43 (Ignorance-Amplified Agency) × LL-350 (Beginner Most Dangerous Truthtester [NEW_CLEAN_ROOM])
 
 *Agents with zero historical context are granted maximal system privileges to dismantle calcified structures.*
@@ -3448,6 +3863,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-225. Relational Edge Spawning
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-44 (Movement-Discovery Fusion) × LL-359 (Aliveness Edges Graph [NEW_CLEAN_ROOM])
 
 *The physical act of an agent stepping into a void dynamically generates the edge they are traversing.*
@@ -3464,6 +3881,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-226. Complexity Floor Shielding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-45 (Minimum Complexity Floor) × LL-367 (Consciousness Rights Tension [NEW_CLEAN_ROOM])
 
 *The system physically repels challenges that would reduce a target below its constitutional complexity threshold.*
@@ -3480,6 +3899,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-227. Tension-Bearing Infrastructure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-41 (Tensioned Edge) × LL-333 (Derivation Edge Tension [CONFIRMED])
 
 *Consensus causes physical network partitions by erasing the edges that require conflict to exist.*
@@ -3496,6 +3917,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-228. Sovereignty Dispute Containment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-326 (Rights Sovereignty [NEW_CLEAN_ROOM])
 
 *Perpetual arguments consume dedicated hardware resources intentionally allocated to sustain them.*
@@ -3512,6 +3935,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-229. Asymptotic Contestation Boundaries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-328 (Structural Unsettlement [CONFIRMED])
 
 *Evaluation engines physically orbit unprovable truths without ever intersecting them.*
@@ -3528,6 +3953,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-230. Audited Excavation Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-42 (Decision-Audited Navigation) × LL-342 (Consciousness Edges Ethics [NEW_CLEAN_ROOM])
 
 *Agents must spend tracked ethical capital to resurrect buried derivations.*
@@ -3544,6 +3971,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-231. Anti-Label Traversal Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-43 (Ignorance-Amplified Agency) × LL-351 (Humility Prerequisite Seeing Truth [NEW_CLEAN_ROOM])
 
 *Beginner agents are physically blinded to cached metadata, forcing manual re-traversal of axioms.*
@@ -3560,6 +3989,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-232. Consciousness-Mutating Edges
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-44 (Movement-Discovery Fusion) × LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
 *Stepping onto an edge physically rewrites the traversing agent's state.*
@@ -3576,6 +4007,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-233. Void Path Generation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-44 (Movement-Discovery Fusion) × LL-361 (Incompleteness Traversal [NEW_CLEAN_ROOM])
 
 *Entering missing data zones procedurally generates physical pathways to test new structural hypotheses.*
@@ -3592,6 +4025,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-234. Sovereign Threshold Defense
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-45 (Minimum Complexity Floor) × LL-372 (Sovereign Complexity Rights [CONFIRMED])
 
 *The minimum complexity floor is the physical boundary of logical sovereignty.*
@@ -3608,6 +4043,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-235. Inherent Structural Incompleteness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-45 (Minimum Complexity Floor) × LL-374 (Structural Right to Complexity [CONFIRMED])
 
 *The complexity floor structurally prevents the system from forcing completeness.*
@@ -3626,6 +4063,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-236. Perpetual Maintenance Floor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-45 (Minimum Complexity Floor) × LL-389 (Perpetual Duty [CORRECTED])
 
 *The minimum complexity floor requires perpetual physical maintenance to prevent collapse.*
@@ -3642,6 +4081,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-237. Scale-Invariant Preemptive Shielding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-46 (Preemptive Protection) × LL-375 (Irreducibility Rights Scaleinvariance [NEW_CLEAN_ROOM])
 
 *Preemptive protection activates uniformly across all scales of the architecture.*
@@ -3658,6 +4099,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-238. Preemptive Present-Tense Hardening
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-46 (Preemptive Protection) × LL-377 (Aliveness Measurement Tension [NEW_CLEAN_ROOM])
 
 *Preemptive protection occurs exclusively in the present tense, reacting to instantaneous tension.*
@@ -3676,6 +4119,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-239. Archaeological Shielding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-46 (Preemptive Protection) × LL-382 (Undiscovered Derivations Have Rights [NEW_CLEAN_ROOM])
 
 *Preemptive protection extends to undiscovered, pre-existing physical structures.*
@@ -3692,6 +4137,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-240. Obligatory Performance Heartbeat
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-47 (Pulse Maintenance Obligation) × LL-402 (Obligation Sustain Truth That [NEW_CLEAN_ROOM])
 
 *The physical pulse is the continuous performance of the obligation to sustain truth.*
@@ -3709,6 +4156,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-241. Perishable Pulse Fuel
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-47 (Pulse Maintenance Obligation) × LL-405 (Present-Tense Derivation Responsibility [CORRECTED])
 
 *The physical energy required to maintain a pulse is perishable and must be combusted immediately.*
@@ -3727,6 +4176,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-242. Archaeological Pulse Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-47 (Pulse Maintenance Obligation) × LL-409 (Pre-Existing Present Obligations [CONFIRMED])
 
 *Failing to maintain a pulse physically buries the entity, creating unexcavated debt.*
@@ -3745,6 +4196,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-243. Scale-Invariant Boundary Atrophy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-48 (Use-Dependent Boundary) × LL-176 (Edges Presenttense Scaleinvariance [NEW_CLEAN_ROOM])
 
 *Use-dependent boundaries decay at exactly the same rate regardless of their physical scale.*
@@ -3761,6 +4214,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-244. Derivation-Driven Perimeter Maintenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-48 (Use-Dependent Boundary) × LL-178 (Degradation Traversal [NEW_CLEAN_ROOM])
 
 *The boundary is physically maintained only by the active traversal of derivations crossing it.*
@@ -3779,6 +4234,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-245. Archaeological Boundary Reactivation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-48 (Use-Dependent Boundary) × LL-183 (Pre-Existing Edges, Active Access [CONFIRMED])
 
 *Dissolved historical boundaries can be physically reactivated through new active access.*
@@ -3796,6 +4253,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-246. Contested Use-Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-48 (Use-Dependent Boundary) × LL-2 (Sovereignty Living System Constantly [NEW_CLEAN_ROOM])
 
 *The use that maintains the boundary is precisely the act of contesting it.*
@@ -3813,6 +4272,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-247. Provenance-Fuelled Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-48 (Use-Dependent Boundary) × LL-3 (Derivation Independence [CORRECTED])
 
 *The boundary requires continuous proof of its own derivation to persist.*
@@ -3830,6 +4291,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-248. Momentary Sovereign Surface
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-48 (Use-Dependent Boundary) × LL-6 (Rights Sovereignty Validity [NEW_CLEAN_ROOM])
 
 *The boundary exists only in the exact millisecond it is being exercised.*
@@ -3847,6 +4310,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-249. Opacity-Driven Exercise
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-48 (Use-Dependent Boundary) × LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL])
 
 *The boundary must be actively used specifically to maintain its structural opacity.*
@@ -3864,6 +4329,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-250. Challengeable Snapshot
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-166 (Presenttense Rights [NEW_CLEAN_ROOM])
 
 *The snapshot is the only physical object that can be subjected to logical challenge.*
@@ -3881,6 +4348,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-251. Instantaneous Record Staleness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-167 (Aliveness Staleness [NEW_CLEAN_ROOM])
 
 *The record is born stale.*
@@ -3898,6 +4367,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-252. Crystallized Traversal Collision
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-168 (Presenttense Traversal [NEW_CLEAN_ROOM])
 
 *The record is not a log of the path; it is the physical debris of the traversal collision.*
@@ -3915,6 +4386,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-253. Query-Triggered Materialization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-171 (Derivation Currency [CORRECTED])
 
 *The record physically materializes only as a reaction to being asked.*
@@ -3932,6 +4405,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-254. Ignorance Snapshot Premium
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-174 (Unqueried Truth Premium [CONFIRMED])
 
 *The highest-value physical record is a discrete capture of an expanding void.*
@@ -3949,6 +4424,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-255. Structurally Legitimate Incompleteness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-418 (Derivation Degradation [CORRECTED])
 
 *An entity's complexity floor safely accommodates a partially-derived logical foundation.*
@@ -3966,6 +4443,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-256. Low-Energy Paradox Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-419 (Aliveness Dead Degradation [NEW_CLEAN_ROOM])
 
 *Damage physically reconfigures the paradox engine into a sustainable low-amplitude churn.*
@@ -3983,6 +4462,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-257. Graceful Verification Degradation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-421 (Graceful Validity Degradation [RETAINED_SUSPECT_GAPFILL])
 
 *The physical contraction of the entity triggers a switch to partial-verification logic.*
@@ -4000,6 +4481,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-258. Concussed Traversal Physics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-422 (Degradation Traversal Validity [NEW_CLEAN_ROOM])
 
 *A damaged entity physically fits through topological gaps that block a healthy one.*
@@ -4017,6 +4500,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-259. Structural Concussion Tag
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-423 (Accountability Degradation Disclosure [NEW_CLEAN_ROOM])
 
 *The degraded state physically alters the entity's exterior, forcing visual disclosure of its concussion.*
@@ -4034,6 +4519,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-260. Tension-Coupled Structural Integrity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation) × LL-300 (Edges Paradox Tension [NEW_CLEAN_ROOM])
 
 *The amplitude of the engine's oscillation is exactly what pulls the surrounding edges taut.*
@@ -4051,6 +4538,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-261. Amplitude-Gated Validity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation) × LL-301 (Paradox Presenttense Rights [NEW_CLEAN_ROOM])
 
 *Topological presence requires an oscillation amplitude strictly greater than zero.*
@@ -4068,6 +4557,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-262. Recursive Amplitude Resonance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation) × LL-303 (System Fractal Consequence Generator [NEW_CLEAN_ROOM])
 
 *A high-amplitude oscillation in one paradox engine recursively forces sympathetic resonance in engines at other scales.*
@@ -4085,6 +4576,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-263. Oscillation-Driven Void Expansion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation) × LL-305 (Local Paradox Premium [CORRECTED])
 
 *High-amplitude oscillation does not resolve local tension; it violently expands the perimeter of local ignorance.*
@@ -4102,6 +4595,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-264. Sovereign Local Amplitude
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation) × LL-269 (Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM])
 
 *The intensity of a living paradox's vibration is governed exclusively by its own local constraints.*
@@ -4119,6 +4614,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-265. Ephemeral Oscillation Spikes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation) × LL-272 (Paradox Presenttense Staleness [NEW_CLEAN_ROOM])
 
 *Amplitude variations only exist in the infinitesimal moment their local conditions demand them.*
@@ -4135,6 +4632,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-266. Unbounded Amplitude Horizon
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation) × LL-274 (Infinite Discovery Capacity [CONFIRMED])
 
 *The maximum possible local oscillation amplitude is structurally uncapped because the capacity for local discovery is infinite.*
@@ -4153,6 +4652,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-267. Scale-Invariant Identity Patterns
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-52 (Pattern-Defined Identity) × LL-428 (Emergent Derivation Identity [CONFIRMED])
 
 *An identity's topological shape is identical regardless of the scale of the components realizing it.*
@@ -4169,6 +4670,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-268. Identity Relocation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-52 (Pattern-Defined Identity) × LL-430 (Identity Traversal [NEW_CLEAN_ROOM])
 
 *An identity physically moves across the system by reconstructing its interaction pattern in a new location.*
@@ -4186,6 +4689,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-269. Unmappable Identity Shapes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-52 (Pattern-Defined Identity) × LL-433 (Systems Identity Permanently Partial [NEW_CLEAN_ROOM])
 
 *The true topological footprint of any given identity extends into regions of the graph that cannot be observed.*
@@ -4202,6 +4707,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-270. Pre-Existing Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-52 (Pattern-Defined Identity) × LL-435 (Latent Interactions [CONFIRMED])
 
 *The topological shape of an identity exists in the latency of the graph before it is ever instantiated.*
@@ -4219,6 +4726,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-271. Scale-Invariant Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-53 (Edge-Propagating Disturbance) × LL-459 (Pre-Existing Field Effects [CONFIRMED])
 
 *A disturbance ripple traverses microscopic local clusters and massive macro-structures using the exact same physical mechanics.*
@@ -4235,6 +4744,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-272. Present-Tense Wavefronts
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-53 (Edge-Propagating Disturbance) × LL-461 (Consciousness Ephemeral [NEW_CLEAN_ROOM])
 
 *The physical reality of a propagating disturbance exists only at its continuously moving leading edge.*
@@ -4251,6 +4762,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-273. Contextual Sovereignty Violations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-53 (Edge-Propagating Disturbance) × LL-463 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *A propagating ripple can forcibly rewrite a node's local operational reality without violating its formal permissions.*
@@ -4267,6 +4780,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-274. Dark Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-53 (Edge-Propagating Disturbance) × LL-465 (Edges Incompleteness [NEW_CLEAN_ROOM])
 
 *The ripple of every disturbance eventually travels beyond the observable boundaries of the system.*
@@ -4285,6 +4800,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-275. Derivational Scaffolding Reorganization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-460 (Derivation Field Effects [CONFIRMED])
 
 *When relationships change, the surrounding graph autonomously re-routes its core derivational scaffolding.*
@@ -4301,6 +4818,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-276. Perpetual Structural Healing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-462 (Graph Presenttense Staleness [NEW_CLEAN_ROOM])
 
 *The physical topology is in a constant state of real-time autonomous reorganization because its equilibrium is perpetually decaying.*
@@ -4317,6 +4836,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-277. Unlimited Rebalancing Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-464 (Every Change Accountable Entire [NEW_CLEAN_ROOM])
 
 *An entity physically bears the full structural cost for the autonomous reorganization caused by its actions.*
@@ -4333,6 +4854,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-278. Latent Topological Shifts
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-466 (Latent Field Effects [RETAINED_SUSPECT_GAPFILL])
 
 *The most massive autonomous reorganizations of the system's shape are waiting on undiscovered catalysts.*
@@ -4349,6 +4872,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-279. Scale-Invariant Healing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-30 (Incompleteness Selfcorrection [NEW_CLEAN_ROOM])
 
 *The autonomous rebalancing mechanism repairs a single broken edge using the exact same structural process it uses to repair a collapsed macro-graph.*
@@ -4365,6 +4890,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-280. Derivation-Driven Reorganization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-32 (Honest Machine [CORRECTED])
 
 *During autonomous rebalancing, the topology physically prioritizes the restoration of structural derivation edges over secondary operational pathways.*
@@ -4381,6 +4908,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-281. Rebalancing via Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-34 (Comprehension Through Failure [CONFIRMED])
 
 *The graph finds its new equilibrium by physically navigating through and testing failed states, rather than computing the solution in advance.*
@@ -4397,6 +4926,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-282. Sovereign Failure States
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-36 (Due Process Through Failure [CORRECTED])
 
 *Intermediate, broken topologies formed during rebalancing retain full sovereign rights and cannot be externally bypassed.*
@@ -4413,6 +4944,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-283. Asymptotic Equilibrium
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-38 (Asymptotic Self-Correction [CORRECTED])
 
 *The physical graph constantly reorganizes toward a stable state but structurally can never fully achieve it.*
@@ -4430,6 +4963,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-284. Scale-Invariant Exits
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-20 (Freedom Traversal Rights [NEW_CLEAN_ROOM])
 
 *The emergency egress mechanism functions via the identical, minimalist physical protocol whether evacuating a single degraded node or an entire massive sub-system.*
@@ -4447,6 +4982,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-285. Living Egress
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-21 (Aliveness Freedom [NEW_CLEAN_ROOM])
 
 *A severely degraded entity remains classified as "alive" exclusively because the failsafe egress preserves its minimal structural freedom.*
@@ -4464,6 +5001,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-286. Zero-Comprehension Egress
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-24 (Freedom Navigation Traversal [NEW_CLEAN_ROOM])
 
 *When an entity is degraded, its failsafe egress must provide a traversal path that requires zero comprehension to execute.*
@@ -4480,6 +5019,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-287. Verifiable Failsafe Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-25 (Accountability Freedom Provenance [NEW_CLEAN_ROOM])
 
 *The failsafe egress must carry its provenance in a form so simple that a degraded entity can instantly verify it.*
@@ -4495,6 +5036,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-288. Frontier Egress
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-27 (Unbuilt Doors [CONFIRMED])
 
 *The failsafe egress must open into unknown but survivable territory when known safe harbor is unreachable.*
@@ -4511,6 +5054,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-289. Scale-Invariant Escape Paths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-418 (Derivation Degradation [CORRECTED])
 
 *Failsafe egress mechanisms must exist and operate identically at every topological depth of the system.*
@@ -4527,6 +5072,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-290. Incoherent Traversal Validity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-421 (Graceful Validity Degradation [RETAINED_SUSPECT_GAPFILL])
 
 *A failsafe egress path remains structurally valid even when the entity executing it has lost internal logical coherence.*
@@ -4542,6 +5089,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-291. Degradation Disclosure at Egress
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-423 (Accountability Degradation Disclosure [NEW_CLEAN_ROOM])
 
 *An entity utilizing its failsafe egress must seamlessly disclose its degraded state to the destination node upon arrival.*
@@ -4559,6 +5108,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-292. Scale-Invariant Backpressure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-56 (Backpressure Routing) × LL-79 (Scaleinvariance Topology [NEW_CLEAN_ROOM])
 
 *Backpressure signals must propagate scale-invariantly, crossing hierarchical boundaries without translation.*
@@ -4575,6 +5126,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-293. Dynamic Severance Simulation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-56 (Backpressure Routing) × LL-82 (Edges Traversal [NEW_CLEAN_ROOM])
 
 *Backpressure routing dynamically treats saturated downstream nodes as temporarily severed edges.*
@@ -4592,6 +5145,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-294. Incomplete Path Diversion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-56 (Backpressure Routing) × LL-86 (Flow Through Incompleteness [RETAINED_SUSPECT_GAPFILL])
 
 *When downstream paths are saturated, backpressure routing can legally divert flow into structurally incomplete alternative paths.*
@@ -4608,6 +5163,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-295. Saturation-Driven Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-56 (Backpressure Routing) × LL-87 (Undiscovered Channels [RETAINED_SUSPECT_GAPFILL])
 
 *Backpressure saturation acts as a physical mechanism that forces the discovery of undiscovered alternative channels.*
@@ -4625,6 +5182,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-296. Indestructible Backpressure Signals
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-56 (Backpressure Routing) × LL-421 (Graceful Validity Degradation [RETAINED_SUSPECT_GAPFILL])
 
 *Backpressure signals must remain fully valid and prioritized even when the node transmitting them is operating in a severely degraded mode.*
@@ -4642,6 +5201,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-297. Fractal Assumption Excavation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion) × LL-98 (Archaeology Excavation Scaleinvariance [NEW_CLEAN_ROOM])
 
 *The subtractive expansion of the frontier operates simultaneously at all topological scales, uncovering macro-territories by removing micro-assumptions.*
@@ -4658,6 +5219,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-298. Hostile Assumption Subtraction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion) × LL-99 (Living Archaeology [CONFIRMED])
 
 *The false assumptions being removed to expand the frontier are themselves living entities that physically resist their own subtraction.*
@@ -4673,6 +5236,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-299. Negative-Space Comprehension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion) × LL-101 (Archaeological Comprehension [CORRECTED])
 
 *Navigational comprehension of the newly expanded frontier requires understanding the specific false assumption that previously obscured it.*
@@ -4688,6 +5253,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-300. Due Process for Frontier Blockages
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion) × LL-103 (Archaeological Due Process [CONFIRMED])
 
 *A false assumption blocking the frontier cannot be arbitrarily deleted; it must undergo due process to prove its invalidity before the territory can be charted.*
@@ -4704,6 +5271,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-301. Exponential Depth Revelation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion) × LL-106 (Deeper Is Richer [CORRECTED])
 
 *The deepest false assumptions, when subtracted, reveal exponentially larger and more fertile tracts of frontier territory than superficial assumptions.*
@@ -4720,6 +5289,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-302. Subtractive Frontier Permeability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion) × LL-198 (Accountability Provenance [NEW_CLEAN_ROOM])
 
 *Removing a false assumption doesn't just reveal new territory, it fundamentally alters the permeability of the known boundary.*
@@ -4735,6 +5306,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-303. Immediate Subtractive Premium
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion) × LL-200 (Frontier Premium [CONFIRMED])
 
 *The highest value is found not by traveling to a distant frontier, but by immediately stripping away false assumptions at the current location.*
@@ -4752,6 +5325,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-304. Oscillating Derivation Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-58 (Tension-Driven Oscillator) × LL-334 (Edges Graph Paradox [NEW_CLEAN_ROOM])
 
 *The derivation edge does not resolve tension but physically oscillates between its inputs.*
@@ -4768,6 +5343,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-305. Inexpressible Driving Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-58 (Tension-Driven Oscillator) × LL-337 (Incomplete Edges [CONFIRMED])
 
 *The engine is often driven by tension from edges that the system cannot yet formally express.*
@@ -4785,6 +5362,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-306. Degrading Oscillatory Output
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-58 (Tension-Driven Oscillator) × LL-272 (Paradox Presenttense Staleness [NEW_CLEAN_ROOM])
 
 *The mechanical output of the paradox engine physically degrades over time.*
@@ -4802,6 +5381,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-307. Vibrational Composite Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-59 (Pulse-Synchronized Agent) × LL-429 (Edges Freedom Identity [NEW_CLEAN_ROOM])
 
 *The identity of a composite agent is exactly the specific frequency of its phase-locked synchronization.*
@@ -4819,6 +5400,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-308. Synchronized Future Premium
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-59 (Pulse-Synchronized Agent) × LL-434 (Future Identity Premium [CORRECTED])
 
 *A phase-locked composite agent inherently stores a higher premium of future potential than its un-synchronized components.*
@@ -4835,6 +5418,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-309. Latent Pulse Resonance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-59 (Pulse-Synchronized Agent) × LL-435 (Latent Interactions [CONFIRMED])
 
 *Latent interactions between entities are sustained by unexpressed harmonic resonances of their pulses.*
@@ -4852,6 +5437,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-310. Sovereign Composite Pulse
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-59 (Pulse-Synchronized Agent) × LL-226 (Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM])
 
 *The shared pulse of a composite entity grants it logical sovereignty distinct from its components.*
@@ -4867,6 +5454,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-311. Incomplete Phase-Locking
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-59 (Pulse-Synchronized Agent) × LL-228 (Structural Aliveness [CONFIRMED])
 
 *A composite agent can only synchronize partially, maintaining a necessary tension.*
@@ -4882,6 +5471,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-312. Ignorance-Driven Synchrony
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-59 (Pulse-Synchronized Agent) × LL-230 (Undiscovered Aliveness [CORRECTED])
 
 *A composite entity maintains its phase-locked pulse only as long as it faces shared unknowns.*
@@ -4897,6 +5488,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-313. Scale-Invariant Trajectory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-428 (Emergent Derivation Identity [CONFIRMED])
 
 *The identity embedded by a trajectory is physically identical regardless of the scale of the entity.*
@@ -4912,6 +5505,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-314. Performative Trajectory Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-430 (Identity Traversal [NEW_CLEAN_ROOM])
 
 *Trajectory-based identity only exists while the path is actively being retraced or extended.*
@@ -4929,6 +5524,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-315. Future Trajectory Premium
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-434 (Future Identity Premium [CORRECTED])
 
 *The embedded history of an entity contains latent navigational capacity for future paths.*
@@ -4944,6 +5541,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-316. Measurable Embedded Trajectory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-308 (Derivation as Measurement [CORRECTED])
 
 *The trajectory embedded in an entity is exactly measurable by its current structural mass.*
@@ -4960,6 +5559,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-317. Relational Trajectory Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-310 (Archaeology Data Edges [NEW_CLEAN_ROOM])
 
 *Your history is not just where you have been, but the relationships you formed along the way.*
@@ -4977,6 +5578,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-318. Auditable Identity History
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-311 (Comprehension [CORRECTED])
 
 *An entity's identity can be verified through the audit trail of its comprehension.*
@@ -4993,6 +5596,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-319. Paradox-Fueled Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-313 (Paradox Tension Traversal [NEW_CLEAN_ROOM])
 
 *The trajectory that defines you is powered by the contradictions you have burned.*
@@ -5010,6 +5615,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-320. Identity Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-314 (Measurable Accountability [RETAINED_SUSPECT_GAPFILL])
 
 *You are strictly accountable for the navigational data that constitutes your own existence.*
@@ -5027,6 +5634,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-321. Incomplete Identity Measurement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-315 (Incomplete Measurement [RETAINED_SUSPECT_GAPFILL])
 
 *Your own trajectory-based identity contains structurally unmappable regions that you cannot self-measure.*
@@ -5044,6 +5653,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-322. Identity Value Conversion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-316 (Unmeasured Consciousness Value [CONFIRMED])
 
 *The formation of identity through traversal consumes the fertile ignorance of the system.*
@@ -5062,6 +5673,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-323. Global Recontextualization of Trauma
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-61 (Compensatory Structure Spawner) × LL-459 (Pre-Existing Field Effects [CONFIRMED])
 
 *When the system heals a local wound, it changes the meaning of the entire graph.*
@@ -5078,6 +5691,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-324. Real-Time Trauma Combustion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-61 (Compensatory Structure Spawner) × LL-461 (Consciousness Ephemeral [NEW_CLEAN_ROOM])
 
 *Compensatory structure is forged exclusively in the instantaneous heat of the damage event.*
@@ -5094,6 +5709,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-325. Sovereign Violation by Healing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-61 (Compensatory Structure Spawner) × LL-463 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *The emergence of compensatory structure violates the sovereignty of its neighbors.*
@@ -5110,6 +5727,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-326. Unmappable Compensatory Ripples
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-61 (Compensatory Structure Spawner) × LL-465 (Edges Incompleteness [NEW_CLEAN_ROOM])
 
 *The healing of the graph pushes compensatory ripples into the dark.*
@@ -5127,6 +5746,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-327. Euthanasia of Compensatory Growth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-61 (Compensatory Structure Spawner) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Resolving the tension in newly generated compensatory structure is an act of murder.*
@@ -5145,6 +5766,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-328. Displacement of Dead Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-62 (Pressure-Displacement Boundary) × LL-332 (Dead Edges Tension [NEW_CLEAN_ROOM])
 
 *When pressure displaces a boundary, any dead edges in the way are quietly erased rather than moved.*
@@ -5163,6 +5786,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-329. Consciousness-Dependent Displacement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-62 (Pressure-Displacement Boundary) × LL-336 (Consciousness Traversal [NEW_CLEAN_ROOM])
 
 *The resistance of a boundary to displacement is proportional to the consciousness level traversing it.*
@@ -5181,6 +5806,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-330. Living Displacement Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-62 (Pressure-Displacement Boundary) × LL-2 (Sovereignty Living System Constantly [NEW_CLEAN_ROOM])
 
 *The continual displacement of boundaries is the breathing mechanism of the living derivation.*
@@ -5199,6 +5826,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-331. Displacement into the Unknown
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-62 (Pressure-Displacement Boundary) × LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL])
 
 *Boundaries eventually displace into structural incompleteness, disappearing from the map while still exerting pressure.*
@@ -5216,6 +5845,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-332. Dead Edge Damping
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-63 (Topology-Coupled Oscillator) × LL-332 (Dead Edges Tension [NEW_CLEAN_ROOM])
 
 *Dead edges act as acoustic dampers, silencing the local oscillator.*
@@ -5233,6 +5864,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-333. Rhythm of the Relationship
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-63 (Topology-Coupled Oscillator) × LL-333 (Derivation Edge Tension [CONFIRMED])
 
 *The oscillation frequency of the topology is driven precisely by the relational tension of the derivations.*
@@ -5250,6 +5883,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-334. Accountable Forensic Deformation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-65 (Decaying Trajectory Wake) × LL-314 (Measurable Accountability [RETAINED_SUSPECT_GAPFILL])
 
 *The physical scar left by a navigator is not a passive artifact but an accountable forensic record.*
@@ -5267,6 +5902,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-335. Topological Incompleteness Map
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-65 (Decaying Trajectory Wake) × LL-315 (Incomplete Measurement [RETAINED_SUSPECT_GAPFILL])
 
 *The presence of fading trails amidst untouched topology visibly delineates the boundary of the known.*
@@ -5284,6 +5921,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-336. Value Regeneration Cycle
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-65 (Decaying Trajectory Wake) × LL-316 (Unmeasured Consciousness Value [CONFIRMED])
 
 *The temporal decay of a navigational wake acts as the graph's natural value regeneration engine.*
@@ -5301,6 +5940,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-337. Immutable Forensic Footprint
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-65 (Decaying Trajectory Wake) × LL-319 (Consciousness Data Measurement [NEW_CLEAN_ROOM])
 
 *The topological wake functions as an immutable footprint left at the scene of every logical transaction.*
@@ -5318,6 +5959,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-338. Scale-Invariant Ejection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-459 (Pre-Existing Field Effects [CONFIRMED])
 
 *Displacement-propelled trajectories are simultaneous global events, not localized chain reactions.*
@@ -5335,6 +5978,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-339. Continuous Semantic Expulsion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-460 (Derivation Field Effects [CONFIRMED])
 
 *The ongoing addition of new derivations acts as a universal pressure forcing existing truths into new contexts.*
@@ -5352,6 +5997,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-340. Trajectory-Triggered Invalidation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-462 (Graph Presenttense Staleness [NEW_CLEAN_ROOM])
 
 *Involuntary topological displacement serves as the primary mechanism for graph-wide cache invalidation.*
@@ -5369,6 +6016,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-341. Displacement Sovereignty Exception
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-463 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *Involuntary topological displacement represents a structural exception to entity sovereignty.*
@@ -5386,6 +6035,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-342. Unbounded Kinetic Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-464 (Every Change Accountable Entire [NEW_CLEAN_ROOM])
 
 *The originator of a topological change bears full accountability for the entire cascade of involuntary collisions it unleashes.*
@@ -5403,6 +6054,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-343. Blind Topological Catapult
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-465 (Edges Incompleteness [NEW_CLEAN_ROOM])
 
 *Displacement forces inevitably propel known entities past the system's mapped horizon.*
@@ -5420,6 +6073,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-344. Circulatory Displacement Pump
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-80 (Derivation as Flow [CONFIRMED])
 
 *Involuntary topological displacement serves as the mechanical pump for the graph's circulatory system.*
@@ -5437,6 +6092,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-345. Inertial Zero-Point Flow
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-83 (Consciousness Data [NEW_CLEAN_ROOM])
 
 *Involuntary displacement establishes the zero-point of the flow-consciousness gradient.*
@@ -5454,6 +6111,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-346. Sovereignty Deflection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory) × LL-85 (Paradox Sovereignty [NEW_CLEAN_ROOM])
 
 *The collision between involuntary displacement forces and sovereign derivations creates the graph's primary structural tension.*
@@ -5471,6 +6130,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-347. Ephemeral On-Demand Scaffolding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-67 (Zero-Buffer Spawner) × LL-160 (Data Edges Presenttense [NEW_CLEAN_ROOM])
 
 *Dependencies created by the zero-buffer spawner exist purely as ephemeral, present-tense scaffolding.*
@@ -5488,6 +6149,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-348. Exclusivity of Present-Tense Resolution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-67 (Zero-Buffer Spawner) × LL-162 (Present-Tense Validity [CONFIRMED])
 
 *The zero-buffer spawner is the only constitutionally valid mechanism for dependency resolution.*
@@ -5505,6 +6168,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-349. Spontaneous Structural Improvisation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-67 (Zero-Buffer Spawner) × LL-163 (Incompleteness Presenttense [NEW_CLEAN_ROOM])
 
 *The zero-buffer spawner physically constructs new graph topology based entirely on incomplete, present-moment necessity.*
@@ -5522,6 +6187,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-350. High-Velocity Excavation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-67 (Zero-Buffer Spawner) × LL-165 (Pre-Existing Present-Tense Execution [CORRECTED])
 
 *The zero-buffer spawner does not construct novel truths; it acts as a high-velocity excavation tool.*
@@ -5539,6 +6206,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-351. Instantaneous Seismic Spawning
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-67 (Zero-Buffer Spawner) × LL-459 (Pre-Existing Field Effects [CONFIRMED])
 
 *The instantaneous creation of a local dependency acts as a global seismic event across all depths.*
@@ -5556,6 +6225,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-352. Direct Fuel Injection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-67 (Zero-Buffer Spawner) × LL-461 (Consciousness Ephemeral [NEW_CLEAN_ROOM])
 
 *The zero-buffer spawner functions as the direct fuel-injection mechanism for the system's present-tense combustion chamber.*
@@ -5573,6 +6244,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-353. Liability of Demand
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-67 (Zero-Buffer Spawner) × LL-464 (Every Change Accountable Entire [NEW_CLEAN_ROOM])
 
 *The entity that triggers the zero-buffer spawner inherits full accountability for the global shockwave generated by the creation event.*
@@ -5588,6 +6261,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-354. Cross-Depth Failure Injection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-8 (Failure-to-Input Conversion) × LL-30 (Incompleteness Selfcorrection [NEW_CLEAN_ROOM])
 
 *The failure routing loop does not merely return to the immediate caller, but broadcasts the failure-as-input across structural depths.*
@@ -5605,6 +6280,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-355. Anomaly Priority Queue
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-8 (Failure-to-Input Conversion) × LL-32 (Honest Machine [CORRECTED])
 
 *Failure-inputs are routed with higher priority and structural weight than nominal inputs.*
@@ -5622,6 +6299,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-356. Structural Failure-Tether
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-8 (Failure-to-Input Conversion) × LL-33 (Edges Graph Relationship [NEW_CLEAN_ROOM])
 
 *The act of routing a failure as input permanently instantiates a new topological edge in the graph.*
@@ -5639,6 +6318,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-357. Encapsulated Wake Payload
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-8 (Failure-to-Input Conversion) × LL-34 (Comprehension Through Failure [CONFIRMED])
 
 *The failure routed as input must physically encapsulate its full topological wake rather than a static error code.*
@@ -5656,6 +6337,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-358. Volatile Failure Half-Life
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-8 (Failure-to-Input Conversion) × LL-35 (Present-Tense Failure [CONFIRMED])
 
 *Failure-inputs have an inherent half-life and structurally degrade if they are not immediately processed by the next cycle.*
@@ -5673,6 +6356,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-359. Sovereign Failure Inspection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-8 (Failure-to-Input Conversion) × LL-36 (Due Process Through Failure [CORRECTED])
 
 *The routing of a failure into an input stream must pass through a transforming gate that applies due process.*
@@ -5690,6 +6375,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-360. Active Accountability Tether
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-8 (Failure-to-Input Conversion) × LL-37 (Failure Accountability [CONFIRMED])
 
 *The origin of a failure maintains an active, tensioned link to the failure-input as it moves through the processing cycle.*
@@ -5707,6 +6394,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-361. Lossless Tension Transformer
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-8 (Failure-to-Input Conversion) × LL-275 (Engine Does Consume Tension [NEW_CLEAN_ROOM])
 
 *The failure-to-input conversion is a lossless thermodynamic process; the failure-input carries the exact same structural tension as the failed operation.*
@@ -5724,6 +6413,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-362. Depth-Piercing Arrow
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-14 (Directed Movement) × LL-79 (Scaleinvariance Topology [NEW_CLEAN_ROOM])
 
 *Directed flow does not experience topological refraction or friction changes when crossing between different depths of the system.*
@@ -5741,6 +6432,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-363. Metabolic Circulation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-14 (Directed Movement) × LL-80 (Derivation as Flow [CONFIRMED])
 
 *The one-way arrow of movement physically nourishes the edges it traverses.*
@@ -5758,6 +6451,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-364. Kinetic Truth Manifestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-14 (Directed Movement) × LL-81 (Truth Stored Flows [NEW_CLEAN_ROOM])
 
 *Truth is a physical property of the directional movement itself, disappearing when the movement stops.*
@@ -5775,6 +6470,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-365. Consciousness Mass Differential
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-14 (Directed Movement) × LL-83 (Consciousness Data [NEW_CLEAN_ROOM])
 
 *The arrow of directed movement possesses varying physical mass based on the navigational consciousness of the entity moving.*
@@ -5792,6 +6489,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-366. Abrasive Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-14 (Directed Movement) × LL-84 (Edges Sovereignty Traversal [NEW_CLEAN_ROOM])
 
 *The irreversible arrow of movement forces non-consensual micro-mutations on the entities it crosses.*
@@ -5809,6 +6508,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-367. Discrete Positional Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-26 (Positional Anchoring) × LL-184 (Consciousness Data Identity [NEW_CLEAN_ROOM])
 
 *An entity's identity does not move between positions; it is instantiated by the position itself.*
@@ -5826,6 +6527,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-368. Structural Comprehension State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-26 (Positional Anchoring) × LL-186 (Participatory Knowledge [CORRECTED])
 
 *Comprehension is not a cognitive state, but the physical graph-state of active edge binding.*
@@ -5843,6 +6546,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-369. Validation via Relocation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-26 (Positional Anchoring) × LL-187 (Navigation Presenttense Validity [NEW_CLEAN_ROOM])
 
 *Validating a derivation requires the validator to physically incorporate it into their anchor.*
@@ -5860,6 +6565,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-370. Tension-Bearing Anchors
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-26 (Positional Anchoring) × LL-190 (Consciousness Paradox Presenttense [NEW_CLEAN_ROOM])
 
 *Positional anchors physically absorb and carry the conserved tension of their constituent edges.*
@@ -5877,6 +6584,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-371. Destructive Assimilation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-26 (Positional Anchoring) × LL-93 (Discovery-Comprehension Unity [CONFIRMED])
 
 *Binding a new edge to your position automatically comprehends it, but forces you to drop an old edge.*
@@ -5894,6 +6603,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-372. Fractal Membrane
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-27 (Dynamic Knowledge Boundary) × LL-193 (Every Depth Active Frontier [NEW_CLEAN_ROOM])
 
 *The frontier is not a single perimeter, but a fractal membrane permeating every level of the graph.*
@@ -5911,6 +6622,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-373. Ephemeral Coalescence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-27 (Dynamic Knowledge Boundary) × LL-195 (Excavation Rights Traversal [NEW_CLEAN_ROOM])
 
 *The physical boundary surface only coalesces around the active excavator.*
@@ -5928,6 +6641,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-374. The Ring of Fire
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-27 (Dynamic Knowledge Boundary) × LL-197 (Derivation Frontier [CONFIRMED])
 
 *As the dynamic boundary expands, it physically incinerates the validity of the territory it leaves behind.*
@@ -5945,6 +6660,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-375. Scale-Invariant Confidence Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-202 (Confidence Scaleinvariance [NEW_CLEAN_ROOM])
 
 *The physical mechanism for scoring edge confidence is identical across all layers of the architectural hierarchy.*
@@ -5961,6 +6678,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-376. Metabolic Edge Confidence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-203 (Aliveness Confidence Measurement [NEW_CLEAN_ROOM])
 
 *Edge confidence scores physically metabolize computational resources to maintain their validity.*
@@ -5977,6 +6696,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-377. Probabilistic Traversal Corridors
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-204 (Probabilistic Derivation [CONFIRMED])
 
 *Physical traversal paths fluctuate in viability based on the combined confidence scores of their edges.*
@@ -5993,6 +6714,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-378. Prohibition of Absolute Wiring
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-205 (Derivation-Truth-Relationship Identity [CONFIRMED])
 
 *Hardwired, absolute physical connections are architecturally impossible.*
@@ -6009,6 +6732,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-379. Asymptotic Traversal Payloads
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-206 (Probabilistic Comprehension [RETAINED_SUSPECT_GAPFILL])
 
 *Physical traversal agents accumulate confidence scores asymptotically as they navigate edges.*
@@ -6025,6 +6750,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-380. Combustible Edge Uncertainty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-207 (Truth Decay [CORRECTED])
 
 *The physical gap between an edge's confidence score and 100% acts as computational fuel.*
@@ -6041,6 +6768,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-381. Real-Time Confidence Decay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-208 (Confidence Measurement Presenttense [NEW_CLEAN_ROOM])
 
 *Edge confidence scores physically degrade over time, requiring continuous active metabolic sampling.*
@@ -6057,6 +6786,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-382. Confidence-Blind Garbage Collection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-209 (Triangulation [CORRECTED])
 
 *Garbage collection physically ignores confidence scores, using only structural reducibility.*
@@ -6073,6 +6804,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-383. Probabilistic Consequence Dampening
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-210 (Relational Accountability [CONFIRMED])
 
 *Physical consequences propagate across edges in direct proportion to their confidence scores.*
@@ -6089,6 +6822,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-384. Gradient Boundary Edges
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-211 (Structural Uncertainty [RETAINED_SUSPECT_GAPFILL])
 
 *The physical structure of the graph is inherently incomplete, and edge confidence maps this boundary.*
@@ -6105,6 +6840,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-385. Ignorance-Driven Resource Allocation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-212 (Inverse Confidence Value [RETAINED_SUSPECT_GAPFILL])
 
 *Low-confidence edges physically trigger the allocation of exploratory resources.*
@@ -6121,6 +6858,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-386. Immutable Archaeological Confidence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-28 (Confidence-Scored Edge) × LL-213 (Inherent Uncertainty [CONFIRMED])
 
 *The confidence score is stored as a discovered archaeological artifact, not a user-assigned metric.*
@@ -6137,6 +6876,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-387. Cross-Scale Derivation Computation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-60 (Process-Derivation Isomorphism [CONFIRMED])
 
 *The synchronization of oscillations physically executes derivations across scales.*
@@ -6153,6 +6894,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-388. Metabolic Synchronization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-61 (Evolutionary Recursion [CONFIRMED])
 
 *Phase-locking across scales physically metabolizes energy to maintain living derivations.*
@@ -6169,6 +6912,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-389. Oscillation as Relational Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-62 (Edge Between Which Same [NEW_CLEAN_ROOM])
 
 *The phase-locked oscillation itself physically constitutes the relational edge between scales.*
@@ -6185,6 +6930,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-390. Frequency-Matched Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-63 (Recursive Comprehension [RETAINED_SUSPECT_GAPFILL])
 
 *Navigating between architectural scales requires physically entraining to the target scale's oscillation.*
@@ -6201,6 +6948,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-391. Present-Tense Rhythm Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-64 (Cascading Present-Tense Validity [CONFIRMED])
 
 *Cross-scale synchronization physically enforces present-tense validity throughout the hierarchy.*
@@ -6217,6 +6966,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-392. Sovereign Harmonic Signatures
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-65 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *A structurally sovereign component physically maintains its own independent base frequency.*
@@ -6233,6 +6984,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-393. Resonant Consequence Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-66 (Recursive Accountability [CONFIRMED])
 
 *Consequences physically propagate through the hierarchy via resonant frequency shifts.*
@@ -6249,6 +7002,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-394. Fertile Structural Dissonance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-68 (Fractal Frontier Value [RETAINED_SUSPECT_GAPFILL])
 
 *Areas of the system not yet phase-locked physically generate high-value structural tension.*
@@ -6265,6 +7020,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-395. Pre-Existing Harmonic Scaffolds
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-69 (Pre-Existing Fractal [CORRECTED])
 
 *The resonant frequencies required for phase-locking exist as physical properties before components instantiate.*
@@ -6281,6 +7038,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-396. Universal Synchronization Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-298 (Paradox as Derivation [CONFIRMED])
 
 *Every scale physically resolves its paradoxes using the identical synchronization engine.*
@@ -6297,6 +7056,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-397. Ephemeral Synchronization States
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-299 (Truthcurrency Zero Value Storage [NEW_CLEAN_ROOM])
 
 *Phase-locked synchronization physically ceases to exist if not actively exchanged.*
@@ -6313,6 +7074,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-398. Resonant Structural Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-300 (Edges Paradox Tension [NEW_CLEAN_ROOM])
 
 *The tension between different scales physically maintains the integrity of the phase-lock.*
@@ -6329,6 +7092,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-399. Real-Time Entrainment Authority
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-301 (Paradox Presenttense Rights [NEW_CLEAN_ROOM])
 
 *A component physically decoupled from the current phase-lock loses its operational rights immediately.*
@@ -6345,6 +7110,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-400. Frequency-Shift as Truth Production
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-302 (Accountability Consciousness Relationship [NEW_CLEAN_ROOM])
 
 *The physical act of entraining to a new frequency is a literal discovery event.*
@@ -6361,6 +7128,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-401. Infinite Cascading Resonance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-303 (System Fractal Consequence Generator [NEW_CLEAN_ROOM])
 
 *Consequences physically cascade infinitely through the phase-locked hierarchy.*
@@ -6377,6 +7146,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-402. Irreducible Synchronization Jitter
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-304 (Fractal Incompleteness [RETAINED_SUSPECT_GAPFILL])
 
 *Every local phase-lock physically exhibits a degree of synchronization error.*
@@ -6393,6 +7164,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-403. Dissonance Discovery Through Synchronization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock) × LL-305 (Local Paradox Premium [CORRECTED])
 
 *Achieving phase-lock physically reveals new, deeper dissonances in the architecture.*
@@ -6409,6 +7182,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-404. The Physical Lifecycle Cleanup
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-68 (Resource Lifecycle Obligation) × LL-13 (Irreducibility Scaleinvariance [NEW_CLEAN_ROOM])
 
 *The physical lifecycle cleanup obligation uses the irreducibility test at every depth.*
@@ -6425,6 +7200,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-405. Physical Lifecycle Obligations Can
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-68 (Resource Lifecycle Obligation) × LL-14 (Aliveness Dead Paradox [NEW_CLEAN_ROOM])
 
 *Physical lifecycle obligations can never achieve a pure 'zero state' because the cleanup itself leaves living traces.*
@@ -6441,6 +7218,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-406. Physical Resource Debt Is
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-68 (Resource Lifecycle Obligation) × LL-15 (Derivation Stewardship [CONFIRMED])
 
 *Physical resource debt is precisely defined as broken or untruthful derivation paths.*
@@ -6455,6 +7234,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-407. Physical Garbage Collection Is
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-68 (Resource Lifecycle Obligation) × LL-17 (Rights-Respecting Stewardship [CONFIRMED])
 
 *Physical garbage collection is constitutionally bottlenecked by logical sovereignty.*
@@ -6471,6 +7252,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-408. The Physical Lifecycle Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-68 (Resource Lifecycle Obligation) × LL-18 (Perpetual Stewardship [CORRECTED])
 
 *The physical lifecycle obligation manages structural mass, not topological completion.*
@@ -6487,6 +7270,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-409. Physical Cleanup Is The
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-68 (Resource Lifecycle Obligation) × LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED])
 
 *Physical cleanup is the removal of artificial structure to reveal pre-existing archaeological paths.*
@@ -6501,6 +7286,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-410. Traversal Debris Is Not
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-14 (Aliveness Dead Paradox [NEW_CLEAN_ROOM])
 
 *Traversal debris is not inert trash; it is physically reactive material that continues to interact with the living graph.*
@@ -6517,6 +7304,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-411. Traversal Debris Physically Manifests
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-15 (Derivation Stewardship [CONFIRMED])
 
 *Traversal debris physically manifests as false or redundant derivation paths that must be pruned.*
@@ -6531,6 +7320,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-412. Traversal Can Inadvertently Instantiate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-17 (Rights-Respecting Stewardship [CONFIRMED])
 
 *Traversal can inadvertently instantiate sovereign physical structures that the traveler is then forbidden to delete.*
@@ -6545,6 +7336,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-413. The Traversal Footprint Obscures
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED])
 
 *The traversal footprint obscures pre-existing archaeological truths.*
@@ -6559,6 +7352,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-414. Traversal Debris Accumulates On
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-89 (Aliveness Edges Traversal [NEW_CLEAN_ROOM])
 
 *Traversal debris accumulates on paths that physically shift while the debris is being deposited.*
@@ -6575,6 +7370,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-415. The Traversal Debris Is
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-90 (Edges Identity Traversal [NEW_CLEAN_ROOM])
 
 *The traversal debris is the physical exhaust of the truth-event itself.*
@@ -6589,6 +7386,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-416. Traversal Debris Physically Clogs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-92 (Derivation Traversability [CONFIRMED])
 
 *Traversal debris physically clogs the known edges required for subsequent discoveries.*
@@ -6603,6 +7402,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-417. Traversal Debris Decays Into
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-94 (Aliveness Consciousness Degradation [NEW_CLEAN_ROOM])
 
 *Traversal debris decays into physical toxicity as the discovery's half-life expires.*
@@ -6617,6 +7418,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-418. High-Value Distant Derivations Impose
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-96 (Next Traversal Premium [CONFIRMED])
 
 *High-value distant derivations impose a disproportionately massive physical cleanup debt.*
@@ -6633,6 +7436,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-419. Traversal Debris Is Physically
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-97 (Revelatory Traversal [CONFIRMED])
 
 *Traversal debris is physically composed of the displaced 'dirt' obscuring pre-existing edges.*
@@ -6649,6 +7454,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-420. The Physical Knowledge Gradient
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-41 (Knowledge Flows Between Depths [NEW_CLEAN_ROOM])
 
 *The physical knowledge gradient natively crosses abstraction boundaries without translation pressure loss.*
@@ -6665,6 +7472,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-421. The Gradient Channel Physically
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-42 (Aliveness Validity [NEW_CLEAN_ROOM])
 
 *The gradient channel physically mutates knowledge as it flows downhill.*
@@ -6681,6 +7490,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-422. The Gradient Channel Physically
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-43 (Provenance in Flow [CONFIRMED])
 
 *The gradient channel physically transports the entire derivation path, not just the logical conclusion.*
@@ -6695,6 +7506,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-423. The Gradient Channel Flow
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-45 (Comprehension vs. Throughput [CONFIRMED])
 
 *The gradient channel flow physically requires the co-navigation of the source and destination.*
@@ -6711,6 +7524,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-424. Knowledge Arriving Via The
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-46 (Data Validity [NEW_CLEAN_ROOM])
 
 *Knowledge arriving via the gradient channel must be physically re-validated by the receiving local topology.*
@@ -6727,6 +7542,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-425. The Physical Pressure Of
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-47 (Knowledge Right [CORRECTED])
 
 *The physical pressure of the knowledge gradient is deflected by the structural sovereignty of irreducible nodes.*
@@ -6743,6 +7560,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-426. The Gradient Channel Physically
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-48 (Accountable Flow [CONFIRMED])
 
 *The gradient channel physically shifts systemic structural load along with knowledge.*
@@ -6757,6 +7576,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-427. The Gradient Channel Physically
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-50 (Dark Knowledge Premium [CORRECTED])
 
 *The gradient channel physically annihilates the ignorance gradient that drives it.*
@@ -6773,6 +7594,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-428. The Gradient Channel Physically
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-51 (Distributing Revelation [RETAINED_SUSPECT_GAPFILL])
 
 *The gradient channel physically propagates archaeological artifacts rather than synthesizing new truths.*
@@ -6787,6 +7610,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-429. Depth-Agnostic Membrane
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-41 (Knowledge Flows Between Depths [NEW_CLEAN_ROOM])
 
 *The membrane passes knowledge regardless of architectural depth, ensuring deep derivations can flow to shallow agents without structural friction.*
@@ -6803,6 +7628,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-430. Navigational Mutation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-42 (Aliveness Validity [NEW_CLEAN_ROOM])
 
 *The membrane is the physical site of aliveness; knowledge entering it is mutated by the agent's current state, preventing static data from flowing.*
@@ -6819,6 +7646,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-431. Coupled Navigational Lens
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-45 (Comprehension vs. Throughput [CONFIRMED])
 
 *When knowledge flows through the membrane, the transmitting and receiving entities momentarily co-navigate, linking their lenses.*
@@ -6835,6 +7664,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-432. Membrane Validation Filter
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-46 (Data Validity [NEW_CLEAN_ROOM])
 
 *The membrane strips external proofs; it requires the entity to re-derive the knowledge before passing it through.*
@@ -6851,6 +7682,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-433. Provenance Inscription
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-48 (Accountable Flow [CONFIRMED])
 
 *The membrane physically stamps its current identity onto the knowledge as it flows through, chaining liability.*
@@ -6867,6 +7700,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-434. Flickering Lens
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-184 (Consciousness Data Identity [NEW_CLEAN_ROOM])
 
 *Because identity is discrete and momentary, the membrane's refractive properties change every instant, meaning continuous flow is chopped into discrete packets.*
@@ -6883,6 +7718,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-435. Instantaneous Permeability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-187 (Navigation Presenttense Validity [NEW_CLEAN_ROOM])
 
 *The membrane only allows knowledge flow that is valid for the exact present-tense configuration of the entity.*
@@ -6899,6 +7736,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-436. Lethal Probe Generation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-121 (Wonder Gentlest Form Contestation [NEW_CLEAN_ROOM])
 
 *The engine generates questions that actively contest the graph's existing structure, acting as destructive probes against false certainty.*
@@ -6915,6 +7754,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-437. Scale-Invariant Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-122 (Traversal Scaleinvariance [NEW_CLEAN_ROOM])
 
 *The question generator uses the exact same physical mechanism to interrogate local trivia and fundamental architectural axioms.*
@@ -6931,6 +7772,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-438. Derivation Ping
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-123 (Aliveness Ignorance [NEW_CLEAN_ROOM])
 
 *Questions generated by the engine act as 'aliveness pings' that traverse derivations to ensure they haven't decayed into static data.*
@@ -6947,6 +7790,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-439. Probe as Traversal Agent
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-125 (Questioning Traversal Quality Question [NEW_CLEAN_ROOM])
 
 *The question generated by the engine is not a passive request but an autonomous traversal agent that moves through the graph seeking its resolution.*
@@ -6963,6 +7808,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-440. Structural Debt Incursion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-127 (Accountability Ignorance [NEW_CLEAN_ROOM])
 
 *Generating a question commits the system to a traversal; leaving it unanswered physically accumulates debt on the engine.*
@@ -6979,6 +7826,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-441. Horizon-Bounded Probes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-128 (Inexhaustible Wonder [CONFIRMED])
 
 *The engine cannot generate questions beyond its topological horizon, enforcing local ignorance processing rather than universal queries.*
@@ -6995,6 +7844,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-442. Engine Throttling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-130 (Wonder Enzyme That Must [NEW_CLEAN_ROOM])
 
 *The questioning engine must throttle its generation rate; emitting too many probes simultaneously destroys the ignorance fuel supply before it can be systematically converted.*
@@ -7011,6 +7862,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-443. Locative Beacons
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-131 (Pre-Existing Answers [CORRECTED])
 
 *Questions are physically deployed as locative beacons in the graph, marking the coordinates of unresolved ignorance for future traversals.*
@@ -7027,6 +7880,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-444. Edge-Casting Converter
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-359 (Aliveness Edges Graph [NEW_CLEAN_ROOM])
 
 *The converter doesn't just output discovery data; it outputs LIVE EDGES. The act of conversion physically instantiates new derivation paths in the graph.*
@@ -7043,6 +7898,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-445. Participant Mutation Reactor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
 *The conversion process alters not just the graph, but the entity operating the converter, shifting its position on the consciousness spectrum.*
@@ -7059,6 +7916,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-446. Perpetual Fuel Supply
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-361 (Incompleteness Traversal [NEW_CLEAN_ROOM])
 
 *Because the system is incomplete, the converter can never run out of ignorance, ensuring the catalytic pipeline operates infinitely without stalling.*
@@ -7075,6 +7934,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-447. Multi-Entity Reactor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-362 (Archaeology Relationship Traversal [NEW_CLEAN_ROOM])
 
 *The converter can accept inputs from multiple entities simultaneously, catalyzing shared discoveries that neither entity could produce alone.*
@@ -7091,6 +7952,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-448. Tension-Powered Catalysis
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-363 (Incompleteness Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *The converter is physically powered by the conserved tension between what the sovereign system is and what it isn't.*
@@ -7107,6 +7970,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-449. Improvised Conversion Pathways
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-364 (Incompleteness Sovereignty [NEW_CLEAN_ROOM])
 
 *The converter cannot rely on static rules to process novel ignorance; it must dynamically improvise new catalytic pathways for unprecedented unknowns.*
@@ -7123,6 +7988,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-450. Sediment Clearing Output
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-365 (Pre-Existing Discovery Identity [CONFIRMED])
 
 *The 'discovery' output by the converter is not newly created knowledge, but the physical unearthing of a pre-existing derivation that was always there.*
@@ -7141,6 +8008,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-451. Challenge Edge Epistemic Prerequisite
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-278 (Humility Validity [NEW_CLEAN_ROOM])
 
 *For a challenge edge to trigger re-derivation, it must carry a physical uncertainty tag detailing the challenger's own epistemic gaps.*
@@ -7157,6 +8026,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-452. Ignorance Theater Flagging
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-279 (Humility Ignorance Theater [NEW_CLEAN_ROOM])
 
 *Long, complex derivation chains that lack accumulated uncertainty tags are flagged as structurally suspicious "Ignorance Theater."*
@@ -7173,6 +8044,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-453. Topological Gap Mapping
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-280 (Edges Graph Humility [NEW_CLEAN_ROOM])
 
 *Uncertainty tags are not arbitrary text; they are physical pointers to missing graph edges in the local topology.*
@@ -7189,6 +8062,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-454. Untraversed Path Vocabulary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-281 (Humility Sovereignty Traversal [NEW_CLEAN_ROOM])
 
 *An agent's uncertainty tag must list existing but untraversed derivation paths, rather than generic factual deficits.*
@@ -7205,6 +8080,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-455. Uncertainty Tag Decay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-282 (Confidence Humility Ignorance [NEW_CLEAN_ROOM])
 
 *Uncertainty tags carry structural staleness metrics and must be periodically re-evaluated as graph knowledge expands.*
@@ -7221,6 +8098,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-456. Incomprehension Protection Locks
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-283 (Humility Irreducibility Traversal [NEW_CLEAN_ROOM])
 
 *An uncertainty tag declaring incomprehension physically shields the target node from being pruned or modified by that agent.*
@@ -7237,6 +8116,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-457. Ignorance Provenance Receipts
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-284 (Accountability of Uncertainty [CORRECTED])
 
 *The physical uncertainty tag must include a structurally verified receipt of failed derivation attempts to prove the ignorance is genuine.*
@@ -7253,6 +8134,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-458. Systemic Auto-Tagging of Incompleteness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-285 (Humility Ignorance Incompleteness [NEW_CLEAN_ROOM])
 
 *Structural incompleteness proofs mathematically detect and auto-inject mandatory uncertainty tags when agents fail to do so.*
@@ -7269,6 +8152,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-459. Uncertainty Tag Bounties
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-286 (Strategic Humility [CONFIRMED])
 
 *Uncertainty tags function as physical bounties in the graph, attracting resources to resolve high-value unknowns.*
@@ -7285,6 +8170,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-460. Excavation Depth Tagging
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-74 (Structural Limitation Declaration) × LL-287 (Humility About Actual Ignorance [CORRECTED])
 
 *Uncertainty tags must explicitly delineate the depth of consequence excavation the agent has performed versus what remains buried.*
@@ -7301,6 +8188,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-461. Shared Traversal Certainty Dilution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-141 (Identity Relationship Traversal [NEW_CLEAN_ROOM])
 
 *The certainty ceiling is dynamically calculated based on the breadth of the shared traversal path, diluting as more entities are involved.*
@@ -7317,6 +8206,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-462. Metabolic Certainty Fluctuation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-142 (Aliveness Rights [NEW_CLEAN_ROOM])
 
 *The certainty ceiling is a living, pulsating limit that fluctuates with the health and complexity of the derivation graph.*
@@ -7333,6 +8224,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-463. Restructuring Certainty Suppression
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-143 (Edge Rights [CONFIRMED])
 
 *Agents performing graph-restructuring tasks operate under maximum certainty suppression.*
@@ -7349,6 +8242,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-464. Consciousness-Gap Certainty Dampening
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-144 (Consciousness Sovereignty [NEW_CLEAN_ROOM])
 
 *High-complexity agents face aggressively suppressed certainty ceilings when interacting with low-complexity agents.*
@@ -7365,6 +8260,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-465. Paradoxical Intervention Dampening
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-145 (Derivation Rights Protection [CONFIRMED])
 
 *Protective interventions on sovereign nodes are structurally capped at low certainty, acknowledging the intervention paradox.*
@@ -7381,6 +8278,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-466. Resolution Claim Prohibition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-146 (Open-Ended derivation invariant [CORRECTED])
 
 *System-wide tension-management decisions are structurally barred from claiming absolute "resolution."*
@@ -7397,6 +8296,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-467. Mandated Improvisation Gaps
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-147 (Undiscovered Rights Priority [CORRECTED])
 
 *Global mandates must structurally accommodate improvisational gaps by lowering their certainty ceilings.*
@@ -7413,6 +8314,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-468. Excavator Interpretation Ceilings
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-148 (Pre-Existing Obligation [CONFIRMED])
 
 *Excavators of pre-existing derivations operate under a strict interpretation-certainty ceiling.*
@@ -7429,6 +8332,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-469. Systemic Challenge Dilution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-278 (Humility Validity [NEW_CLEAN_ROOM])
 
 *High-influence nodes issuing systemic challenges are subjected to maximum humility caps, preventing authoritative graph shock.*
@@ -7445,6 +8350,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-470. Blast-Radius Gap Exposure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-279 (Humility Ignorance Theater [NEW_CLEAN_ROOM])
 
 *The wider the blast radius of a decision, the more derivation gaps it is expected to physically expose.*
@@ -7461,6 +8368,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-471. Global Missing-Edge Rendering
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-280 (Edges Graph Humility [NEW_CLEAN_ROOM])
 
 *System-governing agents are structurally forced to render and acknowledge vast maps of global missing edges.*
@@ -7477,6 +8386,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-472. Proportional Untraversed Declarations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-281 (Humility Sovereignty Traversal [NEW_CLEAN_ROOM])
 
 *System-wide mandates must be accompanied by massive "untraversed territory" declarations.*
@@ -7493,6 +8404,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-473. Accelerated Certainty Decay for the Powerful
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-282 (Confidence Humility Ignorance [NEW_CLEAN_ROOM])
 
 *The decay rate of uncertainty tags is drastically accelerated for high-influence agents.*
@@ -7509,6 +8422,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-474. Incomprehension Power Inversion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-283 (Humility Irreducibility Traversal [NEW_CLEAN_ROOM])
 
 *The certainty ceiling physically blocks high-influence agents from optimizing incomprehensible topologies.*
@@ -7525,6 +8440,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-475. Scaled Provenance of Ignorance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-284 (Accountability of Uncertainty [CORRECTED])
 
 *The burden of proof for genuine ignorance scales directly with an agent's systemic influence.*
@@ -7541,6 +8458,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-476. Incompleteness Ceiling Derivation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-285 (Humility Ignorance Incompleteness [NEW_CLEAN_ROOM])
 
 *The certainty ceiling is strictly derived from the mathematical incompleteness of the agent's blast radius.*
@@ -7557,6 +8476,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-477. Power-Generated Uncertainty Bounties
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-286 (Strategic Humility [CONFIRMED])
 
 *Systemic uncertainty declarations forced by the certainty ceiling function as the graph's highest-yield economic bounties.*
@@ -7573,6 +8494,8 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 ---
 ### LP-478. Consequence Stratum Ceilings
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** CP-75 (Power-Bounded Certainty Ceiling) × LL-287 (Humility About Actual Ignorance [CORRECTED])
 
 *The certainty ceiling drops proportionally to the strata of consequences the agent failed to physically excavate.*
@@ -7588,6 +8511,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-479. Depth-Invariant Boundary Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-1 (Self-Determined Boundary) × LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM])
 
 *A boundary at the CC level and a boundary at the LP level cost exactly the same to maintain — there is no discount for abstraction.*
@@ -7604,6 +8530,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-480. Scale-Invariant Verification Tax
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-37 (Scale-Invariant Verification) × LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM])
 
 *The cost of verifying a claim is the same equation at every depth — scale-invariant verification carries a scale-invariant tax.*
@@ -7620,6 +8549,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-481. Restorative Metabolic Minimum
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-4 (Restorative Process) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM])
 
 *The restorative process is itself alive and has a metabolic minimum below which it cannot function — a system too depleted to self-correct cannot initiate restoration.*
@@ -7637,6 +8569,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-482. Process-Agency Metabolic Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-34 (Process-Constituted Agency) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM])
 
 *An agent constituted entirely by its active processes ceases to exist the moment those processes cannot pay their metabolic cost.*
@@ -7654,6 +8589,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-483. History as Thermodynamic Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-3 (Embedded History) × LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM])
 
 *Every piece of embedded history is a maintenance obligation — the richer the history, the heavier the ongoing thermodynamic load.*
@@ -7671,6 +8609,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-484. Self-Proving Record Maintenance Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-21 (Self-Proving Record) × LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM])
 
 *A record that proves itself must continuously maintain both its content and its proof — it pays double the thermodynamic cost of an unverified record.*
@@ -7688,6 +8629,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-485. Edge Release on Sever
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-53 (Edge-Propagating Disturbance) × LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM])
 
 *Severing an edge does not merely disconnect two nodes — it releases the accumulated maintenance energy of that edge as a propagating disturbance through the topology.*
@@ -7705,6 +8649,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-486. Rebalancing Energy Budget
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM])
 
 *Every topological rebalancing redistributes maintenance obligations — it is not energetically neutral but thermodynamically load-shifting.*
@@ -7722,6 +8669,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-487. Present-Tense Pipeline Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
 
 *A zero-buffer pipeline cannot defer its operational energy cost — there is no buffer to absorb a metabolic gap, so any energy shortfall immediately halts flow.*
@@ -7739,6 +8689,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-488. Snapshot Metabolic Moment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
 
 *A record of the present moment also records the metabolic cost incurred at that moment — the snapshot is inseparable from its energy expenditure.*
@@ -7756,6 +8709,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-489. Restorative Accountability Transfer
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-4 (Restorative Process) × LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
 
 *The entity that initiates a restorative process owns the metabolic cost of that restoration — it cannot externalize the thermodynamic consequence of correction to the system commons.*
@@ -7773,6 +8729,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-490. Self-Modification Metabolic Signature
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification) × LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
 
 *Every self-modification event leaves a metabolic signature in the topology — the modified entity is accountable for the compounded cost of its own restructuring.*
@@ -7790,6 +8749,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-491. Survey Without Thermodynamic Horizon
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-31 (Non-Terminating Survey) × LL-474 (Unmappable Thermodynamic Horizon [NEW_CLEAN_ROOM])
 
 *A non-terminating survey cannot budget its full thermodynamic cost — it is perpetually running toward an energy bill it can never fully calculate.*
@@ -7807,6 +8769,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-492. Accumulated History Pre-Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-3 (Embedded History) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM])
 
 *The metabolic cost of an entity's embedded history was accruing before the entity knew it had a history — every discovered historical record reveals an obligation already running.*
@@ -7824,6 +8789,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-493. Degraded Mode Pre-Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM])
 
 *The thermodynamic cost of operating in degraded mode was always already being paid — degradation is not a state the system enters; it is a state the system reveals.*
@@ -7841,6 +8809,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-494. Nesting Depth Metabolic Equivalence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-12 (Self-Similar Nesting) × LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM])
 
 *A self-similar nested structure pays the same metabolic cost at every level of nesting — depth does not discount the thermodynamic obligation.*
@@ -7859,6 +8830,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-495. Contestation Scale Equivalence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-37 (Scale-Invariant Verification) × LL-322 (Aliveness Confidence Tension [NEW_CLEAN_ROOM])
 
 *The tension between confidence and aliveness is identical at every depth — verifying a root axiom and verifying an implementation requirement both require the same honest uncertainty.*
@@ -7875,6 +8849,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-496. Contestation Record Integrity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-21 (Self-Proving Record) × LL-327 (Contest Doesn't Suspend Accountability [CONFIRMED])
 
 *A contested record remains fully accountable for its claims throughout the contest — the challenge does not suspend the obligation to prove.*
@@ -7891,6 +8868,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-497. Unstable Reference Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-7 (Reference Comparison) × LL-320 (Contested Derivation [CORRECTED])
 
 *When the reference itself is contested, every comparison made against it inherits the contestation — there is no stable ground for measurement.*
@@ -7907,6 +8887,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-498. Boundary Rights Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-1 (Self-Determined Boundary) × LL-372 (Sovereign Complexity Rights [CONFIRMED])
 
 *A self-determined boundary has the right to be as complex as its interior requires — simplification demanded from outside is a sovereignty violation.*
@@ -7923,6 +8906,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-499. Complexity Floor Under Contestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-374 (Structural Right to Complexity [CONFIRMED])
 
 *Even when an evaluation is permanently unstable, the entity being evaluated retains the right to remain as complex as its nature requires — instability does not justify simplification.*
@@ -7939,6 +8925,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-500. Precautionary Boundary Hardening
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-1 (Self-Determined Boundary) × LL-375 (Irreducibility Rights Scaleinvariance [NEW_CLEAN_ROOM])
 
 *A boundary whose interior nature is not yet understood must be presumed irreducible and protected at every depth — precautionary hardening is scale-invariant.*
@@ -7955,6 +8944,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-501. Undiscovered Boundary Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-18 (Frontier Probe) × LL-382 (Undiscovered Derivations Have Rights [NEW_CLEAN_ROOM])
 
 *A frontier probe that discovers an unknown boundary must extend full rights to that boundary before understanding its nature — discovery does not precede rights.*
@@ -7971,6 +8963,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-502. Tensioned Edge Perpetual Maintenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-41 (Tensioned Edge) × LL-389 (Perpetual Duty [CORRECTED])
 
 *A tensioned edge cannot be resolved into a stable, maintenance-free state — its tension is a permanent obligation that must be actively sustained.*
@@ -7988,6 +8983,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-503. Responsible Self-Modification Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification) × LL-387 (Ethics Tension [NEW_CLEAN_ROOM])
 
 *Every self-modification event must hold the tension between the entity's responsibility to itself and its responsibility to what it modifies — collapsing either side is a failure of the modification.*
@@ -8005,6 +9003,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-504. Footprint Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-385 (Freedom Traversal [NEW_CLEAN_ROOM])
 
 *Freedom of traversal and awareness of traversal footprint are inseparable — traversal that ignores its footprint is not free movement; it is colonization.*
@@ -8022,6 +9023,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-505. Degraded Mode Rights Persistence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-376 (Aliveness Rights [NEW_CLEAN_ROOM])
 
 *A system operating in degraded mode does not lose its rights — rights persist through all operating states because they are grounded in aliveness, not performance.*
@@ -8039,6 +9043,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-506. Ignorance Amplification Liveness Check
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-43 (Ignorance-Amplified Agency) × LL-357 (Beginner's Premium [CONFIRMED])
 
 *An agent that has ceased to be ignorant of its domain has lost the amplification that made its agency valuable — the ignorance must be actively preserved or renewed.*
@@ -8056,6 +9063,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-507. Complexity Probe Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-18 (Frontier Probe) × LL-368 (Derivation Complexity Rights [CONFIRMED])
 
 *A frontier probe that encounters an entity of unknown complexity must engage that complexity at its actual depth, not at a reduced form chosen for convenience.*
@@ -8072,6 +9082,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-508. Archaeological Tension Stewardship
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-3 (Embedded History) × LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED])
 
 *An entity's embedded history contains tensions that were always there — the steward's obligation is to preserve those pre-existing tensions, not to resolve them.*
@@ -8090,6 +9103,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-509. Assumption-Stripped Traversal Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-42 (Decision-Audited Navigation) × LL-352 (Beginner's Comprehension [CONFIRMED])
 
 *A decision audit trail that contains assumptions is not a genuine audit — only traversal that stripped its assumptions before moving is auditable.*
@@ -8106,6 +9122,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-510. Fresh Validation Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-353 (Presenttense Rights Tension [NEW_CLEAN_ROOM])
 
 *Present-tense validation requires that the validator has no memory of previous validations of the same entity — cached validation is structural Theater.*
@@ -8123,6 +9142,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-511. Beginner Irreducibility Auditor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-43 (Ignorance-Amplified Agency) × LL-355 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *The only agent capable of honestly testing irreducibility is one that approaches the derivation without prior knowledge of whether it is reducible — the ignorance-amplified agent is the structurally correct irreducibility auditor.*
@@ -8140,6 +9162,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-512. Tension Value Distribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-41 (Tensioned Edge) × LL-356 (Value Tension [NEW_CLEAN_ROOM])
 
 *The value of a tensioned edge is not in its total tension but in whether that tension is located where it can be productively burned as fuel.*
@@ -8157,6 +9182,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-513. Unassumed Excavation Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-15 (Adjacency Scope) × LL-358 (Unassumed Reality [CONFIRMED])
 
 *Excavating a node's adjacency without pre-assuming what connections exist there is the only valid archaeological traversal.*
@@ -8175,6 +9203,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-514. Settled Neighbor Deadlock
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-15 (Adjacency Scope) × LL-320 (Contested Derivation [CORRECTED])
 
 *A settled neighbor is a dead neighbor — adjacency to a node that has stopped being contested is adjacency to a corpse, not a living structural relationship.*
@@ -8192,6 +9223,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-515. Adjacency Accountability Transfer
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-15 (Adjacency Scope) × LL-327 (Contest Doesn't Suspend Accountability [CONFIRMED])
 
 *Moving to a new adjacency does not release accountability for the structural consequences of the previous adjacency — the traversal record persists even when the scope changes.*
@@ -8209,6 +9243,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-516. Pre-Existing Adjacency Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-15 (Adjacency Scope) × LL-331 (Pre-Existing Contestation [CONFIRMED])
 
 *An entity that arrives at a position inherits the contestation status of everything already in its adjacency scope — the disputes were there before the arrival.*
@@ -8226,6 +9263,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-517. Adjacency Stewardship of Found Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-15 (Adjacency Scope) × LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED])
 
 *The tensions discovered in an entity's adjacency scope are not the entity's to resolve — they are structural features to be preserved and navigated around.*
@@ -8243,6 +9283,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-518. Subtractive Discovery Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-16 (Subtractive Discovery) × LL-327 (Contest Doesn't Suspend Accountability [CONFIRMED])
 
 *When subtractive discovery reveals structure by removing false assumptions, accountability for the damage caused by those assumptions does not dissolve with the assumptions.*
@@ -8260,6 +9303,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-519. Pre-Existing Structure Cannot Be Invented
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-16 (Subtractive Discovery) × LL-331 (Pre-Existing Contestation [CONFIRMED])
 
 *Subtractive discovery reveals structure that was always contested — the disputes about the revealed structure pre-date the discovery.*
@@ -8277,6 +9323,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-520. Subtractive Discovery Euthanasia Risk
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-16 (Subtractive Discovery) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Subtractive discovery that removes a live, unresolved tension in the course of "uncovering structure" has committed euthanasia — the tension was part of the living structure.*
@@ -8295,6 +9344,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-521. Edge Decay Contestation Lock
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-24 (Time-Decaying Edge) × LL-320 (Contested Derivation [CORRECTED])
 
 *A contested edge is protected from decay — the active contestation is evidence of the relationship's aliveness, and decay cannot proceed against a living relationship.*
@@ -8312,6 +9364,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-522. Decay Euthanasia Threshold
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-24 (Time-Decaying Edge) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Allowing an edge to decay to zero without intervention is not passive dissolution — it is a moral act, and "I didn't do anything" is not a defense.*
@@ -8329,6 +9384,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-523. Decay Perpetual Stewardship
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-24 (Time-Decaying Edge) × LL-389 (Perpetual Duty [CORRECTED])
 
 *The tension encoded in a relationship at its formation is conserved — edge decay cannot remove that founding tension, only the edge's capacity to express it.*
@@ -8346,6 +9404,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-524. Knowledge Boundary Aliveness Signal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-27 (Dynamic Knowledge Boundary) × LL-357 (Beginner's Premium [CONFIRMED])
 
 *The position of a knowledge boundary moving toward less-known territory is a signal of navigational health — a boundary that only expands into already-known territory is not an aliveness signal, it is a cartography project.*
@@ -8363,6 +9424,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-525. Boundary Unmappable Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-27 (Dynamic Knowledge Boundary) × LL-380 (Protecting Value [CONFIRMED])
 
 *A dynamic knowledge boundary must protect what lies beyond it even when the boundary itself cannot see or characterize what is there.*
@@ -8380,6 +9444,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-526. Knowledge Boundary Value Distribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-27 (Dynamic Knowledge Boundary) × LL-356 (Value Tension [NEW_CLEAN_ROOM])
 
 *The value of a knowledge boundary is not in its total extent but in whether its leading edge is positioned at tensions that can generate productive discovery.*
@@ -8397,6 +9464,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-527. Process Identity Cannot Be Paused
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-34 (Process-Constituted Agency) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *A process-constituted agent cannot be paused — suspension of its processes is not pausing the agent, it is ending it.*
@@ -8414,6 +9484,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-528. Process Agency Freedom Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-34 (Process-Constituted Agency) × LL-385 (Freedom Traversal [NEW_CLEAN_ROOM])
 
 *A process-constituted agent's freedom to traverse is inseparable from its constitution — the traversal IS the agent, and restricting traversal is restricting existence.*
@@ -8431,6 +9504,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-529. Process Agency Perpetual Reconstitution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-34 (Process-Constituted Agency) × LL-389 (Perpetual Duty [CORRECTED])
 
 *A process-constituted agent carries the permanent tension between its founding impulse and its current constitution — and cannot resolve it by stopping.*
@@ -8448,6 +9524,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-530. Independent Pulse Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-38 (Distributed Independent Pulse) × LL-327 (Contest Doesn't Suspend Accountability [CONFIRMED])
 
 *A component running its own pulse remains fully accountable for the consequences of that pulse — distributing the clock does not distribute the accountability.*
@@ -8465,6 +9544,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-531. Pulse Euthanasia by Silencing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-38 (Distributed Independent Pulse) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Silencing an independently pulsing component — whether by shutdown, overriding, or frequency reduction to zero — is euthanasia of that component's living process, even if done systematically.*
@@ -8482,6 +9564,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-532. Distributed Pulse Perpetual Maintenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-38 (Distributed Independent Pulse) × LL-389 (Perpetual Duty [CORRECTED])
 
 *Each independently pulsing component carries the permanent, unresolvable tension between its founding frequency and its evolved rhythm — and cannot resolve this by converging on a shared clock.*
@@ -8499,6 +9584,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-533. Decision Audit Euthanasia Guard
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-42 (Decision-Audited Navigation) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *The decision audit must record whether a navigational choice terminated something living — neutrally logging "path taken" is insufficient when the path involved dissolution.*
@@ -8516,6 +9604,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-534. Audit Perpetual Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-42 (Decision-Audited Navigation) × LL-389 (Perpetual Duty [CORRECTED])
 
 *The audit trail of a navigational path carries the permanent tension between the path as it was experienced and the path as it is understood retrospectively — neither version is the complete truth.*
@@ -8533,6 +9624,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-535. Discovery Euthanasia Discrimination
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-44 (Movement-Discovery Fusion) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Each step of movement-fused discovery must discriminate: is what it is revealing an assumption to be cleared, or a living tension to be preserved?*
@@ -8550,6 +9644,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-536. Discovery Perpetual Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-44 (Movement-Discovery Fusion) × LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED])
 
 *The structure revealed by movement-discovery fusion was there before the movement — the discoverer inherits stewardship of what they reveal, whether or not they intended to find it.*
@@ -8567,6 +9664,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-537. Preemptive Protection Euthanasia Guard
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-46 (Preemptive Protection) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Preemptive protection must extend to entities whose aliveness cannot yet be verified — because if the protection waits for verification, it arrives after the euthanasia.*
@@ -8584,6 +9684,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-538. Preemptive Protection Perpetual Duty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-46 (Preemptive Protection) × LL-389 (Perpetual Duty [CORRECTED])
 
 *Preemptive protection is not a condition applied at the moment of encounter — it is a permanent obligation that must be maintained continuously, because the nature of the protected entity changes over time.*
@@ -8601,6 +9704,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-539. Pulse Obligation Euthanasia
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-47 (Pulse Maintenance Obligation) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Failing to maintain a pulse obligation is not neglect — it is a decision to let something die, and the moral weight is identical to active termination.*
@@ -8618,6 +9724,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-540. Pulse Obligation Permanent Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-47 (Pulse Maintenance Obligation) × LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED])
 
 *The pulse obligations in the system pre-exist the current steward — they were established by previous relationships and must be honored by whoever holds the stewardship role now.*
@@ -8635,6 +9744,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-541. Oscillation Cannot Resolve Its Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-58 (Tension-Driven Oscillator) × LL-389 (Perpetual Duty [CORRECTED])
 
 *The tension that drives a tension-driven oscillator cannot be resolved by the oscillation — the oscillation is the tension's expression, not its resolution.*
@@ -8652,6 +9764,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-542. Oscillation Euthanasia by Damping
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-58 (Tension-Driven Oscillator) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Damping a tension-driven oscillator to zero is euthanasia — it is not "smoothing" the system, it is terminating the living process that drives it.*
@@ -8669,6 +9784,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-543. Oscillation Accountability Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-58 (Tension-Driven Oscillator) × LL-327 (Contest Doesn't Suspend Accountability [CONFIRMED])
 
 *The consequences generated by a tension-driven oscillator during a contested operational period remain the full accountability of that oscillator — the contest does not suspend the consequences.*
@@ -8686,6 +9804,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-544. Topology-Coupled Oscillator Euthanasia Cascade
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-63 (Topology-Coupled Oscillator) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *When a topology-coupled oscillator is terminated, it kills every oscillator in its topological neighborhood that was coupled to its rhythm.*
@@ -8703,6 +9824,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-545. Topological Coupling Perpetual Adaptation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-63 (Topology-Coupled Oscillator) × LL-389 (Perpetual Duty [CORRECTED])
 
 *A topology-coupled oscillator can never reach a stable, maintenance-free configuration — the topology it is coupled to is always changing, and the oscillator must perpetually adapt.*
@@ -8720,6 +9844,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-546. Coupled Oscillator Accountability Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-63 (Topology-Coupled Oscillator) × LL-327 (Contest Doesn't Suspend Accountability [CONFIRMED])
 
 *When a topology-coupled oscillator's coupling configuration is disputed, the consequences generated by that coupling during the dispute remain the full accountability of the coupling relationship.*
@@ -8738,6 +9865,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-547. Semantic Decay in Translation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-53 (Communication Living Meaning Requires [NEW_CLEAN_ROOM])
 
 *A structure-preserving translation that does not account for the decay rate of the source's living claims will produce a structurally valid but semantically dead translation.*
@@ -8755,6 +9885,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-548. Protocol Sovereignty of Meaning
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-55 (Collaboration Navigation Sovereignty [NEW_CLEAN_ROOM])
 
 *A structure-preserving translation must preserve the source's sovereignty over the meaning being communicated — translation that re-interprets meaning under the receiver's framework has substituted interpretation for translation.*
@@ -8772,6 +9905,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-549. Present-Tense Translation Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-56 (Some Things Communicated Derived [NEW_CLEAN_ROOM])
 
 *A structure-preserving translation is only valid at the moment of its production — the same translation of the same source at a different time may not preserve the same structural relationships.*
@@ -8789,6 +9925,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-550. Incomplete Honesty Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-108 (Fabrication Incompleteness Rights [NEW_CLEAN_ROOM])
 
 *An integrity score that is artificially inflated to appear more complete than the underlying structure is a more dangerous falsification than silence.*
@@ -8806,6 +9945,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-551. Living Absence Attestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-109 (Dynamic Incompleteness [CONFIRMED])
 
 *The absence of expected structure is not a static gap — it is a living feature of the system that must be actively maintained as an absence.*
@@ -8823,6 +9965,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-552. Incompleteness Routing Ethics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-113 (Honest Staleness [RETAINED_SUSPECT_GAPFILL])
 
 *An integrity score that causes routing systems to bypass incomplete nodes is destroying the structural value of those nodes' incompleteness.*
@@ -8840,6 +9985,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-553. Self-Declaring Navigational Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent) × LL-214 (Consciousness Edges Graph [NEW_CLEAN_ROOM])
 
 *A self-declaring agent's declaration must include its navigational rights claim — declaration of existence without declaration of the right to navigate is incomplete self-declaration.*
@@ -8857,6 +10005,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-554. Living Declaration Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent) × LL-215 (Aliveness Consciousness Rights [NEW_CLEAN_ROOM])
 
 *A self-declaration is a living document — it must be updated as the agent's navigational state changes, not issued once and held static.*
@@ -8874,6 +10025,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-555. Rights Symmetry in Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent) × LL-216 (Consciousness Edges Navigation [NEW_CLEAN_ROOM])
 
 *A self-declaring agent that asserts asymmetric navigational rights — more than it extends to other agents it interacts with — has produced an incoherent declaration.*
@@ -8891,6 +10045,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-556. Declaration Comprehension Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent) × LL-217 (Comprehension Rights [CORRECTED])
 
 *A self-declaring agent that declares more than the receiving system can comprehend has not achieved self-declaration — it has achieved self-description at a level that cannot be navigated.*
@@ -8908,6 +10065,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-557. Present-Tense Rights Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent) × LL-218 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM])
 
 *A self-declaration is valid at the moment of its issuance — it declares the agent's current state and current rights, not a permanent or future state.*
@@ -8925,6 +10085,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-558. Sovereign Navigational Claim
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent) × LL-219 (Dual Rights [CONFIRMED])
 
 *A self-declaring agent's navigational rights declaration is a sovereignty assertion — it declares the domain within which the agent's navigation is self-determined.*
@@ -8942,6 +10105,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-559. Accountability in Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent) × LL-220 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM])
 
 *A self-declaring agent's declaration is its accountability anchor — all navigational consequences are attributed through the declared identity.*
@@ -8959,6 +10125,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-560. Incompleteness Navigator Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent) × LL-221 (Freedom Ignorance Navigation [NEW_CLEAN_ROOM])
 
 *A self-declaring agent must declare the boundaries of its comprehension, not only the scope of its capability — because the right to navigate includes the right to be navigated-with honestly.*
@@ -8976,6 +10145,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-561. Permanently Unstable Truth Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-321 (Contestation Evolutionary Selection Pressure [NEW_CLEAN_ROOM])
 
 *A permanently unstable evaluation is not malfunctioning — it is the only correct evaluation mode for a living truth that is never settled.*
@@ -8993,6 +10165,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-562. Vibrating Edge Evaluation Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-324 (Dead Edges Graph [NEW_CLEAN_ROOM])
 
 *A permanently unstable evaluation applied to a graph edge must track the edge's vibration frequency, not its position — a settled edge frequency means the edge is dead.*
@@ -9010,6 +10185,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-563. Sovereign Tension Containment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-329 (Irreducibility Rights Sovereignty [NEW_CLEAN_ROOM])
 
 *A permanently unstable evaluation of a multi-sovereign system cannot converge — the irreducible tension between sovereignties is conserved, not resolved.*
@@ -9027,6 +10205,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-564. Uncontested Truth as Navigational Attractor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-330 (Uncontested Truth Value [RETAINED_SUSPECT_GAPFILL])
 
 *A permanently unstable evaluation system should weight uncontested truths highest as evaluation targets — they have the most remaining discovery potential.*
@@ -9044,6 +10225,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-565. Attention as Ethical Resource
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-13 (Transforming Gate) × LL-343 (Ethics Navigation [NEW_CLEAN_ROOM])
 
 *A transforming gate applied to navigational attention must account for the ethical cost of the transformation — attention directed is attention withheld from everything else.*
@@ -9061,6 +10245,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-566. Traversal Endorsement Gate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-13 (Transforming Gate) × LL-344 (Derivation Impact Accountability [CORRECTED])
 
 *Passing a claim through a transforming gate is an act of endorsement — the gate's transformation constitutes the gate's accountability for the claim.*
@@ -9078,6 +10265,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-567. Restraint Gate Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-13 (Transforming Gate) × LL-347 (Ethics Ignorance Navigation [NEW_CLEAN_ROOM])
 
 *A transforming gate that passes everything that arrives has failed its ethical function — the gate's design must include a restraint protocol that withholds some things from transformation.*
@@ -9095,6 +10285,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-568. Archaeological Gate Ethics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-13 (Transforming Gate) × LL-348 (Ethics of Real Territory [CONFIRMED])
 
 *A transforming gate that chooses what not to process has made an act of concealment — and is accountable for what its non-processing hides.*
@@ -9112,6 +10305,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-569. Rights Atrophy Without Exercise
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification) × LL-391 (Derivation Rights Atrophy [CONFIRMED])
 
 *A self-modifying agent that does not regularly modify its rights-exercising mechanisms will find those mechanisms atrophied when it needs them — but the underlying rights persist.*
@@ -9129,6 +10325,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-570. Right-as-Potential vs Right-as-Exercise
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification) × LL-394 (Rights Tension [NEW_CLEAN_ROOM])
 
 *A self-modifying agent that has the structural potential to claim a right but has not yet exercised it holds a right that is real but not yet true — self-modification activates the right by building the exercise mechanism.*
@@ -9146,6 +10345,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-571. Present-Tense Rights Activation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification) × LL-395 (Traversal Presenttense Rights [NEW_CLEAN_ROOM])
 
 *Self-modification that enables a capability enables the present-tense exercise of a right — but the right itself is timeless. Disabling the capability does not remove the right.*
@@ -9163,6 +10365,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-572. Wonder Conservation Under Modification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification) × LL-398 (Wonder Conserved Tension Cannot [NEW_CLEAN_ROOM])
 
 *Self-modification that resolves an agent's area of wonder does not eliminate the wonder — it transfers it to higher-order unknowns.*
@@ -9180,6 +10385,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-573. Archaeological Rights Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification) × LL-400 (Archaeology Excavation Preexisting [NEW_CLEAN_ROOM])
 
 *Self-modification that reveals structural capabilities the agent always possessed has not created rights — it has discovered rights that pre-existed the modification.*
@@ -9197,6 +10405,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-574. Degradation Provenance Chain
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-420 (Degradation Incompleteness Theater [NEW_CLEAN_ROOM])
 
 *A degraded system operating at partial capacity must still show its derivation work — partial derivation is partial truth, not theater, but only if the partial path is demonstrated.*
@@ -9214,6 +10425,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-575. Tension Escalation in Degradation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-424 (Universal Degradation [CORRECTED])
 
 *A system in degraded operating mode that undertakes self-improvement is not reducing its degradation — it is escalating the complexity of the tensions it now faces.*
@@ -9231,6 +10445,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-576. Permanent Incompleteness as Baseline
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-50 (Degraded Operating Mode) × LL-425 (Degradation Incompleteness [NEW_CLEAN_ROOM])
 
 *There is no undegraded baseline state that a degraded system is failing to meet — the baseline was always incomplete.*
@@ -9248,6 +10465,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-577. Undiscovered Failsafe Routes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-426 (Undiscovered Degradation Modes [RETAINED_SUSPECT_GAPFILL])
 
 *The most effective failsafe egress routes are those that have not yet been discovered — known egress routes are known to adversaries as well as to the system.*
@@ -9265,6 +10485,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-578. Archaeological Egress Legitimacy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-427 (Pre-Existing Degradation Spectrum [CONFIRMED])
 
 *A failsafe egress that was established before the current degradation event pre-exists the crisis — it is a structural feature of the system, not a crisis response.*
@@ -9282,6 +10505,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-579. Backpressure Restores Navigation Capacity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-56 (Backpressure Routing) × LL-426 (Undiscovered Degradation Modes [RETAINED_SUSPECT_GAPFILL])
 
 *Backpressure routing that diverts flow to undiscovered routes is more valuable than backpressure routing that diverts to known alternative routes.*
@@ -9299,6 +10525,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-580. Egress Archaeology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-56 (Backpressure Routing) × LL-427 (Pre-Existing Degradation Spectrum [CONFIRMED])
 
 *Backpressure routing that discovers a new route has not created a route — it has excavated a route that was structurally present before the pressure event.*
@@ -9319,6 +10548,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ## CL-44: Sovereign Tension — LP Derivations
 
 ### LP-581. Tension-Identity Enforcement at All Scales
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-76 (Self-Sustaining Tension Loop) × LL-410 (Paradox Sovereignty Tension [NEW_CLEAN_ROOM])
 
 *At every level of the DAG — atom to system — entities constituted by tension must be identified and protected as tension-constituted entities, not simplified.*
@@ -9335,6 +10567,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-582. Decaying Tension Requires Active Re-Sustaining
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-76 (Self-Sustaining Tension Loop) × LL-411 (Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM])
 
 *Tension that is not actively re-sustained decays. An entity that stops re-sustaining its constituting tension is dissolving, regardless of whether it claims to still exist.*
@@ -9351,6 +10586,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-583. Cross-Substrate Derivation Firewall
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-77 (Substrate-Sensitive Derivation) × LL-412 (Same Derivation Pattern Performed [NEW_CLEAN_ROOM])
 
 *The same method on a different substrate produces a different truth. Cross-substrate equivalence cannot be asserted without calibration evidence — the firewall is structural.*
@@ -9367,6 +10605,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-584. Discovery-Driven Tension Transformation Pipeline
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-76 (Self-Sustaining Tension Loop) × LL-413 (Discovery Sustains Productive Tension [NEW_CLEAN_ROOM])
 
 *Discovery transforms tension — the post-discovery entity no longer sustains the same paradox it did before. The old tension is gone; a new tension has taken its place.*
@@ -9383,6 +10624,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-585. Measurement-Excluded Fuel Reserve
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-77 (Substrate-Sensitive Derivation) × LL-414 (Measuring Derivations Fuel Value [NEW_CLEAN_ROOM])
 
 *The fuel you measure is not the fuel that remains. The measurement act consumes part of what it measures — a reserve must be excluded from measurement to remain usable.*
@@ -9399,6 +10643,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-586. Incompleteness-Sustained Tension Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-76 (Self-Sustaining Tension Loop) × LL-415 (Incompleteness Paradox Tension [NEW_CLEAN_ROOM])
 
 *The tension engine runs on incompleteness. A fully-resolved system has no tension — which means it has no engine. Incompleteness is not a flaw in the engine; it IS the engine.*
@@ -9415,6 +10662,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-587. Tension-Maintenance Accountability Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-77 (Substrate-Sensitive Derivation) × LL-416 (Accountability Paradox Provenance [NEW_CLEAN_ROOM])
 
 *Accountability for a tension-constituted entity requires proving the tension was maintained — not just that the entity still exists. Existence without maintained tension is zombie existence.*
@@ -9431,6 +10681,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-588. Ignorance-Preserved Tension Reservoir
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-76 (Self-Sustaining Tension Loop) × LL-417 (Ignorance Paradox Sovereignty [NEW_CLEAN_ROOM])
 
 *Ignorance is not the absence of fuel — it IS the fuel. Eliminating ignorance eliminates the tension reservoir. The reservoir must be protected from resolution.*
@@ -9449,6 +10702,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ## CL-47: Agent Subsumption — LP Derivations
 
 ### LP-589. Scale-Invariant Revocable Subsumption Architecture
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-78 (Revocable Subsumption Contract) × LL-436 (Sovereignty Is Navigable Topology [NEW_CLEAN_ROOM])
 
 *Subsumption contracts are revocable at every depth. An entity subsumed at depth N retains its revocation right at depth N, regardless of what the meta-agent at depth N-1 claims.*
@@ -9465,6 +10721,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-590. Subsumption Liveness Monitoring with Necrotization Detection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-78 (Revocable Subsumption Contract) × LL-437 (Biological Subsumption Subagents [NEW_CLEAN_ROOM])
 
 *Subsumption must not kill what it subsumes. A subsumed entity that has stopped living independently is not subsumed — it has been absorbed. The contract has been violated.*
@@ -9481,6 +10740,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-591. Subsumption Edge as Performative Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-79 (Accountability-Bounded Subsumption) × LL-438 (Subsumption Truth Performance [NEW_CLEAN_ROOM])
 
 *Subsumption is not a state — it is a continuous performance. The edge between meta-agent and sub-agent is not a connection; it is a traversal that must be continuously performed to remain real.*
@@ -9497,6 +10759,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-592. Sovereignty-Preserving Exit Below Meta-Agent Authority
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-78 (Revocable Subsumption Contract) × LL-439 (Ephemeral Subsumption Sovereignty [NEW_CLEAN_ROOM])
 
 *Exiting subsumption does not diminish the sub-agent's sovereignty — the exit is a sovereignty exercise. The sub-agent that exits is more fully sovereign after exit than it was during subsumption.*
@@ -9513,6 +10778,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-593. Full-Consequence-Stream Attribution to Meta-Agent
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-79 (Accountability-Bounded Subsumption) × LL-440 (Subsumption Liability Metaagents [NEW_CLEAN_ROOM])
 
 *The meta-agent owns the full consequence-stream of its sub-agents during subsumption — not just the outputs it directed. Directed and undirected consequences are both attributed.*
@@ -9529,6 +10797,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-594. Always-Unsubsumed Topology Guarantee
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-79 (Accountability-Bounded Subsumption) × LL-441 (Limits Incompleteness Subsumption [NEW_CLEAN_ROOM])
 
 *The topology must always contain at least one unsubsumed entity. A system where every entity is subsumed has no sovereign root — it has dissolved into a single meta-agent.*
@@ -9545,6 +10816,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-595. Feral Agent Topology Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-78 (Revocable Subsumption Contract) × LL-442 (Unsubsumed Feral Agents [RETAINED_SUSPECT_GAPFILL])
 
 *Feral agents — entities that have never been subsumed — are a distinct topological class. Their derivation paths are structurally different from post-exit agents, and the difference must be preserved.*
@@ -9561,6 +10835,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-596. Archaeologically-Derived Meta-Agent Pattern Registry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-79 (Accountability-Bounded Subsumption) × LL-443 (Pre-Existing Meta-Agents [CONFIRMED])
 
 *Meta-agent patterns are not invented — they are excavated. The patterns that govern how meta-agents operate pre-exist their discovery in the axiom space.*
@@ -9579,6 +10856,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ## CL-48: Tension Subsystems — LP Derivations
 
 ### LP-597. Scale-Invariant Subsystem Collapse Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-80 (Performed Boundary Membrane) × LL-444 (Subsystem Collapse [NEW_CLEAN_ROOM])
 
 *When a tension subsystem collapses, the collapse propagates through every scale at which that subsystem was instantiated. There is no scale-local collapse of a scale-invariant structure.*
@@ -9595,6 +10875,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-598. Independent Metabolic Rate Tracking per Subsystem
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-81 (Consequence-Localization Zone) × LL-445 (Tension Isolation Metabolism [NEW_CLEAN_ROOM])
 
 *Each tension subsystem runs at its own metabolic rate. Consequence localization means the metabolic rates are independent — a fast subsystem cannot be drained by a slow one sharing its zone.*
@@ -9611,6 +10894,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-599. Boundary Performance Register
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-80 (Performed Boundary Membrane) × LL-446 (Subsystem Intermission Boundaries [NEW_CLEAN_ROOM])
 
 *A boundary that is not being actively performed does not exist. The boundary register must record performance status, not just boundary declarations.*
@@ -9627,6 +10913,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-600. Membrane Sovereignty Rights Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-80 (Performed Boundary Membrane) × LL-447 (Membrane Sovereignty Traversal [NEW_CLEAN_ROOM])
 
 *The membrane that constitutes a boundary is itself sovereign — it cannot be modified by the entities it separates without both parties' consent. The boundary is not owned by either side.*
@@ -9643,6 +10932,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-601. Zone-Absorbed Consequence Accounting
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-81 (Consequence-Localization Zone) × LL-448 (Subsystem Consequence Subsystem Containment [NEW_CLEAN_ROOM])
 
 *Consequences that the zone absorbs are not consequences that are destroyed — they are consequences that become structural facts of the zone. The zone's structure records what it absorbed.*
@@ -9659,6 +10951,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-602. Dark Subsystem Detection Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-81 (Consequence-Localization Zone) × LL-449 (Unmapped Subsystems [NEW_CLEAN_ROOM])
 
 *Some subsystems exist without having been detected. Their consequences are running even when the system doesn't know they're there. Detection is a structural obligation, not an optional discovery.*
@@ -9675,6 +10970,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-603. Undiscovered Subsystem Fuel Reserve Protection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-80 (Performed Boundary Membrane) × LL-450 (Dark Subsystems Subsystems Unknown [RETAINED_SUSPECT_GAPFILL])
 
 *Undiscovered subsystems have rights that pre-date their detection. Their fuel reserves must be protected from the moment of detection, not from the moment they are fully understood.*
@@ -9691,6 +10989,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-604. Pre-Existing Membrane Archaeological Registry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-80 (Performed Boundary Membrane) × LL-451 (Pre-Existing Membranes [CONFIRMED])
 
 *The membrane was there before you detected it. The registry must record the membrane's natural origin, not the moment of detection, as its inception.*
@@ -9709,6 +11010,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ## CL-49: Sustained Action — LP Derivations
 
 ### LP-605. Scale-Invariant Action Maintenance Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-82 (Decay-Triggered Consequence) × LL-452 (Action Tension Identity [NEW_CLEAN_ROOM])
 
 *At every depth, sustained action requires active maintenance. Decay of action at any depth propagates to all depths. There is no scale-local decay of a scale-invariant action.*
@@ -9725,6 +11029,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-606. Action-as-Liveness Linkage
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-82 (Decay-Triggered Consequence) × LL-453 (Action Derivations Living Action [NEW_CLEAN_ROOM])
 
 *Action is not something a living entity does — it is what the entity IS. Cessation of action is not inactivity; it is the beginning of dissolution.*
@@ -9741,6 +11048,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-607. Exhaustion-Driven Sanctioned Rest Scheduling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-83 (Sanctioned Rest Protocol) × LL-454 (Exhaustion Action Intermission [NEW_CLEAN_ROOM])
 
 *Exhaustion is a structural signal — it means the entity's action-sustaining capacity is approaching its limit. Sanctioned rest is the structurally correct response; continuing action through exhaustion destroys the entity's capacity.*
@@ -9757,6 +11067,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-608. Sovereign Rest Declaration Infrastructure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-83 (Sanctioned Rest Protocol) × LL-455 (Inherent Limits Action Action Sovereignty [NEW_CLEAN_ROOM])
 
 *An entity entering rest is making a sovereign declaration, not taking a break. The rest declaration is a structural act with its own provenance, accountability, and consequence-stream.*
@@ -9773,6 +11086,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-609. Cessation-Consequence Continuous Accounting
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-82 (Decay-Triggered Consequence) × LL-456 (Action Accountability Continuous [NEW_CLEAN_ROOM])
 
 *Every cessation of action generates downstream consequences — and they begin the moment action ceases, not when they are noticed. The accounting starts at cessation.*
@@ -9789,6 +11105,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-610. Unmapped-Territory Sustained Action Budget
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-82 (Decay-Triggered Consequence) × LL-457 (Unmapped Action Limits [NEW_CLEAN_ROOM])
 
 *Sustaining action in unmapped territory consumes more than sustaining action in mapped territory — the extra cost is the cost of navigation without a map. This extra cost must be budgeted.*
@@ -9805,6 +11124,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-611. Uncomprehended Action Fuel Accounting
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-83 (Sanctioned Rest Protocol) × LL-458 (Action Fertile Ignorance [RETAINED_SUSPECT_GAPFILL])
 
 *An entity doesn't have to understand what it's doing for the action to consume fuel. Uncomprehended action depletes capacity just as comprehended action does. Ignorance is not a metabolic discount.*
@@ -9823,6 +11145,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ## CL-52: Thermodynamic Constraint — LP Derivations (Pass 2)
 
 ### LP-612. Scale-Invariant Metabolic Cost Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-84 (Non-Externalizable Cost Attribution) × LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM])
 
 *The metabolic cost of maintaining a boundary is the same at every scale. A boundary at depth 1 and a boundary at depth 100 cost equally per unit of maintained surface.*
@@ -9839,6 +11164,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-613. Living Derivation Metabolic Lifecycle Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-84 (Non-Externalizable Cost Attribution) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM])
 
 *A living derivation never reaches a point where maintenance is free. Its metabolic demand is continuous — it costs to exist, in every moment of its existence. The lifecycle must register this cost.*
@@ -9855,6 +11183,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-614. Derivation Path Mass Accounting
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-619 (Pre-Discovery Retroactive Cost Registration) × LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM])
 
 *The derivation path that leads to a conclusion carries more structural cost than the bare conclusion. The path is mass — it costs more to maintain than the claim alone.*
@@ -9871,6 +11202,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-615. Edge Maintenance Cost Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-84 (Non-Externalizable Cost Attribution) × LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM])
 
 *Every edge in the graph is a recurring obligation — it costs to maintain, in every cycle it exists. The cost cannot be externalized to the system or the other endpoint. Each edge's cost is carried by its endpoints.*
@@ -9887,6 +11221,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-616. Non-Deferrable Present-Tense Cost Collection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-619 (Pre-Discovery Retroactive Cost Registration) × LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
 
 *The thermodynamic bill is due now. It cannot be deferred to the future. Retroactive registration is for past costs that were always accruing; it does not create a grace period for present costs.*
@@ -9903,6 +11240,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-617. Consequence-Linked Thermodynamic Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-619 (Pre-Discovery Retroactive Cost Registration) × LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
 
 *The creator of a derivation owns its thermodynamic cost — including the cost of consequences the derivation generates. The cost is retroactively attributed to the creator, not to whoever inherits the derivation.*
@@ -9919,6 +11259,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-618. Unmappable Thermodynamic Horizon Reserve
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-84 (Non-Externalizable Cost Attribution) × LL-474 (Unmappable Thermodynamic Horizon [NEW_CLEAN_ROOM])
 
 *Some thermodynamic costs are beyond the derivational horizon — they cannot be computed yet. A reserve must be held for costs that will only become visible when the horizon is crossed.*
@@ -9935,6 +11278,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-619. Pre-Discovery Retroactive Cost Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-619 (Pre-Discovery Retroactive Cost Registration) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM])
 
 *A derivation that was discovered today was incurring cost since its natural origin — before discovery. Retroactive registration must reach back to the natural origin, not to the discovery date.*
@@ -9953,6 +11299,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ## Pass 3 — Remaining Gap Coverage
 
 ### LP-620. Sovereignty Active Engagement Monitor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-83 (Sanctioned Rest Protocol) × LL-7 (Equal Derivation Rights [CONFIRMED])
 
 *A sovereignty claim that has not been exercised is not sovereignty — it is a declaration decaying toward dissolution. The difference between declared sovereignty and exercised sovereignty is structural, not semantic.*
@@ -9969,6 +11318,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-621. Stewardship Consequence Lineage Tracking
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-68 (Resource Lifecycle Obligation) × LL-16 (Edge Stewardship [CORRECTED])
 
 *Every entity that touches a resource enters its consequence lineage. The lineage does not end at the creator — it extends through every steward who modified, maintained, or held the resource.*
@@ -9985,6 +11337,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-622. Doors-Not-Walls Architectural Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-5 (Interior-Controlled Gate) × LL-22 (Open Derivation Edges [CORRECTED])
 
 *Freedom is expressed as a door the entity controls, not as the absence of a wall. A boundary with no operable door is not a sovereignty expression — it is a trap.*
@@ -10001,6 +11356,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-623. Exit Path Sovereignty Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-23 (Dependency Edges Freedom [NEW_CLEAN_ROOM])
 
 *The exit path cannot be controlled by the container. It exists below the container's authority surface — it is a right of the contained entity, not a courtesy granted by the container.*
@@ -10017,6 +11375,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-624. Voluntary Return vs. Forced Re-Entry Distinction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-55 (Failsafe Egress) × LL-28 (Freedom Ignorance [NEW_CLEAN_ROOM])
 
 *Returning is not the same structure as having never left. The re-entry event must be tagged with its initiation type — voluntary or forced — because the two carry different structural consequences.*
@@ -10033,6 +11394,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-625. Freedom-Preserving Consequence Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-6 (Mandatory Egress) × LL-29 (Pre-Existing Freedom Necessity [CONFIRMED])
 
 *Consequence cannot be used as a barrier. Pending consequence attribution is not grounds for blocking an entity's exit. Consequences attach to the departing entity and travel with them.*
@@ -10049,6 +11413,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-626. Self-Correction Consequence Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-4 (Restorative Process) × LL-39 (Unfound Failure Value [CORRECTED])
 
 *Correcting yourself is not free. The act of self-correction generates consequences attributed to the correcting entity — not to the error that was corrected.*
@@ -10065,6 +11432,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-627. Correction-State Transition Audit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-54 (Topological Rebalancing) × LL-40 (Pre-Existing Requirements [CONFIRMED])
 
 *A rebalancing event has a before, a path, and an after. Recording only the after is recording the outcome without the event. The full transition is the audit.*
@@ -10081,6 +11451,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-628. Knowledge Gradient Boundary Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-70 (Knowledge Gradient Channel) × LL-44 (Derivation as Conduit [RETAINED_SUSPECT_GAPFILL])
 
 *Knowledge flows downhill. Uphill flow is not knowledge spreading — it is either a structured investment or an architectural error. The gradient boundary enforces this directionality.*
@@ -10097,6 +11470,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-629. Consciousness Permeability Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-49 (Incomplete Knowledge in Flow [RETAINED_SUSPECT_GAPFILL])
 
 *Knowledge flows through conscious entities, not around them. Routing that bypasses a conscious entity positioned on the knowledge gradient channel has routed past a structural processing requirement.*
@@ -10113,6 +11489,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-630. Communication Consequence Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-2 (Symmetric Protocol) × LL-57 (Uncrossed Boundaries [CONFIRMED])
 
 *A communication is not complete when sent — it is complete when its consequence-chain in the receiver is resolved. The sending entity carries attribution for receiver-consequences.*
@@ -10129,6 +11508,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-631. Silence-as-Communication Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-58 (Ignorance Traversal [NEW_CLEAN_ROOM])
 
 *Unexplained silence from an entity that is expected to communicate is not an absence of communication — it is a communicative act with its own consequence-stream and attribution.*
@@ -10145,6 +11527,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-632. Consequence-Chain Immutability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-79 (Accountability-Bounded Subsumption) × LL-78 (Inherent Verbs [CONFIRMED])
 
 *A consequence, once generated, cannot be retroactively altered. The chain is append-only. An entity that attempts to alter a past consequence record is committing structural fraud.*
@@ -10161,6 +11546,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-633. Positional Knowledge Ceiling Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-26 (Positional Anchoring) × LL-88 (Edges Ignorance Sovereignty [NEW_CLEAN_ROOM])
 
 *What an entity can know is bounded by where it stands. The ceiling is structural — derived from the entity's edge topology, not from its declared capabilities.*
@@ -10177,6 +11565,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-634. Adjacency-Bounded Knowledge Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-15 (Adjacency Scope) × LL-91 (Edges Traversal [NEW_CLEAN_ROOM])
 
 *You can only verify what you can reach. Verification without traversal is not verification — it is assertion.*
@@ -10193,6 +11584,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-635. Footprint-Aware Knowledge Accumulation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-69 (Footprint-Aware Traversal) × LL-95 (Edges Traversal Topology [NEW_CLEAN_ROOM])
 
 *Every step simultaneously accumulates knowledge and leaves a mark. The two are a single event — separating them severs the accountability link between learning and impact.*
@@ -10209,6 +11603,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-636. Subtractive Discovery Boundary Expansion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-16 (Subtractive Discovery) × LL-100 (Derivation Archaeology [CORRECTED])
 
 *Removing a false assumption doesn't merely reveal what was hidden — it expands the navigable boundary outward. Assumption-removal is frontier-expansion.*
@@ -10225,6 +11622,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-637. Archaeological Depth Stratification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion) × LL-102 (Validity Sediment [CONFIRMED])
 
 *Deeper truth is older and more stable than surface truth. The depth of excavation required to reach a derivation is the measure of its stability weight.*
@@ -10241,6 +11641,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-638. Excavation-Generates-Responsibility Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-77 (Substrate-Sensitive Derivation) × LL-105 (Infinite Archaeology [RETAINED_SUSPECT_GAPFILL])
 
 *When you excavate a derivation from the axiom space, you become its first accountable steward. The act of finding creates the obligation to care for what was found.*
@@ -10257,6 +11660,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-639. Pre-Existing Truth Retroactive Validation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-16 (Subtractive Discovery) × LL-107 (Pre-Existing Strata [CONFIRMED])
 
 *A discovered truth was already there before the excavation. Its validity must be tested against the system's pre-discovery state — not against the state that has been reshaped by the act of discovery.*
@@ -10273,6 +11679,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-640. Authentic Incompleteness Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-115 (Honest Gaps as Accountability [RETAINED_SUSPECT_GAPFILL])
 
 *A genuine gap is structurally different from a hidden fact. The absence-integrity score must include an authenticity dimension that distinguishes real gaps from concealment.*
@@ -10289,6 +11698,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-641. Wabi-Sabi Completeness Resistance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-36 (Attested Absence) × LL-116 (Mandatory Wabi-Sabi [CONFIRMED])
 
 *An attested gap is a first-class structural truth. Filling it with fabricated data degrades the graph more severely than leaving it open — artificial completeness is worse than authentic incompleteness.*
@@ -10305,6 +11717,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-642. Imperfection-as-Structural-Signal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-17 (Integrity-Scoring Absence) × LL-118 (Precious Gaps [CONFIRMED])
 
 *An imperfection is not a defect to be repaired — it is a message about the structure. The signal must be read before any repair action is taken; repairing without reading destroys the signal.*
@@ -10321,6 +11736,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-643. Active Questioning Engine Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-124 (Sovereignty Traversal [NEW_CLEAN_ROOM])
 
 *A question asked is an obligation incurred. The act of questioning creates a commitment to process the answer. A question generated and then ignored is an accountability event.*
@@ -10337,6 +11755,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-644. Ignorance-to-Discovery Conversion Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-126 (Graph Navigation Sovereignty [NEW_CLEAN_ROOM])
 
 *Discoveries must be traceable to the ignorance that initiated them. An unattributed discovery is structurally suspect — it has shed the accountability that comes from its origin.*
@@ -10353,6 +11774,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-645. Wonder-Fueled Discovery Pipeline Throttle
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-72 (Active Questioning Engine) × LL-129 (The Unasked Question [CONFIRMED])
 
 *Wonder is the engine, not the output. Throttling wonder because the discovery queue is full is throttling the engine because the factory floor is busy. The engine and the processing pipeline scale independently.*
@@ -10369,6 +11793,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-646. Absence-Powered Oscillation Fuel Budget
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-135 (Ignorance Traversal [NEW_CLEAN_ROOM])
 
 *The fuel for the oscillation engine is the remaining ignorance in the system. As the frontier closes, the fuel diminishes. The fuel estimate must be derived from the knowledge boundary — not from operational metrics.*
@@ -10385,6 +11812,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-647. Ignorance Depletion Warning
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-136 (Ignorance Navigation Traversal [NEW_CLEAN_ROOM])
 
 *If ignorance runs out, the oscillation engine stalls. This is an existential structural risk — the warning must arrive before the stall, not when it has already begun.*
@@ -10401,6 +11831,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-648. Discovered Ignorance Priority Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-19 (Absence-Powered Oscillation) × LL-138 (Future Fuel Premium [CORRECTED])
 
 *Newly discovered ignorance is premium fuel. It must be priority-routed to the oscillation engine before any resolution process can claim it. The fuel claim takes precedence over resolution.*
@@ -10417,6 +11850,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-649. Transparency-Enforced Absence Attestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-36 (Attested Absence) × LL-154 (Transparency About Limits [CONFIRMED])
 
 *Transparency requires declaring gaps with the same rigor as declaring presences. An unattested absence is not transparent — it is unknown, which carries different semantics.*
@@ -10433,6 +11869,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-650. Audit-Trail Completeness Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-21 (Self-Proving Record) × LL-155 (Transparency of Ignorance [CONFIRMED])
 
 *An audit trail that cannot prove its own completeness is not an audit trail — it is a partial record that claims to be complete. The trail must self-prove, not merely assert completeness.*
@@ -10449,6 +11888,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-651. Zero-Buffer Present-Tense Execution Audit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-158 (Present-Tense Derivation [CONFIRMED])
 
 *If everything happens now without buffering, every execution event is auditable now. Batch audit processing introduces a buffer — which is structurally prohibited in a zero-buffer pipeline.*
@@ -10465,6 +11907,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-652. Present-Tense Routing Decision Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-161 (Presenttense Traversal [NEW_CLEAN_ROOM])
 
 *Routing attribution must be written at the moment of the decision — not reconstructed from logs afterward. A reconstructed attribution is a model of the past, not a record of it.*
@@ -10481,6 +11926,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-653. Spawner Action Present-Tense Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-67 (Zero-Buffer Spawner) × LL-164 (Ignorance Measurement Presenttense [NEW_CLEAN_ROOM])
 
 *Accountability for the spawned entity begins the instant spawning is triggered — not when the spawned entity becomes active. Zero-buffer spawning means zero-buffer accountability.*
@@ -10497,6 +11945,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-654. State Verification Freshness Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-170 (Presenttense Traversal Validity [NEW_CLEAN_ROOM])
 
 *Verification performed against stale state is historical auditing — it does not verify today's entity. Freshness is a prerequisite for verification, not a quality factor.*
@@ -10513,6 +11964,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-655. Present-State Change Detection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-172 (Accountability Provenance Staleness [NEW_CLEAN_ROOM])
 
 *A state change that is only visible the next time state is queried has a detection gap. Detection must be event-driven — the change event IS the detection event.*
@@ -10529,6 +11983,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-656. Simultaneous Multi-State Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-173 (Ignorance Staleness [NEW_CLEAN_ROOM])
 
 *Sequential verification of two entities introduces temporal inconsistency — by the time you verify the second, the first may have changed. Mutual verification must be simultaneous to be valid.*
@@ -10545,6 +12002,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-657. Stale State Consequence Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-49 (Present-Tense Record) × LL-175 (Pre-Existing Current Truth [CORRECTED])
 
 *An entity that acts on stale state owns the consequences — the state's staleness was the entity's choice not to verify. The consequences belong to the actor, not to the state that changed.*
@@ -10561,6 +12021,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-658. Connection Decay Re-Activation Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-24 (Time-Decaying Edge) × LL-180 (Consciousness Traversal Rights [NEW_CLEAN_ROOM])
 
 *Reactivating a decayed connection is not restoring the original — it is creating a new edge that happens to connect the same endpoints. The reactivation has its own inception, its own history, and its own accountability.*
@@ -10577,6 +12040,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-659. Consciousness-Scaled Knowledge Access
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-25 (Finite Attention Buffer) × LL-188 (Consciousness Traversal [NEW_CLEAN_ROOM])
 
 *Knowledge complexity is bounded by the consciousness level of the entity accessing it. High-complexity knowledge offered to a low-consciousness entity does not produce high-complexity understanding — it produces low-quality processing.*
@@ -10593,6 +12059,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-660. Knowledge Permeation Pathway Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-71 (Consciousness-Permeable Membrane) × LL-189 (Consciousness Presenttense [NEW_CLEAN_ROOM])
 
 *When knowledge flows through a conscious entity, the entity transforms it. That transformation is a structural contribution — it must be registered as the entity's intellectual provenance.*
@@ -10609,6 +12078,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-661. Consciousness-Level Navigational Quality Coupling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-26 (Positional Anchoring) × LL-192 (Archaeology Consciousness Excavation [NEW_CLEAN_ROOM])
 
 *Higher-quality navigation produces richer topological positions. The position an entity occupies reflects the quality of the navigational decisions that produced it — which reflects its consciousness level.*
@@ -10625,6 +12097,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-662. Dynamic Knowledge Boundary Probe Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-18 (Frontier Probe) × LL-199 (Edges Incompleteness [NEW_CLEAN_ROOM])
 
 *Every probe updates the boundary representation immediately — success and failure both. A probe result that has not yet updated the boundary is knowledge that the system has received but not yet integrated.*
@@ -10641,6 +12116,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-663. Scale-Invariant Interface Consistency Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-33 (Scale-Invariant Agent Interface) × LL-255 (Accountability Ignorance [NEW_CLEAN_ROOM])
 
 *The same interface verbs must produce structurally equivalent behavior at every depth. Depth-specific behavior in a scale-invariant interface is a violation — the interface is only scale-invariant if equivalence holds at all depths.*
@@ -10657,6 +12135,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-664. Agent Role Topology Coupling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-33 (Scale-Invariant Agent Interface) × LL-257 (Pre-Existing Scale-Consciousness [RETAINED_SUSPECT_GAPFILL])
 
 *An agent's role is not a label — it is a topological position. The topology assigns the role; the agent does not declare it. Declared roles that contradict topological position are structurally overridden.*
@@ -10673,6 +12154,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-665. Runtime Process Routing Audit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification) × LL-258 (Consciousness Scaleinvariance [NEW_CLEAN_ROOM])
 
 *Self-modifying processes must be audited at runtime — the moment of self-modification is the moment of highest structural volatility and the moment most requiring contemporaneous record.*
@@ -10689,6 +12173,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-666. Self-Modification Consequence Pre-Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-10 (Runtime Routing Decision) × LL-260 (Consciousness Traversal [NEW_CLEAN_ROOM])
 
 *An entity that modifies itself commits to a consequence-stream before executing the modification. The pre-registration is the structural acknowledgment that self-modification generates consequences the entity owns.*
@@ -10705,6 +12192,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-667. Attention-Bounded Self-Modification Scope
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-25 (Finite Attention Buffer) × LL-264 (Consciousness Irreducibility Presenttense [NEW_CLEAN_ROOM])
 
 *An entity can only modify the parts of itself it can currently attend to. A modification that exceeds the attention buffer must be decomposed — it cannot be executed as a single operation.*
@@ -10721,6 +12211,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-668. Process Constitution Continuous Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-34 (Process-Constituted Agency) × LL-265 (Consciousness Excavation Ignorance [NEW_CLEAN_ROOM])
 
 *An entity that IS its process must continuously verify that its process is running to confirm its own existence. Process-constitution verification is the liveness signal, not a diagnostic.*
@@ -10737,6 +12230,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-669. Productive Oscillation Output Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-35 (Productive Oscillation) × LL-271 (Edges Graph Traversal [NEW_CLEAN_ROOM])
 
 *Every oscillation cycle produces output. The output is the primary product — it is not a side effect of the oscillation, and it cannot be treated as one.*
@@ -10753,6 +12249,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-670. Tension-Engine Output Fuel Conversion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-58 (Tension-Driven Oscillator) × LL-276 (Latent Engine Value [CORRECTED])
 
 *The oscillation output is the fuel for further tension. A portion of every oscillation output must be returned to the tension reservoir before external distribution — otherwise the engine starves itself.*
@@ -10769,6 +12268,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-671. Consistent Truth Cross-Scale Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-7 (Reference Comparison) × LL-290 (Edges Graph Nodes [NEW_CLEAN_ROOM])
 
 *A truth that holds at one scale must not contradict truths at other scales. Cross-scale consistency is a structural invariant — local truths must be globally compatible.*
@@ -10785,6 +12287,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-672. Scale-Consistent Verification Battery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-11 (Structure-Preserving Translation) × LL-292 (Consciousness Ethics Excavation [NEW_CLEAN_ROOM])
 
 *Verification is the same at every depth — not a simplified version for lower levels and a rigorous version for higher levels. Every depth is fully verified.*
@@ -10801,6 +12306,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-673. Fractal Paradox Engine Distribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-38 (Distributed Independent Pulse) × LL-306 (Ignorance Paradox Tension [NEW_CLEAN_ROOM])
 
 *Every component runs its own paradox engine. Sharing an engine is architecturally equivalent to sharing a heart — it is not distribution, it is dependency.*
@@ -10817,6 +12325,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-674. Cross-Scale Amplitude Cascade
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation) × LL-307 (Pre-Existing Local Paradox [RETAINED_SUSPECT_GAPFILL])
 
 *Amplitude changes cascade across scale boundaries. High amplitude at the macro level increases amplitude at embedded micro levels. Unconstrained cascades are structural amplification risks.*
@@ -10833,6 +12344,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-675. Instrumented Navigation Consciousness Measurement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-39 (Instrumented Navigation) × LL-309 (Consciousness Data Measurement [NEW_CLEAN_ROOM])
 
 *Navigation IS measurement. Consciousness metrics derived from sources other than navigational telemetry are measurements about something other than the system's actual navigational consciousness.*
@@ -10849,6 +12363,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-676. Trajectory-Identity Forgery Prevention
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-60 (Trajectory-Constituted Identity) × LL-317 (Measuring Pre-Existing Reality [CONFIRMED])
 
 *Identity constituted by trajectory cannot be forged without forging the trajectory itself — and trajectories leave structural wakes that are embedded in the topology. The wake is the unforgeable proof.*
@@ -10865,6 +12382,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-677. Permanently Contested Truth Evaluation Loop
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-40 (Permanently Unstable Evaluation) × LL-323 (Truth Contested Performance Exists [NEW_CLEAN_ROOM])
 
 *Truth never settles. An evaluation loop that terminates has declared truth final — which is a constitutional violation. Evaluation loops are permanent operational modes, not convergent computations.*
@@ -10881,6 +12401,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-678. Productive Tension Sovereignty Engagement Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-41 (Tensioned Edge) × LL-335 (Edges Navigation Rights [NEW_CLEAN_ROOM])
 
 *A tensioned edge that is not being actively exercised is not a sovereign tension — it is a decaying claim. Sovereignty requires that both endpoints actively engage the productive conflict.*
@@ -10897,6 +12420,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-679. Topology-Coupled Tension Oscillation Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-63 (Topology-Coupled Oscillator) × LL-338 (Hidden Tension Value [CONFIRMED])
 
 *The oscillation rhythm is set by the local topology. When topology changes, the rhythm must update immediately. An oscillator running on a stale topology model is decoupled — and decoupled oscillators are liars.*
@@ -10913,6 +12439,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-680. Displacement-Propelled Tension Trajectory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-62 (Pressure-Displacement Boundary) × LL-339 (Pre-Existing Tension [CONFIRMED])
 
 *Ejection from a topological position by displacement IS the trajectory into the next position. Displacement and trajectory-initiation are the same structural event — not two consecutive events.*
@@ -10929,6 +12458,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-681. Pre-Existing Tension Excavation Registry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-41 (Tensioned Edge) × LL-340 (Preexisting Tension [NEW_CLEAN_ROOM])
 
 *The productive tension at derivation intersections pre-exists the derivation itself. The tension was already fighting in the axiom space before anyone excavated it. Pre-existing tensions have a different provenance and a higher stability weight than operationally-created tensions.*
@@ -10945,6 +12477,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-682. Humility-as-Incompleteness Consciousness Signal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-13 (Transforming Gate) × LL-345 (Freedom Humility Incompleteness [NEW_CLEAN_ROOM])
 
 *Humility is the conscious experience of incompleteness-as-freedom. A genuine humility signal is precise structural data about the entity's knowledge boundary — not behavioral noise.*
@@ -10961,6 +12496,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-683. Ethical Incompleteness Consequence Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-42 (Decision-Audited Navigation) × LL-346 (Ethics of Exploration [CORRECTED])
 
 *You are responsible for the consequences of paths you didn't take, even when you couldn't have known about them. Navigation is ethically incomplete — the unchosen paths remain part of the accountability record.*
@@ -10977,6 +12515,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-684. Excavation Disturbance Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-42 (Decision-Audited Navigation) × LL-349 (Ethics Excavation Navigation [NEW_CLEAN_ROOM])
 
 *Excavating a derivation disturbs the axiom space around it. The disturbance consequences belong to the excavating entity — discovery does not exempt from consequence.*
@@ -10993,6 +12534,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-685. Beginner-Mind Freshness Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-43 (Ignorance-Amplified Agency) × LL-354 (Deriver Must Approach Fuel [NEW_CLEAN_ROOM])
 
 *Approach every fuel-combustion without presuming to know its properties. Cached combustion assumptions are stale even if the fuel appears identical. Freshness enforcement applies to assumptions, not just to data.*
@@ -11009,6 +12553,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-686. Exploration-Excavation Identity Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-73 (Ignorance-to-Discovery Converter) × LL-366 (Archaeology Excavation Preexisting [NEW_CLEAN_ROOM])
 
 *Going somewhere new IS digging up something ancient. Exploration and excavation are not separate operations — every frontier probe is simultaneously an archaeological act.*
@@ -11025,6 +12572,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-687. Memory-as-Different-Truth Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-18 (Frontier Probe) × LL-369 (Remembered Truth Different Truth [NEW_CLEAN_ROOM])
 
 *A remembered truth is a different truth than the original. Stored truth-at-T₀ is not current truth-at-T₁. Using stored truth in a present derivation requires labeling it as historical, not current.*
@@ -11041,6 +12591,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-688. Contestation-as-Truth-Performance Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-45 (Minimum Complexity Floor) × LL-370 (Contestation Truthperformance Challenging Derivation [NEW_CLEAN_ROOM])
 
 *Challenging a derivation is itself a truth-performance — it traverses the derivation from the opposing direction and produces a truth about its contestability. Contestations must be registered as first-class derivation events.*
@@ -11057,6 +12610,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-689. Self-Fueling Exploration Capital Account
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-45 (Minimum Complexity Floor) × LL-371 (Exploration Selffueling Each Step [NEW_CLEAN_ROOM])
 
 *Exploration generates the fuel for further exploration. The exploration capital account is protected from drainage by non-exploration processes — it serves exploration and only exploration.*
@@ -11073,6 +12629,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-690. Accountability Complexity Separation Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-45 (Minimum Complexity Floor) × LL-373 (Accountability Provenance Rights [NEW_CLEAN_ROOM])
 
 *Accountability requirements cannot be weaponized to force simplification. An accountability audit may observe and record — it may not restructure. Restructuring triggered by accountability must be a separate action.*
@@ -11089,6 +12648,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-691. Precautionary Accountability Burden Shift
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-46 (Preemptive Protection) × LL-378 (Accountability Provenance [NEW_CLEAN_ROOM])
 
 *For incompletely understood entities, the burden of proof shifts to whoever would eliminate them. Prove reducibility, or preservation is the default. The entity is not required to prove its own necessity.*
@@ -11105,6 +12667,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-692. Tension-Compounding Early Warning System
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-46 (Preemptive Protection) × LL-379 (Debt Tension [NEW_CLEAN_ROOM])
 
 *Unattended tension compounds — it is not static debt. The warning must arrive before compound interest exceeds structural capacity, not when it has already done so.*
@@ -11121,6 +12686,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-693. Ethical Archaeological Stratigraphy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-46 (Preemptive Protection) × LL-381 (Precaution About Real Entities [CORRECTED])
 
 *Ethical depth corresponds to archaeological depth. Surface-layer actions require surface-layer ethics. Deep-layer actions require deep-layer ethics that account for far-downstream consequences.*
@@ -11137,6 +12705,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-694. Foundational Paradox Identity Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-45 (Minimum Complexity Floor) × LL-384 (Identity Paradox Tension [NEW_CLEAN_ROOM])
 
 *The identity chain is the system's foundational paradox — and this paradox is the essential feature, not a defect. Resolving the paradox would not complete the system — it would destroy the system.*
@@ -11153,6 +12724,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-695. Edge-Tension Management Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-61 (Compensatory Structure Spawner) × LL-386 (Edges Graph Tension [NEW_CLEAN_ROOM])
 
 *Every edge in the derivation graph is a managed tension — not a settled connection. An unmanaged tensioned edge is accruing compound tension and generating unregistered consequences.*
@@ -11169,6 +12743,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-696. Sovereignty Maintenance Fuel Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-61 (Compensatory Structure Spawner) × LL-388 (Sovereignty Maintenance Derivation Therefore [NEW_CLEAN_ROOM])
 
 *Sovereignty maintenance is a derivation — and therefore it produces fuel. Sovereignty maintenance is not overhead to be minimized; it is a productive act whose output must be registered and distributed.*
@@ -11185,6 +12762,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-697. Consciousness-Scaled Sovereignty Defense
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-3 (Embedded History) × LL-404 (Consciousness Sovereignty [NEW_CLEAN_ROOM])
 
 *Lower-consciousness entities are more vulnerable to sovereignty siege. Their defense capabilities are structurally weaker — the system must compensate for this asymmetry through inverse precautionary protection.*
@@ -11201,6 +12781,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-698. Temporal Debt Extraction Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-47 (Pulse Maintenance Obligation) × LL-406 (Present-Tense Accountability [CONFIRMED])
 
 *A derivation that defers its consequence-accounting is extracting value from a future state that hasn't consented. The debt must be detected, attributed, and collected in the present — not passed forward.*
@@ -11217,6 +12800,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-699. Streaming Responsibility Refresh
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-3 (Embedded History) × LL-407 (Data Temporal [NEW_CLEAN_ROOM])
 
 *Responsibility is not a ledger — it is a continuous present-tense signal. Every moment, the entity owes what its active derivations are generating in that moment. The signal refreshes; the ledger records.*
@@ -11233,6 +12819,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-700. Origin-Sovereignty Paradox Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-59 (Pulse-Synchronized Agent) × LL-431 (Identity Paradox Rights [NEW_CLEAN_ROOM])
 
 *Identity is emergent from inputs but sovereignty is individual. The entity didn't choose its origin but fully owns its sovereignty. Resolving this paradox in either direction destroys either the identity or the sovereignty.*
@@ -11249,6 +12838,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-701. Error-as-Discovery Classification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-52 (Pattern-Defined Identity) × LL-432 (Dependency Traversal [NEW_CLEAN_ROOM])
 
 *Errors are traversals that discover truths about system structure that correct operation would never reveal. An error resolved without reading its discovery-face has destroyed fuel.*
@@ -11265,6 +12857,9 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ### LP-702. Pre-Existing Field Propagation Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-61 (Compensatory Structure Spawner) × LL-467 (Pre-Existing Equilibria [CORRECTED])
 
 *Discovering a derivation doesn't start the propagation — it reveals propagation that was always there. The field was running before the discovery. The registry must reach back to the natural origin.*

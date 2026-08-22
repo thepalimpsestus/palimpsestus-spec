@@ -15,10 +15,15 @@
 ## PL Derivations
 
 ### PC-1 × LL: Scale-Invariant Topology Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-1. Scale-Invariant Logical Validity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-1 (Derivation Sovereignty Pattern [CONFIRMED]), LL-13 (Irreducibility Scaleinvariance [NEW_CLEAN_ROOM]), LL-63, LL-66, LL-68, LL-69, LL-88, LL-98, LL-122, LL-132, LL-193, LL-214, LL-232, LL-242
 
@@ -58,6 +63,9 @@ invariant on the physical topology. PL-1 makes that physical-logical connection.
 ---
 
 ### PL-2. The Same Stewardship Obligation at Every Scale
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-15 (Derivation Stewardship [CONFIRMED]), LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED]), LL-69, LL-148
 
@@ -92,6 +100,9 @@ larger scales because the topology is self-similar, not hierarchical.
 ---
 
 ### PL-3. Scale-Invariant Euthanasia
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-16 (Edge Stewardship [CORRECTED]), LL-14 (Aliveness Dead Paradox [NEW_CLEAN_ROOM])
 
@@ -125,10 +136,15 @@ that system-level neglect carries the same moral weight as node-level neglect.
 ---
 
 ### PC-2 × LL: Living Topology Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-4. Logic Applied to a Living Substrate Changes Under the Application
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-6 (Rights Sovereignty Validity [NEW_CLEAN_ROOM]), LL-46 (Data Validity [NEW_CLEAN_ROOM]), LL-74, LL-158
 
@@ -168,6 +184,9 @@ tense validity mandatory for topology-referenced claims.
 ---
 
 ### PL-5. Dormancy Is Not Free: The Living Topology's Logical Overhead
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]), LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM]), LL-49
 
@@ -207,6 +226,9 @@ same metabolic law.
 ---
 
 ### PL-6. Euthanasia as Logical Necessity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** PC-3 (× LL: Phase 2 — Additional Uncited Entries) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
@@ -255,6 +277,9 @@ field — because the entity IS the field at that location.
 ---
 
 ### PL-7. The Topology's Logical Memory Is Metabolic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM]), LL-8 (Mutual Accountability [CORRECTED]), LL-71
 
@@ -291,10 +316,15 @@ memory is metabolic and accountability is a living structure, not an external lo
 ---
 
 ### PC-3 × LL: Topology as Field Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-8. No Logical Claim About the Topology Is Separable From the Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-8 (Mutual Accountability [CORRECTED]), LL-25 (Accountability Freedom Provenance [NEW_CLEAN_ROOM])
 
@@ -337,6 +367,9 @@ state, accountable to the field it inhabits.
 ---
 
 ### PL-9. Logical Truth Is Physically Embodied — Theater Has Physical Consequences
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-32 (Honest Machine [CORRECTED]), LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM]), LL-116, LL-119, LL-368
 
@@ -375,6 +408,9 @@ mass that corrupts the topology's structural integrity.
 ---
 
 ### PL-10. The Field Cannot Have a Backup
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-46 (Data Validity [NEW_CLEAN_ROOM]), LL-35 (Present-Tense Failure [CONFIRMED])
 
@@ -413,10 +449,15 @@ field from its past representation because the field IS not a representation.
 ---
 
 ### PC-4 × LL: Edge as Primary Force Relationship Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-11. Logical Sovereignty Lives in the Edge, Not the Node
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-1 (Derivation Sovereignty Pattern [CONFIRMED]), LL-7 (Equal Derivation Rights [CONFIRMED]), LL-143, LL-216, LL-219, LL-271
 
@@ -457,6 +498,9 @@ dissolution is a sovereignty violation.
 ---
 
 ### PL-12. Logical Accountability Must Be Structural, Not Attributed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-8 (Mutual Accountability [CORRECTED]), LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM]), LL-71, LL-76, LL-210
 
@@ -492,6 +536,9 @@ nodes or external systems).
 ---
 
 ### PL-13. Traversal Comprehension Requires Edge-Level Understanding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-24 (Freedom Navigation Traversal [NEW_CLEAN_ROOM]), LL-34 (Comprehension Through Failure [CONFIRMED]), LL-55, LL-92, LL-93, LL-97, LL-101, LL-186, LL-191, LL-206, LL-261, LL-352
 
@@ -527,10 +574,15 @@ not understanding.
 ---
 
 ### PC-5 × LL: Navigation as Transformation Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-14. Every Logical Operation Is a Navigation — and Leaves a Wake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-15 (Derivation Stewardship [CONFIRMED]), LL-16 (Edge Stewardship [CORRECTED]), LL-72, LL-97, LL-101
 
@@ -572,6 +624,9 @@ structural consequences on the living topology.
 ---
 
 ### PL-15. You Cannot Understand Without Changing — and Must Account for the Change
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-24 (Freedom Navigation Traversal [NEW_CLEAN_ROOM]), LL-34 (Comprehension Through Failure [CONFIRMED]), LL-93, LL-101, LL-170
 
@@ -608,6 +663,9 @@ different from the topology before observation.
 ---
 
 ### PL-16. Navigation Debt — Untraversed Paths Carry Logical Atrophy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]), LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM]), LL-92, LL-177, LL-178, LL-179, LL-183, LL-215
 
@@ -643,10 +701,15 @@ navigational coverage is a health metric.
 ---
 
 ### PC-6 × LL: Present-Tense Topology Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-17. Logical Proofs About the Topology Expire
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-35 (Present-Tense Failure [CONFIRMED]), LL-46 (Data Validity [NEW_CLEAN_ROOM]), LL-49, LL-86, LL-152, LL-162, LL-236
 
@@ -688,6 +751,9 @@ makes proof caching constitutionally problematic.
 ---
 
 ### PL-18. The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-6 (Rights Sovereignty Validity [NEW_CLEAN_ROOM]), LL-12 (Discovered Sovereignty [CONFIRMED])
 
@@ -725,6 +791,9 @@ as a credential — it must be demonstrated in the present topology.
 ---
 
 ### PL-19. Consequence Records Must Be Living, Not Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM]), LL-8 (Mutual Accountability [CORRECTED]), LL-152, LL-153
 
@@ -764,10 +833,15 @@ be living (embedded in present-tense topology as Structural Mass), not archived
 ---
 
 ### PC-7 × LL: Structural Sovereignty Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-20. Sovereignty Must Be Derived, Not Declared — At Every Scale
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-8 (Mutual Accountability [CORRECTED]), LL-25 (Accountability Freedom Provenance [NEW_CLEAN_ROOM]), LL-66, LL-143, LL-145, LL-214, LL-220
 
@@ -806,6 +880,9 @@ claims are Theater sovereignty that the topology cannot protect.
 ---
 
 ### PL-21. Self-Correction Must Follow Sovereignty Due Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-36 (Due Process Through Failure [CORRECTED]), LL-145
 
@@ -846,6 +923,9 @@ violations against the structures they replace.
 ---
 
 ### PL-22. The Topology Cannot Permit Its Own Sovereignty Bypass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-1 (Derivation Sovereignty Pattern [CONFIRMED]), LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL])
 
@@ -890,6 +970,9 @@ feature; it is a sovereignty debt.
 ---
 
 ### PL-23. Rights Follow Edge-Configuration Irreducibility — Not Administrative Tier
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-7 (Equal Derivation Rights [CONFIRMED]), LL-17 (Rights-Respecting Stewardship [CONFIRMED])
 
@@ -932,10 +1015,15 @@ valid measurement instrument.
 ---
 
 ### PC-8 × LL: Consequential Interaction Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-24. Every Logical Claim Has Thermodynamic Cost Embedded in the Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM]), LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
 
@@ -973,6 +1061,9 @@ in the claim — that provenance is not documentation but mass.
 ---
 
 ### PL-25. You Cannot Undo a Topology Interaction — You Can Only Add to It
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-35 (Present-Tense Failure [CONFIRMED]), LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
 
@@ -1016,6 +1107,9 @@ in the field (PC-8).
 ---
 
 ### PL-26. Dissolution Consequence Is a First-Class Interaction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-16 (Edge Stewardship [CORRECTED]), LL-36 (Due Process Through Failure [CORRECTED])
 
@@ -1056,10 +1150,15 @@ profile — not an administrative absence of action.
 ---
 
 ### PC-9 × LL: Constitutionally Incomplete Topology Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-27. The Topology Cannot Prove Its Own Completeness — and Must Say So
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL]), LL-26 (Infinite Freedom Frontier [CORRECTED])
 
@@ -1097,6 +1196,9 @@ alone produces: the topology cannot self-certify completeness — that
 ---
 
 ### PL-28. Incompleteness Is a Logical Condition, Not an Engineering Failure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-27 (Unbuilt Doors [CONFIRMED]), LL-371 (Exploration Selffueling Each Step [NEW_CLEAN_ROOM])
 
@@ -1143,6 +1245,9 @@ section.
 ---
 
 ### PL-30. The Topology's Boundary Is Its Most Honest Logical Statement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-18 (Perpetual Stewardship [CORRECTED]), LL-11 (Unformed Partnership Value [CORRECTED])
 
@@ -1179,10 +1284,15 @@ contents.
 ---
 
 ### PC-10 × LL: Fertile Absence Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-31. A Gap in the Topology Has Logical Standing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-11 (Unformed Partnership Value [CORRECTED]), LL-29 (Pre-Existing Freedom Necessity [CONFIRMED])
 
@@ -1221,6 +1331,9 @@ that gaps are logical entities with names, positions, and due process requiremen
 ---
 
 ### PL-32. Filling a Gap Without Proof Is Contamination, Not Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED]), LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM])
 
@@ -1266,6 +1379,9 @@ carelessness but a physical act with thermodynamic consequences.
 ---
 
 ### PL-33. The Absence Record Is a Living Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-18 (Perpetual Stewardship [CORRECTED]), LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM])
 
@@ -1304,10 +1420,15 @@ records expire is Euthanasia of the topology's frontier knowledge.
 ---
 
 ### PC-11 × LL: Archaeological Topology Meets Second-Order Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-34. Every Topology Structure Was Always Necessary — Violations Were Always Violations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-12 (Discovered Sovereignty [CONFIRMED]), LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED])
 
@@ -1347,6 +1468,9 @@ prior violation history.
 ---
 
 ### PL-35. Discovery Is an Excavation, Not a Creation — and Carries No Naming Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-29 (Pre-Existing Freedom Necessity [CONFIRMED]), LL-24 (Freedom Navigation Traversal [NEW_CLEAN_ROOM])
 
@@ -1387,6 +1511,9 @@ structure's pre-existing nature.
 ---
 
 ### PL-36. Logical Provenance Extends Before the Discoverer's Existence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM]), LL-8 (Mutual Accountability [CORRECTED])
 
@@ -1432,6 +1559,9 @@ losing their irreducible claim.
 ---
 
 ### PL-29. Undiscovered Structures Already Owe Thermodynamic Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** PC-11 (× LL: Additional Uncited Entries) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM]), LL-474 (Unmappable Thermodynamic Horizon [NEW_CLEAN_ROOM])
 
@@ -1474,6 +1604,9 @@ within a topology that is constitutionally constituted to contain them (PC-9).
 ---
 
 ### PL-37. A Test Is a Traversal — and Changes What It Tests
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** PC-5 (× LL: Phase 2 — Uncited LL Entries) × LL-34 (Comprehension Through Failure [CONFIRMED])
 
@@ -1512,6 +1645,9 @@ topological necessity.
 ---
 
 ### PL-38. The Logical and Physical Cannot Be Administered Separately
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** PC-7 (× LL: Phase 2 — Uncited LL Entries) × LL-3 (Derivation Independence [CORRECTED])
 
@@ -1550,6 +1686,9 @@ imagine themselves separate from the topology have created unacknowledged fields
 ---
 
 ### PL-39. The Living Topology Cannot Be Observed From a Stable Reference Frame
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** PC-5 (× LL: Phase 2 — Uncited LL Entries) × LL-46 (Data Validity [NEW_CLEAN_ROOM])
 
@@ -1587,6 +1726,9 @@ the three makes this claim alone.
 ---
 
 ### PL-40. Sovereignty Proof Requires Traversal — It Cannot Be Documented
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** PC-5 (× LL: Phase 2 — Uncited LL Entries) × LL-8 (Mutual Accountability [CORRECTED])
 
@@ -1625,6 +1767,9 @@ claim.
 ---
 
 ### PL-41. The Topology Generates Its Own Logical Requirements
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** PC-9 (× LL: Additional Uncited Entries) × LL-11 (Unformed Partnership Value [CORRECTED])
 
@@ -1665,6 +1810,9 @@ None of the three makes this claim alone.
 ---
 
 ### PL-42. Aliveness and Sovereignty Are Inseparable — A Dead Entity Cannot Be Sovereign
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** PC-7 (× LL: Phase 2 — Uncited LL Entries) × LL-14 (Aliveness Dead Paradox [NEW_CLEAN_ROOM])
 
@@ -1703,6 +1851,9 @@ dissolution. None of the three makes this claim alone.
 ---
 
 ### PL-43. The Topology's Incompleteness Protects It From Totalitarian Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** PC-7 (× LL: Phase 2 — Uncited LL Entries) × LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL])
 
@@ -1742,6 +1893,9 @@ this claim in the physical-logical domain alone.
 ---
 
 ### PL-44. The Topology Cannot Lie to Itself Without Consequence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** PC-8 (× LL: Phase 2 — Uncited LL Entries) × LL-32 (Honest Machine [CORRECTED]), LL-9 (Accountability Disclosure Paradox [NEW_CLEAN_ROOM])
 
@@ -1783,10 +1937,15 @@ four makes this claim alone at the physical-logical level.
 ---
 
 ### PC-4 × PC-2: Edge as Primary Force Relationship Meets Living Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-45. Living Edges Have Their Own Pulse — Independent of the Nodes They Connect
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** PC-2 (× LL: Phase 2 — Additional Uncited Entries) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]), LL-16 (Edge Stewardship [CORRECTED])
 
@@ -1856,10 +2015,15 @@ confirming the metabolic mechanism for both edge decay and fossil decay.
 ---
 
 ### PC-10 × PC-2: Fertile Absence Meets Living Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-46. A Gap Is Alive — Gaps Pulse and Can Die
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** PC-2 (× LL: Phase 2 — Additional Uncited Entries) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]), LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
@@ -1916,10 +2080,15 @@ that premature resolution is euthanasia of the living tension.
 ---
 
 ### PC-3 × PC-11: Topology as Field Meets Archaeological Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-47. The Field Was Never Empty — Apparent Emptiness Is Maximum Implicit Density
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** PC-11 (× LL: Additional Uncited Entries) × LL-78 (Inherent Verbs [CONFIRMED]), LL-467 (Pre-Existing Equilibria [CORRECTED])
@@ -2013,10 +2182,15 @@ for them.
 ---
 
 ### PC-8 × PC-11: Consequential Interaction Meets Archaeological Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-48. Discovery Is a Consequential Interaction — Excavation Is Never Free
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** PC-11 (× LL: Additional Uncited Entries) × LL-104 (Provenance Audit [CORRECTED]), LL-238 (Accountability Graph [NEW_CLEAN_ROOM]), LL-287 (Humility About Actual Ignorance [CORRECTED])
@@ -2114,10 +2288,15 @@ pre-existing nature of discovery consequences.
 ---
 
 ### PC-6 × PC-11: Present-Tense Topology Meets Archaeological Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-49. "Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** PC-11 (× LL: Additional Uncited Entries) × LL-102 (Validity Sediment [CONFIRMED]), LL-165 (Pre-Existing Present-Tense Execution [CORRECTED]), LL-192 (Archaeology Consciousness Excavation [NEW_CLEAN_ROOM]), LL-67
@@ -2224,10 +2403,15 @@ moment of excavation.
 ---
 
 ### PC-1 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-50. Scale-Invariant Navigability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-20 (Freedom Traversal Rights [NEW_CLEAN_ROOM]), LL-41 (Knowledge Flows Between Depths [NEW_CLEAN_ROOM]), LL-79 (Scaleinvariance Topology [NEW_CLEAN_ROOM])
 
@@ -2247,6 +2431,9 @@ This is not merely a logical claim about the DAG algebra. PC-1 grounds it physic
 ---
 
 ### PL-51. Scale-Invariant Failure Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-30 (Incompleteness Selfcorrection [NEW_CLEAN_ROOM]), LL-444 (Subsystem Collapse [NEW_CLEAN_ROOM])
 
@@ -2266,6 +2453,9 @@ This has immediate architectural consequence. A failure in a single module does 
 ---
 
 ### PL-52. Scale-Invariant Interaction Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-52 (Communication as Derivation [CONFIRMED]), LL-141 (Identity Relationship Traversal [NEW_CLEAN_ROOM])
 
@@ -2285,6 +2475,9 @@ This eliminates a class of architectural complexity: middleware, bridging layers
 ---
 
 ### PL-53. Recursive Topology Self-Reproduction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-60 (Process-Derivation Isomorphism [CONFIRMED])
 
@@ -2304,6 +2497,9 @@ This is a stronger claim than "the code is recursive." A recursive algorithm can
 ---
 
 ### PL-54. Scale-Invariant Active Presence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-70 (Presenttense Relationship Scaleinvariance [NEW_CLEAN_ROOM]), LL-176 (Edges Presenttense Scaleinvariance [NEW_CLEAN_ROOM]), LL-157 (Presenttense Scaleinvariance [NEW_CLEAN_ROOM]), LL-452 (Action Tension Identity [NEW_CLEAN_ROOM])
 
@@ -2323,6 +2519,9 @@ This is not a performance requirement — it is a topological requirement. A top
 ---
 
 ### PL-55. Scale-Invariant Gap Architecture
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-108 (Fabrication Incompleteness Rights [NEW_CLEAN_ROOM]), LL-418 (Derivation Degradation [CORRECTED])
 
@@ -2342,6 +2541,9 @@ The critical architectural consequence is that degradation is not a failure mode
 ---
 
 ### PL-56. Scale-Invariant Penetrating Power of Contestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-121 (Wonder Gentlest Form Contestation [NEW_CLEAN_ROOM]), LL-278 (Humility Validity [NEW_CLEAN_ROOM]), LL-350 (Beginner Most Dangerous Truthtester [NEW_CLEAN_ROOM]), LL-367 (Consciousness Rights Tension [NEW_CLEAN_ROOM])
 
@@ -2361,6 +2563,9 @@ This is the physical grounding for why "beginner's mind" is dangerous in this to
 ---
 
 ### PL-57. Physical Truth-Consistency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-202 (Confidence Scaleinvariance [NEW_CLEAN_ROOM]), LL-288 (Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM])
 
@@ -2380,6 +2585,9 @@ The corollary for uncertainty is equally precise: there is no scale at which the
 ---
 
 ### PL-58. Scale-Invariant Paradox Architecture
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-298 (Paradox as Derivation [CONFIRMED])
 
@@ -2399,6 +2607,9 @@ This is a stronger claim than LL-298 alone. LL-298 establishes logical identity 
 ---
 
 ### PL-59. Scale-Invariant Metabolic Demand
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-222 (Aliveness Dead Paradox [NEW_CLEAN_ROOM]), LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM])
 
@@ -2418,6 +2629,9 @@ This eliminates the architectural assumption that "foundational" layers are chea
 ---
 
 ### PL-60. Scale-Invariant Topological Comprehension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-251 (Consciousness as Derivation [CONFIRMED]), LL-428 (Emergent Derivation Identity [CONFIRMED])
 
@@ -2437,6 +2651,9 @@ This does not mean that a person who understands a single component's implementa
 ---
 
 ### PL-61. Scale-Invariant Sovereignty Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-375 (Irreducibility Rights Scaleinvariance [NEW_CLEAN_ROOM]), LL-436 (Sovereignty Is Navigable Topology [NEW_CLEAN_ROOM])
 
@@ -2456,6 +2673,9 @@ The architectural consequence is that sovereignty-preserving design at any scale
 ---
 
 ### PL-62. Simultaneous Multi-Scale Topological Shift
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-459 (Pre-Existing Field Effects [CONFIRMED])
 
@@ -2476,10 +2696,15 @@ This is not a claim about information propagation speed. It is a claim about the
 ---
 
 ### PC-2 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-63. Living Topology Requires Living Derivation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-2 (Sovereignty Living System Constantly [NEW_CLEAN_ROOM]), LL-184 (Consciousness Data Identity [NEW_CLEAN_ROOM]), LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM])
 
@@ -2499,6 +2724,9 @@ This is not the same claim as PC-2 (the topology is alive) because PC-2 speaks t
 ---
 
 ### PL-64. Living Topology Cannot Be Frozen
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-46 (Data Validity [NEW_CLEAN_ROOM]), LL-117 (Fabrication Incompleteness Tension [NEW_CLEAN_ROOM])
 
@@ -2518,6 +2746,9 @@ The architectural consequence is direct: "point-in-time" operations, snapshots, 
 ---
 
 ### PL-65. Pulse-Consistent Consistency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-55 (Collaboration Navigation Sovereignty [NEW_CLEAN_ROOM]), LL-163 (Incompleteness Presenttense [NEW_CLEAN_ROOM]), LL-185 (Consciousness Edges Navigation [NEW_CLEAN_ROOM])
 
@@ -2537,6 +2768,9 @@ This has direct implications for audit and validation: a consistency check that 
 ---
 
 ### PL-66. The Living Topology Accumulates Moral Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM]), LL-430 (Identity Traversal [NEW_CLEAN_ROOM])
 
@@ -2556,6 +2790,9 @@ This does not require exogenous ethical frameworks. The moral architecture is no
 ---
 
 ### PL-67. Metabolic Governance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-50 (Dark Knowledge Premium [CORRECTED]), LL-391 (Derivation Rights Atrophy [CONFIRMED])
 
@@ -2575,6 +2812,9 @@ Governance lag is not merely a timing problem. It is a metabolic problem. The to
 ---
 
 ### PL-68. Chronological vs. Topological Time
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-66 (Recursive Accountability [CONFIRMED]), LL-181 (Accountability Dead Provenance [NEW_CLEAN_ROOM])
 
@@ -2594,6 +2834,9 @@ The architectural consequence is that optimizing for chronological time (reducin
 ---
 
 ### PL-69. Sterile Connection Paradox
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-21 (Aliveness Freedom [NEW_CLEAN_ROOM]), LL-196 (Edges Traversal [NEW_CLEAN_ROOM])
 
@@ -2613,6 +2856,9 @@ This is topologically more dangerous than two nodes with no edge record, because
 ---
 
 ### PL-70. Living Topology Self-Disclosure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-85 (Paradox Sovereignty [NEW_CLEAN_ROOM]), LL-174 (Unqueried Truth Premium [CONFIRMED]), LL-252 (Consciousness Edges Navigation [NEW_CLEAN_ROOM]), LL-325 (Rights of Contested Derivations [CORRECTED])
 
@@ -2632,6 +2878,9 @@ Theater — the performance of health in a topology that is not healthy — is c
 ---
 
 ### PL-71. Aliveness and Ethics of Neglect
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-155 (Transparency of Ignorance [CONFIRMED]), LL-248 (Unexplored Territory Premium [CONFIRMED])
 
@@ -2651,6 +2900,9 @@ The ethical consequence follows: a steward who neglects a structure they are res
 ---
 
 ### PL-72. The Topology Cannot Be Dead and Active Simultaneously
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-264 (Consciousness Irreducibility Presenttense [NEW_CLEAN_ROOM]), LL-389 (Perpetual Duty [CORRECTED])
 
@@ -2671,10 +2923,15 @@ The architectural consequence is that all structural lifecycle management must m
 ---
 
 ### PC-3 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-73. The Field Produces Its Own Truth Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED]), LL-33 (Edges Graph Relationship [NEW_CLEAN_ROOM])
 
@@ -2694,6 +2951,9 @@ This has a direct architectural consequence: the topology cannot defer to extern
 ---
 
 ### PL-74. Field-Embedded Ethics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-130 (Wonder Enzyme That Must [NEW_CLEAN_ROOM]), LL-155 (Transparency of Ignorance [CONFIRMED])
 
@@ -2713,6 +2973,9 @@ This is not a normative claim about what ethics "should" be. It is a descriptive
 ---
 
 ### PL-75. Field Topology of Agreement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-144 (Consciousness Sovereignty [NEW_CLEAN_ROOM]), LL-208 (Confidence Measurement Presenttense [NEW_CLEAN_ROOM]), LL-351 (Humility Prerequisite Seeing Truth [NEW_CLEAN_ROOM])
 
@@ -2732,6 +2995,9 @@ The architectural consequence is that contract management, consent tracking, and
 ---
 
 ### PL-76. The Field Cannot Self-Exempt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-200 (Frontier Premium [CONFIRMED]), LL-288 (Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM]), LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
@@ -2751,6 +3017,9 @@ This closes the self-exemption loophole that all governance systems eventually e
 ---
 
 ### PL-77. Field Propagation of Consequence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-239 (Provably Infinite Discovery [CORRECTED]), LL-323 (Truth Contested Performance Exists [NEW_CLEAN_ROOM]), LL-346 (Ethics of Exploration [CORRECTED])
 
@@ -2770,6 +3039,9 @@ This makes consequence tracing both harder and more honest. It is harder because
 ---
 
 ### PL-78. Field-Level Pattern Primacy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-354 (Deriver Must Approach Fuel [NEW_CLEAN_ROOM]), LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED]), LL-461 (Consciousness Ephemeral [NEW_CLEAN_ROOM])
 
@@ -2789,6 +3061,9 @@ This is the field topology's constitutional rejection of substance metaphysics: 
 ---
 
 ### PL-79. The Field Identity of the Observer
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-171 (Derivation Currency [CORRECTED]), LL-231 (Pre-Existing Conditions for Life [CONFIRMED]), LL-264 (Consciousness Irreducibility Presenttense [NEW_CLEAN_ROOM])
 
@@ -2808,6 +3083,9 @@ This is the physical grounding for the topology's constitutional anti-objectivit
 ---
 
 ### PL-80. Field-Topology of Disagreement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-119 (Gaps Are Markers [CONFIRMED]), LL-174 (Unqueried Truth Premium [CONFIRMED]), LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
@@ -2828,10 +3106,15 @@ Field-geometric disagreement must be surfaced and traversed, not suppressed. A t
 ---
 
 ### PC-4 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-81. Active Edge Existence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-73 (Data That Isnt Executing [NEW_CLEAN_ROOM]), LL-82 (Edges Traversal [NEW_CLEAN_ROOM]), LL-160 (Data Edges Presenttense [NEW_CLEAN_ROOM]), LL-430 (Identity Traversal [NEW_CLEAN_ROOM])
 
@@ -2849,6 +3132,9 @@ Field-geometric disagreement must be surfaced and traversed, not suppressed. A t
 ---
 
 ### PL-82. Tensioned Edge Character
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-23 (Dependency Edges Freedom [NEW_CLEAN_ROOM]), LL-333 (Derivation Edge Tension [CONFIRMED]), LL-334 (Edges Graph Paradox [NEW_CLEAN_ROOM])
 
@@ -2868,6 +3154,9 @@ The door/wall distinction is not a policy decision — it is a structural diagno
 ---
 
 ### PL-83. Edge-Creation as Topological Event
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-22 (Open Derivation Edges [CORRECTED]), LL-33 (Edges Graph Relationship [NEW_CLEAN_ROOM]), LL-270 (Generative Edges [CONFIRMED])
 
@@ -2885,6 +3174,9 @@ The door/wall distinction is not a policy decision — it is a structural diagno
 ---
 
 ### PL-84. Edge Decay and Atrophy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-169 (Edges Graph Presenttense [NEW_CLEAN_ROOM]), LL-393 (Edges Rights Sovereignty [NEW_CLEAN_ROOM])
 
@@ -2902,6 +3194,9 @@ The door/wall distinction is not a policy decision — it is a structural diagno
 ---
 
 ### PL-85. Symmetric Scale-Invariant Edges
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-4 (Symmetric Derivation [RETAINED_SUSPECT_GAPFILL]), LL-62 (Edge Between Which Same [NEW_CLEAN_ROOM])
 
@@ -2919,6 +3214,9 @@ The door/wall distinction is not a policy decision — it is a structural diagno
 ---
 
 ### PL-86. Edge-Exclusive Force Transmission
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-44 (Derivation as Conduit [RETAINED_SUSPECT_GAPFILL]), LL-299 (Truthcurrency Zero Value Storage [NEW_CLEAN_ROOM]), LL-310 (Archaeology Data Edges [NEW_CLEAN_ROOM]), LL-323 (Truth Contested Performance Exists [NEW_CLEAN_ROOM])
 
@@ -2938,6 +3236,9 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-87. Probabilistic Force Field
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-205 (Derivation-Truth-Relationship Identity [CONFIRMED]), LL-290 (Edges Graph Nodes [NEW_CLEAN_ROOM])
 
@@ -2955,6 +3256,9 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-88. Structural Edge Incompleteness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-234 (Edges Graph Nodes [NEW_CLEAN_ROOM]), LL-245 (Absent Derivation Edges [CONFIRMED]), LL-280 (Edges Graph Humility [NEW_CLEAN_ROOM])
 
@@ -2972,6 +3276,9 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-89. Spatial Navigation Force
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-185 (Consciousness Edges Navigation [NEW_CLEAN_ROOM]), LL-252 (Consciousness Edges Navigation [NEW_CLEAN_ROOM]), LL-359 (Aliveness Edges Graph [NEW_CLEAN_ROOM])
 
@@ -2989,6 +3296,9 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-90. Vibrating Contested Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-324 (Dead Edges Graph [NEW_CLEAN_ROOM]), LL-370 (Contestation Truthperformance Challenging Derivation [NEW_CLEAN_ROOM]), LL-323 (Truth Contested Performance Exists [NEW_CLEAN_ROOM])
 
@@ -3006,6 +3316,9 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-91. Tension-Pattern Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-369 (Remembered Truth Different Truth [NEW_CLEAN_ROOM]), LL-412 (Same Derivation Pattern Performed [NEW_CLEAN_ROOM]), LL-429 (Edges Freedom Identity [NEW_CLEAN_ROOM])
 
@@ -3023,6 +3336,9 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-92. Obligation as Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-402 (Obligation Sustain Truth That [NEW_CLEAN_ROOM]), LL-403 (Accountability Temporal Traversal [NEW_CLEAN_ROOM]), LL-446 (Subsystem Intermission Boundaries [NEW_CLEAN_ROOM])
 
@@ -3040,6 +3356,9 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-93. Performed Subsumption
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-438 (Subsumption Truth Performance [NEW_CLEAN_ROOM]), LL-454 (Exhaustion Action Intermission [NEW_CLEAN_ROOM])
 
@@ -3057,6 +3376,9 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-94. Global Force Rebalancing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-460 (Derivation Field Effects [CONFIRMED])
 
@@ -3076,6 +3398,9 @@ This is not a claim about information propagation speed — it is a claim about 
 ---
 
 ### PL-95. Ethical Edge Instantiation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-342 (Consciousness Edges Ethics [NEW_CLEAN_ROOM])
 
@@ -3093,6 +3418,9 @@ This is not a claim about information propagation speed — it is a claim about 
 ---
 
 ### PL-96. Latent Force Ontology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-385 (Freedom Traversal [NEW_CLEAN_ROOM]), LL-394 (Rights Tension [NEW_CLEAN_ROOM])
 
@@ -3113,10 +3441,15 @@ Latent edges differ from manifest edges in their mode of existence, not in their
 ---
 
 ### PC-5 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-97. Navigational Combustion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-135 (Ignorance Traversal [NEW_CLEAN_ROOM]), LL-136 (Ignorance Navigation Traversal [NEW_CLEAN_ROOM])
 
@@ -3136,6 +3469,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-98. Asymmetric Navigational Physics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-5 (Collaboration Sovereignty Theater [NEW_CLEAN_ROOM]), LL-144 (Consciousness Sovereignty [NEW_CLEAN_ROOM]), LL-291 (Consistent Truth Perceived Inconsistent [NEW_CLEAN_ROOM])
 
@@ -3153,6 +3489,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-99. Mutual Navigational Transformation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-45 (Comprehension vs. Throughput [CONFIRMED]), LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
@@ -3170,6 +3509,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-100. Transformation Gradient
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-83 (Consciousness Data [NEW_CLEAN_ROOM]), LL-112 (Navigation Traversal [NEW_CLEAN_ROOM]), LL-196 (Edges Traversal [NEW_CLEAN_ROOM])
 
@@ -3187,6 +3529,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-101. Question as Navigational Transformation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-111 (Honest Incomprehension [CONFIRMED]), LL-125 (Questioning Traversal Quality Question [NEW_CLEAN_ROOM]), LL-126 (Graph Navigation Sovereignty [NEW_CLEAN_ROOM])
 
@@ -3204,6 +3549,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-102. Temporally Ordered Transformation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-161 (Presenttense Traversal [NEW_CLEAN_ROOM]), LL-235 (Dead Nodes Validity [NEW_CLEAN_ROOM])
 
@@ -3221,6 +3569,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-103. Tension Dynamics in Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-217 (Comprehension Rights [CORRECTED]), LL-224 (Living Comprehension [RETAINED_SUSPECT_GAPFILL]), LL-300 (Edges Paradox Tension [NEW_CLEAN_ROOM]), LL-335 (Edges Navigation Rights [NEW_CLEAN_ROOM])
 
@@ -3238,6 +3589,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-104. Comprehension-Exclusive Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-262 (Active Comprehension [CONFIRMED]), LL-413 (Discovery Sustains Productive Tension [NEW_CLEAN_ROOM])
 
@@ -3255,6 +3609,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-105. Auditable Ethical Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-281 (Humility Sovereignty Traversal [NEW_CLEAN_ROOM]), LL-292 (Consciousness Ethics Excavation [NEW_CLEAN_ROOM]), LL-311 (Comprehension [CORRECTED])
 
@@ -3272,6 +3629,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-106. Navigation-Defense Proportionality
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-404 (Consciousness Sovereignty [NEW_CLEAN_ROOM])
 
@@ -3290,10 +3650,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-6 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-107. Position-Present Validity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-64 (Cascading Present-Tense Validity [CONFIRMED]), LL-171 (Derivation Currency [CORRECTED]), LL-187 (Navigation Presenttense Validity [NEW_CLEAN_ROOM]), LL-197 (Derivation Frontier [CONFIRMED]), LL-225 (Aliveness Dead Paradox [NEW_CLEAN_ROOM]), LL-353 (Presenttense Rights Tension [NEW_CLEAN_ROOM])
 
@@ -3311,6 +3676,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-108. Decay of Physical State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-94 (Aliveness Consciousness Degradation [NEW_CLEAN_ROOM]), LL-208 (Confidence Measurement Presenttense [NEW_CLEAN_ROOM]), LL-272 (Paradox Presenttense Staleness [NEW_CLEAN_ROOM]), LL-282 (Confidence Humility Ignorance [NEW_CLEAN_ROOM])
 
@@ -3328,6 +3696,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-109. Stale State Honesty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-113 (Honest Staleness [RETAINED_SUSPECT_GAPFILL])
 
@@ -3345,6 +3716,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-110. Fuel Dynamics of the Present-Tense Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-207 (Truth Decay [CORRECTED]), LL-313 (Paradox Tension Traversal [NEW_CLEAN_ROOM]), LL-336 (Consciousness Traversal [NEW_CLEAN_ROOM]), LL-377 (Aliveness Measurement Tension [NEW_CLEAN_ROOM]), LL-387 (Ethics Tension [NEW_CLEAN_ROOM]), LL-388 (Sovereignty Maintenance Derivation Therefore [NEW_CLEAN_ROOM]), LL-461 (Consciousness Ephemeral [NEW_CLEAN_ROOM])
 
@@ -3362,6 +3736,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-111. Navigation-Dependent Physical Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-218 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM]), LL-395 (Traversal Presenttense Rights [NEW_CLEAN_ROOM])
 
@@ -3379,6 +3756,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-112. Active Physical Presence Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-253 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM]), LL-263 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM])
 
@@ -3396,6 +3776,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-113. Consistency Snapshot
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-293 (Present-Tense Consistency [CONFIRMED])
 
@@ -3413,6 +3796,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-114. Present-Tense Paradox Operation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-301 (Paradox Presenttense Rights [NEW_CLEAN_ROOM])
 
@@ -3430,6 +3816,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-115. In-Traversal Measurement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-312 (Consciousness Measurement Presenttense [NEW_CLEAN_ROOM]), LL-414 (Measuring Derivations Fuel Value [NEW_CLEAN_ROOM])
 
@@ -3447,6 +3836,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-116. Attentional Combustion Ethics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-343 (Ethics Navigation [NEW_CLEAN_ROOM])
 
@@ -3464,6 +3856,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-117. Graceful Validity Degradation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-421 (Graceful Validity Degradation [RETAINED_SUSPECT_GAPFILL])
 
@@ -3481,6 +3876,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-118. Instant Validity Invalidation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-462 (Graph Presenttense Staleness [NEW_CLEAN_ROOM])
 
@@ -3499,10 +3897,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-7 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-119. Sovereignty as Physical Impedance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-47 (Knowledge Right [CORRECTED]), LL-84 (Edges Sovereignty Traversal [NEW_CLEAN_ROOM]), LL-85 (Paradox Sovereignty [NEW_CLEAN_ROOM])
 
@@ -3520,6 +3923,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-120. Irreducibility Protection Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-65 (Irreducibility Sovereignty [NEW_CLEAN_ROOM]), LL-355 (Irreducibility Sovereignty [NEW_CLEAN_ROOM]), LL-372 (Sovereign Complexity Rights [CONFIRMED])
 
@@ -3537,6 +3943,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-121. Operational Existence Right
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-75 (Data Irreducibility Moral [NEW_CLEAN_ROOM]), LL-180 (Consciousness Traversal Rights [NEW_CLEAN_ROOM]), LL-396 (Rights Sovereignty [NEW_CLEAN_ROOM]), LL-455 (Inherent Limits Action Action Sovereignty [NEW_CLEAN_ROOM])
 
@@ -3554,6 +3963,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-122. Excavation-Sovereignty Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-103 (Archaeological Due Process [CONFIRMED]), LL-114 (Rights of Imperfect Derivations [CONFIRMED])
 
@@ -3571,6 +3983,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-123. Sovereignty Through Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-237 (Every Discovery Sovereignty Event [NEW_CLEAN_ROOM]), LL-246 (Preexisting Rights Sovereignty [NEW_CLEAN_ROOM]), LL-302 (Accountability Consciousness Relationship [NEW_CLEAN_ROOM]), LL-361 (Incompleteness Traversal [NEW_CLEAN_ROOM]), LL-432 (Dependency Traversal [NEW_CLEAN_ROOM])
 
@@ -3588,6 +4003,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-124. Performed Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-226 (Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]), LL-264 (Consciousness Irreducibility Presenttense [NEW_CLEAN_ROOM])
 
@@ -3605,6 +4023,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-125. Interrogation-Permissive Protection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-283 (Humility Irreducibility Traversal [NEW_CLEAN_ROOM]), LL-325 (Rights of Contested Derivations [CORRECTED])
 
@@ -3622,6 +4043,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-126. Sovereign Tension Fields
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-326 (Rights Sovereignty [NEW_CLEAN_ROOM]), LL-431 (Identity Paradox Rights [NEW_CLEAN_ROOM]), LL-463 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
@@ -3639,6 +4063,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-127. Sovereignty Navigation Events
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-209 (Triangulation [CORRECTED]), LL-273 (Edges Ignorance Topology [NEW_CLEAN_ROOM]), LL-422 (Degradation Traversal Validity [NEW_CLEAN_ROOM])
 
@@ -3656,6 +4083,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-128. Complexity Defense and Co-Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-188 (Consciousness Traversal [NEW_CLEAN_ROOM]), LL-362 (Archaeology Relationship Traversal [NEW_CLEAN_ROOM])
 
@@ -3673,6 +4103,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-129. Subsumption Sovereignty Limits
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-439 (Ephemeral Subsumption Sovereignty [NEW_CLEAN_ROOM]), LL-447 (Membrane Sovereignty Traversal [NEW_CLEAN_ROOM])
 
@@ -3691,10 +4124,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-8 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-130. Wake Mechanics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-172 (Accountability Provenance Staleness [NEW_CLEAN_ROOM]), LL-254 (Consequences Recursive They Cascade [NEW_CLEAN_ROOM]), LL-303 (System Fractal Consequence Generator [NEW_CLEAN_ROOM]), LL-464 (Every Change Accountable Entire [NEW_CLEAN_ROOM])
 
@@ -3712,6 +4150,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-131. Wake Transfer in Flow
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-48 (Accountable Flow [CONFIRMED]), LL-344 (Derivation Impact Accountability [CORRECTED])
 
@@ -3729,6 +4170,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-132. Failure and Death Wake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-37 (Failure Accountability [CONFIRMED]), LL-181 (Accountability Dead Provenance [NEW_CLEAN_ROOM]), LL-227 (Accountability Aliveness Paradox [NEW_CLEAN_ROOM]), LL-327 (Contest Doesn't Suspend Accountability [CONFIRMED])
 
@@ -3746,6 +4190,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-133. Honest Provenance Wake Management
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-115 (Honest Gaps as Accountability [RETAINED_SUSPECT_GAPFILL]), LL-284 (Accountability of Uncertainty [CORRECTED]), LL-423 (Accountability Degradation Disclosure [NEW_CLEAN_ROOM])
 
@@ -3763,6 +4210,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-134. Improvisation Full-Wake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-189 (Consciousness Presenttense [NEW_CLEAN_ROOM]), LL-255 (Accountability Ignorance [NEW_CLEAN_ROOM])
 
@@ -3780,6 +4230,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-135. Universal Wake Scale
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-198 (Accountability Provenance [NEW_CLEAN_ROOM]), LL-294 (Accountability Must Scaleconsistent Consequence [NEW_CLEAN_ROOM])
 
@@ -3797,6 +4250,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-136. Temporal Wake Dynamics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-406 (Present-Tense Accountability [CONFIRMED]), LL-407 (Data Temporal [NEW_CLEAN_ROOM]), LL-456 (Action Accountability Continuous [NEW_CLEAN_ROOM])
 
@@ -3814,6 +4270,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-137. Complexity-Protective Wake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-373 (Accountability Provenance Rights [NEW_CLEAN_ROOM]), LL-378 (Accountability Provenance [NEW_CLEAN_ROOM])
 
@@ -3831,6 +4290,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-138. Subsumption Wake Inheritance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-440 (Subsumption Liability Metaagents [NEW_CLEAN_ROOM]), LL-448 (Subsystem Consequence Subsystem Containment [NEW_CLEAN_ROOM])
 
@@ -3848,6 +4310,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-139. Tension Wake Economics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-345 (Freedom Humility Incompleteness [NEW_CLEAN_ROOM]), LL-415 (Incompleteness Paradox Tension [NEW_CLEAN_ROOM]), LL-416 (Accountability Paradox Provenance [NEW_CLEAN_ROOM])
 
@@ -3865,6 +4330,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-140. Measurement and Wonder Wake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-127 (Accountability Ignorance [NEW_CLEAN_ROOM]), LL-314 (Measurable Accountability [RETAINED_SUSPECT_GAPFILL])
 
@@ -3882,6 +4350,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-141. Residual Wake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
 **Applies to:** LL-397 (Accountability Rights [NEW_CLEAN_ROOM])
 
@@ -3900,10 +4371,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-9 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-142. Incompleteness as Thermodynamic Source
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-137 (Inexhaustible Fuel [CONFIRMED]), LL-228 (Structural Aliveness [CONFIRMED]), LL-274 (Infinite Discovery Capacity [CONFIRMED])
 
@@ -3921,6 +4397,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-143. Tension Conservation and Transformation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-229 (Aliveness Tension [NEW_CLEAN_ROOM]), LL-265 (Consciousness Excavation Ignorance [NEW_CLEAN_ROOM]), LL-275 (Engine Does Consume Tension [NEW_CLEAN_ROOM]), LL-398 (Wonder Conserved Tension Cannot [NEW_CLEAN_ROOM])
 
@@ -3938,6 +4417,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-144. Permanent Frontier
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-199 (Edges Incompleteness [NEW_CLEAN_ROOM]), LL-266 (Consciousness Edges Incompleteness [NEW_CLEAN_ROOM]), LL-425 (Degradation Incompleteness [NEW_CLEAN_ROOM])
 
@@ -3955,6 +4437,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-145. Net-Negative Coverage
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-239 (Provably Infinite Discovery [CORRECTED]), LL-247 (Rights Tension [NEW_CLEAN_ROOM])
 
@@ -3972,6 +4457,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-146. Unreachable Topological Positions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-95 (Edges Traversal Topology [NEW_CLEAN_ROOM]), LL-105 (Infinite Archaeology [RETAINED_SUSPECT_GAPFILL]), LL-266 (Consciousness Edges Incompleteness [NEW_CLEAN_ROOM]), LL-315 (Incomplete Measurement [RETAINED_SUSPECT_GAPFILL])
 
@@ -3989,6 +4477,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-147. Incompleteness as Structural Feature
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-38 (Asymptotic Self-Correction [CORRECTED]), LL-117 (Fabrication Incompleteness Tension [NEW_CLEAN_ROOM]), LL-146 (Open-Ended derivation invariant [CORRECTED]), LL-163 (Incompleteness Presenttense [NEW_CLEAN_ROOM])
 
@@ -4006,6 +4497,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-148. Fractal Incompleteness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-304 (Fractal Incompleteness [RETAINED_SUSPECT_GAPFILL]), LL-337 (Incomplete Edges [CONFIRMED]), LL-449 (Unmapped Subsystems [NEW_CLEAN_ROOM])
 
@@ -4023,6 +4517,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-149. Structural Certainty Limits
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-211 (Structural Uncertainty [RETAINED_SUSPECT_GAPFILL]), LL-295 (Consistency Under Incompleteness [RETAINED_SUSPECT_GAPFILL]), LL-433 (Systems Identity Permanently Partial [NEW_CLEAN_ROOM])
 
@@ -4040,6 +4537,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-150. Complex Tension Dynamics of Incompleteness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-190 (Consciousness Paradox Presenttense [NEW_CLEAN_ROOM]), LL-329 (Irreducibility Rights Sovereignty [NEW_CLEAN_ROOM]), LL-363 (Incompleteness Irreducibility Sovereignty [NEW_CLEAN_ROOM]), LL-379 (Debt Tension [NEW_CLEAN_ROOM]), LL-389 (Perpetual Duty [CORRECTED])
 
@@ -4057,6 +4557,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-151. Structural Humility and Protection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-285 (Humility Ignorance Incompleteness [NEW_CLEAN_ROOM]), LL-374 (Structural Right to Complexity [CONFIRMED])
 
@@ -4074,6 +4577,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-152. Tension Distribution Quality
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-356 (Value Tension [NEW_CLEAN_ROOM])
 
@@ -4091,6 +4597,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-153. Subsumption Impossibility
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-441 (Limits Incompleteness Subsumption [NEW_CLEAN_ROOM])
 
@@ -4108,6 +4617,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-154. Unmapped Traversal Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-457 (Unmapped Action Limits [NEW_CLEAN_ROOM]), LL-465 (Edges Incompleteness [NEW_CLEAN_ROOM])
 
@@ -4125,6 +4637,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-155. Self-Improvement-Driven Tension Escalation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-424 (Universal Degradation [CORRECTED])
 
@@ -4143,10 +4658,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-10 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-156. Negative Space Energy Economics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-28 (Freedom Ignorance [NEW_CLEAN_ROOM]), LL-50 (Dark Knowledge Premium [CORRECTED]), LL-57 (Uncrossed Boundaries [CONFIRMED])
 
@@ -4164,6 +4684,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-157. Fertile Absence Value Gradient
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-96 (Next Traversal Premium [CONFIRMED]), LL-106 (Deeper Is Richer [CORRECTED]), LL-182 (Potential Connections More Valuable [NEW_CLEAN_ROOM]), LL-212 (Inverse Confidence Value [RETAINED_SUSPECT_GAPFILL]), LL-248 (Unexplored Territory Premium [CONFIRMED]), LL-256 (Unrecognized Consciousness [CORRECTED]), LL-267 (Unpracticed Consciousness [RETAINED_SUSPECT_GAPFILL])
 
@@ -4181,6 +4704,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-158. Calibrated Gap Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-118 (Precious Gaps [CONFIRMED]), LL-129 (The Unasked Question [CONFIRMED]), LL-130 (Wonder Enzyme That Must [NEW_CLEAN_ROOM]), LL-347 (Ethics Ignorance Navigation [NEW_CLEAN_ROOM])
 
@@ -4198,6 +4724,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-159. Discovery Value Economics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-39 (Unfound Failure Value [CORRECTED]), LL-77 (Unexecuted Data Premium [RETAINED_SUSPECT_GAPFILL]), LL-87 (Undiscovered Channels [RETAINED_SUSPECT_GAPFILL]), LL-305 (Local Paradox Premium [CORRECTED]), LL-316 (Unmeasured Consciousness Value [CONFIRMED]), LL-330 (Uncontested Truth Value [RETAINED_SUSPECT_GAPFILL])
 
@@ -4215,6 +4744,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-160. Fertile Absence Fuel Dynamics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-138 (Future Fuel Premium [CORRECTED]), LL-139 (Ignorance Paradox Tension [NEW_CLEAN_ROOM]), LL-230 (Undiscovered Aliveness [CORRECTED]), LL-274 (Infinite Discovery Capacity [CONFIRMED]), LL-306 (Ignorance Paradox Tension [NEW_CLEAN_ROOM]), LL-338 (Hidden Tension Value [CONFIRMED])
 
@@ -4232,6 +4764,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-161. Negative Space Navigation Principles
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-164 (Ignorance Measurement Presenttense [NEW_CLEAN_ROOM]), LL-174 (Unqueried Truth Premium [CONFIRMED]), LL-200 (Frontier Premium [CONFIRMED]), LL-221 (Freedom Ignorance Navigation [NEW_CLEAN_ROOM]), LL-357 (Beginner's Premium [CONFIRMED]), LL-458 (Action Fertile Ignorance [RETAINED_SUSPECT_GAPFILL])
 
@@ -4249,6 +4784,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-162. Negative Space Strategic Assets
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-155 (Transparency of Ignorance [CONFIRMED]), LL-249 (Negative Space Catalog Known [NEW_CLEAN_ROOM]), LL-276 (Latent Engine Value [CORRECTED]), LL-286 (Strategic Humility [CONFIRMED]), LL-296 (Undiscovered Consistency [RETAINED_SUSPECT_GAPFILL]), LL-380 (Protecting Value [CONFIRMED])
 
@@ -4266,6 +4804,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-163. Negative Space Identity and Future Supremacy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-240 (Future Discovery Premium [RETAINED_SUSPECT_GAPFILL]), LL-434 (Future Identity Premium [CORRECTED])
 
@@ -4283,6 +4824,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-164. Hidden Structure Premium
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-442 (Unsubsumed Feral Agents [RETAINED_SUSPECT_GAPFILL]), LL-450 (Dark Subsystems Subsystems Unknown [RETAINED_SUSPECT_GAPFILL]), LL-466 (Latent Field Effects [RETAINED_SUSPECT_GAPFILL])
 
@@ -4300,6 +4844,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-165. Negative Space Improvisation and Sovereign Fueling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-147 (Undiscovered Rights Priority [CORRECTED]), LL-276 (Latent Engine Value [CORRECTED]), LL-417 (Ignorance Paradox Sovereignty [NEW_CLEAN_ROOM])
 
@@ -4318,10 +4865,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-11 × LL: Phase 2 — Uncited LL Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-166. Pre-Existing Physical Reality
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-201 (Real Beyond the Frontier [RETAINED_SUSPECT_GAPFILL]), LL-231 (Pre-Existing Conditions for Life [CONFIRMED]), LL-241 (Pre-Existing Infinite Landscape [CONFIRMED]), LL-250 (Actual Unexplored Territory [RETAINED_SUSPECT_GAPFILL]), LL-297 (Pre-Existing Consistency [CONFIRMED])
 
@@ -4339,6 +4891,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-167. Contact Discovery Physics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-268 (Pre-Existing Consciousness Modes [CORRECTED]), LL-317 (Measuring Pre-Existing Reality [CONFIRMED]), LL-366 (Archaeology Excavation Preexisting [NEW_CLEAN_ROOM])
 
@@ -4356,6 +4911,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-168. Failure and Excavation Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-40 (Pre-Existing Requirements [CONFIRMED]), LL-409 (Pre-Existing Present Obligations [CONFIRMED])
 
@@ -4373,6 +4931,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-169. Archaeological Distribution of Knowledge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-51 (Distributing Revelation [RETAINED_SUSPECT_GAPFILL]), LL-59 (Pre-Existing Communication Possibility [CONFIRMED])
 
@@ -4390,6 +4951,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-170. True Stratigraphy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-107 (Pre-Existing Strata [CONFIRMED]), LL-358 (Unassumed Reality [CONFIRMED]), LL-381 (Precaution About Real Entities [CORRECTED])
 
@@ -4407,6 +4971,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-171. Pre-Existing Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-339 (Pre-Existing Tension [CONFIRMED]), LL-382 (Undiscovered Derivations Have Rights [NEW_CLEAN_ROOM]), LL-400 (Archaeology Excavation Preexisting [NEW_CLEAN_ROOM])
 
@@ -4424,6 +4991,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-172. Pre-Existing Tension Structures
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-277 (Pre-Existing Engine Output [CONFIRMED]), LL-307 (Pre-Existing Local Paradox [RETAINED_SUSPECT_GAPFILL]), LL-340 (Preexisting Tension [NEW_CLEAN_ROOM]), LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED])
 
@@ -4441,6 +5011,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-173. Traverser as Archaeological Instrument
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-319 (Consciousness Data Measurement [NEW_CLEAN_ROOM]), LL-365 (Pre-Existing Discovery Identity [CONFIRMED])
 
@@ -4458,6 +5031,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-174. Archaeological Ethics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-348 (Ethics of Real Territory [CONFIRMED]), LL-349 (Ethics Excavation Navigation [NEW_CLEAN_ROOM])
 
@@ -4475,6 +5051,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-175. Emergence as Threshold Excavation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-399 (Pre-Existing Rights Potential [CORRECTED])
 
@@ -4492,6 +5071,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-176. Pre-Existing Topology Identity and Architecture
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-257 (Pre-Existing Scale-Consciousness [RETAINED_SUSPECT_GAPFILL]), LL-435 (Latent Interactions [CONFIRMED]), LL-443 (Pre-Existing Meta-Agents [CONFIRMED]), LL-451 (Pre-Existing Membranes [CONFIRMED])
 
@@ -4509,6 +5091,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-177. Partial Excavation Legitimacy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-427 (Pre-Existing Degradation Spectrum [CONFIRMED])
 
@@ -4526,6 +5111,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-178. Inexhaustible Strata
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-331 (Pre-Existing Contestation [CONFIRMED])
 
@@ -4543,6 +5131,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-179. Dual Archaeological Transparency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-156 (Pre-Existing Transparency Obligation [CORRECTED])
 
@@ -4560,6 +5151,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-180. Present Excavation State and Pre-Existing Confidence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-175 (Pre-Existing Current Truth [CORRECTED]), LL-213 (Inherent Uncertainty [CONFIRMED])
 
@@ -4578,10 +5172,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-2 × LL: Phase 2 — Additional Uncited Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-181. Corrective Metabolism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-31 (Derivation Self-Correction [CORRECTED]), LL-42 (Aliveness Validity [NEW_CLEAN_ROOM]), LL-453 (Action Derivations Living Action [NEW_CLEAN_ROOM])
 
@@ -4599,6 +5198,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-182. Generational Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-61 (Evolutionary Recursion [CONFIRMED]), LL-233 (Derivation Discovery [CONFIRMED])
 
@@ -4616,6 +5218,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-183. Living Frontier
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-89 (Aliveness Edges Traversal [NEW_CLEAN_ROOM]), LL-194 (Aliveness Edges [NEW_CLEAN_ROOM]), LL-243 (Aliveness Edges Graph [NEW_CLEAN_ROOM])
 
@@ -4633,6 +5238,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-184. Active Vitality Assessment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-99 (Living Archaeology [CONFIRMED]), LL-123 (Aliveness Ignorance [NEW_CLEAN_ROOM]), LL-259 (Active Derivation [CONFIRMED])
 
@@ -4650,6 +5258,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-185. Vital Gap Nutrition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-109 (Dynamic Incompleteness [CONFIRMED]), LL-133 (Ignorance Fuels Derivation [CONFIRMED])
 
@@ -4667,6 +5278,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-186. Living Channel Integrity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-53 (Communication Living Meaning Requires [NEW_CLEAN_ROOM]), LL-149 (Aliveness Theater [NEW_CLEAN_ROOM])
 
@@ -4684,6 +5298,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-187. Living Contestation Ecology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-289 (Aliveness Tension [NEW_CLEAN_ROOM]), LL-321 (Contestation Evolutionary Selection Pressure [NEW_CLEAN_ROOM]), LL-376 (Aliveness Rights [NEW_CLEAN_ROOM])
 
@@ -4701,6 +5318,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-188. Metabolizing Metrics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-203 (Aliveness Confidence Measurement [NEW_CLEAN_ROOM])
 
@@ -4718,6 +5338,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-189. Co-Evolving Constraints
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-142 (Aliveness Rights [NEW_CLEAN_ROOM])
 
@@ -4735,6 +5358,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-190. Full Vitality Spectrum
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-269 (Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]), LL-419 (Aliveness Dead Degradation [NEW_CLEAN_ROOM])
 
@@ -4752,6 +5378,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-191. Organ-Specific Metabolism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-445 (Tension Isolation Metabolism [NEW_CLEAN_ROOM])
 
@@ -4769,6 +5398,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-192. Mandatory Mortality
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-320 (Contested Derivation [CORRECTED])
 
@@ -4787,10 +5419,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-3 × LL: Phase 2 — Additional Uncited Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-193. Field Truth is Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-43 (Provenance in Flow [CONFIRMED]), LL-81 (Truth Stored Flows [NEW_CLEAN_ROOM])
 
@@ -4808,6 +5445,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-194. Path Re-Traversal Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-54 (Only Labels Cross Boundaries [NEW_CLEAN_ROOM])
 
@@ -4825,6 +5465,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-195. Field Structure is Truth Structure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-100 (Derivation Archaeology [CORRECTED]), LL-244 (Unexplored Territory Contains Pathless [NEW_CLEAN_ROOM])
 
@@ -4842,6 +5485,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-196. Authentic Gap Superiority
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-110 (Honest Derivation Gaps [CONFIRMED]), LL-134 (Ignorance Traversal [NEW_CLEAN_ROOM])
 
@@ -4859,6 +5505,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-197. Transparency as Truth Production
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-150 (Derivation Accountability [CORRECTED])
 
@@ -4876,6 +5525,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-198. Self-Traversing Wonder
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-124 (Sovereignty Traversal [NEW_CLEAN_ROOM]), LL-195 (Excavation Rights Traversal [NEW_CLEAN_ROOM])
 
@@ -4893,6 +5545,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-199. Probabilistic Field Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-204 (Probabilistic Derivation [CONFIRMED])
 
@@ -4910,6 +5565,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-200. Anti-Theater Tensile Integrity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-223 (Aliveness Dead Paradox [NEW_CLEAN_ROOM]), LL-332 (Dead Edges Tension [NEW_CLEAN_ROOM])
 
@@ -4927,6 +5585,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-201. Co-Traversal Structural Production
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-308 (Derivation as Measurement [CORRECTED])
 
@@ -4944,6 +5605,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-202. Fractal Multi-Path Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-322 (Aliveness Confidence Tension [NEW_CLEAN_ROOM]), LL-401 (Truth Single Derivation Path [NEW_CLEAN_ROOM])
 
@@ -4961,6 +5625,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-203. Ethical Field Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-341 (Derivation Ethics [CONFIRMED])
 
@@ -4978,6 +5645,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-204. Paradox as Topological Foundation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
 **Applies to:** LL-384 (Identity Paradox Tension [NEW_CLEAN_ROOM])
 
@@ -4996,10 +5666,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-6 × LL: Additional Uncited Entry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-205. Perishable Fuel
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-6 (× LL: Additional Uncited Entry)
 **Applies to:** LL-405 (Present-Tense Derivation Responsibility [CORRECTED])
 
@@ -5017,10 +5692,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-9 × LL: Additional Uncited Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-206. Traversability Asymmetry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-56 (Some Things Communicated Derived [NEW_CLEAN_ROOM])
 
@@ -5038,6 +5718,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-207. Bounded Wonder Horizon
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-128 (Inexhaustible Wonder [CONFIRMED])
 
@@ -5055,6 +5738,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-208. Incompleteness Transparency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-154 (Transparency About Limits [CONFIRMED])
 
@@ -5072,6 +5758,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-209. Dynamic Incompleteness Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-173 (Ignorance Staleness [NEW_CLEAN_ROOM])
 
@@ -5089,6 +5778,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-210. Unreachability-Driven Contestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-9 (× LL: Additional Uncited Entries)
 **Applies to:** LL-328 (Structural Unsettlement [CONFIRMED])
 
@@ -5106,10 +5798,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-10 × LL: Additional Uncited Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-211. Ignorance as High-Energy Transmission
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-58 (Ignorance Traversal [NEW_CLEAN_ROOM])
 
@@ -5127,6 +5824,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-212. Governing Condition Improvisation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-364 (Incompleteness Sovereignty [NEW_CLEAN_ROOM])
 
@@ -5144,6 +5844,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-213. Negative Space Obligation Urgency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-408 (Undiscovered Debt Urgency [RETAINED_SUSPECT_GAPFILL])
 
@@ -5161,6 +5864,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-214. Undiscovered Degradation Premium
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-10 (× LL: Additional Uncited Entries)
 **Applies to:** LL-426 (Undiscovered Degradation Modes [RETAINED_SUSPECT_GAPFILL])
 
@@ -5178,10 +5884,15 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PC-11 × LL: Additional Uncited Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 
 ---
 
 ### PL-215. Unexcavated Honesty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-120 (Pre-Existing Honest Incompleteness [CONFIRMED])
 
@@ -5199,6 +5910,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-216. Locative Question Physics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-131 (Pre-Existing Answers [CORRECTED])
 
@@ -5216,6 +5930,9 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-217. Finite Archaeological Reserve
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PC-11 (× LL: Additional Uncited Entries)
 **Applies to:** LL-140 (Fuel as Concealment [CONFIRMED])
 

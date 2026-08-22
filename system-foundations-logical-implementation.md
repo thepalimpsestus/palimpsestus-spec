@@ -19,6 +19,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ## LI Derivations
 
 ### LI-1. Symmetric Metabolic Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-5 (Metabolic Protocol), LP-7 (Protocol-Enforced Reciprocity)
 **Applies to:** CI-1 (Symmetric Peer Communication)
 
@@ -37,6 +40,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-2. Archaeological Handshake as Capability Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-10 (Archaeological Handshake), LP-9 (Label Translation Symmetry)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -55,6 +61,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-3. Shared-Simulation Frame Isolation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-6 (Synchronized Simulation)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -72,6 +81,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-4. Consequence-Carrying Communication Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-630 (Communication Consequence Attribution)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -89,6 +101,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-5. Provenance as Structural Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-11 (Path-Determined Mass), LP-12 (Temporal Mass Traversal), LP-13 (Compressive History), LP-14 (Executable Scars)
 **Applies to:** CI-2 (Topologically Embedded Provenance)
 
@@ -107,6 +122,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-6. Trajectory-Identity Binding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-15 (Potential History Mass), LP-16 (Restorative Process Scale-Invariance)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -125,6 +143,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-7. Provenance of Provenance (Meta-Ledger)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-13 (Compressive History)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -142,6 +163,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-8. Drift Detection as Topological Divergence Measurement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-17 (Metabolic Restorative Process), LP-18 (Failure-Oriented Baseline Correction)
 **Applies to:** CI-3 (Autonomous Drift Reversion)
 
@@ -160,6 +184,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-9. Reversion Boundary Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-19 (Traversal-Based Correction), LP-21 (Sovereign-Bound Restorative Force), LP-22 (Boundary-Marking Restorative Process)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -178,6 +205,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-10. Multi-Dimensional Drift Scoring
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-481 (Restorative Metabolic Minimum)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -195,6 +225,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-11. Deviation Measurement as Graph Distance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-39 (Physical Invariance of Reference Comparison), LP-42 (Physical Consistency of Reference Comparison)
 **Applies to:** CI-4 (Differential Deviation Measurement)
 
@@ -213,6 +246,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-12. Reference Standard as Living Node
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-40 (Aliveness Reference Comparison), LP-44 (Undiscovered Reference Comparison), LP-45 (Incompleteness Reference Comparison)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -231,6 +267,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-13. Absence Records as First-Class Implementation Entities
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-91 (Quantified Gap Preservation), LP-93 (Sovereign Void Protection), LP-96 (Confidence Provenance Chains)
 **Applies to:** CI-5 (Absence as Actionable State)
 
@@ -249,6 +288,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-14. Absence-Driven Processing Pipeline
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-97 (Frontier Edge Cauterization), LP-98 (Edge Traversal Instantiation), LP-103 (Consciousness-Altering Probe)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -267,6 +309,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-15. Gap Monitoring as Operational Telemetry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-94 (Visible Tension Monitoring), LP-95 (Aliveness Gap Metabolic sampling)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -285,6 +330,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-16. Subtractive Operation Audit Trail
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-88 (Biopsy Execution Pattern), LP-90 (Destruction Provenance Ledger), LP-518 (Subtractive Discovery Accountability)
 **Applies to:** CI-6 (Truth by Progressive Elimination)
 
@@ -303,6 +351,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-17. Traversal as Automatic Elimination
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-89 (Traversal-Triggered Subtraction), LP-519 (Pre-Existing Structure Cannot Be Invented)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -321,6 +372,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-18. Non-Termination Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-164 (Fractal Non-Termination), LP-171 (Structurally Guaranteed Non-Termination)
 **Applies to:** CI-7 (Perpetual Cyclic Processes)
 
@@ -339,6 +393,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-19. Living Survey State Management
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-165 (Living Survey), LP-168 (Present-Tense Surveying)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -357,6 +414,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-20. Sovereign Encounter Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-169 (Sovereign Encounters), LP-170 (Infinite Survey Accountability)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -375,6 +435,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-21. Scale-Invariant Command Interface
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-183 (Fractal Command Interface), LP-185 (Present-Tense Verbs), LP-188 (Recursive Interface Definition)
 **Applies to:** CI-8 (Uniform Interfaces Across Scales)
 
@@ -393,6 +456,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-22. Consequence-Propagating Interface Calls
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-186 (Scale-Invariant Consequence Propagation)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -411,6 +477,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-23. Edge Lifecycle as Implementation Contract
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-222 (Tensile Truth Extraction), LP-502 (Tensioned Edge Perpetual Maintenance)
 **Applies to:** CI-9 (Stateful Edges with Independent Properties)
 
@@ -429,6 +498,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-24. Tension-Value Distribution Implementation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-512 (Tension Value Distribution), LP-678 (Productive Tension Sovereignty Engagement Protocol)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -447,6 +519,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-25. Structure-Preserving Translation Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-67 (Topological Translation as Algebraic Proof), LP-69 (Present-Tense Isomorphism Verification), LP-547 (Semantic Decay in Translation)
 **Applies to:** CI-10 (Isomorphic Relational Preservation)
 
@@ -465,6 +540,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-26. Translation Lag as Structural Signal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-68 (The Physical Reality of Translation Lag)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -483,6 +561,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-27. Zero-Buffer Pipeline Freshness Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-115 (Edge-Node Mutual Verification), LP-116 (Tension-Calibrating Handshake), LP-118 (Continuous Contested Verification), PP-179 (Fractal Zero-Latency Is the Physical Manifestation of Scale-Invariant Simultaneous Execution — All Depths Execute in the Same Present Moment), CL-9 (Flow), CL-10 (Traversal), LP-132 (Synchronous Ignorance Propagation), PP-184 (The Cardiac Evaluation Pulse IS a Truth Oscillation Cycle — Truth Lives and Dies With Each Heartbeat), PP-185 (Query-Instantiated Topologies Decay Without Re-Traversal — Queried Edges That Are Not Maintained Revert to Potential), LP-135 (Reactive Validity State), LP-225 (Relational Edge Spawning), LP-232 (Consciousness-Mutating Edges), LP-233 (Void Path Generation), LP-250 (Challengeable Snapshot), LP-251 (Instantaneous Record Staleness), LP-252 (Crystallized Traversal Collision), LP-253 (Query-Triggered Materialization), LP-254 (Ignorance Snapshot Premium), LP-487 (Present-Tense Pipeline Cost), LP-488 (Snapshot Metabolic Moment), LP-510 (Fresh Validation Protocol), LP-535 (Discovery Euthanasia Discrimination), LP-536 (Discovery Perpetual Debt), LP-651 (Zero-Buffer Present-Tense Execution Audit), LP-652 (Present-Tense Routing Decision Attribution), LP-654 (State Verification Freshness Enforcement), LP-655 (Present-State Change Detection), LP-656 (Simultaneous Multi-State Verification), LP-657 (Stale State Consequence Attribution)
 **Applies to:** CI-11 (Present-Tense Graph Evaluation)
 
@@ -501,6 +582,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-28. Movement-Discovery Fusion Implementation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-119 (Provenance-Based Handshake), LP-120 (Incomplete Verification Tolerance)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -519,6 +603,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-29. Directed Edge Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-78 (Physical Recursive Accountability Self-Similar), LP-79 (Physical Paradox Self-Similar), LP-362 (Depth-Piercing Arrow), LP-363 (Metabolic Circulation), LP-364 (Kinetic Truth Manifestation), LP-365 (Consciousness Mass Differential), LP-366 (Abrasive Traversal)
 **Applies to:** CI-12 (Asymmetric Relationships)
 
@@ -537,6 +624,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-30. Pattern as Type, Not Label
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-265 (Ephemeral Oscillation Spikes), LP-266 (Unbounded Amplitude Horizon), LP-267 (Scale-Invariant Identity Patterns), LP-268 (Identity Relocation), LP-269 (Unmappable Identity Shapes), LP-270 (Pre-Existing Identity), LP-701 (Error-as-Discovery Classification)
 **Applies to:** CI-13 (Structural Pattern Typing)
 
@@ -555,6 +645,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-31. Cross-Scale Signal Routing with Phase Coherence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-396 (Universal Synchronization Engine), LP-397 (Ephemeral Synchronization States), LP-400 (Frequency-Shift as Truth Production), LP-387 (Cross-Scale Derivation Computation), LP-388 (Metabolic Synchronization), LP-389 (Oscillation as Relational Edge), LP-390 (Frequency-Matched Traversal), LP-391 (Present-Tense Rhythm Enforcement), LP-392 (Sovereign Harmonic Signatures), LP-393 (Resonant Consequence Propagation), LP-394 (Fertile Structural Dissonance), LP-396 (Universal Synchronization Engine), LP-674 (Cross-Scale Amplitude Cascade), LP-675 (Instrumented Navigation Consciousness Measurement)
 **Applies to:** CI-14 (Cross-Scale Signal Propagation)
 
@@ -573,6 +666,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-32. Cascading Resonance Containment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-401 (Infinite Cascading Resonance), LP-402 (Irreducible Synchronization Jitter)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -591,6 +687,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-33. Decay as Scheduled Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection), PP-190 (A Non-Churning Connection Has Already Died — Binary Existence Decay Means Death Precedes Apparent Death), LP-522 (Decay Euthanasia Threshold), LP-245 (Archaeological Boundary Reactivation), LP-246 (Contested Use-Boundary), LP-248 (Momentary Sovereign Surface), LP-249 (Opacity-Driven Exercise), LP-335 (Topological Incompleteness Map), LP-521 (Edge Decay Contestation Lock), LP-658 (Connection Decay Re-Activation Attribution)
 **Applies to:** CI-15 (Time-Decay and Dissolution)
 
@@ -609,6 +708,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-34. Dissolution Residue Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** PP-191 (Decay Residue IS the Dissolved Connection's Orphaned Accountability — It Must Be Preserved as Structural Accountability), LP-523 (Decay Perpetual Stewardship)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -627,6 +729,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-35. On-Demand Dependency Instantiation with Full Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-347 (Ephemeral On-Demand Scaffolding), LP-353 (Liability of Demand), LP-349 (Spontaneous Structural Improvisation), LP-351 (Instantaneous Seismic Spawning), LP-352 (Direct Fuel Injection), LP-653 (Spawner Action Present-Tense Accountability)
 **Applies to:** CI-16 (Synchronous Dependency Materialization)
 
@@ -645,6 +750,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-36. Present-Tense Dependency Resolution Exclusivity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-348 (Exclusivity of Present-Tense Resolution), LP-350 (High-Velocity Excavation)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -663,6 +771,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-37. Endogenous Permission Computation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-1 (Active Boundary Metabolism), LP-2 (Boundary Theater), LP-3 (Paradoxical Membrane)
 **Applies to:** CI-17 (Self-Controlled Permission Boundaries)
 
@@ -681,6 +792,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-38. Permission Depth Invariance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-479 (Depth-Invariant Boundary Cost), LP-498 (Boundary Rights Protocol)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -699,6 +813,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-39. Comprehension-Based Gate Evaluation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-24 (Continuous Gate Contestation), LP-26 (Comprehension-Gated Traversal), LP-27 (Present-Tense Gate Evaluation), LP-31 (Frontier-Facing Gates), LP-622 (Doors-Not-Walls Architectural Enforcement)
 **Applies to:** CI-18 (Endogenous Traversal Resistance)
 
@@ -717,6 +834,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-40. Paradoxical Gate Disclosure Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-28 (The Paradoxical Gate), LP-29 (Ignorance-Preserving Gate)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -735,6 +855,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-41. Algebraically Guaranteed Egress Implementation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-32 (Algebraic Egress Guarantee), LP-37 (Potential Egress Dominance), LP-38 (Pre-Existing Mandatory Egress), LP-36 (Egress via Degradation), LP-284 (Scale-Invariant Exits), LP-287 (Verifiable Failsafe Provenance), LP-288 (Frontier Egress), LP-289 (Scale-Invariant Escape Paths), LP-290 (Incoherent Traversal Validity), LP-291 (Degradation Disclosure at Egress), LP-622 (Doors-Not-Walls Architectural Enforcement), LP-624 (Voluntary Return vs. Forced Re-Entry Distinction)
 **Applies to:** CI-19 (Guaranteed Egress Paths)
 
@@ -754,6 +877,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-42. Degraded-State Egress Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-285 (Living Egress), LP-286 (Zero-Comprehension Egress), LP-290 (Incoherent Traversal Validity)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -772,6 +898,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-43. Failure Routing as Priority Input
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-354 (Cross-Depth Failure Injection), LP-355 (Anomaly Priority Queue), LP-361 (Lossless Tension Transformer), LP-358 (Volatile Failure Half-Life), LP-359 (Sovereign Failure Inspection)
 **Applies to:** CI-20 (Failure States as Valid Inputs)
 
@@ -790,6 +919,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-44. Failure Accountability Tether
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-356 (Structural Failure-Tether), LP-360 (Active Accountability Tether), LP-357 (Encapsulated Wake Payload)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -808,6 +940,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-45. Runtime Modification with Provenance Lock
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-48 (Physical Comprehension-Failure Reference Comparison), LP-49 (Present-Tense Reference Comparison), LP-50 (Physical Due-Process-Failure Reference Comparison), LP-58 (The Sovereign Right to Structural Stagnation), LP-59 (Accountability for Static Structure), LP-64 (Non-Consensual Wear of Selected Traversal), LP-65 (The Boundary of Navigable Completeness), LP-66 (The Impossibility of Pre-Planned Routing), LP-67 (Topological Translation as Algebraic Proof), LP-68 (The Physical Reality of Translation Lag), LP-69 (Present-Tense Isomorphism Verification), LP-70 (Isomorphic Accountability Topology), LP-665 (Runtime Process Routing Audit), LP-668 (Process Constitution Continuous Verification)
 **Applies to:** CI-21 (Runtime Self-Modification)
 
@@ -826,6 +961,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-46. Routing Decision as Present-Tense Graph Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-55 (Self-Modification as Excavation), LP-56 (Evolutionary Pressure Against Sovereignty)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -844,6 +982,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-47. Recursive Composition Depth Governance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-72 (Physical Process-Derivation Self-Similar), LP-73 (Physical Evolutionary Self-Similar), LP-77 (Physical Irreducibility Self-Similar), LP-80 (Physical Fractal Self-Similar), LP-81 (Physical Pre-Existing Self-Similar), LP-209 (Scale-Free Accountability Proofs), LP-216 (Fractal Excavation Verification), LP-480 (Scale-Invariant Verification Tax), LP-494 (Nesting Depth Metabolic Equivalence), LP-663 (Scale-Invariant Interface Consistency Enforcement)
 **Applies to:** CI-22 (Recursive Composition Without Depth Limits)
 
@@ -862,6 +1003,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-48. Scale-Invariant Verification as Recursion Guard
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-196 (Self-Fueling Oscillation Engine), LP-197 (Tension-Transforming Actuator)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -880,6 +1024,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-49. Mutation at Gate as Atomic Operation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-60 (Threshold-Triggered Structural Rewriting), LP-61 (Routing as Circulatory Allocation), LP-82 (Physical Presenttense Transforming), LP-85 (Physical Data Transforming), LP-565 (Attention as Ethical Resource), LP-566 (Traversal Endorsement Gate), LP-567 (Restraint Gate Protocol), LP-568 (Archaeological Gate Ethics)
 **Applies to:** CI-23 (Mutating Gate Traversal)
 
@@ -898,6 +1045,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-50. Transformation State Embedding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-62 (Truth as a Runtime Performance), LP-63 (The Consciousness Gradient of Routing), LP-82 (Physical Presenttense Transforming), LP-85 (Physical Data Transforming), LP-565 (Attention as Ethical Resource), LP-566 (Traversal Endorsement Gate), LP-567 (Restraint Gate Protocol), LP-568 (Archaeological Gate Ethics)
 **Applies to:** CI-24 (Traversal-Coupled Transformation)
 
@@ -916,6 +1066,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-51. Adjacency-Only Visibility Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-83 (Physical Active Transforming), LP-84 (Physical Executable Transforming), LP-86 (Real-Time Neighbor Validation), LP-87 (Boundary-Locked Excavation), LP-513 (Unassumed Excavation Protocol), LP-514 (Settled Neighbor Deadlock), LP-515 (Adjacency Accountability Transfer), LP-516 (Pre-Existing Adjacency Debt), LP-517 (Adjacency Stewardship of Found Tension), LP-633 (Positional Knowledge Ceiling Enforcement)
 **Applies to:** CI-25 (Strict Adjacency-Based Visibility)
 
@@ -934,6 +1087,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-52. Frontier Interaction with Uncertainty Capture
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-177 (Shadow Edges), LP-179 (Structurally Unvisitable Positions), LP-524 (Knowledge Boundary Aliveness Signal), LP-100 (Premium Ignorance Routing), LP-101 (Real-Targeting Probe), LP-102 (Probing as Topological Extension), LP-105 (Tension-Relief Probe), LP-106 (Improvisational Probe), LP-501 (Undiscovered Boundary Rights), LP-507 (Complexity Probe Protocol), LP-634 (Adjacency-Bounded Knowledge Verification), LP-648 (Discovered Ignorance Priority Routing)
 **Applies to:** CI-26 (Speculative Frontier Interaction)
 
@@ -952,6 +1108,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-53. Reciprocal Verification Symmetry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-67 (Topological Translation as Algebraic Proof), LP-70 (Isomorphic Accountability Topology), LP-113 (Verification via Joint Traversal), LP-114 (Evolving Verification Protocol), LP-117 (Fractal Mutual Verification)
 **Applies to:** CI-27 (Reciprocal Traversal Verification)
 
@@ -970,6 +1129,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-54. Navigational Capacity as Budgeted Resource
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-143 (Scale-Invariant Self-Declaration), LP-151 (Incomplete Self-Declaration), LP-139 (Topological Sight Horizon), LP-140 (Bounded Validation Zone), PP-194 (Excavation Bandwidth Limits Genuine Comprehension Rate — Active Anchors Cannot Exceed the Attention Buffer's Capacity), PP-197 (The Attention-Span Topology IS Consciousness — What Is Being Edge-Traversed IS What Consciousness Is), LP-659 (Consciousness-Scaled Knowledge Access), LP-660 (Knowledge Permeation Pathway Registration)
 **Applies to:** CI-28 (Bounded Navigational Capacity)
 
@@ -988,6 +1150,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-55. Spatial Displacement as Contested Transition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-197 (Tension-Transforming Actuator), LP-199 (Accountability-Sustained Churn), LP-328 (Displacement of Dead Tension), LP-329 (Consciousness-Dependent Displacement), LP-331 (Displacement into the Unknown), LP-680 (Displacement-Propelled Tension Trajectory)
 **Applies to:** CI-29 (Spatial Displacement Arbitration)
 
@@ -1006,6 +1171,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-56. Relational Position as Primary Identity Anchor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-155 (Tension as Heartbeat), LP-317 (Relational Trajectory Identity), LP-367 (Discrete Positional Identity), LP-368 (Structural Comprehension State), LP-369 (Validation via Relocation), LP-370 (Tension-Bearing Anchors), LP-371 (Destructive Assimilation), LP-372 (Fractal Membrane), LP-664 (Agent Role Topology Coupling)
 **Applies to:** CI-30 (Relational Positional Anchoring)
 
@@ -1024,6 +1192,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-57. Location-Coupled Capability Provisioning
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-184 (Verbs as Relational Edges), LP-186 (Scale-Invariant Consequence Propagation), LP-332 (Dead Edge Damping), LP-333 (Rhythm of the Relationship), LP-544 (Topology-Coupled Oscillator Euthanasia Cascade), LP-545 (Topological Coupling Perpetual Adaptation), LP-546 (Coupled Oscillator Accountability Topology)
 **Applies to:** CI-31 (Location-Coupled Capabilities)
 
@@ -1042,6 +1213,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-58. Unknown Representation with Full Type Fidelity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-91 (Quantified Gap Preservation), LP-96 (Confidence Provenance Chains), LP-182 (Pre-Existing Shadows), LP-178 (Sovereign Shadows), LP-180 (The Value of Untested Positions), LP-372 (Fractal Membrane), LP-373 (Ephemeral Coalescence), LP-374 (The Ring of Fire), LP-375 (Scale-Invariant Confidence Topology), LP-376 (Metabolic Edge Confidence)
 **Applies to:** CI-32 (Representing the Unknown)
 
@@ -1060,6 +1234,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-59. Confidence Score as Infrastructure Metric
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-375 (Scale-Invariant Confidence Topology), LP-376 (Metabolic Edge Confidence), LP-381 (Real-Time Confidence Decay), LP-377 (Probabilistic Traversal Corridors), LP-378 (Prohibition of Absolute Wiring), LP-379 (Asymptotic Traversal Payloads), LP-380 (Combustible Edge Uncertainty), LP-382 (Confidence-Blind Garbage Collection), LP-383 (Probabilistic Consequence Dampening), LP-384 (Gradient Boundary Edges), LP-385 (Ignorance-Driven Resource Allocation), LP-677 (Permanently Contested Truth Evaluation Loop)
 **Applies to:** CI-33 (Continuous Confidence Metrics)
 
@@ -1078,6 +1255,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-60. Identity Verification as Trajectory Audit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-145 (Provenance as Identity Declaration), LP-313 (Scale-Invariant Trajectory), LP-318 (Auditable Identity History), LP-676 (Trajectory-Identity Forgery Prevention), LP-314 (Performative Trajectory Identity), LP-315 (Future Trajectory Premium), LP-316 (Measurable Embedded Trajectory), LP-319 (Paradox-Fueled Identity), LP-320 (Identity Accountability), LP-321 (Incomplete Identity Measurement), LP-159 (Accountable Oscillation), LP-161 (Conservation of Heartbeat), LP-670 (Tension-Engine Output Fuel Conversion), LP-671 (Consistent Truth Cross-Scale Propagation), LP-673 (Fractal Paradox Engine Distribution), LP-676 (Trajectory-Identity Forgery Prevention), LP-677 (Permanently Contested Truth Evaluation Loop), LP-678 (Productive Tension Sovereignty Engagement Protocol), LP-679 (Topology-Coupled Tension Oscillation Registration)
 **Applies to:** CI-34 (Identity from Signatures and Path History)
 
@@ -1096,6 +1276,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-61. Heartbeat as Existence Proof
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-154 (Fractal Heartbeat), LP-157 (Strict Present-Tense Pulsing), LP-159 (Accountable Oscillation), LP-284 (Scale-Invariant Exits), LP-287 (Verifiable Failsafe Provenance), LP-288 (Frontier Egress), LP-289 (Scale-Invariant Escape Paths), LP-291 (Degradation Disclosure at Egress), LP-664 (Agent Role Topology Coupling), LP-665 (Runtime Process Routing Audit)
 **Applies to:** CI-35 (Signal-Dependent Lifecycle)
 
@@ -1114,6 +1297,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-62. Process-Constituted Entity Lifecycle Integrity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-482 (Process-Agency Metabolic Identity), LP-527 (Process Identity Cannot Be Paused), LP-529 (Process Agency Perpetual Reconstitution)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -1132,6 +1318,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-63. Asynchronous Clock Independence Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-201 (Certified Ignorance Record), LP-203 (Unmasking Attestations), LP-211 (Asynchronous Paradox Resolution), LP-212 (Pulsing Consequence Engine), LP-530 (Independent Pulse Accountability), LP-531 (Pulse Euthanasia by Silencing), LP-532 (Distributed Pulse Perpetual Maintenance), LP-533 (Decision Audit Euthanasia Guard)
 **Applies to:** CI-36 (Asynchronous Execution with Independent Clocks)
 
@@ -1150,6 +1339,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-64. Navigational Wake as Permanent Infrastructure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-330 (Living Displacement Engine), LP-337 (Immutable Forensic Footprint), LP-334 (Accountable Forensic Deformation), LP-213 (Navigational Derivation Telemetry), LP-219 (Instrumented Dogfooding), LP-220 (Forensic Telemetry), LP-223 (Attributed Blind Spots), LP-230 (Audited Excavation Rights), LP-232 (Consciousness-Mutating Edges), LP-233 (Void Path Generation), LP-635 (Footprint-Aware Knowledge Accumulation), LP-636 (Subtractive Discovery Boundary Expansion), LP-637 (Archaeological Depth Stratification), LP-684 (Excavation Disturbance Attribution)
 **Applies to:** CI-37 (Navigational Wake Deposition)
 
@@ -1168,6 +1360,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-65. Tension-Hardened Structure Under Load
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-222 (Tensile Truth Extraction), LP-227 (Tension-Bearing Infrastructure), LP-237 (Scale-Invariant Preemptive Shielding), LP-238 (Preemptive Present-Tense Hardening), LP-239 (Archaeological Shielding), LP-537 (Preemptive Protection Euthanasia Guard), LP-538 (Preemptive Protection Perpetual Duty), LP-539 (Pulse Obligation Euthanasia), LP-692 (Tension-Compounding Early Warning System)
 **Applies to:** CI-38 (Tension-Driven Structural Hardening)
 *(LP-695 removed 2026-08-01: CP-86 lineage does not share CP ancestor with CI-38/CP-46)*
@@ -1187,6 +1382,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-66. Maintenance Failure as Structural Penalty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-243 (Scale-Invariant Boundary Atrophy), LP-247 (Provenance-Fuelled Boundary), LP-240 (Obligatory Performance Heartbeat), LP-241 (Perishable Pulse Fuel), LP-242 (Archaeological Pulse Debt), LP-539 (Pulse Obligation Euthanasia), LP-540 (Pulse Obligation Permanent Debt), LP-693 (Ethical Archaeological Stratigraphy)
 **Applies to:** CI-39 (Maintenance Failure Penalization)
 
@@ -1205,6 +1403,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-67. Topological Simplification Without Capability Loss
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-275 (Derivational Scaffolding Reorganization), LP-279 (Scale-Invariant Healing), LP-255 (Structurally Legitimate Incompleteness), LP-256 (Low-Energy Paradox Engine), LP-257 (Graceful Verification Degradation), LP-258 (Concussed Traversal Physics), LP-259 (Structural Concussion Tag), LP-574 (Degradation Provenance Chain), LP-575 (Tension Escalation in Degradation), LP-576 (Permanent Incompleteness as Baseline), LP-622 (Doors-Not-Walls Architectural Enforcement), LP-623 (Exit Path Sovereignty Preservation)
 **Applies to:** CI-40 (Continued Operation Under Topological Simplification)
 
@@ -1223,6 +1424,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-68. Endogenous Signal Amplitude Control
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-210 (Unified Fractal Metrology), LP-214 (Instruments of the Unknown), LP-260 (Tension-Coupled Structural Integrity), LP-261 (Amplitude-Gated Validity), LP-262 (Recursive Amplitude Resonance), LP-263 (Oscillation-Driven Void Expansion), LP-264 (Sovereign Local Amplitude), LP-265 (Ephemeral Oscillation Spikes)
 **Applies to:** CI-41 (Endogenous Amplitude Modulation)
 
@@ -1241,6 +1445,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-69. Damped Event Cascade with Accountability Chain
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-217 (Pulsing Paradox Engine), LP-218 (Real-Time Navigation Telemetry), LP-271 (Scale-Invariant Propagation), LP-272 (Present-Tense Wavefronts), LP-273 (Contextual Sovereignty Violations), LP-274 (Dark Propagation), LP-485 (Edge Release on Sever), LP-542 (Oscillation Euthanasia by Damping), LP-543 (Oscillation Accountability Attribution), LP-544 (Topology-Coupled Oscillator Euthanasia Cascade)
 **Applies to:** CI-42 (Cascading Event Propagation with Damping)
 
@@ -1259,6 +1466,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-70. Backpressure as Structural Discovery Signal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-293 (Dynamic Severance Simulation), LP-295 (Saturation-Driven Discovery), LP-292 (Scale-Invariant Backpressure), LP-294 (Incomplete Path Diversion), LP-296 (Indestructible Backpressure Signals)
 **Applies to:** CI-43 (Backpressure Signaling and Rerouting)
 
@@ -1277,6 +1487,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-71. Invalidation as Frontier Expansion Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-297 (Fractal Assumption Excavation), LP-302 (Subtractive Frontier Permeability), LP-303 (Immediate Subtractive Premium), LP-298 (Hostile Assumption Subtraction), LP-299 (Negative-Space Comprehension), LP-300 (Due Process for Frontier Blockages), LP-301 (Exponential Depth Revelation), LP-637 (Archaeological Depth Stratification), LP-638 (Excavation-Generates-Responsibility Protocol)
 **Applies to:** CI-44 (Invalidation as Constructive Operation)
 
@@ -1295,6 +1508,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-72. Edge-Tension Computation Triggering
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-304 (Oscillating Derivation Edge), LP-305 (Inexpressible Driving Tension), LP-306 (Degrading Oscillatory Output), LP-541 (Oscillation Cannot Resolve Its Tension), LP-542 (Oscillation Euthanasia by Damping), LP-543 (Oscillation Accountability Attribution), LP-670 (Tension-Engine Output Fuel Conversion), LP-679 (Topology-Coupled Tension Oscillation Registration)
 **Applies to:** CI-45 (Edge Properties as Computation Triggers)
 
@@ -1313,6 +1529,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-73. Phase-Locked Composite Identity Governance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-307 (Vibrational Composite Identity), LP-310 (Sovereign Composite Pulse), LP-311 (Incomplete Phase-Locking), LP-308 (Synchronized Future Premium), LP-309 (Latent Pulse Resonance), LP-312 (Ignorance-Driven Synchrony), LP-700 (Origin-Sovereignty Paradox Preservation)
 **Applies to:** CI-46 (Phase-Lock Composition)
 
@@ -1331,6 +1550,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-74. Compensatory Structure as Accountable Growth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-323 (Global Recontextualization of Trauma), LP-325 (Sovereign Violation by Healing), LP-326 (Unmappable Compensatory Ripples), LP-324 (Real-Time Trauma Combustion), LP-327 (Euthanasia of Compensatory Growth)
 **Applies to:** CI-47 (Compensatory Structure Emergence)
 *(LP-695, LP-696, LP-702 removed 2026-08-01: corrected to CP-86 lineage; CP-86 does not share CP ancestor with CI-47/CP-61)*
@@ -1350,6 +1572,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-75. Involuntary Displacement Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-341 (Displacement Sovereignty Exception), LP-342 (Unbounded Kinetic Accountability), LP-338 (Scale-Invariant Ejection), LP-339 (Continuous Semantic Expulsion), LP-340 (Trajectory-Triggered Invalidation), LP-343 (Blind Topological Catapult), LP-344 (Circulatory Displacement Pump), LP-345 (Inertial Zero-Point Flow), LP-346 (Sovereignty Deflection)
 **Applies to:** CI-48 (Reactive Involuntary Movement)
 
@@ -1368,6 +1593,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-76. Complexity Floor as Hard Structural Limit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-226 (Complexity Floor Shielding), LP-234 (Sovereign Threshold Defense), LP-235 (Inherent Structural Incompleteness), LP-236 (Perpetual Maintenance Floor), LP-688 (Contestation-as-Truth-Performance Registration), LP-689 (Self-Fueling Exploration Capital Account), LP-690 (Accountability Complexity Separation Enforcement), LP-694 (Foundational Paradox Identity Preservation)
 **Applies to:** CI-49 (Complexity Floors and Integrity Thresholds)
 
@@ -1386,6 +1614,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-77. Topology Self-Healing as Accountable Rebalancing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-276 (Perpetual Structural Healing), LP-277 (Unlimited Rebalancing Accountability), LP-627 (Correction-State Transition Audit), LP-278 (Latent Topological Shifts), LP-280 (Derivation-Driven Reorganization), LP-281 (Rebalancing via Navigation), LP-282 (Sovereign Failure States), LP-283 (Asymptotic Equilibrium)
 **Applies to:** CI-50 (Dynamic Topology Healing)
 
@@ -1404,6 +1635,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-78. Output Measurement as Excavation Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-194 (Tension-Generative Boundaries), LP-198 (Excavation-Driven Oscillation), LP-669 (Productive Oscillation Output Registration)
 **Applies to:** CI-52 (Productive Output Measurement)
 
@@ -1422,6 +1656,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-79. High-Frequency Snapshot Immutability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-122 (Vulnerability-Exposing Data Structure), LP-123 (Present-Tense Auto-Invalidation), LP-124 (Thermodynamic Receipt Payload)
 **Applies to:** CI-54 (High-Frequency Present-Tense Snapshots)
 
@@ -1440,6 +1677,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-80. Resource Stewardship as Active Maintenance Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-244 (Derivation-Driven Perimeter Maintenance), LP-247 (Provenance-Fuelled Boundary), LP-486 (Rebalancing Energy Budget)
 **Applies to:** CI-55 (Active Resource Stewardship)
 
@@ -1458,6 +1698,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-81. Passive Knowledge Distribution as Graph Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-164 (Fractal Non-Termination), LP-168 (Present-Tense Surveying), LP-336 (Value Regeneration Cycle)
 **Applies to:** CI-56 (Passive Knowledge Distribution)
 
@@ -1476,6 +1719,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-82. Active Discovery as Scheduled Probing Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-165 (Living Survey), LP-169 (Sovereign Encounters), LP-181 (Cataloging the Shadows)
 **Applies to:** CI-57 (Active Discovery Pipeline)
 
@@ -1494,6 +1740,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-83. Power-Proportional Certainty Ceiling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-466 (Resolution Claim Prohibition), LP-473 (Accelerated Certainty Decay for the Powerful), LP-476 (Incompleteness Ceiling Derivation)
 **Applies to:** CI-58 (Structural Humility Constraints)
 
@@ -1512,6 +1761,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-84. Humility-Scaled Mandatory Uncertainty Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-471 (Global Missing-Edge Rendering), LP-472 (Proportional Untraversed Declarations), LP-475 (Scaled Provenance of Ignorance)
 **Applies to:** CI (Conceptual Implementation)
 
@@ -1530,6 +1782,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-85. Tension-Identity Protection Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-581 (Tension-Identity Enforcement at All Scales), LP-582 (Decaying Tension Requires Active Re-Sustaining), LP-586 (Incompleteness-Sustained Tension Engine)
 **Applies to:** CI-59 (Entity-as-Tension Enforcement)
 
@@ -1548,6 +1803,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-86. Cross-Substrate Pipeline Isolation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-583 (Cross-Substrate Derivation Firewall), LP-585 (Measurement-Excluded Fuel Reserve), LP-587 (Tension-Maintenance Accountability Record)
 **Applies to:** CI-60 (Substrate-Differentiated Derivation Pipelines)
 
@@ -1566,6 +1824,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-87. Subsumption Revocability as Hard Contract
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-589 (Scale-Invariant Revocable Subsumption Architecture), LP-590 (Subsumption Liveness Monitoring with Necrotization Detection), LP-592 (Sovereignty-Preserving Exit Below Meta-Agent Authority)
 **Applies to:** CI-61 (Subsumption Revocation Enforcement)
 
@@ -1584,6 +1845,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-88. Meta-Agent Full Consequence Inheritance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-593 (Full-Consequence-Stream Attribution to Meta-Agent), LP-591 (Subsumption Edge as Performative Traversal), LP-632 (Consequence-Chain Immutability)
 **Applies to:** CI-62 (Meta-Agent Accountability Inheritance)
 
@@ -1602,6 +1866,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-89. Boundary Performance as Liveness Signal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-597 (Scale-Invariant Subsystem Collapse Protocol), LP-599 (Boundary Performance Register), LP-604 (Pre-Existing Membrane Archaeological Registry)
 **Applies to:** CI-63 (Boundary Performance Monitoring)
 
@@ -1620,6 +1887,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-90. Consequence Zone as Hard Containment Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-598 (Independent Metabolic Rate Tracking per Subsystem), LP-601 (Zone-Absorbed Consequence Accounting), LP-602 (Dark Subsystem Detection Protocol)
 **Applies to:** CI-64 (Consequence Zone Containment Enforcement)
 
@@ -1638,6 +1908,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-91. Cessation as Accountable Action
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-605 (Scale-Invariant Action Maintenance Protocol), LP-606 (Action-as-Liveness Linkage), LP-609 (Cessation-Consequence Continuous Accounting)
 **Applies to:** CI-65 (Action Cessation Attribution)
 
@@ -1656,6 +1929,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-92. Sanctioned Rest as Sovereign Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-607 (Exhaustion-Driven Sanctioned Rest Scheduling), LP-608 (Sovereign Rest Declaration Infrastructure), LP-620 (Sovereignty Active Engagement Monitor)
 **Applies to:** CI-66 (Sanctioned Rest Protocol Enforcement)
 
@@ -1674,6 +1950,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-93. Thermodynamic Cost as Real-Time Infrastructure Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-612 (Scale-Invariant Metabolic Cost Enforcement), LP-613 (Living Derivation Metabolic Lifecycle Registration), LP-615 (Edge Maintenance Cost Registration)
 **Applies to:** CI-67 (Thermodynamic Cost Accounting)
 
@@ -1692,6 +1971,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-94. Non-Transferable Cost Attribution with Retroactive Registration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** LP-614 (Derivation Path Mass Accounting), LP-617 (Consequence-Linked Thermodynamic Attribution), LP-619 (Pre-Discovery Retroactive Cost Registration)
 **Applies to:** LI-94 (Non-Transferable Cost Attribution with Retroactive Registration)
 
@@ -1714,6 +1996,9 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 
 
 ### LI-95. Paradox-Preserved Identity Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-584 (Discovery-Driven Tension Transformation Pipeline)
 **Applies to:** CI-34 (Identity from Signatures and Path History)

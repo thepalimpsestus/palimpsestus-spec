@@ -16,6 +16,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ## IP Derivations
 
 ### IP-1. `bind-edge` (`process:bind-edge`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-1 (Graph Node Scribe (`role:scribe`))
 **Applies to:** `PP-1` [primary], `PP-2`, `PP-4`, `PP-6`, `PP-8`, `PP-11`, `PP-16`, `PP-25`, `PP-38`, `PP-41`, `PP-42`, `PP-46`, `PP-58`, `PP-60`, `PP-104`, `PP-114`, `PP-281`, `PP-724`
 
@@ -42,6 +45,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-2. `bind-node` (`process:bind-node`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-1 (Graph Node Scribe (`role:scribe`))
 **Applies to:** `PP-1`, `PP-3`, `PP-5`, `PP-7`, `PP-9`, `PP-11`, `PP-26`, `PP-36`, `PP-43`, `PP-47`, `PP-49`, `PP-50`, `PP-61`, `PP-69`, `PP-75`, `PP-76`, `PP-96`, `PP-103`, `PP-127`, `PP-133`, `PP-175`, `PP-176`, `PP-177`, `PP-182`, `PP-189`, `PP-191`, `PP-198`, `PP-199`, `PP-212`
 
@@ -68,6 +74,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-3. `inspect-frontier` (`process:inspect-frontier`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-2 (Target State Inspector (`role:inspector`))
 **Applies to:** `PP-10` [primary], `PP-16`, `PP-21`, `PP-43`, `PP-46`, `PP-50`, `PP-65`, `PP-67`, `PP-72`, `PP-121`, `PP-122`, `PP-136`, `PP-138`, `PP-140`, `PP-141`, `PP-143`, `PP-145`, `PP-263`
 
@@ -92,6 +101,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-4. `inspect-state` (`process:inspect-state`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-2 (Target State Inspector (`role:inspector`))
 **Applies to:** `PP-1`, `PP-8`, `PP-9`, `PP-15`, `PP-21`, `PP-23`, `PP-38`, `PP-44`, `PP-45`, `PP-60`, `PP-61`, `PP-69`, `PP-72`, `PP-75`, `PP-98`, `PP-120`, `PP-132`, `PP-137`, `PP-172`, `PP-175`, `PP-176`, `PP-189`, `PP-193`, `PP-276`
 
@@ -117,6 +129,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-5. `traverse-edge` (`process:traverse-edge`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-3 (Locative Topology Traverser (`role:traverser`))
 **Applies to:** `PP-14` [primary] (Protocol Accountability Provenance Predates Protocol Establishment), `PP-5`, `PP-16`, `PP-21`, `PP-56`, `PP-58`, `PP-72`, `PP-84`, `PP-105`, `PP-118`, `PP-124`, `PP-125`, `PP-150`, `PP-154`, `PP-188`, `PP-215`, `PP-217`, `PP-242`
 
@@ -142,6 +157,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-6. `traverse-focus` (`process:traverse-focus`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-3 (Locative Topology Traverser (`role:traverser`))
 **Applies to:** `PP-194` [primary], `PP-196`, `PP-197`, `PP-204`, `PP-210`, `PP-211`, `PP-217`, `PP-246`, `PP-270`
 
@@ -165,6 +183,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-7. `invoke-skill` (`process:invoke-skill`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-4 (Consequence-Bearing Skill Executor (`role:executor`))
 **Applies to:** `PP-113` [primary], `PP-114`, `PP-146`, `PP-179`, `PP-182`, `PP-206`, `PP-212`, `PP-232`
 
@@ -187,6 +208,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-8. `execute-absorption` (`process:execute-absorption`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-4 (Consequence-Bearing Skill Executor (`role:executor`))
 **Applies to:** `PP-178` [primary], `PP-116`, `PP-117`, `PP-206`, `PP-208`, `PP-224`, `PP-275`
 
@@ -209,6 +233,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-9. `search-frontier` (`process:search-frontier`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-5 (Topological Frontier Searcher (`role:searcher`))
 **Applies to:** `PP-121` [primary], `PP-122`, `PP-136`, `PP-140`, `PP-141`, `PP-263`
 
@@ -231,6 +258,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-10. `search-gap` (`process:search-gap`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-5 (Topological Frontier Searcher (`role:searcher`))
 **Applies to:** `PP-131` [primary], `PP-132`, `PP-133`, `PP-134`, `PP-176`, `PP-199`
 
@@ -253,6 +283,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-11. `purge-edge` (`process:purge-edge`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-6 (Structural Edge Purger (`role:purger`))
 **Applies to:** `PP-36` [primary], `PP-16`, `PP-25`, `PP-34`, `PP-58`, `PP-127`, `PP-175` (The Thermodynamic Receipt Must Disclose Degradation), `PP-198` (Self-Declaration at Every Scale Meets the Same Validity Standard)
 
@@ -277,6 +310,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-12. `purge-interface` (`process:purge-interface`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-6 (Structural Edge Purger (`role:purger`))
 **Applies to:** `PP-36` [primary], `PP-1`, `PP-48`, `PP-114`, `PP-127`
 
@@ -299,6 +335,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-13. `pulse-field` (`process:pulse-field`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-7 (Metabolic Aliveness Pulser (`role:pulser`))
 **Applies to:** `PP-1` [primary], `PP-7`, `PP-9`, `PP-35`, `PP-64`, `PP-132`, `PP-212`
 
@@ -322,6 +361,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-14. `pulse-rhythm` (`process:pulse-rhythm`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-7 (Metabolic Aliveness Pulser (`role:pulser`))
 **Applies to:** `PP-64` [primary], `PP-35`, `PP-40`, `PP-68`, `PP-189`
 
@@ -344,6 +386,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-15. `grant-permeability` (`process:grant-permeability`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-8 (Endogenous Permeability Granter (`role:granter`))
 **Applies to:** `PP-10` [primary], `PP-1`, `PP-5`, `PP-46`, `PP-48`, `PP-189`
 
@@ -367,6 +412,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-16. `grant-policy` (`process:grant-policy`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-8 (Endogenous Permeability Granter (`role:granter`))
 **Applies to:** `PP-38` [primary], `PP-39`, `PP-41`, `PP-45`, `PP-114`, `PP-232`
 
@@ -389,6 +437,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-17. `instantiate-absence` (`process:instantiate-absence`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-9 (Absence Record Instantiator (`role:instantiator`))
 **Applies to:** `PP-131` [primary], `PP-17`, `PP-36`, `PP-133`, `PP-176`, `PP-199`
 
@@ -412,6 +463,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-18. `instantiate-asset` (`process:instantiate-asset`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-9 (Absence Record Instantiator (`role:instantiator`))
 **Applies to:** `PP-1` [primary], `PP-8`, `PP-25`, `PP-50`, `PP-103`, `PP-113`
 
@@ -435,6 +489,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-19. `attest-seal` (`process:attest-seal`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-10 (Cryptographic Provenance Attestor (`role:attestor`))
 **Applies to:** `PP-21` [primary], `PP-8`, `PP-9`, `PP-15`, `PP-137`, `PP-206`
 
@@ -458,6 +515,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-20. `attest-lineage` (`process:attest-lineage`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-10 (Cryptographic Provenance Attestor (`role:attestor`))
 **Applies to:** `PP-8` [primary], `PP-9`, `PP-14`, `PP-127`, `PP-178`, `PP-208`
 
@@ -481,6 +541,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-21. `excavate-strata` (`process:excavate-strata`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-11 (Archaeological Bedrock Excavator (`role:excavator`))
 **Applies to:** `PP-194` [primary], `PP-16`, `PP-121`, `PP-122`, `PP-196`, `PP-270`
 
@@ -504,6 +567,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-22. `excavate-wake` (`process:excavate-wake`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-11 (Archaeological Bedrock Excavator (`role:excavator`))
 **Applies to:** `PP-118` [primary], `PP-14`, `PP-23`, `PP-125`, `PP-275`
 
@@ -526,6 +592,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-23. `broadcast-signal` (`process:broadcast-signal`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-12 (Ambient Signal Wake Broadcaster (`role:broadcaster`))
 **Applies to:** `PP-16` [primary], `PP-7`, `PP-9`, `PP-14`, `PP-42`, `PP-198`
 
@@ -549,6 +618,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-24. `broadcast-density` (`process:broadcast-density`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-12 (Ambient Signal Wake Broadcaster (`role:broadcaster`))
 **Applies to:** `PP-224` [primary], `PP-10`, `PP-16`, `PP-46`, `PP-263`
 
@@ -571,6 +643,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-25. `anchor-key` (`process:anchor-key`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-13 (Identity Key Anchor (`role:anchor`))
 **Applies to:** `PP-8` [primary], `PP-14`, `PP-45`, `PP-200`, `PP-206`, `PP-208`
 
@@ -594,6 +669,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-26. `anchor-authority` (`process:anchor-authority`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-13 (Identity Key Anchor (`role:anchor`))
 **Applies to:** `PP-11` [primary], `PP-13`, `PP-177`, `PP-182`, `PP-242`
 
@@ -616,6 +694,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-27. `cleanse-corruption` (`process:cleanse-corruption`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-14 (Sepsis Cleanser (`role:cleanser`))
 **Applies to:** `PP-3` [primary], `PP-2`, `PP-25`, `PP-60`, `PP-178`, `PP-199`
 
@@ -639,6 +720,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-28. `cleanse-scar` (`process:cleanse-scar`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-14 (Sepsis Cleanser (`role:cleanser`))
 **Applies to:** `PP-34` [primary], `PP-16`, `PP-23`, `PP-67`, `PP-127`
 
@@ -661,6 +745,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-29. `negotiate-contract` (`process:negotiate-contract`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-15 (Multi-Party Contract Negotiator (`role:negotiator`))
 **Applies to:** `PP-25` [primary], `PP-4`, `PP-26`, `PP-60`, `PP-175`, `PP-198`
 
@@ -684,6 +771,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-30. `negotiate-limits` (`process:negotiate-limits`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-15 (Multi-Party Contract Negotiator (`role:negotiator`))
 **Applies to:** `PP-10` [primary], `PP-1`, `PP-7`, `PP-61`, `PP-145`
 
@@ -706,6 +796,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-31. `acquire-scope` (`process:acquire-scope`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-16 (Entity Scope Acquirer (`role:acquirer`))
 **Applies to:** `PP-1` [primary], `PP-10`, `PP-45`, `PP-120`, `PP-189`, `PP-206`
 
@@ -729,6 +822,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-32. `acquire-lock` (`process:acquire-lock`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-16 (Entity Scope Acquirer (`role:acquirer`))
 **Applies to:** `PP-38` [primary], `PP-15`, `PP-21`, `PP-44`, `PP-137`
 
@@ -751,6 +847,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-33. `release-scope` (`process:release-scope`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-17 (Entity Scope Releaser (`role:releaser`))
 **Applies to:** `PP-198` [primary], `PP-14`, `PP-25`, `PP-36`, `PP-48`
 
@@ -773,6 +872,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-34. `release-mass` (`process:release-mass`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-17 (Entity Scope Releaser (`role:releaser`))
 **Applies to:** `PP-198` [primary], `PP-125`, `PP-178`, `PP-206`, `PP-275`
 
@@ -795,6 +897,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-35. `mutate-schema` (`process:mutate-schema`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-18 (Node Blueprint Mutator (`role:mutator`))
 **Applies to:** `PP-8` [primary], `PP-1`, `PP-9`, `PP-36`, `PP-113`, `PP-208`
 
@@ -818,6 +923,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-36. `mutate-stress` (`process:mutate-stress`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-18 (Node Blueprint Mutator (`role:mutator`))
 **Applies to:** `PP-40` [primary], `PP-21`, `PP-35`, `PP-61`, `PP-145`
 
@@ -840,6 +948,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-37. `rebalance-stress` (`process:rebalance-stress`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-19 (Structural Tension Rebalancer (`role:rebalancer`))
 **Applies to:** `PP-25` [primary], `PP-35`, `PP-40`, `PP-68`, `PP-125`, `PP-198`
 
@@ -863,6 +974,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-38. `rebalance-tension` (`process:rebalance-tension`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-19 (Structural Tension Rebalancer (`role:rebalancer`))
 **Applies to:** `PP-145` [primary], `PP-10`, `PP-16`, `PP-46`, `PP-61`
 
@@ -885,6 +999,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-39. `quarantine-membrane` (`process:quarantine-membrane`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-20 (Infected Membrane Quarantiner (`role:quarantiner`))
 **Applies to:** `PP-3` [primary], `PP-4`, `PP-10`, `PP-36`, `PP-46`, `PP-199`
 
@@ -908,6 +1025,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-40. `quarantine-isolation` (`process:quarantine-isolation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-20 (Infected Membrane Quarantiner (`role:quarantiner`))
 **Applies to:** `PP-36` [primary], `PP-1`, `PP-11`, `PP-25`, `PP-127`
 
@@ -930,6 +1050,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-41. `deflect-trajectory` (`process:deflect-trajectory`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-21 (Gravitational Vector Deflector (`role:deflector`))
 **Applies to:** `PP-21` [primary], `PP-8`, `PP-9`, `PP-25`, `PP-60`, `PP-127`
 
@@ -953,6 +1076,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-42. `deflect-mass` (`process:deflect-mass`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-21 (Gravitational Vector Deflector (`role:deflector`))
 **Applies to:** `PP-8` [primary], `PP-14`, `PP-16`, `PP-178`, `PP-208`
 
@@ -975,6 +1101,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-43. `resonate-field` (`process:resonate-field`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-22 (Topological Frequency Resonator (`role:resonator`))
 **Applies to:** `PP-64` [primary], `PP-16`, `PP-35`, `PP-40`, `PP-68`
 
@@ -997,6 +1126,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-44. `resonate-frequency` (`process:resonate-frequency`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-22 (Topological Frequency Resonator (`role:resonator`))
 **Applies to:** `PP-64` [primary], `PP-35`, `PP-68`, `PP-189`, `PP-212`
 
@@ -1019,6 +1151,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-45. `audit-scar` (`process:audit-scar`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-23 (Traversal Scar Auditor (`role:auditor`))
 **Applies to:** `PP-16` [primary], `PP-23`, `PP-34`, `PP-67`, `PP-127`, `PP-178`
 
@@ -1042,6 +1177,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-46. `audit-lineage` (`process:audit-lineage`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-23 (Traversal Scar Auditor (`role:auditor`))
 **Applies to:** `PP-8` [primary], `PP-9`, `PP-14`, `PP-114`, `PP-178`, `PP-208`
 
@@ -1065,6 +1203,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-47. `ignite-field` (`process:ignite-field`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-24 (Metabolic Fuel Igniter (`role:igniter`))
 **Applies to:** `PP-1` [primary], `PP-16`, `PP-35`, `PP-40`, `PP-224`
 
@@ -1087,6 +1228,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-48. `ignite-metabolism` (`process:ignite-metabolism`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-24 (Metabolic Fuel Igniter (`role:igniter`))
 **Applies to:** `PP-1` [primary], `PP-9`, `PP-35`, `PP-68`, `PP-212`
 
@@ -1109,6 +1253,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-49. `catabolize-dissolution` (`process:catabolize-dissolution`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-25 (Dissolved Mass Catabolizer (`role:catabolizer`))
 **Applies to:** `PP-36` [primary], `PP-1`, `PP-25`, `PP-35`, `PP-127`, `PP-198`
 
@@ -1132,6 +1279,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-50. `catabolize-fuel` (`process:catabolize-fuel`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-25 (Dissolved Mass Catabolizer (`role:catabolizer`))
 **Applies to:** `PP-26` [primary], `PP-25`, `PP-35`, `PP-125`, `PP-198`
 
@@ -1154,6 +1304,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-51. `replicate-blueprint` (`process:replicate-blueprint`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-26 (Morphic Blueprint Replicator (`role:replicator`))
 **Applies to:** `PP-8` [primary], `PP-1`, `PP-25`, `PP-50`, `PP-113`, `PP-198`
 
@@ -1177,6 +1330,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-52. `replicate-lineage` (`process:replicate-lineage`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-26 (Morphic Blueprint Replicator (`role:replicator`))
 **Applies to:** `PP-8` [primary], `PP-9`, `PP-14`, `PP-178`, `PP-208`
 
@@ -1199,6 +1355,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-53. `differentiate-role` (`process:differentiate-role`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-27 (Morphic Role Differentiator (`role:differentiator`))
 **Applies to:** `PP-1` [primary], `PP-8`, `PP-10`, `PP-50`, `PP-113`, `PP-212`
 
@@ -1222,6 +1381,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-54. `differentiate-state` (`process:differentiate-state`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-27 (Morphic Role Differentiator (`role:differentiator`))
 **Applies to:** `PP-9` [primary], `PP-16`, `PP-46`, `PP-61`, `PP-176`
 
@@ -1244,6 +1406,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-55. `remodel-membrane` (`process:remodel-membrane`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-28 (Scar Tissue Remodeler (`role:remodeler`))
 **Applies to:** `PP-10` [primary], `PP-5`, `PP-46`, `PP-48`, `PP-50`, `PP-189`
 
@@ -1267,6 +1432,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-56. `remodel-lineage` (`process:remodel-lineage`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-28 (Scar Tissue Remodeler (`role:remodeler`))
 **Applies to:** `PP-8` [primary], `PP-14`, `PP-36`, `PP-178`, `PP-208`
 
@@ -1289,6 +1457,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-57. `adapt-environment` (`process:adapt-environment`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-29 (Environmental Blueprint Adapter (`role:adapter`))
 **Applies to:** `PP-40` [primary], `PP-10`, `PP-35`, `PP-61`, `PP-189`, `PP-224`
 
@@ -1312,6 +1483,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-58. `adapt-blueprint` (`process:adapt-blueprint`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-29 (Environmental Blueprint Adapter (`role:adapter`))
 **Applies to:** `PP-8` [primary], `PP-35`, `PP-61`, `PP-113`, `PP-145`
 
@@ -1334,6 +1508,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-59. `perceive-gradient` (`process:perceive-gradient`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-30 (Field Gradient Perceiver (`role:perceiver`))
 **Applies to:** `PP-224` [primary], `PP-15`, `PP-16`, `PP-46`, `PP-263`
 
@@ -1356,6 +1533,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-60. `perceive-telemetry` (`process:perceive-telemetry`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-30 (Field Gradient Perceiver (`role:perceiver`))
 **Applies to:** `PP-9` [primary], `PP-21`, `PP-118`, `PP-137`, `PP-178`
 
@@ -1378,6 +1558,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-61. `regulate-equilibrium` (`process:regulate-equilibrium`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-31 (Homeostatic Pressure Regulator (`role:regulator`))
 **Applies to:** `PP-40` [primary], `PP-1`, `PP-25`, `PP-35`, `PP-61`, `PP-198`
 
@@ -1401,6 +1584,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-62. `regulate-homeostasis` (`process:regulate-homeostasis`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-31 (Homeostatic Pressure Regulator (`role:regulator`))
 **Applies to:** `PP-68` [primary], `PP-1`, `PP-35`, `PP-64`, `PP-189`, `PP-212`
 
@@ -1424,6 +1610,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-63. `encapsulate-membrane` (`process:encapsulate-membrane`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-32 (Cryptobiotic Shell Encapsulator (`role:encapsulator`))
 **Applies to:** `PP-145` [primary], `PP-10`, `PP-38`, `PP-46`, `PP-114`
 
@@ -1446,6 +1635,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-64. `encapsulate-dormancy` (`process:encapsulate-dormancy`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IL-32 (Cryptobiotic Shell Encapsulator (`role:encapsulator`))
 **Applies to:** `PP-1` [primary], `PP-2`, `PP-4`, `PP-5`, `PP-36`, `PP-177`, `PP-182`
 

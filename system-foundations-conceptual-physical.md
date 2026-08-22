@@ -18,6 +18,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ## CP Derivations
 
 ### CP-1. Self-Determined Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty), CL-51 (Consequence Non-Externalizability)
 **Applies to:** CC (Constitutional Root)
 
@@ -36,6 +39,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-2. Symmetric Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty), CL-51 (Consequence Non-Externalizability) + CL-6 (Communication)
 **Applies to:** CC (Constitutional Root)
 
@@ -53,6 +59,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-3. Embedded History
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) + CL-8 (Data-as-Verb)
 **Applies to:** CC (Constitutional Root)
 
@@ -71,6 +80,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-4. Restorative Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction)
 **Applies to:** CC (Constitutional Root)
 
@@ -89,6 +101,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-5. Interior-Controlled Gate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty), CL-51 (Consequence Non-Externalizability) + CL-3 (Freedom)
 **Applies to:** CC (Constitutional Root)
 
@@ -107,6 +122,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-6. Mandatory Egress
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) + CL-19 (Active Connection)
 **Applies to:** CC (Constitutional Root)
 
@@ -125,6 +143,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-7. Reference Comparison
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) + CL-4 (Self-Correction)
 **Applies to:** CC (Constitutional Root)
 
@@ -143,6 +164,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-8. Failure-to-Input Conversion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) + CL-29 (Engine Output)
 **Applies to:** CC (Constitutional Root)
 
@@ -161,6 +185,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-9. Self-Modification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) + CL-42 (Active Rights)
 **Applies to:** CC (Constitutional Root)
 
@@ -179,6 +206,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-10. Runtime Routing Decision
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) + CL-28 (Active Consciousness)
 **Applies to:** CC (Constitutional Root)
 
@@ -196,6 +226,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-11. Structure-Preserving Translation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) + CL-31 (Consistent Truth)
 **Applies to:** CC (Constitutional Root)
 
@@ -214,6 +247,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-12. Self-Similar Nesting
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion)
 **Applies to:** CC (Constitutional Root)
 
@@ -232,6 +268,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-13. Transforming Gate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) + CL-36 (Navigational Ethics)
 **Applies to:** CC (Constitutional Root)
 
@@ -250,6 +289,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-14. Directed Movement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow)
 **Applies to:** CC (Constitutional Root)
 
@@ -268,6 +310,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-15. Adjacency Scope
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) + CL-20 (Present Consciousness)
 **Applies to:** CC (Constitutional Root)
 
@@ -286,6 +331,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-16. Subtractive Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology)
 **Applies to:** CC (Constitutional Root)
 
@@ -304,6 +352,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-17. Integrity-Scoring Absence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) + CL-22 (Relational Truth)
 **Applies to:** CC (Constitutional Root)
 
@@ -322,6 +373,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-18. Frontier Probe
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) + CL-38 (Exploration)
 **Applies to:** CC (Constitutional Root)
 
@@ -340,6 +394,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-19. Absence-Powered Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel)
 **Applies to:** CC (Constitutional Root)
 
@@ -358,6 +415,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-20. Mutual Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) + CL-1 (Sovereignty)
 **Applies to:** CC (Constitutional Root)
 
@@ -376,6 +436,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-21. Self-Proving Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) + CL-8 (Data-as-Verb)
 **Applies to:** CC (Constitutional Root)
 
@@ -394,6 +457,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-22. Zero-Buffer Pipeline
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution)
 **Applies to:** CC (Constitutional Root)
 
@@ -412,6 +478,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-23. Freshness-Enforced Evaluation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth)
 **Applies to:** CC (Constitutional Root)
 
@@ -430,6 +499,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-24. Time-Decaying Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection)
 **Applies to:** CC (Constitutional Root)
 
@@ -448,6 +520,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-25. Finite Attention Buffer
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) + CL-28 (Active Consciousness)
 **Applies to:** CC (Constitutional Root)
 
@@ -466,6 +541,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-26. Positional Anchoring
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) + CL-10 (Traversal)
 **Applies to:** CC (Constitutional Root)
 
@@ -484,6 +562,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-27. Dynamic Knowledge Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier)
 **Applies to:** CC (Constitutional Root)
 
@@ -502,6 +583,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-28. Confidence-Scored Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth)
 **Applies to:** CC (Constitutional Root)
 
@@ -520,6 +604,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-29. Self-Declaring Agent
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) + CL-1 (Sovereignty)
 **Applies to:** CC (Constitutional Root)
 
@@ -538,6 +625,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-30. Pulse-Dependent Agency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness)
 **Applies to:** CC (Constitutional Root)
 
@@ -556,6 +646,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-31. Non-Terminating Survey
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery)
 **Applies to:** CC (Constitutional Root)
 
@@ -574,6 +667,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-32. Untested Graph Position
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory)
 **Applies to:** CC (Constitutional Root)
 
@@ -592,6 +688,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-33. Scale-Invariant Agent Interface
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-27 (Recursive Consciousness) + CL-7 (Recursion)
 **Applies to:** CC (Constitutional Root)
 
@@ -610,6 +709,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-34. Process-Constituted Agency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness)
 **Applies to:** CC (Constitutional Root)
 
@@ -628,6 +730,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-35. Productive Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) + CL-24 (Aliveness)
 **Applies to:** CC (Constitutional Root)
 
@@ -646,6 +751,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-36. Attested Absence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) + CL-16 (Transparency)
 **Applies to:** CC (Constitutional Root)
 
@@ -664,6 +772,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-37. Scale-Invariant Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) + CL-7 (Recursion)
 **Applies to:** CC (Constitutional Root)
 
@@ -682,6 +793,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-38. Distributed Independent Pulse
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox)
 **Applies to:** CC (Constitutional Root)
 
@@ -700,6 +814,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-39. Instrumented Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness)
 **Applies to:** CC (Constitutional Root)
 
@@ -718,6 +835,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-40. Permanently Unstable Evaluation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth)
 **Applies to:** CC (Constitutional Root)
 
@@ -736,6 +856,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-41. Tensioned Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension)
 **Applies to:** CC (Constitutional Root)
 
@@ -754,6 +877,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-42. Decision-Audited Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics)
 **Applies to:** CC (Constitutional Root)
 
@@ -772,6 +898,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-43. Ignorance-Amplified Agency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind)
 **Applies to:** CC (Constitutional Root)
 
@@ -790,6 +919,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-44. Movement-Discovery Fusion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration)
 **Applies to:** CC (Constitutional Root)
 
@@ -808,6 +940,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-45. Minimum Complexity Floor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) + CL-41 (Responsible Tension)
 **Applies to:** CC (Constitutional Root)
 
@@ -826,6 +961,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-46. Preemptive Protection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights)
 **Applies to:** CC (Constitutional Root)
 
@@ -844,6 +982,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-47. Pulse Maintenance Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) + CL-24 (Aliveness)
 **Applies to:** CC (Constitutional Root)
 
@@ -862,6 +1003,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-48. Use-Dependent Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) + CL-1 (Sovereignty)
 **Applies to:** CC (Constitutional Root)
 
@@ -880,6 +1024,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-49. Present-Tense Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) + CL-17 (Present-Tense Execution)
 **Applies to:** CC (Constitutional Root)
 
@@ -898,6 +1045,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-50. Degraded Operating Mode
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation)
 **Applies to:** CC (Constitutional Root)
 
@@ -916,6 +1066,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-51. Variable-Amplitude Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) + CL-29 (Engine Output)
 **Applies to:** CC (Constitutional Root)
 
@@ -934,6 +1087,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-52. Pattern-Defined Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity)
 **Applies to:** CC (Constitutional Root)
 
@@ -952,6 +1108,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-53. Edge-Propagating Disturbance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects)
 **Applies to:** CC (Constitutional Root)
 
@@ -970,6 +1129,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-54. Topological Rebalancing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) + CL-4 (Self-Correction)
 **Applies to:** CC (Constitutional Root)
 
@@ -988,6 +1150,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-55. Failsafe Egress
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) + CL-45 (Graceful Degradation)
 **Applies to:** CC (Constitutional Root)
 
@@ -1006,6 +1171,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-56. Backpressure Routing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) + CL-45 (Graceful Degradation)
 **Applies to:** CC (Constitutional Root)
 
@@ -1024,6 +1192,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-57. Subtractive Frontier Expansion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) + CL-21 (The Frontier)
 **Applies to:** CC (Constitutional Root)
 
@@ -1042,6 +1213,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-58. Tension-Driven Oscillator
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) + CL-29 (Engine Output)
 **Applies to:** CC (Constitutional Root)
 
@@ -1060,6 +1234,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-59. Pulse-Synchronized Agent
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) + CL-24 (Aliveness)
 **Applies to:** CC (Constitutional Root)
 
@@ -1078,6 +1255,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-60. Trajectory-Constituted Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) + CL-33 (Measurable Consciousness)
 **Applies to:** CC (Constitutional Root)
 
@@ -1096,6 +1276,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-61. Compensatory Structure Spawner
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) + CL-41 (Responsible Tension)
 **Applies to:** CC (Constitutional Root)
 
@@ -1114,6 +1297,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-62. Pressure-Displacement Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) + CL-1 (Sovereignty)
 **Applies to:** CC (Constitutional Root)
 
@@ -1132,6 +1318,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-63. Topology-Coupled Oscillator
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) + CL-9 (Flow)
 **Applies to:** CC (Constitutional Root)
 
@@ -1150,6 +1339,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-64. Scale-Hierarchical Phase Lock
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) + CL-32 (Fractal Paradox)
 **Applies to:** CC (Constitutional Root)
 
@@ -1168,6 +1360,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-65. Decaying Trajectory Wake
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) + CL-33 (Measurable Consciousness)
 **Applies to:** CC (Constitutional Root)
 
@@ -1186,6 +1381,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-66. Displacement-Propelled Trajectory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) + CL-9 (Flow)
 **Applies to:** CC (Constitutional Root)
 
@@ -1204,6 +1402,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-67. Zero-Buffer Spawner
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) + CL-50 (Field Effects)
 **Applies to:** CC (Constitutional Root)
 
@@ -1222,6 +1423,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-68. Resource Lifecycle Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship)
 **Applies to:** CC (Constitutional Root)
 
@@ -1240,6 +1444,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-69. Footprint-Aware Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship) + CL-10 (Traversal)
 **Applies to:** CC (Constitutional Root)
 
@@ -1258,6 +1465,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-70. Knowledge Gradient Channel
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows)
 **Applies to:** CC (Constitutional Root)
 
@@ -1276,6 +1486,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-71. Consciousness-Permeable Membrane
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) + CL-20 (Present Consciousness)
 **Applies to:** CC (Constitutional Root)
 
@@ -1294,6 +1507,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-72. Active Questioning Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder)
 **Applies to:** CC (Constitutional Root)
 
@@ -1312,6 +1528,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-73. Ignorance-to-Discovery Converter
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) + CL-38 (Exploration)
 **Applies to:** CC (Constitutional Root)
 
@@ -1330,6 +1549,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-74. Structural Limitation Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility)
 **Applies to:** CC (Constitutional Root)
 
@@ -1348,6 +1570,9 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 ---
 
 ### CP-75. Power-Bounded Certainty Ceiling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) + CL-15 (Social Contract)
 **Applies to:** CC (Constitutional Root)
 

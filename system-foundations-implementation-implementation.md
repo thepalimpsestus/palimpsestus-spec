@@ -19,6 +19,9 @@ Every candidate pair from $(IP_1 \times PI_1)$ through $(IP_{64} \times PI_{87})
 ## II Derivations
 
 ### II-1. `bind-edge-keepalive` (`circuit:bind-edge-keepalive`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-1 (`bind-edge` (`process:bind-edge`)) × PI-1 (Symmetric Metabolic Obligation: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-1 [primary], PI-4 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -37,6 +40,9 @@ Concrete runtime IPC and graph memory allocators MUST NOT provide async task que
 ---
 
 ### II-2. `bind-edge-permeability` (`circuit:bind-edge-permeability`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-1 (`bind-edge` (`process:bind-edge`)) × PI-2 (Symmetric Metabolic Obligation: Sovereign Permeability & Boundary Revocation)  
 **Applies to:** PI-2 [primary], PI-41 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -55,6 +61,9 @@ Edge struct memory layouts MUST reserve a 64-bit atomic boundary permeability fi
 ---
 
 ### II-3. `bind-edge-provenance` (`circuit:bind-edge-provenance`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-1 (`bind-edge` (`process:bind-edge`)) × PI-3 (Symmetric Metabolic Obligation: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-3 [primary], PI-5 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -73,6 +82,9 @@ Graph engine allocators MUST reject edge creation calls whose binary payload fai
 ---
 
 ### II-4. `bind-node-quarantine` (`circuit:bind-node-quarantine`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-2 (`bind-node` (`process:bind-node`)) × PI-14 (Archaeological Handshake as Capability Verification: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-14 [primary], PI-6 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -91,6 +103,9 @@ Graph memory managers MUST verify physical block parity prior to node pointer as
 ---
 
 ### II-5. `inspect-frontier-cauterization` (`circuit:inspect-frontier-cauterization`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-3 (`inspect-frontier` (`process:inspect-frontier`)) × PI-13 (Archaeological Handshake as Capability Verification: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-13 [primary], PI-50 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -109,6 +124,9 @@ Frontier scanning drivers MUST incorporate hardware-level timeout gates that dro
 ---
 
 ### II-6. `inspect-state-zeroization` (`circuit:inspect-state-zeroization`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-4 (`inspect-state` (`process:inspect-state`)) × PI-5 (Symmetric Metabolic Obligation: Event-Driven Memory Allocation & Buffer Integrity)  
 **Applies to:** PI-5 [primary], PI-14 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -127,6 +145,9 @@ Inspection worker threads MUST clear CPU register state and wipe stack-allocated
 ---
 
 ### II-7. `traverse-edge-decay` (`circuit:traverse-edge-decay`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-5 (`traverse-edge` (`process:traverse-edge`)) × PI-3 (Symmetric Metabolic Obligation: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-3 [primary], PI-31 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -145,6 +166,9 @@ Graph traversal iterators MUST execute atomic decrement operations on edge weigh
 ---
 
 ### II-8. `traverse-focus-drag` (`circuit:traverse-focus-drag`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-6 (`traverse-focus` (`process:traverse-focus`)) × PI-17 (Shared-Simulation Frame Isolation: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-17 [primary], PI-21 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -163,6 +187,9 @@ Thread schedulers MUST scale dispatch quantum lengths inversely with target regi
 ---
 
 ### II-9. `invoke-skill-isolation` (`circuit:invoke-skill-isolation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-7 (`invoke-skill` (`process:invoke-skill`)) × PI-6 (Symmetric Metabolic Obligation: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-6 [primary], PI-22 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -181,6 +208,9 @@ Subprocess IPC wrappers MUST wrap skill executions in isolated POSIX pipe domain
 ---
 
 ### II-10. `execute-absorption-mass` (`circuit:execute-absorption-mass`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-8 (`execute-absorption` (`process:execute-absorption`)) × PI-22 (Consequence-Carrying Communication Attribution: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-22 [primary], PI-16 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -199,6 +229,9 @@ Actor state headers MUST track cumulative error mass bytes and enforce correspon
 ---
 
 ### II-11. `search-frontier-expansion` (`circuit:search-frontier-expansion`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-9 (`search-frontier` (`process:search-frontier`)) × PI-50 (Drift Detection as Topological Divergence Measurement: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-50 [primary], PI-128 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -217,6 +250,9 @@ Frontier search algorithms MUST allocate gap-node headers for all unmapped adjac
 ---
 
 ### II-12. `search-gap-instantiation` (`circuit:search-gap-instantiation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-10 (`search-gap` (`process:search-gap`)) × PI-12 (Archaeological Handshake as Capability Verification: Event-Driven Memory Allocation & Buffer Integrity)  
 **Applies to:** PI-12 [primary], PI-456 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -235,6 +271,9 @@ Query engines MUST verify the presence of uncertainty tags on gap search outputs
 ---
 
 ### II-13. `purge-edge-release` (`circuit:purge-edge-release`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-11 (`purge-edge` (`process:purge-edge`)) × PI-49 (Provenance of Provenance (Meta-Ledger): Atomic Multi-Depth Verification & Channel Resets): Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-49 [primary], PI-25 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -254,6 +293,9 @@ Memory deallocators MUST verify signed bilateral co-authorization receipts and `
 ---
 
 ### II-14. `purge-interface-dissolution` (`circuit:purge-interface-dissolution`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-12 (`purge-interface` (`process:purge-interface`)) × PI-36 (Trajectory-Identity Binding: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-36 [primary], PI-20 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -272,6 +314,9 @@ Interface teardown handlers MUST validate cryptographic signatures from both end
 ---
 
 ### II-15. `pulse-field-synchronization` (`circuit:pulse-field-synchronization`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-13 (`pulse-field` (`process:pulse-field`)) × PI-1 (Symmetric Metabolic Obligation: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-1 [primary], PI-481 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -290,6 +335,9 @@ Field pulse drivers MUST check local energy thresholds before broadcasting signa
 ---
 
 ### II-16. `pulse-rhythm-oscillation` (`circuit:pulse-rhythm-oscillation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-14 (`pulse-rhythm` (`process:pulse-rhythm`)) × PI-70 (Multi-Dimensional Drift Scoring: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-70 [primary], PI-274 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -308,6 +356,9 @@ Heartbeat timers MUST verify non-zero variance in pulse intervals to detect and 
 ---
 
 ### II-17. `grant-permeability-revocation` (`circuit:grant-permeability-revocation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-15 (`grant-permeability` (`process:grant-permeability`)) × PI-2 (Symmetric Metabolic Obligation: Sovereign Permeability & Boundary Revocation)  
 **Applies to:** PI-2 [primary], PI-13 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -326,6 +377,9 @@ Access control modules MUST evaluate boundary policy rules against caller proven
 ---
 
 ### II-18. `grant-policy-enforcement` (`circuit:grant-policy-enforcement`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-16 (`grant-policy` (`process:grant-policy`)) × PI-41 (Trajectory-Identity Binding: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-41 [primary], PI-105 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -344,6 +398,9 @@ Gate logic functions MUST return the updated pointer state directly from the eva
 ---
 
 ### II-19. `instantiate-absence-integrity` (`circuit:instantiate-absence-integrity`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-17 (`instantiate-absence` (`process:instantiate-absence`)) × PI-128 (Living Survey State Management: Sovereign Permeability & Boundary Revocation)  
 **Applies to:** PI-128 [primary], PI-12 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -362,6 +419,9 @@ Database/graph query handlers MUST return an instantiated Absence Record object 
 ---
 
 ### II-20. `instantiate-asset-provenance` (`circuit:instantiate-asset-provenance`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-18 (`instantiate-asset` (`process:instantiate-asset`)) × PI-29 (Provenance as Structural Topology: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-29 [primary], PI-200 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -380,6 +440,9 @@ Asset constructors MUST validate caller context signatures before allocating mem
 ---
 
 ### II-21. `attest-seal-immutability` (`circuit:attest-seal-immutability`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-19 (`attest-seal` (`process:attest-seal`)) × PI-10 (Archaeological Handshake as Capability Verification: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-10 [primary], PI-43 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -398,6 +461,9 @@ Attestation storage handlers MUST write attestation bytes to read-only memory pa
 ---
 
 ### II-22. `attest-lineage-audit` (`circuit:attest-lineage-audit`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-20 (`attest-lineage` (`process:attest-lineage`)) × PI-43 (Provenance of Provenance (Meta-Ledger): Metabolic Contestation & Keepalive Governance): Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-43 [primary], PI-35 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -416,6 +482,9 @@ Lineage verifiers MUST traverse hash chains back to known root anchors without q
 ---
 
 ### II-23. `excavate-strata-revelation` (`circuit:excavate-strata-revelation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-21 (`excavate-strata` (`process:excavate-strata`)) × PI-78 (Reference Standard as Living Node: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-78 [primary], PI-31 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -434,6 +503,9 @@ Topology query engines MUST sort excavated constraints by stratigraphic depth, p
 ---
 
 ### II-24. `excavate-wake-decay` (`circuit:excavate-wake-decay`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-22 (`excavate-wake` (`process:excavate-wake`)) × PI-31 (Provenance as Structural Topology: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-31 [primary], PI-23 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -452,6 +524,9 @@ Wake audit functions MUST log their own read operations to the target wake's pro
 ---
 
 ### II-25. `broadcast-signal-attenuation` (`circuit:broadcast-signal-attenuation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-23 (`broadcast-signal` (`process:broadcast-signal`)) × PI-228 (Decay as Scheduled Obligation: Ingress Flow Control & Dynamic Rate Limiting)  
 **Applies to:** PI-228 [primary], PI-269 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -470,6 +545,9 @@ IPC broadcast drivers MUST decrement signal amplitude values on each network hop
 ---
 
 ### II-26. `broadcast-density-gradient` (`circuit:broadcast-density-gradient`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-24 (`broadcast-density` (`process:broadcast-density`)) × PI-269 (Comprehension-Based Gate Evaluation: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-269 [primary], PI-228 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -488,6 +566,9 @@ Network flow controllers MUST adjust transmission window sizes upon receiving hi
 ---
 
 ### II-27. `anchor-key-sovereignty` (`circuit:anchor-key-sovereignty`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-25 (`anchor-key` (`process:anchor-key`)) × PI-13 (Archaeological Handshake as Capability Verification: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-13 [primary], PI-200 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -506,6 +587,9 @@ Identity managers MUST verify cryptographic signature match between public key a
 ---
 
 ### II-28. `anchor-authority-lineage` (`circuit:anchor-authority-lineage`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-26 (`anchor-authority` (`process:anchor-authority`)) × PI-200 (Directed Edge Enforcement: Ingress Flow Control & Dynamic Rate Limiting)  
 **Applies to:** PI-200 [primary], PI-10 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -524,6 +608,9 @@ RBAC evaluation engines MUST verify full chain continuity from authority key to 
 ---
 
 ### II-29. `cleanse-corruption-confession` (`circuit:cleanse-corruption-confession`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-27 (`cleanse-corruption` (`process:cleanse-corruption`)) × PI-14 (Archaeological Handshake as Capability Verification: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-14 [primary], PI-36 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -542,6 +629,9 @@ Maintenance utility routines MUST validate two distinct cryptographic signatures
 ---
 
 ### II-30. `cleanse-scar-remodeling` (`circuit:cleanse-scar-remodeling`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-28 (`cleanse-scar` (`process:cleanse-scar`)) × PI-28 (Consequence-Carrying Communication Attribution: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-28 [primary], PI-481 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -560,6 +650,9 @@ Memory optimization utilities MUST preserve underlying wake log payloads when re
 ---
 
 ### II-31. `negotiate-contract-enforcement` (`circuit:negotiate-contract-enforcement`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-29 (`negotiate-contract` (`process:negotiate-contract`)) × PI-158 (Edge Lifecycle as Implementation Contract: Ingress Flow Control & Dynamic Rate Limiting)  
 **Applies to:** PI-158 [primary], PI-216 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -578,6 +671,9 @@ Stateful edge managers MUST reject single-party state updates on negotiated cont
 ---
 
 ### II-32. `negotiate-limits-boundary` (`circuit:negotiate-limits-boundary`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-30 (`negotiate-limits` (`process:negotiate-limits`)) × PI-216 (Cross-Scale Signal Routing with Phase Coherence: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-216 [primary], PI-158 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -596,6 +692,9 @@ Resource allocators MUST enforce hard limit ceilings negotiated between domains,
 ---
 
 ### II-33. `acquire-scope-mass` (`circuit:acquire-scope-mass`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-31 (`acquire-scope` (`process:acquire-scope`)) × PI-16 (Shared-Simulation Frame Isolation: Sovereign Permeability & Boundary Revocation)  
 **Applies to:** PI-16 [primary], PI-17 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -614,6 +713,9 @@ Scope managers MUST update actor total mass fields when adding entity references
 ---
 
 ### II-34. `acquire-lock-humility` (`circuit:acquire-lock-humility`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-32 (`acquire-lock` (`process:acquire-lock`)) × PI-456 (Maintenance Failure as Structural Penalty: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-456 [primary], PI-12 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -632,6 +734,9 @@ Lock managers MUST automatically downgrade write lock requests to read-only stat
 ---
 
 ### II-35. `release-scope-restoration` (`circuit:release-scope-restoration`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-33 (`release-scope` (`process:release-scope`)) × PI-17 (Shared-Simulation Frame Isolation: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-17 [primary], PI-16 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -650,6 +755,9 @@ Memory garbage collectors MUST decrement actor mass trackers and flag released e
 ---
 
 ### II-36. `release-mass-equilibrium` (`circuit:release-mass-equilibrium`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-34 (`release-mass` (`process:release-mass`)) × PI-34 (Provenance as Structural Topology: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-34 [primary], PI-25 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -668,6 +776,9 @@ Metabolic sink handlers MUST record released error mass metrics prior to freeing
 ---
 
 ### II-37. `mutate-schema-provenance` (`circuit:mutate-schema-provenance`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-35 (`mutate-schema` (`process:mutate-schema`)) × PI-77 (Deviation Measurement as Graph Distance: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-77 [primary], PI-88 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -686,6 +797,9 @@ Schema validation compilers MUST check mutation diffs against foundational axiom
 ---
 
 ### II-38. `mutate-stress-threshold` (`circuit:mutate-stress-threshold`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-36 (`mutate-stress` (`process:mutate-stress`)) × PI-88 (Absence Records as First-Class Implementation Entities: Ingress Flow Control & Dynamic Rate Limiting)  
 **Applies to:** PI-88 [primary], PI-77 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -704,6 +818,9 @@ Stress monitors MUST verify that activated adaptation blueprints carry valid pre
 ---
 
 ### II-39. `rebalance-stress-dissipation` (`circuit:rebalance-stress-dissipation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-37 (`rebalance-stress` (`process:rebalance-stress`)) × PI-54 (Drift Detection as Topological Divergence Measurement: Event-Driven Memory Allocation & Buffer Integrity)  
 **Applies to:** PI-54 [primary], PI-226 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -722,6 +839,9 @@ Load balancer algorithms MUST check neighbor permeability settings before redire
 ---
 
 ### II-40. `rebalance-tension-equilibrium` (`circuit:rebalance-tension-equilibrium`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-38 (`rebalance-tension` (`process:rebalance-tension`)) × PI-226 (Decay as Scheduled Obligation: Sovereign Permeability & Boundary Revocation)  
 **Applies to:** PI-226 [primary], PI-54 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -740,6 +860,9 @@ Consensus engines MUST detect and reject premature resolution or forced merge at
 ---
 
 ### II-41. `quarantine-membrane-isolation` (`circuit:quarantine-membrane-isolation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-39 (`quarantine-membrane` (`process:quarantine-membrane`)) × PI-20 (Shared-Simulation Frame Isolation: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-20 [primary], PI-37 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -758,6 +881,9 @@ Node state managers MUST set memory page protection to read-only and disable net
 ---
 
 ### II-42. `quarantine-isolation-freeze` (`circuit:quarantine-isolation-freeze`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-40 (`quarantine-isolation` (`process:quarantine-isolation`)) × PI-37 (Trajectory-Identity Binding: Sovereign Permeability & Boundary Revocation)  
 **Applies to:** PI-37 [primary], PI-20 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -776,6 +902,9 @@ Graph routing engines MUST filter out marked failure boundary nodes from active 
 ---
 
 ### II-43. `deflect-trajectory-backpressure` (`circuit:deflect-trajectory-backpressure`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-41 (`deflect-trajectory` (`process:deflect-trajectory`)) × PI-4 (Symmetric Metabolic Obligation: Ingress Flow Control & Dynamic Rate Limiting)  
 **Applies to:** PI-4 [primary], PI-21 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -794,6 +923,9 @@ Ingress controllers MUST NOT use in-memory message queues for cluster ingress; v
 ---
 
 ### II-44. `deflect-mass-momentum` (`circuit:deflect-mass-momentum`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-42 (`deflect-mass` (`process:deflect-mass`)) × PI-21 (Shared-Simulation Frame Isolation: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-21 [primary], PI-4 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -812,6 +944,9 @@ Pathing algorithms MUST calculate gravitational attraction vectors when computin
 ---
 
 ### II-45. `resonate-field-synchronization` (`circuit:resonate-field-synchronization`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-43 (`resonate-field` (`process:resonate-field`)) × PI-22 (Consequence-Carrying Communication Attribution: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-22 [primary], PI-274 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -830,6 +965,9 @@ Distributed clock synchronizers MUST use peer-to-peer phase-locking algorithms t
 ---
 
 ### II-46. `resonate-frequency-harmony` (`circuit:resonate-frequency-harmony`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-44 (`resonate-frequency` (`process:resonate-frequency`)) × PI-274 (Paradoxical Gate Disclosure Enforcement: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-274 [primary], PI-22 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -848,6 +986,9 @@ Network pulse managers MUST monitor frequency spectrums and apply damping filter
 ---
 
 ### II-47. `audit-scar-density` (`circuit:audit-scar-density`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-45 (`audit-scar` (`process:audit-scar`)) × PI-23 (Consequence-Carrying Communication Attribution: Sovereign Permeability & Boundary Revocation)  
 **Applies to:** PI-23 [primary], PI-35 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -866,6 +1007,9 @@ Audit engines MUST read physical scar density byte fields directly from node hea
 ---
 
 ### II-48. `audit-lineage-provenance` (`circuit:audit-lineage-provenance`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-46 (`audit-lineage` (`process:audit-lineage`)) × PI-35 (Provenance as Structural Topology: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-35 [primary], PI-23 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -884,6 +1028,9 @@ Lineage verifiers MUST return `INVALID_LINEAGE` if any intermediate parent node 
 ---
 
 ### II-49. `ignite-field-metabolism` (`circuit:ignite-field-metabolism`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-47 (`ignite-field` (`process:ignite-field`)) × PI-24 (Consequence-Carrying Communication Attribution: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-24 [primary], PI-48 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -902,6 +1049,9 @@ System startup routines MUST verify metabolic ignition state across all hardware
 ---
 
 ### II-50. `ignite-metabolism-alignment` (`circuit:ignite-metabolism-alignment`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-48 (`ignite-metabolism` (`process:ignite-metabolism`)) × PI-48 (Provenance of Provenance (Meta-Ledger): Protocol Framing & Instantaneous Ingress Isolation): Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-48 [primary], PI-24 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -920,6 +1070,9 @@ Runtime schedulers MUST query hardware temperature sensors and adjust thread exe
 ---
 
 ### II-51. `catabolize-dissolution-energy` (`circuit:catabolize-dissolution-energy`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-49 (`catabolize-dissolution` (`process:catabolize-dissolution`)) × PI-25 (Consequence-Carrying Communication Attribution: Ingress Flow Control & Dynamic Rate Limiting)  
 **Applies to:** PI-25 [primary], PI-69 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -938,6 +1091,9 @@ Memory cleanup handlers MUST credit recovered byte-capacity back to the system's
 ---
 
 ### II-52. `catabolize-fuel-synthesis` (`circuit:catabolize-fuel-synthesis`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-50 (`catabolize-fuel` (`process:catabolize-fuel`)) × PI-69 (Multi-Dimensional Drift Scoring: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-69 [primary], PI-25 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -956,6 +1112,9 @@ Data ingestion pipelines MUST parse raw input streams into typed fuel structs be
 ---
 
 ### II-53. `replicate-blueprint-mitosis` (`circuit:replicate-blueprint-mitosis`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-51 (`replicate-blueprint` (`process:replicate-blueprint`)) × PI-26 (Consequence-Carrying Communication Attribution: Event-Driven Memory Allocation & Buffer Integrity)  
 **Applies to:** PI-26 [primary], PI-237 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -974,6 +1133,9 @@ Node cloning routines MUST set parent pointer references in daughter node header
 ---
 
 ### II-54. `replicate-lineage-inheritance` (`circuit:replicate-lineage-inheritance`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-52 (`replicate-lineage` (`process:replicate-lineage`)) × PI-237 (Dissolution Residue Preservation: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-237 [primary], PI-26 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -992,6 +1154,9 @@ Replication validation handlers MUST verify that parent debt accounts are attach
 ---
 
 ### II-55. `differentiate-role-morphic` (`circuit:differentiate-role-morphic`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-53 (`differentiate-role` (`process:differentiate-role`)) × PI-27 (Consequence-Carrying Communication Attribution: Protocol Framing & Instantaneous Ingress Isolation)  
 **Applies to:** PI-27 [primary], PI-105 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -1010,6 +1175,9 @@ Role execution dispatchers MUST verify that node morphic state flags match requi
 ---
 
 ### II-56. `differentiate-state-commitment` (`circuit:differentiate-state-commitment`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-54 (`differentiate-state` (`process:differentiate-state`)) × PI-105 (Gap Monitoring as Operational Telemetry: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-105 [primary], PI-27 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -1028,6 +1196,9 @@ State machine managers MUST reject invalid state transitions that bypass formal 
 ---
 
 ### II-57. `heal-membrane-remodeling` (`circuit:heal-membrane-remodeling`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-55 (`remodel-membrane` (`process:remodel-membrane`)) × PI-28 (Consequence-Carrying Communication Attribution: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-28 [primary], PI-481 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -1046,6 +1217,9 @@ Membrane repair functions MUST verify zero sepsis status before resetting bounda
 ---
 
 ### II-58. `heal-scar-restoration` (`circuit:heal-scar-restoration`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-56 (`remodel-lineage` (`process:remodel-lineage`)) × PI-481 (Damped Event Cascade with Accountability Chain: Event-Driven Memory Allocation & Buffer Integrity)  
 **Applies to:** PI-481 [primary], PI-28 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
@@ -1064,6 +1238,9 @@ Topology healing loops MUST check metabolic fuel levels before each remodeling i
 ---
 
 ### II-59. `adapt-environment-selection` (`circuit:adapt-environment-selection`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-57 (`adapt-environment` (`process:adapt-environment`)) × PI-29 (Provenance as Structural Topology: Metabolic Contestation & Keepalive Governance)  
 **Applies to:** PI-29 [primary], PI-77 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -1082,6 +1259,9 @@ Adaptive controllers MUST evaluate environmental feedback metrics and apply para
 ---
 
 ### II-60. `adapt-blueprint-mutation` (`circuit:adapt-blueprint-mutation`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-58 (`adapt-blueprint` (`process:adapt-blueprint`)) × PI-77 (Deviation Measurement as Graph Distance: Atomic Multi-Depth Verification & Channel Resets)  
 **Applies to:** PI-77 [primary], PI-29 [SUBSUMED]  
 **Gate Category:** Category 2: Permeability / Phase  
@@ -1100,6 +1280,9 @@ Blueprint compilers MUST run invariant verification suites against updated templ
 ---
 
 ### II-61. `perceive-gradient-field` (`circuit:perceive-gradient-field`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-59 (`perceive-gradient` (`process:perceive-gradient`)) × PI-30 (Provenance as Structural Topology: Sovereign Permeability & Boundary Revocation)  
 **Applies to:** PI-30 [primary], PI-192 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -1118,6 +1301,9 @@ Pathfinders MUST issue gradient perception queries before executing step travers
 ---
 
 ### II-62. `perceive-telemetry-attraction` (`circuit:perceive-telemetry-attraction`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-60 (`perceive-telemetry` (`process:perceive-telemetry`)) × PI-192 (Movement-Discovery Fusion Implementation: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-192 [primary], PI-30 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -1136,6 +1322,9 @@ Telemetry scanners MUST bound query distance to active edge count, returning `BE
 ---
 
 ### II-63. `regulate-equilibrium-homeostasis` (`circuit:regulate-equilibrium-homeostasis`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-61 (`regulate-equilibrium` (`process:regulate-equilibrium`)) × PI-31 (Provenance as Structural Topology: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-31 [primary], PI-482 [SUBSUMED]  
 **Gate Category:** Category 1: Kinetic / Deflective  
@@ -1154,6 +1343,9 @@ Node health managers MUST run continuous homeostatic control loops that regulate
 ---
 
 ### II-64. `encapsulate-dormancy-cryptobiosis` (`circuit:encapsulate-dormancy-cryptobiosis`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IP-64 (`encapsulate-dormancy` (`process:encapsulate-dormancy`)) × PI-52 (Drift Detection as Topological Divergence Measurement: Provenance Traversal & Trajectory Audit)  
 **Applies to:** PI-52 [primary], PI-32 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  

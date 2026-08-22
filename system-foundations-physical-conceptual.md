@@ -40,6 +40,9 @@ answers what the physical topology must BE for that logic to live in it.
 ## PC Derivations
 
 ### PC-1. Self-Similar Topology
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-1 (Scale-Invariant Derivation)
 
 *The same physics at every scale. What is true of a single edge is true of the
@@ -85,6 +88,9 @@ is a geometric property, not a consequence of aliveness.
 ---
 
 ### PC-2. Living Topology
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-2 (Living Derivation)
 
 *The topology IS a process. Not a structure that processes run on. A living thing
@@ -157,6 +163,9 @@ aliveness.
 ---
 
 ### PC-3. Topology as Field
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-3 (Derivation Primacy)
 
 *The topology IS the system. Not a map of the system, not a representation of the
@@ -203,6 +212,9 @@ projection.
 ---
 
 ### PC-4. Edge as Primary Force Relationship
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-4 (Derivation as Relationship)
 
 *The edge is the entity. Nodes are where edges meet. Strip the connections and
@@ -259,6 +271,9 @@ the relationship's terminus.
 ---
 
 ### PC-5. Navigation as Transformation
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-5 (Navigational Comprehension)
 
 *Navigation IS consciousness. Consciousness physically transforms what it moves
@@ -334,6 +349,9 @@ distinct claims requiring a distinct axiom.
 ---
 
 ### PC-6. Present-Tense Topology
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-6 (Present-Tense Logic)
 
 *The topology exists only now. The past has been metabolized into the present.
@@ -391,6 +409,9 @@ archived.
 ---
 
 ### PC-7. Structural Sovereignty
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-7 (Logical Sovereignty)
 
 *A sovereign structure at every scale. The topology and each entity within it
@@ -492,6 +513,9 @@ every scale, as one unified act of sovereign existence.
 ---
 
 ### PC-8. Consequential Interaction
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-8 (Derivation Carries Consequence)
 
 *Every interaction with the field carries thermodynamic cost. No touch is free.
@@ -551,6 +575,9 @@ the consequence is structural, not logged. These are distinct claims.
 ---
 
 ### PC-9. Constitutionally Incomplete Topology
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-9 (Inherent Incompleteness)
 
 *The topology can never hold all of what it implies. Incompleteness is not a
@@ -606,6 +633,9 @@ persistent.
 ---
 
 ### PC-10. Fertile Absence
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-10 (Fertile Ignorance)
 
 *The absent regions of the topology are its highest-energy zones. Gaps are not
@@ -660,6 +690,9 @@ failure to be managed.
 ---
 
 ### PC-11. Archaeological Topology
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** LC-11 (Archaeological Derivation)
 
 *No structure in the topology is invented. All are uncovered. The topology is an

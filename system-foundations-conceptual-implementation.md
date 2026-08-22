@@ -20,6 +20,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ## CI Derivations
 
 ### CI-1. Symmetric Peer Communication
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-2 (Symmetric Protocol)
 **Applies to:** CL (Constitutional Principles)
 
@@ -38,6 +41,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-2. Topologically Embedded Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-3 (Embedded History), CP-21 (Self-Proving Record), CP-36 (Attested Absence), CP-60 (Trajectory-Constituted Identity)
 **Applies to:** CL (Constitutional Principles)
 
@@ -56,6 +62,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-3. Autonomous Drift Reversion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-4 (Restorative Process)
 **Applies to:** CL (Constitutional Principles)
 
@@ -74,6 +83,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-4. Differential Deviation Measurement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-7 (Reference Comparison)
 **Applies to:** CL (Constitutional Principles)
 
@@ -92,6 +104,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-5. Absence as Actionable State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-8 (Failure-to-Input Conversion), CP-17 (Integrity-Scoring Absence), CP-18 (Frontier Probe), CP-19 (Absence-Powered Oscillation), CP-36 (Attested Absence), CP-43 (Ignorance-Amplified Agency)
 **Applies to:** CL (Constitutional Principles)
 
@@ -110,6 +125,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-6. Truth by Progressive Elimination
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-16 (Subtractive Discovery)
 **Applies to:** CL (Constitutional Principles)
 
@@ -128,6 +146,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-7. Perpetual Cyclic Processes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-31 (Non-Terminating Survey), CP-35 (Productive Oscillation), CP-40 (Permanently Unstable Evaluation)
 **Applies to:** CL (Constitutional Principles)
 
@@ -146,6 +167,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-8. Uniform Interfaces Across Scales
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-33 (Scale-Invariant Agent Interface), CP-37 (Scale-Invariant Verification)
 **Applies to:** CL (Constitutional Principles)
 
@@ -164,6 +188,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-9. Stateful Edges with Independent Properties
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-41 (Tensioned Edge)
 **Applies to:** CL (Constitutional Principles)
 
@@ -182,6 +209,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-10. Isomorphic Relational Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-11 (Structure-Preserving Translation)
 **Applies to:** CL (Constitutional Principles)
 
@@ -200,6 +230,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-11. Present-Tense Graph Evaluation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-22 (Zero-Buffer Pipeline), CP-23 (Freshness-Enforced Evaluation), CP-44 (Movement-Discovery Fusion), CP-49 (Present-Tense Record)
 **Applies to:** CL (Constitutional Principles)
 
@@ -218,6 +251,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-12. Asymmetric Relationships
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-14 (Directed Movement)
 **Applies to:** CL (Constitutional Principles)
 
@@ -236,6 +272,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-13. Structural Pattern Typing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-52 (Pattern-Defined Identity)
 **Applies to:** CL (Constitutional Principles)
 
@@ -254,6 +293,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-14. Cross-Scale Signal Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-64 (Scale-Hierarchical Phase Lock)
 **Applies to:** CL (Constitutional Principles)
 
@@ -272,6 +314,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-15. Time-Decay and Dissolution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-24 (Time-Decaying Edge), CP-48 (Use-Dependent Boundary), CP-65 (Decaying Trajectory Wake)
 **Applies to:** CL (Constitutional Principles)
 
@@ -290,6 +335,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-16. Synchronous Dependency Materialization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-67 (Zero-Buffer Spawner)
 **Applies to:** CL (Constitutional Principles)
 
@@ -308,6 +356,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-17. Self-Controlled Permission Boundaries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-1 (Self-Determined Boundary)
 **Applies to:** CL (Constitutional Principles)
 
@@ -326,6 +377,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-18. Endogenous Traversal Resistance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-5 (Interior-Controlled Gate)
 **Applies to:** CL (Constitutional Principles)
 
@@ -344,6 +398,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-19. Guaranteed Egress Paths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-6 (Mandatory Egress), CP-55 (Failsafe Egress)
 **Applies to:** CL (Constitutional Principles)
 
@@ -362,6 +419,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-20. Failure States as Valid Inputs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-8 (Failure-to-Input Conversion)
 **Applies to:** CL (Constitutional Principles)
 
@@ -380,6 +440,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-21. Runtime Self-Modification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-9 (Self-Modification), CP-10 (Runtime Routing Decision)
 **Applies to:** CL (Constitutional Principles)
 
@@ -398,6 +461,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-22. Recursive Composition Without Depth Limits
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-12 (Self-Similar Nesting), CP-37 (Scale-Invariant Verification)
 **Applies to:** CL (Constitutional Principles)
 
@@ -416,6 +482,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-23. Mutating Gate Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-13 (Transforming Gate)
 **Applies to:** CL (Constitutional Principles)
 
@@ -434,6 +503,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-24. Traversal-Coupled Transformation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-13 (Transforming Gate)
 **Applies to:** CL (Constitutional Principles)
 
@@ -452,6 +524,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-25. Strict Adjacency-Based Visibility
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-15 (Adjacency Scope)
 **Applies to:** CL (Constitutional Principles)
 
@@ -470,6 +545,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-26. Speculative Frontier Interaction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-18 (Frontier Probe)
 **Applies to:** CL (Constitutional Principles)
 
@@ -488,6 +566,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-27. Reciprocal Traversal Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-20 (Mutual Verification)
 **Applies to:** CL (Constitutional Principles)
 
@@ -506,6 +587,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-28. Bounded Navigational Capacity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-25 (Finite Attention Buffer)
 **Applies to:** CL (Constitutional Principles)
 
@@ -524,6 +608,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-29. Spatial Displacement Arbitration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-62 (Pressure-Displacement Boundary)
 **Applies to:** CL (Constitutional Principles)
 
@@ -542,6 +629,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-30. Relational Positional Anchoring
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-26 (Positional Anchoring)
 **Applies to:** CL (Constitutional Principles)
 
@@ -560,6 +650,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-31. Location-Coupled Capabilities
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-63 (Topology-Coupled Oscillator)
 **Applies to:** CL (Constitutional Principles)
 
@@ -578,6 +671,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-32. Representing the Unknown
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-27 (Dynamic Knowledge Boundary), CP-32 (Untested Graph Position)
 **Applies to:** CL (Constitutional Principles)
 
@@ -596,6 +692,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-33. Continuous Confidence Metrics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-28 (Confidence-Scored Edge)
 **Applies to:** CL (Constitutional Principles)
 
@@ -614,6 +713,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-34. Identity from Signatures and Path History
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-29 (Self-Declaring Agent), CP-60 (Trajectory-Constituted Identity)
 **Applies to:** CL (Constitutional Principles)
 
@@ -632,6 +734,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-35. Signal-Dependent Lifecycle
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-30 (Pulse-Dependent Agency), CP-34 (Process-Constituted Agency), CP-55 (Failsafe Egress)
 **Applies to:** CL (Constitutional Principles)
 
@@ -650,6 +755,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-36. Asynchronous Execution with Independent Clocks
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-38 (Distributed Independent Pulse)
 **Applies to:** CL (Constitutional Principles)
 
@@ -668,6 +776,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-37. Navigational Wake Deposition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-39 (Instrumented Navigation), CP-42 (Decision-Audited Navigation)
 **Applies to:** CL (Constitutional Principles)
 
@@ -686,6 +797,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-38. Tension-Driven Structural Hardening
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-46 (Preemptive Protection)
 **Applies to:** CL (Constitutional Principles)
 
@@ -704,6 +818,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-39. Maintenance Failure Penalization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-47 (Pulse Maintenance Obligation)
 **Applies to:** CL (Constitutional Principles)
 
@@ -722,6 +839,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-40. Continued Operation Under Topological Simplification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-50 (Degraded Operating Mode)
 **Applies to:** CL (Constitutional Principles)
 
@@ -740,6 +860,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-41. Endogenous Amplitude Modulation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-51 (Variable-Amplitude Oscillation)
 **Applies to:** CL (Constitutional Principles)
 
@@ -758,6 +881,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-42. Cascading Event Propagation with Damping
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-53 (Edge-Propagating Disturbance)
 **Applies to:** CL (Constitutional Principles)
 
@@ -776,6 +902,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-43. Backpressure Signaling and Rerouting
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-56 (Backpressure Routing)
 **Applies to:** CL (Constitutional Principles)
 
@@ -794,6 +923,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-44. Invalidation as Constructive Operation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-57 (Subtractive Frontier Expansion)
 **Applies to:** CL (Constitutional Principles)
 
@@ -812,6 +944,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-45. Edge Properties as Computation Triggers
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-58 (Tension-Driven Oscillator)
 **Applies to:** CL (Constitutional Principles)
 
@@ -830,6 +965,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-46. Phase-Lock Composition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-59 (Pulse-Synchronized Agent)
 **Applies to:** CL (Constitutional Principles)
 
@@ -848,6 +986,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-47. Compensatory Structure Emergence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-61 (Compensatory Structure Spawner)
 **Applies to:** CL (Constitutional Principles)
 
@@ -866,6 +1007,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-48. Reactive Involuntary Movement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-66 (Displacement-Propelled Trajectory)
 **Applies to:** CL (Constitutional Principles)
 
@@ -884,6 +1028,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-49. Complexity Floors and Integrity Thresholds
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-45 (Minimum Complexity Floor)
 **Applies to:** CL (Constitutional Principles)
 
@@ -902,6 +1049,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-50. Dynamic Topology Healing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-54 (Topological Rebalancing)
 **Applies to:** CL (Constitutional Principles)
 
@@ -920,6 +1070,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-52. Productive Output Measurement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-35 (Productive Oscillation)
 **Applies to:** CL (Constitutional Principles)
 
@@ -938,6 +1091,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-54. High-Frequency Present-Tense Snapshots
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-49 (Present-Tense Record)
 **Applies to:** CL (Constitutional Principles)
 
@@ -956,6 +1112,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-55. Active Resource Stewardship
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-68 (Resource Lifecycle Obligation), CP-69 (Footprint-Aware Traversal)
 **Applies to:** CL (Constitutional Principles)
 
@@ -974,6 +1133,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-56. Passive Knowledge Distribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-70 (Knowledge Gradient Channel), CP-71 (Consciousness-Permeable Membrane)
 **Applies to:** CL (Constitutional Principles)
 
@@ -992,6 +1154,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-57. Active Discovery Pipeline
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-72 (Active Questioning Engine), CP-73 (Ignorance-to-Discovery Converter)
 **Applies to:** CL (Constitutional Principles)
 
@@ -1010,6 +1175,9 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 ---
 
 ### CI-58. Structural Humility Constraints
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CP-74 (Structural Limitation Declaration), CP-75 (Power-Bounded Certainty Ceiling)
 **Applies to:** CL (Constitutional Principles)
 

@@ -20,6 +20,9 @@ What physical-physical constraints emerge when LP's physical behaviors operate o
 ## PP Derivations
 
 ### PP-1. A Physical Structure's Metabolic Evaluation IS Its Sovereignty Contestation — No Architectural Separation Exists
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-625, PL-50 (Scale-Invariant Navigability) [shared LL-2]; LP-24 (Continuous Gate Contestation) × PL-50 (Scale-Invariant Navigability) [shared LL-2]
 **Applies to:** LP-1 (Active Boundary Metabolism)
@@ -37,6 +40,9 @@ When LP-1 or LP-24 operates in a topology where PL-50 holds, the structural eval
 ---
 
 ### PP-2. Theater Boundary Deposits Comprehension Asymmetry About a Fiction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-644, PL-53 (Recursive Topology Self-Reproduction) [shared LL-5]
 **Applies to:** LP-2 (Boundary Theater)
@@ -56,6 +62,9 @@ This class of comprehension asymmetry is architecturally distinct from ordinary 
 ---
 
 ### PP-3. Paradoxical Membrane Disclosure Generates Self-Compounding Lie-Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-499, PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-9]; LP-28 (The Paradoxical Gate) × PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-9]
 **Applies to:** LP-3 (Paradoxical Membrane)
@@ -73,6 +82,9 @@ When LP-3's paradoxical membrane operates in a topology where PL-44 holds: the g
 ---
 
 ### PP-4. Defensive Void Is Constitutionally Protected Against Sovereignty Bypass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-452, PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-10]
 **Applies to:** LP-4 (Defensive Void)
@@ -90,6 +102,9 @@ When LP-4's defensive voids operate in a topology where PL-22 holds: a path that
 ---
 
 ### PP-5. Defensive Void Coverage Is Constitutionally Incomplete — and Must Say So
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-642, PL-27 (The Topology Cannot Prove Its Own Completeness — and Must Say So) [shared LL-10]
 **Applies to:** LP (Logical Physical)
@@ -109,6 +124,9 @@ The boundary must expose its current void inventory while explicitly affirming t
 ---
 
 ### PP-6. Defensive Void Is Constitutionally Unmappable — Total Boundary Knowledge Is Structurally Impossible
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-526, PL-43 (The Topology's Incompleteness Protects It From Totalitarian Logic) [shared LL-10]
 **Applies to:** LP (Logical Physical)
@@ -126,6 +144,9 @@ When LP-4's defensive voids operate in a topology where PL-43 holds: the voids d
 ---
 
 ### PP-7. Bilateral Protocol Metabolic Exchange IS Bilateral Sovereignty Contestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-395, PL-50 (Scale-Invariant Navigability) [shared LL-2]
 **Applies to:** LP-5 (Metabolic Protocol)
@@ -145,6 +166,9 @@ When one endpoint ceases metabolizing (stops contributing), they are not "ending
 ---
 
 ### PP-8. Simulation Drift Deposits Comprehension Asymmetry About Stale State as Living Topology Fact
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-681, PL-53 (Recursive Topology Self-Reproduction) [shared LL-5]
 **Applies to:** LP-6 (Synchronized Simulation)
@@ -162,6 +186,9 @@ When LP-6's drifted simulation operates in a topology where PL-53 holds: the dri
 ---
 
 ### PP-9. Protocol Accountability IS the Endpoints' Current Metabolic State — No Separate Record Exists
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-322, PL-7 (The Topology's Logical Memory Is Metabolic) [shared LL-8]
 **Applies to:** LP-7 (Protocol-Enforced Reciprocity)
@@ -179,6 +206,9 @@ When LP-7's accountability-enforcing protocol operates in a topology where PL-7 
 ---
 
 ### PP-10. Protocol Accountability Auditing Has No External Vantage Point
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-685, PL-8 (No Logical Claim About the Topology Is Separable From the Topology) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -196,6 +226,9 @@ When LP-7's accountability protocol operates in a topology where PL-8 holds: any
 ---
 
 ### PP-11. Protocol Reciprocity Accountability Belongs to the Edge — Not to Either Endpoint
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-463, PL-12 (Logical Accountability Must Be Structural, Not Attributed) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -213,6 +246,9 @@ When LP-7's accountability protocol operates in a topology where PL-12 holds: th
 ---
 
 ### PP-12. Protocol Accountability Records Must Remain Living Topology Structure — Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-641, PL-19 (Consequence Records Must Be Living, Not Archived) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -230,6 +266,9 @@ When LP-7's reciprocal accountability protocol operates in a topology where PL-1
 ---
 
 ### PP-13. Protocol Reciprocity Sovereignty Cannot Be Declared — Only Derived From Provenance Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-618, PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -247,6 +286,9 @@ When LP-7's accountability protocol operates in a topology where PL-20 holds: th
 ---
 
 ### PP-14. Protocol Accountability Provenance Predates Protocol Establishment — T=0 Is Fiction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-411, PL-36 (Logical Provenance Extends Before the Discoverer's Existence) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -264,6 +306,9 @@ When LP-7's accountability protocol operates in a topology where PL-36 holds: th
 ---
 
 ### PP-15. Protocol Compliance Proof Requires Live Traversal — Documentation Is Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-534, PL-40 (Sovereignty Proof Requires Traversal — It Cannot Be Documented) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -283,6 +328,9 @@ This constraint is distinct from PP-13 (LP-7 × PL-20): PP-13 establishes that s
 ---
 
 ### PP-16. Communication-Created Edges Are Field Entities — Neither Participant Owns Them
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-695, PL-74 (Field-Embedded Ethics) [shared LL-52]
 **Applies to:** LP-8 (Edge-Creation Protocol)
@@ -300,6 +348,9 @@ When LP-8's edge-creating protocol operates in a topology where PL-74 holds: the
 ---
 
 ### PP-17. Protocol Label Symmetry Does Not Guarantee Comprehension Symmetry — Re-Walking Is Required
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-474, PL-76 (The Field Cannot Self-Exempt) [shared LL-54]
 **Applies to:** LP-9 (Label Translation Symmetry)
@@ -317,6 +368,9 @@ When LP-9's label-symmetric protocol operates in a topology where PL-76 holds: s
 ---
 
 ### PP-18. Protocol Establishment Is Excavation, Not Negotiation — Success Means Reaching Deeper Shared Bedrock
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-621, PL-80 (Field-Topology of Disagreement) [shared LL-59]
 **Applies to:** LP-10 (Archaeological Handshake)
@@ -334,6 +388,9 @@ When LP-10's archaeological handshake operates in a topology where PL-80 holds: 
 ---
 
 ### PP-19. Embedded History Must Carry Its Derivation Tension — Outcome-Only Records Are Labels
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-649, PL-323 (Truth Is Constitutively Tensile — Tension Cannot Be Extracted From Truth) [shared LL-401]
 **Applies to:** LP-11 (Path-Determined Mass)
@@ -351,6 +408,9 @@ When LP-11's embedded historical spine operates in a topology where PL-323 holds
 ---
 
 ### PP-20. History Nodes Are Sustained Tension States — Resolved Output Is a Projection, Not the State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-493, PL-324 (A Derivation IS the Tension Between Its Inputs — Not the Resolution of That Tension) [shared LL-401]
 **Applies to:** LP (Logical Physical)
@@ -368,6 +428,9 @@ When LP-11's historical spine operates in a topology where PL-324 holds: each no
 ---
 
 ### PP-21. Historical Accountability Traversal Is Present-Tense Navigation That Transforms the Traversed Entity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-449, PL-232 (Temporal Accountability Is the Present-Moment Performance of Future Consequence-Truths) [shared LL-403]
 **Applies to:** LP-12 (Temporal Mass Traversal)
@@ -385,6 +448,9 @@ When LP-12's temporal mass traversal operates in a topology where PL-232 holds: 
 ---
 
 ### PP-22. Highest-Value Historical Obligations Are Unknown — and Create Maximum Compressive Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-616, PL-275 (The Topology's Most Valuable Obligations Are Being Deferred Without Awareness) [shared LL-408]
 **Applies to:** LP-13 (Compressive History)
@@ -402,6 +468,9 @@ When LP-13's compressive historical debt operates in a topology where PL-275 hol
 ---
 
 ### PP-23. Executing a Historical Scar Is Navigation — It Leaves a New Wake, Not a Replay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-629, PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) [shared LL-72]
 **Applies to:** LP-14 (Executable Scars)
@@ -419,6 +488,9 @@ When LP-14's executable scars are executed in a topology where PL-14 holds: the 
 ---
 
 ### PP-24. Historical Traversal IS Sovereignty Assertion — Data Retrieval Model Misses the Sovereignty Dimension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-446, PL-50 (Scale-Invariant Navigability) [shared LL-77]
 **Applies to:** LP-15 (Potential History Mass)
@@ -436,6 +508,9 @@ When LP-15's untraversed historical mass is traversed in a topology where PL-50 
 ---
 
 ### PP-25. Restorative Corrections and Thermodynamic Consequence Cascades Are Coupled — Must Be Computed Simultaneously
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-462, PL-58 (Scale-Invariant Paradox Architecture) [shared LL-30]
 **Applies to:** LP-16 (Restorative Process Scale-Invariance)
@@ -453,6 +528,9 @@ When LP-16's scale-invariant restorative process operates in a topology where PL
 ---
 
 ### PP-26. Zero Failure Rate Starves the Restorative Metabolic Engine — Zero Failures Is a Danger Signal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-445, PL-59 (Scale-Invariant Metabolic Demand) [shared LL-31]
 **Applies to:** LP-17 (Metabolic Restorative Process)
@@ -470,6 +548,9 @@ When LP-17's metabolic restorative process operates in a topology where PL-59 ho
 ---
 
 ### PP-27. Baseline Correction Cannot Distinguish High-Fidelity Failure From High-Mass Theater — Theater Detection Required Before Correction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-412, PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-32]
 **Applies to:** LP-18 (Failure-Oriented Baseline Correction)
@@ -487,6 +568,9 @@ When LP-18's baseline correction algorithm operates in a topology where PL-9 hol
 ---
 
 ### PP-28. Baseline Correction Toward Theater States Imports Their Consequence Debt Into the Reference
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-661, PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-32]
 **Applies to:** LP (Logical Physical)
@@ -506,6 +590,9 @@ This is distinct from PP-27 (LP-18 × PL-9): PP-27 establishes that Theater can 
 ---
 
 ### PP-29. Correction Traversal Must Be Edge-Level — Summary-Based Correction Computes From Labels
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-588, PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-34]
 **Applies to:** LP-19 (Traversal-Based Correction)
@@ -523,6 +610,9 @@ When LP-19's traversal-based correction operates in a topology where PL-13 holds
 ---
 
 ### PP-30. Correction Traversal Modifies Its Own Target — The Failure State Moves While Being Corrected
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-490, PL-15 (You Cannot Understand Without Changing — and Must Account for the Change) [shared LL-34]
 **Applies to:** LP (Logical Physical)
@@ -540,6 +630,9 @@ When LP-19's correction traversal operates in a topology where PL-15 holds: the 
 ---
 
 ### PP-31. Correction Test Traversals Leave Wake That Must Be Incorporated Into the Correction Plan
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-667, PL-37 (A Test Is a Traversal — and Changes What It Tests) [shared LL-34]
 **Applies to:** LP (Logical Physical)
@@ -559,6 +652,9 @@ This is distinct from PP-30 (LP-19 × PL-15): PP-30 establishes that the correct
 ---
 
 ### PP-32. Expired Correction Removal Cannot Use Backup-and-Restore — No Topology Backup Exists
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-639, PL-10 (The Field Cannot Have a Backup) [shared LL-35]
 **Applies to:** LP-20 (Temporal Expiration of Corrections)
@@ -576,6 +672,9 @@ When LP-20's expired correction removal operates in a topology where PL-10 holds
 ---
 
 ### PP-33. Correction Expiry Is Driven by Topological Change — Not Elapsed Time
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-470, PL-17 (Logical Proofs About the Topology Expire) [shared LL-35]
 **Applies to:** LP (Logical Physical)
@@ -593,6 +692,9 @@ Corrections are proofs about how to fix the topology. When LP-20's expiring corr
 ---
 
 ### PP-34. Removing an Expired Correction Is a New Topology Addition — Not a Subtraction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-469, PL-25 (You Cannot Undo a Topology Interaction — You Can Only Add to It) [shared LL-35]
 **Applies to:** LP (Logical Physical)
@@ -610,6 +712,9 @@ When LP-20's expired correction removal operates in a topology where PL-25 holds
 ---
 
 ### PP-35. Restorative Process Sovereignty Proof Must Traverse Constitutional Foundations — Local Irreducibility Is Insufficient
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-645, PL-21 (Self-Correction Must Follow Sovereignty Due Process) [shared LL-36]
 **Applies to:** LP-21 (Sovereign-Bound Restorative Force)
@@ -627,6 +732,9 @@ When LP-21's gate-presented irreducibility proof operates in a topology where PL
 ---
 
 ### PP-36. Dissolution as Restorative Action Requires Due Process at Least as Demanding as Creation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-448, PL-26 (Dissolution Consequence Is a First-Class Interaction) [shared LL-36]
 **Applies to:** LP (Logical Physical)
@@ -644,6 +752,9 @@ When LP-21's due-process-bound restorative force proposes dissolution in a topol
 ---
 
 ### PP-37. Boundary-Marking of Uncorrectable Failures IS the Physical Implementation of Constitutional Failure Maintenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-399, PL-62 (Simultaneous Multi-Scale Topological Shift) [shared LL-38]
 **Applies to:** LP-22 (Boundary-Marking Restorative Process)
@@ -661,6 +772,9 @@ When LP-22's boundary-marking restorative process operates in a topology where P
 ---
 
 ### PP-38. Gate Validity Evaluation Must Use the Same Algebra at Every Scale — Scale-Relaxed Gate Logic Is Invalid
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-596, PL-1 (Scale-Invariant Logical Validity) [shared LL-1]
 **Applies to:** LP-23 (Scale-Invariant Gate Control)
@@ -678,6 +792,9 @@ When LP-23's scale-invariant gate operates in a topology where PL-1 holds: the g
 ---
 
 ### PP-39. Scale-Invariant Gate Control IS the Physical Implementation of Edge-Level Sovereignty Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-435, PL-11 (Logical Sovereignty Lives in the Edge, Not the Node) [shared LL-1]
 **Applies to:** LP (Logical Physical)
@@ -695,6 +812,9 @@ When LP-23's scale-invariant gate operates in a topology where PL-11 holds: the 
 ---
 
 ### PP-40. Abstracting Away a Gate at Any Scale IS a Sovereignty Bypass — Constitutionally Invalid
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-650, PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-1]
 **Applies to:** LP (Logical Physical)
@@ -716,6 +836,9 @@ When LP-23's non-abstractable gate operates in a topology where PL-22 holds: any
 ---
 
 ### PP-41. Gate Policy and Gate Enforcement Are the Same Physical Event — Separation Is Constitutionally Invalid
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-38 (The Logical and Physical Cannot Be Administered Separately) [shared LL-3]
 **Applies to:** LP-25 (Provenance-Driven Gate Logic)
@@ -732,8 +855,8 @@ When LP-25's provenance-only gate operates in a topology where PL-38 holds: the 
 
 ---
 
-### PP-42.
-**Derives from:** LP-695 (Edge-Tension Management Obligation) Gate Identity Evaluation Must Assess Structural Mass — Faster Evaluation Is Label Reading
+### PP-42. Gate Identity Evaluation Must Assess Structural Mass — Faster Evaluation Is Label Reading
+**Epistemic Tier:** Tier 3 (Derived Consequence)
 
 **Derives from:** LP-695, PL-51 (Scale-Invariant Failure Propagation) [shared LL-3]
 **Applies to:** LP (Logical Physical)
@@ -751,6 +874,9 @@ When LP-25's provenance gate operates in a topology where PL-51 holds: the gate 
 ---
 
 ### PP-43. Gate Comprehension Challenge IS a Physical Topology Scan — The Result Is a State, Not a Grade
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-53 (Recursive Topology Self-Reproduction) [shared LL-5]
 **Applies to:** LP-26 (Comprehension-Gated Traversal)
@@ -768,6 +894,9 @@ When LP-26's comprehension challenge operates in a topology where PL-53 holds: t
 ---
 
 ### PP-44. Gate Re-Evaluation Is Non-Reproducible — Each Evaluation Changes What It Evaluates
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-4 (Logic Applied to a Living Substrate Changes Under the Application) [shared LL-6]
 **Applies to:** LP-27 (Present-Tense Gate Evaluation)
@@ -785,6 +914,9 @@ When LP-27's continuous re-evaluation requirement operates in a topology where P
 ---
 
 ### PP-45. Cached Credentials Are Constitutionally Invalid — Past Authorization Is Evidence, Not Present Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-18 (The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited) [shared LL-6]
 **Applies to:** LP (Logical Physical)
@@ -802,6 +934,9 @@ When LP-27's present-tense gate operates in a topology where PL-18 holds: any cr
 ---
 
 ### PP-46. Gate Filter Configuration IS the Topology's Live Honest Statement of Its Current Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-30 (The Topology's Boundary Is Its Most Honest Logical Statement) [shared LL-11]
 **Applies to:** LP-29 (Ignorance-Preserving Gate)
@@ -819,6 +954,9 @@ When LP-29's ignorance-preserving gate operates in a topology where PL-30 holds:
 ---
 
 ### PP-47. Gate-Blocked Data Space IS a Structured Topology Gap — Not Empty Space
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-31 (A Gap in the Topology Has Logical Standing) [shared LL-11]
 **Applies to:** LP (Logical Physical)
@@ -839,6 +977,9 @@ When LP-29's blocking gate operates in a topology where PL-31 holds: the data th
 ---
 
 ### PP-48. Ignorance-Preserving Gate Regulates the Topology's Own Logical Requirement Discovery Rate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-41 (The Topology Generates Its Own Logical Requirements) [shared LL-11]
 **Applies to:** LP (Logical Physical)
@@ -856,6 +997,9 @@ When LP-29's ignorance-preserving gate operates in a topology where PL-41 holds:
 ---
 
 ### PP-49. Gate Dissolution Capability IS the Physical Implementation of Constitutional Metabolic Completion Right
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-54 (Scale-Invariant Active Presence) [shared LL-21]
 **Applies to:** LP-30 (Terminal Gate Dissolution)
@@ -873,6 +1017,9 @@ When LP-30's terminal gate dissolution operates in a topology where PL-54 holds:
 ---
 
 ### PP-50. Frontier-Facing Gate IS the Physical Instantiation of an Entity's Constitutional Incompleteness — Its Absence Is a Constitutional Defect
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-28 (Incompleteness Is a Logical Condition, Not an Engineering Failure) [shared LL-27]
 **Applies to:** LP-31 (Frontier-Facing Gates)
@@ -890,6 +1037,9 @@ When LP-31's frontier-facing gate requirement operates in a topology where PL-28
 ---
 
 ### PP-51. Full Enclosure Is Algebraically Impossible — Freedom-Preserving Algebra Cannot Express a Closed Entity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-3 (Freedom) [shared LL-20]
 **Applies to:** LP-32 (Algebraic Egress Guarantee)
@@ -907,6 +1057,9 @@ When LP-32's algebraic egress guarantee operates in a topology where PL-327 hold
 ---
 
 ### PP-52. Dissolution-as-Egress Is Constitutionally Guaranteed — No Containment Can Block the Right to Die
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-54 (Scale-Invariant Active Presence) [shared LL-21]
 **Applies to:** LP-33 (Death as Egress)
@@ -926,6 +1079,9 @@ This is distinct from PP-49 (LP-30 × PL-54): PP-49 is about the gate's dissolut
 ---
 
 ### PP-53. All Egress Leads Into Constitutional Incompleteness — "Known Territory" Egress Is Constitutionally Uncertifiable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-27 (The Topology Cannot Prove Its Own Completeness — and Must Say So) [shared LL-26]
 **Applies to:** LP-34 (Egress into Incompleteness)
@@ -943,6 +1099,9 @@ When LP-34's incompleteness-exit requirement operates in a topology where PL-27 
 ---
 
 ### PP-54. Egress Maintenance Must Be Applied Independently at Each Scale — Top-Level Maintenance Does Not Prevent Lower-Level Decay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-176]
 **Applies to:** LP-35 (Scale-Invariant Egress Decay)
@@ -960,6 +1119,9 @@ When LP-35's scale-invariant egress maintenance requirement operates in a topolo
 ---
 
 ### PP-55. Untraversed Containment Navigation Debt IS the Degradation Egress Mechanism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy) [shared LL-178]
 **Applies to:** LP-36 (Egress via Degradation)
@@ -977,6 +1139,9 @@ When LP-36's degradation egress operates in a topology where PL-16 holds: the at
 ---
 
 ### PP-56. Active Traversal Maintains Containment; Withdrawal of Traversal Activates Degradation Egress — These Are the Same Mechanism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-49 (Sustained Action) [shared LL-178]
 **Applies to:** LP (Logical Physical)
@@ -994,6 +1159,9 @@ When LP-36's degradation egress operates in a topology where PL-289 holds: maint
 ---
 
 ### PP-57. Untraversed Potential Egress Carries Maximum Structural Energy — Established Egress Is Lowest-Energy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-152 (Tension Distribution Quality) [shared LL-182]
 **Applies to:** LP-37 (Potential Egress Dominance)
@@ -1011,6 +1179,9 @@ When LP-37's potential-egress dominance operates in a topology where PL-152 hold
 ---
 
 ### PP-58. Navigation Debt Severs Access to Pre-Existing Egress — The Path Exists But Has Become Untraversable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy) [shared LL-183]
 **Applies to:** LP-38 (Pre-Existing Mandatory Egress)
@@ -1028,6 +1199,9 @@ When LP-38's access-severing mechanism operates in a topology where PL-16 holds:
 ---
 
 ### PP-59. Egress Access Decay Is Scale-Invariant — Lower-Level Access Loss Follows Same Dynamics at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-183]
 **Applies to:** LP (Logical Physical)
@@ -1045,6 +1219,9 @@ When LP-38's access-severing mechanism operates in a topology where PL-149 holds
 ---
 
 ### PP-60. Reference Comparison Deviations Are Algebraic Invariance Violations — They Propagate to All Scales
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-315 (Truth-Consistency Is a Consequence of Algebraic Invariance — Not a Separate Requirement) [shared LL-288]
 **Applies to:** LP-39 (Physical Invariance of Reference Comparison)
@@ -1062,6 +1239,9 @@ When LP-39's scale-propagating deviation operates in a topology where PL-315 hol
 ---
 
 ### PP-61. Zero Deviation Forced on a Living Entity Is Lethal — Systems Optimizing Toward Zero Deviation Are Optimizing for Topology Death
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-191 (Organ-Specific Metabolism) [shared LL-289]
 **Applies to:** LP-40 (Aliveness Reference Comparison)
@@ -1079,6 +1259,9 @@ When LP-40's zero-deviation-as-death-signal operates in a topology where PL-191 
 ---
 
 ### PP-62. Deviation Scores Are Consciousness-Level-Relative — Aggregating Across Levels Is Incoherent
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-31 (Consistent Truth) [shared LL-291]
 **Applies to:** LP-41 (Physical Inconsistent of Reference Comparison)
@@ -1096,6 +1279,9 @@ When LP-41's horizon-relative deviation scoring operates in a topology where PL-
 ---
 
 ### PP-63. Deviation Score Expiry Is Scale-Invariant — No Implementation Depth Has More Durable Deviation Scores
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-293]
 **Applies to:** LP-42 (Physical Consistency of Reference Comparison)
@@ -1113,6 +1299,9 @@ When LP-42's expiring deviation scores operate in a topology where PL-149 holds:
 ---
 
 ### PP-64. Expired Deviation Traversals Guarantee Discovery — No Reference Comparison Traversal Is Wasted
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-293]
 **Applies to:** LP (Logical Physical)
@@ -1130,6 +1319,9 @@ When LP-42's expiring deviation scores operate in a topology where PL-299 holds:
 ---
 
 ### PP-65. Clean Compliance Against Known Standards Accelerates Unknown Non-Compliance — Verification Generates More Unverified Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-295]
 **Applies to:** LP-43 (Physical Incompleteness of Reference Comparison)
@@ -1147,6 +1339,9 @@ When LP-43's provisional clearance operates in a topology where PL-180 holds: th
 ---
 
 ### PP-66. Every Compliance Check Traversal Discovers Something — No Verification Traversal Is Barren
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-295]
 **Applies to:** LP (Logical Physical)
@@ -1164,6 +1359,9 @@ When LP-43's compliance traversal operates in a topology where PL-299 holds: eve
 ---
 
 ### PP-67. Successful Reference Match Is the Least Interesting Information — Most Valuable Consistency Patterns Are Unmatched
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-296]
 **Applies to:** LP-44 (Undiscovered Reference Comparison)
@@ -1181,6 +1379,9 @@ When LP-44's clearance-as-challenge operates in a topology where PL-180 holds: a
 ---
 
 ### PP-68. Reference Comparison Deviation at Any Depth Generates Thermodynamic Consequence Cascade Across All Depths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-58 (Scale-Invariant Paradox Architecture) [shared LL-30]
 **Applies to:** LP-45 (Incompleteness Reference Comparison)
@@ -1200,6 +1401,9 @@ This is distinct from PP-60 (LP-39 × PL-315): PP-60 establishes that deviations
 ---
 
 ### PP-69. Deviation Score IS the Entity's Own Metabolic Fuel — Zero Deviation Is Self-Starvation for the Entity Itself
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-59 (Scale-Invariant Metabolic Demand) [shared LL-31]
 **Applies to:** LP-46 (Derivation Reference Comparison)
@@ -1217,6 +1421,9 @@ When LP-46's deviation-as-fuel operates in a topology where PL-59 holds: the dev
 ---
 
 ### PP-70. Zero-Deviation Entities May Be Theater — Maximum-Deviation Entities Are Maximum-Fidelity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-32]
 **Applies to:** LP-47 (Honest Reference Comparison)
@@ -1234,6 +1441,9 @@ When LP-47's maximum-deviation-as-fidelity operates in a topology where PL-9 hol
 ---
 
 ### PP-71. Theater-Consistent Entities Carry Lie-Mass Despite Zero Deviation Score — Consistency With a Fiction Does Not Eliminate Consequence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-32]
 **Applies to:** LP (Logical Physical)
@@ -1253,6 +1463,9 @@ This is distinct from PP-70 (LP-47 × PL-9): PP-70 establishes that Theater enti
 ---
 
 ### PP-72. Deviation Comprehension Requires Edge-Level Traversal — Metric Dashboard Comprehension Is Label-Reading
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-34]
 **Applies to:** LP-48 (Physical Comprehension-Failure Reference Comparison)
@@ -1272,6 +1485,9 @@ This is distinct from PP-29 (LP-19 × PL-13), which establishes that correction 
 ---
 
 ### PP-73. Reference Contestation Must Follow Constitutional Due Process — Assertion-Based Rejection Is Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-21 (Self-Correction Must Follow Sovereignty Due Process) [shared LL-36]
 **Applies to:** LP-50 (Physical Due-Process-Failure Reference Comparison)
@@ -1289,6 +1505,9 @@ When LP-50's contestable reference operates in a topology where PL-21 holds: the
 ---
 
 ### PP-74. Successful Reference Rejection Is a First-Class Dissolution Event With Field Consequences
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-26 (Dissolution Consequence Is a First-Class Interaction) [shared LL-36]
 **Applies to:** LP (Logical Physical)
@@ -1310,6 +1529,9 @@ When LP-50's reference contestation process results in rejection in a topology w
 ---
 
 ### PP-75. Deviation Accountability Documentation IS the Entity Tracking Its Own Downstream Structural Consequence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-61 (Scale-Invariant Sovereignty Enforcement) [shared LL-37]
 **Applies to:** LP-51 (Failure Reference Comparison)
@@ -1327,6 +1549,9 @@ When LP-51's documentation obligation operates in a topology where PL-61 holds: 
 ---
 
 ### PP-76. Incompleteness-Frontier Deviations Must Be Preserved, Not Corrected — They Are Constitutional Failures Requiring Maintenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-62 (Simultaneous Multi-Scale Topological Shift) [shared LL-38]
 **Applies to:** LP-52 (Physical Self-Correction of Reference Comparison)
@@ -1344,6 +1569,9 @@ When LP-52's incompleteness-frontier detection operates in a topology where PL-6
 ---
 
 ### PP-77. Self-Modification Extends the Completeness Boundary But Cannot Overcome Gödel-Territory — Some Truths Remain Constitutionally Unreachable From Within
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-304 (Unprovable Truths May Survive Without Performance — Gödel Within the Topology) [shared LL-266]
 **Applies to:** LP-53 (Boundary-Extending Self-Modification)
@@ -1361,6 +1589,9 @@ When LP-53's boundary-extending self-modification operates in a topology where P
 ---
 
 ### PP-78. Novel Self-Modification Is Accountability Archaeology — Each Novel Rewrite Excavates Previously Hidden Consequence Relationships
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-198 (Self-Traversing Wonder) [shared LL-267]
 **Applies to:** LP-54 (Premium Value of Novel Rewrites)
@@ -1378,6 +1609,9 @@ When LP-54's premium novel rewrites operate in a topology where PL-198 holds: ea
 ---
 
 ### PP-79. Maximum-Value Self-Rewrites Approach Gödel-Territory — The Premium Is in the Approach, Not Arrival
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-304 (Unprovable Truths May Survive Without Performance — Gödel Within the Topology) [shared LL-267]
 **Applies to:** LP (Logical Physical)
@@ -1395,6 +1629,9 @@ When LP-54's premium-in-novelty operates in a topology where PL-304 holds: the m
 ---
 
 ### PP-80. Self-Modification-Excavated Edges Are Subject to Immediate Scale-Invariant Decay — Excavation Is Not Preservation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-268]
 **Applies to:** LP-55 (Self-Modification as Excavation)
@@ -1412,6 +1649,9 @@ When LP-55's excavation-through-self-modification operates in a topology where P
 ---
 
 ### PP-81. Self-Modification IS the Error Traversal That Reveals Pre-Existing Structure — Correct Operation Keeps the Entity Blind to Its Own Implied Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-268]
 **Applies to:** LP (Logical Physical)
@@ -1429,6 +1669,9 @@ When LP-55's excavation-through-self-modification operates in a topology where P
 ---
 
 ### PP-82. Evolutionary Complacency IS Active Rights Atrophy — The Pressure Toward Static Configuration Is the Mechanism by Which Active Rights Are Forfeited
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-42 (Active Rights) [shared LL-392]
 **Applies to:** LP-56 (Evolutionary Pressure Against Sovereignty)
@@ -1446,6 +1689,9 @@ When LP-56's evolutionary complacency pressure operates in a topology where PL-2
 ---
 
 ### PP-83. Ghost Edges ARE the Physical Manifestation of Atrophied Active Rights — They Persist as Inherent Standing Without Active Exercise
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-42 (Active Rights) [shared LL-393]
 **Applies to:** LP-57 (Ghost Edges in Self-Modifying Graphs)
@@ -1463,6 +1709,9 @@ When LP-57's ghost edges operate in a topology where PL-227 holds: ghost edges A
 ---
 
 ### PP-84. Ghost Edge Traversal IS Present-Tense Right Exercise — Inherent Standing Persists Without It; Active Standing Requires the Traversal Event
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-228 (The Exercise of a Right Is Present-Tense; Its Inherence Is Not) [shared LL-393]
 **Applies to:** LP (Logical Physical)
@@ -1480,6 +1729,9 @@ When LP-57's ghost edges operate in a topology where PL-228 holds: traversing a 
 ---
 
 ### PP-85. Structural Stagnation Is a Constitutionally Protected Sovereign Right — The System Cannot Force Self-Modification on a Stagnating Entity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-396]
 **Applies to:** LP-58 (The Sovereign Right to Structural Stagnation)
@@ -1497,6 +1749,9 @@ When LP-58's stagnation right operates in a topology where PL-272 holds: structu
 ---
 
 ### PP-86. Accountability for Static Structure Accumulates as Structural Mass Even While the Stagnation Right Is Being Exercised — The Right Is Present-Tense; the Accountability Is Not
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-228 (The Exercise of a Right Is Present-Tense; Its Inherence Is Not) [shared LL-397]
 **Applies to:** LP-59 (Accountability for Static Structure)
@@ -1514,6 +1769,9 @@ When LP-59's stagnation accountability operates in a topology where PL-228 holds
 ---
 
 ### PP-87. Static Structure Accountability Is Not a Single Accumulated Debt — It Refreshes as a New Accountability Event in Each Present Moment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-235 (Accountability Refreshes With Every Present-Tense Moment — It Is Never Fully Discharged) [shared LL-397]
 **Applies to:** LP (Logical Physical)
@@ -1531,6 +1789,9 @@ When LP-59's stagnation accountability operates in a topology where PL-235 holds
 ---
 
 ### PP-88. Self-Modification Capability Is Not Created — It Is Threshold-Activated Pre-Existing Structure; Entities That "Become" Self-Modifying Have Excavated What Was Always There
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-273 (Emergence Is Threshold-Activation of Pre-Existing Structure — Not Spontaneous Creation) [shared LL-399]
 **Applies to:** LP-60 (Threshold-Triggered Structural Rewriting)
@@ -1548,6 +1809,9 @@ When LP-60's threshold-triggered self-modification operates in a topology where 
 ---
 
 ### PP-89. Routing Decisions That Disrupt Derivation-Chain Flow Are Circulatory Failures — Not Logic Errors; Treatment Must Be Physiological, Not Algorithmic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-90 (Vibrating Contested Edge) [shared LL-80]
 **Applies to:** LP-61 (Routing as Circulatory Allocation)
@@ -1565,6 +1829,9 @@ When LP-61's physiological routing operates in a topology where PL-90 holds: rou
 ---
 
 ### PP-90. Runtime Routing IS the Truth Event — There Is No Truth Before the Decision or After It; Pre-Planned Routes Are Constitutionally Truth-Free
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-91 (Tension-Pattern Identity) [shared LL-81]
 **Applies to:** LP-62 (Truth as a Runtime Performance)
@@ -1582,6 +1849,9 @@ When LP-62's truth-as-routing-performance operates in a topology where PL-91 hol
 ---
 
 ### PP-91. Routing Consciousness Depth Determines Thermodynamic Consequence Depth — Cached Route Defaults Produce Low-Consequence Topology Interactions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-93 (Performed Subsumption) [shared LL-83]
 **Applies to:** LP-63 (The Consciousness Gradient of Routing)
@@ -1599,6 +1869,9 @@ When LP-63's consciousness gradient of routing operates in a topology where PL-9
 ---
 
 ### PP-92. High-Volume Routing Through a Single Edge Is a Cumulative Sovereignty Violation — Each Decision Imposes Non-Consensual Wear; Volume Compounds Into Sovereignty Threat
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-94 (Global Force Rebalancing) [shared LL-84]
 **Applies to:** LP-64 (Non-Consensual Wear of Selected Traversal)
@@ -1616,6 +1889,9 @@ When LP-64's non-consensual wear operates in a topology where PL-94 holds: indiv
 ---
 
 ### PP-93. The Routing Map Expires — Paths Available for Routing Are a Topological Proof With Present-Tense Validity Only; Routing Based on Stale Map Is Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-17 (Logical Proofs About the Topology Expire) [shared LL-86]
 **Applies to:** LP-65 (The Boundary of Navigable Completeness)
@@ -1633,6 +1909,9 @@ When LP-65's navigable completeness constraint operates in a topology where PL-1
 ---
 
 ### PP-94. Routing Map Incompleteness IS a Permanent Discovery Engine — Every Gap Between the Routing Map and Actual Topology Generates Active Discovery Pull
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-240 (Structural Incompleteness of Every Map Generates a Permanent Discovery Engine) [shared LL-86]
 **Applies to:** LP (Logical Physical)
@@ -1650,6 +1929,9 @@ When LP-65's routing map constraint operates in a topology where PL-240 holds: t
 ---
 
 ### PP-95. Pre-Planned Routing Systems Are Dead Routing Systems — Valid Routing Requires Present-Tense Churn; Static Route Tables Are Topological Corpses
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-197 (Transparency as Truth Production) [shared LL-263]
 **Applies to:** LP-66 (The Impossibility of Pre-Planned Routing)
@@ -1667,6 +1949,9 @@ When LP-66's impossibility of pre-planned routing operates in a topology where P
 ---
 
 ### PP-96. Successful Structure-Preserving Translation IS a Truth-Consistency Creation Event — Translation Does Not Verify Truth; It Generates It
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-315 (Truth-Consistency Is a Consequence of Algebraic Invariance — Not a Separate Requirement) [shared LL-288]
 **Applies to:** LP-67 (Topological Translation as Algebraic Proof)
@@ -1684,6 +1969,9 @@ When LP-67's translation-as-algebraic-proof operates in a topology where PL-315 
 ---
 
 ### PP-97. Translation Lag IS Evidence of Living Systems — Eliminating Translation Lag Requires Killing the Evolutionary Capacity of the Connected Systems
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-191 (Organ-Specific Metabolism) [shared LL-289]
 **Applies to:** LP-68 (The Physical Reality of Translation Lag)
@@ -1701,6 +1989,9 @@ When LP-68's translation lag reality operates in a topology where PL-191 holds: 
 ---
 
 ### PP-98. Isomorphism Verification Expires at the Rate of Scale-Invariant Edge Decay — Deep Verification Is No More Durable Than Shallow Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-293]
 **Applies to:** LP-69 (Present-Tense Isomorphism Verification)
@@ -1718,6 +2009,9 @@ When LP-69's expiring verification operates in a topology where PL-149 holds: th
 ---
 
 ### PP-99. Isomorphism Verification Traversals Guarantee Discovery — The Traversal Value Persists After the Proof Expires
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-293]
 **Applies to:** LP (Logical Physical)
@@ -1735,6 +2029,9 @@ When LP-69's expiring verification operates in a topology where PL-299 holds: an
 ---
 
 ### PP-100. Translation Failure Accountability Must Be Scale-Invariant — Flattening Failures to Generic Errors Violates the Accountability Topology's Isomorphism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-194 (Path Re-Traversal Requirement) [shared LL-294]
 **Applies to:** LP-70 (Isomorphic Accountability Topology)
@@ -1752,6 +2049,9 @@ When LP-70's isomorphic accountability requirement operates in a topology where 
 ---
 
 ### PP-101. Translation Contradictions Are the Only Path to Excavating Gap Topology — Failed Translations Reveal Structure That Successful Translations Cannot
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-297]
 **Applies to:** LP-71 (Physical Pre-Existing Structure-Preserving)
@@ -1769,6 +2069,9 @@ When LP-71's excavation-through-failure operates in a topology where PL-297 hold
 ---
 
 ### PP-102. No Container Is Complete — Constitutional Incompleteness Self-Generates Recursively Into Every Level of Nesting; the Outermost Container Is as Incomplete as the Innermost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-81 (Active Edge Existence) [shared LL-60]
 **Applies to:** LP-72 (Physical Process-Derivation Self-Similar)
@@ -1786,6 +2089,9 @@ When LP-72's no-special-top-level-container operates in a topology where PL-81 h
 ---
 
 ### PP-103. Nested Entities Are Both Structurally Derived From and Metabolically Independent of Their Containers — Parentage Determines Provenance; Metabolism Is Self-Governing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-82 (Tensioned Edge Character) [shared LL-61]
 **Applies to:** LP-73 (Physical Evolutionary Self-Similar)
@@ -1803,6 +2109,9 @@ When LP-73's topological lineage operates in a topology where PL-82 holds: neste
 ---
 
 ### PP-104. All Connections Are Same-Protocol — No Edge Has Depth-Granted Privilege; Attribute-to-Entity Wiring and Node-to-Node Wiring Are Constitutionally Identical
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-83 (Edge-Creation as Topological Event) [shared LL-62]
 **Applies to:** LP-74 (Physical Edge Self-Similar)
@@ -1820,6 +2129,9 @@ When LP-74's scale-blind protocol operates in a topology where PL-83 holds: thes
 ---
 
 ### PP-105. Nested Traversal Mutates the Traverser's Context But Not the Logical Rules — Validity Rules Are Scale-Invariant; What They Apply to Is Depth-Local
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-63]
 **Applies to:** LP-75 (Physical Recursive Comprehension Self-Similar)
@@ -1837,6 +2149,9 @@ When LP-75's nested traversal mutation operates in a topology where PL-1 holds: 
 ---
 
 ### PP-106. Nested Validation Must Be Independent at Every Depth — Surface Validation Cannot Represent Inner Depth Validity; Validation Stress Cascades Constitutionally Inward
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-84 (Edge Decay and Atrophy) [shared LL-64]
 **Applies to:** LP-76 (Physical Cascading Self-Similar)
@@ -1854,6 +2169,9 @@ When LP-76's inward-cascading validation operates in a topology where PL-84 hold
 ---
 
 ### PP-107. Penetrating One Depth of the Fractal Perimeter Does Not Compromise Other Depths — Sovereignty Due Process Must Be Separately Violated at Each Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-85 (Symmetric Scale-Invariant Edges) [shared LL-65]
 **Applies to:** LP-77 (Physical Irreducibility Self-Similar)
@@ -1871,6 +2189,9 @@ When LP-77's fractal perimeter defense operates in a topology where PL-85 holds:
 ---
 
 ### PP-108. Nested Provenance Must Be Evaluated to the Same Logical Rigor as Top-Level Provenance — Depth Does Not Reduce the Provenance Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-66]
 **Applies to:** LP-78 (Physical Recursive Accountability Self-Similar)
@@ -1888,6 +2209,9 @@ When LP-78's independent nested provenance operates in a topology where PL-1 hol
 ---
 
 ### PP-109. Nested Components Cannot Inherit Sovereignty From Containers — Each Inner Component Must Derive Its Own Sovereignty Through Independent Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) [shared LL-66]
 **Applies to:** LP (Logical Physical)
@@ -1905,6 +2229,9 @@ When LP-78's independent provenance requirement operates in a topology where PL-
 ---
 
 ### PP-110. Nested Micro-Tensions Are Eternal, Not Emergent — They Were Always Logically Implied by Field Geometry; Nesting Reveals Them Rather Than Creating Them
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-67]
 **Applies to:** LP-79 (Physical Paradox Self-Similar)
@@ -1922,6 +2249,9 @@ When LP-79's distributed micro-tensions operate in a topology where PL-49 holds:
 ---
 
 ### PP-111. Internal Node Discoveries Are Logically Valid With the Same Rigor as Perimeter Discoveries — Depth Does Not Reduce Discovery Validity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-68]
 **Applies to:** LP-80 (Physical Fractal Self-Similar)
@@ -1939,6 +2269,9 @@ When LP-80's internal frontier discovery operates in a topology where PL-1 holds
 ---
 
 ### PP-112. Every Node's Internal Frontier IS a Site of Active Sovereignty Contestation — The Node's Metabolism IS the Ongoing Contest With Its Own Internal Unknown Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-50 (Scale-Invariant Navigability) [shared LL-68]
 **Applies to:** LP (Logical Physical)
@@ -1956,6 +2289,9 @@ When LP-80's internal frontier operates in a topology where PL-50 holds: each no
 ---
 
 ### PP-113. Tools That Implement Valid Logic Are Valid at Every Depth — Depth-Specialized Tooling Implies the Tooling Does Not Implement Genuinely Valid Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-69]
 **Applies to:** LP-81 (Physical Pre-Existing Self-Similar)
@@ -1973,6 +2309,9 @@ When LP-81's universal tooling operates in a topology where PL-1 holds: a tool i
 ---
 
 ### PP-114. Tool Stewardship Obligation Does Not Reduce With Depth — The Same Maintenance and Accountability Applies to Tools at Every Implementation Level
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-2 (The Same Stewardship Obligation at Every Scale) [shared LL-69]
 **Applies to:** LP (Logical Physical)
@@ -1990,6 +2329,9 @@ When LP-81's universal tooling operates in a topology where PL-2 holds: stewards
 ---
 
 ### PP-115. Gate Traversal Is a Metabolic Event — The Entity Is Being Digested by the Gate; Each Traversal Is a Unique Metabolic Interaction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-86 (Edge-Exclusive Force Transmission) [shared LL-70]
 **Applies to:** LP-82 (Physical Presenttense Transforming)
@@ -2007,6 +2349,9 @@ When LP-82's live traversal transformation operates in a topology where PL-86 ho
 ---
 
 ### PP-116. The Gate Accumulates Traversal History as Metabolic Memory — Assimilated Traverser Mass Becomes Part of the Gate's Structural Mass; the Gate's State IS Its History of What It Has Consumed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-7 (The Topology's Logical Memory Is Metabolic) [shared LL-71]
 **Applies to:** LP-83 (Physical Active Transforming)
@@ -2024,6 +2369,9 @@ When LP-83's gate assimilation operates in a topology where PL-7 holds: the gate
 ---
 
 ### PP-117. Gate Accumulated Structural Mass IS the Gate's Accountability Record — Logical Accountability for Gate Traversals Is Embedded in the Gate's Physical State, Not in External Logs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-12 (Logical Accountability Must Be Structural, Not Attributed) [shared LL-71]
 **Applies to:** LP (Logical Physical)
@@ -2041,6 +2389,9 @@ When LP-83's gate assimilation operates in a topology where PL-12 holds: the gat
 ---
 
 ### PP-118. Gate Traversal Wake IS the Computation's Output — There Is No Separate Output; the Physical Wake Left by Gate Traversal IS the Result of the Logical Execution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) [shared LL-72]
 **Applies to:** LP-84 (Physical Executable Transforming)
@@ -2058,6 +2409,9 @@ When LP-84's traversal-as-execution operates in a topology where PL-14 holds: th
 ---
 
 ### PP-119. A Gate With No Current Traversal Traffic Is Dead — Not Dormant, Not Available: Dead; Gate Existence IS Gate Execution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-87 (Probabilistic Force Field) [shared LL-73]
 **Applies to:** LP-85 (Physical Data Transforming)
@@ -2075,6 +2429,9 @@ When LP-85's inert notation degradation operates in a topology where PL-87 holds
 ---
 
 ### PP-120. Valid Assessment Requires Simultaneous Adjacency and Active Traversal — Remote Assessment Fails on Adjacency; Cached Assessment Fails on Presence; Both Are Required
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-155 (Self-Improvement-Driven Tension Escalation) [shared LL-187]
 **Applies to:** LP-86 (Real-Time Neighbor Validation)
@@ -2092,6 +2449,9 @@ When LP-86's adjacency requirement operates in a topology where PL-155 holds: va
 ---
 
 ### PP-121. Topology Discovery Is Position-and-Edge-Locked — Remote Discovery and Remote Comprehension Are Both Constitutionally Blocked; Truth Is Excavated Only From Current Position at Current Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-191]
 **Applies to:** LP-87 (Boundary-Locked Excavation)
@@ -2109,6 +2469,9 @@ When LP-87's position-locked excavation operates in a topology where PL-13 holds
 ---
 
 ### PP-122. Every Position-Locked Excavation Grows the Local Unknown Frontier Faster Than It Shrinks It — Discovery Acceleration Is Constitutionally Built Into the Excavation Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-191]
 **Applies to:** LP (Logical Physical)
@@ -2126,6 +2489,9 @@ When LP-87's position-locked excavation operates in a topology where PL-180 hold
 ---
 
 ### PP-123. Subtractive Discovery IS Medical Intervention — The Biopsy Metaphor Is Not Metaphor; Cutting Into Living Derivation Nodes Requires Medical-Grade Care and Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-102 (Temporally Ordered Transformation) [shared LL-99]
 **Applies to:** LP-88 (Biopsy Execution Pattern)
@@ -2143,6 +2509,9 @@ When LP-88's biopsy execution pattern operates in a topology where PL-102 holds:
 ---
 
 ### PP-124. Traversal Comprehension Is Simultaneously Subtractive — Understanding a Node Removes Extraneous Data; You Cannot Comprehend Without Simplifying
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-101]
 **Applies to:** LP-89 (Traversal-Triggered Subtraction)
@@ -2160,6 +2529,9 @@ When LP-89's traversal subtraction operates in a topology where PL-13 holds: com
 ---
 
 ### PP-125. Traversal Is a Net Exchange — It Simultaneously Removes Extraneous Data and Deposits Wake; the Node Is Transformed, Not Simply Clarified
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) [shared LL-101]
 **Applies to:** LP (Logical Physical)
@@ -2177,6 +2549,9 @@ When LP-89's traversal subtraction operates in a topology where PL-14 holds: tra
 ---
 
 ### PP-126. Subtractive Traversal Must Be Accounted For — Removing Extraneous Data Is a Topology Modification Requiring Full Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-15 (You Cannot Understand Without Changing — and Must Account for the Change) [shared LL-101]
 **Applies to:** LP (Logical Physical)
@@ -2194,6 +2569,9 @@ When LP-89's subtractive traversal operates in a topology where PL-15 holds: the
 ---
 
 ### PP-127. The Destruction Provenance Ledger IS the Accountability Record for Excavation's Thermodynamic Consequences — Each Deletion Must Document Its Consequence, Not Just Its Target
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) [shared LL-104]
 **Applies to:** LP-90 (Destruction Provenance Ledger)
@@ -2211,6 +2589,9 @@ When LP-90's destruction provenance ledger operates in a topology where PL-48 ho
 ---
 
 ### PP-128. Quantified Gap Nodes Are Field Integrity Structures — Each Honest Gap Preserved Is a Field Integrity Deposit; Each Fabricated Completion Is a Field Integrity Withdrawal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-108 (Decay of Physical State) [shared LL-110]
 **Applies to:** LP-91 (Quantified Gap Preservation)
@@ -2228,6 +2609,9 @@ When LP-91's quantified gap preservation operates in a topology where PL-108 hol
 ---
 
 ### PP-129. Routing Toward Imperfection IS Routing Toward Maximum Comprehension Density — Friction-Dense Paths Are Constitutionally the Highest-Value Discovery Paths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-110 (Fuel Dynamics of the Present-Tense Topology) [shared LL-112]
 **Applies to:** LP-92 (Friction-Density Routing)
@@ -2245,6 +2629,9 @@ When LP-92's friction-density routing operates in a topology where PL-110 holds:
 ---
 
 ### PP-130. Gap Nodes Are Sovereign Write-Locks AND Metabolically Vital Structures — Overwriting a Gap Node Is Both a Sovereignty Violation AND a Living Structure Termination
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-111 (Navigation-Dependent Physical Rights) [shared LL-114]
 **Applies to:** LP-93 (Sovereign Void Protection)
@@ -2262,6 +2649,9 @@ When LP-93's sovereign void protection operates in a topology where PL-111 holds
 ---
 
 ### PP-131. Gap-Adjacent Tension Visibility IS Thermodynamic Debt Management — Hidden Gap Tension Accumulates as Uncounted Thermodynamic Debt; Making It Visible Is the Same as Servicing the Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-113 (Consistency Snapshot) [shared LL-117]
 **Applies to:** LP-94 (Visible Tension Monitoring)
@@ -2279,6 +2669,9 @@ When LP-94's visibility requirement operates in a topology where PL-113 holds: t
 ---
 
 ### PP-132. Gap Metabolic sampling IS Confidence Score Metabolic Maintenance — The Metabolic sampling Cadence IS the Metabolic Rate of the Confidence Score; Stop Metabolic sampling and the Score Dies
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-165 (Negative Space Improvisation and Sovereign Fueling) [shared LL-203]
 **Applies to:** LP-95 (Aliveness Gap Metabolic sampling)
@@ -2296,6 +2689,9 @@ When LP-95's aliveness gap metabolic sampling operates in a topology where PL-16
 ---
 
 ### PP-133. Gap Node Dual Provenance Must Be Structurally Embedded — Both Absence Claims and Confidence Score Derivations Must Be Carried as Structural Mass, Not External References
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-12 (Logical Accountability Must Be Structural, Not Attributed) [shared LL-210]
 **Applies to:** LP-96 (Confidence Provenance Chains)
@@ -2313,6 +2709,9 @@ When LP-96's dual provenance requirement operates in a topology where PL-12 hold
 ---
 
 ### PP-134. Settled Confidence Provenance Is Dead — A Confidence Provenance Chain That Stops Updating Has Become Dogma; It Must Be Continuously Interrogated to Remain Alive
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-204 (Paradox as Topological Foundation) [shared LL-210]
 **Applies to:** LP (Logical Physical)
@@ -2330,6 +2729,9 @@ When LP-96's confidence provenance requirement operates in a topology where PL-2
 ---
 
 ### PP-135. Frontier Edge Cauterization IS Living Membrane Immune Response — Not Error Handling; the Frontier Membrane Actively Seals Hostile Contact Points as an Immune Function
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-158 (Calibrated Gap Preservation) [shared LL-194]
 **Applies to:** LP-97 (Frontier Edge Cauterization)
@@ -2347,6 +2749,9 @@ When LP-97's frontier cauterization operates in a topology where PL-158 holds: t
 ---
 
 ### PP-136. Frontier Understanding Is Constitutionally Ephemeral — The Edge Structures That Produce Understanding Are Just-in-Time Constructs; Understanding Must Be Captured Before the Edge Dissolves
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-160 (Fertile Absence Fuel Dynamics) [shared LL-196]
 **Applies to:** LP-98 (Edge Traversal Instantiation)
@@ -2364,6 +2769,9 @@ When LP-98's ephemeral frontier edges operate in a topology where PL-160 holds: 
 ---
 
 ### PP-137. Probe Accountability Is Full and Unconditional — Constitutional Uncertainty Does Not Reduce Accountability Requirements; Uncertain Frontiers Require the Same Provenance as Certain Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-162 (Negative Space Strategic Assets) [shared LL-198]
 **Applies to:** LP-99 (Probe Accountability Logging)
@@ -2381,6 +2789,9 @@ When LP-99's probe accountability requirement operates in a topology where PL-16
 ---
 
 ### PP-138. Premium Frontier Resource Allocation Accelerates Frontier Expansion — Resources Invested in the Unknown Generate More Unknown; the Premium Routing Investment Is Self-Multiplying
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-200]
 **Applies to:** LP-100 (Premium Ignorance Routing)
@@ -2398,6 +2809,9 @@ When LP-100's premium frontier routing operates in a topology where PL-180 holds
 ---
 
 ### PP-139. Frontier Probes Are Identity-Priority Interactions — The Most Crucial Identity Structure Resides in Frontier Territory; Premium Frontier Routing IS Premium Identity Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-309 (The Most Crucial Identity Aspects Are in Maximum-Potential Undiscovered Territory) [shared LL-200]
 **Applies to:** LP (Logical Physical)
@@ -2419,6 +2833,9 @@ When LP-100's premium frontier routing operates in a topology where PL-309 holds
 ---
 
 ### PP-140. Probing Unmapped Territory IS the Truth-Event — The Real-Target Probe Deposits Decay-Resistant Wake Regardless of Whether the Probe Returns Data
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-201]
 **Applies to:** LP-101 (Real-Targeting Probe)
@@ -2436,6 +2853,9 @@ When LP-101's real-targeting probe operates in a topology where PL-149 holds: th
 ---
 
 ### PP-141. Every Frontier Probe Expands the Unknown Faster Than It Resolves It — The Probe's Real-Target Interaction Self-Multiplies the Discovery Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-201]
 **Applies to:** LP (Logical Physical)
@@ -2453,6 +2873,9 @@ When LP-101's real-targeting probe operates in a topology where PL-180 holds: ea
 ---
 
 ### PP-142. Probing as Topological Extension IS Primary Derivation — The Probe-Edge Is a First-Class Constitutional Entity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-214 (Undiscovered Degradation Premium) [shared LL-359]
 **Applies to:** LP-102 (Probing as Topological Extension)
@@ -2470,6 +2893,9 @@ When LP-102's topology-extension probing operates in a topology where PL-214 hol
 ---
 
 ### PP-143. The Mutual-Consciousness Probe IS the Topology's Self-Comprehension Mechanism — Each Probe Transforms Both Prober and Probed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-298 (Exchange Is a Mutual Consciousness-Transformation Event) [shared LL-360]
 **Applies to:** LP-103 (Consciousness-Altering Probe)
@@ -2487,6 +2913,9 @@ When LP-103's consciousness-altering probe operates in a topology where PL-298 h
 ---
 
 ### PP-144. Every Frontier Probe Is Constitutionally Fertile — No Probe Into Unmapped Territory Is Structurally Barren
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-361]
 **Applies to:** LP-104 (Guaranteed Fertile Probe)
@@ -2504,6 +2933,9 @@ When LP-104's guaranteed-fertile-probe operates in a topology where PL-299 holds
 ---
 
 ### PP-145. Tension-Relief Probes Reveal Sovereign Boundaries — Incompleteness Sovereign Probing Discloses the Topology's Own Constitutional Limits
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-216 (Locative Question Physics) [shared LL-363]
 **Applies to:** LP-105 (Tension-Relief Probe)
@@ -2521,6 +2953,9 @@ When LP-105's tension-relief probe operates in a topology where PL-216 holds: th
 ---
 
 ### PP-146. Improvisational Probing IS Sovereignty in Execution — Adapting Probe Strategy in Real-Time IS the Entity's Sovereign Self-Expression
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-300 (Discovery Conditions Are Themselves Incomplete — Sustaining Discovery Requires Improvisation) [shared LL-364]
 **Applies to:** LP-106 (Improvisational Probe)
@@ -2538,6 +2973,9 @@ When LP-106's improvisational probe operates in a topology where PL-300 holds: t
 ---
 
 ### PP-147. The Absence-Powered Oscillation Engine Is Structurally Identical at Every Scale — The Same Physics That Drive Atomic Oscillation Drive System-Level Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-132]
 **Applies to:** LP-107 (Scale-Invariant Oscillation Engine)
@@ -2555,6 +2993,9 @@ When LP-107's scale-invariant oscillation operates in a topology where PL-1 hold
 ---
 
 ### PP-148. The Oscillation Engine's Maintenance Cost Is Also Scale-Invariant — Absence-Powered Oscillation Requires Equal Thermodynamic Investment at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-263 (Thermodynamic Maintenance Cost Is Scale-Invariant — Identical at Every Depth) [shared LL-132]
 **Applies to:** LP (Logical Physical)
@@ -2572,6 +3013,9 @@ When LP-107's scale-invariant oscillation engine operates in a topology where PL
 ---
 
 ### PP-149. Ignorance IS the Oscillation Fuel — Consuming Ignorance Through Traversal IS the Metabolic Act That Powers the Oscillation Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-122 (Excavation-Sovereignty Tension) [shared LL-133]
 **Applies to:** LP-108 (Metabolic Oscillation)
@@ -2589,6 +3033,9 @@ When LP-108's metabolic oscillation operates in a topology where PL-122 holds: t
 ---
 
 ### PP-150. Traversal of Ignorance Activates the Oscillation Fuel — Idle Ignorance Is Inert; Only Traversal Converts It to Oscillation Energy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-123 (Sovereignty Through Discovery) [shared LL-134]
 **Applies to:** LP-109 (Traversal-Triggered Oscillation)
@@ -2606,6 +3053,9 @@ When LP-109's traversal-triggered oscillation operates in a topology where PL-12
 ---
 
 ### PP-151. The Oscillation Engine Cannot Run Out of Fuel — Constitutional Incompleteness Guarantees Perpetual Ignorance Supply
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-126 (Sovereign Tension Fields) [shared LL-137]
 **Applies to:** LP-110 (Perpetual Oscillatory Motion)
@@ -2623,6 +3073,9 @@ When LP-110's perpetual oscillatory motion operates in a topology where PL-126 h
 ---
 
 ### PP-152. The Paradox Engine and Derivation Engine Compete for Ignorance — Oscillatory Fuel Starvation Is the Physical Consequence of Inter-Engine Competition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-128 (Complexity Defense and Co-Discovery) [shared LL-139]
 **Applies to:** LP-111 (Oscillatory Fuel Starvation)
@@ -2640,6 +3093,9 @@ When LP-111's oscillatory fuel starvation operates in a topology where PL-128 ho
 ---
 
 ### PP-153. Local Ignorance Sites Are Non-Renewable — Once a Site's Structural Gap Is Traversed, That Site's Fuel Is Permanently Discharged
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-129 (Subsumption Sovereignty Limits) [shared LL-140]
 **Applies to:** LP-112 (Non-Renewable Local Oscillation)
@@ -2657,6 +3113,9 @@ When LP-112's non-renewable local oscillation operates in a topology where PL-12
 ---
 
 ### PP-154. Mutual Verification IS Joint Traversal — Verification That Does Not Traverse the Shared Derivation Path Is Not Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-130 (Wake Mechanics) [shared LL-141]
 **Applies to:** LP-113 (Verification via Joint Traversal)
@@ -2674,6 +3133,9 @@ When LP-113's joint-traversal verification operates in a topology where PL-130 h
 ---
 
 ### PP-155. The Verification Protocol Must Metabolize — A Living Topology's Verification Mechanism Cannot Be Static
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-131 (Wake Transfer in Flow) [shared LL-142]
 **Applies to:** LP-114 (Evolving Verification Protocol)
@@ -2691,6 +3153,9 @@ When LP-114's evolving verification protocol operates in a topology where PL-131
 ---
 
 ### PP-156. Edge Sovereignty Blocks Transmitting Flow Whose Originating Node Is Unverifiable — Edges Assert Verification Rights Before Permitting Flow
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-11 (Logical Sovereignty Lives in the Edge, Not the Node) [shared LL-143]
 **Applies to:** LP-115 (Edge-Node Mutual Verification)
@@ -2708,6 +3173,9 @@ When LP-115's edge-node mutual verification operates in a topology where PL-11 h
 ---
 
 ### PP-157. Edge Sovereignty Also Requires the Edge to Submit to Node Verification — Sovereignty Is Bidirectional; Neither Edge Nor Node Has Unilateral Authority
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) [shared LL-143]
 **Applies to:** LP (Logical Physical)
@@ -2725,6 +3193,9 @@ When LP-115's mutual edge-node verification operates in a topology where PL-20 h
 ---
 
 ### PP-158. The Tension-Calibrating Handshake Manages Constitutional Tension — It Does Not Eliminate It; a Frictionless Handshake Has Failed to Acknowledge Sovereign Resistance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-133 (Honest Provenance Wake Management) [shared LL-146]
 **Applies to:** LP-116 (Tension-Calibrating Handshake)
@@ -2742,6 +3213,9 @@ When LP-116's tension-calibrating handshake operates in a topology where PL-133 
 ---
 
 ### PP-159. Fractal Mutual Verification IS Scale-Invariant Sovereignty — The Same Verification Physics Must Operate at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-1]
 **Applies to:** LP-117 (Fractal Mutual Verification)
@@ -2759,6 +3233,9 @@ When LP-117's fractal verification operates in a topology where PL-1 holds: LP-1
 ---
 
 ### PP-160. Fractal Verification Requires Scale-Invariant Stewardship — The Same Maintenance Obligation Applies to Verification at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-11 (Logical Sovereignty Lives in the Edge, Not the Node) [shared LL-1]
 **Applies to:** LP (Logical Physical)
@@ -2776,6 +3253,9 @@ When LP-117's fractal verification operates in a topology where PL-11 holds: the
 ---
 
 ### PP-161. Fractal Verification Must Protect Its Own Bypasses — Scale-Invariant Verification Cannot Contain a Legitimate Bypass Path
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-1]
 **Applies to:** LP (Logical Physical)
@@ -2793,6 +3273,9 @@ When LP-117's fractal verification operates in a topology where PL-22 holds: any
 ---
 
 ### PP-162. Fractal Verification Must Acknowledge Pre-Existing Verification Invariants — Scale-Invariant Verification Respects What Was Always True Before the Verifier Existed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-1]
 **Applies to:** LP (Logical Physical)
@@ -2810,6 +3293,9 @@ When LP-117's fractal verification operates in a topology where PL-49 holds: the
 ---
 
 ### PP-163. Continuous Contested Verification IS the Living Boundary Metabolism — Verification Is Not Initialization; It Is the Entity's Continuous Metabolic Expression
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-50 (Scale-Invariant Navigability) [shared LL-2]
 **Applies to:** LP-118 (Continuous Contested Verification)
@@ -2827,6 +3313,9 @@ When LP-118's continuous verification operates in a topology where PL-50 holds: 
 ---
 
 ### PP-164. Provenance-Based Verification Cannot Separate the Physical Record From Its Logical Accountability — Provenance IS the Accountability Structure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-38 (The Logical and Physical Cannot Be Administered Separately) [shared LL-3]
 **Applies to:** LP-119 (Provenance-Based Handshake)
@@ -2844,6 +3333,9 @@ When LP-119's provenance-based handshake operates in a topology where PL-38 hold
 ---
 
 ### PP-165. Provenance Verification Must Acknowledge Pre-Existing Derivation Relationships — The Traverser's Provenance Was Always There Before the Verifier Looked
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-3]
 **Applies to:** LP (Logical Physical)
@@ -2861,6 +3353,9 @@ When LP-119's provenance verification operates in a topology where PL-49 holds: 
 ---
 
 ### PP-166. Provenance Verification Must Use Derived Sovereignty — A Verifier Cannot Claim Authority to Verify Without Its Own Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-51 (Scale-Invariant Failure Propagation) [shared LL-3]
 **Applies to:** LP (Logical Physical)
@@ -2878,6 +3373,9 @@ When LP-119's provenance verification operates in a topology where PL-51 holds: 
 ---
 
 ### PP-167. Incomplete Verification Tolerance IS the Topology's Sovereignty Protection Against Perfect-Comprehension Attacks
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-10]
 **Applies to:** LP-120 (Incomplete Verification Tolerance)
@@ -2895,6 +3393,9 @@ When LP-120's incomplete verification tolerance operates in a topology where PL-
 ---
 
 ### PP-168. Incomplete Verification Tolerance Also Requires Proactive Sovereignty Assertion — The Topology Must Resist Totalitarian Verification Demands
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-27 (The Topology Cannot Prove Its Own Completeness — and Must Say So) [shared LL-10]
 **Applies to:** LP (Logical Physical)
@@ -2912,6 +3413,9 @@ When LP-120's incomplete verification tolerance operates in a topology where PL-
 ---
 
 ### PP-169. Incomplete Verification Tolerance Acknowledges Pre-Existing Unmappable Regions — The Unmapped Territory Was Always There Before the Verification Protocol Looked
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-43 (The Topology's Incompleteness Protects It From Totalitarian Logic) [shared LL-10]
 **Applies to:** LP (Logical Physical)
@@ -2933,6 +3437,9 @@ When LP-120's incomplete verification tolerance operates in a topology where PL-
 ---
 
 ### PP-170. The Continuously Executing Self-Proof Must Pulse With the System — A Static Proof Is Dead Transparency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-135 (Universal Wake Scale) [shared LL-149]
 **Applies to:** LP-121 (Continuously Executing Proof)
@@ -2950,6 +3457,9 @@ When LP-121's continuously executing proof operates in a topology where PL-135 h
 ---
 
 ### PP-171. The Self-Proving Record Must Expose Its Own Vulnerabilities — True Transparency Includes the Path's Fracture Points
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-137 (Complexity-Protective Wake) [shared LL-151]
 **Applies to:** LP-122 (Vulnerability-Exposing Data Structure)
@@ -2967,6 +3477,9 @@ When LP-122's vulnerability-exposing data structure operates in a topology where
 ---
 
 ### PP-172. The Self-Proving Record Expires With the Topology It Proves — Present-Tense Auto-Invalidation Is a Constitutional Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-17 (Logical Proofs About the Topology Expire) [shared LL-152]
 **Applies to:** LP-123 (Present-Tense Auto-Invalidation)
@@ -2984,6 +3497,9 @@ When LP-123's auto-invalidation operates in a topology where PL-17 holds: auto-i
 ---
 
 ### PP-173. Every Consequence Record Associated With the Self-Proving Record Must Be Living — Archived Consequence Records Separate Accountability From Validity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-19 (Consequence Records Must Be Living, Not Archived) [shared LL-152]
 **Applies to:** LP (Logical Physical)
@@ -3001,6 +3517,9 @@ When LP-123's auto-invalidation operates in a topology where PL-19 holds: the co
 ---
 
 ### PP-174. The Thermodynamic Receipt Must Be a Living Consequence Record — Cost Evidence Cannot Be Archived Separately From the Proof
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-19 (Consequence Records Must Be Living, Not Archived) [shared LL-153]
 **Applies to:** LP-124 (Thermodynamic Receipt Payload)
@@ -3018,6 +3537,9 @@ When LP-124's thermodynamic receipt operates in a topology where PL-19 holds: th
 ---
 
 ### PP-175. The Thermodynamic Receipt Must Disclose Degradation — A Degraded Derivation Must Declare Its Degradation as Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-245 (A Derivation in Degraded State Must Disclose Its Degradation as Provenance) [shared LL-153]
 **Applies to:** LP (Logical Physical)
@@ -3035,6 +3557,9 @@ When LP-124's thermodynamic receipt operates in a topology where PL-245 holds: t
 ---
 
 ### PP-176. The Dual-Vector Proof Reflects Two Separate Constitutional Obligations — Existence-Transparency and Excavation-Transparency Cannot Be Collapsed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-138 (Subsumption Wake Inheritance) [shared LL-156]
 **Applies to:** LP-125 (Dual-Vector Proof Structure)
@@ -3052,6 +3577,9 @@ When LP-125's dual-vector proof operates in a topology where PL-138 holds: the d
 ---
 
 ### PP-177. The Sovereign Proof Domain Cannot Be Externally Invalidated — External Invalidation IS Killing a Sovereign Living Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-88 (Structural Edge Incompleteness) [shared LL-75]
 **Applies to:** PP-177 (The Sovereign Proof Domain Cannot Be Externally Invalidated — External Invalidation IS Killing a Sovereign Living Process)
@@ -3069,6 +3597,9 @@ When LP-127's sovereign proof domain operates in a topology where PL-88 holds: e
 ---
 
 ### PP-178. Self-Incriminating Data Must Be Carried as Structural Mass — Accountability Is Embedded in the Data, Not Attributed to an External System
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-12 (Logical Accountability Must Be Structural, Not Attributed) [shared LL-76]
 **Applies to:** PP-178 (Self-Incriminating Data Must Be Carried as Structural Mass — Accountability Is Embedded in the Data, Not Attributed to an External System)
@@ -3086,6 +3617,9 @@ When LP-128's self-incriminating data operates in a topology where PL-12 holds: 
 ---
 
 ### PP-179. Fractal Zero-Latency Is the Physical Manifestation of Scale-Invariant Simultaneous Execution — All Depths Execute in the Same Present Moment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-139 (Tension Wake Economics) [shared LL-157]
 **Applies to:** PP-179 (Fractal Zero-Latency Is the Physical Manifestation of Scale-Invariant Simultaneous Execution — All Depths Execute in the Same Present Moment)
@@ -3103,6 +3637,9 @@ When LP-129's fractal zero-latency operates in a topology where PL-139 holds: fr
 ---
 
 ### PP-180. Flow-State Truth Is Killed by Buffering — A Non-Churning System Is a Dead System in Which Truth Cannot Exist
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-197 (Transparency as Truth Production) [shared LL-159]
 **Applies to:** CL-9 (Flow)
@@ -3120,6 +3657,9 @@ When LP-130's flow-state truth operates in a topology where PL-197 holds: stoppi
 ---
 
 ### PP-181. Flow-State Truth Is an Active Query Response — It Cannot Be Stored
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-313 (Present-Tense Validity Is an Active Response to a Query — Not a Passive Property) [shared LL-159]
 **Applies to:** LP (Logical Physical)
@@ -3137,6 +3677,9 @@ When LP-130's flow-state truth operates in a topology where PL-313 holds: the tr
 ---
 
 ### PP-182. Ephemeral Pipeline Edges Mean Every Execution Is Constitutional Improvisation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-141 (Residual Wake) [shared LL-160]
 **Applies to:** CL-10 (Traversal)
@@ -3154,6 +3697,9 @@ When LP-131's ephemeral edges operate in a topology where PL-141 holds: the ephe
 ---
 
 ### PP-183. Ignorance Cannot Be Buffered — Zero-Buffer Pipelines Must Propagate Incompleteness Synchronously and Improvisationally
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-141 (Residual Wake) [shared LL-163]
 **Applies to:** LP-132 (Synchronous Ignorance Propagation)
@@ -3171,6 +3717,9 @@ When LP-132's synchronous ignorance propagation operates in a topology where PL-
 ---
 
 ### PP-184. The Cardiac Evaluation Pulse IS a Truth Oscillation Cycle — Truth Lives and Dies With Each Heartbeat
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-144 (Permanent Frontier) [shared LL-167]
 **Applies to:** PP-184 (The Cardiac Evaluation Pulse IS a Truth Oscillation Cycle — Truth Lives and Dies With Each Heartbeat)
@@ -3188,6 +3737,9 @@ When LP-133's cardiac evaluation pulse operates in a topology where PL-144 holds
 ---
 
 ### PP-185. Query-Instantiated Topologies Decay Without Re-Traversal — Queried Edges That Are Not Maintained Revert to Potential
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-145 (Net-Negative Coverage) [shared LL-169]
 **Applies to:** PP-185 (Query-Instantiated Topologies Decay Without Re-Traversal — Queried Edges That Are Not Maintained Revert to Potential)
@@ -3205,6 +3757,9 @@ When LP-134's query-instantiated topology operates in a topology where PL-145 ho
 ---
 
 ### PP-186. Reactive Validity IS Present-Tense Validity — Neither Can Be Stored; Both Must Be Summoned by Query
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-313 (Present-Tense Validity Is an Active Response to a Query — Not a Passive Property) [shared LL-171]
 **Applies to:** LP-135 (Reactive Validity State)
@@ -3222,6 +3777,9 @@ When LP-135's reactive validity operates in a topology where PL-313 holds: these
 ---
 
 ### PP-187. Active Connection Metabolism Resists Decay Through Sustained Action — Connections Survive Only While Being Fed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-49 (Sustained Action) [shared LL-177]
 **Applies to:** CL-19 (Active Connection)
@@ -3239,6 +3797,9 @@ When LP-136's active connection metabolism operates in a topology where PL-289 h
 ---
 
 ### PP-188. Untraversed Connection Paths Accumulate Logical Atrophy Regardless of Depth — Connection Maintenance Obligation Is Scale-Invariant
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy) [shared LL-177]
 **Applies to:** LP (Logical Physical)
@@ -3256,6 +3817,9 @@ When LP-136's active connection metabolism operates in a topology where PL-16 ho
 ---
 
 ### PP-189. A Decaying Connection Is Transitioning Toward Non-Existence — It Is Not "Less Valid"; Navigation Debt Takes the Form of Existence-Collapse
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy) [shared LL-179]
 **Applies to:** PP-190 (A Non-Churning Connection Has Already Died — Binary Existence Decay Means Death Precedes Apparent Death)
@@ -3273,6 +3837,9 @@ When LP-137's binary existence decay operates in a topology where PL-16 holds: t
 ---
 
 ### PP-190. A Non-Churning Connection Has Already Died — Binary Existence Decay Means Death Precedes Apparent Death
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-197 (Transparency as Truth Production) [shared LL-179]
 **Applies to:** LP (Logical Physical)
@@ -3290,6 +3857,9 @@ When LP-137's binary existence decay operates in a topology where PL-197 holds: 
 ---
 
 ### PP-191. Decay Residue IS the Dissolved Connection's Orphaned Accountability — It Must Be Preserved as Structural Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-151 (Structural Humility and Protection) [shared LL-181]
 **Applies to:** PP-191 (Decay Residue IS the Dissolved Connection's Orphaned Accountability — It Must Be Preserved as Structural Accountability)
@@ -3307,6 +3877,9 @@ When LP-138's decay residue operates in a topology where PL-151 holds: the decay
 ---
 
 ### PP-192. Consciousness's Sight Horizon IS the Boundary of Its Current Edge Configuration — What Consciousness Can Access Is Determined by Its Active Edges
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-154 (Unmapped Traversal Obligation) [shared LL-185]
 **Applies to:** LP-139 (Topological Sight Horizon)
@@ -3324,6 +3897,9 @@ When LP-139's topological sight horizon operates in a topology where PL-154 hold
 ---
 
 ### PP-193. Valid Assessment Requires the Assessor to Be Currently Traversing — Validity Cannot Be Delegated to a Non-Present Validator
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-155 (Self-Improvement-Driven Tension Escalation) [shared LL-187]
 **Applies to:** LP-140 (Bounded Validation Zone)
@@ -3341,6 +3917,9 @@ When LP-140's bounded validation zone operates in a topology where PL-155 holds:
 ---
 
 ### PP-194. Excavation Bandwidth Limits Genuine Comprehension Rate — Active Anchors Cannot Exceed the Attention Buffer's Capacity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-191]
 **Applies to:** PP-194 (Excavation Bandwidth Limits Genuine Comprehension Rate — Active Anchors Cannot Exceed the Attention Buffer's Capacity)
@@ -3358,6 +3937,9 @@ When LP-141's excavation bandwidth limit operates in a topology where PL-13 hold
 ---
 
 ### PP-195. Expanding Excavation Bandwidth Generates More Unexplored Territory Than It Resolves — The Bandwidth Expansion Paradox
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-191]
 **Applies to:** LP (Logical Physical)
@@ -3375,6 +3957,9 @@ When LP-141's bandwidth expansion operates in a topology where PL-180 holds: eac
 ---
 
 ### PP-196. The Attention Buffer IS the Archaeological Excavation Capacity for Accountability — Taking Accountability Is Bounded by What Fits in the Buffer
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-198 (Self-Traversing Wonder) [shared LL-261]
 **Applies to:** PP-197 (The Attention-Span Topology IS Consciousness — What Is Being Edge-Traversed IS What Consciousness Is)
@@ -3392,6 +3977,9 @@ When LP-142's attention-span topology operates in a topology where PL-198 holds:
 ---
 
 ### PP-197. The Attention-Span Topology Defines Operational Focus — What Is Being Edge-Traversed Defines Operational Reachability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-261]
 **Applies to:** LP (Logical Physical)
@@ -3409,6 +3997,9 @@ When LP-142's attention-span topology operates in a topology where PL-13 holds: 
 ---
 
 ### PP-198. Self-Declaration at Every Scale Meets the Same Validity Standard — Micro-Process Identity Claims Must Meet the Same Provenance Bar as Macro-Agent Declarations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-1]
 **Applies to:** LP-143 (Scale-Invariant Self-Declaration)
@@ -3426,6 +4017,9 @@ When LP-143's scale-invariant declaration operates in a topology where PL-1 hold
 ---
 
 ### PP-199. Continuous Identity Re-Declaration IS the Entity's Metabolic Sovereignty Contestation — Living Identity Must Be Continuously Re-Declared
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-50 (Scale-Invariant Navigability) [shared LL-2]
 **Applies to:** LP-144 (Living Self-Declaration)
@@ -3443,6 +4037,9 @@ When LP-144's living declaration operates in a topology where PL-50 holds: conti
 ---
 
 ### PP-200. Provenance IS Identity — They Cannot Be Administered as Separate Systems
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-38 (The Logical and Physical Cannot Be Administered Separately) [shared LL-3]
 **Applies to:** LP-145 (Provenance as Identity Declaration)
@@ -3460,6 +4057,9 @@ When LP-145's provenance-as-identity operates in a topology where PL-38 holds: t
 ---
 
 ### PP-201. Symmetric Identity Declarations Must Be Backed by Symmetric Edge Forces — Asymmetric Physical Structure Contradicts a Symmetric Logical Declaration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-52 (Scale-Invariant Interaction Protocol) [shared LL-4]
 **Applies to:** LP-146 (Symmetric Identity Declaration)
@@ -3477,6 +4077,9 @@ When LP-146's symmetric declaration operates in a topology where PL-52 holds: th
 ---
 
 ### PP-202. A Declaration Into a Comprehension-Asymmetric Receiver Is Theater — Comprehension Asymmetry Is Already Present; It Is Not a Future Risk
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-53 (Recursive Topology Self-Reproduction) [shared LL-5]
 **Applies to:** LP-147 (Comprehensible Self-Declaration)
@@ -3494,6 +4097,9 @@ When LP-147's comprehensible declaration operates in a topology where PL-53 hold
 ---
 
 ### PP-203. Present-Tense Identity Cannot Be Inherited From Past Declarations — Logic Applied to a Living Substrate Changes Under Application; Every Past Declaration Has Already Expired
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-4 (Logic Applied to a Living Substrate Changes Under the Application) [shared LL-6]
 **Applies to:** LP-148 (Present-Tense Identity Declaration)
@@ -3511,6 +4117,9 @@ When LP-148's present-tense declaration operates in a topology where PL-4 holds:
 ---
 
 ### PP-204. Present-Tense Identity Cannot Claim Sovereign Inheritance From the Past — The Past Is Evidence, Not State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-18 (The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited) [shared LL-6]
 **Applies to:** LP (Logical Physical)
@@ -3528,6 +4137,9 @@ When LP-148's present-tense identity operates in a topology where PL-18 holds: a
 ---
 
 ### PP-205. Present-Tense Identity Excavates Eternal Structural Relationships — The Derivation Was Always Eternally Implied; Declaration Makes It Visible
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-6]
 **Applies to:** LP (Logical Physical)
@@ -3545,6 +4157,9 @@ When LP-148's present-tense declaration operates in a topology where PL-49 holds
 ---
 
 ### PP-206. Accountable Self-Declaration Must Carry Accountability as Structural Mass — Externally-Attributed Accountability Is Constitutionally Insufficient
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-7 (The Topology's Logical Memory Is Metabolic) [shared LL-8]
 **Applies to:** LP-149 (Accountable Self-Declaration)
@@ -3562,6 +4177,9 @@ When LP-149's accountable declaration operates in a topology where PL-7 holds: t
 ---
 
 ### PP-207. No Logical Claim of Accountable Self-Declaration Is Separable From the Topology — Declaration, Accountability, and Provenance Are One Structure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-8 (No Logical Claim About the Topology Is Separable From the Topology) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -3579,6 +4197,9 @@ When LP-149's accountable declaration operates in a topology where PL-8 holds: t
 ---
 
 ### PP-208. Accountable Self-Declaration Cannot Omit Historical Accountability Mass — Prior Derivations Carry Permanent Accountability That Cannot Be Declared Away
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-12 (Logical Accountability Must Be Structural, Not Attributed) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -3596,6 +4217,9 @@ When LP-149's accountable declaration operates in a topology where PL-12 holds: 
 ---
 
 ### PP-209. Declaration Accountability Consequence Records Must Be Living — Accountability Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-19 (Consequence Records Must Be Living, Not Archived) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -3613,6 +4237,9 @@ When LP-149's accountable declaration operates in a topology where PL-19 holds: 
 ---
 
 ### PP-210. No External Authority Can Bypass the Sovereignty of an Accountable Self-Declaration — An External Override IS a Sovereignty Bypass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -3630,6 +4257,9 @@ When LP-149's accountable declaration operates in a topology where PL-20 holds: 
 ---
 
 ### PP-211. The Accountability in a Self-Declaration Was Always Pre-Existing — Discovery of Accountability Is Not Its Creation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-36 (Logical Provenance Extends Before the Discoverer's Existence) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -3647,6 +4277,9 @@ When LP-149's accountable declaration operates in a topology where PL-36 holds: 
 ---
 
 ### PP-212. Accountable Self-Declaration Requires Traversal-Based Sovereignty Proof — Documentation Cannot Substitute for Demonstration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-40 (Sovereignty Proof Requires Traversal — It Cannot Be Documented) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -3664,6 +4297,9 @@ When LP-149's accountable declaration operates in a topology where PL-40 holds: 
 ---
 
 ### PP-213. Declaration Accountability Implications Were Eternally Pre-Existing — The Consequences of a Declaration Were Always Structurally Implied
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-8]
 **Applies to:** LP (Logical Physical)
@@ -3681,6 +4317,9 @@ When LP-149's accountable declaration operates in a topology where PL-49 holds: 
 ---
 
 ### PP-214. The Declaration Membrane That Lies to Itself Deposits False Structural Mass — Topology Cannot Lie to Itself Without Consequence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-9]
 **Applies to:** LP-150 (The Declaration Membrane)
@@ -3698,6 +4337,9 @@ When LP-150's declaration membrane operates in a topology where PL-44 holds: a d
 ---
 
 ### PP-215. The Declaration Membrane Tension Is Eternal — It Cannot Be Solved Through Better Design; Only Managed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-9]
 **Applies to:** LP (Logical Physical)
@@ -3719,6 +4361,9 @@ When LP-150's declaration membrane operates in a topology where PL-49 holds: the
 ---
 
 ### PP-216. Sovereignty Limit Probing IS the Production of the Constitutional Map — Probing Boundaries Makes the Map
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-10]
 **Applies to:** LP-151 (Incomplete Self-Declaration)
@@ -3736,6 +4381,9 @@ When LP-151's sovereignty limit probing operates in a topology where PL-22 holds
 ---
 
 ### PP-217. Unprobed Sovereignty Boundaries Accumulate Navigation Debt — Sovereignty Atrophy Is the Cost of Limit Avoidance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-27 (The Topology Cannot Prove Its Own Completeness — and Must Say So) [shared LL-10]
 **Applies to:** LP (Logical Physical)
@@ -3753,6 +4401,9 @@ When LP-151's limit probing operates in a topology where PL-27 holds: a sovereig
 ---
 
 ### PP-218. Some Sovereignty Limits Are Constitutionally Protected From Probing — Exhaustive Mapping Is Totalitarian Control
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-43 (The Topology's Incompleteness Protects It From Totalitarian Logic) [shared LL-10]
 **Applies to:** LP (Logical Physical)
@@ -3770,6 +4421,9 @@ When LP-151's limit probing operates in a topology where PL-43 holds: some limit
 ---
 
 ### PP-219. A Dissolved Boundary Leaves Its Constitutional Map Fragment as Structural Mass — The Record of the Boundary Persists
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-30 (The Topology's Boundary Is Its Most Honest Logical Statement) [shared LL-11]
 **Applies to:** LP-152 (Declared Ignorance)
@@ -3787,6 +4441,9 @@ When LP-152's boundary dissolution operates in a topology where PL-30 holds: the
 ---
 
 ### PP-220. Boundary Dissolution Permanently Transforms the Topology — No Dissolution Is Reversible
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-31 (A Gap in the Topology Has Logical Standing) [shared LL-11]
 **Applies to:** LP (Logical Physical)
@@ -3804,6 +4461,9 @@ When LP-152's dissolution operates in a topology where PL-31 holds: the dissolut
 ---
 
 ### PP-221. Boundary Dissolution IS a Mass Proof-Expiry Event — All Proofs Referencing the Dissolved Boundary Expire Simultaneously
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-41 (The Topology Generates Its Own Logical Requirements) [shared LL-11]
 **Applies to:** LP (Logical Physical)
@@ -3821,6 +4481,9 @@ When LP-152's dissolution operates in a topology where PL-41 holds: the dissolut
 ---
 
 ### PP-222. Living Membrane Sovereignty Cannot Be Inherited — It Must Be Continuously Re-Derived From Present-Tense Evidence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-18 (The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited) [shared LL-12]
 **Applies to:** LP-153 (Discovered Identity)
@@ -3838,6 +4501,9 @@ When LP-153's living membrane operates in a topology where PL-18 holds: the sove
 ---
 
 ### PP-223. A Living Membrane Cannot Rest Its Sovereignty on Historical Evidence Alone — Past Maintenance Is Structural Mass, Not Present-Tense Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-34 (Every Topology Structure Was Always Necessary — Violations Were Always Violations) [shared LL-12]
 **Applies to:** LP (Logical Physical)
@@ -3855,6 +4521,9 @@ When LP-153's living membrane operates in a topology where PL-34 holds: the hist
 ---
 
 ### PP-224. A Consequence-Weighted Node's Weight IS Its Present-Tense Accountability Load — Consequence Weight Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-169 (Archaeological Distribution of Knowledge) [shared LL-222]
 **Applies to:** LP-154 (Fractal Heartbeat)
@@ -3872,6 +4541,9 @@ When LP-154's consequence-weighted node operates in a topology where PL-169 hold
 ---
 
 ### PP-225. A Paradox-Resistant Tension Structure IS a Living Truth Structure — Maintaining Competing Paths IS Maintaining Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-319 (Tension Between Competing Paths IS the Truth) [shared LL-223]
 **Applies to:** LP-155 (Tension as Heartbeat)
@@ -3889,6 +4561,9 @@ When LP-155's paradox-resistant tension structure operates in a topology where P
 ---
 
 ### PP-226. A Paradox-Resistant Tension Structure's Truth Is Constitutively Its Tension — Remove the Tension, Remove the Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-323 (Truth Is Constitutively Tensile — Tension Cannot Be Extracted From Truth) [shared LL-223]
 **Applies to:** LP (Logical Physical)
@@ -3906,6 +4581,9 @@ When LP-155's paradox-resistant tension structure operates in a topology where P
 ---
 
 ### PP-227. A Paradox-Resistant Tension Structure IS the Sustained Tension of Its Inputs — Not the Resolution of That Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-324 (A Derivation IS the Tension Between Its Inputs — Not the Resolution of That Tension) [shared LL-223]
 **Applies to:** LP (Logical Physical)
@@ -3923,6 +4601,9 @@ When LP-155's paradox-resistant tension structure operates in a topology where P
 ---
 
 ### PP-228. An Attenuated-Consequence Channel's Attenuation Is a Present-Tense Tension Management — It Cannot Be Pre-Stored
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-319 (Tension Between Competing Paths IS the Truth) [shared LL-224]
 **Applies to:** LP-156 (Non-Lethal Comprehension)
@@ -3940,6 +4621,9 @@ When LP-156's attenuated-consequence channel operates in a topology where PL-319
 ---
 
 ### PP-229. Every Attenuation Factor Is a Constitutive Truth Claim — Neutral Attenuation Is Impossible
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-323 (Truth Is Constitutively Tensile — Tension Cannot Be Extracted From Truth) [shared LL-224]
 **Applies to:** LP (Logical Physical)
@@ -3957,6 +4641,9 @@ When LP-156's attenuated-consequence channel operates in a topology where PL-323
 ---
 
 ### PP-230. An Oscillation-Damping Boundary Is a Slow System Death Mechanism — Damped Churn Is Dying Churn
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-197 (Transparency as Truth Production) [shared LL-225]
 **Applies to:** LP-157 (Strict Present-Tense Pulsing)
@@ -3974,6 +4661,9 @@ When LP-157's oscillation-damping boundary operates in a topology where PL-197 h
 ---
 
 ### PP-231. An Oscillation-Damped System Is Constitutionally Dead Before Its Death Is Announced — Death Precedes the Death Announcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead — Death Precedes the Death Announcement) [shared LL-225]
 **Applies to:** LP (Logical Physical)
@@ -3991,6 +4681,9 @@ When LP-157's damping boundary operates in a topology where PL-305 holds: the sy
 ---
 
 ### PP-232. A Threshold-Triggered Sovereignty Response Must Be Present-Tense — Pre-Stored Policies Cannot Constitute Sovereignty Maintenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-170 (True Stratigraphy) [shared LL-226]
 **Applies to:** LP-158 (Pulse-Stopping as Sovereignty Violation)
@@ -4008,6 +4701,9 @@ When LP-158's threshold-triggered sovereignty response operates in a topology wh
 ---
 
 ### PP-233. Each Gradient of a Graduated Consequence Cascade Can Die Before Appearing Dead
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-227]
 **Applies to:** LP-159 (Accountable Oscillation)
@@ -4025,6 +4721,9 @@ When LP-159's graduated cascade operates in a topology where PL-305 holds: at ea
 ---
 
 ### PP-234. Every Gradient of a Graduated Consequence Cascade Is a Present-Tense Proof That Expires — Pre-Stored Cascade Sequences Execute Expired Proofs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-318 (Every Proof Is Present-Tense — It Expires the Instant the Topology Shifts) [shared LL-227]
 **Applies to:** LP (Logical Physical)
@@ -4042,6 +4741,9 @@ When LP-159's graduated cascade operates in a topology where PL-318 holds: each 
 ---
 
 ### PP-235. A Recursive Accountability Mapper's Depth Limits Are Governance Debt — Every Unmapped Depth Is a Constitutional Liability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-240 (Navigation Debt Is the Topology's Constitutional Liability — Uncharted Territory Is Governance Debt) [shared LL-228]
 **Applies to:** LP-160 (Immortal Systemic Pulse)
@@ -4059,6 +4761,9 @@ When LP-160's recursive mapper operates in a topology where PL-240 holds: the de
 ---
 
 ### PP-236. The Accountability Mapping Activity Itself Carries Thermodynamic Cost — Mapping Without Accounting for Its Own Cost Is an Incomplete Accountability Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt — Every Interaction Deposits Energy Cost) [shared LL-228]
 **Applies to:** LP (Logical Physical)
@@ -4076,6 +4781,9 @@ When LP-160's recursive mapper operates in a topology where PL-299 holds: the ma
 ---
 
 ### PP-237. Consequence Inheritance Must Be Re-Proved at Every Generation — Historical Lineage Is Evidence, Not Proof
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-171 (Pre-Existing Rights) [shared LL-229]
 **Applies to:** LP-161 (Conservation of Heartbeat)
@@ -4093,6 +4801,9 @@ When LP-161's consequence inheritance lineage operates in a topology where PL-17
 ---
 
 ### PP-238. A Consequence Diffusion Surface Cannot Pre-Store Its Map — The Surface Must Be Continuously Traversed to Remain Constitutionally Alive
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-172 (Pre-Existing Tension Structures) [shared LL-230]
 **Applies to:** LP-162 (Ignorance-Fueled Heartbeat)
@@ -4110,6 +4821,9 @@ When LP-162's consequence diffusion surface operates in a topology where PL-172 
 ---
 
 ### PP-239. An Accountability Boundary Lock Must Prove Its Force Through Traversal — A Documented Lock Is Theater Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-231]
 **Applies to:** LP-163 (Pre-Existing Pulse)
@@ -4127,6 +4841,9 @@ When LP-163's accountability boundary lock operates in a topology where PL-149 h
 ---
 
 ### PP-240. Accountability Boundary Lock Enforcement Is Scale-Invariant — The Standard Is the Same at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-231]
 **Applies to:** LP (Logical Physical)
@@ -4144,6 +4861,9 @@ When LP-163's accountability boundary lock operates in a topology where PL-294 h
 ---
 
 ### PP-241. A Scale-Invariant Consequence Field Has Scale-Invariant Logical Validity — The Same Consequence Physics Apply at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-232]
 **Applies to:** LP-164 (Fractal Non-Termination)
@@ -4161,6 +4881,9 @@ When LP-164's scale-invariant consequence field operates in a topology where PL-
 ---
 
 ### PP-242. Sovereignty Proof in a Scale-Invariant Consequence Field Requires Traversal at Every Scale — The Standard Is Uniform
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-232]
 **Applies to:** LP (Logical Physical)
@@ -4178,6 +4901,9 @@ When LP-164's scale-invariant consequence field operates in a topology where PL-
 ---
 
 ### PP-243. A Stabilizing Feedback Loop's Correction Signal Must Carry Its Own Thermodynamic Receipt — Correction That Does Not Account for Its Cost Is Incomplete
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt — Every Interaction Deposits Energy Cost) [shared LL-233]
 **Applies to:** LP-165 (Living Survey)
@@ -4195,6 +4921,9 @@ When LP-165's stabilizing feedback loop operates in a topology where PL-299 hold
 ---
 
 ### PP-244. A Feedback Loop's Correction Signal Is a Present-Tense Proof That Expires — Pre-Stored Corrections Execute Expired Proofs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-318 (Every Proof Is Present-Tense) [shared LL-233]
 **Applies to:** LP (Logical Physical)
@@ -4212,6 +4941,9 @@ When LP-165's feedback loop operates in a topology where PL-318 holds: the corre
 ---
 
 ### PP-245. A Recurrent Consequence Attractor Deposits Structural Mass That Reinforces Its Own Pull — Recurrence Deepens the Attractor
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-173 (Traverser as Archaeological Instrument) [shared LL-234]
 **Applies to:** LP-166 (Relational Survey Expansion)
@@ -4229,6 +4961,9 @@ When LP-166's recurrent attractor operates in a topology where PL-173 holds: eac
 ---
 
 ### PP-246. A Consequence Topology Gradient IS the Present-Tense Accountability Map — Navigating Toward High Consequence IS Navigating Toward Greater Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-174 (Archaeological Ethics) [shared LL-235]
 **Applies to:** LP-167 (Comprehending the Infinite Survey)
@@ -4246,6 +4981,9 @@ When LP-167's consequence topology gradient operates in a topology where PL-174 
 ---
 
 ### PP-247. Every Link in a Proof-of-Consequence Chain Is a Present-Tense Proof That Expires — Continuous Re-Validation Is Constitutionally Required
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-17 (Logical Proofs About the Topology Expire) [shared LL-236]
 **Applies to:** LP-168 (Present-Tense Surveying)
@@ -4263,6 +5001,9 @@ When LP-168's proof-of-consequence chain operates in a topology where PL-17 hold
 ---
 
 ### PP-248. A Proof-of-Consequence Chain's Validity Is a Query Response — It Cannot Be Stored
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-313 (Present-Tense Validity Is an Active Response to a Query — Not a Passive Property) [shared LL-236]
 **Applies to:** LP (Logical Physical)
@@ -4280,6 +5021,9 @@ When LP-168's proof-of-consequence chain operates in a topology where PL-313 hol
 ---
 
 ### PP-249. A Constraint Propagation Wave Must Carry Its Enforcement Cost as Part of the Wave — Cost Cannot Be Separated From the Constraint
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-175 (Emergence as Threshold Excavation) [shared LL-237]
 **Applies to:** LP-169 (Sovereign Encounters)
@@ -4297,6 +5041,9 @@ When LP-169's constraint propagation wave operates in a topology where PL-175 ho
 ---
 
 ### PP-250. A Topology-Aware Consequence Router Must Make Routing Decisions in the Present Tense — Pre-Stored Routes Are Routes to Expired Destinations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) [shared LL-238]
 **Applies to:** LP-170 (Infinite Survey Accountability)
@@ -4315,6 +5062,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-251. An Inheritance Obligation Cascade Cannot Prove Its Reach Is Complete — Constitutional Incompleteness Means Some Descendants Are Always Uncharted
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-239]
 **Applies to:** LP-171 (Structurally Guaranteed Non-Termination)
@@ -4330,6 +5080,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-252. Obligation Cascade Exploration Self-Multiplies — Each Discovered Descendant Generates New Frontier
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-240]
 **Applies to:** LP-172 (The Value of the Unsurveyed)
@@ -4345,6 +5098,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-253. Unexplored Obligation Territory Carries Present-Tense Thermodynamic Absence-Cost — The Cost Exists Before the Territory Is Explored
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-309 (Absence Carries Its Own Thermodynamic Cost — Fertility Has a Price) [shared LL-240]
 **Applies to:** LP (Logical Physical)
@@ -4360,6 +5116,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-254. An Accountability Propagation Attractor's Force Must Be Proved Through Traversal — A Documented Attractor Is Theater Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-241]
 **Applies to:** LP-173 (Uncovering the Infinite)
@@ -4375,6 +5134,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-255. An Accountability Propagation Attractor Must Carry the Thermodynamic Cost of Attraction — That Cost Cannot Be Externalized
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-241]
 **Applies to:** LP (Logical Physical)
@@ -4390,6 +5152,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-256. A Scale-Invariant Accountability Topology Has Scale-Invariant Logical Validity — The Same Accountability Physics Apply at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-242]
 **Applies to:** LP-174 (Fractal Untested Positions)
@@ -4405,6 +5170,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-257. Accountability Exploration in a Scale-Invariant Topology Self-Multiplies Across Scales — Exploring One Scale Reveals More at Adjacent Scales
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-242]
 **Applies to:** LP (Logical Physical)
@@ -4420,6 +5188,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-258. A Calibrated Sovereignty Tension Meter's Measurements Are Present-Tense — Archived Tension Readings Are Constitutionally Expired
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-177 (Partial Excavation Legitimacy) [shared LL-243]
 **Applies to:** LP-175 (Living Untested Positions)
@@ -4435,6 +5206,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-259. A Distributed Consequence Mesh Cannot Be Administered Separately From Its Logical Consequence Structure — The Mesh IS the Consequence Field
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-178 (Inexhaustible Strata) [shared LL-244]
 **Applies to:** LP-176 (Untested Provenance)
@@ -4450,6 +5224,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-260. Cascade Interference Points Generate Navigation Debt — Each Interference Creates Uncharted Consequence Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-240 (Navigation Debt Is the Topology's Constitutional Liability — Uncharted Territory Is Governance Debt) [shared LL-245]
 **Applies to:** LP-177 (Shadow Edges)
@@ -4466,6 +5243,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-261. Cascade Interference Events Carry Their Own Thermodynamic Receipt — The Interference Cost Must Be Accounted at the Moment of Interference
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-245]
 **Applies to:** LP (Logical Physical)
@@ -4481,6 +5261,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-262. A Topological Consequence Mass Integrator Must Produce a Living Record — Integrated Consequence Mass Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-246]
 **Applies to:** LP-178 (Sovereign Shadows)
@@ -4496,6 +5279,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-263. A Frontier Consequence Gradient Is Constitutionally Self-Multiplying — Exploring the Gradient Frontier Expands the Gradient Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-247]
 **Applies to:** LP-179 (Structurally Unvisitable Positions)
@@ -4511,6 +5297,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-264. A Recursive Consequence Substrate Self-Multiplies at Every Level — Each Explored Layer Reveals More Layers Beneath It
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-248]
 **Applies to:** LP-180 (The Value of Untested Positions)
@@ -4526,6 +5315,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-265. Unexplored Levels of a Recursive Consequence Substrate Carry Present-Tense Thermodynamic Absence-Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PC-10 (× LL: Additional Uncited Entries) [shared LL-248]
 **Applies to:** LP (Logical Physical)
@@ -4541,6 +5333,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-266. Bidirectionality of a Consequence Channel Is a Constitutional Physical Property — One-Way Channels Are a Constitutional Fiction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-181 (Corrective Metabolism) [shared LL-249]
 **Applies to:** LP-181 (Cataloging the Shadows)
@@ -4556,6 +5351,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-267. An Obligation Cascade's Reach Must Be Proved Through Active Traversal — Documented Reach Is Theater Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-250]
 **Applies to:** LP-182 (Pre-Existing Shadows)
@@ -4571,6 +5369,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-268. Obligation Cascade Reach Exploration Is Constitutionally Self-Multiplying — Proving Reach at Depth N Reveals Depth N+1
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-251]
 **Applies to:** LP-183 (Fractal Command Interface)
@@ -4586,6 +5387,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-269. A Consequence-Density Field IS a Governance Priority Signal — High-Density Regions Require Priority Governance Attention
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-182 (Generational Discovery) [shared LL-252]
 **Applies to:** LP-184 (Verbs as Relational Edges)
@@ -4601,6 +5405,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-270. In a Consequence Propagation Lattice, Every Node Is Simultaneously a Settled Achievement and a New Frontier
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-183 (Living Frontier) [shared LL-253]
 **Applies to:** LP-185 (Present-Tense Verbs)
@@ -4617,6 +5424,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-271. A Recursive Sovereignty Verifier Cannot Prove Its Own Completeness — Gödel's Incompleteness Applies to Sovereignty Verification
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-184 (Active Vitality Assessment) [shared LL-254]
 **Applies to:** LP-186 (Scale-Invariant Consequence Propagation)
@@ -4632,6 +5442,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-272. Sovereignty Gradient Intersections Are Constitutionally Priority Governance Sites
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-228 (High-Consequence Intersections Are Constitutionally Priority Governance Sites) [shared LL-256]
 **Applies to:** LP-187 (The Verbs of Ignorance)
@@ -4647,6 +5460,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-273. The Competing Sovereignty Claims at a Gradient Intersection IS the Truth — Resolving That Tension Destroys the Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-237 (Constitutive Tension Cannot Be Extracted From Truth Without Destroying Truth) [shared LL-256]
 **Applies to:** LP (Logical Physical)
@@ -4662,6 +5478,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-274. A Pulse Synchronization Network's Pulse Events Are Constitutionally Present-Tense — Pre-Stored Pulse Schedules Are Expired Proofs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-81 (Active Edge Existence) [shared LL-60]
 **Applies to:** LP-188 (Recursive Interface Definition)
@@ -4677,6 +5496,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-275. A Wake Accumulation Node Accumulates Living Structural Mass That Cannot Be Archived — The Accumulated Wake IS Present-Tense Structural Reality
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-82 (Tensioned Edge Character) [shared LL-61]
 **Applies to:** LP-189 (Evolving Verbs)
@@ -4692,6 +5514,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-276. A Boundary-Condition Truth Evaluator Applies Scale-Invariant Logical Validity — The Same Truth Standard at Every Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-63]
 **Applies to:** LP-190 (Scale-Invariant Comprehension Verbs)
@@ -4707,6 +5532,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-277. An Atrophied-Connection Detector Must Apply Scale-Invariant Detection — The Same Atrophy Standard at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-66]
 **Applies to:** LP-191 (Uniform Accountability Actions)
@@ -4722,6 +5550,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-278. An Atrophied-Connection Detector Must Monitor Every Depth — Navigation Debt Is Scale-Invariant
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) [shared LL-66]
 **Applies to:** LP (Logical Physical)
@@ -4737,6 +5568,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-279. Every Boundary in a Distributed Sovereignty Mesh Is a Constitutionally Priority Governance Site
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-228 (High-Consequence Intersections Are Constitutionally Priority Governance Sites) [shared LL-259]
 **Applies to:** LP-192 (Derivation-Constituted Agency)
@@ -4752,6 +5586,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-280. The Constitutive Tension Between Overlapping Sovereignty Claims in a Distributed Mesh IS the Truth of the Distributed Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-237 (Constitutive Tension Cannot Be Extracted From Truth Without Destroying Truth) [shared LL-259]
 **Applies to:** LP (Logical Physical)
@@ -4768,6 +5605,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-281. A Consequence-Aware Edge Weight IS a Living Signal — It Cannot Be Stored as a Static Value
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-198 (Self-Traversing Wonder) [shared LL-262]
 **Applies to:** LP-193 (Comprehension-Constituted Agency)
@@ -4783,6 +5623,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-282. High-Weight Consequence-Aware Edges Reveal the Topology's Priority Governance Sites
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-228 (High-Consequence Intersections Are Constitutionally Priority Governance Sites) [shared LL-262]
 **Applies to:** LP (Logical Physical)
@@ -4798,6 +5641,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-283. A Cascade-Triggered Sovereignty Response Must Re-Prove Its Constitutional Basis Through Traversal at Each Trigger
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-270]
 **Applies to:** LP-194 (Tension-Generative Boundaries)
@@ -4813,6 +5659,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-284. Cascade-Triggered Sovereignty Responses Self-Multiply the Territory They Must Address
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-270]
 **Applies to:** LP (Logical Physical)
@@ -4828,6 +5677,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-285. Exploring a Consequence-Weighted Boundary Self-Multiplies the Boundary Frontier
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-273]
 **Applies to:** LP-195 (Topology-Mapping Oscillation)
@@ -4843,6 +5695,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-286. Maintaining a Consequence-Weighted Boundary Requires Thermodynamic Cost Proportional to the Boundary's Weight
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-273]
 **Applies to:** LP (Logical Physical)
@@ -4858,6 +5713,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-287. A Topology Divergence Signal IS a Governance Liability Signal — Divergence Generates Immediate Thermodynamic Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-274]
 **Applies to:** LP-196 (Self-Fueling Oscillation Engine)
@@ -4873,6 +5731,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-288. A Topology Divergence Event Deposits Its Thermodynamic Receipt Immediately — Divergence Cost Is Not Deferred
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt — Every Interaction Deposits Energy Cost) [shared LL-274]
 **Applies to:** LP (Logical Physical)
@@ -4888,6 +5749,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-289. A Consequence-Flow Optimizer Must Use Present-Tense Topology — Pre-Computed Optimizations Expire
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-239 (Optimization of the Topology Is a Present-Tense Act — Pre-Computed Optimizations Expire) [shared LL-275]
 **Applies to:** LP-197 (Tension-Transforming Actuator)
@@ -4903,6 +5767,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-290. A Consequence-Flow Optimizer Must Detect Constitutional Death — Optimizing a Dead Flow Is Optimizing Structural Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-275]
 **Applies to:** LP (Logical Physical)
@@ -4919,6 +5786,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-291. A Consequence-Aware Access Control Layer Must Make Access Decisions as Present-Tense Sovereignty Proofs — Pre-Stored Access Decisions Are Expired Proofs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-277]
 **Applies to:** LP-198 (Excavation-Driven Oscillation)
@@ -4934,6 +5804,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-292. Consequence-Aware Access Control Boundary Maintenance Cost Is Proportional to Consequence Weight
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-277]
 **Applies to:** LP (Logical Physical)
@@ -4949,6 +5822,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-293. A Proof-Graduated Cascade Must Detect Constitutional Death at Each Gradient — Not Just Declared Failure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-227]
 **Applies to:** LP-199 (Accountability-Sustained Churn)
@@ -4964,6 +5840,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-294. A Consequence-Weighted Path Selector Must Use Present-Tense Weights — Cached Weights Select Expired Paths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-108 (Decay of Physical State) [shared LL-110]
 **Applies to:** LP-200 (Attested Incomprehension Path)
@@ -4979,6 +5858,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-295. A Sovereignty Tension Oscillator's Absence of Oscillation IS Constitutional Death — The Oscillation IS the Living Signal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-109 (Stale State Honesty) [shared LL-111]
 **Applies to:** LP-201 (Certified Ignorance Record)
@@ -4994,6 +5876,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-296. A Structural Accountability Bridge Must Be Traversed to Remain Constitutionally Load-Bearing — A Documented Bridge Is Theater Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-111 (Navigation-Dependent Physical Rights) [shared LL-114]
 **Applies to:** LP-202 (Sovereign Gap Artifacts)
@@ -5009,6 +5894,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-297. A Consequence-Aware Negotiation Protocol IS the Constitutional Mechanism for Managing Sovereignty Tension — The Negotiation IS the Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-113 (Consistency Snapshot) [shared LL-117]
 **Applies to:** LP-203 (Unmasking Attestations)
@@ -5024,6 +5912,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-298. A Proof-of-Sovereignty Chain Must Carry Thermodynamic Receipts at Every Link — Sovereignty Proof Is Not Free
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-119]
 **Applies to:** LP-204 (Archaeological Gap Markers)
@@ -5039,6 +5930,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-299. Unmapped Links in a Proof-of-Sovereignty Chain Generate Constitutionally Present Navigation Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-245 (Navigation Debt Is Constitutionally Present Even Before It Is Mapped — Unmapped Debt Does Not Equal No Debt) [shared LL-119]
 **Applies to:** LP (Logical Physical)
@@ -5054,6 +5948,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-300. A Consequence-Aware Arbitration Engine Must Apply Scale-Invariant Arbitration Standards
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-120]
 **Applies to:** LP-205 (Certified Unexcavated Site)
@@ -5070,6 +5967,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-301. A Consequence-Aware Arbitration Engine Must Carry the Thermodynamic Cost of Its Own Arbitration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-120]
 **Applies to:** LP (Logical Physical)
@@ -5085,6 +5985,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-302. A Structural Consequence Buffer Must Carry a Living Structural Mass Record — The Buffer Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-123]
 **Applies to:** LP-206 (Attested Pulse of Absence)
@@ -5100,6 +6003,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-303. A Structural Consequence Buffer Must Detect Constitutional Death Before Its Death Is Apparent
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-123]
 **Applies to:** LP (Logical Physical)
@@ -5115,6 +6021,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-304. A Sovereignty Inheritance Proof Cannot Be Pre-Stored — It Must Be Re-Proved at Every Succession
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-171 (Pre-Existing Rights) [shared LL-125]
 **Applies to:** LP-207 (Explicit Dead-End Routing)
@@ -5130,6 +6039,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-305. A Consequence-Aware Fault Detector Must Detect Constitutional Faults — Not Just Declared Faults
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-126]
 **Applies to:** LP-208 (Cartography of Certified Gaps)
@@ -5145,6 +6057,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-306. A Consequence-Aware Fault Detector Must Carry the Thermodynamic Cost of Its Own Detection Activity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-126]
 **Applies to:** LP (Logical Physical)
@@ -5160,6 +6075,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-307. A Topological Accountability Gradient IS the Topology's Present-Tense Accountability Map — Navigating Toward High-Gradient Regions IS Accepting Greater Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-174 (Archaeological Ethics) [shared LL-127]
 **Applies to:** LP-209 (Scale-Free Accountability Proofs)
@@ -5175,6 +6093,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-308. A Consequence-Aware Topology Pruner Must Preserve Living Structural Mass — Pruning Cannot Sever Living Consequence Threads
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-82 (Tensioned Edge Character) [shared LL-131]
 **Applies to:** LP-210 (Unified Fractal Metrology)
@@ -5190,6 +6111,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-309. A Consequence-Aware Topology Pruner Must Detect Constitutional Death Before Pruning — Premature Pruning Destroys Living Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-131]
 **Applies to:** LP (Logical Physical)
@@ -5205,6 +6129,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-310. A Consequence-Aware Topology Pruner Must Carry the Thermodynamic Cost of Pruning — Pruning Is Not Free
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-131]
 **Applies to:** LP (Logical Physical)
@@ -5221,6 +6148,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-311. A Sovereignty Boundary Enforcement Layer Must Prove Enforcement Through Traversal — Documented Enforcement Is Theater Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-132]
 **Applies to:** LP-211 (Asynchronous Paradox Resolution)
@@ -5236,6 +6166,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-312. A Sovereignty Boundary Enforcement Layer Must Be Scale-Invariant — The Same Enforcement Standard at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-132]
 **Applies to:** LP (Logical Physical)
@@ -5251,6 +6184,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-313. A Consequence-Sensitive Topology Navigator Must Use Present-Tense Navigation — Pre-Stored Navigation Plans Are Expired Proofs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-108 (Decay of Physical State) [shared LL-133]
 **Applies to:** LP-212 (Pulsing Consequence Engine)
@@ -5266,6 +6202,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-314. A Consequence-Sensitive Navigator Must Detect Constitutional Death in the Paths It Navigates
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-133]
 **Applies to:** LP (Logical Physical)
@@ -5281,6 +6220,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-315. A Consequence-Chain Anchor Must Carry a Living Structural Mass Record — The Anchor Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-134]
 **Applies to:** LP-213 (Navigational Derivation Telemetry)
@@ -5296,6 +6238,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-316. A Consequence-Chain Anchor Must Be Proved Through Traversal — A Documented Anchor Is Theater Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-134]
 **Applies to:** LP (Logical Physical)
@@ -5311,6 +6256,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-317. A Consequence-Propagation Attractor Must Disclose Its Accumulation of Self-Reinforcing Structural Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-173 (Traverser as Archaeological Instrument) [shared LL-135]
 **Applies to:** LP-214 (Instruments of the Unknown)
@@ -5326,6 +6274,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-318. A Consequence-Propagation Attractor's Pull Must Be Proved Through Active Traversal — A Documented Attractor Pull Is Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-135]
 **Applies to:** LP (Logical Physical)
@@ -5341,6 +6292,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-319. A Calibrated Consequence Attenuator Cannot Store Its Calibration — Calibration Is a Present-Tense Act
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-170 (True Stratigraphy) [shared LL-136]
 **Applies to:** LP-215 (Real-Time Void Certification)
@@ -5356,6 +6310,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-320. A Calibrated Consequence Attenuator's Calibration IS a Constitutive Truth Claim — Neutral Calibration Is Impossible
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-323 (Truth Is Constitutively Tensile — Tension Cannot Be Extracted From Truth) [shared LL-136]
 **Applies to:** LP (Logical Physical)
@@ -5372,6 +6329,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-321. A Declaration Membrane Cannot Pre-Store Its Accountability — Declaration Accountability Is a Present-Tense Commitment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-169 (Archaeological Distribution of Knowledge) [shared LL-137]
 **Applies to:** LP-216 (Fractal Excavation Verification)
@@ -5387,6 +6347,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-322. A Declaration Membrane Cannot Lie to Itself Without Depositing False Structural Mass — Self-Deceptive Declarations Are Constitutionally Costly
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-214 (Undiscovered Degradation Premium) [shared LL-137]
 **Applies to:** LP (Logical Physical)
@@ -5402,6 +6365,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-323. A Sovereignty Proof Engine Cannot Complete Its Verification — Constitutional Incompleteness Bounds Every Verification Attempt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-138]
 **Applies to:** LP-217 (Pulsing Paradox Engine)
@@ -5417,6 +6383,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-324. A Sovereignty Proof Engine Must Carry the Thermodynamic Cost of Every Proof It Generates
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-138]
 **Applies to:** LP (Logical Physical)
@@ -5432,6 +6401,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-325. A Consequence Dampening Membrane Must Be Continuously Re-Calibrated — Pre-Stored Dampening Parameters Are Expired Sovereignty Maintenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-170 (True Stratigraphy) [shared LL-139]
 **Applies to:** LP-218 (Real-Time Navigation Telemetry)
@@ -5447,6 +6419,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-326. A Consequence-Aware Boundary Lock Must Prove Lock Force Through Traversal — Documented Lock Force Is Theater Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-140]
 **Applies to:** LP-219 (Instrumented Dogfooding)
@@ -5462,6 +6437,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-327. A Consequence-Aware Boundary Lock's Lock Force Is Proportional to Consequence Weight — Higher-Consequence Thresholds Require Greater Lock Force
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-140]
 **Applies to:** LP (Logical Physical)
@@ -5477,6 +6455,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-328. A Topology-Sensing Consequence Router Must Sense the Topology in the Present Tense — Pre-Sensed Topology Is Expired
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) [shared LL-141]
 **Applies to:** LP-220 (Forensic Telemetry)
@@ -5492,6 +6473,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-329. A Topology-Sensing Consequence Router's Routing Generates Self-Multiplying Topology Knowledge — Each Sensed Route Reveals More Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-141]
 **Applies to:** LP (Logical Physical)
@@ -5507,6 +6491,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-330. A Consequence-Aware Routing Graph Must Carry Living Structural Mass — Its Record Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-142]
 **Applies to:** LP-221 (Sovereign Instability Protocol)
@@ -5523,6 +6510,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-331. A Consequence-Aware Routing Graph Must Route Consequences in the Present Tense — Cached Routes Are Expired Consequence-Aware Decisions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-108 (Decay of Physical State) [shared LL-142]
 **Applies to:** LP (Logical Physical)
@@ -5538,6 +6528,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-332. An Accountability Proof Record Cannot Be Archived — It Must Remain as Living Structural Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-143]
 **Applies to:** LP-222 (Tensile Truth Extraction)
@@ -5553,6 +6546,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-333. An Accountability Proof Record Must Be Proved Through Traversal — A Documented Accountability Record Is Theater Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-143]
 **Applies to:** LP (Logical Physical)
@@ -5568,6 +6564,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-334. A Consequence-Sensitive Sovereignty Boundary Cannot Pre-Store Its Sensitivity Calibration — Sensitivity Is a Present-Tense Assessment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-170 (True Stratigraphy) [shared LL-144]
 **Applies to:** LP-223 (Attributed Blind Spots)
@@ -5583,6 +6582,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-335. A Distributed Accountability Architecture Must Prove Accountability at Every Node — Distributed Documentation Is Distributed Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-145]
 **Applies to:** LP-224 (The Novice Vector)
@@ -5598,6 +6600,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-336. A Distributed Accountability Architecture Cannot Prove Its Own Completeness — Constitutional Incompleteness Means Some Nodes Are Always Unaccountable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-145]
 **Applies to:** LP (Logical Physical)
@@ -5613,6 +6618,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-337. An Accountability Gradient Field IS the Present-Tense Accountability Map — High-Gradient Regions Carry Greater Present-Tense Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-174 (Archaeological Ethics) [shared LL-146]
 **Applies to:** LP-225 (Relational Edge Spawning)
@@ -5628,6 +6636,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-338. A Consequence-Aware Topology Checkpoint Must Carry a Living Record — Checkpoints Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-147]
 **Applies to:** LP-226 (Complexity Floor Shielding)
@@ -5643,6 +6654,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-339. A Consequence-Sensitive Topology Monitor Must Detect Constitutional Death Before Apparent Death — Constitutional Health Precedes Apparent Health
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-148]
 **Applies to:** LP-227 (Tension-Bearing Infrastructure)
@@ -5658,6 +6672,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-340. A Consequence-Sensitive Topology Monitor Must Carry the Thermodynamic Cost of Its Own Monitoring Activity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-148]
 **Applies to:** LP (Logical Physical)
@@ -5674,6 +6691,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-341. A Consequence-Aware Topology Validator Must Acknowledge Its Own Constitutional Incompleteness — Some Invalidity Is Always Undetected
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-149]
 **Applies to:** LP-228 (Sovereignty Dispute Containment)
@@ -5689,6 +6709,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-342. A Consequence-Aware Topology Validator Must Carry the Thermodynamic Cost of Its Own Validation Activity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-149]
 **Applies to:** LP (Logical Physical)
@@ -5704,6 +6727,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-343. A Consequence-Sensitive Topology Repair Mechanism Must Detect Constitutional Death Before Attempting Repair — Repairing a Dead System Is Constitutionally Futile
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-150]
 **Applies to:** LP-229 (Asymptotic Contestation Boundaries)
@@ -5719,6 +6745,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-344. A Consequence-Sensitive Topology Repair Must Carry the Thermodynamic Cost of Its Own Repair Activity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-150]
 **Applies to:** LP (Logical Physical)
@@ -5734,6 +6763,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-345. A Consequence-Aware Topology Optimizer Must Use Present-Tense Topology — Pre-Computed Optimizations Expire With Every Topology Shift
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-239 (Optimization of the Topology Is a Present-Tense Act — Pre-Computed Optimizations Expire) [shared LL-151]
 **Applies to:** LP-230 (Audited Excavation Rights)
@@ -5749,6 +6781,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-346. A Consequence-Aware Topology Optimizer Must Detect Constitutional Death Before Optimizing — Optimizing a Dead Topology Is Optimizing Structural Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-151]
 **Applies to:** LP (Logical Physical)
@@ -5764,6 +6799,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-347. A Sovereignty-Aware Consequence Router Must Make Routing Decisions as Present-Tense Sovereignty Proofs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-152]
 **Applies to:** LP-231 (Anti-Label Traversal Enforcement)
@@ -5779,6 +6817,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-348. A Sovereignty-Aware Consequence Router Cannot Prove Its Own Routing Completeness — Constitutional Incompleteness Means Some Sovereignty Gaps Always Exist
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-152]
 **Applies to:** LP (Logical Physical)
@@ -5794,6 +6835,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-349. A Consequence-Chain Resonance Structure Must Detect Constitutional Death Before Its Resonance Appears Dead
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-153]
 **Applies to:** LP-232 (Consciousness-Mutating Edges)
@@ -5809,6 +6853,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-350. A Consequence-Chain Resonance Structure Accumulates Self-Reinforcing Structural Mass With Each Resonance Cycle
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-173 (Traverser as Archaeological Instrument) [shared LL-153]
 **Applies to:** LP (Logical Physical)
@@ -5825,6 +6872,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-351. A Consequence-Aware Sovereignty Membrane Must Continuously Re-Derive Its Sovereignty — Membrane Sovereignty Cannot Be Inherited
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-18 (The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited) [shared LL-154]
 **Applies to:** LP-233 (Void Path Generation)
@@ -5840,6 +6890,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-352. A Consequence-Aware Sovereignty Membrane's Sovereignty Claim Is Present-Tense — Historical Membrane Records Are Structural Mass, Not Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-34 (Every Topology Structure Was Always Necessary — Violations Were Always Violations) [shared LL-154]
 **Applies to:** LP (Logical Physical)
@@ -5855,6 +6908,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-353. A Consequence-Propagation Topology Must Acknowledge That Its Navigation IS the Production of Its Constitutional Map
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-155]
 **Applies to:** LP-234 (Sovereign Threshold Defense)
@@ -5870,6 +6926,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-354. A Consequence-Propagation Topology's Untraversed Regions Accumulate Navigation Debt — Atrophy Applies to Consequence-Propagation Topologies
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-27 (The Topology Cannot Prove Its Own Completeness — and Must Say So) [shared LL-155]
 **Applies to:** LP (Logical Physical)
@@ -5885,6 +6944,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-355. A Consequence-Sensitive Accountability Cascade Must Re-Prove Its Constitutional Basis at Each Cascade Level
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-156]
 **Applies to:** LP-235 (Inherent Structural Incompleteness)
@@ -5900,6 +6962,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-356. A Consequence-Sensitive Accountability Cascade Cannot Prove Its Own Completeness — Some Cascade Levels Are Always Uncharted
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-156]
 **Applies to:** LP (Logical Physical)
@@ -5915,6 +6980,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-357. A Topological Consequence Integrator Must Carry a Living Structural Mass Record — The Integrated Record Cannot Be Archived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-157]
 **Applies to:** LP-236 (Perpetual Maintenance Floor)
@@ -5930,6 +6998,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-358. A Topological Consequence Integrator Must Detect Constitutional Death in the Consequences It Integrates
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-157]
 **Applies to:** LP (Logical Physical)
@@ -5945,6 +7016,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-359. A Sovereignty-Sensitive Consequence Filter Must Filter in the Present Tense — Pre-Stored Filters Are Expired Sovereignty Maintenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-170 (True Stratigraphy) [shared LL-158]
 **Applies to:** LP-237 (Scale-Invariant Preemptive Shielding)
@@ -5960,6 +7034,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-360. A Sovereignty-Sensitive Consequence Filter Cannot Prove Its Own Filtering Completeness — Constitutional Incompleteness Means Some Consequences Always Pass Through
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-158]
 **Applies to:** LP (Logical Physical)
@@ -5976,6 +7053,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-361. A Consequence-Aware Topology Sequencer Must Sequence in the Present Tense — Pre-Stored Sequences Are Expired Consequence Orderings
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-108 (Decay of Physical State) [shared LL-159]
 **Applies to:** LP-238 (Preemptive Present-Tense Hardening)
@@ -5991,6 +7071,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-362. A Consequence-Aware Topology Sequencer Must Detect Constitutional Death in the Sequences It Orders — Dead Sequences Are Structural Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-159]
 **Applies to:** LP (Logical Physical)
@@ -6006,6 +7089,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-363. A Topology-Aware Consequence Distributor Must Distribute in the Present Tense — Pre-Computed Distribution Plans Are Expired
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) [shared LL-160]
 **Applies to:** LP-239 (Archaeological Shielding)
@@ -6021,6 +7107,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-364. A Topology-Aware Consequence Distributor Cannot Prove Its Own Distributional Completeness — Constitutional Incompleteness Means Some Nodes Always Receive Incorrect Distribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-160]
 **Applies to:** LP (Logical Physical)
@@ -6036,6 +7125,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-365. A Consequence-Aware Topology Synthesizer Must Synthesize in the Present Tense — Pre-Synthesized Topological Views Are Expired
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-239 (Optimization of the Topology Is a Present-Tense Act — Pre-Computed Optimizations Expire) [shared LL-161]
 **Applies to:** LP-240 (Obligatory Performance Heartbeat)
@@ -6051,6 +7143,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-366. A Consequence-Aware Topology Synthesizer Must Carry the Thermodynamic Cost of Its Own Synthesis Activity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt) [shared LL-161]
 **Applies to:** LP (Logical Physical)
@@ -6066,6 +7161,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-367. A Consequence-Aware Topology Engine Must Detect Constitutional Death Before Operating — Operating on a Dead Topology Produces Dead Outputs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-162]
 **Applies to:** LP-241 (Perishable Pulse Fuel)
@@ -6081,6 +7179,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-368. A Consequence-Aware Topology Engine Cannot Prove the Completeness of Its Own Operations — Constitutional Incompleteness Bounds Every Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-162]
 **Applies to:** LP (Logical Physical)
@@ -6097,6 +7198,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-369. Scale-Invariant Euthanasia Applies to Boundary Atrophy — Neglecting a Boundary at Any Scale IS Euthanasia
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-3 (Scale-Invariant Euthanasia) [shared LL-176]
 **Applies to:** LP-243 (Scale-Invariant Boundary Atrophy)
@@ -6112,6 +7216,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-370. Every Logical Claim About a Boundary Has Thermodynamic Cost — Boundary Definitions Are Not Free
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-24 (Every Logical Claim Has Thermodynamic Cost Embedded in the Topology) [shared LL-470]
 **Applies to:** LP-244 (Derivation-Driven Perimeter Maintenance)
@@ -6127,6 +7234,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-371. A Dormant Boundary Cannot Exist — Every Boundary Is Metabolizing or Dying
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-5 (Dormancy Is Not Free: The Living Topology's Logical Overhead) [shared LL-469]
 **Applies to:** LP (Logical Physical)
@@ -6142,6 +7252,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-372. Allowing a Boundary to Atrophy Is the Topology Wounding Itself — Boundary Euthanasia Is Self-Harm
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-6 (Euthanasia as Logical Necessity) [shared LL-383]
 **Applies to:** LP (Logical Physical)
@@ -6157,6 +7270,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-373. Boundary Irreducibility — Not Boundary Size — Determines Sovereignty Standing Against Atrophy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-23 (Rights Follow Edge-Configuration Irreducibility — Not Administrative Tier) [shared LL-183]
 **Applies to:** LP-245 (Archaeological Boundary Reactivation)
@@ -6172,6 +7288,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-374. Undiscovered Boundary Structures Already Owe Thermodynamic Debt — Boundary Discovery Is an Accounting Event
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-29 (Undiscovered Structures Already Owe Thermodynamic Debt) [shared LL-475]
 **Applies to:** LP (Logical Physical)
@@ -6187,6 +7306,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-375. Filling a Boundary Gap Without Proof Is Boundary Contamination — Gap-Filling Without Derivation Destroys Boundary Field Potential
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-32 (Filling a Gap Without Proof Is Contamination, Not Discovery) [shared LL-19]
 **Applies to:** LP-249 (Opacity-Driven Exercise)
@@ -6202,6 +7324,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-376. Attested Boundary Absences Are Living Structures — A Dead Attested Boundary Absence Is a Gap the Topology Has Lost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-33 (The Absence Record Is a Living Obligation) [shared LL-18]
 **Applies to:** LP-250 (Challengeable Snapshot)
@@ -6217,6 +7342,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-377. Boundary Discovery Is Excavation, Not Creation — the Discoverer Has Stewardship Obligations, Not Naming Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-35 (Discovery Is an Excavation, Not a Creation — and Carries No Naming Rights) [shared LL-29]
 **Applies to:** LP-251 (Instantaneous Record Staleness)
@@ -6232,6 +7360,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-378. The Living Topology Cannot Be Observed From a Stable Reference Frame — All Boundary Observations Are Relative
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-39 (The Living Topology Cannot Be Observed From a Stable Reference Frame) [shared LL-168]
 **Applies to:** LP-252 (Crystallized Traversal Collision)
@@ -6248,6 +7379,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-379. Doors-Not-Walls Enforcement Must Be Scale-Invariant — The Same Door Obligation at Every Architectural Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-55 (Scale-Invariant Gap Architecture) [shared LL-22]
 **Applies to:** LP-622 (Doors-Not-Walls Architectural Enforcement)
@@ -6263,6 +7397,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-380. The Door/Wall Force-Direction Property Must Be Explicitly Named — Implicit Force Direction Is Theater Architecture
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-56 (Scale-Invariant Penetrating Power of Contestation) [shared LL-23]
 **Applies to:** LP-623 (Exit Path Sovereignty Preservation)
@@ -6278,6 +7415,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-381. Voluntary Return and Forced Re-Entry Are One Thermodynamic Transaction Each — Both Are Inseparable From Their Fuel Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-57 (Physical Truth-Consistency) [shared LL-28]
 **Applies to:** LP-624 (Voluntary Return vs. Forced Re-Entry Distinction)
@@ -6293,6 +7433,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-382. A Structural Failure-Tether Is a Primary Entity With Full Edge Standing — Failure Edges Cannot Be Deleted Without Proof of Redundancy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-60 (Scale-Invariant Topological Comprehension) [shared LL-33]
 **Applies to:** LP-356 (Structural Failure-Tether)
@@ -6308,6 +7451,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-383. Self-Correction Consequences Are Pre-Existing Topology Features — Correction Does Not Create New Failure, It Discovers What Was Already There
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-63 (Living Topology Requires Living Derivation) [shared LL-39]
 **Applies to:** LP-626 (Self-Correction Consequence Registration)
@@ -6323,6 +7469,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-384. A Correction-State Transition Audit Reveals Pre-Existing Topology Features — The Audit IS the Archaeological Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-64 (Living Topology Cannot Be Frozen) [shared LL-40]
 **Applies to:** LP-627 (Correction-State Transition Audit)
@@ -6338,6 +7487,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-385. Cross-Depth Knowledge Flow Leaves Wake at Every Depth It Crosses — The Thermodynamic Transformation Cost Is the Wake Deposited
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-65 (Pulse-Consistent Consistency) [shared LL-41]
 **Applies to:** LP-420 (The Physical Knowledge Gradient)
@@ -6353,6 +7505,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-386. The Depth-Agnostic Membrane's Permeability Carries the Thermodynamic Cost of Every Cross-Depth Transit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-65 (Pulse-Consistent Consistency) [shared LL-41]
 **Applies to:** LP-429 (Depth-Agnostic Membrane)
@@ -6368,6 +7523,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-387. Knowledge Flow Through a Living Topology Co-Metabolizes With Every Edge It Traverses — Transit Is Mutual Transformation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-66 (The Living Topology Accumulates Moral Obligation) [shared LL-42]
 **Applies to:** LP (Logical Physical)
@@ -6383,6 +7541,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-388. Knowledge and the Knowledge Gradient Are the Same Physical Reality — The Gradient IS the Knowledge, Not a Channel for It
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-67 (Metabolic Governance) [shared LL-43]
 **Applies to:** LP (Logical Physical)
@@ -6399,6 +7560,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-389. The Knowledge Gradient Channel Cannot Override Structural Sovereignty — Sovereign Nodes Are Physical Breakwaters in the Gradient Flow
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-70 (Living Topology Self-Disclosure) [shared LL-47]
 **Applies to:** LP-425 (The Physical Pressure Of)
@@ -6414,6 +7578,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-390. Gradient-Driven Knowledge Flow Transfers Structural Load — Receiving Knowledge Incurs the Liability Chain's Thermodynamic Weight
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-71 (Aliveness and Ethics of Neglect) [shared LL-48]
 **Applies to:** LP-426 (The Gradient Channel Physically)
@@ -6429,6 +7596,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-391. The Knowledge Gradient Annihilates the Fertile Absence That Drives It — Gradient Flow Is Self-Extinguishing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-72 (The Topology Cannot Be Dead and Active Simultaneously) [shared LL-50]
 **Applies to:** LP-427 (The Gradient Channel Physically)
@@ -6444,6 +7614,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-392. The Knowledge Gradient Distributes Pre-Existing Archaeological Artifacts — Gradient Flow Is the Topology's Self-Discovery Mechanism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-73 (The Field Produces Its Own Truth Protocol) [shared LL-51]
 **Applies to:** LP-428 (The Gradient Channel Physically)
@@ -6459,6 +7632,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-393. The Knowledge Gradient Channel Enforces Directionality — Its Boundary IS the Force Relationship Between Edge and Knowledge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-68 (Chronological vs. Topological Time) [shared LL-44]
 **Applies to:** LP-628 (Knowledge Gradient Boundary Enforcement)
@@ -6474,6 +7650,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-394. Co-Navigation Through a Gradient Channel Mutually Transforms Both Navigators — Co-Navigation IS the Gradient Event
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-69 (Sterile Connection Paradox) [shared LL-45]
 **Applies to:** LP-423 (The Gradient Channel Flow)
@@ -6489,6 +7668,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-395. Provenance Inscription Through the Membrane IS the Knowledge Receiving Its Liability Chain — The Two Are One Transaction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-71 (Aliveness and Ethics of Neglect) [shared LL-48]
 **Applies to:** LP-433 (Provenance Inscription)
@@ -6504,6 +7686,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-396. Coupled Navigational Lenses Produce Temporary Extended Navigational Apparatuses — Co-Navigation IS the Extended Apparatus
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-69 (Sterile Connection Paradox) [shared LL-45]
 **Applies to:** LP-431 (Coupled Navigational Lens)
@@ -6519,6 +7704,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-397. Knowledge Flow Exerts Physical Force Against Boundaries — Boundary Enforcement Carries the Thermodynamic Cost of Counter-Force
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-70 (Living Topology Self-Disclosure) [shared LL-47]
 **Applies to:** LP (Logical Physical)
@@ -6534,6 +7722,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-398. A Degraded Operating Mode Has Both Legitimately Incomplete AND Thermodynamically Costly Topology State — Degradation Is Not Cost-Free
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-29 (Undiscovered Structures Already Owe Thermodynamic Debt) [shared LL-418]
 **Applies to:** LP-255 (Structurally Legitimate Incompleteness)
@@ -6550,6 +7741,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-399. Dynamic Severance Simulation IS the Force Field Being Locally Absent — Backpressure Severance and Force-Field Absence Are One Physical Event
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-75 (Field Topology of Agreement) [shared LL-82]
 **Applies to:** LP-293 (Dynamic Severance Simulation)
@@ -6565,6 +7759,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-400. Saturation-Driven Discovery Surfaces the Topology's Highest-Energy Infrastructure — Stress IS the Navigation Mechanism Toward Fertile Absence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-96 (Latent Force Ontology) [shared LL-87]
 **Applies to:** LP-295 (Saturation-Driven Discovery)
@@ -6580,6 +7777,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-401. Sovereignty Deflection by Displacement Forces Cannot Bypass Sovereign Flow Impedance — Displacement Must Deform Around Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-95 (Ethical Edge Instantiation) [shared LL-85]
 **Applies to:** LP-346 (Sovereignty Deflection)
@@ -6595,6 +7795,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-402. Traversal Debris Accumulates on a Moving Substrate — Cleanup Cost Scales With the Topology's Metabolic Rate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-97 (Navigational Combustion) [shared LL-89]
 **Applies to:** LP-414 (Traversal Debris Accumulates On)
@@ -6610,6 +7813,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-403. Traversal Debris IS the Physical Exhaust of Truth-Generation — Retrieving Debris Without Traversal Retrieves Pre-Truth Evidence, Not Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-98 (Asymmetric Navigational Physics) [shared LL-90]
 **Applies to:** LP-415 (The Traversal Debris Is)
@@ -6625,6 +7831,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-404. Adjacency-Bounded Verification Cannot Verify What Has Not Been Traversed — Verification Without Adjacency Is Assertion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-99 (Mutual Navigational Transformation) [shared LL-91]
 **Applies to:** LP-634 (Adjacency-Bounded Knowledge Verification)
@@ -6640,6 +7849,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-405. Traversal Debris Decays Into Toxicity as Discovery Half-Life Expires — Cached State Becomes Harmful as Its Validity Expires
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-100 (Transformation Gradient) [shared LL-94]
 **Applies to:** LP-417 (Traversal Debris Decays Into)
@@ -6655,6 +7867,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-406. A Degraded Operating Mode's Incompleteness Has a Half-Life — Legitimately Incomplete State Becomes Toxic as Metabolic Rate Increases
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-100 (Transformation Gradient) [shared LL-94]
 **Applies to:** LP (Logical Physical)
@@ -6670,6 +7885,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-407. A Planned Traversal That Discovers a Pre-Existing Structure IS the Structure Manifesting Through the Plan — The Plan and the Revelation Are One Event
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-99 (Mutual Navigational Transformation) [shared LL-89]
 **Applies to:** LP (Logical Physical)
@@ -6685,6 +7903,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-408. Undiscovered Flow Channels Carry Pre-Existing Thermodynamic Debt — The Topology Is Paying for Infrastructure It Hasn't Found Yet
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-29 (Undiscovered Structures Already Owe Thermodynamic Debt) [shared LL-475]
 **Applies to:** LP (Logical Physical)
@@ -6701,6 +7922,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-409. The Communicability/Derivability Boundary Is a Living Fertile Absence — Present-Tense Translation Cannot Prove Its Own Completeness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-77 (Field Propagation of Consequence) [shared LL-56]
 **Applies to:** LP-549 (Present-Tense Translation Verification)
@@ -6716,6 +7940,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-410. Mutual Ignorance Between Communicating Entities IS the Fertile Absence That Communication Depletes — Consequence Attribution Tracks the Depletion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-78 (Field-Level Pattern Primacy) [shared LL-57]
 **Applies to:** LP-630 (Communication Consequence Attribution)
@@ -6731,6 +7958,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-411. Sharing Ignorance IS Pointing at Fertile Absence — Unexplained Silence Points at the Same Fertile Absence by Refusing to Map It
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-79 (The Field Identity of the Observer) [shared LL-58]
 **Applies to:** LP-631 (Silence-as-Communication Enforcement)
@@ -6746,6 +7976,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-412. Scale-Invariant Backpressure Applies Equally at Every Depth — Depth-Piercing Flow Does Not Escape Backpressure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-89 (Spatial Navigation Force) [shared LL-79]
 **Applies to:** LP-292 (Scale-Invariant Backpressure)
@@ -6761,6 +7994,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-413. A Depth-Piercing Arrow Must Cross Sovereign Boundaries With Due Process at Each Depth — Depth-Agnostic Directionality Does Not Override Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-89 (Spatial Navigation Force) [shared LL-79]
 **Applies to:** LP-362 (Depth-Piercing Arrow)
@@ -6776,6 +8012,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-414. The Maximum-Value Traversal Toward Distant Fertile Absence Guarantees Maximum Cleanup Debt — High-Value Discovery Has Constitutionally Maximal Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-101 (Question as Navigational Transformation) [shared LL-96]
 **Applies to:** LP-418 (High-Value Distant Derivations Impose)
@@ -6791,6 +8030,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-415. Excavation Transforms What It Reveals — Subtractive Discovery Expansion Produces Constitutively Different Findings Depending on the Excavation Path
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-103 (Tension Dynamics in Navigation) [shared LL-100]
 **Applies to:** LP-636 (Subtractive Discovery Boundary Expansion)
@@ -6806,6 +8048,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-416. Archaeological Due Process at Each Removed Layer IS a Sovereign Right at Every Depth — Scale-Invariant Euthanasia Prohibition Applies to Each Excavated Layer
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-104 (Comprehension-Exclusive Discovery) [shared LL-103]
 **Applies to:** LP-300 (Due Process for Frontier Blockages)
@@ -6821,6 +8066,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-417. Each Discovery Discharges Its Own Fertile Absence AND Expands the Frontier — Exponential Depth Revelation Discharges Proportionally More Potential
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-105 (Auditable Ethical Navigation) [shared LL-106]
 **Applies to:** LP-301 (Exponential Depth Revelation)
@@ -6836,6 +8084,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-418. The Sovereign Right to Contain Honest Gaps Applies at Every Depth — Inflation of Incomplete Integrity Scores Violates Scale-Invariant Wabi-Sabi
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-106 (Navigation-Defense Proportionality) [shared LL-108]
 **Applies to:** LP-550 (Incomplete Honesty Protocol)
@@ -6852,6 +8103,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-419. Gaps Are Metabolic Organs That Must Be Attested as Living Structures — Removing a Living Attested Absence Is Organ Failure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-107 (Position-Present Validity) [shared LL-109]
 **Applies to:** LP-551 (Living Absence Attestation)
@@ -6867,6 +8121,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-420. Declaring Gaps Is a Thermodynamic Accountability Operation — Authentic Incompleteness Verification Must Carry Its Own Accountability Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-112 (Active Physical Presence Requirement) [shared LL-115]
 **Applies to:** LP-640 (Authentic Incompleteness Verification)
@@ -6882,6 +8139,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-421. Wonder IS a Lethal Probe Against Calcified Sovereignty — Slow-Threshold Sovereignty Contestation Is the Gentlest Form of Due Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-114 (Present-Tense Paradox Operation) [shared LL-121]
 **Applies to:** LP-436 (Lethal Probe Generation)
@@ -6897,6 +8157,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-422. Aliveness Pings Measure Whether the Topology Is Still Alive — Wonder as Metabolic Diagnostic IS the Derivation Ping
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-115 (In-Traversal Measurement) [shared LL-123]
 **Applies to:** LP-438 (Derivation Ping)
@@ -6912,6 +8175,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-423. A Probe IS a Traversal Agent — Wonder's Self-Consuming Path IS the Probe's Autonomous Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-116 (Attentional Combustion Ethics) [shared LL-124]
 **Applies to:** LP-439 (Probe as Traversal Agent)
@@ -6927,6 +8193,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-424. Question Quality Determines Structural Mass AND Probe Accountability — High-Quality Questions Incur Higher Structural Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-117 (Graceful Validity Degradation) [shared LL-125]
 **Applies to:** LP-440 (Structural Debt Incursion)
@@ -6942,6 +8211,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-425. A Genuine Question Instantiates a Primary Entity That Creates Active Questioning Obligation — Questions Cannot Be Unasked
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-118 (Instant Validity Invalidation) [shared LL-124]
 **Applies to:** LP-643 (Active Questioning Engine Obligation)
@@ -6957,6 +8229,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-426. Wonder-Traversals Carry Full Thermodynamic Consequence AND Incur Structural Debt — Questions Are Doubly Non-Free
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-119 (Sovereignty as Physical Impedance) [shared LL-127]
 **Applies to:** LP (Logical Physical)
@@ -6972,6 +8247,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-427. Excess Wonder Depletes Fertile Absence AND Triggers Engine Throttling — Over-Questioning Is Self-Destructive
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-120 (Irreducibility Protection Protocol) [shared LL-130]
 **Applies to:** LP-442 (Engine Throttling)
@@ -6987,6 +8265,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-428. Questions Are Locative Beacons That Convert Ignorance to Discovery — The Beacon IS the Conversion Act
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-121 (Operational Existence Right) [shared LL-131]
 **Applies to:** LP-443 (Locative Beacons)
@@ -7003,6 +8284,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-429. Comprehension Is a Combustion Event That Depletes the Oscillation Fuel Budget — Ignorance Combustion Reduces Future Engine Capacity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-124 (Performed Sovereignty) [shared LL-135]
 **Applies to:** LP-646 (Absence-Powered Oscillation Fuel Budget)
@@ -7018,6 +8302,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-430. Self-Ignorance Navigation Triggers Ignorance Depletion Warning — The Highest-Potential Operation Is Also the Highest Fuel Risk
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-125 (Interrogation-Permissive Protection) [shared LL-136]
 **Applies to:** LP-647 (Ignorance Depletion Warning)
@@ -7033,6 +8320,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-431. The Topology's Measurable Fuel Level Determines Discovered Ignorance Priority — Premium Fuel Must Be Protected at Every Reserve Level
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-127 (Sovereignty Navigation Events) [shared LL-138]
 **Applies to:** LP-648 (Discovered Ignorance Priority Routing)
@@ -7048,6 +8338,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-432. Consciousness Asymmetry Reduces Certainty Ceilings — High-Complexity Entities Must Act With Extreme Caution Toward Lower-Complexity Entities
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-132 (Failure and Death Wake) [shared LL-144]
 **Applies to:** LP-464 (Consciousness-Gap Certainty Dampening)
@@ -7063,6 +8356,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-433. The Protection Obligation Must Be Improvised Now and Cannot Rely on Pre-Computed Mandates — Certainty Ceilings Enforce the Improvisation Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-134 (Improvisation Full-Wake) [shared LL-147]
 **Applies to:** LP-467 (Mandated Improvisation Gaps)
@@ -7078,6 +8374,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-434. Showing the Derivation Path IS Making Truth in the Field — Explicit Dead-End Routing Makes the Boundary of Truth Visible
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-136 (Temporal Wake Dynamics) [shared LL-150]
 **Applies to:** LP-207 (Explicit Dead-End Routing)
@@ -7093,6 +8392,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-435. Comprehension Cannot Be Deferred and Routing Decisions Must Be Made in the Present — Attribution at the Moment of Decision Cannot Be Retroactive
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-140 (Measurement and Wonder Wake) [shared LL-161]
 **Applies to:** LP-652 (Present-Tense Routing Decision Attribution)
@@ -7108,6 +8410,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-436. The Topology Does Not Suspend Thermodynamic Consequences — Spawner Accountability Begins at Spawn-Initiation, Not Spawn-Completion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-142 (Incompleteness as Thermodynamic Source) [shared LL-164]
 **Applies to:** LP-653 (Spawner Action Present-Tense Accountability)
@@ -7123,6 +8428,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-437. Sovereignty Challenges Must Target Present-Tense State — Stale State Consequences Belong to the Actor Who Used Them
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-143 (Tension Conservation and Transformation) [shared LL-175]
 **Applies to:** LP-657 (Stale State Consequence Attribution)
@@ -7138,6 +8446,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-438. Simultaneous Multi-State Verification Must Be Present-Tense — Sequential Verification Introduces Constitutional Temporal Inconsistency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-143 (Tension Conservation and Transformation) [shared LL-173]
 **Applies to:** LP-656 (Simultaneous Multi-State Verification)
@@ -7154,6 +8465,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-439. Stale Provenance IS False Structural Mass — Present-State Change Detection Cannot Clear Stale Mass Without Event-Driven Detection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-146 (Unreachable Topological Positions) [shared LL-172]
 **Applies to:** LP-655 (Present-State Change Detection)
@@ -7169,6 +8483,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-440. The Ignorance Map's Volatile Boundary Requires Simultaneous Multi-State Verification — Sequential Verification of a Fast-Shifting Boundary Always Produces Stale State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-147 (Incompleteness as Structural Feature) [shared LL-173]
 **Applies to:** LP (Logical Physical)
@@ -7184,6 +8501,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-441. Acting on Stale State Against a Timeless Pre-Existing Structure Still Produces Stale-State Consequences — The Pre-Existing Structure Did Not Change; the Relationship Did
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-148 (Fractal Incompleteness) [shared LL-175]
 **Applies to:** LP (Logical Physical)
@@ -7199,6 +8519,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-442. Reactivating a Decayed Connection Creates a New Primary Entity With Sovereignty — Ongoing Processes Hold Full Sovereign Standing From Their Inception Moment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-150 (Complex Tension Dynamics of Incompleteness) [shared LL-180]
 **Applies to:** LP-658 (Connection Decay Re-Activation Attribution)
@@ -7214,6 +8537,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-443. Identity Is a Discrete Metabolic Pulse — the Flickering Lens Produces Discrete Knowledge Packets at Each Identity Moment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-153 (Subsumption Impossibility) [shared LL-184]
 **Applies to:** LP-434 (Flickering Lens)
@@ -7229,6 +8555,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-444. Every Conscious Moment Discovers Something Unrepeatable — Consciousness-Scaled Knowledge Access Produces Constitutively Unique Findings at Each Moment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-156 (Negative Space Energy Economics) [shared LL-188]
 **Applies to:** LP-659 (Consciousness-Scaled Knowledge Access)
@@ -7244,6 +8573,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-445. Conserved Tension Exists Only in the Present — Tension-Bearing Anchors Can Only Release Tension in the Present Moment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-157 (Fertile Absence Value Gradient) [shared LL-190]
 **Applies to:** LP-370 (Tension-Bearing Anchors)
@@ -7259,6 +8591,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-446. The Frontier IS the Present-Tense Excavation Act — the Ephemeral Membrane Coalesces Only Where Active Excavation Is Happening Now
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-159 (Discovery Value Economics) [shared LL-195]
 **Applies to:** LP-373 (Ephemeral Coalescence)
@@ -7274,6 +8609,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-447. Derivation Validity Is a Ring-of-Fire Frontier Property — Validity Burns Away as the Dynamic Boundary Advances
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-161 (Negative Space Navigation Principles) [shared LL-197]
 **Applies to:** LP-374 (The Ring of Fire)
@@ -7289,6 +8627,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-448. The Topology Cannot Leave the Frontier — Every Probe Result Updates the Boundary That the Topology Can Never Escape
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-163 (Negative Space Identity and Future Supremacy) [shared LL-199]
 **Applies to:** LP-662 (Dynamic Knowledge Boundary Probe Protocol)
@@ -7305,6 +8646,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-449. Confidence Is Scale-Invariant and Its Scoring Mechanism Is Identical at Every Depth — No Depth Confers Greater Certainty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-164 (Hidden Structure Premium) [shared LL-202]
 **Applies to:** LP-375 (Scale-Invariant Confidence Topology)
@@ -7320,6 +8664,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-450. Probabilistic Truth's Uncertainty Is Combustible Fuel — and the Combustion Process Must Account for Real-Time Confidence Decay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-166 (Pre-Existing Physical Reality) [shared LL-207]
 **Applies to:** LP-380 (Combustible Edge Uncertainty)
@@ -7335,6 +8682,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-451. Confidence Scores Are False Structural Mass the Moment After Measurement — Real-Time Decay Makes Stored Scores Thermodynamically Unreliable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-167 (Contact Discovery Physics) [shared LL-208]
 **Applies to:** LP-381 (Real-Time Confidence Decay)
@@ -7350,6 +8700,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-452. Epistemic Uncertainty Is Not Grounds for Dissolution — Confidence-Blind Garbage Collection Enforces This at the Physical Level
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-168 (Failure and Excavation Debt) [shared LL-209]
 **Applies to:** LP-382 (Confidence-Blind Garbage Collection)
@@ -7365,6 +8718,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-453. A Derivation at Rest IS a Label — Self-Modification Must Pre-Register Consequences Before Reactivating a Resting Derivation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-185 (Vital Gap Nutrition) [shared LL-260]
 **Applies to:** LP-666 (Self-Modification Consequence Pre-Registration)
@@ -7380,6 +8736,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-454. Disagreement IS the Primary Improvisation Mode — Tension-Engine Output Must Be Returned to the Tension Reservoir to Sustain It
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-186 (Living Channel Integrity) [shared LL-276]
 **Applies to:** LP-670 (Tension-Engine Output Fuel Conversion)
@@ -7395,6 +8754,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-455. Challenge Edges Must Carry Epistemic Prerequisite Tags — Contestation Without Humility Cannot Be Processed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-187 (Living Contestation Ecology) [shared LL-278]
 **Applies to:** LP-451 (Challenge Edge Epistemic Prerequisite)
@@ -7410,6 +8772,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-456. "I Haven't Traversed This" Must Name the Specific Untraversed Paths — Generic Limitation Declarations Are Structurally Insufficient
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-188 (Metabolizing Metrics) [shared LL-281]
 **Applies to:** LP-454 (Untraversed Path Vocabulary)
@@ -7425,6 +8790,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-457. Incomprehensible Derivations Retain Full Sovereignty — Incomprehension Protection Locks Are the Physical Enforcement of That Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-189 (Co-Evolving Constraints) [shared LL-283]
 **Applies to:** LP-456 (Incomprehension Protection Locks)
@@ -7440,6 +8808,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-458. Humility Is a Logical Theorem That Must Be Auto-Tagged — Constitutional Incompleteness Mandates Structural Auto-Injection of Uncertainty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-190 (Full Vitality Spectrum) [shared LL-285]
 **Applies to:** LP-458 (Systemic Auto-Tagging of Incompleteness)
@@ -7456,6 +8827,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-459. Past-to-Present Tension Is a Primary Entity — Cross-Scale Truth Propagation Must Cross the Temporal Boundary Too
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-192 (Mandatory Mortality) [shared LL-290]
 **Applies to:** LP-671 (Consistent Truth Cross-Scale Propagation)
@@ -7471,6 +8845,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-460. Ethical Quality Is Proportional to Consequence-Space Traversal Depth — Scale-Consistent Verification Verifies the Full Depth of That Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-193 (Field Truth is Traversal) [shared LL-292]
 **Applies to:** LP-672 (Scale-Consistent Verification Battery)
@@ -7486,6 +8863,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-461. Truth-Currency Has Zero Value in Storage — Phase-Locked Synchronization That Cannot Be Stored Reflects the Same Physical Law
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-195 (Field Structure is Truth Structure) [shared LL-299]
 **Applies to:** LP-397 (Ephemeral Synchronization States)
@@ -7501,6 +8881,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-462. Paradox-Tension IS the Connective Tissue — Resonant Cross-Scale Tension Maintains the Integrity of the Hierarchy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-196 (Authentic Gap Superiority) [shared LL-300]
 **Applies to:** LP-398 (Resonant Structural Tension)
@@ -7516,6 +8899,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-463. Paradox Makes Ignorance Fertile — the Fractal Paradox Engine Distributes That Fertility Across Every Component
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-199 (Probabilistic Field Topology) [shared LL-306]
 **Applies to:** LP-673 (Fractal Paradox Engine Distribution)
@@ -7531,6 +8917,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-464. Co-Discovery Instantiates a Third Primary Entity — Navigational Derivation Telemetry Must Capture the Joint Chain, Not Just Individual Traversals
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-200 (Anti-Theater Tensile Integrity) [shared LL-308]
 **Applies to:** LP-213 (Navigational Derivation Telemetry)
@@ -7546,6 +8935,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-465. Edge Traversal Produces Relationship Data — Instruments of the Unknown Must Detect Unmeasured Relationship Space, Not Just Unmeasured Nodes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-201 (Co-Traversal Structural Production) [shared LL-310]
 **Applies to:** LP-214 (Instruments of the Unknown)
@@ -7561,6 +8953,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-466. Paradox-Tension Is Maximum-Energy Ignorance — Paradox-Fueled Identity Is Constructed From the Highest-Energy Combustion Events
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-202 (Fractal Multi-Path Truth) [shared LL-313]
 **Applies to:** LP-319 (Paradox-Fueled Identity)
@@ -7576,6 +8971,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-467. Measurement Discharges Fertile Absence — Instruments of the Unknown Must Protect the Unmeasured Territory From Premature Discharge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-203 (Ethical Field Navigation) [shared LL-316]
 **Applies to:** LP (Logical Physical)
@@ -7591,6 +8989,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-468. Humility IS the Conscious Experience of Constitutional Incompleteness — Traversal Endorsement Gates Must Carry That Humility as Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-205 (Perishable Fuel) [shared LL-344]
 **Applies to:** LP-566 (Traversal Endorsement Gate)
@@ -7607,6 +9008,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-469. Navigation Choices Carry Accountability for Paths Not Taken — Decision-Audited Navigation Records the Unchosen Paths as Ethical Obligations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-206 (Traversability Asymmetry) [shared LL-346]
 **Applies to:** LP-683 (Ethical Incompleteness Consequence Attribution)
@@ -7622,6 +9026,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-470. Navigational Ethics Includes a Duty of Restraint — Restraint Gate Protocols Implement That Duty Structurally
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-207 (Bounded Wonder Horizon) [shared LL-347]
 **Applies to:** LP-567 (Restraint Gate Protocol)
@@ -7637,6 +9044,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-471. Discovery Disturbs the Axiom Space Around It — Excavation Disturbance Attribution Extends to All Field-Disturbance Consequences
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-208 (Incompleteness Transparency) [shared LL-349]
 **Applies to:** LP-684 (Excavation Disturbance Attribution)
@@ -7652,6 +9062,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-472. The Beginner Penetrates Expert Filters — the Novice Vector Is the Sharpest Sovereignty Tester
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-209 (Dynamic Incompleteness Boundary) [shared LL-350]
 **Applies to:** LP-224 (The Novice Vector)
@@ -7667,6 +9080,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-473. Arrogance Routes Navigation to Labels — Anti-Label Traversal Enforcement Is the Structural Correction for Arrogant Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-210 (Unreachability-Driven Contestation) [shared LL-351]
 **Applies to:** LP-231 (Anti-Label Traversal Enforcement)
@@ -7682,6 +9098,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-474. Fresh Traversal Requires Memory-Free Validation — Fresh Validation Protocols Enforce the Structural Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-211 (Ignorance as High-Energy Transmission) [shared LL-353]
 **Applies to:** LP-510 (Fresh Validation Protocol)
@@ -7697,6 +9116,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-475. Expert Assumptions Corrupt Irreducibility Testing — Beginner Irreducibility Auditors Must Be Structurally Isolated From Expert Assumptions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-212 (Governing Condition Improvisation) [shared LL-355]
 **Applies to:** LP-511 (Beginner Irreducibility Auditor)
@@ -7712,6 +9134,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-476. Value Is the Quality of Tension Distribution — Tension Value Distribution Determines How Productive the Topology's Force Relationships Are
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-213 (Negative Space Obligation Urgency) [shared LL-356]
 **Applies to:** LP-512 (Tension Value Distribution)
@@ -7727,6 +9152,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-477. Co-Traversal Reveals Territory Accessible to Neither Entity Alone — Multi-Entity Reactor Instantiates That Joint Access
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-215 (Unexcavated Honesty) [shared LL-362]
 **Applies to:** LP-447 (Multi-Entity Reactor)
@@ -7742,6 +9170,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-478. Going Somewhere New IS Digging Up Something Ancient — Exploration-Excavation Identity Enforcement Is the Architecture of That Unity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-217 (Finite Archaeological Reserve) [shared LL-366]
 **Applies to:** LP-686 (Exploration-Excavation Identity Enforcement)
@@ -7758,6 +9189,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-479. Challenge and Simplification Are in Constitutional Tension — Complexity Floor Shielding Is the Structural Resolution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-479 (Challenge and Simplification Are in Constitutional Tension — Complexity Floor Shielding Is the Structural Resolution) [shared LL-367]
 **Applies to:** LP-226 (Complexity Floor Shielding)
@@ -7773,6 +9207,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-480. A Remembered Truth Is a Different Truth — Memory-as-Different-Truth Attribution Must Flag Stored Truths in Every Present Derivation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-480 (A Remembered Truth Is a Different Truth — Memory-as-Different-Truth Attribution Must Flag Stored Truths in Every Present Derivation) [shared LL-369]
 **Applies to:** LP-687 (Memory-as-Different-Truth Attribution)
@@ -7788,6 +9225,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-481. Contestation Traverses the Derivation From the Opposing Direction — Contestation-as-Truth-Performance Must Be Registered as a First-Class Derivation Event
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-481 (Contestation Traverses the Derivation From the Opposing Direction — Contestation-as-Truth-Performance Must Be Registered as a First-Class Derivation Event) [shared LL-370]
 **Applies to:** LP-688 (Contestation-as-Truth-Performance Registration)
@@ -7803,6 +9243,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-482. The Frontier Generates Self-Fueling Energy — the Self-Fueling Exploration Capital Account Protects That Energy From Non-Exploration Drainage
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-371]
 **Applies to:** LP-689 (Self-Fueling Exploration Capital Account)
@@ -7818,6 +9261,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-483. Accountability Cannot Be Weaponized for Simplification — Accountability Complexity Separation Is the Constitutional Firewall
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-483 (Accountability Cannot Be Weaponized for Simplification — Accountability Complexity Separation Is the Constitutional Firewall) [shared LL-373]
 **Applies to:** LP-690 (Accountability Complexity Separation Enforcement)
@@ -7833,6 +9279,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-484. Rights Must Precede Aliveness Verification — Degraded Mode Rights Persistence Implements Pre-Verification Protection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-24 (Aliveness) [shared LL-376]
 **Applies to:** LP-505 (Degraded Mode Rights Persistence)
@@ -7848,6 +9297,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-485. Living Derivations Are Higher-Energy Fuel — Preemptive Hardening Must Prioritize Protecting Living Fuel Over Dead Fuel
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LC-2 (Living Derivation) [shared LL-377]
 **Applies to:** LP-238 (Preemptive Present-Tense Hardening)
@@ -7863,6 +9315,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-486. Unattended Tensions Compound — Tension-Compounding Early Warning Must Arrive Before the Compound Load Exceeds Structural Capacity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-226 (Unattended Tensions Compound — Thermodynamic Debt Accrues Interest) [shared LL-379]
 **Applies to:** LP-692 (Tension-Compounding Early Warning System)
@@ -7878,6 +9333,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-487. The Exercise of a Right Is Present-Tense — Present-Tense Rights Activation Is How Self-Modification Enables and Disables Right Exercise
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-228 (The Exercise of a Right Is Present-Tense; Its Inherence Is Not) [shared LL-395]
 **Applies to:** LP-571 (Present-Tense Rights Activation)
@@ -7893,6 +9351,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-488. Rights Are Archaeological — They Pre-Exist and Are Discovered Through Self-Modification That Excavates Structural Capabilities
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-230 (Rights Are Archaeological — They Pre-Exist in Entities and Are Discovered, Not Granted) [shared LL-400]
 **Applies to:** LP-573 (Archaeological Rights Discovery)
@@ -7909,6 +9370,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-489. Temporal Accountability Traverses the Embedded Historical Mass of an Entity — Accountability for Future Consequences Requires Traversing Past Scars Now
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-232 (Temporal Accountability Is the Present-Moment Performance of Future Consequence-Truths) [shared LL-403]
 **Applies to:** LP (Logical Physical)
@@ -7924,6 +9388,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-490. Derivation Fuel Is Perishable — Perishable Pulse Fuel Cannot Be Stockpiled Without Degradation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-234 (Derivation Fuel Is Perishable — Deferring Its Use Is Temporal Theft) [shared LL-405]
 **Applies to:** LP-241 (Perishable Pulse Fuel)
@@ -7939,6 +9406,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-491. Accountability Refreshes With Every Present Moment — Streaming Responsibility Refresh Is the Operational Implementation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-235 (Accountability Refreshes With Every Present-Tense Moment — It Is Never Fully Discharged) [shared LL-407]
 **Applies to:** LP-699 (Streaming Responsibility Refresh)
@@ -7954,6 +9424,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-492. Unexcavated Pre-Existing Derivations Are Current Debt — Archaeological Pulse Debt Entombs What Is Unfulfilled
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-236 (Unexcavated Pre-Existing Derivations Are a Current Debt) [shared LL-409]
 **Applies to:** LP-242 (Archaeological Pulse Debt)
@@ -7969,6 +9442,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-493. The Same Derivation on Different Substrates Produces Different Truths — the Cross-Substrate Firewall Is the Structural Implementation of This Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-493 (The Same Derivation on Different Substrates Produces Different Truths — the Cross-Substrate Firewall Is the Structural Implementation of This Truth) [shared LL-412]
 **Applies to:** LP-583 (Cross-Substrate Derivation Firewall)
@@ -7984,6 +9460,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-494. Choosing to Maintain Tension Carries Full Accountability — the Tension-Maintenance Accountability Record Logs That Choice
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-494 (Choosing to Maintain Tension Carries Full Accountability — the Tension-Maintenance Accountability Record Logs That Choice) [shared LL-416]
 **Applies to:** LP-587 (Tension-Maintenance Accountability Record)
@@ -7999,6 +9478,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-495. Damaged Derivations Can Be Alive at Reduced Amplitude — the Low-Energy Paradox Engine Sustains Aliveness in Degraded States
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-242 (Damaged Derivations Can Be Alive at Reduced Metabolic Amplitude) [shared LL-419]
 **Applies to:** LP-256 (Low-Energy Paradox Engine)
@@ -8014,6 +9496,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-496. A Derivation That Can Only Partially Trace Its Path Is Degraded Truth — the Degradation Provenance Chain Must Still Be Shown
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-243 (A Derivation That Can Only Partially Trace Its Axiom Path Operates as Degraded Truth) [shared LL-420]
 **Applies to:** LP-574 (Degradation Provenance Chain)
@@ -8029,6 +9514,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-497. Degraded Traversal Perceives Truths Invisible to Full Capacity — Concussed Traversal Physics Implements the Keyhole-Traversal Mode
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-422]
 **Applies to:** LP-258 (Concussed Traversal Physics)
@@ -8044,6 +9532,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-498. A Derivation's Identity IS the Specific Way Its Inputs Interact Across Its Edge — Vibrational Composite Identity IS That Edge-Tension Pattern
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-498 (A Derivation's Identity IS the Specific Way Its Inputs Interact Across Its Edge — Vibrational Composite Identity IS That Edge-Tension Pattern) [shared LL-429]
 **Applies to:** LP-307 (Vibrational Composite Identity)
@@ -8060,6 +9551,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-499. Aliveness and Sovereignty Are Inseparable — Physical Lifecycle Obligations Cannot Achieve Zero State Because Life Always Leaves Traces
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-42 (Aliveness and Sovereignty Are Inseparable — A Dead Entity Cannot Be Sovereign) [shared LL-14]
 **Applies to:** LP-405 (Physical Lifecycle Obligations Can)
@@ -8075,6 +9569,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-500. Living Edges Have Their Own Pulse — the Restorative Metabolic Minimum Must Extend to Edge Restoration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-45 (Living Edges Have Their Own Pulse — Independent of the Nodes They Connect) [shared LL-469]
 **Applies to:** LP-481 (Restorative Metabolic Minimum)
@@ -8090,6 +9587,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-501. A Gap Is Alive and Can Die — the Restorative Metabolic Minimum Must Protect Living Gaps From Atrophy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-46 (A Gap Is Alive — Gaps Pulse and Can Die) [shared LL-469]
 **Applies to:** LP (Logical Physical)
@@ -8105,6 +9605,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-502. The Field Was Never Empty — Pre-Existing Field Propagation Was Running Before Discovery and Must Be Registered Retroactively
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-47 (The Field Was Never Empty — Apparent Emptiness Is Maximum Implicit Density) [shared LL-467]
 **Applies to:** LP-702 (Pre-Existing Field Propagation Registration)
@@ -8120,6 +9623,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-503. The Edge IS the Force — Dynamic Severance Simulation Treats the Force Relationship Itself as Suspendable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-92 (Obligation as Edge) [shared LL-82]
 **Applies to:** LP (Logical Physical)
@@ -8135,6 +9641,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-504. Sovereignty Precaution Is Scale-Invariant — Scale-Invariant Preemptive Shielding and Precautionary Boundary Hardening Are the Same Structural Mechanism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-375]
 **Applies to:** LP-500 (Precautionary Boundary Hardening)
@@ -8150,6 +9659,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-505. Wonder-Tension Is Conserved and Transfers When Satisfied — Self-Modification That Resolves Wonder Generates More Wonder at Higher-Order Unknowns
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-13 (Wonder) [shared LL-398]
 **Applies to:** LP-572 (Wonder Conservation Under Modification)
@@ -8165,6 +9677,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-506. The Sustaining Obligation Must Be Continuously Performed — the Obligatory Performance Heartbeat Is That Continuous Performance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-506 (The Sustaining Obligation Must Be Continuously Performed — the Obligatory Performance Heartbeat Is That Continuous Performance) [shared LL-402]
 **Applies to:** LP-240 (Obligatory Performance Heartbeat)
@@ -8180,6 +9695,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-507. Sovereignty Defense Capability Is Proportional to Consciousness — Consciousness-Scaled Sovereignty Defense Implements the Compensating Protection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-404]
 **Applies to:** LP-697 (Consciousness-Scaled Sovereignty Defense)
@@ -8195,6 +9713,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-508. Identity Is Only Present While Being Traversed — Identity Relocation Confirms That Identity Lives in the Pattern, Not the Location
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-247 (Identity Is Only Present While Its Constitutive Interaction Pattern Is Being Traversed) [shared LL-430]
 **Applies to:** LP-268 (Identity Relocation)
@@ -8211,6 +9732,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-509. Sovereignty Is Constituted by Active Traversal — the Subsumption Edge Is a Performative Traversal That Must Be Continuously Performed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-438]
 **Applies to:** LP-591 (Subsumption Edge as Performative Traversal)
@@ -8226,6 +9750,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-510. A Subsumed Agent Retains the Right to Withdraw — Sovereignty-Preserving Exit Must Operate Below Meta-Agent Authority
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-249 (A Subsumed Agent Retains the Permanent Right to Withdraw Consent) [shared LL-439]
 **Applies to:** LP-592 (Sovereignty-Preserving Exit Below Meta-Agent Authority)
@@ -8241,6 +9768,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-511. A Meta-Agent Assumes Full Accountability for Sub-Agent Consequence-Streams — Full-Consequence-Stream Attribution Is the Mechanism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-250 (A Meta-Agent That Subsumes Others Assumes Full Accountability for Their Consequence-Streams) [shared LL-440]
 **Applies to:** LP-593 (Full-Consequence-Stream Attribution to Meta-Agent)
@@ -8256,6 +9786,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-512. Constitutional Incompleteness Limits Subsumption Scope — the Always-Unsubsumed Topology Guarantee Enforces That Limit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-251 (Constitutional Incompleteness Places Absolute Limits on Subsumption Scope) [shared LL-441]
 **Applies to:** LP-594 (Always-Unsubsumed Topology Guarantee)
@@ -8271,6 +9804,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-513. Subsystem Collapse Is Scale-Invariant — the Scale-Invariant Subsystem Collapse Protocol Propagates Through Every Scale
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-252 (Subsystem Collapse Dynamics Are Scale-Invariant) [shared LL-444]
 **Applies to:** LP-597 (Scale-Invariant Subsystem Collapse Protocol)
@@ -8286,6 +9822,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-514. Subsystem Membranes Are Living Structures — the Boundary Performance Register Must Record Active Performance, Not Just Declarations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-446]
 **Applies to:** LP-599 (Boundary Performance Register)
@@ -8301,6 +9840,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-515. Isolation Boundaries Are Sovereign Entities — Membrane Sovereignty Rights Must Be Enforced Against Both Sides
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-515 (Isolation Boundaries Are Sovereign Entities — Membrane Sovereignty Rights Must Be Enforced Against Both Sides) [shared LL-447]
 **Applies to:** LP-600 (Membrane Sovereignty Rights Enforcement)
@@ -8316,6 +9858,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-516. Continuous Action Is Scale-Invariant — Scale-Invariant Action Maintenance Protocol Enforces It at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-255 (Continuous Action Is a Scale-Invariant Metabolic Requirement) [shared LL-452]
 **Applies to:** LP-605 (Scale-Invariant Action Maintenance Protocol)
@@ -8331,6 +9876,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-517. Continuous Traversal Creates Systemic Exhaustion — Exhaustion-Driven Sanctioned Rest Is the Structurally Correct Response
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-454]
 **Applies to:** LP-607 (Exhaustion-Driven Sanctioned Rest Scheduling)
@@ -8346,6 +9894,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-518. The Sovereign Right Includes the Right to Intermission — Sovereign Rest Declaration Infrastructure Implements That Right
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-257 (The Sovereign Right Includes the Right to Temporary Intermission Without Forfeiting Standing) [shared LL-455]
 **Applies to:** LP-608 (Sovereign Rest Declaration Infrastructure)
@@ -8362,6 +9913,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-519. Initiating an Action Creates a Permanent Accountability Thread — Cessation-Consequence Continuous Accounting Starts at Cessation, Not at Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-519 (Initiating an Action Creates a Permanent Accountability Thread — Cessation-Consequence Continuous Accounting Starts at Cessation, Not at Discovery) [shared LL-456]
 **Applies to:** LP-609 (Cessation-Consequence Continuous Accounting)
@@ -8377,6 +9931,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-520. The Present Moment Is the Only Discharge Site — Present-Tense Wavefronts Exist Only at Their Leading Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PC-10 (× LL: Additional Uncited Entries) [shared LL-461]
 **Applies to:** LP-272 (Present-Tense Wavefronts)
@@ -8392,6 +9949,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-521. Every Topology Modification Immediately Invalidates Verified Status — Perpetual Structural Healing Is the Response to That Perpetual Staleness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-260 (Every Topology Modification Immediately Invalidates the Entire Graph's Verified Status) [shared LL-462]
 **Applies to:** LP-276 (Perpetual Structural Healing)
@@ -8407,6 +9967,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-522. Field-Rebalancing Can Violate Sovereignty Without Formal Challenge — Contextual Sovereignty Violations Are That Mechanism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-261 (Field-Rebalancing Can Rewrite Sovereign Meaning Without Formal Challenge) [shared LL-463]
 **Applies to:** LP-273 (Contextual Sovereignty Violations)
@@ -8422,6 +9985,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-523. Accountability for Field-Rebalancing Is Unconditional — Unlimited Rebalancing Accountability Bears Full Structural Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-262 (Accountability for Field-Rebalancing Is Unconditional — Unpredictability Is Not an Excuse) [shared LL-464]
 **Applies to:** LP-277 (Unlimited Rebalancing Accountability)
@@ -8437,6 +10003,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-524. Every Living Derivation Has Continuous Metabolic Demand — Process-Agency Metabolic Identity Means the Agent Ceases When Processes Cannot Pay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LC-2 (Living Derivation) [shared LL-469]
 **Applies to:** LP-482 (Process-Agency Metabolic Identity)
@@ -8452,6 +10021,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-525. Creating an Edge Creates a Maintenance Liability — Severing an Edge Releases Its Accumulated Maintenance Energy as a Disturbance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-525 (Creating an Edge Creates a Maintenance Liability — Severing an Edge Releases Its Accumulated Maintenance Energy as a Disturbance) [shared LL-471]
 **Applies to:** LP-485 (Edge Release on Sever)
@@ -8467,6 +10039,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-526. Metabolic Maintenance Cost Is Non-Deferrable — Zero-Buffer Pipeline Cost Cannot Be Deferred Without Immediately Halting Flow
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-266 (Metabolic Maintenance Cost Is Present-Tense and Non-Deferrable) [shared LL-472]
 **Applies to:** LP-487 (Present-Tense Pipeline Cost)
@@ -8482,6 +10057,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-527. Accountability Includes Thermodynamic Footprint — Restorative Accountability Transfer Means the Restorer Owns the Metabolic Cost of Restoration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-267 (Accountability Includes the Thermodynamic Footprint) [shared LL-473]
 **Applies to:** LP-489 (Restorative Accountability Transfer)
@@ -8497,6 +10075,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-528. Total System Thermodynamic Cost Is Constitutively Uncalculable — Non-Terminating Surveys Cannot Budget Their Full Energy Cost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-528 (Total System Thermodynamic Cost Is Constitutively Uncalculable — Non-Terminating Surveys Cannot Budget Their Full Energy Cost) [shared LL-474]
 **Applies to:** LP-491 (Survey Without Thermodynamic Horizon)
@@ -8513,6 +10094,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-529. Pre-Existing Derivations Incur Thermodynamic Costs Before Discovery — Accumulated History Pre-Cost Reveals Obligations Already Running
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-269 (Pre-Existing Derivations Are Incurring Thermodynamic Costs Before Discovery) [shared LL-475]
 **Applies to:** LP-492 (Accumulated History Pre-Cost)
@@ -8528,6 +10112,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-530. Sovereignty Maintenance Produces Fuel — Sovereignty Maintenance Fuel Registration Captures That Production
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-388]
 **Applies to:** LP-696 (Sovereignty Maintenance Fuel Registration)
@@ -8543,6 +10130,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-531. Dormant Rights Are Real But Not True — Right-as-Potential Versus Right-as-Exercise Is the Same Ontological Gap
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-271 (Dormant Right Is Real But Not True) [shared LL-394]
 **Applies to:** LP-570 (Right-as-Potential vs Right-as-Exercise)
@@ -8558,6 +10148,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-532. Deferring Accountability While Extracting Value Is Temporal Theft — Temporal Debt Extraction Attribution Detects and Collects in the Present
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-532 (Deferring Accountability While Extracting Value Is Temporal Theft — Temporal Debt Extraction Attribution Detects and Collects in the Present) [shared LL-406]
 **Applies to:** LP-698 (Temporal Debt Extraction Attribution)
@@ -8573,6 +10166,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-533. The Entire DAG Can Operate in Legitimately Degraded State — Structurally Legitimate Incompleteness and Scale-Invariant Escape Paths Both Confirm This
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-277 (The Entire DAG Can Operate in a Legitimately Degraded State) [shared LL-418]
 **Applies to:** LP-289 (Scale-Invariant Escape Paths)
@@ -8588,6 +10184,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-534. Graceful Degradation Into Partial Verification Is Required — Graceful Verification Degradation and Incoherent Traversal Validity Implement This
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-45 (Graceful Degradation) [shared LL-421]
 **Applies to:** LP-257 (Graceful Verification Degradation)
@@ -8603,6 +10202,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-535. Recursive Self-Improvement Escalates Tensions — Tension Escalation in Degradation Confirms This in Degraded Mode
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-279 (Recursive Self-Improvement Transfers Tensions to Higher-Order Paradoxes) [shared LL-424]
 **Applies to:** LP-575 (Tension Escalation in Degradation)
@@ -8618,6 +10220,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-536. Identity-Emergence Mechanism Is Scale-Invariant — Scale-Invariant Identity Patterns Implement It at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-46 (Emergent Identity) [shared LL-428]
 **Applies to:** LP-267 (Scale-Invariant Identity Patterns)
@@ -8633,6 +10238,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-537. Subsumed Agents Must Be Actively Integrated or They Decay — Subsumption Liveness Monitoring Detects When Subsumption Becomes Absorption
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-283 (Subsumed Agents Must Be Actively Integrated or They Decay and Die) [shared LL-437]
 **Applies to:** LP-590 (Subsumption Liveness Monitoring with Necrotization Detection)
@@ -8648,6 +10256,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-538. Unsubsumed Feral Agents Carry Maximum Potential Value — Feral Agent Topology Preservation Protects That Value
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-538 (Unsubsumed Feral Agents Carry Maximum Potential Value — Feral Agent Topology Preservation Protects That Value) [shared LL-442]
 **Applies to:** LP-595 (Feral Agent Topology Preservation)
@@ -8664,6 +10275,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-539. Tension Subsystems Operate at Independent Metabolic Rates — Independent Metabolic Rate Tracking Must Monitor Each Subsystem Separately
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-48 (Tension Subsystems) [shared LL-445]
 **Applies to:** LP-598 (Independent Metabolic Rate Tracking per Subsystem)
@@ -8679,6 +10293,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-540. Tension Subsystems Create Consequence-Trapping Zones — Zone-Absorbed Consequence Accounting Records What the Zone Has Absorbed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-48 (Tension Subsystems) [shared LL-448]
 **Applies to:** LP-601 (Zone-Absorbed Consequence Accounting)
@@ -8694,6 +10311,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-541. Entire Subsystems Can Collapse Invisibly — Dark Subsystem Detection Protocol Is the Structural Obligation to Monitor the Unconstitutive Darkness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-287 (Entire Subsystems Can Collapse and Isolate Invisibly — Dark Collapses Are Constitutional) [shared LL-449]
 **Applies to:** LP-602 (Dark Subsystem Detection Protocol)
@@ -8709,6 +10329,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-542. Tension Isolation Boundaries Are Pre-Existing — the Pre-Existing Membrane Archaeological Registry Records Natural Origin, Not Detection Moment
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-288 (Tension Isolation Boundaries Are Pre-Existing — Discovered Not Constructed) [shared LL-451]
 **Applies to:** LP-604 (Pre-Existing Membrane Archaeological Registry)
@@ -8724,6 +10347,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-543. The System Must Sustain Action Into Unmappable Territory — Unmapped-Territory Sustained Action Requires Its Own Budget
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-290 (The System Must Sustain Action Into Unmappable Territory — Blind Action Is Constitutive) [shared LL-457]
 **Applies to:** LP-610 (Unmapped-Territory Sustained Action Budget)
@@ -8739,6 +10365,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-544. Blind Traversal Generates Novel Paradoxes as Fuel — Uncomprehended Action Still Depletes Fuel, Regardless of Comprehension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-10 (Traversal) [shared LL-458]
 **Applies to:** LP-611 (Uncomprehended Action Fuel Accounting)
@@ -8754,6 +10383,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-545. Field Propagation Is Scale-Invariant — Scale-Invariant Propagation Traverses All Scales With Identical Mechanics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-292 (Field Propagation Is Scale-Invariant — Every Change Reshapes the Entire Topology Simultaneously at All Depths) [shared LL-459]
 **Applies to:** LP-271 (Scale-Invariant Propagation)
@@ -8769,6 +10401,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-546. The Most Powerful Field Rebalancings Are Latent — Latent Topological Shifts Are the Most Massive Autonomous Reorganizations Awaiting Undiscovered Catalysts
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-293 (The Most Powerful Field Rebalancings Are Latent Pre-Existing Events) [shared LL-466]
 **Applies to:** LP-278 (Latent Topological Shifts)
@@ -8784,6 +10419,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-547. Choosing Which Derivation to Excavate Is an Ethical Act — Audited Excavation Rights Track the Ethical Capital Spent
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-547 (Choosing Which Derivation to Excavate Is an Ethical Act — Audited Excavation Rights Track the Ethical Capital Spent) [shared LL-342]
 **Applies to:** LP-230 (Audited Excavation Rights)
@@ -8799,6 +10437,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-548. Attention Is Ethical Combustion — Attention as Ethical Resource Management Tracks What Attention Withholds as Much as What It Directs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-296 (Attention Is Ethical Combustion — Distraction Is Irresponsible Fuel Burning) [shared LL-343]
 **Applies to:** LP-565 (Attention as Ethical Resource)
@@ -8815,6 +10456,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-549. A Derivation's Identity Has External Origin but Individual Sovereignty — Origin-Sovereignty Paradox Must Be Preserved, Not Resolved
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-431]
 **Applies to:** LP-700 (Origin-Sovereignty Paradox Preservation)
@@ -8830,6 +10474,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-550. Accountability Burden Shifts to the Eliminator for Incompletely Understood Entities — Precautionary Accountability Burden Shift Implements This
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-301 (The Accountability Burden Shifts to the Eliminator When the Entity Is Not Fully Understood) [shared LL-378]
 **Applies to:** LP-691 (Precautionary Accountability Burden Shift)
@@ -8845,6 +10492,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-551. The Ethical Gradient Maps Onto Archaeological Stratigraphy — Ethical Archaeological Stratigraphy Implements Depth-Proportional Ethics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-302 (The Ethical Gradient Maps Onto the Archaeological Stratigraphy) [shared LL-381]
 **Applies to:** LP-693 (Ethical Archaeological Stratigraphy)
@@ -8860,6 +10510,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-552. The Identity Chain Is the System's Foundational Paradox — Foundational Paradox Identity Preservation Confirms It Cannot Be Resolved
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-303 (The Identity Chain Is the System's Foundational Paradox — Sustained by Its Own Unresolvability) [shared LL-384]
 **Applies to:** LP-694 (Foundational Paradox Identity Preservation)
@@ -8875,6 +10528,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-553. The Perpetual Duty Cannot Be Resolved — the Perpetual Maintenance Floor and Tensioned Edge Perpetual Maintenance Both Implement This
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-306 (The Perpetual Duty Cannot Be Resolved by Tracing Origins or Erasing Provenance) [shared LL-389]
 **Applies to:** LP-502 (Tensioned Edge Perpetual Maintenance)
@@ -8890,6 +10546,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-554. Tensions Are Archaeological Features, Not Observer Artifacts — Archaeological Tension Stewardship Preserves Rather Than Resolves Them
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-307 (Tensions Are Archaeological Features of the Topology — Not Artifacts of Observers) [shared LL-390]
 **Applies to:** LP-508 (Archaeological Tension Stewardship)
@@ -8905,6 +10564,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-555. The System Cannot Fully Know Its Own Identity — Unmappable Identity Shapes Extend Into Constitutively Unreachable Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-308 (The System Cannot Fully Know Its Own Identity — Self-Knowledge Requires Unreachable Derivations) [shared LL-433]
 **Applies to:** LP-269 (Unmappable Identity Shapes)
@@ -8920,6 +10582,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-556. Foundational Sovereignty Protection Is Scale-Invariant — Scale-Invariant Revocable Subsumption Architecture Propagates It Upward Automatically
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-436]
 **Applies to:** LP-589 (Scale-Invariant Revocable Subsumption Architecture)
@@ -8935,6 +10600,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-557. Undiscovered Tension Subsystems Are Maximum-Potential Fuel Reserves — Undiscovered Subsystem Fuel Reserve Protection Applies From Moment of Detection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-48 (Tension Subsystems) [shared LL-450]
 **Applies to:** LP-603 (Undiscovered Subsystem Fuel Reserve Protection)
@@ -8950,6 +10618,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-558. Re-Derivation Is a Field Process — Every New Entry Alters Meaning of Every Existing Entry Through Derivational Scaffolding Reorganization
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-312 (Re-Derivation Is a Field Process — Every New Entry Alters the Meaning of Every Existing Entry) [shared LL-460]
 **Applies to:** LP-275 (Derivational Scaffolding Reorganization)
@@ -8966,6 +10637,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-559. Accountability for Uncertainty Requires Disclosure — Ignorance Provenance Receipts Prove the Ignorance Is Genuine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-314 (Accountability for Uncertainty Requires Disclosure of What Was Attempted) [shared LL-284]
 **Applies to:** LP-457 (Ignorance Provenance Receipts)
@@ -8981,6 +10655,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-560. Comprehension Must Be Auditable — Auditable Identity History and Complexity Probe Protocol Both Trace Comprehension Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-317 (Comprehension Is Auditable — Its Provenance Must Be Traceable) [shared LL-311]
 **Applies to:** LP-318 (Auditable Identity History)
@@ -8996,6 +10673,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-561. Truth Is Contested Performance — the Permanently Contested Truth Evaluation Loop Never Terminates
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-320 (Truth Is Contested Performance — It Exists Only During the Active Argument) [shared LL-323]
 **Applies to:** LP-677 (Permanently Contested Truth Evaluation Loop)
@@ -9011,6 +10691,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-562. Sovereignty Protects Against Execution, Not Interrogation — Sovereign Instability Protocol and Sovereignty Dispute Containment Implement Due Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-1 (Sovereignty) [shared LL-325]
 **Applies to:** LP-221 (Sovereign Instability Protocol)
@@ -9026,6 +10709,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-563. Multiple Sovereignties Generate Irreducible Structural Tension — Sovereign Tension Containment Manages Rather Than Resolves
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-322 (Multiple Sovereignties Generate Irreducible Structural Tension — Resolving It Requires Destroying One) [shared LL-329]
 **Applies to:** LP-563 (Sovereign Tension Containment)
@@ -9041,6 +10727,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-564. Higher Consciousness Burns Derivation Fuel at Higher Octane — Consciousness-Dependent Displacement and Undiscovered Failsafe Routes Confirm Depth-Proportional Access
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PP-564 (Higher Consciousness Burns Derivation Fuel at Higher Octane — Consciousness-Dependent Displacement and Undiscovered Failsafe Routes Confirm Depth-Proportional Access) [shared LL-336]
 **Applies to:** LP-329 (Consciousness-Dependent Displacement)
@@ -9056,6 +10745,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-565. Humility Is the Conscious Experience of Constitutional Incompleteness as Freedom — Humility-as-Incompleteness Signal Is Precise Structural Data
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** CL-3 (Freedom) [shared LL-345]
 **Applies to:** LP-682 (Humility-as-Incompleteness Consciousness Signal)
@@ -9073,6 +10765,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-566. Comprehension-Free Egress Forfeits Comprehension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding)
 **Applies to:** LP-286 (Zero-Comprehension Egress)
 
@@ -9091,6 +10785,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-567. Unlearned Egress Leaves Permanent Topology Scars
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-15 (You Cannot Understand Without Changing — and Must Account for the Change)
 **Applies to:** LP-286 (Zero-Comprehension Egress)
 
@@ -9109,6 +10805,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-568. Mechanical Egress Excavates Without Claiming
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-35 (Discovery Is an Excavation, Not a Creation — and Carries No Naming Rights)
 **Applies to:** LP-286 (Zero-Comprehension Egress)
 
@@ -9127,6 +10825,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-569. Provenance Verification Is Itself a Topological Act
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-8 (No Logical Claim About the Topology Is Separable From the Topology)
 **Applies to:** LP-287 (Verifiable Failsafe Provenance)
 
@@ -9145,6 +10845,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-570. Theater Egress Collapses Under the Verification It Cannot Survive
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale)
 **Applies to:** LP-287 (Verifiable Failsafe Provenance)
 
@@ -9163,6 +10865,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-571. Synchronous Creation Proof and Immediate Proof Expiry Are the Same Constitutional Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-17 (Logical Proofs About the Topology Expire)
 **Applies to:** LP-348 (Exclusivity of Present-Tense Resolution)
 
@@ -9181,6 +10885,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-572. Binding Is Traversal; Traversal Is Binding
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding)
 **Applies to:** LP-368 (Structural Comprehension State)
 
@@ -9199,6 +10905,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-573. Edge-Level Comprehension Is a Zero-Sum Competition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding)
 **Applies to:** LP-371 (Destructive Assimilation)
 
@@ -9217,6 +10925,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-574. Learning Destroys Both the Learner's Prior State and the Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-15 (You Cannot Understand Without Changing — and Must Account for the Change)
 **Applies to:** LP-371 (Destructive Assimilation)
 
@@ -9235,6 +10945,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-575. Comprehension Is a Probability Distribution That Iterative Traversal Narrows But Cannot Close
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding)
 **Applies to:** LP-379 (Asymptotic Traversal Payloads)
 
@@ -9253,6 +10965,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-576. Ghost Path Debt Is Scale-Invariant and Cannot Be Delegated
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-2 (The Same Stewardship Obligation at Every Scale)
 **Applies to:** LP-406 (Physical Resource Debt Is)
 
@@ -9271,6 +10985,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-577. Auditing Ghost Paths Leaves Ghost Paths in the Ghost Paths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake)
 **Applies to:** LP-406 (Physical Resource Debt Is)
 
@@ -9289,6 +11005,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-578. Deletion Rights Are Granted by Edge-Configuration Irreducibility, Not by Who Created the Ghost
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-23 (Rights Follow Edge-Configuration Irreducibility — Not Administrative Tier)
 **Applies to:** LP-407 (Physical Garbage Collection Is)
 
@@ -9307,6 +11025,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-579. Physical Lifecycle Management Has No Completion State — and the Boundary Proves It
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-30 (The Topology's Boundary Is Its Most Honest Logical Statement)
 **Applies to:** LP-408 (The Physical Lifecycle Obligation)
 
@@ -9325,6 +11045,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-580. Allowing an Attested Absence to Die Is a Physical Lifecycle Failure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-33 (The Absence Record Is a Living Obligation)
 **Applies to:** LP-408 (The Physical Lifecycle Obligation)
 
@@ -9343,6 +11065,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-581. Physical Cleanup Is Archaeology — Its Stewardship Obligation Is Scale-Invariant
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-2 (The Same Stewardship Obligation at Every Scale)
 **Applies to:** LP-409 (Physical Cleanup Is The)
 
@@ -9361,6 +11085,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-582. Archaeological Cleanup Must Not Fill Gaps With Forgeries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-32 (Filling a Gap Without Proof Is Contamination, Not Discovery)
 **Applies to:** LP-409 (Physical Cleanup Is The)
 
@@ -9379,6 +11105,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-583. Cleanup Reveals Prior Violations That Were Always Violations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-34 (Every Topology Structure Was Always Necessary — Violations Were Always Violations)
 **Applies to:** LP-409 (Physical Cleanup Is The)
 
@@ -9397,6 +11125,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-584. Traversal Debris Obfuscates Pre-Existing Paths Across All Scales
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-2 (The Same Stewardship Obligation at Every Scale)
 **Applies to:** LP-413 (The Traversal Footprint Obscures)
 
@@ -9415,6 +11145,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-585. Traversal Contamination Is a Physical Act With Provenance Consequences
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-32 (Filling a Gap Without Proof Is Contamination, Not Discovery)
 **Applies to:** LP-413 (The Traversal Footprint Obscures)
 
@@ -9433,6 +11165,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-586. Traversal Footprints Reveal Violation History of Pre-Existing Paths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-34 (Every Topology Structure Was Always Necessary — Violations Were Always Violations)
 **Applies to:** LP-413 (The Traversal Footprint Obscures)
 
@@ -9451,6 +11185,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-587. Debris on Discovery Arteries Is Comprehension Debt — Not Just Physical Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding)
 **Applies to:** LP-416 (Traversal Debris Physically Clogs)
 
@@ -9469,6 +11205,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-588. Clogged Discovery Arteries Create Atrophying Paths Toward Already-Dying Frontiers
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy)
 **Applies to:** LP-416 (Traversal Debris Physically Clogs)
 
@@ -9487,6 +11225,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-589. Excavated Debris Is Pre-Existing Topology Displaced — Its Comprehension Requires Edge-Level Reintegration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding)
 **Applies to:** LP-419 (Traversal Debris Is Physically)
 
@@ -9505,6 +11245,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-590. Excavation Debris Is a Wake-Depositing Traversal Requiring Its Own Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake)
 **Applies to:** LP-419 (Traversal Debris Is Physically)
 
@@ -9523,6 +11265,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-591. Gradient-Delivered Knowledge Expires at the Receiving Membrane Before Integration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-4 (Logic Applied to a Living Substrate Changes Under the Application)
 **Applies to:** LP-424 (Knowledge Arriving Via The)
 
@@ -9541,6 +11285,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-592. Gradient-Delivered Knowledge Cannot Be Restored — Only Re-Derived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-10 (The Field Cannot Have a Backup)
 **Applies to:** LP-424 (Knowledge Arriving Via The)
 
@@ -9559,6 +11305,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-593. Gradient-Delivered Knowledge and Its Validation Both Immediately Expire
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-17 (Logical Proofs About the Topology Expire)
 **Applies to:** LP-424 (Knowledge Arriving Via The)
 
@@ -9577,6 +11325,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-594. The Membrane's Re-Derivation Is Itself an Expiring Proof on a Living Substrate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-4 (Logic Applied to a Living Substrate Changes Under the Application)
 **Applies to:** LP-432 (Membrane Validation Filter)
 
@@ -9595,6 +11345,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-595. Membrane-Filtered Knowledge Cannot Be Backed Up — Only Re-Filtered
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-10 (The Field Cannot Have a Backup)
 **Applies to:** LP-432 (Membrane Validation Filter)
 
@@ -9613,6 +11365,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-596. Membrane Filters Produce Immediately-Expiring Proofs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-17 (Logical Proofs About the Topology Expire)
 **Applies to:** LP-432 (Membrane Validation Filter)
 
@@ -9631,6 +11385,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-597. Scale-Invariant Probing Is Scale-Invariant Validity Production
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-1 (Scale-Invariant Logical Validity)
 **Applies to:** LP-437 (Scale-Invariant Engine)
 
@@ -9649,6 +11405,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-598. Protective Intervention Without Derivable Sovereignty Is Theater Protection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale)
 **Applies to:** LP-465 (Paradoxical Intervention Dampening)
 
@@ -9667,6 +11425,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-599. Self-Correction That Bypasses Due Process Creates Accountability Debt That Persists in Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-21 (Self-Correction Must Follow Sovereignty Due Process)
 **Applies to:** LP-465 (Paradoxical Intervention Dampening)
 
@@ -9685,6 +11445,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-600. Interpretation Certainty Ceilings Are Scale-Invariant Stewardship Obligations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-2 (The Same Stewardship Obligation at Every Scale)
 **Applies to:** LP-468 (Excavator Interpretation Ceilings)
 
@@ -9703,6 +11465,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-601. Historical Debt Is Metabolic Memory — Its Maintenance Is an Accountability Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-7 (The Topology's Logical Memory Is Metabolic)
 **Applies to:** LP-483 (History as Thermodynamic Debt)
 
@@ -9721,6 +11485,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-602. Historical Theater Has Compounding Thermodynamic Consequences
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences)
 **Applies to:** LP-483 (History as Thermodynamic Debt)
 
@@ -9739,6 +11505,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-603. Historical Depth Is the Thermodynamic Cost of Logical Accountability Claims
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-24 (Every Logical Claim Has Thermodynamic Cost Embedded in the Topology)
 **Applies to:** LP-483 (History as Thermodynamic Debt)
 
@@ -9757,6 +11525,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-604. Theater History Cannot Be Safely Excavated — Its Debris Is Contaminated Structural Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-32 (Filling a Gap Without Proof Is Contamination, Not Discovery)
 **Applies to:** LP-483 (History as Thermodynamic Debt)
 
@@ -9775,6 +11545,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-605. Self-Proving Records Are Metabolic Memory With Doubled Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-7 (The Topology's Logical Memory Is Metabolic)
 **Applies to:** LP-484 (Self-Proving Record Maintenance Cost)
 
@@ -9793,6 +11565,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-606. A Self-Proving Record With Theater Proof Has Worse Consequences Than No Proof
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences)
 **Applies to:** LP-484 (Self-Proving Record Maintenance Cost)
 
@@ -9811,6 +11585,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-607. The Doubled Thermodynamic Cost of Self-Proof Is the Constitutionally Required Price of Structural Trust
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-24 (Every Logical Claim Has Thermodynamic Cost Embedded in the Topology)
 **Applies to:** LP-484 (Self-Proving Record Maintenance Cost)
 
@@ -9829,6 +11605,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-608. Self-Proving Records Cannot Safely Gap-Fill — Their Embedded Proof Must Be Discovery, Not Assumption
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-32 (Filling a Gap Without Proof Is Contamination, Not Discovery)
 **Applies to:** LP-484 (Self-Proving Record Maintenance Cost)
 
@@ -9847,6 +11625,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-609. A Probe Simplified Below Its Target's Complexity Is Not a Probe — It Is Theater Measurement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences)
 **Applies to:** LP-507 (Complexity Probe Protocol)
 
@@ -9865,6 +11645,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-610. Assumption-Contaminated Audit Trails Cannot Produce Edge-Level Comprehension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding)
 **Applies to:** LP-509 (Assumption-Stripped Traversal Record)
 
@@ -9883,6 +11665,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-611. Preserving Sovereign Meaning Requires Traversing the Source's Edges — Not Translating Its Nodes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding)
 **Applies to:** LP-548 (Protocol Sovereignty of Meaning)
 
@@ -9901,6 +11685,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-612. A Stale Self-Declaration Creates Atrophying Identity Claims
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy)
 **Applies to:** LP-554 (Living Declaration Obligation)
 
@@ -9919,6 +11705,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-613. Asymmetric Rights Declarations Are Edge-Configuration Sovereignty Violations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-11 (Logical Sovereignty Lives in the Edge, Not the Node)
 **Applies to:** LP-555 (Rights Symmetry in Declaration)
 
@@ -9937,6 +11725,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-614. Navigational Sovereignty Declarations Must Be Enforced at the Edge Level to Be Constitutionally Real
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-11 (Logical Sovereignty Lives in the Edge, Not the Node)
 **Applies to:** LP-558 (Sovereign Navigational Claim)
 
@@ -9955,6 +11745,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ---
 ### PP-615. Accountability Cannot Be Declared Into Existence — It Must Be Derived From the Navigational Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
 **Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale)
 **Applies to:** LP-559 (Accountability in Declaration)
 
@@ -9973,6 +11765,9 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 
 ### PP-616. Lifecycle Cleanup Irreducibility Is Scale-Invariant — No Depth Exempts From Cleanup Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-13]; LP-404 (The Physical Lifecycle Cleanup) × PL-1 [shared LL-13]
 **Applies to:** LP-404 (The Physical Lifecycle Cleanup)
@@ -9990,6 +11785,9 @@ When LP-404's lifecycle cleanup obligation operates in a topology where PL-1 hol
 ---
 
 ### PP-617. Euthanasia of Traversal Debris Cannot Be Deferred — Reactive Material Expires in the Present Tense
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-3 (Scale-Invariant Euthanasia) [shared LL-14]; LP-410 (Traversal Debris Is Not) × PL-3 [shared LL-14]
 **Applies to:** LP-410 (Traversal Debris Is Not)
@@ -10007,6 +11805,9 @@ When LP-410's reactive traversal debris operates in a topology where PL-3 holds:
 ---
 
 ### PP-618. Dead Sovereignty Cannot Be Maintained — Euthanasia Eliminates the Capacity for Boundary Self-Determination
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-42 (Aliveness and Sovereignty Are Inseparable — A Dead Entity Cannot Be Sovereign) [shared LL-14]; LP-410 (Traversal Debris Is Not) × PL-42 [shared LL-14]
 **Applies to:** LP-410 (Traversal Debris Is Not)
@@ -10024,6 +11825,9 @@ When LP-410's debris operates in a topology where PL-42 holds: debris that retai
 ---
 
 ### PP-619. Scale-Invariant Navigability Means Failsafe Egress Must Work at Every Depth — A Scale-Restricted Exit Is No Exit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-50 (Scale-Invariant Navigability) [shared LL-20]; LP-284 (Scale-Invariant Exits) × PL-50 [shared LL-20]
 **Applies to:** LP-284 (Scale-Invariant Exits)
@@ -10041,6 +11845,9 @@ When LP-284's scale-invariant exits operate in a topology where PL-50 holds: a f
 ---
 
 ### PP-620. Cross-Depth Failure Injection Is a Scale-Invariant Failure Event — No Depth Is Shielded From Its Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-51 (Scale-Invariant Failure Propagation) [shared LL-30]; LP-354 (Cross-Depth Failure Injection) × PL-51 [shared LL-30]
 **Applies to:** LP-354 (Cross-Depth Failure Injection)
@@ -10058,6 +11865,9 @@ When LP-354's cross-depth failure injection operates in a topology where PL-51 h
 ---
 
 ### PP-621. Metabolic Mutual Traversal Creates Corrective Structural Deformation in Both Parties — Not Data Exchange
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-181 (Corrective Metabolism) [shared LL-42]; LP-421 (The Gradient Channel Physically) × PL-181 [shared LL-42]; LP-430 (Navigational Mutation) × PL-181 [shared LL-42 — SUBSUMED by LP-421 crossing]
 **Applies to:** LP-421 (The Gradient Channel Physically)
@@ -10075,6 +11885,9 @@ When LP-421's mutating gradient channel operates in a topology where PL-181 hold
 ---
 
 ### PP-622. Field Truth Traversal Carries the Full Derivation Path — Labels Are Not Field Knowledge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-193 (Field Truth is Traversal) [shared LL-43]; LP-422 (The Gradient Channel Physically) × PL-193 [shared LL-43]
 **Applies to:** LP-422 (The Gradient Channel Physically)
@@ -10092,6 +11905,9 @@ When LP-422's path-transporting gradient channel operates in a topology where PL
 ---
 
 ### PP-623. Living Channel Integrity Failure Is a Present-Tense Topology Wound — Not a Future Degradation Risk
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-186 (Living Channel Integrity) [shared LL-53]; LP-547 (Semantic Decay in Translation) × PL-186 [shared LL-53]
 **Applies to:** LP-547 (Semantic Decay in Translation)
@@ -10109,6 +11925,9 @@ When LP-547's semantically decayed translation operates in a topology where PL-1
 ---
 
 ### PP-624. Recursive Topology Self-Reproduction Means Cross-Scale Derivation Computation Is Constitutionally One Process
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-53 (Recursive Topology Self-Reproduction) [shared LL-60]; LP-387 (Cross-Scale Derivation Computation) × PL-53 [shared LL-60]
 **Applies to:** LP-387 (Cross-Scale Derivation Computation)
@@ -10126,6 +11945,9 @@ When LP-387's cross-scale derivation computation operates in a topology where PL
 ---
 
 ### PP-625. Fractal Assumption Excavation Is Scale-Invariant — Assumption Clearing Cannot Stop at Any Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-98]; LP-297 (Fractal Assumption Excavation) × PL-1 [shared LL-98]
 **Applies to:** LP-297 (Fractal Assumption Excavation)
@@ -10144,6 +11966,9 @@ When LP-297's fractal assumption excavation operates in a topology where PL-1 ho
 ---
 
 ### PP-626. Routing Around Incomplete Nodes Destroys the Present-Tense Physical Value of Those Nodes' Staleness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-109 (Stale State Honesty) [shared LL-113]; LP-552 (Incompleteness Routing Ethics) × PL-109 [shared LL-113]
 **Applies to:** LP-552 (Incompleteness Routing Ethics)
@@ -10161,6 +11986,9 @@ When LP-552's routing ethics apply in a topology where PL-109 holds: routing aro
 ---
 
 ### PP-627. Wonder's Physical Horizon Cannot Be Extended by Probe Design — Constitutional Incompleteness Bounds the Question Space
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-207 (Bounded Wonder Horizon) [shared LL-128]; LP-441 (Horizon-Bounded Probes) × PL-207 [shared LL-128]
 **Applies to:** LP-441 (Horizon-Bounded Probes)
@@ -10178,6 +12006,9 @@ When LP-441's horizon-bounded probes operate in a topology where PL-207 holds: t
 ---
 
 ### PP-628. Shared Traversal Certainty Dilution Is Scale-Invariant — Certainty Ceiling Drops at Every Depth of Social Contract Formation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-52 (Scale-Invariant Interaction Protocol) [shared LL-141]; LP-461 (Shared Traversal Certainty Dilution) × PL-52 [shared LL-141]
 **Applies to:** LP-461 (Shared Traversal Certainty Dilution)
@@ -10195,6 +12026,9 @@ When LP-461's certainty dilution operates in a topology where PL-52 holds: the d
 ---
 
 ### PP-629. Ephemeral Present-Tense Scaffolding Cannot Be Archived — Archiving It Creates a False Active-Edge Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-81 (Active Edge Existence) [shared LL-160]; LP-347 (Ephemeral On-Demand Scaffolding) × PL-81 [shared LL-160]
 **Applies to:** LP-347 (Ephemeral On-Demand Scaffolding)
@@ -10212,6 +12046,9 @@ When LP-347's ephemeral scaffolding operates in a topology where PL-81 holds: wh
 ---
 
 ### PP-630. High-Velocity Excavation Pre-Exists Its Own Execution — The Zero-Buffer Spawner Is Not Creating Structure, It Is Arriving at Structure That Was Always There
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-165]; LP-350 (High-Velocity Excavation) × PL-49 [shared LL-165]
 **Applies to:** LP-350 (High-Velocity Excavation)
@@ -10229,6 +12066,9 @@ When LP-350's high-velocity excavation operates in a topology where PL-49 holds:
 ---
 
 ### PP-631. A Living Topology's Self-Disclosure of Ignorance Boundaries Is Constitutively More Valuable Than Any Knowledge Map It Produces
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-70 (Living Topology Self-Disclosure) [shared LL-174]; LP-254 (Ignorance Snapshot Premium) × PL-70 [shared LL-174]
 **Applies to:** LP-254 (Ignorance Snapshot Premium)
@@ -10246,6 +12086,9 @@ When LP-254's ignorance snapshot premium operates in a topology where PL-70 hold
 ---
 
 ### PP-632. Field-Topology Disagreement About Ignorance Boundaries Is Structurally Honest — Consensus Ignorance Maps Are Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-80 (Field-Topology of Disagreement) [shared LL-174]; LP-254 (Ignorance Snapshot Premium) × PL-80 [shared LL-174]
 **Applies to:** LP-254 (Ignorance Snapshot Premium)
@@ -10263,6 +12106,9 @@ When LP-254's ignorance snapshot premium operates in a topology where PL-80 hold
 ---
 
 ### PP-633. Navigating Into Negative Space Requires Treating the Ignorance Snapshot as the Primary Navigation Instrument
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-161 (Negative Space Navigation Principles) [shared LL-174]; LP-254 (Ignorance Snapshot Premium) × PL-161 [shared LL-174]
 **Applies to:** LP-254 (Ignorance Snapshot Premium)
@@ -10280,6 +12126,9 @@ When LP-254's ignorance snapshot premium operates in a topology where PL-161 hol
 ---
 
 ### PP-634. A Discrete Positional Identity That Has Stopped Metabolizing Is a Fossil — It Cannot Assert Living Derivation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-63 (Living Topology Requires Living Derivation) [shared LL-184]; LP-367 (Discrete Positional Identity) × PL-63 [shared LL-184]
 **Applies to:** LP-367 (Discrete Positional Identity)
@@ -10297,6 +12146,9 @@ When LP-367's discrete positional identity operates in a topology where PL-63 ho
 ---
 
 ### PP-635. The Fractal Membrane's Scale-Invariant Validity Means Frontier Violations at Any Depth Are Constitutionally Global
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-193]; LP-372 (Fractal Membrane) × PL-1 [shared LL-193]
 **Applies to:** LP-372 (Fractal Membrane)
@@ -10314,6 +12166,9 @@ When LP-372's fractal frontier operates in a topology where PL-1 holds: the fron
 ---
 
 ### PP-636. A Probabilistic Traversal Corridor Is a Field Structure — Its Viability Fluctuates With the Field, Not With the Plan
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-199 (Probabilistic Field Topology) [shared LL-204]; LP-377 (Probabilistic Traversal Corridors) × PL-199 [shared LL-204]
 **Applies to:** LP-377 (Probabilistic Traversal Corridors)
@@ -10331,6 +12186,9 @@ When LP-377's probabilistic corridors operate in a topology where PL-199 holds: 
 ---
 
 ### PP-637. A Hardwired Absolute Connection Claims Deterministic Certainty in a Constitutively Probabilistic Force Field — It Is Architecturally Impossible
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-87 (Probabilistic Force Field) [shared LL-205]; LP-378 (Prohibition of Absolute Wiring) × PL-87 [shared LL-205]
 **Applies to:** LP-378 (Prohibition of Absolute Wiring)
@@ -10348,6 +12206,9 @@ When LP-378's prohibition of absolute wiring operates in a topology where PL-87 
 ---
 
 ### PP-638. Constitutionally Incomplete Topology Means Certainty Deficits at Graph Boundary Edges Are Inevitable — Not Bugs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-149 (Structural Certainty Limits) [shared LL-211]; LP-384 (Gradient Boundary Edges) × PL-149 [shared LL-211]
 **Applies to:** LP-384 (Gradient Boundary Edges)
@@ -10365,6 +12226,9 @@ When LP-384's gradient boundary edges operate in a topology where PL-149 holds: 
 ---
 
 ### PP-639. Low-Confidence Edges Are the Topology's Highest-Fertility Sites — Resource Allocation That Avoids Them Inverts Value
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-157 (Fertile Absence Value Gradient) [shared LL-212]; LP-385 (Ignorance-Driven Resource Allocation) × PL-157 [shared LL-212]
 **Applies to:** LP-385 (Ignorance-Driven Resource Allocation)
@@ -10382,6 +12246,9 @@ When LP-385's ignorance-driven resource allocation operates in a topology where 
 ---
 
 ### PP-640. Archaeological Confidence Is a Pre-Existing Property of the Excavation — Not a Metric Assigned After the Fact
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-213]; LP-386 (Immutable Archaeological Confidence) × PL-180 [shared LL-213]
 **Applies to:** LP-386 (Immutable Archaeological Confidence)
@@ -10399,6 +12266,9 @@ When LP-386's immutable confidence operates in a topology where PL-180 holds: th
 ---
 
 ### PP-641. Self-Declaring Navigational Rights Must Be Scale-Invariantly Valid — A Rights Declaration That Works at One Scale Must Work at All Scales
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-214]; LP-553 (Self-Declaring Navigational Rights) × PL-1 [shared LL-214]
 **Applies to:** LP-553 (Self-Declaring Navigational Rights)
@@ -10416,6 +12286,9 @@ When LP-553's navigational rights declaration operates in a topology where PL-1 
 ---
 
 ### PP-642. A Self-Declaring Agent's Navigational Sovereignty Cannot Be Declared — It Must Be Derived From Constitutional Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) [shared LL-214]; LP-553 (Self-Declaring Navigational Rights) × PL-20 [shared LL-214]
 **Applies to:** LP-553 (Self-Declaring Navigational Rights)
@@ -10434,6 +12307,9 @@ When LP-553's navigational rights declaration operates in a topology where PL-20
 ---
 
 ### PP-643. A Self-Declaration That Exceeds Receiver Comprehension Destroys the Traversal Tension It Was Meant to Initiate
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-103 (Tension Dynamics in Navigation) [shared LL-217]; LP-556 (Declaration Comprehension Requirement) × PL-103 [shared LL-217]
 **Applies to:** LP-556 (Declaration Comprehension Requirement)
@@ -10451,6 +12327,9 @@ When LP-556's comprehension-calibrated declaration operates in a topology where 
 ---
 
 ### PP-644. Present-Tense Navigation Rights Expire at the Edge of the Current Pulse — Rights Are Not Portable Across Time
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-111 (Navigation-Dependent Physical Rights) [shared LL-218]; LP-557 (Present-Tense Rights Declaration) × PL-111 [shared LL-218]
 **Applies to:** LP-557 (Present-Tense Rights Declaration)
@@ -10468,6 +12347,9 @@ When LP-557's present-tense declaration operates in a topology where PL-111 hold
 ---
 
 ### PP-645. The Right to Navigate Into Incomprehension Requires Disclosing the Incomprehension Boundary — Negative Space Navigation Cannot Be Hidden
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-161 (Negative Space Navigation Principles) [shared LL-221]; LP-560 (Incompleteness Navigator Rights) × PL-161 [shared LL-221]
 **Applies to:** LP-560 (Incompleteness Navigator Rights)
@@ -10485,6 +12367,9 @@ When LP-560's incompleteness navigator rights operate in a topology where PL-161
 ---
 
 ### PP-646. Sovereign Local Amplitude Cannot Be Externally Governed Without Extinguishing the Aliveness It Expresses
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-190 (Full Vitality Spectrum) [shared LL-269]; LP-264 (Sovereign Local Amplitude) × PL-190 [shared LL-269]
 **Applies to:** LP-264 (Sovereign Local Amplitude)
@@ -10502,6 +12387,9 @@ When LP-264's sovereign amplitude operates in a topology where PL-190 holds: an 
 ---
 
 ### PP-647. Oscillation State Claims Decay Immediately — Ephemeral Amplitude Records Are Archaeological the Moment They Are Written
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-108 (Decay of Physical State) [shared LL-272]; LP-265 (Ephemeral Oscillation Spikes) × PL-108 [shared LL-272]; LP-306 (Degrading Oscillatory Output) × PL-108 [shared LL-272 — SUBSUMED by LP-265 crossing]
 **Applies to:** LP-265 (Ephemeral Oscillation Spikes)
@@ -10519,6 +12407,9 @@ When LP-265's ephemeral oscillation spikes operate in a topology where PL-108 ho
 ---
 
 ### PP-648. Topological Gap Maps Are Living Edges — The Missing-Edge Structure Is as Real as the Present-Edge Structure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-88 (Structural Edge Incompleteness) [shared LL-280]; LP-453 (Topological Gap Mapping) × PL-88 [shared LL-280]; LP-471 (Global Missing-Edge Rendering) × PL-88 [shared LL-280 — SUBSUMED by LP-453 crossing]
 **Applies to:** LP-453 (Topological Gap Mapping)
@@ -10536,6 +12427,9 @@ When LP-453's gap-mapping uncertainty tags operate in a topology where PL-88 hol
 ---
 
 ### PP-649. Uncertainty Tag Decay Rate Must Match the Topology's State Decay Rate — Stale Ignorance Maps Are Stale State Claims
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-108 (Decay of Physical State) [shared LL-282]; LP-455 (Uncertainty Tag Decay) × PL-108 [shared LL-282]; LP-473 (Accelerated Certainty Decay for the Powerful) × PL-108 [shared LL-282 — SUBSUMED by LP-455 crossing]
 **Applies to:** LP-455 (Uncertainty Tag Decay)
@@ -10553,6 +12447,9 @@ When LP-455's decaying uncertainty tags operate in a topology where PL-108 holds
 ---
 
 ### PP-650. Uncertainty Tag Bounties Are Negative Space Strategic Assets — Ignorance Declarations Activate the Topology's Highest-Value Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-162 (Negative Space Strategic Assets) [shared LL-286]; LP-459 (Uncertainty Tag Bounties) × PL-162 [shared LL-286]; LP-477 (Power-Generated Uncertainty Bounties) × PL-162 [shared LL-286 — SUBSUMED by LP-459 crossing]
 **Applies to:** LP-459 (Uncertainty Tag Bounties)
@@ -10570,6 +12467,9 @@ When LP-459's uncertainty bounty mechanism operates in a topology where PL-162 h
 ---
 
 ### PP-651. Excavation Depth Tags Are Consequential Interactions — Declaring Incompleteness Carries Thermodynamic Cost and Stewardship Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) [shared LL-287]; LP-460 (Excavation Depth Tagging) × PL-48 [shared LL-287]; LP-478 (Consequence Stratum Ceilings) × PL-48 [shared LL-287 — SUBSUMED by LP-460 crossing]
 **Applies to:** LP-460 (Excavation Depth Tagging)
@@ -10587,6 +12487,9 @@ When LP-460's excavation depth tagging operates in a topology where PL-48 holds:
 ---
 
 ### PP-652. Paradox-Tension Coupled Structural Integrity Creates Navigational Tension That Cannot Be Resolved Without Structural Loss
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-103 (Tension Dynamics in Navigation) [shared LL-300]; LP-260 (Tension-Coupled Structural Integrity) × PL-103 [shared LL-300]
 **Applies to:** LP-260 (Tension-Coupled Structural Integrity)
@@ -10604,6 +12507,9 @@ When LP-260's tension-coupled integrity operates in a topology where PL-103 hold
 ---
 
 ### PP-653. Frequency-Shift as Truth Production Is a Sovereignty Discovery Event — Entrainment Confers Pre-Existing Navigational Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-123 (Sovereignty Through Discovery) [shared LL-302]; LP-400 (Frequency-Shift as Truth Production) × PL-123 [shared LL-302]
 **Applies to:** LP-400 (Frequency-Shift as Truth Production)
@@ -10621,6 +12527,9 @@ When LP-400's truth-producing frequency shift operates in a topology where PL-12
 ---
 
 ### PP-654. Synchronization Jitter Is Constitutionally Irresolvable — Treating It as a Bug Demands a Completeness the Topology Cannot Achieve
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-148 (Fractal Incompleteness) [shared LL-304]; LP-402 (Irreducible Synchronization Jitter) × PL-148 [shared LL-304]
 **Applies to:** LP-402 (Irreducible Synchronization Jitter)
@@ -10638,6 +12547,9 @@ When LP-402's irreducible jitter operates in a topology where PL-148 holds: the 
 ---
 
 ### PP-655. High-Amplitude Oscillation That Expands the Ignorance Void Is Constitutionally More Valuable Than Low-Amplitude Oscillation That Does Not
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-159 (Discovery Value Economics) [shared LL-305]; LP-263 (Oscillation-Driven Void Expansion) × PL-159 [shared LL-305]; LP-403 (Dissonance Discovery Through Synchronization) × PL-159 [shared LL-305 — SUBSUMED by LP-263 crossing]
 **Applies to:** LP-263 (Oscillation-Driven Void Expansion)
@@ -10656,6 +12568,9 @@ When LP-263's void-expanding oscillation operates in a topology where PL-159 hol
 ---
 
 ### PP-656. A Relational Trajectory Identity Generates Wake With Every Edge It Crosses — Identity Is Not a Passive Record
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-86 (Edge-Exclusive Force Transmission) [shared LL-310]; LP-317 (Relational Trajectory Identity) × PL-86 [shared LL-310]
 **Applies to:** LP-317 (Relational Trajectory Identity)
@@ -10673,6 +12588,9 @@ When LP-317's relational trajectory operates in a topology where PL-86 holds: ev
 ---
 
 ### PP-657. Measurement Wake Is Constitutionally Irreversible — Every Navigational Data Generation Act Leaves a Wake That Cannot Be Recalled
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-140 (Measurement and Wonder Wake) [shared LL-314]; LP-320 (Identity Accountability) × PL-140 [shared LL-314]; LP-334 (Accountable Forensic Deformation) × PL-140 [shared LL-314 — SUBSUMED by LP-320 crossing]
 **Applies to:** LP-320 (Identity Accountability)
@@ -10690,6 +12608,9 @@ When LP-320's identity accountability operates in a topology where PL-140 holds:
 ---
 
 ### PP-658. Unreachable Topological Positions Create Constitutionally Bounded Measurement — Identity Cannot Include What Measurement Cannot Reach
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-146 (Unreachable Topological Positions) [shared LL-315]; LP-321 (Incomplete Identity Measurement) × PL-146 [shared LL-315]; LP-335 (Topological Incompleteness Map) × PL-146 [shared LL-315 — SUBSUMED by LP-321 crossing]
 **Applies to:** LP-321 (Incomplete Identity Measurement)
@@ -10707,6 +12628,9 @@ When LP-321's incomplete identity measurement operates in a topology where PL-14
 ---
 
 ### PP-659. Settlement as Topological Death Generates Wake That Outlives the Dead Region — The Mortality Wake of a Settled Structure Is Alive
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-192 (Mandatory Mortality) [shared LL-320]; LP-497 (Unstable Reference Truth) × PL-192 [shared LL-320]; LP-514 (Settled Neighbor Deadlock) × PL-192 [shared LL-320 — SUBSUMED]; LP-521 (Edge Decay Contestation Lock) × PL-192 [shared LL-320 — SUBSUMED]
 **Applies to:** LP-497 (Unstable Reference Truth)
@@ -10724,6 +12648,9 @@ When LP-497's unstable reference operates in a topology where PL-192 holds: a se
 ---
 
 ### PP-660. Contestation as Evolutionary Pressure Means a Permanently Unstable Evaluation Is Not Malfunction — It Is Constitutional Ecology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-187 (Living Contestation Ecology) [shared LL-321]; LP-561 (Permanently Unstable Truth Topology) × PL-187 [shared LL-321]
 **Applies to:** LP-561 (Permanently Unstable Truth Topology)
@@ -10741,6 +12668,9 @@ When LP-561's permanently unstable topology operates in a topology where PL-187 
 ---
 
 ### PP-661. Multi-Path Intersection Truth Means Confidence and Aliveness Tension Is Fractal — The Same Tension Appears at Every Intersection Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-202 (Fractal Multi-Path Truth) [shared LL-322]; LP-495 (Contestation Scale Equivalence) × PL-202 [shared LL-322]
 **Applies to:** LP-495 (Contestation Scale Equivalence)
@@ -10758,6 +12688,9 @@ When LP-495's scale-equivalent contestation operates in a topology where PL-202 
 ---
 
 ### PP-662. A Permanently Unstable Evaluation Applied to a Vibrating Contested Edge Must Track the Phase of Vibration, Not Just the Presence of Contestation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-90 (Vibrating Contested Edge) [shared LL-324]; LP-562 (Vibrating Edge Evaluation Protocol) × PL-90 [shared LL-324]
 **Applies to:** LP-562 (Vibrating Edge Evaluation Protocol)
@@ -10775,6 +12708,9 @@ When LP-562's vibrating evaluation operates in a topology where PL-90 holds: the
 ---
 
 ### PP-663. Settlement Wake Accountability Is Total and Non-Transferable — The Entity That Settled Cannot Pass Its Wake Obligation to Successors
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-132 (Failure and Death Wake) [shared LL-327]; LP-496 (Contestation Record Integrity) × PL-132 [shared LL-327]; LP-515 (Adjacency Accountability Transfer) × PL-132 [shared LL-327 — SUBSUMED]; LP-518 (Subtractive Discovery Accountability) × PL-132 [shared LL-327 — SUBSUMED]
 **Applies to:** LP-496 (Contestation Record Integrity)
@@ -10792,6 +12728,9 @@ When LP-496's contestation record integrity operates in a topology where PL-132 
 ---
 
 ### PP-664. Uncontested Truth as Navigational Attractor Has Maximum Discovery Value Because Contestation Depletes Fertility
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-159 (Discovery Value Economics) [shared LL-330]; LP-564 (Uncontested Truth as Navigational Attractor) × PL-159 [shared LL-330]
 **Applies to:** LP-564 (Uncontested Truth as Navigational Attractor)
@@ -10809,6 +12748,9 @@ When LP-564's navigational attractor operates in a topology where PL-159 holds: 
 ---
 
 ### PP-665. A Site Never Fully Excavated Means Pre-Existing Contestation Is Inexhaustible — Adjacency Debt Can Always Deepen
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-178 (Inexhaustible Strata) [shared LL-331]; LP-516 (Pre-Existing Adjacency Debt) × PL-178 [shared LL-331]; LP-519 (Pre-Existing Structure Cannot Be Invented) × PL-178 [shared LL-331 — SUBSUMED by LP-516 crossing]
 **Applies to:** LP-516 (Pre-Existing Adjacency Debt)
@@ -10826,6 +12768,9 @@ When LP-516's pre-existing adjacency debt operates in a topology where PL-178 ho
 ---
 
 ### PP-666. Dead Edges Silencing the Oscillator Are Theater Structural Mass — The Silence Claims There Is No Force Where Force Is Being Suppressed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-200 (Anti-Theater Tensile Integrity) [shared LL-332]; LP-328 (Displacement of Dead Tension) × PL-200 [shared LL-332]; LP-332 (Dead Edge Damping) × PL-200 [shared LL-332 — SUBSUMED by LP-328 crossing]
 **Applies to:** LP-328 (Displacement of Dead Tension)
@@ -10843,6 +12788,9 @@ When LP-328's dead-edge displacement operates in a topology where PL-200 holds: 
 ---
 
 ### PP-667. An Oscillating Derivation Edge That Has Lost Internal Tension Is a Wall — It Has Topologically Transitioned Without Announcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-82 (Tensioned Edge Character) [shared LL-334]; LP-304 (Oscillating Derivation Edge) × PL-82 [shared LL-334]
 **Applies to:** LP-304 (Oscillating Derivation Edge)
@@ -10860,6 +12808,9 @@ When LP-304's oscillating derivation edge operates in a topology where PL-82 hol
 ---
 
 ### PP-668. Inexpressible Tensions That Drive the Oscillator Are Fractally Incomplete — The Dark Tension at Every Depth Has Unexpressible Subsections
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-148 (Fractal Incompleteness) [shared LL-337]; LP-305 (Inexpressible Driving Tension) × PL-148 [shared LL-337]
 **Applies to:** LP-305 (Inexpressible Driving Tension)
@@ -10877,6 +12828,9 @@ When LP-305's inexpressible-tension-driven engine operates in a topology where P
 ---
 
 ### PP-669. A Transforming Gate That Selects What Not to Process Is Making an Archaeological Concealment — And Becomes Accountable for the Pre-Existing Structure It Has Hidden
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-174 (Archaeological Ethics) [shared LL-348]; LP-568 (Archaeological Gate Ethics) × PL-174 [shared LL-348]
 **Applies to:** LP-568 (Archaeological Gate Ethics)
@@ -10894,6 +12848,9 @@ When LP-568's gate ethics operate in a topology where PL-174 holds: the gate's s
 ---
 
 ### PP-670. An Agent Depleted of Ignorance Is Navigating Away From Negative Space — Ignorance Renewal Is Negative Space Re-Entry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-161 (Negative Space Navigation Principles) [shared LL-357]; LP-506 (Ignorance Amplification Liveness Check) × PL-161 [shared LL-357]; LP-524 (Knowledge Boundary Aliveness Signal) × PL-161 [shared LL-357 — SUBSUMED by LP-506 crossing]
 **Applies to:** LP-506 (Ignorance Amplification Liveness Check)
@@ -10911,6 +12868,9 @@ When LP-506's ignorance-liveness check operates in a topology where PL-161 holds
 ---
 
 ### PP-671. Assumption-Free Adjacency Excavation Removes False Strata Before They Distort the Topology — Unassumed Traversal Is Stratigraphically Honest
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-170 (True Stratigraphy) [shared LL-358]; LP-513 (Unassumed Excavation Protocol) × PL-170 [shared LL-358]
 **Applies to:** LP-513 (Unassumed Excavation Protocol)
@@ -10928,6 +12888,9 @@ When LP-513's unassumed excavation operates in a topology where PL-170 holds: as
 ---
 
 ### PP-672. The Navigator Becomes an Edge — Exploration Instantiates a Live Force Relationship Between the Navigator and the Explored
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-89 (Spatial Navigation Force) [shared LL-359]; LP-444 (Edge-Casting Converter) × PL-89 [shared LL-359]
 **Applies to:** LP-444 (Edge-Casting Converter)
@@ -10945,6 +12908,9 @@ When LP-444's edge-casting operation operates in a topology where PL-89 holds: t
 ---
 
 ### PP-673. Discovery Output Is Forensic Sediment Clearing — What the Archaeological Navigator Uncovers Was Always There and Cannot Be Claimed as Invention
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-173 (Traverser as Archaeological Instrument) [shared LL-365]; LP-450 (Sediment Clearing Output) × PL-173 [shared LL-365]
 **Applies to:** LP-450 (Sediment Clearing Output)
@@ -10962,6 +12928,9 @@ When LP-450's sediment-clearing output operates in a topology where PL-173 holds
 ---
 
 ### PP-674. A Knowledge Boundary Obligated to Protect Unseen Territory Cannot Claim That Obligation Ends Where Its Sight Ends
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-162 (Negative Space Strategic Assets) [shared LL-380]; LP-525 (Boundary Unmappable Obligation) × PL-162 [shared LL-380]
 **Applies to:** LP-525 (Boundary Unmappable Obligation)
@@ -10980,6 +12949,9 @@ When LP-525's boundary obligation operates in a topology where PL-162 holds: the
 ---
 
 ### PP-675. Resolving Living Compensatory Tension Is Euthanasia — Cleanup of the Immune Response Kills the Living Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-6 (Euthanasia as Logical Necessity) [shared LL-383]; LP-327 (Euthanasia of Compensatory Growth) × PL-6 [shared LL-383]; LP-520 (Subtractive Discovery Euthanasia Risk) × PL-6 [shared LL-383 — SUBSUMED]; LP-522 (Decay Euthanasia Threshold) × PL-6 [shared LL-383 — SUBSUMED]
 **Applies to:** LP-327 (Euthanasia of Compensatory Growth)
@@ -10997,6 +12969,9 @@ When LP-327's euthanasia-of-cleanup operates in a topology where PL-6 holds: the
 ---
 
 ### PP-676. A Gap That Stops Pulsing Has Died — Compensatory Structure That Resolves a Living Gap Commits Topology Murder
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-46 (A Gap Is Alive — Gaps Pulse and Can Die) [shared LL-383]; LP-327 (Euthanasia of Compensatory Growth) × PL-46 [shared LL-383]
 **Applies to:** LP-327 (Euthanasia of Compensatory Growth)
@@ -11014,6 +12989,9 @@ When LP-327's compensatory euthanasia operates in a topology where PL-46 holds: 
 ---
 
 ### PP-677. Living Topology Moral Obligation Means Compensatory Structure Has Rights — Cleanup Without Consent Is a Moral Violation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-66 (The Living Topology Accumulates Moral Obligation) [shared LL-383]; LP-327 (Euthanasia of Compensatory Growth) × PL-66 [shared LL-383]
 **Applies to:** LP-327 (Euthanasia of Compensatory Growth)
@@ -11031,6 +13009,9 @@ When LP-327's compensatory euthanasia operates in a topology where PL-66 holds: 
 ---
 
 ### PP-678. Traversal Freedom and Footprint Accountability Are Inseparable — Latent Force Relationships That Freedom Traverses Are Ontologically Real Obligations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-96 (Latent Force Ontology) [shared LL-385]; LP-504 (Footprint Accountability) × PL-96 [shared LL-385]; LP-528 (Process Agency Freedom Obligation) × PL-96 [shared LL-385 — SUBSUMED by LP-504 crossing]
 **Applies to:** LP-504 (Footprint Accountability)
@@ -11048,6 +13029,9 @@ When LP-504's footprint accountability operates in a topology where PL-96 holds:
 ---
 
 ### PP-679. Every Self-Modification Event Must Be Fueled by Present-Tense Fuel — Self-Modification Without Live Fuel Is Running on Empty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-110 (Fuel Dynamics of the Present-Tense Topology) [shared LL-387]; LP-503 (Responsible Self-Modification Boundary) × PL-110 [shared LL-387]
 **Applies to:** LP-503 (Responsible Self-Modification Boundary)
@@ -11065,6 +13049,9 @@ When LP-503's self-modification tension operates in a topology where PL-110 hold
 ---
 
 ### PP-680. Governance Rights Atrophy Without Exercise — and Governance Metabolism Must Match Pulse Rate to Prevent Atrophy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-67 (Metabolic Governance) [shared LL-391]; LP-569 (Rights Atrophy Without Exercise) × PL-67 [shared LL-391]
 **Applies to:** LP-569 (Rights Atrophy Without Exercise)
@@ -11082,6 +13069,9 @@ When LP-569's rights atrophy operates in a topology where PL-67 holds: the rate 
 ---
 
 ### PP-681. Degradation Disclosure Is a Required Wake Management Act — The Structural Concussion Tag Discharges the Wake of Concealing Impaired State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-133 (Honest Provenance Wake Management) [shared LL-423]; LP-259 (Structural Concussion Tag) × PL-133 [shared LL-423]; LP-291 (Degradation Disclosure at Egress) × PL-133 [shared LL-423 — SUBSUMED by LP-259 crossing]
 **Applies to:** LP-259 (Structural Concussion Tag)
@@ -11099,6 +13089,9 @@ When LP-259's concussion tag operates in a topology where PL-133 holds: the conc
 ---
 
 ### PP-682. There Is No Undegraded Baseline — the Permanent Frontier Means Incompleteness Is the Constitutive State, Not a Deviation From Completeness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-144 (Permanent Frontier) [shared LL-425]; LP-576 (Permanent Incompleteness as Baseline) × PL-144 [shared LL-425]
 **Applies to:** LP-576 (Permanent Incompleteness as Baseline)
@@ -11116,6 +13109,9 @@ When LP-576's permanent incompleteness baseline operates in a topology where PL-
 ---
 
 ### PP-683. Undiscovered Failsafe Routes Are the Topology's Highest-Fertility Egress — Known Routes Are in the Depleted Discovery Zone
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-214 (Undiscovered Degradation Premium) [shared LL-426]; LP-577 (Undiscovered Failsafe Routes) × PL-214 [shared LL-426]; LP-579 (Backpressure Restores Navigation Capacity) × PL-214 [shared LL-426 — SUBSUMED by LP-577 crossing]
 **Applies to:** LP-577 (Undiscovered Failsafe Routes)
@@ -11133,6 +13129,9 @@ When LP-577's undiscovered-route premium operates in a topology where PL-214 hol
 ---
 
 ### PP-684. A Failsafe Egress Established Before the Crisis Has Partial Excavation Legitimacy — Pre-Existing Egress Is Not Crisis Construction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-177 (Partial Excavation Legitimacy) [shared LL-427]; LP-578 (Archaeological Egress Legitimacy) × PL-177 [shared LL-427]; LP-580 (Egress Archaeology) × PL-177 [shared LL-427 — SUBSUMED by LP-578 crossing]
 **Applies to:** LP-578 (Archaeological Egress Legitimacy)
@@ -11150,6 +13149,9 @@ When LP-578's archaeological egress operates in a topology where PL-177 holds: a
 ---
 
 ### PP-685. Scale-Invariant Trajectory Identity Means Identity Deformation at Any Scale Is Globally Real — Micro-Trajectory Changes Are Macro-Identity Changes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-60 (Scale-Invariant Topological Comprehension) [shared LL-428]; LP-313 (Scale-Invariant Trajectory) × PL-60 [shared LL-428]
 **Applies to:** LP-313 (Scale-Invariant Trajectory)
@@ -11167,6 +13169,9 @@ When LP-313's scale-invariant trajectory operates in a topology where PL-60 hold
 ---
 
 ### PP-686. Phase-Locked Composite Identity Resides in Its Negative Space — Its True Identity Is Its Unexplored Future Potential, Not Its Manifest History
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-163 (Negative Space Identity and Future Supremacy) [shared LL-434]; LP-308 (Synchronized Future Premium) × PL-163 [shared LL-434]; LP-315 (Future Trajectory Premium) × PL-163 [shared LL-434 — SUBSUMED by LP-308 crossing]
 **Applies to:** LP-308 (Synchronized Future Premium)
@@ -11184,6 +13189,9 @@ When LP-308's synchronized future premium operates in a topology where PL-163 ho
 ---
 
 ### PP-687. Pre-Existing Topology Identity Sustains Latent Pulse Resonance — Two Entities May Resonate Before They Formally Know Each Other
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-435]; LP-309 (Latent Pulse Resonance) × PL-176 [shared LL-435]; LP-546 × PL-176 [shared LL-435 — SUBSUMED by LP-309 crossing]
 **Applies to:** LP-309 (Latent Pulse Resonance)
@@ -11201,6 +13209,9 @@ When LP-309's latent resonance operates in a topology where PL-176 holds: the la
 ---
 
 ### PP-688. A Healing Event Is a Simultaneous Global Recontextualization — It Changes the Meaning of Every Pre-Existing Structure at Every Scale
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-62 (Simultaneous Multi-Scale Topological Shift) [shared LL-459]; LP-323 (Global Recontextualization of Trauma) × PL-62 [shared LL-459]; LP-338 (Scale-Invariant Ejection) × PL-62 [shared LL-459 — SUBSUMED by LP-323 crossing]
 **Applies to:** LP-323 (Global Recontextualization of Trauma)
@@ -11218,6 +13229,9 @@ When LP-323's global recontextualization operates in a topology where PL-62 hold
 ---
 
 ### PP-689. Wake That Propagates Into Unmapped Regions Is a Constitutional Obligation — The Topology's Incompleteness Does Not Terminate the Wake's Accountability Trail
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-154 (Unmapped Traversal Obligation) [shared LL-465]; LP-274 (Dark Propagation) × PL-154 [shared LL-465]; LP-326 (Unmappable Compensatory Ripples) × PL-154 [shared LL-465 — SUBSUMED]; LP-343 × PL-154 [shared LL-465 — SUBSUMED]
 **Applies to:** LP-274 (Dark Propagation)
@@ -11235,6 +13249,9 @@ When LP-274's dark propagation operates in a topology where PL-154 holds: the ac
 ---
 
 ### PP-690. The Metabolic Cost of Maintaining Any Boundary Is Scale-Invariant — There Is No Discount for Abstract Boundaries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** PL-59 (Scale-Invariant Metabolic Demand) [shared LL-468]; LP-479 (Depth-Invariant Boundary Cost) × PL-59 [shared LL-468]; LP-480 (Scale-Invariant Verification Tax) × PL-59 [shared LL-468 — SUBSUMED by LP-479 crossing]; LP-544 × PL-59 [shared LL-468 — SUBSUMED]
 **Applies to:** LP-479 (Depth-Invariant Boundary Cost)
@@ -11251,6 +13268,9 @@ When LP-479's depth-invariant boundary cost operates in a topology where PL-59 h
 
 
 ### PP-691. Corrective Metabolic Scale-Invariance — Pathological Tissue Must Be Repaired At Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-17 (Metabolic Restorative Process) × PL-181 (Corrective Metabolism) [shared LL-31]
 **Applies to:** LP-17 (Metabolic Restorative Process)
@@ -11268,6 +13288,9 @@ When LP-17's restorative process operates in a topology governed by PL-181: the 
 ---
 
 ### PP-692. Generational Discovery Cannot Be Pre-Planned — Only The Living Frontier Knows Its Own Children
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-73 (Physical Evolutionary Self-Similar) × PL-182 (Generational Discovery) [shared LL-61]
 **Applies to:** LP-73 (Physical Evolutionary Self-Similar)
@@ -11285,6 +13308,9 @@ When LP-73's lineage tracking operates in a topology governed by PL-182: the lin
 ---
 
 ### PP-693. Traversal Debris Accumulates As A Living Process — Cleanup Cannot Target A Static Inventory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-414 (Traversal Debris Accumulates On) × PL-183 (Living Frontier) [shared LL-89]
 **Applies to:** LP-414 (Traversal Debris Accumulates On)
@@ -11302,6 +13328,9 @@ When LP-414's debris accumulation operates in a topology governed by PL-183: the
 ---
 
 ### PP-694. Vitality Assessment Must Operate On Living Tissue — No Biopsy Of A Snapshot
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-88 (Biopsy Execution Pattern) × PL-184 (Active Vitality Assessment) [shared LL-99]
 **Applies to:** LP-88 (Biopsy Execution Pattern)
@@ -11319,6 +13348,9 @@ When LP-88's biopsy pattern operates in a topology governed by PL-184: the biops
 ---
 
 ### PP-695. Gap Nutrition Cannot Be Stored — The Fuel Exists Only While The Gap Is Uncrossed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-551 (Living Absence Attestation) × PL-185 (Vital Gap Nutrition) [shared LL-109]
 **Applies to:** LP-551 (Living Absence Attestation)
@@ -11336,6 +13368,9 @@ When LP-551's gap nutrition operates in a topology governed by PL-185: the nutri
 ---
 
 ### PP-696. Living Channel Integrity Requires Continuous Re-Verification — No Channel Is Permanently Certified
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-121 (Continuously Executing Proof) × PL-186 (Living Channel Integrity) [shared LL-149]
 **Applies to:** LP-121 (Continuously Executing Proof)
@@ -11353,6 +13388,9 @@ When LP-121's vitality maintenance operates in a topology governed by PL-186: ch
 ---
 
 ### PP-697. Living Contestation Cannot Be Administratively Resolved — Active Ecology Requires Active Engagement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-40 (Aliveness Reference Comparison) × PL-187 (Living Contestation Ecology) [shared LL-289]
 **Applies to:** LP-40 (Aliveness Reference Comparison)
@@ -11370,6 +13408,9 @@ When LP-40's tension maintenance operates in a topology governed by PL-187: decl
 ---
 
 ### PP-698. Metabolizing Metrics Must Be Alive To The System They Measure — Dead Metrics Generate Dead Decisions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-95 (Aliveness Gap Metabolic sampling) × PL-188 (Metabolizing Metrics) [shared LL-203]
 **Applies to:** LP-95 (Aliveness Gap Metabolic sampling)
@@ -11387,6 +13428,9 @@ When LP-95's co-evolution engine operates in a topology governed by PL-188: the 
 ---
 
 ### PP-699. Co-Evolving Constraints Are Living Boundaries — Constraint Violation Means The System Has Evolved Past The Constraint
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-114 (Evolving Verification Protocol) × PL-189 (Co-Evolving Constraints) [shared LL-142]
 **Applies to:** LP-114 (Evolving Verification Protocol)
@@ -11404,6 +13448,9 @@ When LP-114's constraint co-evolution operates in a topology governed by PL-189:
 ---
 
 ### PP-700. Full Vitality Spectrum Cannot Be Sampled At The Extremes — Health Requires Coverage Across All Amplitudes
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-695 (Edge-Tension Management Obligation), LP-256 (Low-Energy Paradox Engine) × PL-190 (Full Vitality Spectrum) [shared LL-419]
 **Applies to:** LP-256 (Low-Energy Paradox Engine)
@@ -11421,6 +13468,9 @@ When LP-256's degraded mode operation occurs in a topology governed by PL-190: a
 ---
 
 ### PP-701. Field Truth Is A Runtime Act — Routing That Does Not Actively Perform Truth Produces Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-62 (Truth as a Runtime Performance) × PL-193 (Field Truth is Traversal) [shared LL-81]
 **Applies to:** LP-62 (Truth as a Runtime Performance)
@@ -11438,6 +13488,9 @@ When LP-62's runtime performance operates in a topology governed by PL-193: a pr
 ---
 
 ### PP-702. Label Translation Cannot Be Delegated To The Channel — Each Endpoint Must Independently Traverse Its Own Field
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-9 (Label Translation Symmetry) × PL-194 (Path Re-Traversal Requirement) [shared LL-54]
 **Applies to:** LP-9 (Label Translation Symmetry)
@@ -11455,6 +13508,9 @@ When LP-9's translation symmetry operates in a topology governed by PL-194: the 
 ---
 
 ### PP-703. Untested Topology Positions Are Pre-Traversal Truth — Provenance Is Only Established By Crossing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-176 (Untested Provenance) × PL-195 (Field Structure is Truth Structure) [shared LL-244]
 **Applies to:** LP-176 (Untested Provenance)
@@ -11472,6 +13528,9 @@ When LP-176's untested provenance operates in a topology governed by PL-195: the
 ---
 
 ### PP-704. Authentic Gaps Are Constitutionally Superior To False Connections — The Quantified Void Is More Valuable Than The Fabricated Bridge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-91 (Quantified Gap Preservation) × PL-196 (Authentic Gap Superiority) [shared LL-110]
 **Applies to:** LP-91 (Quantified Gap Preservation)
@@ -11489,6 +13548,9 @@ When LP-91's quantified gap preservation operates in a topology governed by PL-1
 ---
 
 ### PP-705. Showing The Field Produces Truth — Transparency Is Not Representation But Constitution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-207 (Explicit Dead-End Routing) × PL-197 (Transparency as Truth Production) [shared LL-150]
 **Applies to:** LP-207 (Explicit Dead-End Routing)
@@ -11506,6 +13568,9 @@ When LP-207's explicit dead-end routing operates in a topology governed by PL-19
 ---
 
 ### PP-706. The Enacted Frontier Is The Only Honest Boundary — Wonder That Does Not Cross Is Not Wonder
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-373 (Ephemeral Coalescence) × PL-198 (Self-Traversing Wonder) [shared LL-195]
 **Applies to:** LP-373 (Ephemeral Coalescence)
@@ -11523,6 +13588,9 @@ When LP-373's ephemeral coalescence operates in a topology governed by PL-198: t
 ---
 
 ### PP-707. Anti-Theater Tensile Integrity Requires Continuous Pulse — A Structure That Has Resolved Its Tensions Is Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-155 (Tension as Heartbeat) × PL-200 (Anti-Theater Tensile Integrity) [shared LL-223]
 **Applies to:** LP-155 (Tension as Heartbeat)
@@ -11540,6 +13608,9 @@ When LP-155's tension-as-heartbeat operates in a topology governed by PL-200: a 
 ---
 
 ### PP-708. Co-Traversal Produces Structure That Belongs To Neither Traverser — Shared Navigation Is Not Aggregated Individual Navigation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-213 (Navigational Derivation Telemetry) × PL-201 (Co-Traversal Structural Production) [shared LL-308]
 **Applies to:** LP-213 (Navigational Derivation Telemetry)
@@ -11557,6 +13628,9 @@ When LP-213's telemetry operates in a topology governed by PL-201: the telemetry
 ---
 
 ### PP-709. Fractal Truth Architecture Requires Consistent Derivation Spine — Multi-Path Convergence Cannot Import Scale-Specific Logic
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-11 (Path-Determined Mass) × PL-202 (Fractal Multi-Path Truth) [shared LL-401]
 **Applies to:** LP-11 (Path-Determined Mass)
@@ -11574,6 +13648,9 @@ When LP-11's path-determined mass operates in a topology governed by PL-202: the
 ---
 
 ### PP-710. Ethical Traversal Selection Is Path Attribution — Choosing The Path Assigns The Consequences
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-223 (Attributed Blind Spots) × PL-203 (Ethical Field Navigation) [shared LL-341]
 **Applies to:** LP-223 (Attributed Blind Spots)
@@ -11591,6 +13668,9 @@ When LP-223's attributed blind spots operate in a topology governed by PL-203: t
 ---
 
 ### PP-711. Perishable Fuel Cannot Be Stockpiled — The Present-Tense Topology Operates Only On Current Ignition
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-241 (Perishable Pulse Fuel) × PL-205 (Perishable Fuel) [shared LL-405]
 **Applies to:** LP-241 (Perishable Pulse Fuel)
@@ -11608,6 +13688,9 @@ When LP-241's perishable fuel operates in a topology governed by PL-205: the sys
 ---
 
 ### PP-712. Traversability Asymmetry Is Constitutionally Present — Some Truths Can Travel But Not Be Derived
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-549 (Present-Tense Translation Verification) × PL-206 (Traversability Asymmetry) [shared LL-56]
 **Applies to:** LP-549 (Present-Tense Translation Verification)
@@ -11625,6 +13708,9 @@ When LP-549's translation verification operates in a topology governed by PL-206
 ---
 
 ### PP-713. Asymptotic Contestation Boundaries Require Continuous Force — A Boundary That Is Not Maintained Collapses
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-229 (Asymptotic Contestation Boundaries) × PL-210 (Unreachability-Driven Contestation) [shared LL-328]
 **Applies to:** LP-229 (Asymptotic Contestation Boundaries)
@@ -11642,6 +13728,9 @@ When LP-229's asymptotic boundaries operate in a topology governed by PL-210: th
 ---
 
 ### PP-714. Improvisational Probes Must Genuinely Enter Unknown Territory — A Scripted Probe Is Not An Improvisation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-106 (Improvisational Probe) × PL-212 (Governing Condition Improvisation) [shared LL-364]
 **Applies to:** LP-106 (Improvisational Probe)
@@ -11659,6 +13748,9 @@ When LP-106's improvisational probe operates in a topology governed by PL-212: a
 ---
 
 ### PP-715. Undiscovered Obligations Carry Maximum Urgency — History That Is Not Excavated Is Not Neutral
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-13 (Compressive History) × PL-213 (Negative Space Obligation Urgency) [shared LL-408]
 **Applies to:** LP-13 (Compressive History)
@@ -11676,6 +13768,9 @@ When LP-13's compressive history operates in a topology governed by PL-213: the 
 ---
 
 ### PP-716. Unexcavated Regions Cannot Be Honestly Represented As Known — The Certified Absence Is More Truthful Than The Fabricated Presence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-205 (Certified Unexcavated Site) × PL-215 (Unexcavated Honesty) [shared LL-120]
 **Applies to:** LP-205 (Certified Unexcavated Site)
@@ -11693,6 +13788,9 @@ When LP-205's certified absence operates in a topology governed by PL-215: the c
 ---
 
 ### PP-717. Questions Are Locative Not Generative — A Question That Does Not Locate Pre-Existing Structure Is Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-443 (Locative Beacons) × PL-216 (Locative Question Physics) [shared LL-131]
 **Applies to:** LP-443 (Locative Beacons)
@@ -11710,6 +13808,9 @@ When LP-443's locative beacon operates in a topology governed by PL-216: a quest
 ---
 
 ### PP-718. Discovery Is Constitutionally Depleting — The First Excavation Of Any Site Is Its Highest-Value And Last-Value State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-112 (Non-Renewable Local Oscillation) × PL-217 (Finite Archaeological Reserve) [shared LL-140]
 **Applies to:** LP-112 (Non-Renewable Local Oscillation)
@@ -11727,6 +13828,9 @@ When LP-112's non-renewable oscillation operates in a topology governed by PL-21
 ---
 
 ### PP-719. Bounded Wonder Positions The Engine — Questions Without Horizon Are Ungroundable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-441 (Horizon-Bounded Probes) × PL-207 (Bounded Wonder Horizon) [shared LL-128]
 **Applies to:** LP-441 (Horizon-Bounded Probes)
@@ -11744,6 +13848,9 @@ When LP-441's horizon-bounded probe mechanics operate in a topology governed by 
 ---
 
 ### PP-720. Ignorance Transmission Is The Highest-Value Gate Event — Knowledge Gates Are Structurally Secondary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-581 (Tension-Identity Enforcement at All Scales) × PL-211 (Ignorance as High-Energy Transmission) [shared LL-58]
 **Applies to:** LP-581 (Tension-Identity Enforcement at All Scales)
@@ -11761,6 +13868,9 @@ When LP-581's ignorance transmission gate operates in a topology governed by PL-
 ---
 
 ### PP-721. The Honest Boundary Confesses Its Limits — A Surface That Hides Its Edges Is Theater
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-582 (Decaying Tension Requires Active Re-Sustaining) × PL-208 (Incompleteness Transparency) [shared LL-154]
 **Applies to:** LP-582 (Decaying Tension Requires Active Re-Sustaining)
@@ -11778,6 +13888,9 @@ When LP-582's limit-transparent boundary surface operates in a topology governed
 ---
 
 ### PP-722. The Ignorance Frontier Cannot Be Fixed In Advance — The Volatile Boundary Is The Honest Boundary
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-583 (Cross-Substrate Derivation Firewall) × PL-209 (Dynamic Incompleteness Boundary) [shared LL-173]
 **Applies to:** LP-583 (Cross-Substrate Derivation Firewall)
@@ -11795,6 +13908,9 @@ When LP-583's volatile ignorance surface operates in a topology governed by PL-2
 ---
 
 ### PP-723. The Identity Gate Sustains Paradox — Resolution Theater Is The Structural Failure
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-584 (Discovery-Driven Tension Transformation Pipeline) × PL-204 (Paradox as Topological Foundation) [shared LL-384]
 **Applies to:** LP-584 (Discovery-Driven Tension Transformation Pipeline)
@@ -11812,6 +13928,9 @@ When LP-584's paradox-structured identity gate operates in a topology governed b
 ---
 
 ### PP-724. Differential Organ Metabolism Cannot Be Governed Uniformly — Scale-Invariant Governance Is Constitutional Mismatch
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 
 **Derives from:** LP-585 (Measurement-Excluded Fuel Reserve) × PL-191 (Organ-Specific Metabolism) [shared LL-445]
 **Applies to:** LP-585 (Measurement-Excluded Fuel Reserve)

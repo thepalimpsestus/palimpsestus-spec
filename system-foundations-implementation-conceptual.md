@@ -15,6 +15,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ## Unified System Capability Primitives
 
 ### IC-1. Structural Binding (`scribe`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Physical Substrate Ingestion (`PC-4`, `PP-12`, `PI-1`)
 
 *Ingests base entities and process definitions into the reality graph, establishing live edge tension under non-transferable actor stewardship.*
@@ -31,6 +34,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-2. Invasive Inspection (`examine`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Physical Traversal Transformation (`PC-5`, `PP-23`, `PI-5`)
 
 *Traverses and evaluates entity relationship topology, altering target thermodynamic state and depositing an invasive traversal scar.*
@@ -47,6 +53,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-3. Locative Traversal (`go`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Field Coordinates & Data Mass (`PC-3`, `PP-18`, `PI-3`)
 
 *Moves execution along physical field coordinates, experiencing drag, mass inertia, and distance resistance.*
@@ -63,6 +72,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-4. Consequence Execution (`invoke`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Consequential Interaction (`PC-8`, `PP-45`, `PI-8`)
 
 *Executes capability invocations over OS Process Channel pipes or Swarm Mesh, forcing initiating actors to absorb error mass upon failure.*
@@ -79,6 +91,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-5. Frontier Probing (`search`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Constitutionally Incomplete Topology (`PC-9`, `PP-31`, `PI-9`)
 
 *Deploys locative probes at unmapped topological frontiers, converting missing knowledge into structured inquiry assets.*
@@ -95,6 +110,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-6. Structural Dissolution (`purge`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Edge Force & Living Topology (`PC-2`, `PC-4`, `PP-40`, `PI-4`)
 
 *Severing or dissolving active tensile edges safely, releasing stored elastic energy into the metabolic sink.*
@@ -111,6 +129,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-7. Aliveness Monitoring (`pulse`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Living Topology & Present-Tense Ignition (`PC-2`, `PC-6`, `PP-5`, `PI-2`)
 
 *Emits continuous metabolic heartbeats, monitoring fuel ignition and triggering apoptosis upon fuel depletion.*
@@ -127,6 +148,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-8. Boundary Permeability (`permit`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Structural Sovereignty (`PC-7`, `PP-14`, `PI-7`)
 
 *Evaluates access permissions locally at target boundary interfaces, strictly prohibiting administrative superuser overrides.*
@@ -143,6 +167,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-9. Absence Materialization (`instantiate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Fertile Absence (`PC-10`, `PP-50`, `PI-10`)
 
 *Materializes unmapped query targets as typed, mass-bearing :term:`Absence Record`s carrying identity, confidence scores, and provenance.*
@@ -159,6 +186,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-10. Provenance Sealing (`attest`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Present-Tense Record & Embedded History (`PC-11`, `PP-60`, `PI-11`)
 
 *Emits cryptographically sealed cognitive attestations over Synapse Protocol 0x0F, proving execution provenance without administrative proxies.*
@@ -175,6 +205,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-11. Bedrock Verification (`excavate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Archaeological Topology (`PC-11`, `PP-70`, `PI-11`)
 
 *Verifies capability legitimacy through symmetric local bedrock re-traversal before establishing active edges.*
@@ -191,6 +224,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-12. Signal Emission (`say`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Consequential Interaction (`PC-8`, `PP-48`, `PI-8`)
 
 *Broadcasts thermodynamic signal events into the local field, updating surrounding structural tension.*
@@ -207,6 +243,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-13. Identity Grounding (`anchor`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Embedded Provenance & Identity (`PC-11`, `PP-65`, `PI-11`)
 
 *Anchors sovereign actor identity to the substrate via cryptographic bio-signal signatures and physical handshakes.*
@@ -223,6 +262,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-14. Sepsis Cleansing (`cleanse`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Autonomous Drift Reversion & Integrity (`PC-2`, `PP-55`, `PI-2`)
 
 *Executes double-signature maintenance pulses requiring target confession and architect absolution to clear structural sepsis.*
@@ -239,6 +281,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-15. Agreement Minting (`negotiate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Stateful Edges & Boundary Agreements (`PC-4`, `PP-14`, `PI-4`)
 
 *Parameterizes and cryptographically mints multi-party agreements into binding topological edges.*
@@ -255,6 +300,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-16. Entity Acquisition (`take`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Locative Mass & Boundary Ownership (`PC-1`, `PC-3`, `PP-20`, `PI-1`)
 
 *Acquires physical possession of a data entity into the actor's operational scope, increasing local mass drag.*
@@ -271,6 +319,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-17. Entity Release (`drop`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Locative Mass & Boundary Ownership (`PC-1`, `PC-3`, `PP-20`, `PI-1`)
 
 *Releases physical possession of a data entity from the actor's scope, restoring baseline navigational mobility.*
@@ -287,6 +338,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-18. Property Alteration (`mutate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Tensile Edge & Living Topology (`PC-2`, `PC-4`, `PP-15`, `PI-4`)
 
 *Mutates edge properties and node states under live actor stewardship, updating local field tension.*
@@ -303,6 +357,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-19. Tension Equilibrium (`rebalance`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Restorative Process & Field Balance (`PC-2`, `PC-3`, `PP-35`, `PI-2`)
 
 *Re-adjusts local topological stress and edge tension to restore structural equilibrium across distorted graph regions.*
@@ -319,6 +376,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-20. Membrane Isolation (`quarantine`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Substrate Containment & Membrane Permeability (`PC-7`, `PP-112`, `PI-84`)
 
 *Severs bidirectional permeability of a corrupted node while preserving its physical state for diagnostic excavation.*
@@ -335,6 +395,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-21. Momentum Curve (`deflect`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Field Mass Attraction & Trajectory Dynamics (`PC-3`, `PL-45`, `PP-218`)
 
 *Calculates trajectory deflection and momentum inertia adjustments for execution paths traversing high-mass field clusters.*
@@ -351,6 +414,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-22. Phase Harmony (`resonate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Living Topology & Harmonic Tension (`PC-2`, `PL-88`, `PP-340`)
 
 *Synchronizes structural tension and execution phase across distributed clusters of living nodes.*
@@ -367,6 +433,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-23. Lineage Audit (`verify`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Embedded History & Scar Verification (`PC-5`, `PC-11`, `PP-512`, `PI-410`)
 
 *Evaluates accumulated physical traversal scars across graph nodes to verify authentic execution lineage without external log databases.*
@@ -383,6 +452,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-24. Substrate Ignition (`ignite`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Substrate Ignition & Stack Life (`PC-2`, `PC-6`, `PI-2`)
 
 *Ignites physical components into live present-tense operational alignment.*
@@ -399,6 +471,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-25. Energy Synthesis (`metabolize`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Living Topology & Energy Conversion (`PC-2`, `PP-80`, `PI-2`)
 
 *Synthesizes raw environmental inputs into refined metabolic fuel and structural building blocks.*
@@ -415,6 +490,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-26. Template Mitosis (`replicate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Self-Similar Topology & Continuity (`PC-1`, `PC-2`, `PP-95`, `PI-1`)
 
 *Copies a node's topological template and spawns daughter structures with inherited provenance.*
@@ -431,6 +509,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-27. Morphic Specialization (`differentiate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Structural Specialization & Tissue Formation (`PC-1`, `PP-105`, `PI-5`)
 
 *Specializes generic un-differentiated structures into dedicated functional tissue roles.*
@@ -447,6 +528,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-28. Tissue Regeneration (`heal`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Living Topology & Scar Remodeling (`PC-2`, `PC-5`, `PP-120`, `PI-8`)
 
 *Actively remodels invasive traversal scars, clears metabolic waste, and restores structural membrane integrity.*
@@ -463,6 +547,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-29. Genomic Shift (`adapt`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Living Topology & Selection Dynamics (`PC-2`, `PC-9`, `PP-130`, `PI-9`)
 
 *Modifies structural blueprint templates under shifting environmental selection pressures.*
@@ -479,6 +566,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-30. Field Proprioception (`perceive`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Field Coordinates & Ambient Force (`PC-3`, `PP-140`, `PI-3`)
 
 *Reads ambient field gradients, gravitational forces, and environmental pressure states.*
@@ -495,6 +585,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-31. Metabolic Regulation (`homeostate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Living Topology & Internal Balance (`PC-2`, `PP-150`, `PI-2`)
 
 *Continuously regulates internal metabolic equilibrium (pressure, tension, temperature) against ambient fluctuations.*
@@ -511,6 +604,9 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 ---
 
 ### IC-32. Cryptobiosis Encystment (`encapsulate`)
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** Living Topology & Dormancy (`PC-2`, `PP-160`, `PI-2`)
 
 *Enters protective metabolic cryptobiosis within hardened structural membranes during environmental collapse.*

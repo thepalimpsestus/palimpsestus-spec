@@ -16,6 +16,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ## IL Derivations
 
 ### IL-1. Graph Node Scribe (`role:scribe`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-1 (Structural Binding (`scribe`))  
 **Applies to:** PL-1..15 (Self-Similar Edge Ingestion) [shared PC-1, PC-4]  
 
@@ -32,6 +35,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-2. Target State Inspector (`role:inspector`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-2 (Invasive Inspection (`examine`))  
 **Applies to:** PL-16..35 (Field Coordinates Dynamic) [shared PC-3, PC-5]  
 
@@ -48,6 +54,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-3. Locative Topology Traverser (`role:traverser`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-3 (Locative Traversal (`go`))  
 **Applies to:** PL-16..35 (Field Coordinates Traversal) [shared PC-3, PC-5]  
 
@@ -64,6 +73,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-4. Consequence-Bearing Skill Executor (`role:executor`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-4 (Consequence Execution (`invoke`))  
 **Applies to:** PL-36..55 (Consequential Interaction Dynamics) [shared PC-8]  
 
@@ -80,6 +92,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-5. Topological Frontier Searcher (`role:searcher`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-5 (Frontier Probing (`search`))  
 **Applies to:** PL-56..75 (Frontier Volatility Discovery) [shared PC-9, PC-10]  
 
@@ -96,6 +111,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-6. Structural Edge Purger (`role:purger`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-6 (Structural Dissolution (`purge`))  
 **Applies to:** PL-76..95 (Structural Dissolution Dynamics) [shared PC-2, PC-6]  
 
@@ -112,6 +130,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-7. Metabolic Aliveness Pulser (`role:pulser`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-7 (Aliveness Monitoring (`pulse`))  
 **Applies to:** PL-96..115 (Metabolic Rhythm Dynamics) [shared PC-2, PC-6]  
 
@@ -128,6 +149,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-8. Endogenous Permeability Granter (`role:granter`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-8 (Boundary Permeability (`permit`))  
 **Applies to:** PL-116..135 (Boundary Sovereignty Dynamics) [shared PC-7]  
 
@@ -144,6 +168,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-9. Absence Record Instantiator (`role:instantiator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-9 (Absence Materialization (`instantiate`))  
 **Applies to:** PL-56..75 (Ignorance Materialization) [shared PC-9, PC-10]  
 
@@ -160,6 +187,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-10. Cryptographic Provenance Attestor (`role:attestor`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-10 (Provenance Sealing (`attest`))  
 **Applies to:** PL-1..15 (Attestation Dynamics) [shared PC-1, PC-4]  
 
@@ -176,6 +206,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-11. Archaeological Bedrock Excavator (`role:excavator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-11 (Bedrock Verification (`excavate`))  
 **Applies to:** PL-136..155 (Archaeological Restoration Dynamics) [shared PC-11]  
 
@@ -192,6 +225,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-12. Ambient Signal Wake Broadcaster (`role:broadcaster`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-12 (Signal Emission (`say`))  
 **Applies to:** PL-36..55 (Signal Propagation Dynamics) [shared PC-8]  
 
@@ -208,6 +244,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-13. Identity Key Anchor (`role:anchor`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-13 (Identity Grounding (`anchor`))  
 **Applies to:** PL-116..135 (Identity Sovereignty Dynamics) [shared PC-7]  
 
@@ -224,6 +263,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-14. Sepsis Cleanser (`role:cleanser`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-14 (Sepsis Cleansing (`cleanse`))  
 **Applies to:** PL-136..155 (Sepsis Absolution Dynamics) [shared PC-11]  
 
@@ -240,6 +282,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-15. Multi-Party Contract Negotiator (`role:negotiator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-15 (Agreement Minting (`negotiate`))  
 **Applies to:** PL-156..175 (Contract Negotiation Dynamics) [shared PC-4]  
 
@@ -256,6 +301,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-16. Entity Scope Acquirer (`role:acquirer`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-16 (Entity Acquisition (`take`))  
 **Applies to:** PL-176..195 (Entity Scope Dynamics) [shared PC-3]  
 
@@ -272,6 +320,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-17. Entity Scope Releaser (`role:releaser`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-17 (Entity Release (`drop`))  
 **Applies to:** PL-176..195 (Scope Release Dynamics) [shared PC-3]  
 
@@ -288,6 +339,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-18. Node Blueprint Mutator (`role:mutator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-18 (Property Alteration (`mutate`))  
 **Applies to:** PL-196..217 (Blueprint Mutation Dynamics) [shared PC-1]  
 
@@ -304,6 +358,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-19. Structural Tension Rebalancer (`role:rebalancer`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-19 (Tension Equilibrium (`rebalance`))  
 **Applies to:** PL-156..175 (Tension Dynamics) [shared PC-4]  
 
@@ -320,6 +377,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-20. Infected Membrane Quarantiner (`role:quarantiner`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-20 (Membrane Isolation (`quarantine`))  
 **Applies to:** PL-116..135 (Contagion Isolation Dynamics) [shared PC-7]  
 
@@ -336,6 +396,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-21. Gravitational Vector Deflector (`role:deflector`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-21 (Momentum Curve (`deflect`))  
 **Applies to:** PL-176..195 (Gravitational Vector Mechanics) [shared PC-3]  
 
@@ -352,6 +415,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-22. Topological Frequency Resonator (`role:resonator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-22 (Phase Harmony (`resonate`))  
 **Applies to:** PL-36..55 (Harmonic Resonance Dynamics) [shared PC-8]  
 
@@ -368,6 +434,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-23. Traversal Scar Auditor (`role:auditor`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-23 (Lineage Audit (`verify`))  
 **Applies to:** PL-16..35 (Observation Scar Verification) [shared PC-3, PC-5]  
 
@@ -384,6 +453,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-24. Metabolic Fuel Igniter (`role:igniter`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-24 (Substrate Ignition (`ignite`))  
 **Applies to:** PL-96..115 (Fuel Ignition Dynamics) [shared PC-2, PC-6]  
 
@@ -400,6 +472,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-25. Dissolved Mass Catabolizer (`role:catabolizer`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-25 (Energy Synthesis (`metabolize`))  
 **Applies to:** PL-76..95 (Metabolic Catabolism & Fuel Sink) [shared PC-2, PC-6]  
 
@@ -416,6 +491,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-26. Morphic Blueprint Replicator (`role:replicator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-26 (Template Mitosis (`replicate`))  
 **Applies to:** PL-196..217 (Blueprint Replication Dynamics) [shared PC-1]  
 
@@ -432,6 +510,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-27. Morphic Role Differentiator (`role:differentiator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-27 (Morphic Specialization (`differentiate`))  
 **Applies to:** PL-196..217 (Tissue Specialization Dynamics) [shared PC-1]  
 
@@ -448,6 +529,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-28. Scar Tissue Remodeler (`role:remodeler`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-28 (Tissue Regeneration (`heal`))  
 **Applies to:** PL-136..155 (Tissue Restoration Dynamics) [shared PC-11]  
 
@@ -464,6 +548,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-29. Environmental Blueprint Adapter (`role:adapter`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-29 (Genomic Shift (`adapt`))  
 **Applies to:** PL-196..217 (Selection Pressure Dynamics) [shared PC-1]  
 
@@ -480,6 +567,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-30. Field Gradient Perceiver (`role:perceiver`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-30 (Field Proprioception (`perceive`))  
 **Applies to:** PL-16..35 (Ambient Gradient Dynamics) [shared PC-3, PC-5]  
 
@@ -496,6 +586,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-31. Homeostatic Pressure Regulator (`role:regulator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-31 (Metabolic Regulation (`homeostate`))  
 **Applies to:** PL-96..115 (Thermodynamic Equilibrium Dynamics) [shared PC-2, PC-6]  
 
@@ -512,6 +605,9 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-32. Cryptobiotic Shell Encapsulator (`role:encapsulator`)
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** IC-32 (Cryptobiosis Encystment (`encapsulate`))  
 **Applies to:** PL-210..217 (Emergency Encystment Dynamics) [shared PC-2]  
 

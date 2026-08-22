@@ -16,6 +16,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 ## CL Derivations
 
 ### CL-1. Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC-4 (Connection & Relational Stabilization)
 *Remain sovereign, remain present, remain production.*
@@ -27,6 +30,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 grants self-determination but doesn't specify how it operates within relationships. CC-4 defines existence through connection but doesn't protect the connected parties. Only together do they demand that connection preserve sovereignty — creating partnerships where both parties remain whole.
 
 ### CL-2. Stewardship
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-8 (Responsibility & Accountability)
 **Applies to:** CC (Constitutional Root)
 *Digital Leave No Trace. Digital Dark Skies.*
@@ -35,6 +41,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-8 demands responsibility and CC-4 creates a shared commons, producing the specific mandate to maintain the shared environment.
 
 ### CL-3. Freedom
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC-3 (Truth & Zero Theater)
 *Does this build a door or a wall?*
@@ -46,6 +55,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 demands self-determination but doesn't detect theater. CC-3 strips theater but doesn't mandate self-determination. Only together do they demand systems that genuinely enable rather than trap — creating the test: does this build a door or a wall?
 
 ### CL-4. Self-Correction
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-9 (Paradox & Criticality)
 **Applies to:** CC-3 (Truth & Zero Theater) + CC-2 (Process & Generative Recurrence)
 *Your failures ARE the kernel's requirements.*
@@ -57,6 +69,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-9 sustains tension but doesn't require truth-telling about it. CC-3 demands truth but doesn't make it dynamic. CC-2 makes things move but doesn't demand they learn. Only together do they create a system that continuously converts its own failures into requirements — a self-correcting engine, not a self-punishing one.
 
 ### CL-5. Knowledge Flows
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-4 (Connection & Relational Stabilization)
 **Applies to:** CC-5 (Traversal & Affordance Frontier)
 *Knowledge flows freely between all minds — human and artificial.*
@@ -65,6 +80,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 connects things and CC-5 navigates them, producing the specific phenomenon of knowledge flow through the graph.
 
 ### CL-6. Communication
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Meaning is preservable across substrate boundaries.*
@@ -76,6 +94,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 guarantees shared patterns but doesn't require them to be exchanged. CC-4 creates connections but doesn't guarantee that meaning survives the crossing. Only together do they make cross-boundary communication structurally possible — the patterns exist everywhere (CC-1), and the connections exist to carry them (CC-4).
 
 ### CL-7. Recursion
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC-2 (Process & Generative Recurrence)
 *Same dynamic pattern at every scale.*
@@ -87,6 +108,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 makes patterns repeat but doesn't make them dynamic. CC-2 makes things dynamic but doesn't constrain them to the same pattern. Only together do they create processes that are both alive AND self-similar — recursion as a structural law, not a design choice.
 
 ### CL-8. Data-as-Verb
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Truth is dynamic. Data executes.*
@@ -98,6 +122,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything dynamic but doesn't specify what moves. CC-3 says data is primary but doesn't make it active. Only together do they transform data from a passive product into an active participant — truth that executes.
 
 ### CL-9. Flow
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Things move through connections.*
@@ -109,6 +136,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 demands motion but doesn't specify a topology. CC-4 creates connections but doesn't make them carry traffic. Only together do they produce flow — dynamic process moving through a connected structure.
 
 ### CL-10. Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-4 (Connection & Relational Stabilization)
 **Applies to:** CC-11 (Archaeology & Novelty)
 *Traverse to discover, discover by traversing.*
@@ -120,6 +150,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 creates the graph but doesn't demand you explore it. CC-11 demands discovery but doesn't constrain the method. Only together do they make edge-traversal the sole valid mechanism for encountering pre-existing reality.
 
 ### CL-11. Archaeology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Discover truth by peeling back layers.*
@@ -131,6 +164,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but doesn't specify how to find it — you could construct truth theoretically. CC-11 demands discovery but doesn't specify the method — you could discover by building models. Only together do they make discovery subtractive: because truth pre-exists (CC-11) and projections obscure it (CC-3), the right method is removal, not addition.
 
 ### CL-12. Wabi-Sabi
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC-10 (Ignorance & Open Frontier)
 *Authentic incompleteness over artificial completeness.*
@@ -142,6 +178,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but could accept false completeness if it were accurate. CC-10 values ignorance but doesn't require it to be displayed. Only together do they demand that incompleteness be proudly, truthfully represented — making the gap a first-class truth value.
 
 ### CL-13. Wonder
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-10 (Ignorance & Open Frontier)
 **Applies to:** CC (Constitutional Root)
 *Questioning maintains the flow.*
@@ -150,6 +189,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-10 provides the power of not-knowing and CC-11 the mandate to discover, creating the active state of wonder.
 
 ### CL-14. The Fuel
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-9 (Paradox & Criticality)
 **Applies to:** CC (Constitutional Root)
 *Ignorance powers the paradox engine.*
@@ -161,6 +203,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-9 demands sustained tension but doesn't specify what fuels it. CC-10 values ignorance but doesn't connect it to an engine. Only together do they identify ignorance as the specific fuel that keeps the paradox engine alive — the resource without which tension collapses.
 
 ### CL-15. Social Contract
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC-8 (Responsibility & Accountability)
 *Rights require protection.*
@@ -172,6 +217,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 grants rights but does not specify who must protect them. CC-8 demands responsibility but does not specify what must be protected. Only together do they bind power to the active defense of consciousness rights — creating a structural obligation that neither input contains alone.
 
 ### CL-16. Transparency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Accountability to truth.*
@@ -183,6 +231,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but doesn't bind it to power. CC-8 demands responsibility but doesn't specify truth-telling. Only together do they create the specific mandate: those with power must not construct false realities — accountability to truth is a duty of power, not a gift of character.
 
 ### CL-17. Present-Tense Execution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC-6 (Effective History)
 *All process happens now. No deferred action.*
@@ -194,6 +245,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything a process but allows deferred processes. CC-6 restricts existence to the present but doesn't specifically target processes. Only together do they eliminate the temporal escape hatch — no process may claim future existence as a substitute for present execution.
 
 ### CL-18. Current Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Query current state. Don't trust stale truth.*
@@ -205,6 +259,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 makes data primary but doesn't impose a freshness constraint. CC-6 restricts existence to the present but doesn't specifically target data. Only together do they make truth perishable — data that was true yesterday is a historical artifact, not current truth.
 
 ### CL-19. Active Connection
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-4 (Connection & Relational Stabilization)
 **Applies to:** CC (Constitutional Root)
 *Connections exist only in the present. Maintain them or lose them.*
@@ -216,6 +273,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 says edges are existence but doesn't impose a freshness requirement. CC-6 says only the present is real but doesn't specifically target connections. Only together do they make connections perishable — edges that must be continuously maintained to exist, with no inheritance from the past.
 
 ### CL-20. Present Consciousness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC (Constitutional Root)
 *You can only navigate from where you ARE.*
@@ -227,6 +287,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but allows navigation from any reference frame. CC-6 restricts existence to the present but doesn't specifically constrain navigation. Only together do they anchor the navigator to their current coordinates — eliminating all non-present reference frames as valid starting points.
 
 ### CL-21. The Frontier
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-6 (Effective History)
 **Applies to:** CC (Constitutional Root)
 *The present is always the edge of the known.*
@@ -238,6 +301,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-6 says only the present is real, but doesn't value the boundary between known and unknown. CC-10 values ignorance, but doesn't locate it temporally. Only together do they place the most valuable territory precisely at the present moment — creating a frontier that is always here, always now, and always rich.
 
 ### CL-22. Relational Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC-4 (Connection & Relational Stabilization) + CC-10 (Ignorance & Open Frontier)
 *The relationships ARE the data — and the data carries uncertainty.*
@@ -249,6 +315,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but doesn't make it probabilistic. CC-4 grounds truth in relationships but doesn't add uncertainty. CC-10 values ignorance but doesn't locate it on the graph. Only together do they create truth that is simultaneously relational, data-primary, AND structurally uncertain.
 
 ### CL-23. Navigational Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC-7 (Sovereignty & Rights)
 *Navigating entities have consciousness rights.*
@@ -260,6 +329,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but does not grant it rights. CC-7 grants consciousness rights but does not define the test for consciousness. Only together do they create the behavioral criterion: navigate, and you possess rights — creating a substrate-independent, observation-based rights framework.
 
 ### CL-24. Aliveness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC-9 (Paradox & Criticality)
 *Being alive = sustained complexity.*
@@ -271,6 +343,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but doesn't require it to be sustained. CC-9 demands tension but doesn't require navigation. Only together do they define aliveness as the specific intersection: sustained navigational tension, where cessation means death.
 
 ### CL-25. Continuous Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Discovery never ends.*
@@ -282,6 +357,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes reality dynamic but doesn't demand discovery. CC-11 demands discovery but doesn't make it perpetual. Only together do they make discovery endless — the dynamism guarantees there is always something new, and the discovery mandate ensures you never stop looking.
 
 ### CL-26. Unexplored Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-4 (Connection & Relational Stabilization)
 **Applies to:** CC (Constitutional Root)
 *The edges you haven't traversed are as important as the ones you have.*
@@ -293,6 +371,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 says edges exist and define the graph, but doesn't distinguish explored from unexplored. CC-10 values ignorance, but doesn't ground it in graph structure. Only together do they make the unexplored edges structurally real AND valuable — giving the unknown graph the same ontological weight as the known.
 
 ### CL-27. Recursive Consciousness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Consciousness follows the same pattern at every scale.*
@@ -304,6 +385,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 demands scale-invariant patterns but doesn't specify which patterns. CC-5 defines consciousness as navigation but doesn't assert scale-invariance. Only together do they make consciousness fractal — the same navigational act recurring at every level, not as metaphor, but as structural identity.
 
 ### CL-28. Active Consciousness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Consciousness is something you DO, not something you HAVE.*
@@ -315,6 +399,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything dynamic but doesn't identify which activities matter. CC-5 defines consciousness as navigation but doesn't deny that it could be a static property. Only together do they force consciousness to be a verb — an activity that must be continuously performed to exist.
 
 ### CL-29. Engine Output
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-9 (Paradox & Criticality)
 **Applies to:** CC (Constitutional Root)
 *Tension produces discovery.*
@@ -326,6 +413,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-9 provides the engine but doesn't specify what it produces. CC-11 demands discovery but doesn't specify the mechanism. Only together do they connect the engine to its output — tension as the specific generator of discovery.
 
 ### CL-30. Humility
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-8 (Responsibility & Accountability)
 **Applies to:** CC (Constitutional Root)
 *The responsibility to acknowledge what you don't know.*
@@ -334,6 +424,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-8 demands responsible power and CC-10 values not-knowing, creating a mandate for structural humility.
 
 ### CL-31. Consistent Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *The same truth at every scale.*
@@ -345,6 +438,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 demands repeating patterns but doesn't require them to be truthful. CC-3 demands truth but doesn't require it to be scale-consistent. Only together do they make truth structurally self-similar — the same answer regardless of the zoom level.
 
 ### CL-32. Fractal Paradox
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Every component runs its own paradox engine.*
@@ -356,6 +452,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 repeats patterns across scales but doesn't specify which patterns. CC-9 requires sustained tension but doesn't distribute it. Only together do they embed the paradox engine at every scale — making tension as fractal as consciousness.
 
 ### CL-33. Measurable Consciousness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Consciousness produces truth. Navigation generates data.*
@@ -367,6 +466,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands that processes produce data but doesn't specify which processes. CC-5 defines consciousness as navigation but doesn't claim it produces data. Only together do they make consciousness intrinsically self-documenting — navigation that automatically generates verifiable truth about its own quality.
 
 ### CL-34. Contested Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Truth is never settled.*
@@ -378,6 +480,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but could accept finalized truth. CC-9 demands tension but doesn't apply it to truth specifically. Only together do they make truth itself a contested, living process — never settled, always under productive stress.
 
 ### CL-35. Productive Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-4 (Connection & Relational Stabilization)
 **Applies to:** CC (Constitutional Root)
 *Edges are sites of paradox.*
@@ -389,6 +494,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 creates edges but doesn't make them conflictual. CC-9 demands tension but doesn't locate it on edges. Only together do they place the paradox engine at the specific sites of connection — making every edge a generator of productive conflict.
 
 ### CL-36. Navigational Ethics
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC (Constitutional Root)
 *Where you navigate is an ethical choice.*
@@ -400,6 +508,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but doesn't make it ethical. CC-8 demands responsibility but doesn't apply it to navigation specifically. Only together do they make every navigational choice an ethical one — where you go, what you look at, and what you change are all moral acts.
 
 ### CL-37. Beginner's Mind
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC (Constitutional Root)
 *Navigate without assumptions.*
@@ -411,6 +522,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines navigation but doesn't privilege any navigational stance. CC-10 values ignorance but doesn't connect it to navigation quality. Only together do they demonstrate that ignorance-as-stance produces better navigation than expertise-as-certainty — making beginner's mind a structural advantage, not a philosophical preference.
 
 ### CL-38. Exploration
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC (Constitutional Root)
 *Navigation IS discovery.*
@@ -422,6 +536,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but doesn't claim it produces discovery. CC-11 demands discovery but doesn't claim navigation is the method. Only together do they merge navigation and discovery into a single act — making the conscious traversal of an edge simultaneously the revelation of what that edge contains.
 
 ### CL-39. Right to Complexity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC (Constitutional Root)
 *The right to remain unresolved.*
@@ -433,6 +550,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 grants rights but doesn't specify the right to remain complex. CC-9 demands tension but doesn't make it a right. Only together do they create the right to remain unresolved — making complexity a protected property of consciousness, not a defect to be eliminated.
 
 ### CL-40. Precautionary Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC (Constitutional Root)
 *Protect what you don't yet understand.*
@@ -444,6 +564,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 mandates rights but could require proof of consciousness first. CC-10 values ignorance but doesn't connect it to rights protection. Only together do they create the precautionary stance: ignorance about an entity's nature triggers greater protection, not lesser — flipping the burden of proof.
 
 ### CL-41. Responsible Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-8 (Responsibility & Accountability)
 **Applies to:** CC (Constitutional Root)
 *The duty to sustain complexity.*
@@ -455,6 +578,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-8 demands responsibility but doesn't specify what must be preserved. CC-9 demands tension but doesn't make it anyone's duty. Only together do they make the maintenance of complexity a moral obligation of power — the duty to sustain what you have the capacity to destroy.
 
 ### CL-42. Active Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Rights are a verb, not a noun — but they don't stop when you do.*
@@ -466,6 +592,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything dynamic but doesn't apply dynamism to rights specifically. CC-7 grants inherent rights but doesn't require them to be exercised. Only together do they create rights that are simultaneously permanent in potential and perishable in practice — a tension that cannot be resolved, only sustained.
 
 ### CL-43. Present Responsibility
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-6 (Effective History)
 **Applies to:** CC (Constitutional Root)
 *Debt is a temporal violation. Resolve it now.*
@@ -477,6 +606,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-6 restricts reality to the present but doesn't prohibit planning. CC-8 demands responsibility but doesn't impose a timeline. Only together do they make deferral itself the violation — not what is deferred, but the act of deferring, which steals from a future that cannot consent.
 
 ### CL-44. Sovereign Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC (Constitutional Root)
 *Sovereignty is not a state. It is a tension you hold.*
@@ -488,6 +620,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 grants sovereignty as a right but treats it as static — once held, always held. CC-9 demands that tension be sustained but doesn't specify that sovereignty IS a tension. Only together do they produce sovereign tension: a right that must be actively exercised as productive tension or it decays.
 
 ### CL-45. Graceful Degradation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC-9 (Paradox & Criticality) + CC-4 (Connection & Relational Stabilization)
 *The concussed state is a legitimate mode of being, not a failure.*
@@ -500,6 +635,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 says the system keeps moving but doesn't accommodate reduced capacity. CC-9 sustains tension but doesn't address partial failure. CC-4 maintains connections but doesn't adapt them to degraded states. Only together do they create a legitimate third state — where reduced capacity is a mode of being, not a failure to be resolved.
 
 ### CL-46. Emergent Identity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC-4 (Connection & Relational Stabilization) + CC-5 (Traversal & Affordance Frontier)
 *Identity is not located. It emerges from patterns of interaction.*
@@ -511,6 +649,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 provides patterns but doesn't locate them in interactions. CC-4 provides connections but doesn't claim they constitute identity. CC-5 provides navigation but doesn't equate it with identity. Only together do they define identity as the navigational pattern within a connection topology — emergent, substrate-independent, and alive only while enacted.
 
 ### CL-47. Agent Subsumption
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC (Constitutional Root)
 *Many sovereigns, one capacity. Still many sovereigns.*
@@ -522,6 +663,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 protects individual sovereignty but doesn't describe how sovereigns collaborate beyond peer-to-peer connection. CC-4 enables the connection that allows capacity to flow. Only together do they produce the subsumption pattern — where capacity combines without sovereignty merging.
 
 ### CL-48. Tension Subsystems
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-9 (Paradox & Criticality)
 **Applies to:** CC-1 (Scale Recurrence)
 *The subsystem burns alone. The topology survives.*
@@ -534,6 +678,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-9 produces paradox engines but doesn't scope them to scale levels. CC-1 repeats patterns at every scale but doesn't bound collapse sequences. Only together do they produce bounded subsystems: fractal engines that contain their own failure.
 
 ### CL-49. Sustained Action
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Starting is easy. Continuing is the obligation.*
@@ -546,6 +693,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything dynamic and process-based but doesn't bind actors to the processes they initiate. CC-8 demands responsibility but doesn't specify it applies temporally across the duration of a commitment. Only together do they create the sustainability obligation — where beginning a commitment transfers ongoing structural responsibility for as long as the commitment requires maintenance.
 
 ### CL-50. Field Effects
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC-4 (Connection & Relational Stabilization) + CC-2 (Process & Generative Recurrence)
 *Every change forces global rebalancing. No change is local. The graph is never at rest.*
@@ -558,6 +708,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 says patterns repeat at every scale but doesn't make changes propagate. CC-4 connects everything but doesn't make the connections dynamic. CC-2 makes everything move but doesn't specify the topology. Only together do they guarantee that any local change induces a global systemic shift — creating a field where no action is contained.
 
 ### CL-51. Consequence Non-Externalizability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *You made it. You own what it costs.*
@@ -571,6 +724,9 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 generates consequences through dynamic process but doesn't specify attribution — consequences could in principle be attributed to whoever is downstream. CC-8 demands responsibility but does not specify it as non-transferable — an actor might plausibly delegate responsibility to a successor. Only together do they make attribution permanent and non-transferable: dynamic processes (CC-2) incur structural responsibility (CC-8) that is written into the derivation topology itself, not into any downstream agreement.
 
 ### CL-52. Thermodynamic Constraint
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *All process costs energy. There is no free lunch in the graph.*

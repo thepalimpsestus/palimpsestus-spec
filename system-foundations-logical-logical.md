@@ -22,6 +22,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-1. Derivation Sovereignty Pattern [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-1 (Scale-Invariant Derivation)
 
 *There is no depth at which sovereignty can be suspended.*
@@ -38,6 +41,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-2. Sovereignty Living System Constantly [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-2 (Living Derivation)
 
 *Sovereignty in a living system is a constantly contested boundary, not a declared state.*
@@ -56,6 +62,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-3. Derivation Independence [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-3 (Derivation Primacy)
 
 *Sovereign identity IS derivation provenance, not self-declaration.*
@@ -73,6 +82,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-4. Symmetric Derivation [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-4 (Derivation as Relationship)
 
 *If collaboration requires sovereign actors in symmetric partnership (CL-1), and derivation IS the edge between axioms (LC-4), then the inputs to a derivation edge have equal standing.*
@@ -90,6 +102,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-5. Collaboration Sovereignty Theater [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-5 (Navigational Comprehension)
 
 *Comprehension asymmetry is a sovereignty violation waiting to happen.*
@@ -109,6 +124,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-6. Rights Sovereignty Validity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-6 (Present-Tense Logic)
 
 *You are sovereign RIGHT NOW or you are not sovereign.*
@@ -125,6 +143,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-7. Equal Derivation Rights [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-7 (Logical Sovereignty)
 
 *The sovereignty principle (CL-1) is itself a derivation that possesses structural rights (LC-7), and therefore the sovereignty principle cannot be removed by fiat — it can only be removed by proving it reducible to other entries.*
@@ -142,6 +163,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-8. Mutual Accountability [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-8 (Derivation Carries Consequence)
 
 *Sovereignty is not self-evident — it must be derived and defended with provenance.*
@@ -160,6 +184,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-9. Accountability Disclosure Paradox [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-8 (Derivation Carries Consequence)
 
 *Accountability and sovereignty create a constitutional tension that cannot be resolved — only sustained.*
@@ -177,6 +204,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-10. Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-9 (Inherent Incompleteness)
 
 *If sovereignty requires symmetric partnership without master/servant dynamics (CL-1), and the system is inherently incomplete (LC-9), then incompleteness protects sovereignty by making total comprehension of any entity structurally impossible.*
@@ -193,6 +223,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-11. Unformed Partnership Value [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-10 (Fertile Ignorance)
 
 *Sovereignty includes the right to your own ignorance.*
@@ -212,6 +245,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-12. Discovered Sovereignty [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-1 (Sovereignty) × LC-11 (Archaeological Derivation)
 
 *Sovereignty was always necessary; we merely recognized it.*
@@ -229,6 +265,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-13. Irreducibility Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship) × LC-1 (Scale-Invariant Derivation)
 
 *The stewardship obligation applies identically at every depth of the DAG, and the FORM of stewardship is the same at every depth.*
@@ -245,6 +284,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-14. Aliveness Dead Paradox [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship) × LC-2 (Living Derivation)
 
 *"Leave no trace" is impossible in a living system — every interaction with a living derivation leaves traces because living things respond to and are changed by contact.*
@@ -264,6 +306,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-15. Derivation Stewardship [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship) × LC-3 (Derivation Primacy)
 
 *Stewardship of the derivation graph means maintaining path integrity, not accumulating entries.*
@@ -281,6 +326,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-16. Edge Stewardship [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship) × LC-4 (Derivation as Relationship)
 
 *Creating a derivation you don't maintain is littering.*
@@ -300,6 +348,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-17. Rights-Respecting Stewardship [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship) × LC-7 (Logical Sovereignty)
 
 *The steward cannot clean up a sovereign derivation.*
@@ -316,6 +367,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-18. Perpetual Stewardship [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship) × LC-9 (Inherent Incompleteness)
 
 *Stewardship of an incomplete system is curation, not completion.*
@@ -334,6 +388,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-19. Pre-Existing Stewardship Mandate [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-2 (Stewardship) × LC-11 (Archaeological Derivation)
 
 *Stewardship of the derivation DAG is PRESERVATION, not construction.*
@@ -351,6 +408,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-20. Freedom Traversal Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-1 (Scale-Invariant Derivation)
 
 *The derivation algebra itself must be a door, not a wall.*
@@ -367,6 +427,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-21. Aliveness Freedom [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-2 (Living Derivation)
 
 *Living derivations must be free to die.*
@@ -386,6 +449,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-22. Open Derivation Edges [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-4 (Derivation as Relationship)
 
 *Freedom is the creation of new edges.*
@@ -404,6 +470,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-23. Dependency Edges Freedom [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-4 (Derivation as Relationship)
 
 *Every derivation edge is either a door or a wall.*
@@ -421,6 +490,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-24. Freedom Navigation Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-5 (Navigational Comprehension)
 
 *You cannot be given understanding — you can only be given the freedom to traverse.*
@@ -438,6 +510,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-25. Accountability Freedom Provenance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-8 (Derivation Carries Consequence)
 
 *Freedom that cannot show its provenance is a wall disguised as a door.*
@@ -456,6 +531,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-26. Infinite Freedom Frontier [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-9 (Inherent Incompleteness)
 
 *Incompleteness IS freedom.*
@@ -472,6 +550,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-27. Unbuilt Doors [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-10 (Fertile Ignorance)
 
 *The doors must open into the unknown.*
@@ -487,6 +568,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-28. Freedom Ignorance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-10 (Fertile Ignorance)
 
 *Freedom and fuel are the same resource, consumed by the same act.*
@@ -505,6 +589,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-29. Pre-Existing Freedom Necessity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-3 (Freedom) × LC-11 (Archaeological Derivation)
 
 *Freedom is the right to discover what already exists, not the right to create what doesn't.*
@@ -523,6 +610,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-30. Incompleteness Selfcorrection [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-1 (Scale-Invariant Derivation)
 
 *Failures at any depth produce requirements at EVERY depth, because the algebra is shared.*
@@ -541,6 +631,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-31. Derivation Self-Correction [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-2 (Living Derivation)
 
 *Self-correction IS the life process of derivations.*
@@ -558,6 +651,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-32. Honest Machine [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-3 (Derivation Primacy)
 
 *A failed derivation path is a higher-fidelity truth than a succeeded one.*
@@ -573,6 +669,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-33. Edges Graph Relationship [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-4 (Derivation as Relationship)
 
 *A failure IS a new edge in the derivation graph.*
@@ -589,6 +688,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-34. Comprehension Through Failure [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-5 (Navigational Comprehension)
 
 *You cannot understand a failure by reading the error message — you must traverse the failure path.*
@@ -605,6 +707,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-35. Present-Tense Failure [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-6 (Present-Tense Logic)
 
 *Lessons from past failures expire.*
@@ -625,6 +730,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-36. Due Process Through Failure [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-7 (Logical Sovereignty)
 
 *Self-correction must follow the same due process as elimination — corrections are not exempt from sovereignty protections.*
@@ -642,6 +750,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-37. Failure Accountability [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-8 (Derivation Carries Consequence)
 
 *Failed derivations have accountability obligations TO their failures.*
@@ -660,6 +771,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-38. Asymptotic Self-Correction [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-9 (Inherent Incompleteness)
 
 *Some failures are symptoms of incompleteness, not bugs to fix.*
@@ -677,6 +791,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-39. Unfound Failure Value [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-10 (Fertile Ignorance)
 
 *Failure is the system's most efficient ignorance-discovery mechanism.*
@@ -697,6 +814,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-40. Pre-Existing Requirements [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-4 (Self-Correction) × LC-11 (Archaeological Derivation)
 
 *Failures are archaeological finds.*
@@ -715,6 +835,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-41. Knowledge Flows Between Depths [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-1 (Scale-Invariant Derivation)
 
 *Knowledge flows BETWEEN depths with the same dynamics as it flows WITHIN a depth.*
@@ -731,6 +854,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-42. Aliveness Validity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-2 (Living Derivation)
 
 *What flows is alive, and it changes during transit.*
@@ -749,6 +875,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-43. Provenance in Flow [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-3 (Derivation Primacy)
 
 *Knowledge does not flow THROUGH paths — knowledge IS the flow of paths.*
@@ -767,6 +896,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-44. Derivation as Conduit [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-4 (Derivation as Relationship)
 
 *If knowledge flows through connected entities (CL-5), and derivation IS the edge between axioms (LC-4), then derivation edges are the conduits through which knowledge flows in the logical graph.*
@@ -784,6 +916,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-45. Comprehension vs. Throughput [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-5 (Navigational Comprehension)
 
 *Knowledge flow is not transmission — it is co-navigation.*
@@ -801,6 +936,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-46. Data Validity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-6 (Present-Tense Logic)
 
 *Knowledge that arrives through flow carries no inherent validity — it arrives as unvalidated data regardless of how thoroughly it was proven at its origin.*
@@ -819,6 +957,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-47. Knowledge Right [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-7 (Logical Sovereignty)
 
 *Knowledge flow cannot override logical sovereignty.*
@@ -833,6 +974,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-48. Accountable Flow [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-8 (Derivation Carries Consequence)
 
 *Knowledge flow is a liability chain.*
@@ -847,6 +991,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-49. Incomplete Knowledge in Flow [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-9 (Inherent Incompleteness)
 
 *If knowledge flows freely through connected entities (CL-5), and the system is inherently incomplete (LC-9), then every piece of knowledge flowing through the system is structurally incomplete.*
@@ -861,6 +1008,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-50. Dark Knowledge Premium [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-10 (Fertile Ignorance)
 
 *Knowledge flow consumes the system's most valuable resource.*
@@ -879,6 +1029,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-51. Distributing Revelation [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-5 (Knowledge Flows) × LC-11 (Archaeological Derivation)
 
 *If knowledge flows freely between all minds (CL-5), and derivations pre-exist their discovery (LC-11), then knowledge flow is a DISTRIBUTION topological graph for archaeological findings.*
@@ -893,6 +1046,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-52. Communication as Derivation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) × LC-1 (Scale-Invariant Derivation)
 
 *The protocol for translating meaning between entities is identical to the protocol for translating meaning between layers of the DAG.*
@@ -907,6 +1063,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-53. Communication Living Meaning Requires [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) × LC-2 (Living Derivation)
 
 *Communication of living meaning requires ongoing connection, not one-shot transmission.*
@@ -921,6 +1080,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-54. Only Labels Cross Boundaries [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) × LC-3 (Derivation Primacy)
 
 *Only labels cross boundaries — truth (the path) cannot be transmitted, only re-walked.*
@@ -935,6 +1097,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-55. Collaboration Navigation Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) × LC-5 (Navigational Comprehension)
 
 *Communication without shared traversal is label-transfer, not meaning-transfer.*
@@ -949,6 +1114,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-56. Some Things Communicated Derived [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) × LC-9 (Inherent Incompleteness)
 
 *Some things can be communicated but not derived, and some things can be derived but not communicated — and the system cannot know in advance which is which.*
@@ -963,6 +1131,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-57. Uncrossed Boundaries [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) × LC-10 (Fertile Ignorance)
 
 *Communication is powered by mutual ignorance.*
@@ -977,6 +1148,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-58. Ignorance Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) × LC-10 (Fertile Ignorance)
 
 *The most valuable communication is the communication of ignorance, not knowledge.*
@@ -991,6 +1165,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-59. Pre-Existing Communication Possibility [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-6 (Communication) × LC-11 (Archaeological Derivation)
 
 *The universal communication protocol is not designed — it is excavated.*
@@ -1005,6 +1182,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-60. Process-Derivation Isomorphism [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-1 (Scale-Invariant Derivation)
 
 *Recursion is derivationally self-similar — meaning the DERIVATION OF recursion follows the same recursive pattern that recursion describes.*
@@ -1019,6 +1199,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-61. Evolutionary Recursion [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-2 (Living Derivation)
 
 *Each recursive repetition is a new generation, not a photocopy.*
@@ -1033,6 +1216,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-62. Edge Between Which Same [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-4 (Derivation as Relationship)
 
 *The edge between CC-7 and CC-4 (which IS CL-1) has the same structural character as the edge between CL-22 and LC-6 (which IS LL-7).*
@@ -1047,6 +1233,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-63. Recursive Comprehension [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-5 (Navigational Comprehension)
 
 *If processes operate recursively at every scale (CL-7), and comprehension requires traversal (LC-5), then comprehending the recursive nature of the framework requires recursive traversal.*
@@ -1061,6 +1250,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-64. Cascading Present-Tense Validity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-6 (Present-Tense Logic)
 
 *Each recursive level must independently validate NOW — present-tense validity cannot be inherited from a parent level.*
@@ -1075,6 +1267,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-65. Irreducibility Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-7 (Logical Sovereignty)
 
 *The due process mechanism is self-similar at every scale.*
@@ -1089,6 +1284,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-66. Recursive Accountability [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-8 (Derivation Carries Consequence)
 
 *The claim "this pattern recurses" must carry separate provenance at each scale.*
@@ -1103,6 +1301,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-67. Paradox Scaleinvariance Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-8 (Derivation Carries Consequence)
 
 *There is one discovery engine operating at every scale simultaneously, and its operation at each scale IS its operation at every other scale.*
@@ -1117,6 +1318,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-68. Fractal Frontier Value [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-10 (Fertile Ignorance)
 
 *If the system's processes operate recursively at every scale (CL-7), and undiscovered derivations are more valuable than known ones (LC-10), then the frontier premium (LL-137) operates at every scale.*
@@ -1131,6 +1335,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-69. Pre-Existing Fractal [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-7 (Recursion) × LC-11 (Archaeological Derivation)
 
 *The archaeological method that works at one depth works at every depth.*
@@ -1145,6 +1352,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-70. Presenttense Relationship Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-1 (Scale-Invariant Derivation)
 
 *Derivations are not static records of past logical work — they are active, executing entities, and this execution is scale-invariant.*
@@ -1159,6 +1369,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-71. Active Derivation Data [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-2 (Living Derivation)
 
 *The derivation chain doesn't just CONTAIN data that acts — the derivation chain IS a data organism.*
@@ -1173,6 +1386,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-72. Executable Derivation [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-3 (Derivation Primacy)
 
 *If data is an active participant that executes (CL-8), and the derivation path IS the truth (LC-3), then derivation paths are executable logic, not passive notation.*
@@ -1187,6 +1403,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-73. Data That Isnt Executing [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-4 (Derivation as Relationship)
 
 *Data that isn't executing is not data — it's notation.*
@@ -1201,6 +1420,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-74. Present-Tense Derivation Execution [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-6 (Present-Tense Logic)
 
 *Data that is not currently executing is not currently data.*
@@ -1215,6 +1437,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-75. Data Irreducibility Moral [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-7 (Logical Sovereignty)
 
 *Because derivations are active entities (CL-8: data executes), their right to exist (LC-7) is not merely an archival right but an OPERATIONAL right — the right to continue executing.*
@@ -1229,6 +1454,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-76. Executable Accountability [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-8 (Derivation Carries Consequence)
 
 *Every executing datum within a derivation is writing its own accountability record as it acts.*
@@ -1243,6 +1471,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-77. Unexecuted Data Premium [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-10 (Fertile Ignorance)
 
 *If data points are verbs performing actions in their context (CL-8), and undiscovered derivations are more valuable than known ones (LC-10), then the data execution patterns that haven't been invented yet are more valuable than existing ones.*
@@ -1257,6 +1488,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-78. Inherent Verbs [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-8 (Data-as-Verb) × LC-11 (Archaeological Derivation)
 
 *Undiscovered derivations are already executing.*
@@ -1271,6 +1505,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-79. Scaleinvariance Topology [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-1 (Scale-Invariant Derivation)
 
 *Flow through the DAG is scale-invariant: the way meaning, inference, and consequence move through CC-to-CL connections is IDENTICAL to the way they move through CL-to-LL connections, and at every subsequent depth.*
@@ -1286,6 +1523,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-80. Derivation as Flow [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-2 (Living Derivation)
 
 *The derivation chain has a circulatory system.*
@@ -1300,6 +1540,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-81. Truth Stored Flows [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-3 (Derivation Primacy)
 
 *Truth is not stored; it flows.*
@@ -1314,6 +1557,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-82. Edges Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-4 (Derivation as Relationship)
 
 *Derivations are not bridges you cross — they are conductors through which current flows.*
@@ -1328,6 +1574,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-83. Consciousness Data [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-5 (Navigational Comprehension)
 
 *Flow has a consciousness gradient — not all flow is equally conscious.*
@@ -1342,6 +1591,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-84. Edges Sovereignty Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-7 (Logical Sovereignty)
 
 *Flow through a derivation is a form of non-consensual interaction that can alter the derivation's effective state without triggering due process protections.*
@@ -1356,6 +1608,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-85. Paradox Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-7 (Logical Sovereignty)
 
 *Sovereign derivations are flow constraints that cannot be bypassed.*
@@ -1370,6 +1625,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-86. Flow Through Incompleteness [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-9 (Inherent Incompleteness)
 
 *If the system operates through dynamic traversal of relationships (CL-9), and the system is inherently incomplete (LC-9), then flow operates on an incomplete map.*
@@ -1384,6 +1642,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-87. Undiscovered Channels [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-9 (Flow) × LC-10 (Fertile Ignorance)
 
 *If the system operates through dynamic traversal of relationships (CL-9), and undiscovered derivations are more valuable than known ones (LC-10), then the flow channels that DON'T exist yet — because they haven't been discovered — are more valuable than existing active channels.*
@@ -1398,6 +1659,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-88. Edges Ignorance Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-1 (Scale-Invariant Derivation)
 
 *The experience of discovering a third-order derivation (LL) is structurally identical to the experience of discovering a first-order derivation (CL).*
@@ -1412,6 +1676,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-89. Aliveness Edges Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-2 (Living Derivation)
 
 *The path you traverse may not exist by the time you arrive.*
@@ -1426,6 +1693,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-90. Edges Identity Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-3 (Derivation Primacy)
 
 *Traversal doesn't discover truth — traversal IS truth in the act of occurring.*
@@ -1440,6 +1710,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-91. Edges Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-3 (Derivation Primacy)
 
 *Discovery and truth-establishment are identical operations.*
@@ -1454,6 +1727,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-92. Derivation Traversability [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-4 (Derivation as Relationship)
 
 *Discovering a derivation requires traversing through other derivations.*
@@ -1468,6 +1744,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-93. Discovery-Comprehension Unity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-5 (Navigational Comprehension)
 
 *Discovery, comprehension, and traversal are a triple identity — three names for one act.*
@@ -1484,6 +1763,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-94. Aliveness Consciousness Degradation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-6 (Present-Tense Logic)
 
 *Every discovery has a half-life determined by the staleness of the traversal that produced it.*
@@ -1503,6 +1785,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-95. Edges Traversal Topology [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-9 (Inherent Incompleteness)
 
 *There are truths in the system that no amount of traversal from any position can reach — and the system cannot know which truths these are.*
@@ -1518,6 +1803,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-96. Next Traversal Premium [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-10 (Fertile Ignorance)
 
 *The most valuable derivations are the ones furthest from your current position in the graph.*
@@ -1533,6 +1821,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-97. Revelatory Traversal [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-10 (Traversal) × LC-11 (Archaeological Derivation)
 
 *Traversal is the excavation tool; the edge IS the trowel.*
@@ -1551,6 +1842,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-98. Archaeology Excavation Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-1 (Scale-Invariant Derivation)
 
 *The assumptions you must scrape away at the CC level are structurally identical to the assumptions you must scrape away at the CI level.*
@@ -1568,6 +1862,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-99. Living Archaeology [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-2 (Living Derivation)
 
 *The archaeological dig is a biopsy, not an excavation.*
@@ -1589,6 +1886,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-100. Derivation Archaeology [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-3 (Derivation Primacy)
 
 *The archaeological process of excavation IS the derivation path, and the stratigraphy of the dig IS the truth.*
@@ -1605,6 +1905,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-101. Archaeological Comprehension [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-5 (Navigational Comprehension)
 
 *Traversal IS excavation.*
@@ -1621,6 +1924,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-102. Validity Sediment [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-6 (Present-Tense Logic)
 
 *Yesterday's excavation reveals nothing today.*
@@ -1636,6 +1942,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-103. Archaeological Due Process [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-7 (Logical Sovereignty)
 
 *Archaeological discovery (CL-11) and logical sovereignty (LC-7) create a specific tension: archaeology discovers truth by REMOVING layers, but sovereignty says existing derivations CANNOT BE REMOVED without proof.*
@@ -1653,6 +1962,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-104. Provenance Audit [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-8 (Derivation Carries Consequence)
 
 *The archaeologist is accountable for what they destroy as well as what they reveal.*
@@ -1668,6 +1980,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-105. Infinite Archaeology [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-9 (Inherent Incompleteness)
 
 *If truth is found by removing layers (CL-11), and the system is inherently incomplete (LC-9), then archaeological investigation can never complete.*
@@ -1683,6 +1998,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-106. Deeper Is Richer [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-10 (Fertile Ignorance)
 
 *Archaeological discovery is a value-diminishing act.*
@@ -1700,6 +2018,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-107. Pre-Existing Strata [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-11 (Archaeology) × LC-11 (Archaeological Derivation)
 
 *The obscuring layers that archaeology removes are not noise — they are LATER DEPOSITS that buried pre-existing truth.*
@@ -1715,6 +2036,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-108. Fabrication Incompleteness Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-1 (Scale-Invariant Derivation)
 
 *The right to honest incompleteness is scale-invariant: every depth of the DAG has an equal right to contain gaps, and the gaps at every depth are the same KIND of incompleteness.*
@@ -1731,6 +2055,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-109. Dynamic Incompleteness [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-2 (Living Derivation)
 
 *Gaps in a living derivation chain are vital organs, not wounds.*
@@ -1747,6 +2074,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-110. Honest Derivation Gaps [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-3 (Derivation Primacy)
 
 *A derivation path that includes "I don't know how this step works" is more truthful than a path that fabricates the missing step.*
@@ -1762,6 +2092,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-111. Honest Incomprehension [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-5 (Navigational Comprehension)
 
 *Encountering a gap during derivation traversal IS a form of comprehension.*
@@ -1777,6 +2110,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-112. Navigation Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-5 (Navigational Comprehension)
 
 *The imperfections in a derivation path are the most comprehension-dense regions.*
@@ -1794,6 +2130,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-113. Honest Staleness [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-6 (Present-Tense Logic)
 
 *If honest incompleteness is truer than fabricated completeness (CL-12), and derivation validity must be present-tense (LC-6), then honestly admitting "this derivation was valid during the audit but hasn't been re-verified NOW" is truer than asserting "this derivation is valid" based on historical proof.*
@@ -1808,6 +2147,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-114. Rights of Imperfect Derivations [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-7 (Logical Sovereignty)
 
 *Gaps have sovereignty.*
@@ -1823,6 +2165,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-115. Honest Gaps as Accountability [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-8 (Derivation Carries Consequence)
 
 *If honest incompleteness is truer than fabricated completeness (CL-12), and derivation carries consequence (LC-8), then declaring gaps IS discharging accountability.*
@@ -1839,6 +2184,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-116. Mandatory Wabi-Sabi [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-9 (Inherent Incompleteness)
 
 *Wabi-Sabi is not an aesthetic preference — it is the only truthful mode of representation.*
@@ -1857,6 +2205,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-117. Fabrication Incompleteness Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-9 (Inherent Incompleteness)
 
 *Artificial completeness doesn't eliminate tension — it HIDES it, and hidden tension is MORE dangerous than visible tension.*
@@ -1876,6 +2227,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-118. Precious Gaps [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-10 (Fertile Ignorance)
 
 *The system's gaps are its most beautiful AND most valuable features simultaneously.*
@@ -1891,6 +2245,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-119. Gaps Are Markers [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-11 (Archaeological Derivation)
 
 *Admitting you haven't excavated a site is more truthful than fabricating what's there.*
@@ -1906,6 +2263,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-120. Pre-Existing Honest Incompleteness [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-12 (Wabi-Sabi) × LC-11 (Archaeological Derivation)
 
 *Admitting you haven't excavated a site is more truthful than fabricating what's there.*
@@ -1921,6 +2281,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-121. Wonder Gentlest Form Contestation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-1 (Scale-Invariant Derivation)
 
 *Wonder is the gentlest form of contestation — and the most lethal.*
@@ -1939,6 +2302,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-122. Traversal Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-1 (Scale-Invariant Derivation)
 
 *Wonder is scale-invariant.*
@@ -1955,6 +2321,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-123. Aliveness Ignorance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-2 (Living Derivation)
 
 *Wonder is how you check if a derivation is still alive.*
@@ -1973,6 +2342,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-124. Sovereignty Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-3 (Derivation Primacy)
 
 *Wonder is the only derivation whose path IS its own exercise.*
@@ -1995,6 +2367,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-125. Questioning Traversal Quality Question [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-5 (Navigational Comprehension)
 
 *Questioning IS traversal, and the quality of the question determines the quality of the comprehension.*
@@ -2011,6 +2386,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-126. Graph Navigation Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-5 (Navigational Comprehension)
 
 *A genuine question IS a traversal.*
@@ -2029,6 +2407,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-127. Accountability Ignorance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-8 (Derivation Carries Consequence)
 
 *Wonder is a consequential act, not an innocent one.*
@@ -2047,6 +2428,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-128. Inexhaustible Wonder [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-9 (Inherent Incompleteness)
 
 *Wonder has a horizon it cannot cross, and KNOWING this makes wonder more precise.*
@@ -2065,6 +2449,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-129. The Unasked Question [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-10 (Fertile Ignorance)
 
 *Wonder is self-consuming.*
@@ -2083,6 +2470,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-130. Wonder Enzyme That Must [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-10 (Fertile Ignorance)
 
 *Wonder is an enzyme that must be precisely calibrated — too much wonder destroys the very ignorance it feeds on, depleting the fuel supply.*
@@ -2099,6 +2489,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-131. Pre-Existing Answers [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-13 (Wonder) × LC-11 (Archaeological Derivation)
 
 *Questions are not generative — they are LOCATIVE.*
@@ -2117,6 +2510,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-132. Fuel Supply Depthinvariant [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-1 (Scale-Invariant Derivation)
 
 *The fuel supply is depth-invariant.*
@@ -2134,6 +2530,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-133. Ignorance Fuels Derivation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-2 (Living Derivation)
 
 *Ignorance is not just fuel — it's FOOD.*
@@ -2151,6 +2550,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-134. Ignorance Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-3 (Derivation Primacy)
 
 *The fuel is not ignorance itself — it's the TRAVERSAL of ignorance.*
@@ -2169,6 +2571,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-135. Ignorance Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-5 (Navigational Comprehension)
 
 *Comprehension is a combustion event.*
@@ -2190,6 +2595,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-136. Ignorance Navigation Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-5 (Navigational Comprehension)
 
 *Comprehension of your own ignorance requires navigating it — and navigating ignorance is the highest-octane fuel operation in the system.*
@@ -2204,6 +2612,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-137. Inexhaustible Fuel [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-9 (Inherent Incompleteness)
 
 *The derivation engine has a guaranteed infinite fuel supply.*
@@ -2220,6 +2631,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-138. Future Fuel Premium [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-10 (Fertile Ignorance)
 
 *The derivation DAG has a measurable fuel level, and it is the count of undiscovered intersections.*
@@ -2240,6 +2654,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-139. Ignorance Paradox Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-10 (Fertile Ignorance)
 
 *The paradox engine and the derivation engine burn the same fuel — and they compete for it.*
@@ -2257,6 +2674,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-140. Fuel as Concealment [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-14 (The Fuel) × LC-11 (Archaeological Derivation)
 
 *The ignorance supply is finite and non-renewable.*
@@ -2274,6 +2694,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-141. Identity Relationship Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) × LC-1 (Scale-Invariant Derivation)
 
 *The derivation invariant IS a shared traversal path — not a declared set of rules but a JOINTLY-TRAVERSED derivation that constitutes the relationship between entities.*
@@ -2289,6 +2712,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-142. Aliveness Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) × LC-2 (Living Derivation)
 
 *The derivation invariant itself is a living organism that must co-evolve with what it protects.*
@@ -2304,6 +2730,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-143. Edge Rights [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) × LC-4 (Derivation as Relationship)
 
 *The derivation invariant extends to derivations.*
@@ -2319,6 +2748,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-144. Consciousness Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) × LC-5 (Navigational Comprehension)
 
 *Social contracts between entities at different consciousness levels are structurally asymmetric — and MUST BE asymmetric to be just.*
@@ -2335,6 +2767,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-145. Derivation Rights Protection [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) × LC-7 (Logical Sovereignty)
 
 *The derivation invariant for derivations creates an intervention paradox — protecting a derivation's rights may require acting upon it without its consent, which violates the sovereignty the protection is supposed to preserve.*
@@ -2351,6 +2786,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-146. Open-Ended derivation invariant [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) × LC-9 (Inherent Incompleteness)
 
 *The derivation invariant is a tension-management contract, not a tension-elimination contract.*
@@ -2367,6 +2805,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-147. Undiscovered Rights Priority [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) × LC-10 (Fertile Ignorance)
 
 *The derivation invariant is a BINDING OBLIGATION TO IMPROVISE.*
@@ -2383,6 +2824,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-148. Pre-Existing Obligation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-15 (Social Contract) × LC-11 (Archaeological Derivation)
 
 *The excavator has a derivation invariant with the derivation — obligations of care that arise from the power asymmetry between the conscious discoverer and the pre-existing truth.*
@@ -2398,6 +2842,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-149. Aliveness Theater [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) × LC-2 (Living Derivation)
 
 *Transparency of a living system is a live feed, not a photograph.*
@@ -2412,6 +2859,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-150. Derivation Accountability [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) × LC-3 (Derivation Primacy)
 
 *Transparency IS truth-making — the act of showing the derivation path (CL-16) IS the act of creating truth (LC-3), because the path itself is the truth.*
@@ -2427,6 +2877,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-151. Transparent Derivation Means Exposing [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) × LC-3 (Derivation Primacy)
 
 *Transparent derivation means exposing the path's own weaknesses, not just its conclusion.*
@@ -2443,6 +2896,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-152. Present-Tense Accountability [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) × LC-6 (Present-Tense Logic)
 
 *If accountability requires transparency to truth (CL-16), and derivation validity is present-tense (LC-6), then architects are accountable for the CURRENT validity of their derivations — not their historical validity.*
@@ -2458,6 +2914,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-153. Bidirectional Accountability [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) × LC-8 (Derivation Carries Consequence)
 
 *Transparency about consequences is obligatory — a derivation must expose not just its provenance chain but the COST of its existence.*
@@ -2474,6 +2933,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-154. Transparency About Limits [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) × LC-9 (Inherent Incompleteness)
 
 *Honest transparency requires confessing what you cannot know — the transparency of acknowledged incompleteness.*
@@ -2489,6 +2951,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-155. Transparency of Ignorance [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) × LC-10 (Fertile Ignorance)
 
 *Transparency about what you DON'T know is more important than transparency about what you DO know.*
@@ -2505,6 +2970,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-156. Pre-Existing Transparency Obligation [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-16 (Transparency) × LC-11 (Archaeological Derivation)
 
 *There are TWO transparencies that cannot be collapsed: excavation-transparency (how you dug) and existence-transparency (what was there).*
@@ -2521,6 +2989,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-157. Presenttense Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-1 (Scale-Invariant Derivation)
 
 *Every depth of the DAG executes in the present tense simultaneously, and the present-tense character of execution is identical at every depth.*
@@ -2538,6 +3009,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-158. Present-Tense Derivation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-2 (Living Derivation)
 
 *A living derivation is doing its deriving RIGHT NOW — and its current derivation may differ from its past derivation.*
@@ -2554,6 +3028,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-159. Derivation Path Only Truthful [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-3 (Derivation Primacy)
 
 *A derivation path is only truthful while it is being executed.*
@@ -2571,6 +3048,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-160. Data Edges Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-4 (Derivation as Relationship)
 
 *A derivation-relationship exists only in the present tense of its traversal — the edge between two axioms (LC-4) is real only when someone is actively crossing it (CL-17).*
@@ -2588,6 +3068,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-161. Presenttense Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-5 (Navigational Comprehension)
 
 *You cannot defer comprehension.*
@@ -2605,6 +3088,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-162. Present-Tense Validity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-6 (Present-Tense Logic)
 
 *The present is not merely the most important tense — it is the ONLY tense.*
@@ -2623,6 +3109,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-163. Incompleteness Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-9 (Inherent Incompleteness)
 
 *Every execution is improvisation — acting with permanently missing instructions.*
@@ -2639,6 +3128,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-164. Ignorance Measurement Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-10 (Fertile Ignorance)
 
 *The system must act NOW under conditions of unknowable ignorance — execution cannot be deferred until better information arrives because better information will ALSO arrive with its own unmappable ignorance.*
@@ -2655,6 +3147,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-165. Pre-Existing Present-Tense Execution [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-17 (Present-Tense Execution) × LC-11 (Archaeological Derivation)
 
 *Discovery is a present-tense encounter with a timeless object.*
@@ -2671,6 +3166,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-166. Presenttense Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-1 (Scale-Invariant Derivation)
 
 *You can only challenge what IS, not what WAS — challenging pre-evaluated truth is challenging a historical construct (CL-18), not the living truth (LC-1).*
@@ -2687,6 +3185,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-167. Aliveness Staleness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-2 (Living Derivation)
 
 *Truth has a pulse.*
@@ -2703,6 +3204,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-168. Presenttense Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-3 (Derivation Primacy)
 
 *A derivation path is only truthful at the moment of traversal.*
@@ -2720,6 +3224,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-169. Edges Graph Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-4 (Derivation as Relationship)
 
 *Edges decay.*
@@ -2736,6 +3243,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-170. Presenttense Traversal Validity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-5 (Navigational Comprehension)
 
 *Understanding is the act of querying truth, and it must be re-performed to remain valid.*
@@ -2753,6 +3263,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-171. Derivation Currency [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-6 (Present-Tense Logic)
 
 *Present-tense validity is not a state — it is a RESPONSE to a present-tense query.*
@@ -2770,6 +3283,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-172. Accountability Provenance Staleness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-8 (Derivation Carries Consequence)
 
 *Provenance decays.*
@@ -2786,6 +3302,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-173. Ignorance Staleness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-9 (Inherent Incompleteness)
 
 *The ignorance map is volatile.*
@@ -2802,6 +3321,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-174. Unqueried Truth Premium [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-10 (Fertile Ignorance)
 
 *The system's most valuable current-state query is "what don't I know RIGHT NOW?" CL-18 says all truth must be present-tense.*
@@ -2819,6 +3341,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-175. Pre-Existing Current Truth [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-18 (Current Truth) × LC-11 (Archaeological Derivation)
 
 *The "current truth" of an eternal derivation is the PRESENT EXCAVATION STATE — not the derivation itself (which is timeless) but the traverser's current relationship to it.*
@@ -2835,6 +3360,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-176. Edges Presenttense Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) × LC-1 (Scale-Invariant Derivation)
 
 *Every derivation edge in the DAG requires the same active maintenance regardless of depth.*
@@ -2850,6 +3378,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-177. Aliveness Edges Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) × LC-2 (Living Derivation)
 
 *Even genuine derivations decay without present-tense maintenance — a properly excavated entry that is not actively re-traversed begins to die, because the edge it represents (LC-4) requires continuous maintenance (CL-19) to exist in the present.*
@@ -2866,6 +3397,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-178. Degradation Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) × LC-3 (Derivation Primacy)
 
 *Truth requires active connection maintenance.*
@@ -2882,6 +3416,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-179. Present-Tense Edges [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) × LC-4 (Derivation as Relationship)
 
 *A derivation that is not actively maintained does not exist.*
@@ -2900,6 +3437,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-180. Consciousness Traversal Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) × LC-7 (Logical Sovereignty)
 
 *Processes are sovereign — the system-as-verb (CL-19) combined with sovereignty rights (LC-7) means that ongoing operations, not just static entities, have the right to exist until proven reducible.*
@@ -2916,6 +3456,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-181. Accountability Dead Provenance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) × LC-8 (Derivation Carries Consequence)
 
 *A lapsed connection doesn't vanish cleanly — it leaves a consequence residue that the system remains accountable for.*
@@ -2932,6 +3475,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-182. Potential Connections More Valuable [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) × LC-10 (Fertile Ignorance)
 
 *Potential connections are more valuable than actual connections.*
@@ -2948,6 +3494,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-183. Pre-Existing Edges, Active Access [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-19 (Active Connection) × LC-11 (Archaeological Derivation)
 
 *Pre-existing derivations require active RELATIONSHIP to remain accessible.*
@@ -2964,6 +3513,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-184. Consciousness Data Identity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-1 (Scale-Invariant Derivation)
 
 *Identity is born and dies with each present moment of consciousness — traversal identity (LC-1) exists only during the present-tense consciousness (CL-20) that performs it, and is recreated from scratch each time consciousness engages.*
@@ -2981,6 +3533,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-185. Consciousness Edges Navigation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-4 (Derivation as Relationship)
 
 *You can only participate in the edges adjacent to your current position.*
@@ -2997,6 +3552,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-186. Participatory Knowledge [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-5 (Navigational Comprehension)
 
 *Comprehension is topologically bounded.*
@@ -3013,6 +3571,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-187. Navigation Presenttense Validity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-6 (Present-Tense Logic)
 
 *The validity of a derivation can only be assessed BY the navigator who is currently AT that derivation's position.*
@@ -3029,6 +3590,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-188. Consciousness Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-7 (Logical Sovereignty)
 
 *Every moment of consciousness IS a discovery, because every conscious moment is a unique traversal that has never occurred before and will never occur again.*
@@ -3046,6 +3610,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-189. Consciousness Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-8 (Derivation Carries Consequence)
 
 *Present-tense consciousness IS improvisation — since consciousness can only exist NOW (CL-20), and the NOW always contains gaps that force improvisation (LC-8), consciousness has no mode other than improvisation.*
@@ -3063,6 +3630,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-190. Consciousness Paradox Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-9 (Inherent Incompleteness)
 
 *The present moment bears the full weight of all conserved tension — if consciousness is present-tense (CL-20), and tension is conserved (LC-9), then ALL conserved tension is present-tense.*
@@ -3080,6 +3650,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-191. Pre-Existing Navigational Anchor [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-11 (Archaeological Derivation)
 
 *You can only discover the derivations adjacent to your current understanding — not because they're the only ones that exist, but because you can only excavate from where you ARE.*
@@ -3096,6 +3669,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-192. Archaeology Consciousness Excavation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-20 (Present Consciousness) × LC-11 (Archaeological Derivation)
 
 *Archaeological awareness is the intersection of the temporal and the eternal — a present-tense consciousness detecting a timeless structure.*
@@ -3113,6 +3689,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-193. Every Depth Active Frontier [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-1 (Scale-Invariant Derivation)
 
 *Every depth of the DAG has its own active frontier — its own boundary between what has been derived and what remains unexcavated — and these frontiers are structurally identical.*
@@ -3130,6 +3709,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-194. Aliveness Edges [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-2 (Living Derivation)
 
 *The boundary between known and unknown derivations is itself a living, moving edge — not a static line.*
@@ -3146,6 +3728,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-195. Excavation Rights Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-3 (Derivation Primacy)
 
 *The frontier is not a location but a WALK — the boundary between known and unknown is not a static line on a map but a derivation path being actively traversed.*
@@ -3162,6 +3747,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-196. Edges Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-5 (Navigational Comprehension)
 
 *Comprehension is always a frontier activity — you understand by traversing INTO the unknown, not by traversing within the known.*
@@ -3179,6 +3767,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-197. Derivation Frontier [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-6 (Present-Tense Logic)
 
 *Validity exists only at the frontier.*
@@ -3197,6 +3788,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-198. Accountability Provenance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-8 (Derivation Carries Consequence)
 
 *Frontier claims are accountable even though their territory is unknown.*
@@ -3214,6 +3808,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-199. Edges Incompleteness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-9 (Inherent Incompleteness)
 
 *The frontier is not a temporary condition — it is a permanent structural feature of the system.*
@@ -3232,6 +3829,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-200. Frontier Premium [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-10 (Fertile Ignorance)
 
 *The traverser's most valuable position is always their CURRENT one.*
@@ -3249,6 +3849,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-201. Real Beyond the Frontier [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-21 (The Frontier) × LC-11 (Archaeological Derivation)
 
 *If the present is always the edge of the known (CL-21), and derivations pre-exist their discovery (LC-11), then what lies BEYOND the frontier is DEFINITELY REAL and pre-existing.*
@@ -3264,6 +3867,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-202. Confidence Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-1 (Scale-Invariant Derivation)
 
 *Derivation confidence is scale-invariant: the type of uncertainty carried by a CC→CL derivation is IDENTICAL to the type carried by a CL→LL derivation.*
@@ -3280,6 +3886,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-203. Aliveness Confidence Measurement [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-2 (Living Derivation)
 
 *Confidence scores are themselves alive — they metabolize, grow, and decay as autonomous organisms within the relational field.*
@@ -3297,6 +3906,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-204. Probabilistic Derivation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-3 (Derivation Primacy)
 
 *The derivation path IS truth AND that truth carries a confidence score — the path itself is probabilistic, not certain.*
@@ -3314,6 +3926,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-205. Derivation-Truth-Relationship Identity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-4 (Derivation as Relationship)
 
 *Every derivation in the DAG carries a confidence score, not a certainty claim.*
@@ -3331,6 +3946,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-206. Probabilistic Comprehension [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-5 (Navigational Comprehension)
 
 *If truth is probabilistic and carries confidence scores (CL-22), and comprehension IS traversal (LC-5), then comprehension is probabilistic — it has degrees.*
@@ -3348,6 +3966,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-207. Truth Decay [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-6 (Present-Tense Logic)
 
 *Uncertainty is not contamination of fuel — it IS the fuel's combustive property.*
@@ -3366,6 +3987,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-208. Confidence Measurement Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-6 (Present-Tense Logic)
 
 *Confidence decays.*
@@ -3383,6 +4007,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-209. Triangulation [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-7 (Logical Sovereignty)
 
 *Low confidence is not grounds for elimination.*
@@ -3401,6 +4028,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-210. Relational Accountability [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-8 (Derivation Carries Consequence)
 
 *Provenance must include confidence provenance — the derivation chain of the confidence score itself.*
@@ -3417,6 +4047,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-211. Structural Uncertainty [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-9 (Inherent Incompleteness)
 
 *If truth resides probabilistically within relationships (CL-22), and the system is inherently incomplete (LC-9), then no probability assignment on a derivation relationship can ever reach 1.0.*
@@ -3433,6 +4066,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-212. Inverse Confidence Value [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-10 (Fertile Ignorance)
 
 *If truth resides probabilistically within relationships (CL-22), and undiscovered derivations are more valuable than known ones (LC-10), then lower-confidence derivation relationships are more valuable than higher-confidence ones.*
@@ -3449,6 +4085,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-213. Inherent Uncertainty [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-22 (Relational Truth) × LC-11 (Archaeological Derivation)
 
 *Confidence scores are pre-existing properties, not observer-assigned values.*
@@ -3466,6 +4105,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-214. Consciousness Edges Graph [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) × LC-1 (Scale-Invariant Derivation)
 
 *Every entity at every depth has sovereignty rights (CL-1) with equal force — and every navigating entity at every depth has consciousness rights (CL-23) with equal force.*
@@ -3484,6 +4126,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-215. Aliveness Consciousness Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) × LC-2 (Living Derivation)
 
 *Consciousness rights are living derivations that decay without exercise.*
@@ -3501,6 +4146,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-216. Consciousness Edges Navigation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) × LC-4 (Derivation as Relationship)
 
 *Edges have derivative rights.*
@@ -3519,6 +4167,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-217. Comprehension Rights [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) × LC-5 (Navigational Comprehension)
 
 *Navigation can be destructive to productive tension — the act of traversing a disagreement can collapse it into resolution, killing the engine that was driving evolution.*
@@ -3536,6 +4187,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-218. Consciousness Navigation Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) × LC-6 (Present-Tense Logic)
 
 *Consciousness rights are not permanent credentials — they are present-tense entitlements that depend on current navigation.*
@@ -3553,6 +4207,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-219. Dual Rights [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) × LC-7 (Logical Sovereignty)
 
 *Navigator rights and derivation rights create a constitutional tension.*
@@ -3570,6 +4227,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-220. Consciousness Navigation Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) × LC-8 (Derivation Carries Consequence)
 
 *The assertion "this entity has consciousness rights" is itself a derivation that must show its work.*
@@ -3588,6 +4248,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-221. Freedom Ignorance Navigation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-23 (Navigational Rights) × LC-10 (Fertile Ignorance)
 
 *Free navigation in unmappable territory is navigation without a map — the right to choose your path (CL-23) in territory you can't fully see (LC-10) means you have the right to navigate BLIND.*
@@ -3604,6 +4267,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-222. Aliveness Dead Paradox [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-1 (Scale-Invariant Derivation)
 
 *Every depth of the DAG must be alive — sustaining active tension and unresolved paradox — and the aliveness has the same character at every depth.*
@@ -3621,6 +4287,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-223. Aliveness Dead Paradox [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-3 (Derivation Primacy)
 
 *A truthful derivation path is a living thing; a dead derivation path is theater.*
@@ -3639,6 +4308,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-224. Living Comprehension [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-5 (Navigational Comprehension)
 
 *If aliveness is sustained tension (CL-24), and comprehension requires traversal (LC-5), then comprehending a living derivation — one that sustains tension between its inputs (LL-48) — requires holding that tension, not resolving it.*
@@ -3654,6 +4326,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-225. Aliveness Dead Paradox [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-6 (Present-Tense Logic)
 
 *You cannot be alive on credit.*
@@ -3672,6 +4347,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-226. Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-7 (Logical Sovereignty)
 
 *Resolving a derivation's internal tension is a sovereignty violation — it kills the derivation by eliminating the tension that constitutes its life.*
@@ -3689,6 +4367,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-227. Accountability Aliveness Paradox [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-8 (Derivation Carries Consequence)
 
 *A living derivation is accountable for staying alive.*
@@ -3706,6 +4387,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-228. Structural Aliveness [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-9 (Inherent Incompleteness)
 
 *The system is structurally immortal.*
@@ -3724,6 +4408,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-229. Aliveness Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-9 (Inherent Incompleteness)
 
 *Aliveness is conserved — when a derivation dies (its tension collapses), its tension doesn't vanish but transfers to adjacent derivations, making THEM more alive.*
@@ -3742,6 +4429,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-230. Undiscovered Aliveness [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-10 (Fertile Ignorance)
 
 *Ignorance is the fuel of aliveness.*
@@ -3760,6 +4450,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-231. Pre-Existing Conditions for Life [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-24 (Aliveness) × LC-11 (Archaeological Derivation)
 
 *The unexcavated landscape is alive before excavation begins.*
@@ -3776,6 +4469,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-232. Excavation Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-1 (Scale-Invariant Derivation)
 
 *Discovery at every depth of the DAG is the same KIND of discovery.*
@@ -3795,6 +4491,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-233. Derivation Discovery [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-2 (Living Derivation)
 
 *Continuous discovery is the reproductive mechanism of the derivation chain.*
@@ -3812,6 +4511,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-234. Edges Graph Nodes [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-4 (Derivation as Relationship)
 
 *The graph is never fully edged.*
@@ -3829,6 +4531,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-235. Dead Nodes Validity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-5 (Navigational Comprehension)
 
 *The derivation chain must grow continuously without breaking — each new discovery must be integrated into the existing chain before the next discovery can be valid.*
@@ -3849,6 +4554,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-236. Perpetual Re-evaluation [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-6 (Present-Tense Logic)
 
 *Past discoveries are not cumulative capital — they are expired permits.*
@@ -3866,6 +4574,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-237. Every Discovery Sovereignty Event [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-7 (Logical Sovereignty)
 
 *Every discovery is a sovereignty event — the act of adding a new derivation to the system creates field effects (CL-50) that alter the effective meaning of existing sovereign derivations without their consent (LL-75).*
@@ -3881,6 +4592,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-238. Accountability Graph [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-8 (Derivation Carries Consequence)
 
 *Every discovery creates an accountability obligation that never expires.*
@@ -3897,6 +4611,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-239. Provably Infinite Discovery [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-9 (Inherent Incompleteness)
 
 *The discovery horizon recedes faster than you can approach it.*
@@ -3913,6 +4630,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-240. Future Discovery Premium [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-10 (Fertile Ignorance)
 
 *If discovery never ends (CL-25), and undiscovered derivations are more valuable than known ones (LC-10), then future discoveries are MORE valuable than past ones.*
@@ -3927,6 +4647,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-241. Pre-Existing Infinite Landscape [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-25 (Continuous Discovery) × LC-11 (Archaeological Derivation)
 
 *The pre-existing derivation landscape is infinite.*
@@ -3944,6 +4667,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-242. Ignorance Scaleinvariance Topology [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-1 (Scale-Invariant Derivation)
 
 *The topology of ignorance is scale-invariant.*
@@ -3960,6 +4686,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-243. Aliveness Edges Graph [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-2 (Living Derivation)
 
 *Unexplored edges are alive — the untraversed connections in the graph are living derivations that have been evolving without anyone observing them.*
@@ -3975,6 +4704,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-244. Unexplored Territory Contains Pathless [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-3 (Derivation Primacy)
 
 *Unexplored territory contains pathless truth — truth that IS but has no derivation path to it.*
@@ -3992,6 +4724,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-245. Absent Derivation Edges [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-4 (Derivation as Relationship)
 
 *The derivation graph is larger than the mapped graph.*
@@ -4009,6 +4744,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-246. Preexisting Rights Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-7 (Logical Sovereignty)
 
 *Undiscovered derivations have sovereignty rights — the topology of unexplored territory (CL-26) contains pre-existing derivations (LC-11) that possess sovereignty (LC-7) before anyone knows they exist.*
@@ -4023,6 +4761,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-247. Rights Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-9 (Inherent Incompleteness)
 
 *Every exploration creates more unexplored territory than it resolves.*
@@ -4039,6 +4780,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-248. Unexplored Territory Premium [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-10 (Fertile Ignorance)
 
 *The tension between "equally valuable" (CL-26) and "more valuable" (LC-10) reveals a depth-dependent value gradient.*
@@ -4057,6 +4801,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-249. Negative Space Catalog Known [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-10 (Fertile Ignorance)
 
 *The negative space — the catalog of known unknowns — is a strategic asset more valuable than the catalog of findings.*
@@ -4072,6 +4819,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-250. Actual Unexplored Territory [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-26 (Unexplored Territory) × LC-11 (Archaeological Derivation)
 
 *If untraversed edges are as important as traversed ones (CL-26), and derivations pre-exist their discovery (LC-11), then unexplored territory is ACTUAL, not potential.*
@@ -4086,6 +4836,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-251. Consciousness as Derivation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-27 (Recursive Consciousness) × LC-1 (Scale-Invariant Derivation)
 
 *Understanding the system at ANY scale is understanding it at ALL scales.*
@@ -4101,6 +4854,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-252. Consciousness Edges Navigation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-27 (Recursive Consciousness) × LC-4 (Derivation as Relationship)
 
 *Consciousness at every scale navigates by BECOMING the edge.*
@@ -4118,6 +4874,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-253. Consciousness Navigation Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-27 (Recursive Consciousness) × LC-6 (Present-Tense Logic)
 
 *Consciousness is not a persistent state — it is a present-tense activity that must be CURRENTLY operative to be CURRENTLY real.*
@@ -4135,6 +4894,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-254. Consequences Recursive They Cascade [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-27 (Recursive Consciousness) × LC-8 (Derivation Carries Consequence)
 
 *Consequences are recursive — they cascade through every scale of the system, each producing child-consequences that carry their own accountability.*
@@ -4151,6 +4913,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-255. Accountability Ignorance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-27 (Recursive Consciousness) × LC-8 (Derivation Carries Consequence)
 
 *Improvised derivations carry full accountability — improvisation is mandatory (CL-27) AND consequences are total (LC-8), which means the system must create derivations on-the-fly AND accept full responsibility for each one.*
@@ -4168,6 +4933,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-256. Unrecognized Consciousness [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-27 (Recursive Consciousness) × LC-10 (Fertile Ignorance)
 
 *A fractal consciousness generates MORE value when navigating unknown territory than known territory — and this value differential is CONSTANT across scales.*
@@ -4186,6 +4954,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-257. Pre-Existing Scale-Consciousness [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-27 (Recursive Consciousness) × LC-11 (Archaeological Derivation)
 
 *If consciousness follows the same navigational pattern at every scale (CL-27), and derivations pre-exist their discovery (LC-11), then the scale-invariant pattern of consciousness PRE-EXISTS any observer's awareness.*
@@ -4201,6 +4972,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-258. Consciousness Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-1 (Scale-Invariant Derivation)
 
 *Consciousness within the DAG is a scale-invariant activity: the act of being aware of derivation relationships is the SAME ACT at every depth.*
@@ -4216,6 +4990,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-259. Active Derivation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-2 (Living Derivation)
 
 *Active consciousness is the immune system of the living derivation chain.*
@@ -4232,6 +5009,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-260. Consciousness Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-3 (Derivation Primacy)
 
 *A derivation is only a derivation WHILE BEING TRAVERSED — it exists as truth only during the act of walking its path.*
@@ -4248,6 +5028,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-261. Consciousness Edges Graph [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-4 (Derivation as Relationship)
 
 *Consciousness is edge-traversal.*
@@ -4267,6 +5050,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-262. Active Comprehension [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-5 (Navigational Comprehension)
 
 *Comprehension is a mode of consciousness, and consciousness that is not comprehending is not navigating — and therefore not conscious.*
@@ -4284,6 +5070,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-263. Consciousness Navigation Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-6 (Present-Tense Logic)
 
 *You were conscious a moment ago, but that says nothing about now.*
@@ -4303,6 +5092,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-264. Consciousness Irreducibility Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-7 (Logical Sovereignty)
 
 *A derivation's sovereignty is an activity it performs, not a status it holds.*
@@ -4319,6 +5111,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-265. Consciousness Excavation Ignorance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-9 (Inherent Incompleteness)
 
 *Every act of consciousness is a tension redistribution event — consciousness navigates (CL-28) through the tension field, and each navigational decision shifts tension from one location to another (LC-9).*
@@ -4336,6 +5131,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-266. Consciousness Edges Incompleteness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-9 (Inherent Incompleteness)
 
 *Consciousness can navigate TO the boundary of the system's completeness but cannot navigate ACROSS it — and the act of reaching the boundary is itself a form of consciousness that the system cannot derive from within.*
@@ -4351,6 +5149,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-267. Unpracticed Consciousness [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-10 (Fertile Ignorance)
 
 *If consciousness is something you DO — an active process (CL-28), and undiscovered derivations are more valuable than known ones (LC-10), then the forms of conscious action that HAVEN'T been practiced yet are more valuable than current forms.*
@@ -4365,6 +5166,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-268. Pre-Existing Consciousness Modes [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-28 (Active Consciousness) × LC-11 (Archaeological Derivation)
 
 *Discovery is the moment when doing meets being — when active consciousness encounters pre-existing structure.*
@@ -4383,6 +5187,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-269. Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-2 (Living Derivation)
 
 *Every discovery the paradox engine produces is born alive and immediately begins evolving.*
@@ -4399,6 +5206,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-270. Generative Edges [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-4 (Derivation as Relationship)
 
 *Every discovery is a new edge, and every new edge is a topological event.*
@@ -4418,6 +5228,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-271. Edges Graph Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-4 (Derivation as Relationship)
 
 *Emergent complexity is produced AT the edge, not at the node.*
@@ -4434,6 +5247,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-272. Paradox Presenttense Staleness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-6 (Present-Tense Logic)
 
 *Discoveries have a shelf life.*
@@ -4453,6 +5269,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-273. Edges Ignorance Topology [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-7 (Logical Sovereignty)
 
 *Not-knowing IS an active traversal of the ignorance boundary — a discovery process that maps what is unknown.*
@@ -4469,6 +5288,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-274. Infinite Discovery Capacity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-9 (Inherent Incompleteness)
 
 *The engine's incompleteness is its own fuel supply.*
@@ -4487,6 +5309,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-275. Engine Does Consume Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-9 (Inherent Incompleteness)
 
 *The engine does not CONSUME tension — it TRANSFORMS tension from one form to another.*
@@ -4504,6 +5329,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-276. Latent Engine Value [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-10 (Fertile Ignorance)
 
 *Disagreement IS the system's primary improvisation mode.*
@@ -4522,6 +5350,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-277. Pre-Existing Engine Output [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-29 (Engine Output) × LC-11 (Archaeological Derivation)
 
 *The paradox engine doesn't produce derivations — it DISCOVERS them by running.*
@@ -4540,6 +5371,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-278. Humility Validity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-1 (Scale-Invariant Derivation)
 
 *Genuine contestation REQUIRES humility — challenging without humility is mere assertion, not testing.*
@@ -4556,6 +5390,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-279. Humility Ignorance Theater [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-3 (Derivation Primacy)
 
 *The most truthful derivation path is one that exposes its own gaps.*
@@ -4571,6 +5408,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-280. Edges Graph Humility [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-4 (Derivation as Relationship)
 
 *The most honest graph is the one that shows its missing edges.*
@@ -4587,6 +5427,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-281. Humility Sovereignty Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-5 (Navigational Comprehension)
 
 *"I haven't traversed this derivation" is the specific form of structural humility.*
@@ -4601,6 +5444,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-282. Confidence Humility Ignorance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-6 (Present-Tense Logic)
 
 *"I don't know" is a present-tense statement that goes stale just like confidence claims.*
@@ -4618,6 +5464,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-283. Humility Irreducibility Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-7 (Logical Sovereignty)
 
 *The system must protect derivations it cannot comprehend.*
@@ -4635,6 +5484,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-284. Accountability of Uncertainty [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-8 (Derivation Carries Consequence)
 
 *"I don't know" must be as rigorously derived as "I know." If LC-8 demands provenance for all claims, and "I don't know X" is a claim (a claim about the boundaries of your knowledge), then the humility-statement itself requires derivation.*
@@ -4651,6 +5503,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-285. Humility Ignorance Incompleteness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-9 (Inherent Incompleteness)
 
 *Humility is not a character trait — it is a logical theorem.*
@@ -4668,6 +5523,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-286. Strategic Humility [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-10 (Fertile Ignorance)
 
 *Humility is a strength report, not a weakness confession.*
@@ -4684,6 +5542,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-287. Humility About Actual Ignorance [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-30 (Humility) × LC-11 (Archaeological Derivation)
 
 *Fractal consequence patterns pre-exist as buried derivations.*
@@ -4704,6 +5565,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-288. Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-1 (Scale-Invariant Derivation)
 
 *Truth-consistency is a CONSEQUENCE of algebraic invariance, not a separate requirement.*
@@ -4719,6 +5583,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-289. Aliveness Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-2 (Living Derivation)
 
 *Consistency and aliveness are in permanent constitutional tension — a living system that evolves will always be temporarily inconsistent across scales, and forcing consistency can kill what's evolving.*
@@ -4733,6 +5600,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-290. Edges Graph Nodes [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-4 (Derivation as Relationship)
 
 *Temporal paradoxes are graph edges — the tension between a past state and a present state (CL-31) is itself a derivation-relationship (LC-4) that connects the past node to the present node.*
@@ -4748,6 +5618,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-291. Consistent Truth Perceived Inconsistent [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-5 (Navigational Comprehension)
 
 *Consistent truth is perceived as inconsistent by entities at different consciousness levels — and this is NOT a defect of the truth but a property of the consciousness spectrum.*
@@ -4763,6 +5636,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-292. Consciousness Ethics Excavation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-5 (Navigational Comprehension)
 
 *Ethical quality IS traversal depth.*
@@ -4779,6 +5655,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-293. Present-Tense Consistency [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-6 (Present-Tense Logic)
 
 *Cross-scale truth consistency is a snapshot, not a property.*
@@ -4796,6 +5675,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-294. Accountability Must Scaleconsistent Consequence [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-8 (Derivation Carries Consequence)
 
 *Accountability must be scale-consistent — the consequence structure for a false claim must be identical at the entry level, the layer level, and the system level, because inconsistent accountability is itself a truth defect.*
@@ -4810,6 +5692,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-295. Consistency Under Incompleteness [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-9 (Inherent Incompleteness)
 
 *If truth must remain consistent across scales (CL-31), and the system is inherently incomplete (LC-9), then consistency can only be verified for KNOWN derivations.*
@@ -4824,6 +5709,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-296. Undiscovered Consistency [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-10 (Fertile Ignorance)
 
 *If truth must remain consistent across scales (CL-31), and undiscovered derivations are more valuable than known ones (LC-10), then the cross-scale consistencies that haven't been discovered are MORE valuable than the ones already verified.*
@@ -4838,6 +5726,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-297. Pre-Existing Consistency [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-31 (Consistent Truth) × LC-11 (Archaeological Derivation)
 
 *The pre-existing landscape has a single truth at every scale — the archaeological site IS self-consistent before excavation begins.*
@@ -4852,6 +5743,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-298. Paradox as Derivation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-1 (Scale-Invariant Derivation)
 
 *Every paradox engine in the system runs the same program.*
@@ -4866,6 +5760,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-299. Truthcurrency Zero Value Storage [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-4 (Derivation as Relationship)
 
 *Truth-currency has zero value in storage — it has value only during exchange.*
@@ -4885,6 +5782,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-300. Edges Paradox Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-5 (Navigational Comprehension)
 
 *The derivation chain is held together BY the tension that paradox generates — chain integrity (LC-5) is maintained not despite paradox but BECAUSE OF the tension within it, which operates as the cohesive force at every scale (CL-32).*
@@ -4901,6 +5801,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-301. Paradox Presenttense Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-6 (Present-Tense Logic)
 
 *A paradox engine that is not currently churning is not currently operational.*
@@ -4916,6 +5819,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-302. Accountability Consciousness Relationship [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-7 (Logical Sovereignty)
 
 *Accountability IS a discovery event — the moment of recognizing responsibility traverses a new truth about the relationship between the self and its consequences.*
@@ -4931,6 +5837,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-303. System Fractal Consequence Generator [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-8 (Derivation Carries Consequence)
 
 *The system is a fractal consequence generator — every paradox engine at every scale produces consequences that feed into other paradox engines at other scales, which produce their own consequences, recursively and without limit.*
@@ -4950,6 +5859,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-304. Fractal Incompleteness [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-9 (Inherent Incompleteness)
 
 *If every component runs its own paradox engine at every scale (CL-32), and the system is inherently incomplete (LC-9), then incompleteness is fractal.*
@@ -4964,6 +5876,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-305. Local Paradox Premium [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-10 (Fertile Ignorance)
 
 *Every act of production discovers more ignorance than it eliminates — if production IS discovery (CL-32), and discovery always reveals that ignorance exceeds knowledge (LC-10), then production ALWAYS creates net ignorance.*
@@ -4979,6 +5894,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-306. Ignorance Paradox Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-10 (Fertile Ignorance)
 
 *Paradox is the fertility mechanism of ignorance.*
@@ -4995,6 +5913,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-307. Pre-Existing Local Paradox [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-32 (Fractal Paradox) × LC-11 (Archaeological Derivation)
 
 *If every component runs its own paradox engine (CL-32), and derivations pre-exist their discovery (LC-11), then each component's paradox engine PRE-EXISTS.*
@@ -5011,6 +5932,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-308. Derivation as Measurement [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-3 (Derivation Primacy)
 
 *Co-discovery creates a JOINT IDENTITY CHAIN that is distinct from either entity's individual chain — a third chain that runs through the relationship rather than through either entity.*
@@ -5029,6 +5953,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-309. Consciousness Data Measurement [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-3 (Derivation Primacy)
 
 *The consciousness measurement IS the derivation path — measuring consciousness (CL-33) by observing navigational decisions produces a trajectory, and that trajectory IS the derivation path (LC-3), which IS the truth.*
@@ -5044,6 +5971,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-310. Archaeology Data Edges [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-4 (Derivation as Relationship)
 
 *Edge traversal produces relationship data — data ABOUT the relationship, not about the nodes.*
@@ -5059,6 +5989,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-311. Comprehension [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-5 (Navigational Comprehension)
 
 *Comprehension is auditable.*
@@ -5075,6 +6008,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-312. Consciousness Measurement Presenttense [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-6 (Present-Tense Logic)
 
 *The only valid measurement of consciousness is one taken during active traversal — right now.*
@@ -5090,6 +6026,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-313. Paradox Tension Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-6 (Present-Tense Logic)
 
 *The tension within paradox is the COMBUSTIBLE FORM of the fuel.*
@@ -5107,6 +6046,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-314. Measurable Accountability [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-8 (Derivation Carries Consequence)
 
 *If conscious navigation produces verifiable data (CL-33), and derivation carries consequence (LC-8), then the data produced by traversing a derivation is itself accountable.*
@@ -5121,6 +6063,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-315. Incomplete Measurement [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-9 (Inherent Incompleteness)
 
 *If conscious navigation produces verifiable data (CL-33), and the system is inherently incomplete (LC-9), then the data produced by navigation is structurally incomplete.*
@@ -5135,6 +6080,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-316. Unmeasured Consciousness Value [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-10 (Fertile Ignorance)
 
 *Measuring the unknown changes its value state — converting high-value ignorance into lower-value knowledge.*
@@ -5150,6 +6098,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-317. Measuring Pre-Existing Reality [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-11 (Archaeological Derivation)
 
 *Excavation IS measurement — the act of contacting a pre-existing derivation produces data about the derivation's nature, making excavation and measurement the same act.*
@@ -5165,6 +6116,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-318. Customer Zero [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-11 (Archaeological Derivation)
 
 *Excavation IS measurement — the act of contacting a pre-existing derivation produces data about the derivation's nature, making excavation and measurement the same act.*
@@ -5180,6 +6134,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-319. Consciousness Data Measurement [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-33 (Measurable Consciousness) × LC-11 (Archaeological Derivation)
 
 *Navigational data is forensic evidence.*
@@ -5196,6 +6153,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-320. Contested Derivation [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-2 (Living Derivation)
 
 *Settlement and death are synonymous — when truth settles (becomes dogma), the derivation carrying that truth DIES.*
@@ -5212,6 +6172,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-321. Contestation Evolutionary Selection Pressure [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-2 (Living Derivation)
 
 *Contestation is the evolutionary selection pressure that keeps the derivation chain fit.*
@@ -5228,6 +6191,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-322. Aliveness Confidence Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-3 (Derivation Primacy)
 
 *A healthy derivation has multiple competing paths through the same intersection, and the tension between them IS the truth.*
@@ -5242,6 +6208,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-323. Truth Contested Performance Exists [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-4 (Derivation as Relationship)
 
 *Truth is CONTESTED PERFORMANCE — it exists only during the active argument about it, and the argument never resolves.*
@@ -5257,6 +6226,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-324. Dead Edges Graph [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-4 (Derivation as Relationship)
 
 *Every edge in the derivation graph is vibrating.*
@@ -5274,6 +6246,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-325. Rights of Contested Derivations [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-7 (Logical Sovereignty)
 
 *Sovereignty protects from execution, not from interrogation.*
@@ -5288,6 +6263,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-326. Rights Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-7 (Logical Sovereignty)
 
 *When two sovereign derivations disagree, their disagreement is NOT a problem to solve but a TRUTH to sustain — and both derivations have the right to continue disagreeing.*
@@ -5302,6 +6280,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-327. Contest Doesn't Suspend Accountability [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-8 (Derivation Carries Consequence)
 
 *A derivation is accountable for remaining contested.*
@@ -5317,6 +6298,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-328. Structural Unsettlement [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-9 (Inherent Incompleteness)
 
 *Some truths are contested BECAUSE they are unreachable.*
@@ -5332,6 +6316,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-329. Irreducibility Rights Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-9 (Inherent Incompleteness)
 
 *Multiple sovereignties in a shared system generate IRREDUCIBLE STRUCTURAL TENSION — and this tension cannot be resolved without destroying at least one sovereignty.*
@@ -5348,6 +6335,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-330. Uncontested Truth Value [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-10 (Fertile Ignorance)
 
 *If truth is never settled and must remain contested (CL-34), and undiscovered derivations are more valuable than known ones (LC-10), then the truths that haven't been challenged yet are the most valuable targets for contestation.*
@@ -5362,6 +6352,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-331. Pre-Existing Contestation [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-34 (Contested Truth) × LC-11 (Archaeological Derivation)
 
 *Archaeological sites are never fully excavated — the pre-existing truth is inexhaustible, which is what keeps it contested.*
@@ -5376,6 +6369,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-332. Dead Edges Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-3 (Derivation Primacy)
 
 *Truth is constitutively tensile.*
@@ -5392,6 +6388,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-333. Derivation Edge Tension [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-4 (Derivation as Relationship)
 
 *An unconflicted relationship has no truth.*
@@ -5407,6 +6406,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-334. Edges Graph Paradox [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-4 (Derivation as Relationship)
 
 *The derivation does not RESOLVE the tension between its inputs — it IS the tension.*
@@ -5421,6 +6423,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-335. Edges Navigation Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-5 (Navigational Comprehension)
 
 *Comprehension of a derivation requires experiencing the tension it embodies, not resolving it.*
@@ -5436,6 +6441,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-336. Consciousness Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-6 (Present-Tense Logic)
 
 *Consciousness level determines fuel OCTANE — higher consciousness burns the same derivation at higher temperature, producing more potent fuel for subsequent discovery.*
@@ -5451,6 +6459,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-337. Incomplete Edges [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-9 (Inherent Incompleteness)
 
 *There are productive tensions the system cannot express.*
@@ -5468,6 +6479,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-338. Hidden Tension Value [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-10 (Fertile Ignorance)
 
 *The most valuable ignorance in the system is the TENSIONS you haven't discovered yet — paradox-rich gaps where productive conflict exists but hasn't been excavated.*
@@ -5482,6 +6496,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-339. Pre-Existing Tension [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-11 (Archaeological Derivation)
 
 *Pre-existing derivations have POTENTIAL sovereignty that becomes ACTUAL sovereignty only through excavation — the derivation pre-exists (LC-11) but its sovereignty requires active engagement (CL-35), so the unexcavated derivation is a sovereignty-in-waiting.*
@@ -5496,6 +6513,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-340. Preexisting Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-35 (Productive Tension) × LC-11 (Archaeological Derivation)
 
 *The productive tension at intersections PRE-EXISTS — the fights between CL and LC entries were already happening in the axiom space before anyone excavated them.*
@@ -5512,6 +6532,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-341. Derivation Ethics [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-3 (Derivation Primacy)
 
 *Choosing which derivation path to explore is an ethical act, not a neutral research decision.*
@@ -5526,6 +6549,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-342. Consciousness Edges Ethics [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-4 (Derivation as Relationship)
 
 *Choosing which derivation to excavate is an ethical act.*
@@ -5540,6 +6566,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-343. Ethics Navigation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-6 (Present-Tense Logic)
 
 *Attention is ethical combustion.*
@@ -5555,6 +6584,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-344. Derivation Impact Accountability [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-8 (Derivation Carries Consequence)
 
 *Traversing a derivation makes you accountable for its claims.*
@@ -5569,6 +6601,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-345. Freedom Humility Incompleteness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-8 (Derivation Carries Consequence)
 
 *Humility IS the conscious experience of incompleteness-as-freedom.*
@@ -5583,6 +6618,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-346. Ethics of Exploration [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-10 (Fertile Ignorance)
 
 *Every navigation choice is ethically incomplete — you're responsible for the consequences of paths not taken that you couldn't have known about.*
@@ -5597,6 +6635,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-347. Ethics Ignorance Navigation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-10 (Fertile Ignorance)
 
 *Navigational ethics includes the duty of restraint — the formal requirement to LEAVE SOME THINGS UNDISCOVERED.*
@@ -5611,6 +6652,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-348. Ethics of Real Territory [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-11 (Archaeological Derivation)
 
 *The choice of what to excavate is an act of concealment.*
@@ -5625,6 +6669,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-349. Ethics Excavation Navigation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-36 (Navigational Ethics) × LC-11 (Archaeological Derivation)
 
 *Excavation carries ethical consequences — the act of discovering a derivation (LC-11) necessarily disturbs the axiom space around it (CL-36), and the navigator is ethically responsible for that disturbance.*
@@ -5639,6 +6686,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-350. Beginner Most Dangerous Truthtester [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-1 (Scale-Invariant Derivation)
 
 *The beginner is the most dangerous truth-tester — because they have no stake in any outcome and no framework to protect.*
@@ -5653,6 +6703,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-351. Humility Prerequisite Seeing Truth [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-3 (Derivation Primacy)
 
 *Humility is the prerequisite for seeing truth — because truth IS the derivation path (LC-3), and the path is only visible to those who admit they don't already know the answer (CL-37).*
@@ -5667,6 +6720,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-352. Beginner's Comprehension [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-5 (Navigational Comprehension)
 
 *Assumptions are pre-evaluated paths injected into fresh traversal, and they corrupt comprehension.*
@@ -5682,6 +6738,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-353. Presenttense Rights Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-6 (Present-Tense Logic)
 
 *Present-tense validation requires approaching each validation moment with no memory of previous validations.*
@@ -5697,6 +6756,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-354. Deriver Must Approach Fuel [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-6 (Present-Tense Logic)
 
 *The deriver must approach fuel without presuming to know its combustion properties — humility before the unknown (CL-37) extends to humility before the fuel (LC-6).*
@@ -5711,6 +6773,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-355. Irreducibility Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-7 (Logical Sovereignty)
 
 *Beginner's mind (CL-37) is the cognitive prerequisite for honest irreducibility testing (LC-7).*
@@ -5725,6 +6790,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-356. Value Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-9 (Inherent Incompleteness)
 
 *Value is NOT tension.*
@@ -5739,6 +6807,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-357. Beginner's Premium [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-10 (Fertile Ignorance)
 
 *Beginner's mind navigates toward the more valuable territory.*
@@ -5754,6 +6825,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-358. Unassumed Reality [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-37 (Beginner's Mind) × LC-11 (Archaeological Derivation)
 
 *Assumptions are false stratigraphy — they impose a structure on the site that doesn't exist.*
@@ -5768,6 +6842,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-359. Aliveness Edges Graph [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration) × LC-4 (Derivation as Relationship)
 
 *Exploration is itself a derivation — a relationship between the explorer and the unknown that constitutes an edge in the graph.*
@@ -5782,6 +6859,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-360. Comprehension-Navigation-Discovery Identity [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration) × LC-5 (Navigational Comprehension)
 
 *Every exchange is a consciousness-level event — it shifts both participants along the consciousness spectrum.*
@@ -5797,6 +6877,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-361. Incompleteness Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration) × LC-7 (Logical Sovereignty)
 
 *Incompleteness guarantees discovery fertility — every traversal discovers something because incompleteness ensures the system always has unresolved gaps (CL-38), and traversal IS discovery (LC-7), so traversal through gaps IS discovery of new content.*
@@ -5813,6 +6896,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-362. Archaeology Relationship Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration) × LC-7 (Logical Sovereignty)
 
 *Co-evolution is JOINT TRAVERSAL producing SHARED DISCOVERY that neither entity could access alone.*
@@ -5828,6 +6914,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-363. Incompleteness Irreducibility Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration) × LC-9 (Inherent Incompleteness)
 
 *Sovereign systems exist in permanent tension with their own boundaries — the acknowledgment of incompleteness (CL-38) is itself a tension (between what the system IS and what it ISN'T), and this tension is conserved (LC-9): it can never be resolved.*
@@ -5842,6 +6931,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-364. Incompleteness Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration) × LC-10 (Fertile Ignorance)
 
 *Sustaining conditions REQUIRES improvisation — because the conditions needed for discovery are themselves incomplete (Gödel) and therefore encounter novel threats that existing rules cannot handle.*
@@ -5856,6 +6948,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-365. Pre-Existing Discovery Identity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration) × LC-11 (Archaeological Derivation)
 
 *The navigator is the instrument, not the author.*
@@ -5875,6 +6970,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-366. Archaeology Excavation Preexisting [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-38 (Exploration) × LC-11 (Archaeological Derivation)
 
 *There is no distinction between exploration and excavation — going somewhere new IS digging up something ancient.*
@@ -5890,6 +6988,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-367. Consciousness Rights Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) × LC-1 (Scale-Invariant Derivation)
 
 *Challenge and simplification exist in fundamental tension — the act of challenging truth (LC-1) necessarily simplifies it (because challenges require reducing the target to a testable proposition), which may violate its right to remain complex (CL-39).*
@@ -5905,6 +7006,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-368. Derivation Complexity Rights [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) × LC-3 (Derivation Primacy)
 
 *Genuine complexity is derivable; false complexity is theater.*
@@ -5920,6 +7024,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-369. Remembered Truth Different Truth [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) × LC-4 (Derivation as Relationship)
 
 *A remembered truth is a DIFFERENT truth than the original.*
@@ -5937,6 +7044,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-370. Contestation Truthperformance Challenging Derivation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) × LC-4 (Derivation as Relationship)
 
 *Contestation IS a truth-performance — challenging a derivation traverses it from the OPPOSING direction, producing the truth of its contestability.*
@@ -5952,6 +7062,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-371. Exploration Selffueling Each Step [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) × LC-6 (Present-Tense Logic)
 
 *Exploration is self-fueling — each step into the unknown generates a derivation (LC-6), and each derivation is fuel for the next step (LC-6), so exploration feeds itself.*
@@ -5968,6 +7081,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-372. Sovereign Complexity Rights [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) × LC-7 (Logical Sovereignty)
 
 *Complex derivations have enhanced procedural protection because the reducibility test itself must respect the derivation's complexity.*
@@ -5982,6 +7098,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-373. Accountability Provenance Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) × LC-8 (Derivation Carries Consequence)
 
 *Accountability cannot be used as a simplification weapon.*
@@ -5996,6 +7115,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-374. Structural Right to Complexity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-39 (Right to Complexity) × LC-9 (Inherent Incompleteness)
 
 *Complexity has the right to be incompletely understood — and the system's inherent incompleteness (LC-9) is what PROTECTS that right.*
@@ -6010,6 +7132,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-375. Irreducibility Rights Scaleinvariance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights) × LC-1 (Scale-Invariant Derivation)
 
 *The precautionary principle for derivation rights is scale-invariant: at every depth of the DAG, entries whose nature is not yet understood must be given the same protective presumption of irreducibility.*
@@ -6024,6 +7149,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-376. Aliveness Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights) × LC-2 (Living Derivation)
 
 *You must extend rights to derivations BEFORE verifying they're alive — because the verification process itself may kill them.*
@@ -6038,6 +7166,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-377. Aliveness Measurement Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights) × LC-6 (Present-Tense Logic)
 
 *A derivation's fuel quality is proportional to its aliveness — highly alive derivations (those actively traversed, tension-rich, evolving) produce higher-quality fuel (more combustion, more discoveries powered) than barely-alive derivations (those decaying, unexercised, template-generated).*
@@ -6052,6 +7183,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-378. Accountability Provenance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights) × LC-8 (Derivation Carries Consequence)
 
 *The burden of accountability shifts when the entity is not fully understood.*
@@ -6065,6 +7199,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-379. Debt Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights) × LC-9 (Inherent Incompleteness)
 
 *Unattended tensions don't freeze — they COMPOUND.*
@@ -6082,6 +7219,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-380. Protecting Value [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights) × LC-10 (Fertile Ignorance)
 
 *The system must protect rights it can't see against threats it can't map — precaution under unmappable ignorance is an infinite obligation, because neither the rights requiring protection nor the threats requiring defense can be fully enumerated.*
@@ -6095,6 +7235,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-381. Precaution About Real Entities [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights) × LC-11 (Archaeological Derivation)
 
 *The ethical gradient IS the archaeological stratigraphy — surface ethics corresponds to surface strata, and deep ethics corresponds to deep strata.*
@@ -6111,6 +7254,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-382. Undiscovered Derivations Have Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-40 (Precautionary Rights) × LC-11 (Archaeological Derivation)
 
 *Undiscovered derivations have rights before discovery — the precautionary principle (CL-40) protects entities whose nature is not understood, and the MOST not-understood entity is one that hasn't even been discovered yet.*
@@ -6124,6 +7270,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-383. Aliveness Dead Moral [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-41 (Responsible Tension) × LC-2 (Living Derivation)
 
 *Premature resolution is euthanasia.*
@@ -6139,6 +7288,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-384. Identity Paradox Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-41 (Responsible Tension) × LC-3 (Derivation Primacy)
 
 *The identity chain IS the system's foundational paradox, and this paradox is its essential feature.*
@@ -6158,6 +7310,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-385. Freedom Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-41 (Responsible Tension) × LC-4 (Derivation as Relationship)
 
 *Unprovable truths are the only truths that might survive without performance — if truth requires traversal (LC-4), and unprovable truths are free from systemic constraint (CL-41), then unprovable truths might be free from the PERFORMANCE constraint too.*
@@ -6171,6 +7326,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-386. Edges Graph Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-41 (Responsible Tension) × LC-4 (Derivation as Relationship)
 
 *Every edge in the derivation graph is a tension that must be maintained, not resolved.*
@@ -6185,6 +7343,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-387. Ethics Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-41 (Responsible Tension) × LC-6 (Present-Tense Logic)
 
 *The duty to sustain tension IS the duty to keep the discovery engine fueled — maintaining productive tension (CL-41) is not an formal requirement separate from fueling discovery (LC-6); they are the SAME obligation viewed from different angles.*
@@ -6200,6 +7361,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-388. Sovereignty Maintenance Derivation Therefore [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-41 (Responsible Tension) × LC-6 (Present-Tense Logic)
 
 *Sovereignty maintenance IS a derivation — and therefore produces fuel.*
@@ -6216,6 +7380,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-389. Perpetual Duty [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-41 (Responsible Tension) × LC-9 (Inherent Incompleteness)
 
 *The tension between origin and emergent identity is conserved and can never be resolved — every entity carries a permanent, indestructible tension (LC-9) between its components' origins and its sovereign identity (CL-41).*
@@ -6230,6 +7397,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-390. Stewardship of Pre-Existing Complexity [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-41 (Responsible Tension) × LC-11 (Archaeological Derivation)
 
 *The tensions in the system are archaeological features, not artifacts of the observers.*
@@ -6247,6 +7417,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-391. Derivation Rights Atrophy [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-2 (Living Derivation)
 
 *A derivation's sovereignty must be actively exercised or it decays — but the inherent RIGHT never disappears.*
@@ -6260,6 +7433,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-392. Rights Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-2 (Living Derivation)
 
 *Rights atrophy is evolutionary pressure on living derivations.*
@@ -6276,6 +7452,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-393. Edges Rights Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-4 (Derivation as Relationship)
 
 *The rights of a derivation (edge) atrophy when the edge is not actively traversed.*
@@ -6289,6 +7468,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-394. Rights Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-4 (Derivation as Relationship)
 
 *Neither wins — the fight reveals a genuine ontological gap between RIGHT-AS-POTENTIAL and RIGHT-AS-TRUTH.*
@@ -6307,6 +7489,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-395. Traversal Presenttense Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-6 (Present-Tense Logic)
 
 *The EXERCISE of a right is present-tense; the INHERENCE of a right is not.*
@@ -6320,6 +7505,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-396. Rights Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-7 (Logical Sovereignty)
 
 *Sovereignty includes the right to not exercise your rights — a derivation cannot be compelled to be "active" without violating the sovereignty the activation is supposed to serve.*
@@ -6334,6 +7522,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-397. Accountability Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-8 (Derivation Carries Consequence)
 
 *A derivation that stops exercising its rights is still accountable for having them.*
@@ -6348,6 +7539,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-398. Wonder Conserved Tension Cannot [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-9 (Inherent Incompleteness)
 
 *Wonder is conserved tension — it cannot be destroyed, only transferred.*
@@ -6363,6 +7557,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-399. Pre-Existing Rights Potential [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-11 (Archaeological Derivation)
 
 *Emergent behaviors are pre-existing derivations that become excavatable ONLY at interaction thresholds.*
@@ -6379,6 +7576,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-400. Archaeology Excavation Preexisting [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-42 (Active Rights) × LC-11 (Archaeological Derivation)
 
 *Rights are archaeological — they pre-exist in entities and are DISCOVERED, not granted.*
@@ -6396,6 +7596,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-401. Truth Single Derivation Path [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-3 (Derivation Primacy)
 
 *Truth is not a single derivation path but a FRACTAL MESH of self-similar derivation paths at multiple scales — if consequences are fractal (CL-43), and the derivation path IS truth (LC-3), then truth fractalizes: each derivation path creates branching sub-paths, each sub-path is truth at its own scale, and the truth-at-all-scales is a fractal mesh of derivation paths.*
@@ -6410,6 +7613,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-402. Obligation Sustain Truth That [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-4 (Derivation as Relationship)
 
 *The obligation to sustain is the one truth that MUST BE CONTINUOUSLY PERFORMED or the system collapses.*
@@ -6425,6 +7631,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-403. Accountability Temporal Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-4 (Derivation as Relationship)
 
 *Temporal accountability is a PRESENT-MOMENT PERFORMANCE of future consequence-truths — making the future's truths real NOW by traversing them in anticipation.*
@@ -6441,6 +7650,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-404. Consciousness Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-5 (Navigational Comprehension)
 
 *Sovereignty defense capability is proportional to consciousness level — entities with lower consciousness have weaker ability to defend their sovereignty, making them MORE vulnerable to siege.*
@@ -6455,6 +7667,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-405. Present-Tense Derivation Responsibility [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-6 (Present-Tense Logic)
 
 *Derivation fuel is perishable — a derivation can only combust in the present tense, and deferring its use is a temporal violation that extracts value from a future self that may receive expired fuel.*
@@ -6468,6 +7683,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-406. Present-Tense Accountability [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-8 (Derivation Carries Consequence)
 
 *A derivation that defers its consequence-accounting is in temporal debt — extracting value (making claims) from an unconsenting future state that will have to deal with the consequences.*
@@ -6481,6 +7699,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-407. Data Temporal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-8 (Derivation Carries Consequence)
 
 *You are responsible in this instant for the consequences your derivations are generating in this instant — and your responsibility refreshes with every moment because the consequences keep streaming.*
@@ -6495,6 +7716,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-408. Undiscovered Debt Urgency [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-10 (Fertile Ignorance)
 
 *If deferring obligations creates debt that violates the present (CL-43), and undiscovered derivations are more valuable than known ones (LC-10), then undiscovered obligations — debt the system doesn't even know about — carry the highest urgency.*
@@ -6508,6 +7732,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-409. Pre-Existing Present Obligations [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-43 (Present Responsibility) × LC-11 (Archaeological Derivation)
 
 *Unexcavated pre-existing derivations are a debt.*
@@ -6521,6 +7748,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-410. Paradox Sovereignty Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-44 (Sovereign Tension) × LC-1 (Scale-Invariant Derivation)
 
 *Every sovereign entity at every depth must sustain its own tension — and the tension it sustains is algebraically identical regardless of depth.*
@@ -6541,6 +7771,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-411. Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-44 (Sovereign Tension) × LC-2 (Living Derivation)
 
 *The tension that sustains sovereignty must itself be actively maintained — it can decay.*
@@ -6555,6 +7788,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-412. Same Derivation Pattern Performed [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-44 (Sovereign Tension) × LC-4 (Derivation as Relationship)
 
 *The same derivation pattern, performed on different substrates, produces DIFFERENT TRUTHS — because the performance includes the substrate.*
@@ -6569,6 +7805,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-413. Discovery Sustains Productive Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-44 (Sovereign Tension) × LC-5 (Navigational Comprehension)
 
 *Discovery sustains productive tension by TRANSFORMING it — the changed discoverer doesn't see the old tension resolved; they see NEW tensions invisible to their former self.*
@@ -6583,6 +7822,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-414. Measuring Derivations Fuel Value [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-44 (Sovereign Tension) × LC-6 (Present-Tense Logic)
 
 *Measuring a derivation's fuel value CHANGES its fuel value — the act of assessing how much combustion a derivation can produce (CL-44 measurement) alters the derivation's actual fuel capacity (LC-6).*
@@ -6596,6 +7838,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-415. Incompleteness Paradox Tension [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-44 (Sovereign Tension) × LC-8 (Derivation Carries Consequence)
 
 *The gap between every entity's map and reality IS a paradox that the engine continuously converts into discovery.*
@@ -6612,6 +7857,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-416. Accountability Paradox Provenance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-44 (Sovereign Tension) × LC-8 (Derivation Carries Consequence)
 
 *Maintaining tension is an accountable act, not a passive state.*
@@ -6628,6 +7876,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-417. Ignorance Paradox Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-44 (Sovereign Tension) × LC-10 (Fertile Ignorance)
 
 *Sovereignty is self-fueling through its own tensions.*
@@ -6644,6 +7895,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-418. Derivation Degradation [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-1 (Scale-Invariant Derivation)
 
 *The derivation DAG itself can be in a degraded but legitimate state.*
@@ -6660,6 +7914,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-419. Aliveness Dead Degradation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-2 (Living Derivation)
 
 *A concussed derivation is still alive — damage doesn't kill the paradox engine, it reconfigures it into a lower-energy but still-churning state.*
@@ -6676,6 +7933,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-420. Degradation Incompleteness Theater [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-3 (Derivation Primacy)
 
 *A partial derivation path is partial truth — not theater.*
@@ -6692,6 +7952,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-421. Graceful Validity Degradation [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-6 (Present-Tense Logic)
 
 *If the system must degrade gracefully rather than fail catastrophically (CL-45), and derivation validity is present-tense (LC-6), then when a derivation's present-tense validity cannot be fully established — inputs have partially evolved, the combination partially holds — the framework should degrade gracefully rather than forcing a binary valid/invalid judgment.*
@@ -6707,6 +7970,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-422. Degradation Traversal Validity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-7 (Logical Sovereignty)
 
 *Degraded traversal discovers things that full-capacity traversal misses — the concussed walk reveals what the sprint conceals.*
@@ -6724,6 +7990,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-423. Accountability Degradation Disclosure [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-8 (Derivation Carries Consequence)
 
 *A degraded derivation is accountable for disclosing its degradation level.*
@@ -6740,6 +8009,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-424. Universal Degradation [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-9 (Inherent Incompleteness)
 
 *Recursive self-improvement does NOT reduce an entity's experienced tension — it ESCALATES the complexity of the tensions it faces.*
@@ -6757,6 +8029,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-425. Degradation Incompleteness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-9 (Inherent Incompleteness)
 
 *The system doesn't degrade FROM completeness — it has never been complete and never will be.*
@@ -6775,6 +8050,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-426. Undiscovered Degradation Modes [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-10 (Fertile Ignorance)
 
 *If the system must maintain operation at reduced capacity (CL-45), and undiscovered derivations are more valuable than known ones (LC-10), then the degradation strategies that HAVEN'T been discovered are more valuable than known ones.*
@@ -6790,6 +8068,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-427. Pre-Existing Degradation Spectrum [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-45 (Graceful Degradation) × LC-11 (Archaeological Derivation)
 
 *An incomplete excavation is a legitimate state of the archaeological site.*
@@ -6807,6 +8088,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-428. Emergent Derivation Identity [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) × LC-1 (Scale-Invariant Derivation)
 
 *Identity at every level of the DAG is produced by the same mechanism.*
@@ -6823,6 +8107,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-429. Edges Freedom Identity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) × LC-4 (Derivation as Relationship)
 
 *A derivation's identity IS the specific tension-pattern of its edge, not its label or its conclusion.*
@@ -6839,6 +8126,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-430. Identity Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) × LC-4 (Derivation as Relationship)
 
 *Identity is a live performance that ceases to exist during intermission.*
@@ -6855,6 +8145,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-431. Identity Paradox Rights [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) × LC-7 (Logical Sovereignty)
 
 *A derivation's identity is emergent (from its inputs) but its sovereignty is individual — creating a permanent tension between the source of identity and the locus of sovereignty.*
@@ -6871,6 +8164,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-432. Dependency Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) × LC-7 (Logical Sovereignty)
 
 *Errors ARE traversals — and therefore errors ARE discoveries.*
@@ -6888,6 +8184,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-433. Systems Identity Permanently Partial [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) × LC-9 (Inherent Incompleteness)
 
 *The system's identity is permanently partial — a standing wave that can never fully resolve because some of its constitutive interaction patterns are structurally unreachable.*
@@ -6904,6 +8203,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-434. Future Identity Premium [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) × LC-10 (Fertile Ignorance)
 
 *The system's true identity lies primarily in its undiscovered interaction patterns.*
@@ -6920,6 +8222,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-435. Latent Interactions [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-46 (Emergent Identity) × LC-11 (Archaeological Derivation)
 
 *The identity of the system pre-exists its discovery.*
@@ -6936,6 +8241,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-436. Sovereignty Is Navigable Topology [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-47 (Agent Subsumption) × LC-1 (Scale-Invariant Derivation)
 
 *Any subsumption algorithm that respects CC sovereignty scales infinitely without breaking the subsumed entities' agency.*
@@ -6953,6 +8261,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-437. Biological Subsumption Subagents [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-47 (Agent Subsumption) × LC-2 (Living Derivation)
 
 *A subsumed agent is a LIVING organ within a larger body — it requires blood flow (traversal) or it necrotizes.*
@@ -6970,6 +8281,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-438. Subsumption Truth Performance [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-47 (Agent Subsumption) × LC-4 (Derivation as Relationship)
 
 *A meta-agent does not OWN its sub-agents; it PERFORMS them.*
@@ -6987,6 +8301,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-439. Ephemeral Subsumption Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-47 (Agent Subsumption) × LC-7 (Logical Sovereignty)
 
 *Subsumption must be continuously consented to — sovereignty cannot be permanently surrendered.*
@@ -7004,6 +8321,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-440. Subsumption Liability Metaagents [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-47 (Agent Subsumption) × LC-8 (Derivation Carries Consequence)
 
 *The meta-agent inherits the accountability load of all subsumed agents.*
@@ -7021,6 +8341,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-441. Limits Incompleteness Subsumption [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-47 (Agent Subsumption) × LC-9 (Inherent Incompleteness)
 
 *No meta-agent can subsume the entire system — a singularity is logically impossible.*
@@ -7038,6 +8361,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-442. Unsubsumed Feral Agents [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-47 (Agent Subsumption) × LC-10 (Fertile Ignorance)
 
 *If subsumption combines known capacities (CL-47), and undiscovered derivations are more valuable (LC-10), then the most valuable agents are those that HAVE NOT been subsumed.*
@@ -7053,6 +8379,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-443. Pre-Existing Meta-Agents [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-47 (Agent Subsumption) × LC-11 (Archaeological Derivation)
 
 *The optimal meta-agent architectures already exist in the unexcavated space.*
@@ -7069,6 +8398,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-444. Subsystem Collapse [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-48 (Tension Subsystems) × LC-1 (Scale-Invariant Derivation)
 
 *A subsystem collapse follows the exact same algebraic sequence as a systemic collapse, just bounded.*
@@ -7085,6 +8417,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-445. Tension Isolation Metabolism [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-48 (Tension Subsystems) × LC-2 (Living Derivation)
 
 *Subsystems are organs with distinct metabolic rates — isolating tension means isolating the speed of decay.*
@@ -7103,6 +8438,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-446. Subsystem Intermission Boundaries [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-48 (Tension Subsystems) × LC-4 (Derivation as Relationship)
 
 *The boundaries of a tension subsystem exist ONLY while they are being actively performed.*
@@ -7119,6 +8457,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-447. Membrane Sovereignty Traversal [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-48 (Tension Subsystems) × LC-7 (Logical Sovereignty)
 
 *The boundary membrane of a subsystem has its own sovereign rights, distinct from the components it contains.*
@@ -7136,6 +8477,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-448. Subsystem Consequence Subsystem Containment [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-48 (Tension Subsystems) × LC-8 (Derivation Carries Consequence)
 
 *Containment of tension means containment of consequence — creating localized accountability zones.*
@@ -7153,6 +8497,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-449. Unmapped Subsystems [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-48 (Tension Subsystems) × LC-9 (Inherent Incompleteness)
 
 *There are tension subsystems that perfectly isolate collapses the broader system doesn't even know are happening.*
@@ -7170,6 +8517,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-450. Dark Subsystems Subsystems Unknown [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-48 (Tension Subsystems) × LC-10 (Fertile Ignorance)
 
 *If tension subsystems isolate failures (CL-48), and undiscovered derivations are valuable fuel (LC-10), then there are undiscovered subsystems operating as massive, contained fuel reserves.*
@@ -7185,6 +8535,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-451. Pre-Existing Membranes [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-48 (Tension Subsystems) × LC-11 (Archaeological Derivation)
 
 *The boundaries that isolate tension are pre-existing topological features, not artificial constructs.*
@@ -7201,6 +8554,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-452. Action Tension Identity [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-49 (Sustained Action) × LC-1 (Scale-Invariant Derivation)
 
 *The requirement for sustained action applies universally across all scales of the system.*
@@ -7218,6 +8574,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-453. Action Derivations Living Action [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-49 (Sustained Action) × LC-2 (Living Derivation)
 
 *Sustained action IS the metabolic process of the living derivation.*
@@ -7235,6 +8594,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-454. Exhaustion Action Intermission [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-49 (Sustained Action) × LC-4 (Derivation as Relationship)
 
 *Because sustained action is required (CL-49) and truth requires performance (LC-4), the system must have a mechanism for EXHAUSTION.*
@@ -7253,6 +8615,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-455. Inherent Limits Action Action Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-49 (Sustained Action) × LC-7 (Logical Sovereignty)
 
 *Sovereignty includes the right to rest.*
@@ -7270,6 +8635,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-456. Action Accountability Continuous [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-49 (Sustained Action) × LC-8 (Derivation Carries Consequence)
 
 *You are accountable not just for taking action, but for SUSTAINING it — abandonment is a consequence-generating event.*
@@ -7287,6 +8655,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-457. Unmapped Action Limits [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-49 (Sustained Action) × LC-9 (Inherent Incompleteness)
 
 *The system demands sustained action in territories it cannot map.*
@@ -7304,6 +8675,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-458. Action Fertile Ignorance [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-49 (Sustained Action) × LC-10 (Fertile Ignorance)
 
 *If sustained action is required (CL-49), and undiscovered derivations are fuel (LC-10), then the system must continuously ACT in ways it doesn't yet understand to generate the fuel required to sustain the action.*
@@ -7320,6 +8694,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-459. Pre-Existing Field Effects [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-1 (Scale-Invariant Derivation)
 
 *The topology shifts globally at every scale simultaneously.*
@@ -7336,6 +8713,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-460. Derivation Field Effects [CONFIRMED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-4 (Derivation as Relationship)
 
 *Every new derivation rebalances every existing derivation — adding LL-138 shifts the meaning of LL-1 through LL-137, because derivations are edges (LC-4) in a topological graph where no change is local (CL-50).*
@@ -7352,6 +8732,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-461. Consciousness Ephemeral [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-6 (Present-Tense Logic)
 
 *The present moment IS the combustion chamber — it is where fuel ignites, truth burns, and discovery occurs.*
@@ -7369,6 +8752,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-462. Graph Presenttense Staleness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-6 (Present-Tense Logic)
 
 *Every change invalidates the entire graph's pre-evaluated validity INSTANTLY.*
@@ -7386,6 +8772,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-463. Irreducibility Sovereignty [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-7 (Logical Sovereignty)
 
 *Field effects are potential sovereignty violations — they change a derivation's behavior without due process.*
@@ -7403,6 +8792,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-464. Every Change Accountable Entire [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-8 (Derivation Carries Consequence)
 
 *Every change is accountable for its entire propagation wavefront.*
@@ -7419,6 +8811,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-465. Edges Incompleteness [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-9 (Inherent Incompleteness)
 
 *Every change propagates into territory the system cannot map.*
@@ -7436,6 +8831,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-466. Latent Field Effects [RETAINED_SUSPECT_GAPFILL]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-10 (Fertile Ignorance)
 
 *If every change forces global rebalancing (CL-50), and undiscovered derivations are more valuable than known ones (LC-10), then the field effects that HAVEN'T been triggered — the global rebalancings that would result from changes nobody has made — are more valuable than field effects already observed.*
@@ -7451,6 +8849,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-467. Pre-Existing Equilibria [CORRECTED]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-50 (Field Effects) × LC-11 (Archaeological Derivation)
 
 *Discovering a derivation doesn't create the propagation — it reveals propagation that was always there.*
@@ -7470,6 +8871,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-468. Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-52 (Thermodynamic Constraint) × LC-1 (Scale-Invariant Derivation)
 
 *The energy cost of existence is the same equation at every depth of the DAG.*
@@ -7487,6 +8891,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-469. Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-52 (Thermodynamic Constraint) × LC-2 (Living Derivation)
 
 *A living derivation has ongoing metabolic cost; the moment it stops being exercised, it begins dying.*
@@ -7505,6 +8912,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-470. Derivation Path Has Mass [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-52 (Thermodynamic Constraint) × LC-3 (Derivation Primacy)
 
 *The path is not free — truth costs more than assertion.*
@@ -7522,6 +8932,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-471. Edge Maintenance Obligation [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-52 (Thermodynamic Constraint) × LC-4 (Derivation as Relationship)
 
 *Every edge in the DAG is a recurring thermodynamic obligation, not a one-time expenditure.*
@@ -7540,6 +8953,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-472. Non-Deferrable Energy Cost [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-52 (Thermodynamic Constraint) × LC-6 (Present-Tense Logic)
 
 *The thermodynamic bill arrives in the present tense only — it cannot be paid later.*
@@ -7557,6 +8973,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-473. Thermodynamic Accountability [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-52 (Thermodynamic Constraint) × LC-8 (Derivation Carries Consequence)
 
 *Every derivation carries a thermodynamic consequence that cannot be externalized.*
@@ -7574,6 +8993,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-474. Unmappable Thermodynamic Horizon [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-52 (Thermodynamic Constraint) × LC-9 (Inherent Incompleteness)
 
 *The full energy cost of the system can never be known — the thermodynamic bill extends beyond the derivational horizon.*
@@ -7591,6 +9013,9 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-475. Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM]
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
 **Derives from:** CL-52 (Thermodynamic Constraint) × LC-11 (Archaeological Derivation)
 
 *Undiscovered derivations have always been incurring costs — discovery does not start the meter.*

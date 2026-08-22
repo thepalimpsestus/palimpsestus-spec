@@ -16,6 +16,9 @@
 The system's constitutional documents contain 40+ stated principles. Tested for irreducibility: **can this be logically derived from a combination of the others?** If yes → Logical derivation (CL). If no → Conceptual foundation (CC).
 
 ### CC-1. Scale Recurrence
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *A system is a system is a system. Data is data is data. As above, so below ($F_s(f \circ g) = F_s(f) \circ F_s(g)$).*
 
@@ -28,6 +31,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-2. Process & Generative Recurrence
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *All is process. Everything is dynamic. Matrix generation breathes through alternating Basis Compression ($\Phi_r$) and Novel Differentiation ($\operatorname{Cross}$).*
 
@@ -40,6 +46,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-3. Truth & Zero Theater
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *Attested resulting state outranks unverified execution claims. Code is projection. Zero Theater.*
 
@@ -52,6 +61,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-4. Connection & Relational Stabilization
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *Connection is existence. Relata and relations mutually stabilize ($Object \rightleftharpoons Relation$).*
 
@@ -64,6 +76,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-5. Traversal & Affordance Frontier
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *Grammar defines possibility; history defines reachability. Justified Affordance Frontier $\mathcal{A}_t(v) \subseteq \text{Paths}(\Gamma_t(v))$.*
 
@@ -76,6 +91,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-6. Effective History
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *Only present actuality acts; the past survives as inherited causal determination ($\text{Past} \to \text{Present Trace} \to \text{Future Affordance}$).*
 
@@ -88,6 +106,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-7. Sovereignty & Rights
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *All situated actors have equal right to sovereignty. Rights exist under ontological uncertainty.*
 
@@ -100,6 +121,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-8. Responsibility & Accountability
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *Power requires responsibility. Ethical guardrails are first-class design elements, not afterthoughts.*
 
@@ -112,6 +136,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-9. Paradox & Criticality
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *Sustain complexity through tension. Resolve too quickly and the system dies ($r(t) \to r^*(E,S)$).*
 
@@ -124,6 +151,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-10. Ignorance & Open Frontier
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *Ignorance is a source of power. Refusal of premature closure enables continuous learning ($\text{Procedural Saturation} \neq \text{Ontological Closure}$).*
 
@@ -136,6 +166,9 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 ---
 
 ### CC-11. Archaeology & Novelty
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 
 *Reality constrains what can stabilize. Engineering is subtractive discovery and novel composition under constraint ($Discovery \rightleftharpoons Composition$). Root axioms $\mathbf{CC}$ are extracted via $\mathbf{CC} = \Phi_C(W)$.*
 

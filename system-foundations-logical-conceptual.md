@@ -19,6 +19,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ## LC Derivations
 
 ### LC-1. Scale-Invariant Derivation
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-1 (Scale Recurrence)
 
 *The same combination rules at every depth. CCâ†’CL follows the same algebra as CLâ†’LL.*
@@ -36,6 +39,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-2. Living Derivation
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-2 (Process & Generative Recurrence)
 
 *The derivation chain is alive. Logic evolves.*
@@ -53,6 +59,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-3. Derivation Primacy
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-3 (Truth & Zero Theater)
 
 *The derivation IS the truth. Show the work or it's theater.*
@@ -70,6 +79,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-4. Derivation as Relationship
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-4 (Connection & Relational Stabilization)
 
 *A derivation IS the edge between axioms. CL-1 doesn't reference CC-7 and CC-4 â€” it IS the connection between them.*
@@ -87,6 +99,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-5. Navigational Comprehension
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-5 (Traversal & Affordance Frontier)
 
 *You cannot understand CL-1 by reading its label. You must traverse from CC-7 through CC-4 and experience the derivation.*
@@ -104,6 +119,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-6. Present-Tense Logic
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-6 (Effective History)
 
 *A derivation is valid NOW or it is not valid. Past proofs are stale logic â€” subject to decay.*
@@ -121,6 +139,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-7. Logical Sovereignty
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-7 (Sovereignty & Rights)
 
 *Every derivation has the right to exist until proven reducible. You cannot kill a derivation by fiat.*
@@ -138,6 +159,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-8. Derivation Carries Consequence
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-8 (Responsibility & Accountability)
 
 *Every derivation is accountable for its claims. Show provenance or accept that the claim is unsupported.*
@@ -155,6 +179,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-9. Inherent Incompleteness
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-9 (Paradox & Criticality)
 
 *The derivation engine cannot prove its own completeness. There are always true claims that the current axiom set cannot reach.*
@@ -172,6 +199,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-10. Fertile Ignorance
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-10 (Ignorance & Open Frontier)
 
 *The derivations you haven't found are more valuable than the ones you have. The 12 discarded CC pairs may contain undiscovered logic.*
@@ -189,6 +219,9 @@ CC applies to reality in general. LC applies CC to the domain of logic itself â€
 ---
 
 ### LC-11. Archaeological Derivation
+**Epistemic Tier:** Tier 2 (Constitutive Axiom)
+
+
 **Applies to:** CC-11 (Archaeology & Novelty)
 
 *Derivations pre-exist. We discover them â€” we do not invent them. CL-1 was always implied by CC-7 + CC-4.*
