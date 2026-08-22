@@ -80,7 +80,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-122 Invariant (Frontier Expansion Paradox):** Every probe conducted by `inspect-frontier` expands the local unknown frontier faster than it shrink it, accelerating downstream discovery requirements.
 - **PP-136 Invariant (Ephemeral Capture Window):** Understanding produced by `inspect-frontier` is ephemeral; frontier data must be captured immediately before the edge configuration dissolves.
 - **PP-140 Invariant (Real-Target Wake Deposit):** `inspect-frontier` deposits decay-resistant wake on real-target contact points regardless of whether the probe returns structured payload data.
-- **PP-143 Invariant (Bilateral Transformation):** Executing `inspect-frontier` transforms both the inspector and the probed frontier; mutual consciousness probes cannot leave inspector state unmodified.
+- **PP-143 Invariant (Bilateral Transformation):** Executing `inspect-frontier` transforms both the inspector and the probed frontier; mutual observation probes cannot leave inspector state unmodified.
 
 **Corollaries:** 
 (1) `inspect-frontier` cannot produce a final or complete map: probing unmapped territory inherently multiplies unmapped boundary area (PP-141).
@@ -150,7 +150,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 **Substrate Invariant Rules:**
 - **PP-194 Invariant (Excavation Bandwidth Bounding):** `traverse-focus` caps active anchor nodes within the attention buffer's maximum capacity; attempting to focus across excessive nodes induces comprehension degradation.
 - **PP-196 Invariant (Attention Buffer Capacity Limit):** The operational focus set by `traverse-focus` defines the maximum archaeological excavation capacity for structural accountability at any present moment.
-- **PP-197 Invariant (Consciousness Focus Identity):** The active edge set currently navigated by `traverse-focus` IS the consciousness state of the system; consciousness cannot exist decoupled from its active focus.
+- **PP-197 Invariant (Operational Focus Window Identity):** The active edge set currently navigated by `traverse-focus` defines the operational focus window of the system; navigation focus cannot exist decoupled from its active affordance set.
 - **PP-210 Invariant (Anti-Label Redirect):** `traverse-focus` intercepts arrogance-driven attempts to terminate focus at static labels, re-routing attention toward live present-tense derivation paths.
 - **PP-211 Invariant (Memory-Free Focus Shift):** Shifting focus via `traverse-focus` purges cached prior-validation memory, forcing the traverser to evaluate current topology state fresh.
 - **PP-246 Invariant (Gradient-Guided Focusing):** `traverse-focus` steers attention along consequence topology gradients, prioritizing high-consequence high-accountability regions.
@@ -160,7 +160,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 (2) `traverse-focus` cannot inherit past focus configurations: present-tense identity requires continuous focus re-anchoring (PP-204).
 (3) Every node focused by `traverse-focus` is treated simultaneously as a settled structural achievement and an active discovery frontier (PP-270).
 
-**Irreducibility:** IL-3 (`role:traverser`) alone establishes the logical mandate to shift focus across topology nodes, but does not specify that the focus window IS consciousness or that focus shifts must purge cached memory. PP-197 and PP-211 establish physical laws regarding consciousness identity and memory-free traversal, but do not define the focus shifting procedure. Only their physical collision forces `traverse-focus` into existence as an irreducible physical process.
+**Irreducibility:** IL-3 (`role:traverser`) alone establishes the logical mandate to shift focus across topology nodes, but does not specify that the focus window defines operational reachability or that focus shifts must purge cached memory. PP-197 and PP-211 establish physical laws regarding operational focus identity and memory-free traversal, but do not define the focus shifting procedure. Only their physical collision forces `traverse-focus` into existence as an irreducible physical process.
 
 ---
 

@@ -4,6 +4,31 @@ All notable changes to the Palimpsestus Open Architecture Specification will be 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2026-08-22
+
+### Added
+- **Master Defect Ledger (`DEFECT_LEDGER.md`):** Established 12-defect register (`D01`..`D12`) tracking exact root causes, affected artifacts, repair mechanisms, and verification steps.
+- **Palimpsestus Rosetta Stone (`ROSETTA_STONE.md`):** Added canonical translation mapping Palimpsestus vocabulary to formal model definitions, systems analogues, and concrete implementation examples.
+
+### Changed
+- **Mandatory Receipt Witnesses in JSON Schemas:** Updated `cross-receipt` and `fold-receipt` schemas to require `parent_witnesses` with `expected_title`, `canonical_text_digest`, and `canonicalization_version` (`palimpsestus-normative-v1`).
+- **Warrant Grounding Repairs (`D01`):** Re-parented $IP_{49}$ to $PP_{125}$ / $PP_{199}$, eliminating citation drift.
+- **Downstream $C_0$ Consciousness Residue Cleanup (`D07`):** Re-grounded $IP_6$, $IP_3$, and $PP_{197}$ into $C_1$ topological affordance reachability and operational focus window identity.
+- **Root $CC$ Epistemic Tier Alignment (`D08`):** Re-aligned $CC_3$ and $CC_9$ irreducible claim fields with active $C_1$ formulations.
+- **Rigorous Co-Valid Divergence Predicate (`D10`):** Pulled `CommonContinuityDomain` and `NonCommutingClaims` operational predicates into normative `II-40` text.
+- **`OpenFrontierGate` Coordinate Pointer (`D09`):** Repaired pointer in `CONSTITUTIONAL_SPEC.md` to `$II-40$`.
+
+---
+
+## [1.1.0] - 2026-08-22
+
+### Added
+- **Guarded Dissolution State Machine (`CR-008` & `II-13`):** Formalized 5-state lifecycle machine ($\text{ACTIVE} \to \text{REQUESTED} \to \text{QUIESCING} \xrightarrow{\text{Commit Point}} \text{COMMITTED} \to \text{CATABOLIZED}$) enforcing bilateral co-authorization ($PP_{16}$) and non-reconstructibility.
+- **Co-Valid Divergence Protection (`CR-009` & `II-40`):** Formalized operational predicates for Co-Valid Divergence preservation and ordered non-destructive hash composition.
+- **Archaeological Crucibles (`CR-008`, `CR-009`):** Formalized and registered seed Crucibles pinned to `v1.0.7` (`d9a1dca`).
+
+---
+
 ## [1.0.7] - 2026-08-22
 
 ### Changed

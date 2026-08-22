@@ -119,7 +119,7 @@ The system's constitutional documents contain 40+ stated principles. Tested for 
 
 **Historical $C_0$ Trace:** Sustain complexity through tension.
 
-**Irreducible Claim:** Dynamic tension drives continuous self-organized criticality ($r(t) \to r^*(E,S)$).
+**Irreducible Claim:** Sustained dynamic tension prevents premature collapse into stagnant equilibrium.
 
 ---
 

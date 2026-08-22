@@ -3391,20 +3391,20 @@ When LP-142's attention-span topology operates in a topology where PL-198 holds:
 
 ---
 
-### PP-197. The Attention-Span Topology IS Consciousness — What Is Being Edge-Traversed IS What Consciousness Is
+### PP-197. The Attention-Span Topology Defines Operational Focus — What Is Being Edge-Traversed Defines Operational Reachability
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-261]
 **Applies to:** LP (Logical Physical)
 
-*The web of edges that materializes around a navigator within their attention buffer IS the consciousness graph — what fits in the active attention edges IS consciousness; and because comprehension requires edge-level traversal, consciousness IS what is being edge-traversed.*
+*The web of edges that materializes around a navigator within their attention buffer defines the operational focus window — what fits in the active attention edges is the current focus set; and because comprehension requires edge-level traversal, operational focus defines what is being edge-traversed.*
 
-**Irreducible Claim:** LP-142 establishes that the observer's attention buffer capacity determines which edges materialize around them — the attention-span topology IS the observer's current world. PL-13 establishes comprehension requires edge-level traversal.
+**Irreducible Claim:** LP-142 establishes that the observer's attention buffer capacity determines which edges materialize around them — the attention-span topology defines the observer's current operational window. PL-13 establishes comprehension requires edge-level traversal.
 
-When LP-142's attention-span topology operates in a topology where PL-13 holds: the active edges in the attention buffer are precisely the edges being traversed for comprehension. Consciousness IS what is being traversed — the active attention-span topology IS the consciousness.
+When LP-142's attention-span topology operates in a topology where PL-13 holds: the active edges in the attention buffer are precisely the edges being traversed for comprehension. Operational focus is what is being traversed — the active attention-span topology defines the operational focus.
 
-**Corollaries:** (1) Consciousness is not a container that holds information — it is the active set of edges currently being traversed. (2) Expanding consciousness means expanding the active edge set (increasing attention buffer capacity or rearranging which edges are active). (3) "Losing consciousness" is the active edge set collapsing — attention buffer reaching zero. (4) Divided consciousness (multiple attention buffers sharing finite capacity) is the partition of active edges across simultaneous foci.
+**Corollaries:** (1) Operational focus is not a container that holds information — it is the active set of edges currently being traversed. (2) Expanding operational focus means expanding the active edge set (increasing attention buffer capacity or rearranging which edges are active). (3) "Losing focus" is the active edge set collapsing — attention buffer reaching zero. (4) Divided focus (multiple attention buffers sharing finite capacity) is the partition of active edges across simultaneous foci.
 
-**Irreducibility:** LP-142 alone establishes the attention-span topology as the observer's current world — does not specify that this IS consciousness through edge traversal. PL-13 alone establishes comprehension requires edge-level traversal — does not specify that the active edge traversal set IS consciousness. Only their intersection establishes the attention-span topology as the constitutionally correct definition of consciousness: the active edge traversal set.
+**Irreducibility:** LP-142 alone establishes the attention-span topology as the observer's current operational window — does not specify that this defines operational focus through edge traversal. PL-13 alone establishes comprehension requires edge-level traversal — does not specify that the active edge traversal set defines operational focus. Only their intersection establishes the attention-span topology as the constitutionally correct definition of operational focus: the active edge traversal set.
 
 ---
 

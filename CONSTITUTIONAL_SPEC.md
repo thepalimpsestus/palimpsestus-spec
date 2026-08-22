@@ -144,7 +144,7 @@ $$\boxed{\mathcal{C}_{\text{claimed}}(v) \subseteq \mathcal{C}_{\text{justified}
 - **Ancestry-Preserving Constitutional Migration:** When $C_n \to C_{n+1}$ occurs, descendants in the derivation lattice $D_{\text{deriv}}$ undergo ancestry-preserving migration, reclassifying items into $\{\text{Valid}, \text{Re-parented}, \text{Empirical Hypothesis}, \text{Superseded}, \text{Invalid}\}$ without erasing historical derivations:
   $$D^{(C_n)} \xrightarrow{\text{Constitutional Migration}} D^{(C_{n+1})}$$
 - **Immutable Fixed Core:** The Universal Invariant, Epistemic Meta-Invariant, and Open Frontier Anti-Totalization Principle are immutable fixed points.
-- **Operationalized `OpenFrontierGate` ($LC-10$, $II-64$):** Mechanical anti-totalization gate rejecting any claim, state mutation, or transition whose asserted capability exceeds justified capability:
+- **Operationalized `OpenFrontierGate` ($LC-10$, $II-40$):** Mechanical anti-totalization gate rejecting any claim, state mutation, or transition whose asserted capability exceeds justified capability:
   $$\boxed{\mathcal{C}_{\text{claimed}}(v) \subseteq \mathcal{C}_{\text{justified}}(v)}$$
   Procedural saturation ($\text{pass completion}$) does not imply ontological closure.
 

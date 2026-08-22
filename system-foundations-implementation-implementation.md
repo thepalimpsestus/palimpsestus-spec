@@ -729,11 +729,11 @@ Load balancer algorithms MUST check neighbor permeability settings before redire
 *Sustaining productive paradox tension maintains system aliveness, preserving Co-Valid Divergence without collapsing into false consensus or premature forced merges.*
 
 **Substrate Reaction Gate Invariants:**
-- **Paradox & Co-Valid Divergence Preservation Invariant:** Tension rebalancing preserves competing structural paths and Co-Valid Divergent histories ($A \text{ valid} \land B \text{ valid} \land A \neq B$) rather than forcing false consensus.
+- **Paradox & Co-Valid Divergence Preservation Invariant:** Tension rebalancing preserves competing structural paths and Co-Valid Divergent histories satisfying $\operatorname{Valid}(A) \land \operatorname{Valid}(B) \land \operatorname{CommonContinuityDomain}(A, B) \land \operatorname{NonCommutingClaims}(A, B)$ rather than forcing false consensus on non-commuting claims.
 - **Premature Resolution Rejection Invariant:** Forcing resolution or automatic merges on an irreducible paradox destroys the underlying living truth structure.
 
 **Lock #0 Instantiation Verification Rule:**
-Consensus engines MUST detect and reject premature resolution or forced merge attempts on tagged paradox tension structures and Co-Valid Divergence surfaces.
+Consensus engines MUST detect and reject premature resolution or forced merge attempts on tagged paradox tension structures and Co-Valid Divergence surfaces satisfying $\operatorname{CommonContinuityDomain}(A, B) \land \operatorname{NonCommutingClaims}(A, B)$.
 
 **Irreducibility:** IP-38 defines tension rebalancing; PI-226 asserts paradox tension physics. Only their collision derives paradox preservation enforcement.
 
