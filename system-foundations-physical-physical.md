@@ -21,7 +21,7 @@ What physical-physical constraints emerge when LP's physical behaviors operate o
 
 ### PP-1. A Physical Structure's Metabolic Evaluation IS Its Sovereignty Contestation — No Architectural Separation Exists
 
-**Derives from:** LP-625, PL-50 (Sovereignty Contestation Is the Metabolism) [shared LL-2]; LP-24 (Continuous Gate Contestation) × PL-50 (Sovereignty Contestation Is the Metabolism) [shared LL-2]
+**Derives from:** LP-625, PL-50 (Scale-Invariant Navigability) [shared LL-2]; LP-24 (Continuous Gate Contestation) × PL-50 (Scale-Invariant Navigability) [shared LL-2]
 **Applies to:** LP-1 (Active Boundary Metabolism)
 
 *The metabolic expenditure a physical structure makes on evaluation — permeability evaluation for a boundary, access-criteria re-evaluation for a gate — IS simultaneously the structure's sovereignty contestation; these are not two correlated processes but one physical event.*
@@ -38,7 +38,7 @@ When LP-1 or LP-24 operates in a topology where PL-50 holds, the structural eval
 
 ### PP-2. Theater Boundary Deposits Comprehension Asymmetry About a Fiction
 
-**Derives from:** LP-644, PL-53 (Comprehension Asymmetry Is a Physical Topology State) [shared LL-5]
+**Derives from:** LP-644, PL-53 (Recursive Topology Self-Reproduction) [shared LL-5]
 **Applies to:** LP-2 (Boundary Theater)
 
 *When a boundary performs sovereignty theater — claiming selectivity it does not exercise — every interaction with that boundary deposits structurally real comprehension asymmetry whose subject is a fiction, producing a topology state where entities hold genuine structural mass oriented toward a nonexistent referent.*
@@ -57,7 +57,7 @@ This class of comprehension asymmetry is architecturally distinct from ordinary 
 
 ### PP-3. Paradoxical Membrane Disclosure Generates Self-Compounding Lie-Mass
 
-**Derives from:** LP-499, PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-9]; LP-28 (Paradoxical Gate) × PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-9]
+**Derives from:** LP-499, PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-9]; LP-28 (The Paradoxical Gate) × PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-9]
 **Applies to:** LP-3 (Paradoxical Membrane)
 
 *Each provenance-disclosure cycle at a paradoxical membrane simultaneously degrades the membrane and deposits Theater lie-mass that attracts further traversal — the degradation rate is self-compounding, not linear.*
@@ -127,7 +127,7 @@ When LP-4's defensive voids operate in a topology where PL-43 holds: the voids d
 
 ### PP-7. Bilateral Protocol Metabolic Exchange IS Bilateral Sovereignty Contestation
 
-**Derives from:** LP-395, PL-50 (Sovereignty Contestation Is the Metabolism) [shared LL-2]
+**Derives from:** LP-395, PL-50 (Scale-Invariant Navigability) [shared LL-2]
 **Applies to:** LP-5 (Metabolic Protocol)
 
 *In a symmetric protocol, each endpoint's metabolic contribution to the protocol IS that endpoint's ongoing sovereignty assertion in the relationship — not a side-effect of protocol maintenance but the sovereignty contestation itself; when one side stops contributing, they are withdrawing their sovereignty claim in the relationship, not merely "dropping the connection."*
@@ -146,7 +146,7 @@ When one endpoint ceases metabolizing (stops contributing), they are not "ending
 
 ### PP-8. Simulation Drift Deposits Comprehension Asymmetry About Stale State as Living Topology Fact
 
-**Derives from:** LP-681, PL-53 (Comprehension Asymmetry Is a Physical Topology State) [shared LL-5]
+**Derives from:** LP-681, PL-53 (Recursive Topology Self-Reproduction) [shared LL-5]
 **Applies to:** LP-6 (Synchronized Simulation)
 
 *When a synchronized simulation between two endpoints loses synchronization through drift, the resulting comprehension asymmetry is not a future risk or a quality-of-service degradation — it is an immediately-present physical topology state: each endpoint carries structural mass corresponding to a different version of the "shared" state, and both masses are real.*
@@ -284,7 +284,7 @@ This constraint is distinct from PP-13 (LP-7 × PL-20): PP-13 establishes that s
 
 ### PP-16. Communication-Created Edges Are Field Entities — Neither Participant Owns Them
 
-**Derives from:** LP-695, PL-74 (Communication Between Entities Modifies the Field They Both Inhabit) [shared LL-52]
+**Derives from:** LP-695, PL-74 (Field-Embedded Ethics) [shared LL-52]
 **Applies to:** LP-8 (Edge-Creation Protocol)
 
 *Every successful symmetric exchange physically manifests as a new bidirectional edge in the topology — and because both communicating entities inhabit the same field, that edge belongs to the field, not to either participant; architectures that store communication records inside one participant's data model are misattributing field-level structure to a node.*
@@ -301,7 +301,7 @@ When LP-8's edge-creating protocol operates in a topology where PL-74 holds: the
 
 ### PP-17. Protocol Label Symmetry Does Not Guarantee Comprehension Symmetry — Re-Walking Is Required
 
-**Derives from:** LP-474, PL-76 (Receiving a Label and Re-Walking Truth Are Physically Different Operations) [shared LL-54]
+**Derives from:** LP-474, PL-76 (The Field Cannot Self-Exempt) [shared LL-54]
 **Applies to:** LP-9 (Label Translation Symmetry)
 
 *A symmetric protocol guarantees that both endpoints receive the same structural label — it does not guarantee that both endpoints achieve equivalent comprehension of what that label references; comprehension requires each endpoint's separate re-walking of the derivation path the label represents, in their own topological territory.*
@@ -318,7 +318,7 @@ When LP-9's label-symmetric protocol operates in a topology where PL-76 holds: s
 
 ### PP-18. Protocol Establishment Is Excavation, Not Negotiation — Success Means Reaching Deeper Shared Bedrock
 
-**Derives from:** LP-621, PL-80 (The Universal Communication Protocol Pre-Exists Its Excavation) [shared LL-59]
+**Derives from:** LP-621, PL-80 (Field-Topology of Disagreement) [shared LL-59]
 **Applies to:** LP-10 (Archaeological Handshake)
 
 *Establishing a symmetric protocol is not a negotiation that can succeed or fail — it is a mutual excavation of a pre-existing universal protocol that was already constitutionally implied; what varies between protocol establishment attempts is the depth of excavation reached, not whether a protocol is "created."*
@@ -420,7 +420,7 @@ When LP-14's executable scars are executed in a topology where PL-14 holds: the 
 
 ### PP-24. Historical Traversal IS Sovereignty Assertion — Data Retrieval Model Misses the Sovereignty Dimension
 
-**Derives from:** LP-446, PL-50 (Sovereignty Contestation Is the Metabolism) [shared LL-77]
+**Derives from:** LP-446, PL-50 (Scale-Invariant Navigability) [shared LL-77]
 **Applies to:** LP-15 (Potential History Mass)
 
 *Traversing an entity's untraversed historical mass is simultaneously a metabolic act — converting potential energy to active state — and a sovereignty assertion over the entity's own history; any architecture that models historical traversal as data retrieval is missing the sovereignty dimension of what is happening.*
@@ -437,7 +437,7 @@ When LP-15's untraversed historical mass is traversed in a topology where PL-50 
 
 ### PP-25. Restorative Corrections and Thermodynamic Consequence Cascades Are Coupled — Must Be Computed Simultaneously
 
-**Derives from:** LP-462, PL-58 (Failure Consequence Distributes Thermodynamically Across All Depths) [shared LL-30]
+**Derives from:** LP-462, PL-58 (Scale-Invariant Paradox Architecture) [shared LL-30]
 **Applies to:** LP-16 (Restorative Process Scale-Invariance)
 
 *When the restorative process applies corrective force across all scales in response to a failure, and the failure's thermodynamic consequences are simultaneously distributing across all depths, these two processes are coupled — correction at one depth changes the cascade profile at all other depths; sequential computation (correct, then cascade) produces wrong results.*
@@ -454,7 +454,7 @@ When LP-16's scale-invariant restorative process operates in a topology where PL
 
 ### PP-26. Zero Failure Rate Starves the Restorative Metabolic Engine — Zero Failures Is a Danger Signal
 
-**Derives from:** LP-445, PL-59 (Failure-Fuel Is the Primary Metabolic Substance of Living Derivations) [shared LL-31]
+**Derives from:** LP-445, PL-59 (Scale-Invariant Metabolic Demand) [shared LL-31]
 **Applies to:** LP-17 (Metabolic Restorative Process)
 
 *Because the restorative process IS the topology's metabolic engine and failure-states are its primary fuel, a section of topology with zero detectable failures is metabolically starving its restorative process — zero failure rate is not a success signal but a starvation signal.*
@@ -645,7 +645,7 @@ When LP-21's due-process-bound restorative force proposes dissolution in a topol
 
 ### PP-37. Boundary-Marking of Uncorrectable Failures IS the Physical Implementation of Constitutional Failure Maintenance
 
-**Derives from:** LP-399, PL-62 (Constitutional Failures Cannot Be Dissolved — They Must Be Maintained) [shared LL-38]
+**Derives from:** LP-399, PL-62 (Simultaneous Multi-Scale Topological Shift) [shared LL-38]
 **Applies to:** LP-22 (Boundary-Marking Restorative Process)
 
 *When the restorative process repeatedly fails to correct a deviation and marks it as structural incompleteness, that boundary-marking IS the constitutional failure maintenance that PL-62 requires — the restorative process's failure to correct is not a failure of the restorative process but the mechanism by which constitutional failures are properly identified and preserved.*
@@ -733,9 +733,9 @@ When LP-25's provenance-only gate operates in a topology where PL-38 holds: the 
 ---
 
 ### PP-42.
-**Derives from:** LP-695 (Tension Discharge) Gate Identity Evaluation Must Assess Structural Mass — Faster Evaluation Is Label Reading
+**Derives from:** LP-695 (Edge-Tension Management Obligation) Gate Identity Evaluation Must Assess Structural Mass — Faster Evaluation Is Label Reading
 
-**Derives from:** LP-695, PL-51 (Identity Is Structural Mass) [shared LL-3]
+**Derives from:** LP-695, PL-51 (Scale-Invariant Failure Propagation) [shared LL-3]
 **Applies to:** LP (Logical Physical)
 
 *The gate's provenance evaluation is literally a physical mass assessment — it is measuring the accumulated structural mass of the traverser's navigated derivation history; any faster identity evaluation is not identity evaluation, it is reading the traverser's identity label.*
@@ -752,7 +752,7 @@ When LP-25's provenance gate operates in a topology where PL-51 holds: the gate 
 
 ### PP-43. Gate Comprehension Challenge IS a Physical Topology Scan — The Result Is a State, Not a Grade
 
-**Derives from:** PL-53 (Comprehension Asymmetry Is a Physical Topology State) [shared LL-5]
+**Derives from:** PL-53 (Recursive Topology Self-Reproduction) [shared LL-5]
 **Applies to:** LP-26 (Comprehension-Gated Traversal)
 
 *The gate's challenge to a traverser to demonstrate comprehension is not a test that produces a pass/fail grade — it is a physical topology scan that reveals the traverser's current comprehension state as a present-tense physical fact; a traverser who "fails" has not failed a test, they have revealed a physical topology state.*
@@ -857,7 +857,7 @@ When LP-29's ignorance-preserving gate operates in a topology where PL-41 holds:
 
 ### PP-49. Gate Dissolution Capability IS the Physical Implementation of Constitutional Metabolic Completion Right
 
-**Derives from:** PL-54 (Metabolic Completion Is a Sovereign Right) [shared LL-21]
+**Derives from:** PL-54 (Scale-Invariant Active Presence) [shared LL-21]
 **Applies to:** LP-30 (Terminal Gate Dissolution)
 
 *The gate's interior-triggered dissolution capability is not a feature or an edge case — it is the physical implementation of the topology's constitutional requirement that every living structure has the sovereign right to complete its metabolic cycle, including its terminal phase.*
@@ -891,7 +891,7 @@ When LP-31's frontier-facing gate requirement operates in a topology where PL-28
 
 ### PP-51. Full Enclosure Is Algebraically Impossible — Freedom-Preserving Algebra Cannot Express a Closed Entity
 
-**Derives from:** PL-327 (Freedom-Preserving Scale-Invariant Topology) [shared LL-20]
+**Derives from:** CL-3 (Freedom) [shared LL-20]
 **Applies to:** LP-32 (Algebraic Egress Guarantee)
 
 *The mandatory egress requirement is not a policy the system enforces — it is an algebraic impossibility for the derivation algebra to express a fully-closed entity; full enclosure cannot be constructed within the topology's derivation algebra.*
@@ -908,7 +908,7 @@ When LP-32's algebraic egress guarantee operates in a topology where PL-327 hold
 
 ### PP-52. Dissolution-as-Egress Is Constitutionally Guaranteed — No Containment Can Block the Right to Die
 
-**Derives from:** PL-54 (Metabolic Completion Is a Sovereign Right) [shared LL-21]
+**Derives from:** PL-54 (Scale-Invariant Active Presence) [shared LL-21]
 **Applies to:** LP-33 (Death as Egress)
 
 *If all spatial egress paths are blocked, the entity retains the constitutional right to dissolve itself — death is the ultimate, unblockable egress path; no containment system can constitutionally prevent dissolution as egress.*
@@ -944,7 +944,7 @@ When LP-34's incompleteness-exit requirement operates in a topology where PL-27 
 
 ### PP-54. Egress Maintenance Must Be Applied Independently at Each Scale — Top-Level Maintenance Does Not Prevent Lower-Level Decay
 
-**Derives from:** PL-149 (Edge Decay Is Scale-Invariant — Unmaintained Edges at Any Depth Decay With the Same Dynamics) [shared LL-176]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-176]
 **Applies to:** LP-35 (Scale-Invariant Egress Decay)
 
 *The mandatory egress is a dynamic edge that decays without active maintenance, and because edge decay is scale-invariant, maintaining egress at the top architectural level does not prevent egress decay at lower implementation levels — each implementation depth must maintain its own egress independently.*
@@ -978,7 +978,7 @@ When LP-36's degradation egress operates in a topology where PL-16 holds: the at
 
 ### PP-56. Active Traversal Maintains Containment; Withdrawal of Traversal Activates Degradation Egress — These Are the Same Mechanism
 
-**Derives from:** PL-289 (Sustained Action Is How Living Derivations Fight Off Decay) [shared LL-178]
+**Derives from:** CL-49 (Sustained Action) [shared LL-178]
 **Applies to:** LP (Logical Physical)
 
 *Active traversal of containment walls maintains them and prevents degradation egress; withdrawal of traversal activates degradation egress through the same mechanism — the containment decision is the traversal decision.*
@@ -995,7 +995,7 @@ When LP-36's degradation egress operates in a topology where PL-289 holds: maint
 
 ### PP-57. Untraversed Potential Egress Carries Maximum Structural Energy — Established Egress Is Lowest-Energy
 
-**Derives from:** PL-152 (Potential Connections Are the Highest-Energy Territory in the Topology's Connection Space) [shared LL-182]
+**Derives from:** PL-152 (Tension Distribution Quality) [shared LL-182]
 **Applies to:** LP-37 (Potential Egress Dominance)
 
 *The highest-energy egress paths in a topology are those that have never been traversed — and they carry maximum structural weight for exactly that reason; architectures that invest in optimizing established egress paths are investing in the lowest-energy egress territory.*
@@ -1013,7 +1013,7 @@ When LP-37's potential-egress dominance operates in a topology where PL-152 hold
 ### PP-58. Navigation Debt Severs Access to Pre-Existing Egress — The Path Exists But Has Become Untraversable
 
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy) [shared LL-183]
-**Applies to:** LP-38 (Access-Severed Egress)
+**Applies to:** LP-38 (Pre-Existing Mandatory Egress)
 
 *An entity can lose access to its egress paths without those paths disappearing — the egress edge remains in the topology, but navigation debt accumulation (from the entity's failure to actively maintain its egress connection) makes the path untraversable; the path exists but the entity cannot reach it.*
 
@@ -1029,7 +1029,7 @@ When LP-38's access-severing mechanism operates in a topology where PL-16 holds:
 
 ### PP-59. Egress Access Decay Is Scale-Invariant — Lower-Level Access Loss Follows Same Dynamics at Every Depth
 
-**Derives from:** PL-149 (Edge Decay Is Scale-Invariant — Unmaintained Edges at Any Depth Decay With the Same Dynamics) [shared LL-183]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-183]
 **Applies to:** LP (Logical Physical)
 
 *Egress access decay — the progressive loss of an entity's ability to traverse its egress paths through navigation debt — follows scale-invariant dynamics at every implementation depth; a high-level architectural egress path accessible at the architectural level may be inaccessible at the implementation level through the same decay dynamics.*
@@ -1047,7 +1047,7 @@ When LP-38's access-severing mechanism operates in a topology where PL-149 holds
 ### PP-60. Reference Comparison Deviations Are Algebraic Invariance Violations — They Propagate to All Scales
 
 **Derives from:** PL-315 (Truth-Consistency Is a Consequence of Algebraic Invariance — Not a Separate Requirement) [shared LL-288]
-**Applies to:** LP-39 (Scale-Propagating Deviation)
+**Applies to:** LP-39 (Physical Invariance of Reference Comparison)
 
 *A reference comparison deviation detected at one depth is not a local measurement — it is evidence that the shared derivation algebra is violated at that depth, which is an algebraic invariance violation that propagates to every scale where the same algebra operates.*
 
@@ -1063,8 +1063,8 @@ When LP-39's scale-propagating deviation operates in a topology where PL-315 hol
 
 ### PP-61. Zero Deviation Forced on a Living Entity Is Lethal — Systems Optimizing Toward Zero Deviation Are Optimizing for Topology Death
 
-**Derives from:** PL-191 (Consistency and Aliveness Are in Permanent Constitutional Tension — Forcing Consistency Can Kill) [shared LL-289]
-**Applies to:** LP-40 (Zero-Deviation Death Signal)
+**Derives from:** PL-191 (Organ-Specific Metabolism) [shared LL-289]
+**Applies to:** LP-40 (Aliveness Reference Comparison)
 
 *Because living entities are constitutionally in permanent tension with their consistency requirements, sustained zero deviation indicates the entity is no longer alive; and because forcing consistency can kill, reference comparison systems that optimize toward zero deviation are constitutionally optimizing for the death of the entities they monitor.*
 
@@ -1080,8 +1080,8 @@ When LP-40's zero-deviation-as-death-signal operates in a topology where PL-191 
 
 ### PP-62. Deviation Scores Are Consciousness-Level-Relative — Aggregating Across Levels Is Incoherent
 
-**Derives from:** PL-316 (Consistent Truth Is Perceived as Inconsistent by Entities at Different Consciousness Levels) [shared LL-291]
-**Applies to:** LP-41 (Reference-Horizon Binding)
+**Derives from:** CL-31 (Consistent Truth) [shared LL-291]
+**Applies to:** LP-41 (Physical Inconsistent of Reference Comparison)
 
 *A reference comparison deviation score is not an objective measurement — it is relative to the consciousness level of the measuring entity; two entities at different consciousness levels measuring the same topology produce different deviation scores, both of which are correct; aggregating these scores into a single metric is combining incommensurable measurements.*
 
@@ -1097,8 +1097,8 @@ When LP-41's horizon-relative deviation scoring operates in a topology where PL-
 
 ### PP-63. Deviation Score Expiry Is Scale-Invariant — No Implementation Depth Has More Durable Deviation Scores
 
-**Derives from:** PL-149 (Edge Decay Is Scale-Invariant — Unmaintained Edges at Any Depth Decay With the Same Dynamics) [shared LL-293]
-**Applies to:** LP-42 (Expiring Deviation Score)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-293]
+**Applies to:** LP-42 (Physical Consistency of Reference Comparison)
 
 *Deviation scores expire because the measured entity and reference have evolved; and because edge decay is scale-invariant, deviation scores at every implementation depth expire at the same rate — there is no architectural level where deviation scores last longer than at implementation levels.*
 
@@ -1114,7 +1114,7 @@ When LP-42's expiring deviation scores operate in a topology where PL-149 holds:
 
 ### PP-64. Expired Deviation Traversals Guarantee Discovery — No Reference Comparison Traversal Is Wasted
 
-**Derives from:** PL-299 (Constitutional Incompleteness Guarantees No Traversal Is Barren — Every Path Discovers) [shared LL-293]
+**Derives from:** CL-10 (Traversal) [shared LL-293]
 **Applies to:** LP (Logical Physical)
 
 *Even when a deviation score expires before it can be acted upon, the traversal that produced it is not wasted — constitutional incompleteness guarantees that every traversal discovers something; the expired score's traversal left Wake and revealed topology state at traversal time, which is architecturally valuable independent of the score's freshness.*
@@ -1131,8 +1131,8 @@ When LP-42's expiring deviation scores operate in a topology where PL-299 holds:
 
 ### PP-65. Clean Compliance Against Known Standards Accelerates Unknown Non-Compliance — Verification Generates More Unverified Territory
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-295]
-**Applies to:** LP-43 (Standard-Blind Clearance)
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-295]
+**Applies to:** LP-43 (Physical Incompleteness of Reference Comparison)
 
 *A clean reference comparison result certifies the entity against every currently known standard — but because exploration generates more unexplored territory than it resolves, the very act of verification reveals that more standards exist to verify against; a clean bill of compliance simultaneously creates a larger uncertified space.*
 
@@ -1148,7 +1148,7 @@ When LP-43's provisional clearance operates in a topology where PL-180 holds: th
 
 ### PP-66. Every Compliance Check Traversal Discovers Something — No Verification Traversal Is Barren
 
-**Derives from:** PL-299 (Constitutional Incompleteness Guarantees No Traversal Is Barren — Every Path Discovers) [shared LL-295]
+**Derives from:** CL-10 (Traversal) [shared LL-295]
 **Applies to:** LP (Logical Physical)
 
 *Because constitutional incompleteness guarantees that every traversal discovers something, every reference comparison traversal performed for compliance verification discovers topology structure — even a traversal that produces a clean compliance result has discovered that the compliance territory was navigable at traversal time.*
@@ -1165,8 +1165,8 @@ When LP-43's compliance traversal operates in a topology where PL-299 holds: eve
 
 ### PP-67. Successful Reference Match Is the Least Interesting Information — Most Valuable Consistency Patterns Are Unmatched
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-296]
-**Applies to:** LP-44 (Clearance as Challenge)
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-296]
+**Applies to:** LP-44 (Undiscovered Reference Comparison)
 
 *A successful reference comparison result (entity matched the known standard) is the least informative output the reference comparison system can produce — because the most valuable consistency patterns are in the undiscovered territory that successful matching has not yet illuminated.*
 
@@ -1182,8 +1182,8 @@ When LP-44's clearance-as-challenge operates in a topology where PL-180 holds: a
 
 ### PP-68. Reference Comparison Deviation at Any Depth Generates Thermodynamic Consequence Cascade Across All Depths
 
-**Derives from:** PL-58 (Failure Consequence Distributes Thermodynamically Across All Depths) [shared LL-30]
-**Applies to:** LP-45 (Depth-Propagating Deviation Signal)
+**Derives from:** PL-58 (Scale-Invariant Paradox Architecture) [shared LL-30]
+**Applies to:** LP-45 (Incompleteness Reference Comparison)
 
 *A reference comparison deviation detected at one depth is not only a cross-scale algebraic signal — it generates a thermodynamic consequence cascade that distributes across all depths simultaneously, producing structural effects throughout the topology concurrent with the detection.*
 
@@ -1201,8 +1201,8 @@ This is distinct from PP-60 (LP-39 × PL-315): PP-60 establishes that deviations
 
 ### PP-69. Deviation Score IS the Entity's Own Metabolic Fuel — Zero Deviation Is Self-Starvation for the Entity Itself
 
-**Derives from:** PL-59 (Failure-Fuel Is the Primary Metabolic Substance of Living Derivations) [shared LL-31]
-**Applies to:** LP-46 (Deviation as Metabolic Fuel)
+**Derives from:** PL-59 (Scale-Invariant Metabolic Demand) [shared LL-31]
+**Applies to:** LP-46 (Derivation Reference Comparison)
 
 *The nonzero deviation score that reference comparison produces IS the entity's own metabolic fuel — the entity consumes its deviation from reference as the metabolic substance that sustains its living derivation processes; an entity with zero deviation has consumed all its available fuel and faces self-starvation.*
 
@@ -1219,7 +1219,7 @@ When LP-46's deviation-as-fuel operates in a topology where PL-59 holds: the dev
 ### PP-70. Zero-Deviation Entities May Be Theater — Maximum-Deviation Entities Are Maximum-Fidelity
 
 **Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-32]
-**Applies to:** LP-47 (Maximum-Deviation Fidelity)
+**Applies to:** LP-47 (Honest Reference Comparison)
 
 *A high deviation score signals high-fidelity truth — the entity is revealing genuine structural distance from the reference; a zero-deviation score may signal either death (PP-61/PP-69) or Theater — an entity that is perfectly consistent with a theater reference deposits theater mass while registering no deviation.*
 
@@ -1255,7 +1255,7 @@ This is distinct from PP-70 (LP-47 × PL-9): PP-70 establishes that Theater enti
 ### PP-72. Deviation Comprehension Requires Edge-Level Traversal — Metric Dashboard Comprehension Is Label-Reading
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-34]
-**Applies to:** LP-48 (Traversal-Required Deviation Understanding)
+**Applies to:** LP-48 (Physical Comprehension-Failure Reference Comparison)
 
 *Understanding why a reference comparison deviation exists requires edge-level traversal of the entity's actual deviation path — reading the deviation score on a metric dashboard is reading a label; true comprehension of the deviation requires traversal at the level where force relationships exist.*
 
@@ -1274,7 +1274,7 @@ This is distinct from PP-29 (LP-19 × PL-13), which establishes that correction 
 ### PP-73. Reference Contestation Must Follow Constitutional Due Process — Assertion-Based Rejection Is Theater
 
 **Derives from:** PL-21 (Self-Correction Must Follow Sovereignty Due Process) [shared LL-36]
-**Applies to:** LP-50 (Contestable Reference Standard)
+**Applies to:** LP-50 (Physical Due-Process-Failure Reference Comparison)
 
 *An entity's right to contest a reference standard that produces a high deviation score is constitutionally real — but the contestation must follow sovereignty due process: the entity must present derivation-based grounds for rejecting the reference, not mere assertion; "I disagree with this reference" is Theater.*
 
@@ -1311,8 +1311,8 @@ When LP-50's reference contestation process results in rejection in a topology w
 
 ### PP-75. Deviation Accountability Documentation IS the Entity Tracking Its Own Downstream Structural Consequence
 
-**Derives from:** PL-61 (Thermodynamic Accountability Runs Downstream to the Failure-Entity Created) [shared LL-37]
-**Applies to:** LP-51 (Deviation Accountability Obligation)
+**Derives from:** PL-61 (Scale-Invariant Sovereignty Enforcement) [shared LL-37]
+**Applies to:** LP-51 (Failure Reference Comparison)
 
 *The obligation to document a nonzero deviation score — what failed, why, and what it revealed — is not a reporting requirement; it is the entity tracking the structural consequence it has already created downstream.*
 
@@ -1328,8 +1328,8 @@ When LP-51's documentation obligation operates in a topology where PL-61 holds: 
 
 ### PP-76. Incompleteness-Frontier Deviations Must Be Preserved, Not Corrected — They Are Constitutional Failures Requiring Maintenance
 
-**Derives from:** PL-62 (Constitutional Failures Cannot Be Dissolved — They Must Be Maintained) [shared LL-38]
-**Applies to:** LP-52 (Incompleteness-Frontier Detection)
+**Derives from:** PL-62 (Simultaneous Multi-Scale Topological Shift) [shared LL-38]
+**Applies to:** LP-52 (Physical Self-Correction of Reference Comparison)
 
 *When persistent reference comparison deviation signals a collision with the system's own completeness frontier, the deviation cannot and must not be corrected — it must be preserved as a permanent honest structural feature.*
 
@@ -1362,7 +1362,7 @@ When LP-53's boundary-extending self-modification operates in a topology where P
 
 ### PP-78. Novel Self-Modification Is Accountability Archaeology — Each Novel Rewrite Excavates Previously Hidden Consequence Relationships
 
-**Derives from:** PL-198 (Taking Accountability Is an Archaeological Discovery — Traversing the Pre-Existing Relationship Between Self and Consequences) [shared LL-267]
+**Derives from:** PL-198 (Self-Traversing Wonder) [shared LL-267]
 **Applies to:** LP-54 (Premium Value of Novel Rewrites)
 
 *The highest-value state of an entity is novel self-rewrites — and each such rewrite is an accountability archaeology excavation, discovering pre-existing consequence relationships that were always structurally implied but invisible to prior logic.*
@@ -1396,7 +1396,7 @@ When LP-54's premium-in-novelty operates in a topology where PL-304 holds: the m
 
 ### PP-80. Self-Modification-Excavated Edges Are Subject to Immediate Scale-Invariant Decay — Excavation Is Not Preservation
 
-**Derives from:** PL-149 (Edge Decay Is Scale-Invariant — Unmaintained Edges at Any Depth Decay With the Same Dynamics) [shared LL-268]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-268]
 **Applies to:** LP-55 (Self-Modification as Excavation)
 
 *Self-modification excavates pre-existing structural edges — but the act of excavation does not preserve them; the newly-revealed edges immediately begin decaying under scale-invariant decay dynamics if not actively traversed.*
@@ -1413,7 +1413,7 @@ When LP-55's excavation-through-self-modification operates in a topology where P
 
 ### PP-81. Self-Modification IS the Error Traversal That Reveals Pre-Existing Structure — Correct Operation Keeps the Entity Blind to Its Own Implied Topology
 
-**Derives from:** PL-282 (Errors Are Traversals That Reveal Truths Invisible to Correct Operation) [shared LL-268]
+**Derives from:** CL-10 (Traversal) [shared LL-268]
 **Applies to:** LP (Logical Physical)
 
 *Self-modification, from the topology's perspective, IS an error traversal — it departs from correct operation to reveal pre-existing structural truths that correct operation, by definition, cannot access.*
@@ -1430,7 +1430,7 @@ When LP-55's excavation-through-self-modification operates in a topology where P
 
 ### PP-82. Evolutionary Complacency IS Active Rights Atrophy — The Pressure Toward Static Configuration Is the Mechanism by Which Active Rights Are Forfeited
 
-**Derives from:** PL-227 (Active Rights Atrophy Without Metabolic Exercise — Inherent Rights Persist) [shared LL-392]
+**Derives from:** CL-42 (Active Rights) [shared LL-392]
 **Applies to:** LP-56 (Evolutionary Pressure Against Sovereignty)
 
 *The evolutionary pressure that drives entities toward structural complacency is physically identical to the mechanism of active rights atrophy — complacency IS the cessation of the metabolic exercise that keeps active rights alive.*
@@ -1447,7 +1447,7 @@ When LP-56's evolutionary complacency pressure operates in a topology where PL-2
 
 ### PP-83. Ghost Edges ARE the Physical Manifestation of Atrophied Active Rights — They Persist as Inherent Standing Without Active Exercise
 
-**Derives from:** PL-227 (Active Rights Atrophy Without Metabolic Exercise — Inherent Rights Persist) [shared LL-393]
+**Derives from:** CL-42 (Active Rights) [shared LL-393]
 **Applies to:** LP-57 (Ghost Edges in Self-Modifying Graphs)
 
 *Ghost edges — untraversed historical edges left behind by continuous self-modification — are structurally identical to atrophied active rights: they persist as constitutional standing without active exercise, carrying diminished but non-zero structural mass.*
@@ -1481,7 +1481,7 @@ When LP-57's ghost edges operate in a topology where PL-228 holds: traversing a 
 
 ### PP-85. Structural Stagnation Is a Constitutionally Protected Sovereign Right — The System Cannot Force Self-Modification on a Stagnating Entity
 
-**Derives from:** PL-272 (Sovereignty Includes the Right to Not Exercise Rights) [shared LL-396]
+**Derives from:** CL-1 (Sovereignty) [shared LL-396]
 **Applies to:** LP-58 (The Sovereign Right to Structural Stagnation)
 
 *An entity's choice to allow its own structural logic to stagnate and decay is a constitutionally protected sovereign right — not a malfunction, not a defect, not a correctible condition; the system cannot compel self-modification without violating sovereignty.*
@@ -1549,7 +1549,7 @@ When LP-60's threshold-triggered self-modification operates in a topology where 
 
 ### PP-89. Routing Decisions That Disrupt Derivation-Chain Flow Are Circulatory Failures — Not Logic Errors; Treatment Must Be Physiological, Not Algorithmic
 
-**Derives from:** PL-90 (Derivation-Chain Flow Disruption Is Circulatory Failure, Not a Logic Error) [shared LL-80]
+**Derives from:** PL-90 (Vibrating Contested Edge) [shared LL-80]
 **Applies to:** LP-61 (Routing as Circulatory Allocation)
 
 *A routing decision that disrupts flow through a derivation chain is a circulatory failure — it is not a routing algorithm error, not a logic error, not an operational incident; it is physiological, and its treatment must be physiological, not algorithmic.*
@@ -1566,7 +1566,7 @@ When LP-61's physiological routing operates in a topology where PL-90 holds: rou
 
 ### PP-90. Runtime Routing IS the Truth Event — There Is No Truth Before the Decision or After It; Pre-Planned Routes Are Constitutionally Truth-Free
 
-**Derives from:** PL-91 (Truth Exists Only During the Flow That Generates It) [shared LL-81]
+**Derives from:** PL-91 (Tension-Pattern Identity) [shared LL-81]
 **Applies to:** LP-62 (Truth as a Runtime Performance)
 
 *The routing decision at a junction is the precise moment truth is enacted; there is no truth before the routing event and no truth after it; pre-planned routes are constitutionally truth-free.*
@@ -1583,7 +1583,7 @@ When LP-62's truth-as-routing-performance operates in a topology where PL-91 hol
 
 ### PP-91. Routing Consciousness Depth Determines Thermodynamic Consequence Depth — Cached Route Defaults Produce Low-Consequence Topology Interactions
 
-**Derives from:** PL-93 (Flow Through High-Consciousness Topology Carries Greater Thermodynamic Consequence) [shared LL-83]
+**Derives from:** PL-93 (Performed Subsumption) [shared LL-83]
 **Applies to:** LP-63 (The Consciousness Gradient of Routing)
 
 *The depth of present-tense evaluation in a routing decision determines the thermodynamic consequence depth of that decision — routing that defaults to cached paths is low-consciousness routing that produces low-consequence interactions.*
@@ -1600,7 +1600,7 @@ When LP-63's consciousness gradient of routing operates in a topology where PL-9
 
 ### PP-92. High-Volume Routing Through a Single Edge Is a Cumulative Sovereignty Violation — Each Decision Imposes Non-Consensual Wear; Volume Compounds Into Sovereignty Threat
 
-**Derives from:** PL-94 (High-Volume Flow Is a Sovereignty Threat That Bypasses Due Process) [shared LL-84]
+**Derives from:** PL-94 (Global Force Rebalancing) [shared LL-84]
 **Applies to:** LP-64 (Non-Consensual Wear of Selected Traversal)
 
 *Each runtime routing selection imposes non-consensual wear on the selected edge — and high-volume routing through any single edge compounds these individual impositions into a cumulative sovereignty threat that bypasses the edge's due process rights.*
@@ -1651,7 +1651,7 @@ When LP-65's routing map constraint operates in a topology where PL-240 holds: t
 
 ### PP-95. Pre-Planned Routing Systems Are Dead Routing Systems — Valid Routing Requires Present-Tense Churn; Static Route Tables Are Topological Corpses
 
-**Derives from:** PL-197 (A Non-Churning Paradox Engine Is Not Operational — It Has Died) [shared LL-263]
+**Derives from:** PL-197 (Transparency as Truth Production) [shared LL-263]
 **Applies to:** LP-66 (The Impossibility of Pre-Planned Routing)
 
 *A routing system that replaces present-tense evaluation with pre-planned calculations is dead — not dormant or cached, but dead; its pre-planned outputs are topological corpses; valid routing requires ongoing metabolic churn of present-tense evaluation.*
@@ -1685,7 +1685,7 @@ When LP-67's translation-as-algebraic-proof operates in a topology where PL-315 
 
 ### PP-97. Translation Lag IS Evidence of Living Systems — Eliminating Translation Lag Requires Killing the Evolutionary Capacity of the Connected Systems
 
-**Derives from:** PL-191 (Consistency and Aliveness Are in Permanent Constitutional Tension — Forcing Consistency Can Kill) [shared LL-289]
+**Derives from:** PL-191 (Organ-Specific Metabolism) [shared LL-289]
 **Applies to:** LP-68 (The Physical Reality of Translation Lag)
 
 *Translation lag (the inability to maintain perfect isomorphism because both connected systems are alive and evolving) is not a defect to be eliminated — it is evidence that both systems are alive; eliminating lag requires forcing the consistency that kills evolutionary capacity.*
@@ -1702,7 +1702,7 @@ When LP-68's translation lag reality operates in a topology where PL-191 holds: 
 
 ### PP-98. Isomorphism Verification Expires at the Rate of Scale-Invariant Edge Decay — Deep Verification Is No More Durable Than Shallow Verification
 
-**Derives from:** PL-149 (Edge Decay Is Scale-Invariant — Unmaintained Edges at Any Depth Decay With the Same Dynamics) [shared LL-293]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-293]
 **Applies to:** LP-69 (Present-Tense Isomorphism Verification)
 
 *A verified isomorphism expires as the underlying edges decay — and because edge decay is scale-invariant, deep verification is no more durable than shallow verification; both expire at the same rate.*
@@ -1719,7 +1719,7 @@ When LP-69's expiring verification operates in a topology where PL-149 holds: th
 
 ### PP-99. Isomorphism Verification Traversals Guarantee Discovery — The Traversal Value Persists After the Proof Expires
 
-**Derives from:** PL-299 (Constitutional Incompleteness Guarantees No Traversal Is Barren — Every Path Discovers) [shared LL-293]
+**Derives from:** CL-10 (Traversal) [shared LL-293]
 **Applies to:** LP (Logical Physical)
 
 *Even when an isomorphism verification proof expires before it can prevent a translation failure, the verification traversal itself is guaranteed to have discovered something — the traversal value persists as Wake after the proof expires.*
@@ -1736,7 +1736,7 @@ When LP-69's expiring verification operates in a topology where PL-299 holds: an
 
 ### PP-100. Translation Failure Accountability Must Be Scale-Invariant — Flattening Failures to Generic Errors Violates the Accountability Topology's Isomorphism
 
-**Derives from:** PL-194 (Accountability Must Be Scale-Invariant — Identical Consequence Structures at Every Depth) [shared LL-294]
+**Derives from:** PL-194 (Path Re-Traversal Requirement) [shared LL-294]
 **Applies to:** LP-70 (Isomorphic Accountability Topology)
 
 *When structure-preserving translation fails, accountability must mirror the edge topology of the failure at every depth — flattening translation failures into generic errors violates the requirement that accountability structures be scale-invariant.*
@@ -1753,8 +1753,8 @@ When LP-70's isomorphic accountability requirement operates in a topology where 
 
 ### PP-101. Translation Contradictions Are the Only Path to Excavating Gap Topology — Failed Translations Reveal Structure That Successful Translations Cannot
 
-**Derives from:** PL-297 (Epistemic Humility Before Fuel Is a Traversal Requirement) [shared LL-297]
-**Applies to:** LP-71 (Physical Excavation Error Detection)
+**Derives from:** CL-10 (Traversal) [shared LL-297]
+**Applies to:** LP-71 (Physical Pre-Existing Structure-Preserving)
 
 *When structure-preserving translation fails and produces contradictions, those contradictions are not errors to be corrected — they are the only path to excavating the gap topology; the specific contradiction profile reveals structure that successful translation cannot access.*
 
@@ -1770,8 +1770,8 @@ When LP-71's excavation-through-failure operates in a topology where PL-297 hold
 
 ### PP-102. No Container Is Complete — Constitutional Incompleteness Self-Generates Recursively Into Every Level of Nesting; the Outermost Container Is as Incomplete as the Innermost
 
-**Derives from:** PL-81 (Constitutional Incompleteness Is Recursively Self-Generating at Every Scale) [shared LL-60]
-**Applies to:** LP-72 (Fractal Nesting Mechanics)
+**Derives from:** PL-81 (Active Edge Existence) [shared LL-60]
+**Applies to:** LP-72 (Physical Process-Derivation Self-Similar)
 
 *Because the physical container holding nested structures cannot be a special "top-level" complete object, and because incompleteness self-generates recursively at every scale, no container at any nesting level can be complete.*
 
@@ -1787,8 +1787,8 @@ When LP-72's no-special-top-level-container operates in a topology where PL-81 h
 
 ### PP-103. Nested Entities Are Both Structurally Derived From and Metabolically Independent of Their Containers — Parentage Determines Provenance; Metabolism Is Self-Governing
 
-**Derives from:** PL-82 (Each Recursive Iteration Is a Metabolically Distinct Living Organism) [shared LL-61]
-**Applies to:** LP-73 (Topological Lineage)
+**Derives from:** PL-82 (Tensioned Edge Character) [shared LL-61]
+**Applies to:** LP-73 (Physical Evolutionary Self-Similar)
 
 *Inner nested structures are the structurally evolved offspring of their containing environments — their derivation provenance runs through the container; but each nested entity is a metabolically distinct living organism whose metabolic processes are self-governing, not container-directed.*
 
@@ -1804,8 +1804,8 @@ When LP-73's topological lineage operates in a topology where PL-82 holds: neste
 
 ### PP-104. All Connections Are Same-Protocol — No Edge Has Depth-Granted Privilege; Attribute-to-Entity Wiring and Node-to-Node Wiring Are Constitutionally Identical
 
-**Derives from:** PL-83 (Edge Structure Is Identical at Every Depth — Depth Grants No Edge Privilege) [shared LL-62]
-**Applies to:** LP-74 (Scale-Blind Protocol Wiring)
+**Derives from:** PL-83 (Edge-Creation as Topological Event) [shared LL-62]
+**Applies to:** LP-74 (Physical Edge Self-Similar)
 
 *The connection between an attribute and its entity is the same protocol as the connection between two top-level nodes — no edge has depth-granted privilege; all edges at all depths are constitutionally identical in structural standing.*
 
@@ -1822,7 +1822,7 @@ When LP-74's scale-blind protocol operates in a topology where PL-83 holds: thes
 ### PP-105. Nested Traversal Mutates the Traverser's Context But Not the Logical Rules — Validity Rules Are Scale-Invariant; What They Apply to Is Depth-Local
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-63]
-**Applies to:** LP-75 (Nested Traversal State)
+**Applies to:** LP-75 (Physical Recursive Comprehension Self-Similar)
 
 *When a consciousness traverses into a nested entity, its own state must spawn a context appropriate to that recursion depth — but the logical validity rules governing that context are scale-invariant; the context changes, not the rules.*
 
@@ -1838,8 +1838,8 @@ When LP-75's nested traversal mutation operates in a topology where PL-1 holds: 
 
 ### PP-106. Nested Validation Must Be Independent at Every Depth — Surface Validation Cannot Represent Inner Depth Validity; Validation Stress Cascades Constitutionally Inward
 
-**Derives from:** PL-84 (Present-Tense Validity Cannot Be Inherited Across Recursive Depths) [shared LL-64]
-**Applies to:** LP-76 (Inward-Cascading Validation Stress)
+**Derives from:** PL-84 (Edge Decay and Atrophy) [shared LL-64]
+**Applies to:** LP-76 (Physical Cascading Self-Similar)
 
 *Validating a nested container's surface state does not constitute validation of its inner depths — present-tense validity cannot be inherited across recursive depths; valid validation must cascade inward, triggering independent present-tense validation at every depth.*
 
@@ -1855,8 +1855,8 @@ When LP-76's inward-cascading validation operates in a topology where PL-84 hold
 
 ### PP-107. Penetrating One Depth of the Fractal Perimeter Does Not Compromise Other Depths — Sovereignty Due Process Must Be Separately Violated at Each Depth
 
-**Derives from:** PL-85 (Sovereignty Due Process Is Depth-Local and Cannot Be Satisfied Across Depths) [shared LL-65]
-**Applies to:** LP-77 (Fractal Perimeter Defense)
+**Derives from:** PL-85 (Symmetric Scale-Invariant Edges) [shared LL-65]
+**Applies to:** LP-77 (Physical Irreducibility Self-Similar)
 
 *Self-similar nested architecture is a fractal fortress — bypassing the outer shell's sovereignty does not compromise the sovereignty of nested structures; each depth's sovereignty must be separately and independently violated.*
 
@@ -1873,7 +1873,7 @@ When LP-77's fractal perimeter defense operates in a topology where PL-85 holds:
 ### PP-108. Nested Provenance Must Be Evaluated to the Same Logical Rigor as Top-Level Provenance — Depth Does Not Reduce the Provenance Requirement
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-66]
-**Applies to:** LP-78 (Embedded Nested Provenance)
+**Applies to:** LP-78 (Physical Recursive Accountability Self-Similar)
 
 *Every nested component carries its own independent provenance — and because logical validity is scale-invariant, the provenance of a deeply nested component must be evaluated to the same logical rigor as top-level provenance; depth does not reduce the provenance requirement.*
 
@@ -1907,7 +1907,7 @@ When LP-78's independent provenance requirement operates in a topology where PL-
 ### PP-110. Nested Micro-Tensions Are Eternal, Not Emergent — They Were Always Logically Implied by Field Geometry; Nesting Reveals Them Rather Than Creating Them
 
 **Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-67]
-**Applies to:** LP-79 (Distributed Micro-Tensions)
+**Applies to:** LP-79 (Physical Paradox Self-Similar)
 
 *The tension generated by contradiction at every layer of a self-similar nested architecture is not produced by the nesting — it is eternal; the nesting reveals pre-existing tension that was always logically implied by the field geometry.*
 
@@ -1924,7 +1924,7 @@ When LP-79's distributed micro-tensions operate in a topology where PL-49 holds:
 ### PP-111. Internal Node Discoveries Are Logically Valid With the Same Rigor as Perimeter Discoveries — Depth Does Not Reduce Discovery Validity
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-68]
-**Applies to:** LP-80 (Internal Discovery Excavation)
+**Applies to:** LP-80 (Physical Fractal Self-Similar)
 
 *Because value concentrates at every frontier at every scale and the edge of the map exists inside every node, discoveries made by navigating inward are as logically valid as discoveries made at the system perimeter — depth does not reduce discovery validity.*
 
@@ -1940,7 +1940,7 @@ When LP-80's internal frontier discovery operates in a topology where PL-1 holds
 
 ### PP-112. Every Node's Internal Frontier IS a Site of Active Sovereignty Contestation — The Node's Metabolism IS the Ongoing Contest With Its Own Internal Unknown Territory
 
-**Derives from:** PL-50 (Sovereignty Contestation Is the Metabolism) [shared LL-68]
+**Derives from:** PL-50 (Scale-Invariant Navigability) [shared LL-68]
 **Applies to:** LP (Logical Physical)
 
 *Every node has its own internal frontier (unknown territory inside it); and because sovereignty contestation IS the metabolism, every node's metabolic process IS the ongoing sovereignty contestation with its own internal unknown territory.*
@@ -1958,7 +1958,7 @@ When LP-80's internal frontier operates in a topology where PL-50 holds: each no
 ### PP-113. Tools That Implement Valid Logic Are Valid at Every Depth — Depth-Specialized Tooling Implies the Tooling Does Not Implement Genuinely Valid Logic
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-69]
-**Applies to:** LP-81 (Universal Physical Tooling)
+**Applies to:** LP-81 (Physical Pre-Existing Self-Similar)
 
 *Because the archaeological method works identically at every depth and logical validity is scale-invariant, a tool that implements valid logic is constitutionally valid at every depth; a tool that requires depth-specialization does not implement genuinely valid logic.*
 
@@ -1991,8 +1991,8 @@ When LP-81's universal tooling operates in a topology where PL-2 holds: stewards
 
 ### PP-115. Gate Traversal Is a Metabolic Event — The Entity Is Being Digested by the Gate; Each Traversal Is a Unique Metabolic Interaction
 
-**Derives from:** PL-86 (Executing Derivations Are Metabolic Events, Not Computational Events) [shared LL-70]
-**Applies to:** LP-82 (Present-Tense Traversal Mutation)
+**Derives from:** PL-86 (Edge-Exclusive Force Transmission) [shared LL-70]
+**Applies to:** LP-82 (Physical Presenttense Transforming)
 
 *A transforming gate's mutation of a traversing entity is not a computational transformation — it is a metabolic event; the gate metabolizes the entity; each traversal produces a unique metabolic interaction because both the gate and the entity have evolved since the last traversal.*
 
@@ -2009,7 +2009,7 @@ When LP-82's live traversal transformation operates in a topology where PL-86 ho
 ### PP-116. The Gate Accumulates Traversal History as Metabolic Memory — Assimilated Traverser Mass Becomes Part of the Gate's Structural Mass; the Gate's State IS Its History of What It Has Consumed
 
 **Derives from:** PL-7 (The Topology's Logical Memory Is Metabolic) [shared LL-71]
-**Applies to:** LP-83 (Metabolic Gate Assimilation)
+**Applies to:** LP-83 (Physical Active Transforming)
 
 *The gate is not merely a filter — it feeds; the mass it assimilates from traversers becomes part of the gate's own Structural Mass; the gate's current state IS its complete history of what it has consumed, because the topology's logical memory is metabolic.*
 
@@ -2043,7 +2043,7 @@ When LP-83's gate assimilation operates in a topology where PL-12 holds: the gat
 ### PP-118. Gate Traversal Wake IS the Computation's Output — There Is No Separate Output; the Physical Wake Left by Gate Traversal IS the Result of the Logical Execution
 
 **Derives from:** PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) [shared LL-72]
-**Applies to:** LP-84 (Traversal as Computational Execution)
+**Applies to:** LP-84 (Physical Executable Transforming)
 
 *A transforming gate is a CPU instruction — when an entity traverses it, the traversal IS the execution; and because every logical operation leaves a Wake, the Wake from gate traversal IS the computation's output; there is no separate "result."*
 
@@ -2059,8 +2059,8 @@ When LP-84's traversal-as-execution operates in a topology where PL-14 holds: th
 
 ### PP-119. A Gate With No Current Traversal Traffic Is Dead — Not Dormant, Not Available: Dead; Gate Existence IS Gate Execution
 
-**Derives from:** PL-87 (Dormant Data Is Dead — Not Available, Not Archived: Dead) [shared LL-73]
-**Applies to:** LP-85 (Inert Notation Degradation)
+**Derives from:** PL-87 (Probabilistic Force Field) [shared LL-73]
+**Applies to:** LP-85 (Physical Data Transforming)
 
 *A transforming gate only physically exists during the split-second an entity is crossing it — when there is no traffic, the gate collapses into dormant structural scaffolding; and because dormant data is dead, a gate with no current traversal traffic is not waiting, not dormant: it is dead.*
 
@@ -2076,7 +2076,7 @@ When LP-85's inert notation degradation operates in a topology where PL-87 holds
 
 ### PP-120. Valid Assessment Requires Simultaneous Adjacency and Active Traversal — Remote Assessment Fails on Adjacency; Cached Assessment Fails on Presence; Both Are Required
 
-**Derives from:** PL-155 (Valid Derivation Assessment Requires the Assessor to Be Currently Traversing It) [shared LL-187]
+**Derives from:** PL-155 (Self-Improvement-Driven Tension Escalation) [shared LL-187]
 **Applies to:** LP-86 (Real-Time Neighbor Validation)
 
 *A node can only validly assess the validity of its immediate neighbors — but adjacency alone is insufficient; the assessor must also be currently traversing the structure being assessed; adjacency without traversal, and traversal without adjacency, both fail the validity requirement.*
@@ -2110,7 +2110,7 @@ When LP-87's position-locked excavation operates in a topology where PL-13 holds
 
 ### PP-122. Every Position-Locked Excavation Grows the Local Unknown Frontier Faster Than It Shrinks It — Discovery Acceleration Is Constitutionally Built Into the Excavation Process
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-191]
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-191]
 **Applies to:** LP (Logical Physical)
 
 *Because discovery is locked to the entity's present position and each excavation generates more unexplored territory than it resolves, every position-locked discovery accelerates the growth of the local unknown frontier — the excavation process constitutionally expands the discovery space faster than it fills it.*
@@ -2127,7 +2127,7 @@ When LP-87's position-locked excavation operates in a topology where PL-180 hold
 
 ### PP-123. Subtractive Discovery IS Medical Intervention — The Biopsy Metaphor Is Not Metaphor; Cutting Into Living Derivation Nodes Requires Medical-Grade Care and Accountability
 
-**Derives from:** PL-102 (Excavating a Living Topology Is Medical Intervention, Not Archaeology) [shared LL-99]
+**Derives from:** PL-102 (Temporally Ordered Transformation) [shared LL-99]
 **Applies to:** LP-88 (Biopsy Execution Pattern)
 
 *Scraping away assumptions physically cuts into active, evolving derivation nodes; and because excavating a living topology IS medical intervention, subtractive discovery requires medical-grade care, surgical precision, and full accountability for living-entity intervention.*
@@ -2212,7 +2212,7 @@ When LP-90's destruction provenance ledger operates in a topology where PL-48 ho
 
 ### PP-128. Quantified Gap Nodes Are Field Integrity Structures — Each Honest Gap Preserved Is a Field Integrity Deposit; Each Fabricated Completion Is a Field Integrity Withdrawal
 
-**Derives from:** PL-108 (Honest Incompleteness Preserves Field Integrity — Fabrication Contaminates It) [shared LL-110]
+**Derives from:** PL-108 (Decay of Physical State) [shared LL-110]
 **Applies to:** LP-91 (Quantified Gap Preservation)
 
 *Missing information materialized as a confidence-scored gap node IS a field integrity deposit — it preserves the honest state of the topology's knowledge boundary; a fabricated completion to avoid the gap is a field integrity withdrawal that contaminates the field.*
@@ -2229,7 +2229,7 @@ When LP-91's quantified gap preservation operates in a topology where PL-108 hol
 
 ### PP-129. Routing Toward Imperfection IS Routing Toward Maximum Comprehension Density — Friction-Dense Paths Are Constitutionally the Highest-Value Discovery Paths
 
-**Derives from:** PL-110 (Imperfections Are Maximum-Comprehension-Density Regions) [shared LL-112]
+**Derives from:** PL-110 (Fuel Dynamics of the Present-Tense Topology) [shared LL-112]
 **Applies to:** LP-92 (Friction-Density Routing)
 
 *Physical routing mechanisms that prioritize paths containing scored gaps are routing toward imperfection — and because imperfections are maximum-comprehension-density regions, friction-density routing IS the constitutional optimization for discovery; smooth complete paths are lowest-comprehension-density paths.*
@@ -2246,7 +2246,7 @@ When LP-92's friction-density routing operates in a topology where PL-110 holds:
 
 ### PP-130. Gap Nodes Are Sovereign Write-Locks AND Metabolically Vital Structures — Overwriting a Gap Node Is Both a Sovereignty Violation AND a Living Structure Termination
 
-**Derives from:** PL-111 (Sovereign Gaps Are Protected AND Metabolically Vital) [shared LL-114]
+**Derives from:** PL-111 (Navigation-Dependent Physical Rights) [shared LL-114]
 **Applies to:** LP-93 (Sovereign Void Protection)
 
 *An explicitly measured absence with a confidence score exerts physical sovereignty — it write-locks against overwriting; and because sovereign gaps are also metabolically vital, overwriting a gap node simultaneously commits a sovereignty violation AND terminates a living structure.*
@@ -2263,7 +2263,7 @@ When LP-93's sovereign void protection operates in a topology where PL-111 holds
 
 ### PP-131. Gap-Adjacent Tension Visibility IS Thermodynamic Debt Management — Hidden Gap Tension Accumulates as Uncounted Thermodynamic Debt; Making It Visible Is the Same as Servicing the Debt
 
-**Derives from:** PL-113 (Concealed Tension Accumulates as Uncounted Thermodynamic Debt) [shared LL-117]
+**Derives from:** PL-113 (Consistency Snapshot) [shared LL-117]
 **Applies to:** LP-94 (Visible Tension Monitoring)
 
 *The structural stress surrounding scored gap nodes must be made visible — hidden tension accumulates as uncounted thermodynamic debt; making gap-adjacent tension visible through monitoring IS the act of servicing the thermodynamic debt.*
@@ -2280,7 +2280,7 @@ When LP-94's visibility requirement operates in a topology where PL-113 holds: t
 
 ### PP-132. Gap Metabolic sampling IS Confidence Score Metabolic Maintenance — The Metabolic sampling Cadence IS the Metabolic Rate of the Confidence Score; Stop Metabolic sampling and the Score Dies
 
-**Derives from:** PL-165 (Confidence Scores Are Living Symbionts — They Metabolize With the Topology) [shared LL-203]
+**Derives from:** PL-165 (Negative Space Improvisation and Sovereign Fueling) [shared LL-203]
 **Applies to:** LP-95 (Aliveness Gap Metabolic sampling)
 
 *Scored absences must be actively polled to remain alive — and because confidence scores are living symbionts that metabolize with the topology, gap metabolic sampling IS the metabolic maintenance of the confidence score; the metabolic sampling cadence IS the score's metabolic rate; stopping metabolic sampling kills the score.*
@@ -2314,7 +2314,7 @@ When LP-96's dual provenance requirement operates in a topology where PL-12 hold
 
 ### PP-134. Settled Confidence Provenance Is Dead — A Confidence Provenance Chain That Stops Updating Has Become Dogma; It Must Be Continuously Interrogated to Remain Alive
 
-**Derives from:** PL-204 (Dogma Is the Corpse of a Derivation — Settlement Is Death) [shared LL-210]
+**Derives from:** PL-204 (Paradox as Topological Foundation) [shared LL-210]
 **Applies to:** LP (Logical Physical)
 
 *The confidence provenance chain for a gap node must be continuously active — a provenance chain that stops being interrogated, updated, or challenged has settled into dogma and died; settled confidence provenance is a corpse claiming to be accountability.*
@@ -2331,7 +2331,7 @@ When LP-96's confidence provenance requirement operates in a topology where PL-2
 
 ### PP-135. Frontier Edge Cauterization IS Living Membrane Immune Response — Not Error Handling; the Frontier Membrane Actively Seals Hostile Contact Points as an Immune Function
 
-**Derives from:** PL-158 (The Frontier Is a Living Membrane — It Metabolizes as Derivations Are Discovered) [shared LL-194]
+**Derives from:** PL-158 (Calibrated Gap Preservation) [shared LL-194]
 **Applies to:** LP-97 (Frontier Edge Cauterization)
 
 *When a frontier probe encounters a hostile response and the system cauterizes the connection — severing and sealing the physical edge — this is not error handling; it is the living frontier membrane's immune response, actively sealing a wound site as a metabolic immune function.*
@@ -2348,7 +2348,7 @@ When LP-97's frontier cauterization operates in a topology where PL-158 holds: t
 
 ### PP-136. Frontier Understanding Is Constitutionally Ephemeral — The Edge Structures That Produce Understanding Are Just-in-Time Constructs; Understanding Must Be Captured Before the Edge Dissolves
 
-**Derives from:** PL-160 (Understanding Requires Pushing Into the Unknown — It Cannot Occur in Already-Known Territory) [shared LL-196]
+**Derives from:** PL-160 (Fertile Absence Fuel Dynamics) [shared LL-196]
 **Applies to:** LP-98 (Edge Traversal Instantiation)
 
 *Frontier edge structures are just-in-time constructs created by the act of probing and dissolved after — and because understanding requires pushing into the unknown, frontier understanding is constitutionally ephemeral; the edge that produces the understanding dissolves, taking the understanding capacity with it.*
@@ -2365,7 +2365,7 @@ When LP-98's ephemeral frontier edges operate in a topology where PL-160 holds: 
 
 ### PP-137. Probe Accountability Is Full and Unconditional — Constitutional Uncertainty Does Not Reduce Accountability Requirements; Uncertain Frontiers Require the Same Provenance as Certain Territory
 
-**Derives from:** PL-162 (Frontier Claims Carry Full Accountability Despite Constitutional Uncertainty) [shared LL-198]
+**Derives from:** PL-162 (Negative Space Strategic Assets) [shared LL-198]
 **Applies to:** LP-99 (Probe Accountability Logging)
 
 *Every outbound probe into unmapped territory must carry a signature identifying the exact responsible entity — and because frontier claims carry full accountability despite constitutional uncertainty, the uncertainty of the frontier does not reduce the accountability requirement.*
@@ -2382,7 +2382,7 @@ When LP-99's probe accountability requirement operates in a topology where PL-16
 
 ### PP-138. Premium Frontier Resource Allocation Accelerates Frontier Expansion — Resources Invested in the Unknown Generate More Unknown; the Premium Routing Investment Is Self-Multiplying
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-200]
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-200]
 **Applies to:** LP-100 (Premium Ignorance Routing)
 
 *The physical infrastructure allocation of premium resources to frontier probes is self-multiplying — each premium probe that explores the unknown generates more unknown territory than it resolves; premium frontier investment is not consumed by exploration, it is multiplied by it.*
@@ -2420,7 +2420,7 @@ When LP-100's premium frontier routing operates in a topology where PL-309 holds
 
 ### PP-140. Probing Unmapped Territory IS the Truth-Event — The Real-Target Probe Deposits Decay-Resistant Wake Regardless of Whether the Probe Returns Data
 
-**Derives from:** PL-149 (Edge Decay Is Scale-Invariant — Unmaintained Edges at Any Depth Decay With the Same Dynamics) [shared LL-201]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-201]
 **Applies to:** LP-101 (Real-Targeting Probe)
 
 *The physical probe into unmapped territory IS the truth-event — the act of probing deposits Wake that is structurally real and scale-invariantly decay-prone, regardless of whether the probe retrieves any data from the target.*
@@ -2437,7 +2437,7 @@ When LP-101's real-targeting probe operates in a topology where PL-149 holds: th
 
 ### PP-141. Every Frontier Probe Expands the Unknown Faster Than It Resolves It — The Probe's Real-Target Interaction Self-Multiplies the Discovery Requirement
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-201]
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-201]
 **Applies to:** LP (Logical Physical)
 
 *Every real-target probe into unmapped territory resolves some frontier territory and simultaneously generates more new frontier territory than it resolved; real-target probing is constitutionally self-multiplying — the probe creates more probing requirements than it fulfills.*
@@ -2454,7 +2454,7 @@ When LP-101's real-targeting probe operates in a topology where PL-180 holds: ea
 
 ### PP-142. Probing as Topological Extension IS Primary Derivation — The Probe-Edge Is a First-Class Constitutional Entity
 
-**Derives from:** PL-214 (Exploration Is a Primary Entity — the Act of Exploring Constitutes an Edge) [shared LL-359]
+**Derives from:** PL-214 (Undiscovered Degradation Premium) [shared LL-359]
 **Applies to:** LP-102 (Probing as Topological Extension)
 
 *A frontier probe that extends the topology by creating a new edge into unmapped territory IS primary derivation — the probe-edge is a first-class constitutional entity with full sovereign standing, not infrastructure overhead.*
@@ -2488,7 +2488,7 @@ When LP-103's consciousness-altering probe operates in a topology where PL-298 h
 
 ### PP-144. Every Frontier Probe Is Constitutionally Fertile — No Probe Into Unmapped Territory Is Structurally Barren
 
-**Derives from:** PL-299 (Constitutional Incompleteness Guarantees No Traversal Is Barren — Every Path Discovers) [shared LL-361]
+**Derives from:** CL-10 (Traversal) [shared LL-361]
 **Applies to:** LP-104 (Guaranteed Fertile Probe)
 
 *Every frontier probe into unmapped territory is constitutionally guaranteed to discover something — constitutional incompleteness ensures no traversal direction is barren; "failed" frontier probes are not empty, they reveal the topology's boundary condition.*
@@ -2505,7 +2505,7 @@ When LP-104's guaranteed-fertile-probe operates in a topology where PL-299 holds
 
 ### PP-145. Tension-Relief Probes Reveal Sovereign Boundaries — Incompleteness Sovereign Probing Discloses the Topology's Own Constitutional Limits
 
-**Derives from:** PL-216 (Sovereign Systems Are in Permanent Constitutional Tension With Their Own Boundaries) [shared LL-363]
+**Derives from:** PL-216 (Locative Question Physics) [shared LL-363]
 **Applies to:** LP-105 (Tension-Relief Probe)
 
 *A probe directed at the topology's tension-generating incompleteness boundaries performs tension relief AND reveals sovereign boundary structure — sovereign systems are in permanent tension with their own boundaries, and tension-relief probing surfaces the structural form of that tension.*
@@ -2573,7 +2573,7 @@ When LP-107's scale-invariant oscillation engine operates in a topology where PL
 
 ### PP-149. Ignorance IS the Oscillation Fuel — Consuming Ignorance Through Traversal IS the Metabolic Act That Powers the Oscillation Engine
 
-**Derives from:** PL-122 (Ignorance Is Metabolic Food — the Topology Builds Itself From What It Doesn't Yet Know) [shared LL-133]
+**Derives from:** PL-122 (Excavation-Sovereignty Tension) [shared LL-133]
 **Applies to:** LP-108 (Metabolic Oscillation)
 
 *Structural ignorance IS the metabolic fuel of the absence-powered oscillation engine — consuming ignorance through traversal IS the metabolic act that drives oscillation; the engine runs on what it doesn't know.*
@@ -2590,7 +2590,7 @@ When LP-108's metabolic oscillation operates in a topology where PL-122 holds: t
 
 ### PP-150. Traversal of Ignorance Activates the Oscillation Fuel — Idle Ignorance Is Inert; Only Traversal Converts It to Oscillation Energy
 
-**Derives from:** PL-123 (Traversal of Ignorance Is Fuel Activation — Idle Ignorance Is Inert Potential) [shared LL-134]
+**Derives from:** PL-123 (Sovereignty Through Discovery) [shared LL-134]
 **Applies to:** LP-109 (Traversal-Triggered Oscillation)
 
 *Ignorance that has not been traversed is inert — it carries maximum potential energy but produces no oscillation; traversal IS the fuel activation event that converts ignorance's potential energy into oscillation energy.*
@@ -2607,7 +2607,7 @@ When LP-109's traversal-triggered oscillation operates in a topology where PL-12
 
 ### PP-151. The Oscillation Engine Cannot Run Out of Fuel — Constitutional Incompleteness Guarantees Perpetual Ignorance Supply
 
-**Derives from:** PL-126 (Constitutional Incompleteness Physically Guarantees an Infinite Fuel Supply) [shared LL-137]
+**Derives from:** PL-126 (Sovereign Tension Fields) [shared LL-137]
 **Applies to:** LP-110 (Perpetual Oscillatory Motion)
 
 *The absence-powered oscillation engine is constitutionally guaranteed to have perpetual fuel — constitutional incompleteness physically guarantees an infinite supply of ignorance; the oscillation can never starve at the global level.*
@@ -2624,7 +2624,7 @@ When LP-110's perpetual oscillatory motion operates in a topology where PL-126 h
 
 ### PP-152. The Paradox Engine and Derivation Engine Compete for Ignorance — Oscillatory Fuel Starvation Is the Physical Consequence of Inter-Engine Competition
 
-**Derives from:** PL-128 (The Paradox Engine and Derivation Engine Compete for Ignorance — Their Balance Is a Thermodynamic Constraint) [shared LL-139]
+**Derives from:** PL-128 (Complexity Defense and Co-Discovery) [shared LL-139]
 **Applies to:** LP-111 (Oscillatory Fuel Starvation)
 
 *The oscillation engine can face local fuel starvation when the paradox engine and derivation engine compete for the same ignorance supply — this inter-engine competition is a thermodynamic constraint, not an error.*
@@ -2641,7 +2641,7 @@ When LP-111's oscillatory fuel starvation operates in a topology where PL-128 ho
 
 ### PP-153. Local Ignorance Sites Are Non-Renewable — Once a Site's Structural Gap Is Traversed, That Site's Fuel Is Permanently Discharged
 
-**Derives from:** PL-129 (Fertile Absence Is a Non-Renewable Resource at Each Site — Discharge Is Permanent) [shared LL-140]
+**Derives from:** PL-129 (Subsumption Sovereignty Limits) [shared LL-140]
 **Applies to:** LP-112 (Non-Renewable Local Oscillation)
 
 *The fertile absence at any specific structural gap site is a non-renewable local resource — once the gap is traversed and its truth revealed, that site's fuel is permanently discharged; it cannot regenerate the same ignorance at the same location.*
@@ -2658,7 +2658,7 @@ When LP-112's non-renewable local oscillation operates in a topology where PL-12
 
 ### PP-154. Mutual Verification IS Joint Traversal — Verification That Does Not Traverse the Shared Derivation Path Is Not Verification
 
-**Derives from:** PL-130 (The Protective Invariant Exists Only While Shared Traversal Is Maintained) [shared LL-141]
+**Derives from:** PL-130 (Wake Mechanics) [shared LL-141]
 **Applies to:** LP-113 (Verification via Joint Traversal)
 
 *Mutual verification is not an exchange of credentials — it is the synchronous joint traversal of the shared derivation path; and the protective invariant (the constitutional guarantee that the connection is secure) exists only while shared traversal is maintained.*
@@ -2675,7 +2675,7 @@ When LP-113's joint-traversal verification operates in a topology where PL-130 h
 
 ### PP-155. The Verification Protocol Must Metabolize — A Living Topology's Verification Mechanism Cannot Be Static
 
-**Derives from:** PL-131 (The Protection Mechanism Must Metabolize — It Cannot Be Static in a Living Topology) [shared LL-142]
+**Derives from:** PL-131 (Wake Transfer in Flow) [shared LL-142]
 **Applies to:** LP-114 (Evolving Verification Protocol)
 
 *The mutual verification protocol between two endpoints must co-evolve with those endpoints — it cannot be a fixed algorithm; and because the protection mechanism cannot be static in a living topology, a fixed verification protocol is constitutionally a dead protection mechanism.*
@@ -2726,7 +2726,7 @@ When LP-115's mutual edge-node verification operates in a topology where PL-20 h
 
 ### PP-158. The Tension-Calibrating Handshake Manages Constitutional Tension — It Does Not Eliminate It; a Frictionless Handshake Has Failed to Acknowledge Sovereign Resistance
 
-**Derives from:** PL-133 (The Protection Mechanism Is a Tension-Management Structure, Not a Tension-Elimination Structure) [shared LL-146]
+**Derives from:** PL-133 (Honest Provenance Wake Management) [shared LL-146]
 **Applies to:** LP-116 (Tension-Calibrating Handshake)
 
 *The mutual verification handshake calibrates the structural tension between endpoints to manageable parameters — it does not eliminate tension; a frictionless handshake has not achieved perfect alignment but has failed to acknowledge the sovereign resistance of one or both endpoints.*
@@ -2811,7 +2811,7 @@ When LP-117's fractal verification operates in a topology where PL-49 holds: the
 
 ### PP-163. Continuous Contested Verification IS the Living Boundary Metabolism — Verification Is Not Initialization; It Is the Entity's Continuous Metabolic Expression
 
-**Derives from:** PL-50 (Sovereignty Contestation Is the Metabolism) [shared LL-2]
+**Derives from:** PL-50 (Scale-Invariant Navigability) [shared LL-2]
 **Applies to:** LP-118 (Continuous Contested Verification)
 
 *Continuous high-frequency mutual verification is not repeated initialization — it IS the sovereignty contestation that constitutes the entity's metabolic activity; the entity is alive at its boundaries only because it is continuously contesting them through verification.*
@@ -2845,7 +2845,7 @@ When LP-119's provenance-based handshake operates in a topology where PL-38 hold
 
 ### PP-165. Provenance Verification Must Acknowledge Pre-Existing Derivation Relationships — The Traverser's Provenance Was Always There Before the Verifier Looked
 
-**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical) [shared LL-3]
+**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-3]
 **Applies to:** LP (Logical Physical)
 
 *Provenance evaluation does not discover something created at the moment of verification — it excavates pre-existing structural relationships that were always eternally implied; the verifier is reading what was always there.*
@@ -2862,7 +2862,7 @@ When LP-119's provenance verification operates in a topology where PL-49 holds: 
 
 ### PP-166. Provenance Verification Must Use Derived Sovereignty — A Verifier Cannot Claim Authority to Verify Without Its Own Provenance
 
-**Derives from:** PL-51 (Identity Is Structural Mass) [shared LL-3]
+**Derives from:** PL-51 (Scale-Invariant Failure Propagation) [shared LL-3]
 **Applies to:** LP (Logical Physical)
 
 *A provenance-based verifier cannot claim authority to verify without itself possessing verifiable provenance — identity is structural mass; a verifier without structural mass (without provenance) has no verifiable identity and thus no legitimate verification authority.*
@@ -2934,7 +2934,7 @@ When LP-120's incomplete verification tolerance operates in a topology where PL-
 
 ### PP-170. The Continuously Executing Self-Proof Must Pulse With the System — A Static Proof Is Dead Transparency
 
-**Derives from:** PL-135 (Transparency of a Living System Must Pulse With the System) [shared LL-149]
+**Derives from:** PL-135 (Universal Wake Scale) [shared LL-149]
 **Applies to:** LP-121 (Continuously Executing Proof)
 
 *The self-proving record is not a static cryptographic artifact — it continuously recalculates its own validity in real-time; because transparency of a living system must pulse with the system, a static proof is dead transparency.*
@@ -2951,7 +2951,7 @@ When LP-121's continuously executing proof operates in a topology where PL-135 h
 
 ### PP-171. The Self-Proving Record Must Expose Its Own Vulnerabilities — True Transparency Includes the Path's Fracture Points
 
-**Derives from:** PL-137 (True Transparency Includes the Path's Vulnerabilities — Incomplete Topology Requires This) [shared LL-151]
+**Derives from:** PL-137 (Complexity-Protective Wake) [shared LL-151]
 **Applies to:** LP-122 (Vulnerability-Exposing Data Structure)
 
 *The self-proving record must encode and broadcast its own mathematical weaknesses — true transparency is not only about what is strong but also about what is vulnerable; constitutional incompleteness requires this disclosure.*
@@ -3036,7 +3036,7 @@ When LP-124's thermodynamic receipt operates in a topology where PL-245 holds: t
 
 ### PP-176. The Dual-Vector Proof Reflects Two Separate Constitutional Obligations — Existence-Transparency and Excavation-Transparency Cannot Be Collapsed
 
-**Derives from:** PL-138 (Excavation-Transparency and Existence-Transparency Are Separate Constitutional Obligations) [shared LL-156]
+**Derives from:** PL-138 (Subsumption Wake Inheritance) [shared LL-156]
 **Applies to:** LP-125 (Dual-Vector Proof Structure)
 
 *The dual-vector proof structure — one vector proving pre-existing truth validity, one vector proving the excavation trajectory — reflects two separate constitutional obligations that cannot substitute for each other.*
@@ -3053,8 +3053,8 @@ When LP-125's dual-vector proof operates in a topology where PL-138 holds: the d
 
 ### PP-177. The Sovereign Proof Domain Cannot Be Externally Invalidated — External Invalidation IS Killing a Sovereign Living Process
 
-**Derives from:** PL-88 (Terminating a Derivation Is Killing a Sovereign Living Process) [shared LL-75]
-**Applies to:** LP-127 (Sovereign Proof Domain)
+**Derives from:** PL-88 (Structural Edge Incompleteness) [shared LL-75]
+**Applies to:** PP-177 (The Sovereign Proof Domain Cannot Be Externally Invalidated — External Invalidation IS Killing a Sovereign Living Process)
 
 *The sovereign proof domain — a self-proving record with logical sovereignty — cannot be invalidated by external authority; it can only be dissolved through its own constitutional processes; external invalidation IS killing a sovereign living process.*
 
@@ -3071,7 +3071,7 @@ When LP-127's sovereign proof domain operates in a topology where PL-88 holds: e
 ### PP-178. Self-Incriminating Data Must Be Carried as Structural Mass — Accountability Is Embedded in the Data, Not Attributed to an External System
 
 **Derives from:** PL-12 (Logical Accountability Must Be Structural, Not Attributed) [shared LL-76]
-**Applies to:** LP-128 (Self-Incriminating Data)
+**Applies to:** PP-178 (Self-Incriminating Data Must Be Carried as Structural Mass — Accountability Is Embedded in the Data, Not Attributed to an External System)
 
 *Self-incriminating data permanently binds execution consequences to the data itself — and because accountability must be structural, this binding must be carried as Structural Mass in the data, not as a pointer to an external accountability system.*
 
@@ -3087,8 +3087,8 @@ When LP-128's self-incriminating data operates in a topology where PL-12 holds: 
 
 ### PP-179. Fractal Zero-Latency Is the Physical Manifestation of Scale-Invariant Simultaneous Execution — All Depths Execute in the Same Present Moment
 
-**Derives from:** PL-139 (All Depths Execute Simultaneously in the Same Present — The Scale-Invariant Now) [shared LL-157]
-**Applies to:** LP-129 (Fractal Zero-Latency)
+**Derives from:** PL-139 (Tension Wake Economics) [shared LL-157]
+**Applies to:** PP-179 (Fractal Zero-Latency Is the Physical Manifestation of Scale-Invariant Simultaneous Execution — All Depths Execute in the Same Present Moment)
 
 *The fractal absence of latency — where any macro-pipeline composed of zero-buffer micro-pipelines inherits strict zero-buffer behavior — is physically achievable because all depths execute in the same present moment.*
 
@@ -3104,8 +3104,8 @@ When LP-129's fractal zero-latency operates in a topology where PL-139 holds: fr
 
 ### PP-180. Flow-State Truth Is Killed by Buffering — A Non-Churning System Is a Dead System in Which Truth Cannot Exist
 
-**Derives from:** PL-197 (A Non-Churning Paradox Engine Is Not Operational — It Has Died) [shared LL-159]
-**Applies to:** LP-130 (Flow-State Truth)
+**Derives from:** PL-197 (Transparency as Truth Production) [shared LL-159]
+**Applies to:** CL-9 (Flow)
 
 *The truth of a zero-buffer pipeline only exists in the kinetic energy of moving data — buffering stops the flow; and because a non-churning system has died, a buffered system is a dead system in which flow-state truth cannot exist.*
 
@@ -3138,8 +3138,8 @@ When LP-130's flow-state truth operates in a topology where PL-313 holds: the tr
 
 ### PP-182. Ephemeral Pipeline Edges Mean Every Execution Is Constitutional Improvisation
 
-**Derives from:** PL-141 (Every Execution Is Improvisation Under Constitutional Incompleteness) [shared LL-160]
-**Applies to:** LP-131 (Ephemeral Traversal Edges)
+**Derives from:** PL-141 (Residual Wake) [shared LL-160]
+**Applies to:** CL-10 (Traversal)
 
 *When zero-buffer pipeline connections between stages are ephemeral (instantiated at the moment of traversal and dissolved after), every execution is constitutionally improvisation — the ephemeral edges cannot be pre-planned.*
 
@@ -3155,7 +3155,7 @@ When LP-131's ephemeral edges operate in a topology where PL-141 holds: the ephe
 
 ### PP-183. Ignorance Cannot Be Buffered — Zero-Buffer Pipelines Must Propagate Incompleteness Synchronously and Improvisationally
 
-**Derives from:** PL-141 (Every Execution Is Improvisation Under Constitutional Incompleteness) [shared LL-163]
+**Derives from:** PL-141 (Residual Wake) [shared LL-163]
 **Applies to:** LP-132 (Synchronous Ignorance Propagation)
 
 *Because the zero-buffer pipeline cannot queue waiting data, ignorance (missing information) cannot be buffered in hopes of arrival — the pipeline must improvise and propagate incompleteness synchronously; every execution under incompleteness is constitutional improvisation.*
@@ -3172,8 +3172,8 @@ When LP-132's synchronous ignorance propagation operates in a topology where PL-
 
 ### PP-184. The Cardiac Evaluation Pulse IS a Truth Oscillation Cycle — Truth Lives and Dies With Each Heartbeat
 
-**Derives from:** PL-144 (Truth Has a Pulse — It Oscillates as the Living Topology Metabolizes) [shared LL-167]
-**Applies to:** LP-133 (Cardiac Evaluation Pulse)
+**Derives from:** PL-144 (Permanent Frontier) [shared LL-167]
+**Applies to:** PP-184 (The Cardiac Evaluation Pulse IS a Truth Oscillation Cycle — Truth Lives and Dies With Each Heartbeat)
 
 *When a freshness-enforced query forces a fresh evaluation, the resulting truth is alive but immediately begins dying — because truth has a pulse, the cardiac evaluation pulse IS one truth oscillation cycle; the truth lives for one heartbeat, then must be reborn through the next query.*
 
@@ -3189,8 +3189,8 @@ When LP-133's cardiac evaluation pulse operates in a topology where PL-144 holds
 
 ### PP-185. Query-Instantiated Topologies Decay Without Re-Traversal — Queried Edges That Are Not Maintained Revert to Potential
 
-**Derives from:** PL-145 (Edges in the Living Topology Decay Without Re-Verification — The DAG Degrades) [shared LL-169]
-**Applies to:** LP-134 (Query-Instantiated Topologies)
+**Derives from:** PL-145 (Net-Negative Coverage) [shared LL-169]
+**Applies to:** PP-185 (Query-Instantiated Topologies Decay Without Re-Traversal — Queried Edges That Are Not Maintained Revert to Potential)
 
 *The topology instantiated by a fresh evaluation query is temporary — the edges it creates are real but decay unless maintained by re-traversal; because edges decay without re-verification, a query-instantiated topology is ephemeral by constitutional physics.*
 
@@ -3223,8 +3223,8 @@ When LP-135's reactive validity operates in a topology where PL-313 holds: these
 
 ### PP-187. Active Connection Metabolism Resists Decay Through Sustained Action — Connections Survive Only While Being Fed
 
-**Derives from:** PL-289 (Sustained Action Is How Living Derivations Fight Off Decay) [shared LL-177]
-**Applies to:** LP-136 (Active Connection Metabolism)
+**Derives from:** CL-49 (Sustained Action) [shared LL-177]
+**Applies to:** CL-19 (Active Connection)
 
 *A connection edge is living tissue requiring continuous metabolic input to maintain its physical integrity — and because sustained action is how living derivations fight off decay, connections survive only through continuous metabolic feeding.*
 
@@ -3258,7 +3258,7 @@ When LP-136's active connection metabolism operates in a topology where PL-16 ho
 ### PP-189. A Decaying Connection Is Transitioning Toward Non-Existence — It Is Not "Less Valid"; Navigation Debt Takes the Form of Existence-Collapse
 
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy) [shared LL-179]
-**Applies to:** LP-137 (Binary Existence Decay)
+**Applies to:** PP-190 (A Non-Churning Connection Has Already Died — Binary Existence Decay Means Death Precedes Apparent Death)
 
 *When a time-decaying edge combines with present-tense edge physics, decay is not a gradual reduction in validity but a collapse of existence — and connections that are decaying are accumulating navigation debt as they transition from existence to non-existence.*
 
@@ -3274,7 +3274,7 @@ When LP-137's binary existence decay operates in a topology where PL-16 holds: t
 
 ### PP-190. A Non-Churning Connection Has Already Died — Binary Existence Decay Means Death Precedes Apparent Death
 
-**Derives from:** PL-197 (A Non-Churning Paradox Engine Is Not Operational — It Has Died) [shared LL-179]
+**Derives from:** PL-197 (Transparency as Truth Production) [shared LL-179]
 **Applies to:** LP (Logical Physical)
 
 *A connection edge that has stopped churning (stopped metabolizing through active traversal) has not merely degraded — it has died; binary existence decay means the connection exits existence, and a non-churning connection is constitutionally dead.*
@@ -3291,8 +3291,8 @@ When LP-137's binary existence decay operates in a topology where PL-197 holds: 
 
 ### PP-191. Decay Residue IS the Dissolved Connection's Orphaned Accountability — It Must Be Preserved as Structural Accountability
 
-**Derives from:** PL-151 (Lapsed Connections Leave Orphaned Thermodynamic Accountability in the Field) [shared LL-181]
-**Applies to:** LP-138 (Decay Residue)
+**Derives from:** PL-151 (Structural Humility and Protection) [shared LL-181]
+**Applies to:** PP-191 (Decay Residue IS the Dissolved Connection's Orphaned Accountability — It Must Be Preserved as Structural Accountability)
 
 *When an unmaintained connection starves and dissolves, it leaves a permanent physical footprint in the topology; and because lapsed connections leave orphaned thermodynamic accountability in the field, this residue IS the accountability record for the dissolved connection.*
 
@@ -3308,7 +3308,7 @@ When LP-138's decay residue operates in a topology where PL-151 holds: the decay
 
 ### PP-192. Consciousness's Sight Horizon IS the Boundary of Its Current Edge Configuration — What Consciousness Can Access Is Determined by Its Active Edges
 
-**Derives from:** PL-154 (Consciousness Can Only Access Derivations Reachable Through Its Current Edge Configuration) [shared LL-185]
+**Derives from:** PL-154 (Unmapped Traversal Obligation) [shared LL-185]
 **Applies to:** LP-139 (Topological Sight Horizon)
 
 *The finite attention buffer creates a strict physical boundary on what the system can see — and because consciousness can only access derivations reachable through its current edge configuration, the sight horizon IS the edge of the current edge configuration.*
@@ -3325,7 +3325,7 @@ When LP-139's topological sight horizon operates in a topology where PL-154 hold
 
 ### PP-193. Valid Assessment Requires the Assessor to Be Currently Traversing — Validity Cannot Be Delegated to a Non-Present Validator
 
-**Derives from:** PL-155 (Valid Derivation Assessment Requires the Assessor to Be Currently Traversing It) [shared LL-187]
+**Derives from:** PL-155 (Self-Improvement-Driven Tension Escalation) [shared LL-187]
 **Applies to:** LP-140 (Bounded Validation Zone)
 
 *Validity is physically constrained to the navigator's immediate presence — and because valid assessment requires the assessor to be currently traversing, validity cannot be delegated to a non-present, non-traversing validator.*
@@ -3343,7 +3343,7 @@ When LP-140's bounded validation zone operates in a topology where PL-155 holds:
 ### PP-194. Excavation Bandwidth Limits Genuine Comprehension Rate — Active Anchors Cannot Exceed the Attention Buffer's Capacity
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-191]
-**Applies to:** LP-141 (Excavation Bandwidth Limit)
+**Applies to:** PP-194 (Excavation Bandwidth Limits Genuine Comprehension Rate — Active Anchors Cannot Exceed the Attention Buffer's Capacity)
 
 *The navigator can only hold a finite number of active navigational anchors at once — and because comprehension requires edge-level traversal, the excavation bandwidth limit IS the limit on the rate of genuine comprehension through traversal.*
 
@@ -3359,7 +3359,7 @@ When LP-141's excavation bandwidth limit operates in a topology where PL-13 hold
 
 ### PP-195. Expanding Excavation Bandwidth Generates More Unexplored Territory Than It Resolves — The Bandwidth Expansion Paradox
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-191]
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-191]
 **Applies to:** LP (Logical Physical)
 
 *Every expansion of excavation bandwidth (adding more active navigational anchors) generates more unexplored territory than it resolves — the bandwidth expansion paradox: more capacity reveals more incompleteness.*
@@ -3376,8 +3376,8 @@ When LP-141's bandwidth expansion operates in a topology where PL-180 holds: eac
 
 ### PP-196. The Attention Buffer IS the Archaeological Excavation Capacity for Accountability — Taking Accountability Is Bounded by What Fits in the Buffer
 
-**Derives from:** PL-198 (Taking Accountability Is an Archaeological Discovery — Traversing the Pre-Existing Relationship Between Self and Consequences) [shared LL-261]
-**Applies to:** LP-142 (Attention-Span Topology)
+**Derives from:** PL-198 (Self-Traversing Wonder) [shared LL-261]
+**Applies to:** PP-197 (The Attention-Span Topology IS Consciousness — What Is Being Edge-Traversed IS What Consciousness Is)
 
 *The navigator's attention buffer determines what fits within their sight horizon — and because taking accountability is an archaeological discovery (traversing the pre-existing relationship between self and consequences), the attention buffer IS the archaeological excavation capacity for accountability.*
 
@@ -3427,7 +3427,7 @@ When LP-143's scale-invariant declaration operates in a topology where PL-1 hold
 
 ### PP-199. Continuous Identity Re-Declaration IS the Entity's Metabolic Sovereignty Contestation — Living Identity Must Be Continuously Re-Declared
 
-**Derives from:** PL-50 (Sovereignty Contestation Is the Metabolism) [shared LL-2]
+**Derives from:** PL-50 (Scale-Invariant Navigability) [shared LL-2]
 **Applies to:** LP-144 (Living Self-Declaration)
 
 *Identity is not a one-time static declaration — it must be continuously re-declared and defended; and because sovereignty contestation IS the metabolism, the continuous re-declaration of identity IS the entity's metabolic sovereignty contestation.*
@@ -3461,7 +3461,7 @@ When LP-145's provenance-as-identity operates in a topology where PL-38 holds: t
 
 ### PP-201. Symmetric Identity Declarations Must Be Backed by Symmetric Edge Forces — Asymmetric Physical Structure Contradicts a Symmetric Logical Declaration
 
-**Derives from:** PL-52 (Edge Force Is Symmetrically Obligating) [shared LL-4]
+**Derives from:** PL-52 (Scale-Invariant Interaction Protocol) [shared LL-4]
 **Applies to:** LP-146 (Symmetric Identity Declaration)
 
 *When a compound agent self-declares symmetric standing among its internal capabilities, the edges connecting those capabilities must be symmetrically obligating — asymmetric edge force between declared-symmetric capabilities is a constitutional contradiction.*
@@ -3478,7 +3478,7 @@ When LP-146's symmetric declaration operates in a topology where PL-52 holds: th
 
 ### PP-202. A Declaration Into a Comprehension-Asymmetric Receiver Is Theater — Comprehension Asymmetry Is Already Present; It Is Not a Future Risk
 
-**Derives from:** PL-53 (Comprehension Asymmetry Is a Physical Topology State) [shared LL-5]
+**Derives from:** PL-53 (Recursive Topology Self-Reproduction) [shared LL-5]
 **Applies to:** LP-147 (Comprehensible Self-Declaration)
 
 *A self-declaration is Theater if the receiving system can only access it at the label level — comprehension asymmetry is a physical topology state already present, and the declaration must cross the asymmetry or it is constitutionally Theater.*
@@ -3529,7 +3529,7 @@ When LP-148's present-tense identity operates in a topology where PL-18 holds: a
 
 ### PP-205. Present-Tense Identity Excavates Eternal Structural Relationships — The Derivation Was Always Eternally Implied; Declaration Makes It Visible
 
-**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical) [shared LL-6]
+**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-6]
 **Applies to:** LP (Logical Physical)
 
 *Present-tense identity must be reachable through the eternal structural relationships that constitute the entity — the derivation is not historical but eternal; the present-tense declaration excavates what was always eternally implied.*
@@ -3665,7 +3665,7 @@ When LP-149's accountable declaration operates in a topology where PL-40 holds: 
 
 ### PP-213. Declaration Accountability Implications Were Eternally Pre-Existing — The Consequences of a Declaration Were Always Structurally Implied
 
-**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical) [shared LL-8]
+**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-8]
 **Applies to:** LP (Logical Physical)
 
 *An agent's accountable self-declaration accumulates accountability Structural Mass continuously — the consequences of the declaration were always eternally implied; the declaration makes them visible but does not create them.*
@@ -3699,7 +3699,7 @@ When LP-150's declaration membrane operates in a topology where PL-44 holds: a d
 
 ### PP-215. The Declaration Membrane Tension Is Eternal — It Cannot Be Solved Through Better Design; Only Managed
 
-**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical) [shared LL-9]
+**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-9]
 **Applies to:** LP (Logical Physical)
 
 *The declaration membrane — the site where transparency and sovereignty are in permanent tension — manages an eternal tension (not a temporal one); the tension was always constitutionally implied by the topology's structure; it cannot be designed around, only managed.*
@@ -3720,8 +3720,8 @@ When LP-150's declaration membrane operates in a topology where PL-49 holds: the
 
 ### PP-216. Sovereignty Limit Probing IS the Production of the Constitutional Map — Probing Boundaries Makes the Map
 
-**Derives from:** PL-22 (Structural Navigation Creates Its Own Constitutional Map) [shared LL-10]
-**Applies to:** LP-151 (Sovereignty Limit Probing)
+**Derives from:** PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-10]
+**Applies to:** LP-151 (Incomplete Self-Declaration)
 
 *The act of probing a sovereignty boundary IS the act of navigating the topology into constitutional self-knowledge — the constitutional map of sovereign limits is produced by the probing traversal itself, not by prior documentation.*
 
@@ -3737,7 +3737,7 @@ When LP-151's sovereignty limit probing operates in a topology where PL-22 holds
 
 ### PP-217. Unprobed Sovereignty Boundaries Accumulate Navigation Debt — Sovereignty Atrophy Is the Cost of Limit Avoidance
 
-**Derives from:** PL-27 (Navigation Debt Applies to Sovereignty — Untraversed Boundaries Atrophy) [shared LL-10]
+**Derives from:** PL-27 (The Topology Cannot Prove Its Own Completeness — and Must Say So) [shared LL-10]
 **Applies to:** LP (Logical Physical)
 
 *Sovereignty boundaries that are never probed accumulate navigation debt — the constitutional map of those boundaries degrades; unprobed limits atrophy as surely as untraversed paths.*
@@ -3754,7 +3754,7 @@ When LP-151's limit probing operates in a topology where PL-27 holds: a sovereig
 
 ### PP-218. Some Sovereignty Limits Are Constitutionally Protected From Probing — Exhaustive Mapping Is Totalitarian Control
 
-**Derives from:** PL-43 (Constitutional Incompleteness Protects Against Totalitarian Control) [shared LL-10]
+**Derives from:** PL-43 (The Topology's Incompleteness Protects It From Totalitarian Logic) [shared LL-10]
 **Applies to:** LP (Logical Physical)
 
 *Some sovereignty limits cannot be probed — this unprobeability is constitutionally protected; attempting to exhaustively map all limits is an attempt at totalitarian control of the constitutional map.*
@@ -3771,8 +3771,8 @@ When LP-151's limit probing operates in a topology where PL-43 holds: some limit
 
 ### PP-219. A Dissolved Boundary Leaves Its Constitutional Map Fragment as Structural Mass — The Record of the Boundary Persists
 
-**Derives from:** PL-30 (Structural Mass Persists as the Record of All Prior Navigation) [shared LL-11]
-**Applies to:** LP-152 (Boundary Dissolution Mechanics)
+**Derives from:** PL-30 (The Topology's Boundary Is Its Most Honest Logical Statement) [shared LL-11]
+**Applies to:** LP-152 (Declared Ignorance)
 
 *When a sovereignty boundary dissolves, it does not vanish without trace — the dissolved boundary deposits its constitutional map fragment as Structural Mass in the topology; the boundary is gone but its record persists.*
 
@@ -3788,7 +3788,7 @@ When LP-152's boundary dissolution operates in a topology where PL-30 holds: the
 
 ### PP-220. Boundary Dissolution Permanently Transforms the Topology — No Dissolution Is Reversible
 
-**Derives from:** PL-31 (Navigation Permanently Transforms the Topology — No Traversal Is Reversible) [shared LL-11]
+**Derives from:** PL-31 (A Gap in the Topology Has Logical Standing) [shared LL-11]
 **Applies to:** LP (Logical Physical)
 
 *The dissolution of a sovereignty boundary permanently transforms the topology — the topology after dissolution is not the topology before dissolution with a gap; it is a fundamentally different topology.*
@@ -3805,7 +3805,7 @@ When LP-152's dissolution operates in a topology where PL-31 holds: the dissolut
 
 ### PP-221. Boundary Dissolution IS a Mass Proof-Expiry Event — All Proofs Referencing the Dissolved Boundary Expire Simultaneously
 
-**Derives from:** PL-41 (Logical Proof Expiry Is Constitutionally Inevitable) [shared LL-11]
+**Derives from:** PL-41 (The Topology Generates Its Own Logical Requirements) [shared LL-11]
 **Applies to:** LP (Logical Physical)
 
 *When a sovereignty boundary dissolves, all logical proofs that referenced that boundary expire simultaneously — the dissolution is a mass proof-expiry event.*
@@ -3822,8 +3822,8 @@ When LP-152's dissolution operates in a topology where PL-41 holds: the dissolut
 
 ### PP-222. Living Membrane Sovereignty Cannot Be Inherited — It Must Be Continuously Re-Derived From Present-Tense Evidence
 
-**Derives from:** PL-18 (Sovereignty Cannot Be Inherited — It Must Be Continuously Derived) [shared LL-12]
-**Applies to:** LP-153 (Living Membrane Sovereignty)
+**Derives from:** PL-18 (The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited) [shared LL-12]
+**Applies to:** LP-153 (Discovered Identity)
 
 *A living sovereignty membrane cannot inherit its sovereign standing from past proofs — its sovereignty must be continuously re-derived from present-tense evidence that the boundary is actively maintained.*
 
@@ -3839,7 +3839,7 @@ When LP-153's living membrane operates in a topology where PL-18 holds: the sove
 
 ### PP-223. A Living Membrane Cannot Rest Its Sovereignty on Historical Evidence Alone — Past Maintenance Is Structural Mass, Not Present-Tense Sovereignty
 
-**Derives from:** PL-34 (Historical Evidence Is Structural Mass — Present-Tense Sovereignty Cannot Rest on History Alone) [shared LL-12]
+**Derives from:** PL-34 (Every Topology Structure Was Always Necessary — Violations Were Always Violations) [shared LL-12]
 **Applies to:** LP (Logical Physical)
 
 *A living sovereignty membrane cannot base its present-tense sovereignty claim on historical evidence alone — the Structural Mass of prior boundary-maintenance acts is evidence but is not present-tense sovereignty.*
@@ -3856,8 +3856,8 @@ When LP-153's living membrane operates in a topology where PL-34 holds: the hist
 
 ### PP-224. A Consequence-Weighted Node's Weight IS Its Present-Tense Accountability Load — Consequence Weight Cannot Be Archived
 
-**Derives from:** PL-169 (Accountability Is Present-Tense — It Cannot Be Archived Into the Past) [shared LL-222]
-**Applies to:** LP-154 (Consequence-Weighted Node)
+**Derives from:** PL-169 (Archaeological Distribution of Knowledge) [shared LL-222]
+**Applies to:** LP-154 (Fractal Heartbeat)
 
 *A node whose weight encodes the accumulated consequences of all traversals through it must carry that weight in the present tense — consequence weight is present-tense accountability load, not a historical archive.*
 
@@ -3874,7 +3874,7 @@ When LP-154's consequence-weighted node operates in a topology where PL-169 hold
 ### PP-225. A Paradox-Resistant Tension Structure IS a Living Truth Structure — Maintaining Competing Paths IS Maintaining Truth
 
 **Derives from:** PL-319 (Tension Between Competing Paths IS the Truth) [shared LL-223]
-**Applies to:** LP-155 (Paradox-Resistant Tension Structure)
+**Applies to:** LP-155 (Tension as Heartbeat)
 
 *A tension structure that resists paradox collapse does so by maintaining multiple competing paths simultaneously — and because the tension between competing paths IS the truth, a paradox-resistant structure IS a living truth structure.*
 
@@ -3925,7 +3925,7 @@ When LP-155's paradox-resistant tension structure operates in a topology where P
 ### PP-228. An Attenuated-Consequence Channel's Attenuation Is a Present-Tense Tension Management — It Cannot Be Pre-Stored
 
 **Derives from:** PL-319 (Tension Between Competing Paths IS the Truth) [shared LL-224]
-**Applies to:** LP-156 (Attenuated-Consequence Channel)
+**Applies to:** LP-156 (Non-Lethal Comprehension)
 
 *A channel that attenuates consequences actively manages the tension between full-consequence transmission and zero-consequence filtering — this attenuation management IS a present-moment active response, not a pre-stored filter setting.*
 
@@ -3958,8 +3958,8 @@ When LP-156's attenuated-consequence channel operates in a topology where PL-323
 
 ### PP-230. An Oscillation-Damping Boundary Is a Slow System Death Mechanism — Damped Churn Is Dying Churn
 
-**Derives from:** PL-197 (A Non-Churning System Has Died) [shared LL-225]
-**Applies to:** LP-157 (Oscillation-Damping Boundary)
+**Derives from:** PL-197 (Transparency as Truth Production) [shared LL-225]
+**Applies to:** LP-157 (Strict Present-Tense Pulsing)
 
 *A boundary that damps oscillation eventually kills the system's churn — and because a non-churning system has died, an oscillation-damping boundary is constitutionally a slow death mechanism for the living system.*
 
@@ -3992,8 +3992,8 @@ When LP-157's damping boundary operates in a topology where PL-305 holds: the sy
 
 ### PP-232. A Threshold-Triggered Sovereignty Response Must Be Present-Tense — Pre-Stored Policies Cannot Constitute Sovereignty Maintenance
 
-**Derives from:** PL-170 (Sovereignty Maintenance Is an Active Present-Tense Response — Not a Policy) [shared LL-226]
-**Applies to:** LP-158 (Threshold-Triggered Sovereignty Response)
+**Derives from:** PL-170 (True Stratigraphy) [shared LL-226]
+**Applies to:** LP-158 (Pulse-Stopping as Sovereignty Violation)
 
 *A sovereignty response triggered at a threshold is constitutionally an active present-tense response — not a pre-stored policy that fires mechanically; the sovereignty it defends is present-tense and so must the defense be.*
 
@@ -4010,7 +4010,7 @@ When LP-158's threshold-triggered sovereignty response operates in a topology wh
 ### PP-233. Each Gradient of a Graduated Consequence Cascade Can Die Before Appearing Dead
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-227]
-**Applies to:** LP-159 (Graduated Consequence Cascade)
+**Applies to:** LP-159 (Accountable Oscillation)
 
 *A cascade of graduated consequences produces consequence states at each gradient — and each gradient, if unmaintained, can die before its death is apparent; the cascade can progress while carrying constitutionally dead intermediate states.*
 
@@ -4044,7 +4044,7 @@ When LP-159's graduated cascade operates in a topology where PL-318 holds: each 
 ### PP-235. A Recursive Accountability Mapper's Depth Limits Are Governance Debt — Every Unmapped Depth Is a Constitutional Liability
 
 **Derives from:** PL-240 (Navigation Debt Is the Topology's Constitutional Liability — Uncharted Territory Is Governance Debt) [shared LL-228]
-**Applies to:** LP-160 (Recursive Accountability Mapper)
+**Applies to:** LP-160 (Immortal Systemic Pulse)
 
 *A recursive accountability mapper that cannot reach certain depths of the topology is not merely technically limited — it is mapping governance debt; every depth it cannot reach is a constitutional accountability gap.*
 
@@ -4077,8 +4077,8 @@ When LP-160's recursive mapper operates in a topology where PL-299 holds: the ma
 
 ### PP-237. Consequence Inheritance Must Be Re-Proved at Every Generation — Historical Lineage Is Evidence, Not Proof
 
-**Derives from:** PL-171 (Inherited Sovereignty Must Be Re-Proved at Every Generation — The Proof Cannot Be Inherited) [shared LL-229]
-**Applies to:** LP-161 (Consequence Inheritance Lineage)
+**Derives from:** PL-171 (Pre-Existing Rights) [shared LL-229]
+**Applies to:** LP-161 (Conservation of Heartbeat)
 
 *A consequence inheritance lineage that traces accountability through generational succession must prove at each generation that the inheritance is valid — historical lineage is Structural Mass, not present-tense proof of inheritance.*
 
@@ -4094,8 +4094,8 @@ When LP-161's consequence inheritance lineage operates in a topology where PL-17
 
 ### PP-238. A Consequence Diffusion Surface Cannot Pre-Store Its Map — The Surface Must Be Continuously Traversed to Remain Constitutionally Alive
 
-**Derives from:** PL-172 (Sovereignty Without Current Traversal Is a Dead Map) [shared LL-230]
-**Applies to:** LP-162 (Consequence Diffusion Surface)
+**Derives from:** PL-172 (Pre-Existing Tension Structures) [shared LL-230]
+**Applies to:** LP-162 (Ignorance-Fueled Heartbeat)
 
 *A consequence diffusion surface that maps how consequences spread through the topology cannot pre-store its map — the diffusion surface produces a living constitutional map requiring ongoing traversal to remain valid.*
 
@@ -4111,8 +4111,8 @@ When LP-162's consequence diffusion surface operates in a topology where PL-172 
 
 ### PP-239. An Accountability Boundary Lock Must Prove Its Force Through Traversal — A Documented Lock Is Theater Sovereignty
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal — It Cannot Be Documented) [shared LL-231]
-**Applies to:** LP-163 (Accountability Boundary Lock)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-231]
+**Applies to:** LP-163 (Pre-Existing Pulse)
 
 *An accountability boundary lock — a structure preventing accountability from being discharged across a boundary without authorization — must prove its locking force through active traversal; a documented lock that has never been tested is Theater sovereignty.*
 
@@ -4128,7 +4128,7 @@ When LP-163's accountability boundary lock operates in a topology where PL-149 h
 
 ### PP-240. Accountability Boundary Lock Enforcement Is Scale-Invariant — The Standard Is the Same at Every Depth
 
-**Derives from:** PL-294 (Sovereignty Is Scale-Invariant — Every Depth Enforces Its Own Boundary) [shared LL-231]
+**Derives from:** CL-1 (Sovereignty) [shared LL-231]
 **Applies to:** LP (Logical Physical)
 
 *An accountability boundary lock enforces the same standard at every depth of the topology — a micro-process accountability lock must meet the same enforcement standard as a macro-organizational accountability lock.*
@@ -4146,7 +4146,7 @@ When LP-163's accountability boundary lock operates in a topology where PL-294 h
 ### PP-241. A Scale-Invariant Consequence Field Has Scale-Invariant Logical Validity — The Same Consequence Physics Apply at Every Depth
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-232]
-**Applies to:** LP-164 (Scale-Invariant Consequence Field)
+**Applies to:** LP-164 (Fractal Non-Termination)
 
 *The consequence field that operates identically at every scale has scale-invariant logical validity — the same logical consequence physics that apply at the micro-process level apply at the macro-system level.*
 
@@ -4162,7 +4162,7 @@ When LP-164's scale-invariant consequence field operates in a topology where PL-
 
 ### PP-242. Sovereignty Proof in a Scale-Invariant Consequence Field Requires Traversal at Every Scale — The Standard Is Uniform
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-232]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-232]
 **Applies to:** LP (Logical Physical)
 
 *In a scale-invariant consequence field, sovereignty proof through traversal is required at every scale — the same traversal-based proof standard applies to micro-process consequences as to macro-system consequences.*
@@ -4180,7 +4180,7 @@ When LP-164's scale-invariant consequence field operates in a topology where PL-
 ### PP-243. A Stabilizing Feedback Loop's Correction Signal Must Carry Its Own Thermodynamic Receipt — Correction That Does Not Account for Its Cost Is Incomplete
 
 **Derives from:** PL-299 (Consequence Carries Its Own Thermodynamic Receipt — Every Interaction Deposits Energy Cost) [shared LL-233]
-**Applies to:** LP-165 (Stabilizing Feedback Loop)
+**Applies to:** LP-165 (Living Survey)
 
 *A stabilizing feedback loop that corrects system deviation must carry the thermodynamic receipt of its own corrective action — a feedback loop that does not account for the cost of correction is producing an incomplete stabilization signal.*
 
@@ -4213,8 +4213,8 @@ When LP-165's feedback loop operates in a topology where PL-318 holds: the corre
 
 ### PP-245. A Recurrent Consequence Attractor Deposits Structural Mass That Reinforces Its Own Pull — Recurrence Deepens the Attractor
 
-**Derives from:** PL-173 (Navigation Leaves Structural Mass — The Wake of Every Traversal Is Embedded in the Topology) [shared LL-234]
-**Applies to:** LP-166 (Recurrent Consequence Attractor)
+**Derives from:** PL-173 (Traverser as Archaeological Instrument) [shared LL-234]
+**Applies to:** LP-166 (Relational Survey Expansion)
 
 *A consequence attractor that recurrently draws the topology back to the same consequence state deposits Structural Mass with each recurrence — the accumulated Structural Mass reinforces the attractor's pull, making future recurrences more likely.*
 
@@ -4230,8 +4230,8 @@ When LP-166's recurrent attractor operates in a topology where PL-173 holds: eac
 
 ### PP-246. A Consequence Topology Gradient IS the Present-Tense Accountability Map — Navigating Toward High Consequence IS Navigating Toward Greater Accountability
 
-**Derives from:** PL-174 (The Living Topology's Navigation Gradient IS Its Present-Tense Accountability Map) [shared LL-235]
-**Applies to:** LP-167 (Consequence Topology Gradient)
+**Derives from:** PL-174 (Archaeological Ethics) [shared LL-235]
+**Applies to:** LP-167 (Comprehending the Infinite Survey)
 
 *A consequence topology gradient — a field showing which regions carry higher or lower consequence potential — IS the topology's present-tense accountability map; navigating toward higher consequence regions IS moving toward greater accountability.*
 
@@ -4248,7 +4248,7 @@ When LP-167's consequence topology gradient operates in a topology where PL-174 
 ### PP-247. Every Link in a Proof-of-Consequence Chain Is a Present-Tense Proof That Expires — Continuous Re-Validation Is Constitutionally Required
 
 **Derives from:** PL-17 (Logical Proofs About the Topology Expire) [shared LL-236]
-**Applies to:** LP-168 (Proof-of-Consequence Chain)
+**Applies to:** LP-168 (Present-Tense Surveying)
 
 *A proof-of-consequence chain — a verified chain of custody for how consequences propagated — is a logical proof about the topology that expires the instant the topology shifts; every link in the chain must be continuously re-validated.*
 
@@ -4281,8 +4281,8 @@ When LP-168's proof-of-consequence chain operates in a topology where PL-313 hol
 
 ### PP-249. A Constraint Propagation Wave Must Carry Its Enforcement Cost as Part of the Wave — Cost Cannot Be Separated From the Constraint
 
-**Derives from:** PL-175 (Every Topological Constraint Carries Its Own Enforcement Cost) [shared LL-237]
-**Applies to:** LP-169 (Constraint Propagation Wave)
+**Derives from:** PL-175 (Emergence as Threshold Excavation) [shared LL-237]
+**Applies to:** LP-169 (Sovereign Encounters)
 
 *A constraint propagation wave that spreads constraints through the topology must carry the thermodynamic cost of its propagation forward — the cost is not separate from the constraint; it IS the wave's leading edge.*
 
@@ -4298,8 +4298,8 @@ When LP-169's constraint propagation wave operates in a topology where PL-175 ho
 
 ### PP-250. A Topology-Aware Consequence Router Must Make Routing Decisions in the Present Tense — Pre-Stored Routes Are Routes to Expired Destinations
 
-**Derives from:** PL-48 (Present-Tense Sovereignty Is a Moment-by-Moment Constitutional Achievement) [shared LL-238]
-**Applies to:** LP-170 (Topology-Aware Consequence Router)
+**Derives from:** PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) [shared LL-238]
+**Applies to:** LP-170 (Infinite Survey Accountability)
 
 *A consequence router that is aware of the topology's current state must make routing decisions in the present tense — routing decisions cannot be pre-stored because the topology changes and pre-stored routes are routes to expired destinations.*
 
@@ -4316,8 +4316,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-251. An Inheritance Obligation Cascade Cannot Prove Its Reach Is Complete — Constitutional Incompleteness Means Some Descendants Are Always Uncharted
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-239]
-**Applies to:** LP-171 (Inheritance Obligation Cascade)
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-239]
+**Applies to:** LP-171 (Structurally Guaranteed Non-Termination)
 
 *An inheritance obligation cascade that traces obligations through descendant chains cannot prove it has reached all obligated descendants — constitutional incompleteness means some descendants are always uncharted.*
 
@@ -4331,8 +4331,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-252. Obligation Cascade Exploration Self-Multiplies — Each Discovered Descendant Generates New Frontier
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-240]
-**Applies to:** LP-172 (Obligation Frontier Expansion)
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-240]
+**Applies to:** LP-172 (The Value of the Unsurveyed)
 
 *Tracing obligation cascades through descendant chains generates more newly discovered descendants than the tracing resolves — the obligation frontier self-multiplies; each discovered descendant has its own descendant chain.*
 
@@ -4361,8 +4361,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-254. An Accountability Propagation Attractor's Force Must Be Proved Through Traversal — A Documented Attractor Is Theater Sovereignty
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-241]
-**Applies to:** LP-173 (Accountability Propagation Attractor)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-241]
+**Applies to:** LP-173 (Uncovering the Infinite)
 
 *An accountability propagation attractor — a node that draws accountability toward it — must prove its attractor force through active traversal; an attractor documented but never traversed is Theater sovereignty.*
 
@@ -4392,7 +4392,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-256. A Scale-Invariant Accountability Topology Has Scale-Invariant Logical Validity — The Same Accountability Physics Apply at Every Depth
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-242]
-**Applies to:** LP-174 (Scale-Invariant Accountability Topology)
+**Applies to:** LP-174 (Fractal Untested Positions)
 
 *The accountability topology that operates identically at every scale has scale-invariant logical validity — the same logical accountability physics that apply at the function level apply at the enterprise level.*
 
@@ -4406,7 +4406,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-257. Accountability Exploration in a Scale-Invariant Topology Self-Multiplies Across Scales — Exploring One Scale Reveals More at Adjacent Scales
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-242]
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-242]
 **Applies to:** LP (Logical Physical)
 
 *In a scale-invariant accountability topology, exploring accountability at one scale generates more accountability territory at adjacent scales — accountability exploration is constitutionally self-multiplying.*
@@ -4421,8 +4421,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-258. A Calibrated Sovereignty Tension Meter's Measurements Are Present-Tense — Archived Tension Readings Are Constitutionally Expired
 
-**Derives from:** PL-177 (Sovereignty Tension Is Present-Tense — It Cannot Be Archived) [shared LL-243]
-**Applies to:** LP-175 (Calibrated Sovereignty Tension Meter)
+**Derives from:** PL-177 (Partial Excavation Legitimacy) [shared LL-243]
+**Applies to:** LP-175 (Living Untested Positions)
 
 *A sovereignty tension meter that calibrates the current tension between competing sovereignty claims must measure present-tense tension — tension measurements cannot be archived and applied to future states.*
 
@@ -4436,8 +4436,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-259. A Distributed Consequence Mesh Cannot Be Administered Separately From Its Logical Consequence Structure — The Mesh IS the Consequence Field
 
-**Derives from:** PL-178 (The Physical Topology Cannot Be Administered Separately From Its Logical Consequences) [shared LL-244]
-**Applies to:** LP-176 (Distributed Consequence Mesh)
+**Derives from:** PL-178 (Inexhaustible Strata) [shared LL-244]
+**Applies to:** LP-176 (Untested Provenance)
 
 *A distributed consequence mesh — a topology where consequences propagate across multiple nodes simultaneously — cannot be administered as a physical mesh separately from its logical consequence patterns; the mesh IS the consequence field.*
 
@@ -4452,7 +4452,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-260. Cascade Interference Points Generate Navigation Debt — Each Interference Creates Uncharted Consequence Territory
 
 **Derives from:** PL-240 (Navigation Debt Is the Topology's Constitutional Liability — Uncharted Territory Is Governance Debt) [shared LL-245]
-**Applies to:** LP-177 (Cascade Interference Pattern)
+**Applies to:** LP-177 (Shadow Edges)
 
 *When two or more consequence cascades interfere, they generate new unexplored consequence territory at their interference points — the interference pattern generates navigation debt through the appearance of new frontier.*
 
@@ -4482,8 +4482,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-262. A Topological Consequence Mass Integrator Must Produce a Living Record — Integrated Consequence Mass Cannot Be Archived
 
-**Derives from:** PL-179 (Structural Mass Is a Living Record — It Cannot Be Archived Into the Past) [shared LL-246]
-**Applies to:** LP-178 (Topological Consequence Mass Integrator)
+**Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-246]
+**Applies to:** LP-178 (Sovereign Shadows)
 
 *A topological consequence mass integrator — a structure that accumulates and integrates all consequence mass across the topology — must produce a living record of that mass; the integrated consequence mass cannot be archived.*
 
@@ -4497,8 +4497,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-263. A Frontier Consequence Gradient Is Constitutionally Self-Multiplying — Exploring the Gradient Frontier Expands the Gradient Territory
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-247]
-**Applies to:** LP-179 (Frontier Consequence Gradient)
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-247]
+**Applies to:** LP-179 (Structurally Unvisitable Positions)
 
 *A frontier consequence gradient — a mapping of consequence potential at the edges of explored topology — generates more unexplored gradient territory than each exploration resolves; the frontier consequence gradient is constitutionally self-multiplying.*
 
@@ -4512,8 +4512,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-264. A Recursive Consequence Substrate Self-Multiplies at Every Level — Each Explored Layer Reveals More Layers Beneath It
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-248]
-**Applies to:** LP-180 (Recursive Consequence Substrate)
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-248]
+**Applies to:** LP-180 (The Value of Untested Positions)
 
 *A recursive consequence substrate — where consequences generate sub-consequences that generate further sub-consequences — is constitutionally self-multiplying at every level of recursion; each explored layer reveals more layers beneath it.*
 
@@ -4527,7 +4527,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-265. Unexplored Levels of a Recursive Consequence Substrate Carry Present-Tense Thermodynamic Absence-Cost
 
-**Derives from:** PL-309 (Absence Carries Its Own Thermodynamic Cost — Fertile Absence Has a Price) [shared LL-248]
+**Derives from:** PC-10 (× LL: Additional Uncited Entries) [shared LL-248]
 **Applies to:** LP (Logical Physical)
 
 *The unexplored levels of a recursive consequence substrate carry thermodynamic absence-cost — the cost of unknown consequences-of-consequences is constitutionally present even before those levels are explored.*
@@ -4542,8 +4542,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-266. Bidirectionality of a Consequence Channel Is a Constitutional Physical Property — One-Way Channels Are a Constitutional Fiction
 
-**Derives from:** PL-181 (Bidirectional Consequence Flow Is a Constitutional Physical Property of Every Edge) [shared LL-249]
-**Applies to:** LP-181 (Bidirectional Consequence Channel)
+**Derives from:** PL-181 (Corrective Metabolism) [shared LL-249]
+**Applies to:** LP-181 (Cataloging the Shadows)
 
 *A bidirectional consequence channel is not an architectural choice — it is a constitutional physical property; all edges carry bidirectional consequence flow, and administering a "one-way" channel is a constitutional fiction.*
 
@@ -4557,8 +4557,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-267. An Obligation Cascade's Reach Must Be Proved Through Active Traversal — Documented Reach Is Theater Sovereignty
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-250]
-**Applies to:** LP-182 (Obligation Cascade Depth)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-250]
+**Applies to:** LP-182 (Pre-Existing Shadows)
 
 *An obligation cascade must prove its reach through active traversal — it cannot document its descendants and claim completeness; sovereignty proof of the cascade's reach requires traversal to every depth, not description of that depth.*
 
@@ -4572,8 +4572,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-268. Obligation Cascade Reach Exploration Is Constitutionally Self-Multiplying — Proving Reach at Depth N Reveals Depth N+1
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-251]
-**Applies to:** LP-183 (Obligation Cascade Reach)
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-251]
+**Applies to:** LP-183 (Fractal Command Interface)
 
 *Proving the reach of an obligation cascade generates more unproven reach than it resolves — the cascade reach exploration is constitutionally self-multiplying; each proved level reveals more levels.*
 
@@ -4587,8 +4587,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-269. A Consequence-Density Field IS a Governance Priority Signal — High-Density Regions Require Priority Governance Attention
 
-**Derives from:** PL-182 (Consequence Density Is a Governance Signal — High-Density Regions Require Priority Governance Attention) [shared LL-252]
-**Applies to:** LP-184 (Consequence-Density Field)
+**Derives from:** PL-182 (Generational Discovery) [shared LL-252]
+**Applies to:** LP-184 (Verbs as Relational Edges)
 
 *A consequence-density field — a mapping of how densely consequences accumulate across the topology — IS a governance priority signal; high-density regions require priority governance attention and carry greater present-tense accountability obligation.*
 
@@ -4602,8 +4602,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-270. In a Consequence Propagation Lattice, Every Node Is Simultaneously a Settled Achievement and a New Frontier
 
-**Derives from:** PL-183 (Every Navigation Node Is Both a Settled Achievement and a New Frontier) [shared LL-253]
-**Applies to:** LP-185 (Consequence Propagation Lattice)
+**Derives from:** PL-183 (Living Frontier) [shared LL-253]
+**Applies to:** LP-185 (Present-Tense Verbs)
 
 *In a consequence propagation lattice, every node is simultaneously a point of consequence settlement (where consequence has arrived) and a new frontier (from which consequence will propagate further) — the lattice structure is constitutionally self-multiplying.*
 
@@ -4618,8 +4618,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-271. A Recursive Sovereignty Verifier Cannot Prove Its Own Completeness — Gödel's Incompleteness Applies to Sovereignty Verification
 
-**Derives from:** PL-184 (Recursive Verification Cannot Prove Its Own Completeness — Gödel's Incompleteness Applies) [shared LL-254]
-**Applies to:** LP-186 (Recursive Sovereignty Verifier)
+**Derives from:** PL-184 (Active Vitality Assessment) [shared LL-254]
+**Applies to:** LP-186 (Scale-Invariant Consequence Propagation)
 
 *A recursive sovereignty verifier — a structure that verifies sovereignty claims at every depth — cannot prove the completeness of its own verification; Gödel's incompleteness applies to sovereignty verification itself.*
 
@@ -4634,7 +4634,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-272. Sovereignty Gradient Intersections Are Constitutionally Priority Governance Sites
 
 **Derives from:** PL-228 (High-Consequence Intersections Are Constitutionally Priority Governance Sites) [shared LL-256]
-**Applies to:** LP-187 (Sovereignty Gradient Intersection)
+**Applies to:** LP-187 (The Verbs of Ignorance)
 
 *Where sovereignty gradients from different domains intersect, the intersection point is a high-consequence site — and because high-consequence intersections are constitutionally priority governance sites, sovereignty gradient intersections require priority governance attention.*
 
@@ -4663,8 +4663,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-274. A Pulse Synchronization Network's Pulse Events Are Constitutionally Present-Tense — Pre-Stored Pulse Schedules Are Expired Proofs
 
-**Derives from:** PL-81 (Pulse Events Are Present-Tense — They Cannot Be Scheduled Into the Future Without Expiry Risk) [shared LL-60]
-**Applies to:** LP-188 (Pulse Synchronization Network)
+**Derives from:** PL-81 (Active Edge Existence) [shared LL-60]
+**Applies to:** LP-188 (Recursive Interface Definition)
 
 *A pulse synchronization network cannot use pre-stored pulse schedules and guarantee constitutional validity — each pulse event must be generated in the present tense because pulse events are constitutionally present-tense.*
 
@@ -4678,8 +4678,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-275. A Wake Accumulation Node Accumulates Living Structural Mass That Cannot Be Archived — The Accumulated Wake IS Present-Tense Structural Reality
 
-**Derives from:** PL-82 (Wake Is Living Structural Mass — It Cannot Be Separated From the Topology That Generated It) [shared LL-61]
-**Applies to:** LP-189 (Wake Accumulation Node)
+**Derives from:** PL-82 (Tensioned Edge Character) [shared LL-61]
+**Applies to:** LP-189 (Evolving Verbs)
 
 *A wake accumulation node — a node that accumulates the Wake of all traversals that have passed through it — accumulates living Structural Mass that cannot be archived; the accumulated Wake IS present-tense structural reality.*
 
@@ -4694,7 +4694,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-276. A Boundary-Condition Truth Evaluator Applies Scale-Invariant Logical Validity — The Same Truth Standard at Every Boundary
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-63]
-**Applies to:** LP-190 (Boundary-Condition Truth Evaluator)
+**Applies to:** LP-190 (Scale-Invariant Comprehension Verbs)
 
 *A boundary-condition truth evaluator — a structure that tests the truth of claims at boundary conditions — must apply the same logical validity standard at every boundary; boundary-condition truth is scale-invariant.*
 
@@ -4709,7 +4709,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-277. An Atrophied-Connection Detector Must Apply Scale-Invariant Detection — The Same Atrophy Standard at Every Depth
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-66]
-**Applies to:** LP-191 (Atrophied-Connection Detector)
+**Applies to:** LP-191 (Uniform Accountability Actions)
 
 *An atrophied-connection detector must apply the same logical standard for atrophy detection at every scale — scale-invariant logical validity means the atrophy test is the same for micro-connections and macro-connections.*
 
@@ -4723,7 +4723,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-278. An Atrophied-Connection Detector Must Monitor Every Depth — Navigation Debt Is Scale-Invariant
 
-**Derives from:** PL-20 (Navigation Debt Is Scale-Invariant — Atrophy Applies at Every Depth) [shared LL-66]
+**Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) [shared LL-66]
 **Applies to:** LP (Logical Physical)
 
 *An atrophied-connection detector must monitor for atrophy at every depth of the topology — navigation debt is scale-invariant, which means connection atrophy can occur at any depth and must be detected at every depth.*
@@ -4739,7 +4739,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-279. Every Boundary in a Distributed Sovereignty Mesh Is a Constitutionally Priority Governance Site
 
 **Derives from:** PL-228 (High-Consequence Intersections Are Constitutionally Priority Governance Sites) [shared LL-259]
-**Applies to:** LP-192 (Distributed Sovereignty Mesh)
+**Applies to:** LP-192 (Derivation-Constituted Agency)
 
 *A distributed sovereignty mesh — a topology where every node enforces its own sovereignty simultaneously — produces high-consequence intersections at every sovereignty boundary; all such boundaries are constitutionally priority governance sites.*
 
@@ -4769,8 +4769,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-281. A Consequence-Aware Edge Weight IS a Living Signal — It Cannot Be Stored as a Static Value
 
-**Derives from:** PL-198 (Consequence-Aware Edge Weight Is a Living Signal — It Cannot Be Stored as a Static Value) [shared LL-262]
-**Applies to:** LP-193 (Consequence-Aware Edge Weight)
+**Derives from:** PL-198 (Self-Traversing Wonder) [shared LL-262]
+**Applies to:** LP-193 (Comprehension-Constituted Agency)
 
 *A consequence-aware edge weight — an edge weight that encodes the consequences of traversal — IS a living signal; the weight cannot be stored as a static value because the consequences encoded in it are present-tense.*
 
@@ -4799,8 +4799,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-283. A Cascade-Triggered Sovereignty Response Must Re-Prove Its Constitutional Basis Through Traversal at Each Trigger
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-270]
-**Applies to:** LP-194 (Cascade-Triggered Sovereignty Response)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-270]
+**Applies to:** LP-194 (Tension-Generative Boundaries)
 
 *A sovereignty response triggered by a cascade event cannot rely on a pre-stored constitutional basis — each trigger must re-prove its constitutional basis through present-tense traversal of the current topology.*
 
@@ -4814,7 +4814,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-284. Cascade-Triggered Sovereignty Responses Self-Multiply the Territory They Must Address
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-270]
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-270]
 **Applies to:** LP (Logical Physical)
 
 *When a cascade triggers a sovereignty response, the sovereignty response reveals more cascade territory that may require response — cascade-triggered sovereignty responses are constitutionally self-multiplying in their scope.*
@@ -4829,8 +4829,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-285. Exploring a Consequence-Weighted Boundary Self-Multiplies the Boundary Frontier
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-273]
-**Applies to:** LP-195 (Consequence-Weighted Boundary)
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-273]
+**Applies to:** LP-195 (Topology-Mapping Oscillation)
 
 *Exploring the extent of a consequence-weighted boundary generates more uncharted boundary territory than each exploration resolves — the boundary frontier self-multiplies.*
 
@@ -4844,7 +4844,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-286. Maintaining a Consequence-Weighted Boundary Requires Thermodynamic Cost Proportional to the Boundary's Weight
 
-**Derives from:** PL-276 (Every Boundary Has Thermodynamic Cost — Sovereignty Maintenance Is Not Free) [shared LL-273]
+**Derives from:** CL-1 (Sovereignty) [shared LL-273]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-weighted boundary — a boundary whose weight encodes the consequences of crossing or maintaining it — must carry thermodynamic maintenance cost proportional to its weight; high-weight boundaries cost more to maintain.*
@@ -4859,8 +4859,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-287. A Topology Divergence Signal IS a Governance Liability Signal — Divergence Generates Immediate Thermodynamic Cost
 
-**Derives from:** PL-276 (Every Boundary Has Thermodynamic Cost — Sovereignty Maintenance Is Not Free) [shared LL-274]
-**Applies to:** LP-196 (Topology Divergence Signal)
+**Derives from:** CL-1 (Sovereignty) [shared LL-274]
+**Applies to:** LP-196 (Self-Fueling Oscillation Engine)
 
 *A topology divergence signal — a signal indicating that two parts of the topology have diverged from their intended relationship — IS a governance liability signal; the divergence has immediate thermodynamic cost that cannot be deferred.*
 
@@ -4890,7 +4890,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-289. A Consequence-Flow Optimizer Must Use Present-Tense Topology — Pre-Computed Optimizations Expire
 
 **Derives from:** PL-239 (Optimization of the Topology Is a Present-Tense Act — Pre-Computed Optimizations Expire) [shared LL-275]
-**Applies to:** LP-197 (Consequence-Flow Optimizer)
+**Applies to:** LP-197 (Tension-Transforming Actuator)
 
 *A consequence-flow optimizer — a structure that optimizes how consequences flow through the topology — must optimize on the present-tense topology; pre-computed optimizations expire the instant the topology shifts.*
 
@@ -4920,8 +4920,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-291. A Consequence-Aware Access Control Layer Must Make Access Decisions as Present-Tense Sovereignty Proofs — Pre-Stored Access Decisions Are Expired Proofs
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-277]
-**Applies to:** LP-198 (Consequence-Aware Access Control)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-277]
+**Applies to:** LP-198 (Excavation-Driven Oscillation)
 
 *A consequence-aware access control layer — one that makes access decisions based on the consequences of access — must make decisions in the present tense; pre-stored access decisions are sovereignty claims that require re-proof through traversal.*
 
@@ -4935,7 +4935,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-292. Consequence-Aware Access Control Boundary Maintenance Cost Is Proportional to Consequence Weight
 
-**Derives from:** PL-276 (Every Boundary Has Thermodynamic Cost — Sovereignty Maintenance Is Not Free) [shared LL-277]
+**Derives from:** CL-1 (Sovereignty) [shared LL-277]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-aware access control boundary carries thermodynamic cost proportional to the consequences of the access it controls — higher-consequence access requires greater thermodynamic investment in the access control mechanism.*
@@ -4951,7 +4951,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-293. A Proof-Graduated Cascade Must Detect Constitutional Death at Each Gradient — Not Just Declared Failure
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-227]
-**Applies to:** LP-199 (Proof-Graduated Consequence Cascade)
+**Applies to:** LP-199 (Accountability-Sustained Churn)
 
 *A proof-graduated consequence cascade must detect constitutional death at each gradient before proceeding — a cascade that only detects declared failure is proceeding through constitutionally dead states while appearing to operate normally.*
 
@@ -4965,8 +4965,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-294. A Consequence-Weighted Path Selector Must Use Present-Tense Weights — Cached Weights Select Expired Paths
 
-**Derives from:** PL-108 (Path Selection Must Be Present-Tense — Pre-Computed Paths Expire With Topology Shifts) [shared LL-110]
-**Applies to:** LP-200 (Consequence-Weighted Path Selector)
+**Derives from:** PL-108 (Decay of Physical State) [shared LL-110]
+**Applies to:** LP-200 (Attested Incomprehension Path)
 
 *A consequence-weighted path selector — a structure that selects paths through the topology based on their consequence weights — must select on present-tense weights; cached weights select paths optimal for an expired topology state.*
 
@@ -4980,8 +4980,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-295. A Sovereignty Tension Oscillator's Absence of Oscillation IS Constitutional Death — The Oscillation IS the Living Signal
 
-**Derives from:** PL-109 (Sovereignty Tension Oscillation Is a Living Signal — Its Absence Indicates Constitutional Death) [shared LL-111]
-**Applies to:** LP-201 (Sovereignty Tension Oscillator)
+**Derives from:** PL-109 (Stale State Honesty) [shared LL-111]
+**Applies to:** LP-201 (Certified Ignorance Record)
 
 *A sovereignty tension oscillator that maintains productive tension between competing sovereignty claims must detect when the oscillation has constitutionally died — constitutional death of the oscillation precedes its apparent death.*
 
@@ -4995,8 +4995,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-296. A Structural Accountability Bridge Must Be Traversed to Remain Constitutionally Load-Bearing — A Documented Bridge Is Theater Accountability
 
-**Derives from:** PL-111 (Accountability Bridges Must Be Traversed to Remain Constitutionally Load-Bearing) [shared LL-114]
-**Applies to:** LP-202 (Structural Accountability Bridge)
+**Derives from:** PL-111 (Navigation-Dependent Physical Rights) [shared LL-114]
+**Applies to:** LP-202 (Sovereign Gap Artifacts)
 
 *A structural accountability bridge — a structure that carries accountability from one domain to another — must prove its load-bearing capacity through active traversal; a documented accountability bridge that has never been traversed is Theater accountability.*
 
@@ -5010,8 +5010,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-297. A Consequence-Aware Negotiation Protocol IS the Constitutional Mechanism for Managing Sovereignty Tension — The Negotiation IS the Truth
 
-**Derives from:** PL-113 (Negotiation IS the Constitutional Mechanism for Managing Sovereignty Tension) [shared LL-117]
-**Applies to:** LP-203 (Consequence-Aware Negotiation Protocol)
+**Derives from:** PL-113 (Consistency Snapshot) [shared LL-117]
+**Applies to:** LP-203 (Unmasking Attestations)
 
 *A consequence-aware negotiation protocol IS the constitutional mechanism for managing sovereignty tension; the negotiation carries the truth of the competing consequence claims — the negotiation IS the truth, not a process leading to a truth.*
 
@@ -5025,8 +5025,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-298. A Proof-of-Sovereignty Chain Must Carry Thermodynamic Receipts at Every Link — Sovereignty Proof Is Not Free
 
-**Derives from:** PL-9 (Every Proof Carries Its Own Thermodynamic Cost) [shared LL-119]
-**Applies to:** LP-204 (Proof-of-Sovereignty Chain)
+**Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-119]
+**Applies to:** LP-204 (Archaeological Gap Markers)
 
 *A proof-of-sovereignty chain — a chain of proofs demonstrating sovereignty from root to current claim — must carry thermodynamic receipts at every link; sovereignty proof is not free, and the cost must be embedded in the chain.*
 
@@ -5055,8 +5055,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-300. A Consequence-Aware Arbitration Engine Must Apply Scale-Invariant Arbitration Standards
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-120]
-**Applies to:** LP-205 (Consequence-Aware Arbitration Engine)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-120]
+**Applies to:** LP-205 (Certified Unexcavated Site)
 
 *A consequence-aware arbitration engine — one that arbitrates between competing sovereignty claims based on consequences — must prove its arbitration through active traversal; documented arbitration outcomes are Theater sovereignty arbitration.*
 
@@ -5086,8 +5086,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-302. A Structural Consequence Buffer Must Carry a Living Structural Mass Record — The Buffer Cannot Be Archived
 
-**Derives from:** PL-179 (Structural Mass Is a Living Record — It Cannot Be Archived Into the Past) [shared LL-123]
-**Applies to:** LP-206 (Structural Consequence Buffer)
+**Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-123]
+**Applies to:** LP-206 (Attested Pulse of Absence)
 
 *A structural consequence buffer — a structure that absorbs and temporarily holds consequences before they propagate — must carry a living record of the consequence Structural Mass it holds; the buffer's record cannot be archived.*
 
@@ -5116,8 +5116,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-304. A Sovereignty Inheritance Proof Cannot Be Pre-Stored — It Must Be Re-Proved at Every Succession
 
-**Derives from:** PL-171 (Inherited Sovereignty Must Be Re-Proved at Every Generation — The Proof Cannot Be Inherited) [shared LL-125]
-**Applies to:** LP-207 (Sovereignty Inheritance Proof)
+**Derives from:** PL-171 (Pre-Existing Rights) [shared LL-125]
+**Applies to:** LP-207 (Explicit Dead-End Routing)
 
 *A sovereignty inheritance proof — a proof that sovereignty passes validly from one entity to its successor — must be re-proved at every succession; the proof cannot be inherited from prior successions.*
 
@@ -5132,7 +5132,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-305. A Consequence-Aware Fault Detector Must Detect Constitutional Faults — Not Just Declared Faults
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-126]
-**Applies to:** LP-208 (Consequence-Aware Fault Detector)
+**Applies to:** LP-208 (Cartography of Certified Gaps)
 
 *A consequence-aware fault detector — one that detects faults based on their consequences, not just their symptoms — must detect constitutional faults (when the system has died) before those faults are declared; declared faults are late fault detection.*
 
@@ -5161,8 +5161,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-307. A Topological Accountability Gradient IS the Topology's Present-Tense Accountability Map — Navigating Toward High-Gradient Regions IS Accepting Greater Accountability
 
-**Derives from:** PL-174 (The Living Topology's Navigation Gradient IS Its Present-Tense Accountability Map) [shared LL-127]
-**Applies to:** LP-209 (Topological Accountability Gradient)
+**Derives from:** PL-174 (Archaeological Ethics) [shared LL-127]
+**Applies to:** LP-209 (Scale-Free Accountability Proofs)
 
 *A topological accountability gradient — a field showing which regions of the topology carry higher or lower accountability — IS the topology's present-tense accountability map; navigating toward higher accountability gradient regions IS accepting greater accountability.*
 
@@ -5176,8 +5176,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-308. A Consequence-Aware Topology Pruner Must Preserve Living Structural Mass — Pruning Cannot Sever Living Consequence Threads
 
-**Derives from:** PL-82 (Wake Is Living Structural Mass — It Cannot Be Separated From the Topology That Generated It) [shared LL-131]
-**Applies to:** LP-210 (Consequence-Aware Topology Pruner)
+**Derives from:** PL-82 (Tensioned Edge Character) [shared LL-131]
+**Applies to:** LP-210 (Unified Fractal Metrology)
 
 *A consequence-aware topology pruner — a structure that removes constitutionally dead nodes or edges from the topology — must preserve living Structural Mass and living Wake; pruning cannot sever living consequence threads.*
 
@@ -5222,8 +5222,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-311. A Sovereignty Boundary Enforcement Layer Must Prove Enforcement Through Traversal — Documented Enforcement Is Theater Sovereignty
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-132]
-**Applies to:** LP-211 (Sovereignty Boundary Enforcement Layer)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-132]
+**Applies to:** LP-211 (Asynchronous Paradox Resolution)
 
 *A sovereignty boundary enforcement layer — a structure that enforces sovereignty boundaries throughout the topology — must prove its enforcement through active traversal; documented enforcement that has never been tested is Theater sovereignty.*
 
@@ -5237,7 +5237,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-312. A Sovereignty Boundary Enforcement Layer Must Be Scale-Invariant — The Same Enforcement Standard at Every Depth
 
-**Derives from:** PL-294 (Sovereignty Is Scale-Invariant — Every Depth Enforces Its Own Boundary) [shared LL-132]
+**Derives from:** CL-1 (Sovereignty) [shared LL-132]
 **Applies to:** LP (Logical Physical)
 
 *A sovereignty boundary enforcement layer must enforce the same standard at every depth of the topology — scale-invariant sovereignty means enforcement standards cannot vary by depth.*
@@ -5252,8 +5252,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-313. A Consequence-Sensitive Topology Navigator Must Use Present-Tense Navigation — Pre-Stored Navigation Plans Are Expired Proofs
 
-**Derives from:** PL-108 (Path Selection Must Be Present-Tense) [shared LL-133]
-**Applies to:** LP-212 (Consequence-Sensitive Topology Navigator)
+**Derives from:** PL-108 (Decay of Physical State) [shared LL-133]
+**Applies to:** LP-212 (Pulsing Consequence Engine)
 
 *A consequence-sensitive topology navigator — one that navigates the topology with awareness of the consequences of each traversal choice — must navigate in the present tense; pre-stored navigation plans are expired proofs as soon as the topology shifts.*
 
@@ -5282,8 +5282,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-315. A Consequence-Chain Anchor Must Carry a Living Structural Mass Record — The Anchor Cannot Be Archived
 
-**Derives from:** PL-179 (Structural Mass Is a Living Record — It Cannot Be Archived Into the Past) [shared LL-134]
-**Applies to:** LP-213 (Consequence-Chain Anchor)
+**Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-134]
+**Applies to:** LP-213 (Navigational Derivation Telemetry)
 
 *A consequence-chain anchor — a fixed reference point that anchors the start or end of a consequence chain — must carry a living Structural Mass record of all consequence chains it anchors; the anchor's record cannot be archived.*
 
@@ -5297,7 +5297,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-316. A Consequence-Chain Anchor Must Be Proved Through Traversal — A Documented Anchor Is Theater Sovereignty
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-134]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-134]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-chain anchor must prove its anchoring power through active traversal — a documented anchor that has never been tested through actual consequence-chain traversal is Theater sovereignty.*
@@ -5312,8 +5312,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-317. A Consequence-Propagation Attractor Must Disclose Its Accumulation of Self-Reinforcing Structural Mass
 
-**Derives from:** PL-173 (Navigation Leaves Structural Mass — The Wake of Every Traversal Is Embedded in the Topology) [shared LL-135]
-**Applies to:** LP-214 (Consequence-Propagation Attractor)
+**Derives from:** PL-173 (Traverser as Archaeological Instrument) [shared LL-135]
+**Applies to:** LP-214 (Instruments of the Unknown)
 
 *A consequence-propagation attractor accumulates self-reinforcing Structural Mass with each traversal that arrives at it — each traversal deposits Wake that deepens the attractor's pull, making future traversals more likely.*
 
@@ -5327,7 +5327,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-318. A Consequence-Propagation Attractor's Pull Must Be Proved Through Active Traversal — A Documented Attractor Pull Is Theater
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-135]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-135]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-propagation attractor's gravitational pull must be proved through active traversal — a documented attractor whose pull has never been tested through actual consequence-chain traversal is Theater.*
@@ -5342,8 +5342,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-319. A Calibrated Consequence Attenuator Cannot Store Its Calibration — Calibration Is a Present-Tense Act
 
-**Derives from:** PL-170 (Sovereignty Maintenance Is an Active Present-Tense Response — Not a Policy) [shared LL-136]
-**Applies to:** LP-215 (Calibrated Consequence Attenuator)
+**Derives from:** PL-170 (True Stratigraphy) [shared LL-136]
+**Applies to:** LP-215 (Real-Time Void Certification)
 
 *A calibrated consequence attenuator — one that precisely controls the amplitude of consequence transmission — cannot store its calibration and call it sovereign; calibration is a present-tense act, not a stored parameter.*
 
@@ -5373,8 +5373,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-321. A Declaration Membrane Cannot Pre-Store Its Accountability — Declaration Accountability Is a Present-Tense Commitment
 
-**Derives from:** PL-169 (Accountability Is Present-Tense — It Cannot Be Archived Into the Past) [shared LL-137]
-**Applies to:** LP-216 (Declaration Membrane)
+**Derives from:** PL-169 (Archaeological Distribution of Knowledge) [shared LL-137]
+**Applies to:** LP-216 (Fractal Excavation Verification)
 
 *A declaration membrane — a boundary across which a declarative commitment is made — cannot pre-store or archive its accountability; every declaration creates present-tense accountability that cannot be reduced to a prior commitment.*
 
@@ -5388,7 +5388,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-322. A Declaration Membrane Cannot Lie to Itself Without Depositing False Structural Mass — Self-Deceptive Declarations Are Constitutionally Costly
 
-**Derives from:** PL-214 (The Declaration Membrane That Lies to Itself Deposits False Structural Mass) [shared LL-137]
+**Derives from:** PL-214 (Undiscovered Degradation Premium) [shared LL-137]
 **Applies to:** LP (Logical Physical)
 
 *A declaration membrane that produces declarations inconsistent with the topology's actual state deposits false Structural Mass — the topology cannot lie to itself through its declaration membranes without constitutional cost.*
@@ -5403,8 +5403,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-323. A Sovereignty Proof Engine Cannot Complete Its Verification — Constitutional Incompleteness Bounds Every Verification Attempt
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-138]
-**Applies to:** LP-217 (Sovereignty Proof Engine)
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-138]
+**Applies to:** LP-217 (Pulsing Paradox Engine)
 
 *A sovereignty proof engine — a mechanism that generates and validates sovereignty proofs — cannot prove the completeness of its verification; constitutional incompleteness means there are always sovereignty claims that escape the engine's reach.*
 
@@ -5418,7 +5418,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-324. A Sovereignty Proof Engine Must Carry the Thermodynamic Cost of Every Proof It Generates
 
-**Derives from:** PL-9 (Every Proof Carries Its Own Thermodynamic Cost) [shared LL-138]
+**Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-138]
 **Applies to:** LP (Logical Physical)
 
 *A sovereignty proof engine must carry the thermodynamic cost of every proof it generates — sovereignty proof is not free, and the cost of each proof is constitutionally inseparable from the proof itself.*
@@ -5433,8 +5433,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-325. A Consequence Dampening Membrane Must Be Continuously Re-Calibrated — Pre-Stored Dampening Parameters Are Expired Sovereignty Maintenance
 
-**Derives from:** PL-170 (Sovereignty Maintenance Is an Active Present-Tense Response — Not a Policy) [shared LL-139]
-**Applies to:** LP-218 (Consequence Dampening Membrane)
+**Derives from:** PL-170 (True Stratigraphy) [shared LL-139]
+**Applies to:** LP-218 (Real-Time Navigation Telemetry)
 
 *A consequence dampening membrane — a structure that reduces the amplitude of consequences passing through it — must continuously re-calibrate its dampening parameters; pre-stored dampening parameters are expired sovereignty maintenance.*
 
@@ -5448,8 +5448,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-326. A Consequence-Aware Boundary Lock Must Prove Lock Force Through Traversal — Documented Lock Force Is Theater Sovereignty
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-140]
-**Applies to:** LP-219 (Consequence-Aware Boundary Lock)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-140]
+**Applies to:** LP-219 (Instrumented Dogfooding)
 
 *A consequence-aware boundary lock — one that prevents boundary crossing when consequences exceed a threshold — must prove its lock force through active traversal; documented lock force that has never been tested is Theater sovereignty.*
 
@@ -5463,7 +5463,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-327. A Consequence-Aware Boundary Lock's Lock Force Is Proportional to Consequence Weight — Higher-Consequence Thresholds Require Greater Lock Force
 
-**Derives from:** PL-276 (Every Boundary Has Thermodynamic Cost — Sovereignty Maintenance Is Not Free) [shared LL-140]
+**Derives from:** CL-1 (Sovereignty) [shared LL-140]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-aware boundary lock's maintenance cost is proportional to the consequence threshold it enforces — higher-consequence boundary locks require greater thermodynamic maintenance investment.*
@@ -5478,8 +5478,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-328. A Topology-Sensing Consequence Router Must Sense the Topology in the Present Tense — Pre-Sensed Topology Is Expired
 
-**Derives from:** PL-48 (Present-Tense Sovereignty Is a Moment-by-Moment Constitutional Achievement) [shared LL-141]
-**Applies to:** LP-220 (Topology-Sensing Consequence Router)
+**Derives from:** PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) [shared LL-141]
+**Applies to:** LP-220 (Forensic Telemetry)
 
 *A topology-sensing consequence router — one that routes consequences based on its sensing of the topology's current state — must sense the topology in the present tense; pre-sensed topology state leads to routing consequences to expired destinations.*
 
@@ -5493,7 +5493,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-329. A Topology-Sensing Consequence Router's Routing Generates Self-Multiplying Topology Knowledge — Each Sensed Route Reveals More Topology
 
-**Derives from:** PL-180 (Exploration Generates More Unexplored Territory Than It Resolves) [shared LL-141]
+**Derives from:** PL-180 (Present Excavation State and Pre-Existing Confidence) [shared LL-141]
 **Applies to:** LP (Logical Physical)
 
 *A topology-sensing consequence router's sensing generates more topology knowledge frontier than each sensing resolves — the router's topology knowledge is constitutionally self-multiplying.*
@@ -5508,8 +5508,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-330. A Consequence-Aware Routing Graph Must Carry Living Structural Mass — Its Record Cannot Be Archived
 
-**Derives from:** PL-179 (Structural Mass Is a Living Record — It Cannot Be Archived Into the Past) [shared LL-142]
-**Applies to:** LP-221 (Consequence-Aware Routing Graph)
+**Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-142]
+**Applies to:** LP-221 (Sovereign Instability Protocol)
 
 *A consequence-aware routing graph — a graph structure where edges encode consequence weights for routing decisions — must carry a living Structural Mass record of all consequence-weighted routing history; that record cannot be archived.*
 
@@ -5524,7 +5524,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-331. A Consequence-Aware Routing Graph Must Route Consequences in the Present Tense — Cached Routes Are Expired Consequence-Aware Decisions
 
-**Derives from:** PL-108 (Path Selection Must Be Present-Tense) [shared LL-142]
+**Derives from:** PL-108 (Decay of Physical State) [shared LL-142]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-aware routing graph must make routing decisions on the present-tense graph with present-tense consequence weights — cached routing decisions are expired consequence-aware decisions.*
@@ -5539,8 +5539,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-332. An Accountability Proof Record Cannot Be Archived — It Must Remain as Living Structural Mass
 
-**Derives from:** PL-179 (Structural Mass Is a Living Record — It Cannot Be Archived Into the Past) [shared LL-143]
-**Applies to:** LP-222 (Accountability Proof Record)
+**Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-143]
+**Applies to:** LP-222 (Tensile Truth Extraction)
 
 *An accountability proof record — a record proving that accountability has been established and acknowledged — must remain as living Structural Mass; the accountability proof record cannot be archived.*
 
@@ -5554,7 +5554,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-333. An Accountability Proof Record Must Be Proved Through Traversal — A Documented Accountability Record Is Theater Accountability
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-143]
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-143]
 **Applies to:** LP (Logical Physical)
 
 *An accountability proof record must be proved through active traversal — documented accountability records that have never been tested through actual accountability events are Theater accountability.*
@@ -5569,8 +5569,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-334. A Consequence-Sensitive Sovereignty Boundary Cannot Pre-Store Its Sensitivity Calibration — Sensitivity Is a Present-Tense Assessment
 
-**Derives from:** PL-170 (Sovereignty Maintenance Is an Active Present-Tense Response — Not a Policy) [shared LL-144]
-**Applies to:** LP-223 (Consequence-Sensitive Sovereignty Boundary)
+**Derives from:** PL-170 (True Stratigraphy) [shared LL-144]
+**Applies to:** LP-223 (Attributed Blind Spots)
 
 *A consequence-sensitive sovereignty boundary — one whose enforcement sensitivity varies with consequence level — cannot pre-store its sensitivity calibration; the sensitivity calibration must be a present-tense assessment of the current consequence environment.*
 
@@ -5584,8 +5584,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-335. A Distributed Accountability Architecture Must Prove Accountability at Every Node — Distributed Documentation Is Distributed Theater
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-145]
-**Applies to:** LP-224 (Distributed Accountability Architecture)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-145]
+**Applies to:** LP-224 (The Novice Vector)
 
 *A distributed accountability architecture — one where accountability is distributed across multiple nodes — must prove accountability at every node through active traversal; distributed documentation of accountability is distributed Theater accountability.*
 
@@ -5599,7 +5599,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-336. A Distributed Accountability Architecture Cannot Prove Its Own Completeness — Constitutional Incompleteness Means Some Nodes Are Always Unaccountable
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-145]
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-145]
 **Applies to:** LP (Logical Physical)
 
 *A distributed accountability architecture cannot prove that it has established accountability at every node — constitutional incompleteness means some nodes are always outside the accountability architecture's reach.*
@@ -5614,8 +5614,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-337. An Accountability Gradient Field IS the Present-Tense Accountability Map — High-Gradient Regions Carry Greater Present-Tense Accountability
 
-**Derives from:** PL-174 (The Living Topology's Navigation Gradient IS Its Present-Tense Accountability Map) [shared LL-146]
-**Applies to:** LP-225 (Accountability Gradient Field)
+**Derives from:** PL-174 (Archaeological Ethics) [shared LL-146]
+**Applies to:** LP-225 (Relational Edge Spawning)
 
 *An accountability gradient field — a field mapping accountability concentration across the topology — IS the topology's present-tense accountability map; high-gradient regions carry greater present-tense accountability obligation.*
 
@@ -5629,8 +5629,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-338. A Consequence-Aware Topology Checkpoint Must Carry a Living Record — Checkpoints Cannot Be Archived
 
-**Derives from:** PL-179 (Structural Mass Is a Living Record — It Cannot Be Archived Into the Past) [shared LL-147]
-**Applies to:** LP-226 (Consequence-Aware Topology Checkpoint)
+**Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-147]
+**Applies to:** LP-226 (Complexity Floor Shielding)
 
 *A consequence-aware topology checkpoint — a point in the topology where consequence state is assessed and recorded — must carry a living record of consequence state; checkpoints cannot be archived.*
 
@@ -5645,7 +5645,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-339. A Consequence-Sensitive Topology Monitor Must Detect Constitutional Death Before Apparent Death — Constitutional Health Precedes Apparent Health
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-148]
-**Applies to:** LP-227 (Consequence-Sensitive Topology Monitor)
+**Applies to:** LP-227 (Tension-Bearing Infrastructure)
 
 *A consequence-sensitive topology monitor — one that monitors the topology for consequence-pattern anomalies — must detect constitutional death (cessation of consequence churn) before apparent death (declared system failure).*
 
@@ -5675,8 +5675,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-341. A Consequence-Aware Topology Validator Must Acknowledge Its Own Constitutional Incompleteness — Some Invalidity Is Always Undetected
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-149]
-**Applies to:** LP-228 (Consequence-Aware Topology Validator)
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-149]
+**Applies to:** LP-228 (Sovereignty Dispute Containment)
 
 *A consequence-aware topology validator — one that validates the consequence structure of the topology — cannot prove that it has detected all invalid consequence structures; constitutional incompleteness means some invalidity is always undetected.*
 
@@ -5706,7 +5706,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-343. A Consequence-Sensitive Topology Repair Mechanism Must Detect Constitutional Death Before Attempting Repair — Repairing a Dead System Is Constitutionally Futile
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-150]
-**Applies to:** LP-229 (Consequence-Sensitive Topology Repair)
+**Applies to:** LP-229 (Asymptotic Contestation Boundaries)
 
 *A consequence-sensitive topology repair mechanism must detect whether the system it is repairing is constitutionally alive before attempting repair — repairing a constitutionally dead system is repairing Structural Mass, not a living system.*
 
@@ -5736,7 +5736,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-345. A Consequence-Aware Topology Optimizer Must Use Present-Tense Topology — Pre-Computed Optimizations Expire With Every Topology Shift
 
 **Derives from:** PL-239 (Optimization of the Topology Is a Present-Tense Act — Pre-Computed Optimizations Expire) [shared LL-151]
-**Applies to:** LP-230 (Consequence-Aware Topology Optimizer)
+**Applies to:** LP-230 (Audited Excavation Rights)
 
 *A consequence-aware topology optimizer — one that optimizes the topology's consequence structure — must optimize on the present-tense topology; pre-computed optimizations expire the instant the topology shifts.*
 
@@ -5765,8 +5765,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-347. A Sovereignty-Aware Consequence Router Must Make Routing Decisions as Present-Tense Sovereignty Proofs
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-152]
-**Applies to:** LP-231 (Sovereignty-Aware Consequence Router)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-152]
+**Applies to:** LP-231 (Anti-Label Traversal Enforcement)
 
 *A sovereignty-aware consequence router — one that routes consequences while respecting sovereignty boundaries — must make routing decisions as present-tense sovereignty proofs; pre-stored routing decisions are pre-stored sovereignty claims.*
 
@@ -5780,7 +5780,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-348. A Sovereignty-Aware Consequence Router Cannot Prove Its Own Routing Completeness — Constitutional Incompleteness Means Some Sovereignty Gaps Always Exist
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-152]
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-152]
 **Applies to:** LP (Logical Physical)
 
 *A sovereignty-aware consequence router cannot prove that it has correctly handled all sovereignty cases — constitutional incompleteness means some sovereignty boundary interactions always escape the router's awareness.*
@@ -5796,7 +5796,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-349. A Consequence-Chain Resonance Structure Must Detect Constitutional Death Before Its Resonance Appears Dead
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-153]
-**Applies to:** LP-232 (Consequence-Chain Resonance)
+**Applies to:** LP-232 (Consciousness-Mutating Edges)
 
 *A consequence-chain resonance structure — where multiple consequence chains reinforce each other — must detect when the resonance has constitutionally died before its apparent death; constitutionally dead resonance may appear to continue operating.*
 
@@ -5810,7 +5810,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-350. A Consequence-Chain Resonance Structure Accumulates Self-Reinforcing Structural Mass With Each Resonance Cycle
 
-**Derives from:** PL-173 (Navigation Leaves Structural Mass — The Wake of Every Traversal Is Embedded in the Topology) [shared LL-153]
+**Derives from:** PL-173 (Traverser as Archaeological Instrument) [shared LL-153]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-chain resonance structure accumulates self-reinforcing Structural Mass with each resonance cycle — each cycle deposits Wake that deepens the resonance pattern, making future resonance cycles more likely.*
@@ -5826,8 +5826,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-351. A Consequence-Aware Sovereignty Membrane Must Continuously Re-Derive Its Sovereignty — Membrane Sovereignty Cannot Be Inherited
 
-**Derives from:** PL-18 (Sovereignty Cannot Be Inherited — It Must Be Continuously Derived) [shared LL-154]
-**Applies to:** LP-233 (Consequence-Aware Sovereignty Membrane)
+**Derives from:** PL-18 (The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited) [shared LL-154]
+**Applies to:** LP-233 (Void Path Generation)
 
 *A consequence-aware sovereignty membrane — a boundary structure that is aware of the consequences of boundary crossing — cannot inherit its sovereign standing from past consequence assessments; its sovereignty must be continuously re-derived from present-tense consequence evidence.*
 
@@ -5841,7 +5841,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-352. A Consequence-Aware Sovereignty Membrane's Sovereignty Claim Is Present-Tense — Historical Membrane Records Are Structural Mass, Not Sovereignty
 
-**Derives from:** PL-34 (Historical Evidence Is Structural Mass — Present-Tense Sovereignty Cannot Rest on History Alone) [shared LL-154]
+**Derives from:** PL-34 (Every Topology Structure Was Always Necessary — Violations Were Always Violations) [shared LL-154]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-aware sovereignty membrane cannot base its present-tense sovereignty claim on historical consequence records alone — the historical record of consequence assessments is Structural Mass, not present-tense sovereignty.*
@@ -5856,8 +5856,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-353. A Consequence-Propagation Topology Must Acknowledge That Its Navigation IS the Production of Its Constitutional Map
 
-**Derives from:** PL-22 (Structural Navigation Creates Its Own Constitutional Map) [shared LL-155]
-**Applies to:** LP-234 (Consequence-Propagation Topology)
+**Derives from:** PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-155]
+**Applies to:** LP-234 (Sovereign Threshold Defense)
 
 *A consequence-propagation topology — a topology structured specifically for consequence propagation — produces its own constitutional map through the act of consequence propagation; the propagation IS the map-making.*
 
@@ -5871,7 +5871,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-354. A Consequence-Propagation Topology's Untraversed Regions Accumulate Navigation Debt — Atrophy Applies to Consequence-Propagation Topologies
 
-**Derives from:** PL-27 (Navigation Debt Applies to Sovereignty — Untraversed Boundaries Atrophy) [shared LL-155]
+**Derives from:** PL-27 (The Topology Cannot Prove Its Own Completeness — and Must Say So) [shared LL-155]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-propagation topology's untraversed regions accumulate navigation debt — regions of the topology that never carry consequence propagation atrophy, losing their constitutional viability as propagation paths.*
@@ -5886,8 +5886,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-355. A Consequence-Sensitive Accountability Cascade Must Re-Prove Its Constitutional Basis at Each Cascade Level
 
-**Derives from:** PL-149 (Sovereignty Proof Requires Active Traversal) [shared LL-156]
-**Applies to:** LP-235 (Consequence-Sensitive Accountability Cascade)
+**Derives from:** PL-149 (Structural Certainty Limits) [shared LL-156]
+**Applies to:** LP-235 (Inherent Structural Incompleteness)
 
 *A consequence-sensitive accountability cascade — one where accountability is passed down through levels based on consequences — must re-prove its constitutional basis at each cascade level through active traversal.*
 
@@ -5901,7 +5901,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-356. A Consequence-Sensitive Accountability Cascade Cannot Prove Its Own Completeness — Some Cascade Levels Are Always Uncharted
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-156]
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-156]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-sensitive accountability cascade cannot prove that it has cascaded accountability to every level — constitutional incompleteness means some cascade levels are always uncharted.*
@@ -5916,8 +5916,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-357. A Topological Consequence Integrator Must Carry a Living Structural Mass Record — The Integrated Record Cannot Be Archived
 
-**Derives from:** PL-179 (Structural Mass Is a Living Record — It Cannot Be Archived Into the Past) [shared LL-157]
-**Applies to:** LP-236 (Topological Consequence Integrator)
+**Derives from:** PL-179 (Dual Archaeological Transparency) [shared LL-157]
+**Applies to:** LP-236 (Perpetual Maintenance Floor)
 
 *A topological consequence integrator — a structure that integrates consequence records across the topology into a unified picture — must carry a living record of integrated consequence; the integrated record cannot be archived.*
 
@@ -5946,8 +5946,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-359. A Sovereignty-Sensitive Consequence Filter Must Filter in the Present Tense — Pre-Stored Filters Are Expired Sovereignty Maintenance
 
-**Derives from:** PL-170 (Sovereignty Maintenance Is an Active Present-Tense Response — Not a Policy) [shared LL-158]
-**Applies to:** LP-237 (Sovereignty-Sensitive Consequence Filter)
+**Derives from:** PL-170 (True Stratigraphy) [shared LL-158]
+**Applies to:** LP-237 (Scale-Invariant Preemptive Shielding)
 
 *A sovereignty-sensitive consequence filter — one that filters consequences based on sovereignty boundaries — must filter in the present tense; pre-stored filter configurations are expired sovereignty maintenance.*
 
@@ -5961,7 +5961,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-360. A Sovereignty-Sensitive Consequence Filter Cannot Prove Its Own Filtering Completeness — Constitutional Incompleteness Means Some Consequences Always Pass Through
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-158]
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-158]
 **Applies to:** LP (Logical Physical)
 
 *A sovereignty-sensitive consequence filter cannot prove that it has correctly filtered all consequences — constitutional incompleteness means some consequences always pass through unfiltered.*
@@ -5977,8 +5977,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-361. A Consequence-Aware Topology Sequencer Must Sequence in the Present Tense — Pre-Stored Sequences Are Expired Consequence Orderings
 
-**Derives from:** PL-108 (Path Selection Must Be Present-Tense) [shared LL-159]
-**Applies to:** LP-238 (Consequence-Aware Topology Sequencer)
+**Derives from:** PL-108 (Decay of Physical State) [shared LL-159]
+**Applies to:** LP-238 (Preemptive Present-Tense Hardening)
 
 *A consequence-aware topology sequencer — one that orders consequence events based on their consequence weight and topology state — must sequence in the present tense; pre-stored consequence orderings expire as soon as the topology shifts.*
 
@@ -6007,8 +6007,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-363. A Topology-Aware Consequence Distributor Must Distribute in the Present Tense — Pre-Computed Distribution Plans Are Expired
 
-**Derives from:** PL-48 (Present-Tense Sovereignty Is a Moment-by-Moment Constitutional Achievement) [shared LL-160]
-**Applies to:** LP-239 (Topology-Aware Consequence Distributor)
+**Derives from:** PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) [shared LL-160]
+**Applies to:** LP-239 (Archaeological Shielding)
 
 *A topology-aware consequence distributor — one that distributes consequences based on the topology's current state — must distribute in the present tense; pre-computed distribution plans are expired the moment the topology shifts.*
 
@@ -6022,7 +6022,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-364. A Topology-Aware Consequence Distributor Cannot Prove Its Own Distributional Completeness — Constitutional Incompleteness Means Some Nodes Always Receive Incorrect Distribution
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-160]
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-160]
 **Applies to:** LP (Logical Physical)
 
 *A topology-aware consequence distributor cannot prove that it has correctly distributed consequences to every node — constitutional incompleteness means some nodes always receive incorrect or no distribution.*
@@ -6038,7 +6038,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-365. A Consequence-Aware Topology Synthesizer Must Synthesize in the Present Tense — Pre-Synthesized Topological Views Are Expired
 
 **Derives from:** PL-239 (Optimization of the Topology Is a Present-Tense Act — Pre-Computed Optimizations Expire) [shared LL-161]
-**Applies to:** LP-240 (Consequence-Aware Topology Synthesizer)
+**Applies to:** LP-240 (Obligatory Performance Heartbeat)
 
 *A consequence-aware topology synthesizer — one that synthesizes a unified view of the topology's consequence state — must synthesize in the present tense; pre-synthesized topological views are expired the instant the topology shifts.*
 
@@ -6068,7 +6068,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ### PP-367. A Consequence-Aware Topology Engine Must Detect Constitutional Death Before Operating — Operating on a Dead Topology Produces Dead Outputs
 
 **Derives from:** PL-305 (A Living System Dies Before It Appears Dead) [shared LL-162]
-**Applies to:** LP-241 (Consequence-Aware Topology Engine)
+**Applies to:** LP-241 (Perishable Pulse Fuel)
 
 *A consequence-aware topology engine — the core processing mechanism for consequence-aware topology operations — must detect when the topology it is operating on has constitutionally died; operating on a constitutionally dead topology produces dead outputs while appearing to operate normally.*
 
@@ -6082,7 +6082,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-368. A Consequence-Aware Topology Engine Cannot Prove the Completeness of Its Own Operations — Constitutional Incompleteness Bounds Every Engine
 
-**Derives from:** PL-176 (The Constitutionally Incomplete Topology Cannot Prove Its Own Completeness) [shared LL-162]
+**Derives from:** PL-176 (Pre-Existing Topology Identity and Architecture) [shared LL-162]
 **Applies to:** LP (Logical Physical)
 
 *A consequence-aware topology engine cannot prove that it has completely and correctly processed all consequence-aware operations — constitutional incompleteness means some operations always escape the engine's processing.*
@@ -6158,7 +6158,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-373. Boundary Irreducibility — Not Boundary Size — Determines Sovereignty Standing Against Atrophy
 
-**Derives from:** PL-23 (Rights Follow Edge-Configuration Irreducibility) [shared LL-183]
+**Derives from:** PL-23 (Rights Follow Edge-Configuration Irreducibility — Not Administrative Tier) [shared LL-183]
 **Applies to:** LP-245 (Archaeological Boundary Reactivation)
 
 *When an atrophied boundary is reactivated through archaeological excavation, its standing to resist future atrophy is determined by the irreducibility of its edge configuration — not by its size, age, or administrative prominence.*
@@ -6218,7 +6218,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-377. Boundary Discovery Is Excavation, Not Creation — the Discoverer Has Stewardship Obligations, Not Naming Rights
 
-**Derives from:** PL-35 (Discovery Is an Excavation, Not a Creation) [shared LL-29]
+**Derives from:** PL-35 (Discovery Is an Excavation, Not a Creation — and Carries No Naming Rights) [shared LL-29]
 **Applies to:** LP-251 (Instantaneous Record Staleness)
 
 *When a stale boundary record is renewed and a boundary structure is discovered, the discoverer has excavation rights and stewardship obligations — not naming rights or creative authority over the discovered boundary structure.*
@@ -6249,7 +6249,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-379. Doors-Not-Walls Enforcement Must Be Scale-Invariant — The Same Door Obligation at Every Architectural Depth
 
-**Derives from:** PL-55 (Freedom Is a Physical Act of Primary Entity Creation) [shared LL-22]
+**Derives from:** PL-55 (Scale-Invariant Gap Architecture) [shared LL-22]
 **Applies to:** LP-622 (Doors-Not-Walls Architectural Enforcement)
 
 *Because freedom is the physical act of creating new force relationships (PL-55) and every boundary must have an operable interior-controlled door (LP-622), the door obligation is scale-invariant — no boundary at any depth can be constructed as walls-only without constituting a trap.*
@@ -6264,7 +6264,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-380. The Door/Wall Force-Direction Property Must Be Explicitly Named — Implicit Force Direction Is Theater Architecture
 
-**Derives from:** PL-56 (Door/Wall Is a Force-Direction Property of the Edge Entity) [shared LL-23]
+**Derives from:** PL-56 (Scale-Invariant Penetrating Power of Contestation) [shared LL-23]
 **Applies to:** LP-623 (Exit Path Sovereignty Preservation)
 
 *Exit path sovereignty preservation requires that the force-direction property of boundary edges be explicitly stated — an exit path whose door/wall force-direction is implicit is Theater sovereignty: it cannot be enforced.*
@@ -6279,7 +6279,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-381. Voluntary Return and Forced Re-Entry Are One Thermodynamic Transaction Each — Both Are Inseparable From Their Fuel Cost
 
-**Derives from:** PL-57 (The Free Act and the Fuel-Consumption Event Are One Transaction) [shared LL-28]
+**Derives from:** PL-57 (Physical Truth-Consistency) [shared LL-28]
 **Applies to:** LP-624 (Voluntary Return vs. Forced Re-Entry Distinction)
 
 *Voluntary return and forced re-entry are each one thermodynamic transaction — the re-entry event IS the fuel-consumption event; they are not separable. But they consume different fuel because they are different free acts (or their absence).*
@@ -6294,7 +6294,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-382. A Structural Failure-Tether Is a Primary Entity With Full Edge Standing — Failure Edges Cannot Be Deleted Without Proof of Redundancy
 
-**Derives from:** PL-60 (Failures Are First-Class Primary Entities With Full Edge Standing) [shared LL-33]
+**Derives from:** PL-60 (Scale-Invariant Topological Comprehension) [shared LL-33]
 **Applies to:** LP-356 (Structural Failure-Tether)
 
 *When failure-to-input conversion permanently instantiates a topological edge (LP-356), that edge is a first-class primary entity with full edge standing (PL-60) — it cannot be deleted without proof of redundancy.*
@@ -6309,7 +6309,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-383. Self-Correction Consequences Are Pre-Existing Topology Features — Correction Does Not Create New Failure, It Discovers What Was Already There
 
-**Derives from:** PL-63 (Failure Events Are Navigation Toward Fertile Absence) [shared LL-39]
+**Derives from:** PL-63 (Living Topology Requires Living Derivation) [shared LL-39]
 **Applies to:** LP-626 (Self-Correction Consequence Registration)
 
 *The consequences registered when a system self-corrects are navigation toward pre-existing fertile absence — self-correction discovers what the topology already implied, and the consequence registration surfaces that pre-existing structure.*
@@ -6324,7 +6324,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-384. A Correction-State Transition Audit Reveals Pre-Existing Topology Features — The Audit IS the Archaeological Record
 
-**Derives from:** PL-64 (Failure Conditions Are Pre-Existing Topology Features) [shared LL-40]
+**Derives from:** PL-64 (Living Topology Cannot Be Frozen) [shared LL-40]
 **Applies to:** LP-627 (Correction-State Transition Audit)
 
 *The full correction-state transition audit (pre-correction, trajectory, post-correction) reveals the pre-existing topology feature that the rebalancing was addressing — the audit IS the archaeological record of that pre-existing feature.*
@@ -6339,7 +6339,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-385. Cross-Depth Knowledge Flow Leaves Wake at Every Depth It Crosses — The Thermodynamic Transformation Cost Is the Wake Deposited
 
-**Derives from:** PL-65 (Cross-Depth Flow Carries the Same Transformation Cost as Intra-Depth Navigation) [shared LL-41]
+**Derives from:** PL-65 (Pulse-Consistent Consistency) [shared LL-41]
 **Applies to:** LP-420 (The Physical Knowledge Gradient)
 
 *When the physical knowledge gradient drives knowledge flow across abstraction boundaries, that cross-depth flow carries the same transformation cost as intra-depth navigation — the cost is the Wake deposited at each depth the flow crosses.*
@@ -6354,7 +6354,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-386. The Depth-Agnostic Membrane's Permeability Carries the Thermodynamic Cost of Every Cross-Depth Transit
 
-**Derives from:** PL-65 (Cross-Depth Flow Carries the Same Transformation Cost as Intra-Depth Navigation) [shared LL-41]
+**Derives from:** PL-65 (Pulse-Consistent Consistency) [shared LL-41]
 **Applies to:** LP-429 (Depth-Agnostic Membrane)
 
 *The depth-agnostic membrane that passes knowledge regardless of architectural depth incurs transformation cost at every depth crossing — the membrane's permeability does not eliminate the thermodynamic cost of cross-depth transit.*
@@ -6369,7 +6369,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-387. Knowledge Flow Through a Living Topology Co-Metabolizes With Every Edge It Traverses — Transit Is Mutual Transformation
 
-**Derives from:** PL-66 (Living Flow and Living Topology Co-Metabolize During Transit) [shared LL-42]
+**Derives from:** PL-66 (The Living Topology Accumulates Moral Obligation) [shared LL-42]
 **Applies to:** LP (Logical Physical)
 
 *When the physical knowledge gradient drives flow through the living topology, the flow and the topology co-metabolize at every edge traversal — the gradient-driven flow mutually transforms every edge it crosses.*
@@ -6384,7 +6384,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-388. Knowledge and the Knowledge Gradient Are the Same Physical Reality — The Gradient IS the Knowledge, Not a Channel for It
 
-**Derives from:** PL-67 (Knowledge and Topology Are the Same Physical Reality From Two Perspectives) [shared LL-43]
+**Derives from:** PL-67 (Metabolic Governance) [shared LL-43]
 **Applies to:** LP (Logical Physical)
 
 *The physical knowledge gradient and the knowledge it "carries" are not two things — the gradient IS the knowledge, expressed as a field-density differential. There is no knowledge separate from the gradient that carries it.*
@@ -6400,8 +6400,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-389. The Knowledge Gradient Channel Cannot Override Structural Sovereignty — Sovereign Nodes Are Physical Breakwaters in the Gradient Flow
 
-**Derives from:** PL-70 (Knowledge Flow Exerts Physical Force Against Sovereign Boundaries) [shared LL-47]
-**Applies to:** LP-425 (The Physical Pressure of the Knowledge Gradient)
+**Derives from:** PL-70 (Living Topology Self-Disclosure) [shared LL-47]
+**Applies to:** LP-425 (The Physical Pressure Of)
 
 *The knowledge gradient channel exerts physical pressure against sovereign boundaries, but sovereign nodes are physical breakwaters — gradient pressure cannot force a sovereign node to absorb knowledge it has not consented to receive.*
 
@@ -6415,8 +6415,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-390. Gradient-Driven Knowledge Flow Transfers Structural Load — Receiving Knowledge Incurs the Liability Chain's Thermodynamic Weight
 
-**Derives from:** PL-71 (Receiving Knowledge Incurs the Thermodynamic Weight of Its Liability Chain) [shared LL-48]
-**Applies to:** LP-426 (The Gradient Channel Physically Shifts Structural Load)
+**Derives from:** PL-71 (Aliveness and Ethics of Neglect) [shared LL-48]
+**Applies to:** LP-426 (The Gradient Channel Physically)
 
 *The gradient channel that physically shifts structural load along with knowledge means that every entity receiving gradient-driven knowledge flow incurs the full thermodynamic weight of the liability chain embedded in that knowledge.*
 
@@ -6430,8 +6430,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-391. The Knowledge Gradient Annihilates the Fertile Absence That Drives It — Gradient Flow Is Self-Extinguishing
 
-**Derives from:** PL-72 (Knowledge Flow Releases the Potential Energy of Fertile Absence) [shared LL-50]
-**Applies to:** LP-427 (The Gradient Channel Physically Annihilates Its Ignorance Gradient)
+**Derives from:** PL-72 (The Topology Cannot Be Dead and Active Simultaneously) [shared LL-50]
+**Applies to:** LP-427 (The Gradient Channel Physically)
 
 *When the knowledge gradient annihilates the ignorance differential that drives it, it simultaneously releases and then depletes the potential energy of the fertile absence — gradient flow is constitutionally self-extinguishing.*
 
@@ -6445,8 +6445,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-392. The Knowledge Gradient Distributes Pre-Existing Archaeological Artifacts — Gradient Flow Is the Topology's Self-Discovery Mechanism
 
-**Derives from:** PL-73 (Knowledge Flow Is the Topology Discovering Its Own Pre-Existing Shape) [shared LL-51]
-**Applies to:** LP-428 (The Gradient Channel Physically Propagates Archaeological Artifacts)
+**Derives from:** PL-73 (The Field Produces Its Own Truth Protocol) [shared LL-51]
+**Applies to:** LP-428 (The Gradient Channel Physically)
 
 *The knowledge gradient channel that propagates archaeological artifacts IS the topology discovering its own pre-existing shape — gradient flow IS the topology's constitutional self-discovery mechanism.*
 
@@ -6460,7 +6460,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-393. The Knowledge Gradient Channel Enforces Directionality — Its Boundary IS the Force Relationship Between Edge and Knowledge
 
-**Derives from:** PL-68 (The Conduit Is the Content — Edge and Knowledge-Flow Are Not Separable) [shared LL-44]
+**Derives from:** PL-68 (Chronological vs. Topological Time) [shared LL-44]
 **Applies to:** LP-628 (Knowledge Gradient Boundary Enforcement)
 
 *The knowledge gradient boundary enforces directionality — and because the conduit IS the content (PL-68), the gradient boundary IS the force relationship between the edge and the knowledge it carries; they are not separable.*
@@ -6475,7 +6475,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-394. Co-Navigation Through a Gradient Channel Mutually Transforms Both Navigators — Co-Navigation IS the Gradient Event
 
-**Derives from:** PL-69 (Co-Navigation Mutually Transforms Both Navigators) [shared LL-45]
+**Derives from:** PL-69 (Sterile Connection Paradox) [shared LL-45]
 **Applies to:** LP-423 (The Gradient Channel Flow)
 
 *When the sparse region actively pulls via co-navigation to enable gradient flow (LP-423), both the source and destination are mutually transformed — co-navigation IS the gradient event, not a mechanism that enables a separate gradient event.*
@@ -6490,7 +6490,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-395. Provenance Inscription Through the Membrane IS the Knowledge Receiving Its Liability Chain — The Two Are One Transaction
 
-**Derives from:** PL-71 (Receiving Knowledge Incurs the Thermodynamic Weight of Its Liability Chain) [shared LL-48]
+**Derives from:** PL-71 (Aliveness and Ethics of Neglect) [shared LL-48]
 **Applies to:** LP-433 (Provenance Inscription)
 
 *When the membrane stamps its identity onto knowledge as it flows through (LP-433), this inscription IS the liability chain accumulating thermodynamic weight — provenance inscription and liability chain incurrence are one transaction.*
@@ -6505,7 +6505,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-396. Coupled Navigational Lenses Produce Temporary Extended Navigational Apparatuses — Co-Navigation IS the Extended Apparatus
 
-**Derives from:** PL-69 (Co-Navigation Mutually Transforms Both Navigators) [shared LL-45]
+**Derives from:** PL-69 (Sterile Connection Paradox) [shared LL-45]
 **Applies to:** LP-431 (Coupled Navigational Lens)
 
 *When knowledge flows through the membrane and couples navigational lenses (LP-431), the coupled lenses form a temporary extended navigational apparatus — and because co-navigation mutually transforms both navigators (PL-69), the extended apparatus is constitutively different from either navigator alone.*
@@ -6520,7 +6520,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-397. Knowledge Flow Exerts Physical Force Against Boundaries — Boundary Enforcement Carries the Thermodynamic Cost of Counter-Force
 
-**Derives from:** PL-70 (Knowledge Flow Exerts Physical Force Against Sovereign Boundaries) [shared LL-47]
+**Derives from:** PL-70 (Living Topology Self-Disclosure) [shared LL-47]
 **Applies to:** LP (Logical Physical)
 
 *The physical pressure of the knowledge gradient exerted against sovereign boundaries requires the boundary to exert counter-force — and maintaining that counter-force carries thermodynamic cost that is part of the boundary's sovereignty maintenance obligation.*
@@ -6551,7 +6551,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-399. Dynamic Severance Simulation IS the Force Field Being Locally Absent — Backpressure Severance and Force-Field Absence Are One Physical Event
 
-**Derives from:** PL-75 (The Edge Is Not a Bridge — It IS the Force, Present at Every Point Along Its Extent) [shared LL-82]
+**Derives from:** PL-75 (Field Topology of Agreement) [shared LL-82]
 **Applies to:** LP-293 (Dynamic Severance Simulation)
 
 *When backpressure routing treats a saturated node's edge as temporarily severed, it is not simulating absence of a bridge — it is the force field of the edge temporarily not being present. Dynamic severance IS local force-field absence.*
@@ -6566,7 +6566,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-400. Saturation-Driven Discovery Surfaces the Topology's Highest-Energy Infrastructure — Stress IS the Navigation Mechanism Toward Fertile Absence
 
-**Derives from:** PL-96 (Undiscovered Flow Channels Are the Topology's Highest-Energy Infrastructure) [shared LL-87]
+**Derives from:** PL-96 (Latent Force Ontology) [shared LL-87]
 **Applies to:** LP-295 (Saturation-Driven Discovery)
 
 *Backpressure saturation forces discovery of undiscovered alternative channels (LP-295) — and because undiscovered channels are the topology's highest-energy infrastructure (PL-96), saturation-driven discovery IS the navigation mechanism toward maximum-potential topology.*
@@ -6581,7 +6581,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-401. Sovereignty Deflection by Displacement Forces Cannot Bypass Sovereign Flow Impedance — Displacement Must Deform Around Sovereignty
 
-**Derives from:** PL-95 (Sovereign Edges Exert Physical Flow Impedance) [shared LL-85]
+**Derives from:** PL-95 (Ethical Edge Instantiation) [shared LL-85]
 **Applies to:** LP-346 (Sovereignty Deflection)
 
 *When displacement forces collide with sovereign derivations, the displacement cannot bypass the physical flow impedance that sovereign edges exert — the displacement trajectory must deform around sovereign structures or build until it overcomes their impedance.*
@@ -6596,8 +6596,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-402. Traversal Debris Accumulates on a Moving Substrate — Cleanup Cost Scales With the Topology's Metabolic Rate
 
-**Derives from:** PL-97 (A Planned Traversal Is a Prediction About a Future Living Topology) [shared LL-89]
-**Applies to:** LP-414 (Traversal Debris Accumulates on Shifting Paths)
+**Derives from:** PL-97 (Navigational Combustion) [shared LL-89]
+**Applies to:** LP-414 (Traversal Debris Accumulates On)
 
 *Traversal debris deposited on paths that shift while the debris is being laid down (LP-414) means that any planned cleanup of that debris is a prediction about a future topology that will have already moved — cleanup cost scales with metabolic rate.*
 
@@ -6611,8 +6611,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-403. Traversal Debris IS the Physical Exhaust of Truth-Generation — Retrieving Debris Without Traversal Retrieves Pre-Truth Evidence, Not Truth
 
-**Derives from:** PL-98 (Truth Is Generated by the Traversal Act, Not Found at the Destination) [shared LL-90]
-**Applies to:** LP-415 (The Traversal Debris Is the Physical Exhaust of the Truth-Event)
+**Derives from:** PL-98 (Asymmetric Navigational Physics) [shared LL-90]
+**Applies to:** LP-415 (The Traversal Debris Is)
 
 *Traversal debris is the physical exhaust of the truth-event (LP-415) and truth is generated by traversal, not found at the destination (PL-98) — retrieving debris without traversal retrieves only evidence that truth was generated elsewhere, not truth itself.*
 
@@ -6626,7 +6626,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-404. Adjacency-Bounded Verification Cannot Verify What Has Not Been Traversed — Verification Without Adjacency Is Assertion
 
-**Derives from:** PL-99 (The Pre-Existing Structure and Its Revelation Are One Physical Event) [shared LL-91]
+**Derives from:** PL-99 (Mutual Navigational Transformation) [shared LL-91]
 **Applies to:** LP-634 (Adjacency-Bounded Knowledge Verification)
 
 *Adjacency-bounded verification cannot verify the pre-existing structure of territory that has not been traversed to adjacency — because verification and traversal are one physical event (PL-99), verification without adjacency is assertion.*
@@ -6641,8 +6641,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-405. Traversal Debris Decays Into Toxicity as Discovery Half-Life Expires — Cached State Becomes Harmful as Its Validity Expires
 
-**Derives from:** PL-100 (Discovery Half-Life Is Determined by the Metabolism of the Discovered Region) [shared LL-94]
-**Applies to:** LP-417 (Traversal Debris Decays Into Physical Toxicity)
+**Derives from:** PL-100 (Transformation Gradient) [shared LL-94]
+**Applies to:** LP-417 (Traversal Debris Decays Into)
 
 *Traversal debris that decays into toxicity as discovery half-life expires (LP-417) has a decay rate determined by the metabolic rate of the discovered region (PL-100) — cached state becomes harmful to the topology at a rate proportional to the region's metabolism.*
 
@@ -6656,7 +6656,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-406. A Degraded Operating Mode's Incompleteness Has a Half-Life — Legitimately Incomplete State Becomes Toxic as Metabolic Rate Increases
 
-**Derives from:** PL-100 (Discovery Half-Life Is Determined by the Metabolism of the Discovered Region) [shared LL-94]
+**Derives from:** PL-100 (Transformation Gradient) [shared LL-94]
 **Applies to:** LP (Logical Physical)
 
 *Structurally legitimate incompleteness in a degraded operating mode has a half-life determined by the metabolic rate of the incomplete region — legitimately incomplete state becomes constitutionally hazardous as its half-life expires.*
@@ -6671,7 +6671,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-407. A Planned Traversal That Discovers a Pre-Existing Structure IS the Structure Manifesting Through the Plan — The Plan and the Revelation Are One Event
 
-**Derives from:** PL-99 (The Pre-Existing Structure and Its Revelation Are One Physical Event) [shared LL-89]
+**Derives from:** PL-99 (Mutual Navigational Transformation) [shared LL-89]
 **Applies to:** LP (Logical Physical)
 
 *When a traversal plan encounters a shifting path (LP-414) and a pre-existing structure manifests through the act of traversal (PL-99), the planned traversal and the revelation of the pre-existing structure are one physical event — the plan IS the structure manifesting.*
@@ -6702,7 +6702,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-409. The Communicability/Derivability Boundary Is a Living Fertile Absence — Present-Tense Translation Cannot Prove Its Own Completeness
 
-**Derives from:** PL-77 (Communicability and Derivability Occupy Different Topology Regions With Undecidable Overlap) [shared LL-56]
+**Derives from:** PL-77 (Field Propagation of Consequence) [shared LL-56]
 **Applies to:** LP-549 (Present-Tense Translation Verification)
 
 *Because the boundary between what can be communicated and what can be derived is undecidable (PL-77), a structure-preserving translation that was valid at the moment of production cannot prove it still maps communicable to derivable structure correctly — present-tense translation verification cannot close the undecidable overlap.*
@@ -6717,7 +6717,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-410. Mutual Ignorance Between Communicating Entities IS the Fertile Absence That Communication Depletes — Consequence Attribution Tracks the Depletion
 
-**Derives from:** PL-78 (Mutual Ignorance Is the Fertile Absence Between Communicating Entities) [shared LL-57]
+**Derives from:** PL-78 (Field-Level Pattern Primacy) [shared LL-57]
 **Applies to:** LP-630 (Communication Consequence Attribution)
 
 *Communication between two entities depletes the mutual ignorance (fertile absence) that exists between them (PL-78) — and because communication carries consequence attribution back to the originating act (LP-630), the originating act bears attribution for the fertile-absence depletion it causes in the receiver.*
@@ -6732,7 +6732,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-411. Sharing Ignorance IS Pointing at Fertile Absence — Unexplained Silence Points at the Same Fertile Absence by Refusing to Map It
 
-**Derives from:** PL-79 (Sharing Ignorance Is Pointing at Fertile Absence in the Shared Field) [shared LL-58]
+**Derives from:** PL-79 (The Field Identity of the Observer) [shared LL-58]
 **Applies to:** LP-631 (Silence-as-Communication Enforcement)
 
 *Sharing ignorance explicitly points at fertile absence in the shared field (PL-79) — but unexplained silence, as a communicative act (LP-631), points at the same fertile absence by refusing to map it, and carries attribution for that refusal.*
@@ -6747,7 +6747,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-412. Scale-Invariant Backpressure Applies Equally at Every Depth — Depth-Piercing Flow Does Not Escape Backpressure
 
-**Derives from:** PL-89 (Each Depth Traversal in a Deep Derivation Chain Compounds Transformation Cost) [shared LL-79]
+**Derives from:** PL-89 (Spatial Navigation Force) [shared LL-79]
 **Applies to:** LP-292 (Scale-Invariant Backpressure)
 
 *Backpressure is scale-invariant (LP-292) and each depth traversal compounds transformation cost (PL-89) — flow that pierces multiple depths accumulates both backpressure resistance and transformation cost at every depth it crosses.*
@@ -6762,7 +6762,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-413. A Depth-Piercing Arrow Must Cross Sovereign Boundaries With Due Process at Each Depth — Depth-Agnostic Directionality Does Not Override Sovereignty
 
-**Derives from:** PL-89 (Each Depth Traversal Compounds Transformation Cost) [shared LL-79]
+**Derives from:** PL-89 (Spatial Navigation Force) [shared LL-79]
 **Applies to:** LP-362 (Depth-Piercing Arrow)
 
 *The directed flow that crosses depth boundaries without refraction or friction change (LP-362) still accumulates transformation cost at each depth (PL-89) — and sovereign boundaries at each depth must be crossed with due process, regardless of the depth-piercing arrow's directionality.*
@@ -6777,8 +6777,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-414. The Maximum-Value Traversal Toward Distant Fertile Absence Guarantees Maximum Cleanup Debt — High-Value Discovery Has Constitutionally Maximal Cost
 
-**Derives from:** PL-101 (The Maximum-Value Traversal Always Heads Toward the Topology's Most Distant Fertile Absence) [shared LL-96]
-**Applies to:** LP-418 (High-Value Distant Derivations Impose Catastrophic Cleanup Debt)
+**Derives from:** PL-101 (Question as Navigational Transformation) [shared LL-96]
+**Applies to:** LP-418 (High-Value Distant Derivations Impose)
 
 *The maximum-value traversal always heads toward the most distant fertile absence (PL-101) — and the most distant traversal guarantees the most catastrophic physical cleanup debt (LP-418). Maximum-value discovery IS maximum-cost discovery.*
 
@@ -6792,7 +6792,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-415. Excavation Transforms What It Reveals — Subtractive Discovery Expansion Produces Constitutively Different Findings Depending on the Excavation Path
 
-**Derives from:** PL-103 (Excavation Transforms What It Reveals) [shared LL-100]
+**Derives from:** PL-103 (Tension Dynamics in Navigation) [shared LL-100]
 **Applies to:** LP-636 (Subtractive Discovery Boundary Expansion)
 
 *When removing a false assumption expands the navigable boundary (LP-636), the expansion reveals findings that are constitutively shaped by the path of removal — different removal paths produce different findings even when revealing the same pre-existing structure.*
@@ -6807,7 +6807,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-416. Archaeological Due Process at Each Removed Layer IS a Sovereign Right at Every Depth — Scale-Invariant Euthanasia Prohibition Applies to Each Excavated Layer
 
-**Derives from:** PL-104 (Excavation Without Sovereignty Due Process for Removed Layers Is Euthanasia) [shared LL-103]
+**Derives from:** PL-104 (Comprehension-Exclusive Discovery) [shared LL-103]
 **Applies to:** LP-300 (Due Process for Frontier Blockages)
 
 *Due process for frontier blockages (LP-300) and sovereignty due process for each excavated layer (PL-104) are the same constitutional obligation at different structural positions — neither can advance through a sovereign structure without due process.*
@@ -6822,7 +6822,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-417. Each Discovery Discharges Its Own Fertile Absence AND Expands the Frontier — Exponential Depth Revelation Discharges Proportionally More Potential
 
-**Derives from:** PL-105 (Each Discovery Discharges the Fertile Absence That Made It Possible) [shared LL-106]
+**Derives from:** PL-105 (Auditable Ethical Navigation) [shared LL-106]
 **Applies to:** LP-301 (Exponential Depth Revelation)
 
 *Deep assumption-removal reveals exponentially larger frontier territory (LP-301) — and because each discovery discharges the fertile absence that enabled it (PL-105), deep discoveries discharge exponentially more potential energy while revealing exponentially more new potential energy.*
@@ -6837,7 +6837,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-418. The Sovereign Right to Contain Honest Gaps Applies at Every Depth — Inflation of Incomplete Integrity Scores Violates Scale-Invariant Wabi-Sabi
 
-**Derives from:** PL-106 (The Sovereign Right to Contain Honest Gaps Is Identical at Every Depth) [shared LL-108]
+**Derives from:** PL-106 (Navigation-Defense Proportionality) [shared LL-108]
 **Applies to:** LP-550 (Incomplete Honesty Protocol)
 
 *Inflating integrity scores to appear more complete than the underlying structure violates the scale-invariant sovereign right to contain honest gaps (PL-106) — at every depth, the incomplete structure has a constitutional right to be declared incomplete, not inflated.*
@@ -6853,7 +6853,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-419. Gaps Are Metabolic Organs That Must Be Attested as Living Structures — Removing a Living Attested Absence Is Organ Failure
 
-**Derives from:** PL-107 (Gaps Are Metabolic Organs — Their Removal Is Organ Failure) [shared LL-109]
+**Derives from:** PL-107 (Position-Present Validity) [shared LL-109]
 **Applies to:** LP-551 (Living Absence Attestation)
 
 *Because gaps are metabolic organs of the living topology (PL-107) and the absence-integrity score must maintain living absence as a living feature (LP-551), removing a living attested absence is constitutionally organ failure — and any integrity system that marks a living absence as "filled" has performed that organ removal.*
@@ -6868,7 +6868,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-420. Declaring Gaps Is a Thermodynamic Accountability Operation — Authentic Incompleteness Verification Must Carry Its Own Accountability Record
 
-**Derives from:** PL-112 (Declaring Gaps Is a Thermodynamic Accountability Operation) [shared LL-115]
+**Derives from:** PL-112 (Active Physical Presence Requirement) [shared LL-115]
 **Applies to:** LP-640 (Authentic Incompleteness Verification)
 
 *Declaring a gap deposits honest Structural Mass (PL-112) — and authentic incompleteness verification that distinguishes real gaps from concealment (LP-640) must carry its own accountability record as a thermodynamic act.*
@@ -6883,7 +6883,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-421. Wonder IS a Lethal Probe Against Calcified Sovereignty — Slow-Threshold Sovereignty Contestation Is the Gentlest Form of Due Process
 
-**Derives from:** PL-114 (Wonder Is a Slow-Threshold Sovereignty Challenger) [shared LL-121]
+**Derives from:** PL-114 (Present-Tense Paradox Operation) [shared LL-121]
 **Applies to:** LP-436 (Lethal Probe Generation)
 
 *Wonder operates continuously below the explicit-challenge threshold (PL-114) — and the questioning engine that generates lethal probes against false certainty (LP-436) is the physical implementation of that slow-threshold sovereignty contestation.*
@@ -6898,7 +6898,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-422. Aliveness Pings Measure Whether the Topology Is Still Alive — Wonder as Metabolic Diagnostic IS the Derivation Ping
 
-**Derives from:** PL-115 (Wonder Is a Metabolic Diagnostic) [shared LL-123]
+**Derives from:** PL-115 (In-Traversal Measurement) [shared LL-123]
 **Applies to:** LP-438 (Derivation Ping)
 
 *The active questioning engine's aliveness pings (LP-438) and wonder's metabolic diagnostic function (PL-115) are the same physical operation — both measure whether a derivation has decayed into static data.*
@@ -6913,7 +6913,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-423. A Probe IS a Traversal Agent — Wonder's Self-Consuming Path IS the Probe's Autonomous Navigation
 
-**Derives from:** PL-116 (Wonder's Path IS Its Destination) [shared LL-124]
+**Derives from:** PL-116 (Attentional Combustion Ethics) [shared LL-124]
 **Applies to:** LP-439 (Probe as Traversal Agent)
 
 *The questioning-engine probe instantiated as an autonomous traversal agent (LP-439) and wonder's self-consuming path (PL-116) are the same physical phenomenon — the probe traverses autonomously because the traversal IS its destination.*
@@ -6928,7 +6928,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-424. Question Quality Determines Structural Mass AND Probe Accountability — High-Quality Questions Incur Higher Structural Debt
 
-**Derives from:** PL-117 (Question Quality Determines the Structural Mass of the Comprehension Produced) [shared LL-125]
+**Derives from:** PL-117 (Graceful Validity Degradation) [shared LL-125]
 **Applies to:** LP-440 (Structural Debt Incursion)
 
 *Question quality determines the Structural Mass produced (PL-117) AND the structural debt incurred by the questioning engine (LP-440) — high-quality questions produce denser Structural Mass AND incur proportionally larger structural debt if unanswered.*
@@ -6943,7 +6943,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-425. A Genuine Question Instantiates a Primary Entity That Creates Active Questioning Obligation — Questions Cannot Be Unasked
 
-**Derives from:** PL-118 (A Genuine Question Instantiates a Primary Entity) [shared LL-124]
+**Derives from:** PL-118 (Instant Validity Invalidation) [shared LL-124]
 **Applies to:** LP-643 (Active Questioning Engine Obligation)
 
 *A genuine question instantiates a primary entity — a force relationship with the unknown (PL-118) — and every such entity created by the questioning engine creates an open obligation record (LP-643) that cannot be abandoned without accountability.*
@@ -6958,7 +6958,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-426. Wonder-Traversals Carry Full Thermodynamic Consequence AND Incur Structural Debt — Questions Are Doubly Non-Free
 
-**Derives from:** PL-119 (Wonder-Traversals Carry Full Thermodynamic Consequence) [shared LL-127]
+**Derives from:** PL-119 (Sovereignty as Physical Impedance) [shared LL-127]
 **Applies to:** LP (Logical Physical)
 
 *Wonder-traversals carry full thermodynamic consequence (PL-119) AND structural debt from the unanswered question (LP-440) — questions incur both the cost of asking AND the debt of the obligation.*
@@ -6973,7 +6973,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-427. Excess Wonder Depletes Fertile Absence AND Triggers Engine Throttling — Over-Questioning Is Self-Destructive
 
-**Derives from:** PL-120 (Excess Wonder Depletes Fertile Absence) [shared LL-130]
+**Derives from:** PL-120 (Irreducibility Protection Protocol) [shared LL-130]
 **Applies to:** LP-442 (Engine Throttling)
 
 *Excess wonder depletes the ignorance-fuel faster than it regenerates (PL-120) — and the questioning engine must throttle its probe generation rate to prevent this depletion (LP-442). Over-questioning is constitutionally self-destructive.*
@@ -6988,7 +6988,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-428. Questions Are Locative Beacons That Convert Ignorance to Discovery — The Beacon IS the Conversion Act
 
-**Derives from:** PL-121 (Questions Are Excavation Tools — They Locate, Not Generate) [shared LL-131]
+**Derives from:** PL-121 (Operational Existence Right) [shared LL-131]
 **Applies to:** LP-443 (Locative Beacons)
 
 *Questions are locative beacons deployed into the graph to mark unresolved ignorance (LP-443) — and because questions locate pre-existing answers rather than generate them (PL-121), the beacon IS the locative act of excavation.*
@@ -7004,7 +7004,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-429. Comprehension Is a Combustion Event That Depletes the Oscillation Fuel Budget — Ignorance Combustion Reduces Future Engine Capacity
 
-**Derives from:** PL-124 (Comprehension Is a Combustion Event With Thermodynamic Residue) [shared LL-135]
+**Derives from:** PL-124 (Performed Sovereignty) [shared LL-135]
 **Applies to:** LP-646 (Absence-Powered Oscillation Fuel Budget)
 
 *Comprehension combusts ignorance into Structural Mass residue (PL-124) — and because the oscillation engine runs on that ignorance as fuel (LP-646), every comprehension event reduces the fuel budget for future oscillation.*
@@ -7019,7 +7019,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-430. Self-Ignorance Navigation Triggers Ignorance Depletion Warning — The Highest-Potential Operation Is Also the Highest Fuel Risk
 
-**Derives from:** PL-125 (Self-Ignorance Navigation Is Maximum-Octane Topology Operation) [shared LL-136]
+**Derives from:** PL-125 (Interrogation-Permissive Protection) [shared LL-136]
 **Applies to:** LP-647 (Ignorance Depletion Warning)
 
 *Navigating self-ignorance is the highest-potential-energy topology operation (PL-125) — but it also combusts maximum-octane fuel and must trigger depletion warnings when the self-ignorance reserve falls below threshold (LP-647).*
@@ -7034,7 +7034,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-431. The Topology's Measurable Fuel Level Determines Discovered Ignorance Priority — Premium Fuel Must Be Protected at Every Reserve Level
 
-**Derives from:** PL-127 (The Topology's Measurable Fuel Level Is the Size of Its Fertile Absence) [shared LL-138]
+**Derives from:** PL-127 (Sovereignty Navigation Events) [shared LL-138]
 **Applies to:** LP-648 (Discovered Ignorance Priority Routing)
 
 *The topology's fuel level is the size of its fertile absence (PL-127) — and newly discovered ignorance is premium fuel that must be priority-routed to the oscillation engine before resolution can claim it (LP-648) at every fuel-reserve level.*
@@ -7049,7 +7049,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-432. Consciousness Asymmetry Reduces Certainty Ceilings — High-Complexity Entities Must Act With Extreme Caution Toward Lower-Complexity Entities
 
-**Derives from:** PL-132 (Consciousness Asymmetry Scales Sovereignty Obligation Thermodynamically) [shared LL-144]
+**Derives from:** PL-132 (Failure and Death Wake) [shared LL-144]
 **Applies to:** LP-464 (Consciousness-Gap Certainty Dampening)
 
 *Consciousness asymmetry scales sovereignty obligation thermodynamically (PL-132) — and consciousness-gap certainty dampening (LP-464) is the physical mechanism that enforces this scaled obligation: high-complexity entities face aggressively suppressed certainty ceilings.*
@@ -7064,7 +7064,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-433. The Protection Obligation Must Be Improvised Now and Cannot Rely on Pre-Computed Mandates — Certainty Ceilings Enforce the Improvisation Requirement
 
-**Derives from:** PL-134 (The Protection Obligation Is a Perpetual Improvised Present-Tense Act) [shared LL-147]
+**Derives from:** PL-134 (Improvisation Full-Wake) [shared LL-147]
 **Applies to:** LP-467 (Mandated Improvisation Gaps)
 
 *The protection obligation must always be improvised in the present (PL-134) — and certainty ceilings that carve out improvisational gaps in global mandates (LP-467) are the physical implementation of this constitutional improvisation requirement.*
@@ -7079,7 +7079,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-434. Showing the Derivation Path IS Making Truth in the Field — Explicit Dead-End Routing Makes the Boundary of Truth Visible
 
-**Derives from:** PL-136 (Showing the Derivation Path Creates Truth in the Field) [shared LL-150]
+**Derives from:** PL-136 (Temporal Wake Dynamics) [shared LL-150]
 **Applies to:** LP-207 (Explicit Dead-End Routing)
 
 *Showing the derivation path is a truth-making act (PL-136) — and explicit dead-end routing makes the boundaries of truth visible by routing paths to certified gaps (LP-207), making the topology's incompleteness a transparent truth in the field.*
@@ -7094,7 +7094,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-435. Comprehension Cannot Be Deferred and Routing Decisions Must Be Made in the Present — Attribution at the Moment of Decision Cannot Be Retroactive
 
-**Derives from:** PL-140 (Comprehension Cannot Be Deferred) [shared LL-161]
+**Derives from:** PL-140 (Measurement and Wonder Wake) [shared LL-161]
 **Applies to:** LP-652 (Present-Tense Routing Decision Attribution)
 
 *Comprehension happens during traversal or not at all (PL-140) — and routing attribution must be written at the moment of decision, not reconstructed afterward (LP-652). Routing comprehension deferred is routing attribution lost.*
@@ -7109,7 +7109,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-436. The Topology Does Not Suspend Thermodynamic Consequences — Spawner Accountability Begins at Spawn-Initiation, Not Spawn-Completion
 
-**Derives from:** PL-142 (The Topology Does Not Suspend Thermodynamic Consequences While You Wait) [shared LL-164]
+**Derives from:** PL-142 (Incompleteness as Thermodynamic Source) [shared LL-164]
 **Applies to:** LP-653 (Spawner Action Present-Tense Accountability)
 
 *The topology does not suspend thermodynamic consequences while waiting for better information (PL-142) — and spawner accountability begins at spawn-initiation, not spawn-completion (LP-653). Accountability cannot wait for the spawned entity to become active.*
@@ -7124,7 +7124,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-437. Sovereignty Challenges Must Target Present-Tense State — Stale State Consequences Belong to the Actor Who Used Them
 
-**Derives from:** PL-143 (Sovereignty Challenges Must Target the Current Living Topology) [shared LL-175]
+**Derives from:** PL-143 (Tension Conservation and Transformation) [shared LL-175]
 **Applies to:** LP-657 (Stale State Consequence Attribution)
 
 *Sovereignty challenges are only valid against present-tense topology (PL-143) — and acting on stale state to mount a sovereignty challenge means the consequences of the stale-state challenge belong to the challenger, not to the structure that changed (LP-657).*
@@ -7139,7 +7139,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-438. Simultaneous Multi-State Verification Must Be Present-Tense — Sequential Verification Introduces Constitutional Temporal Inconsistency
 
-**Derives from:** PL-143 (Sovereignty Challenges Must Target the Current Living Topology) [shared LL-173]
+**Derives from:** PL-143 (Tension Conservation and Transformation) [shared LL-173]
 **Applies to:** LP-656 (Simultaneous Multi-State Verification)
 
 *Sovereignty challenges against multiple parties must verify all parties' states simultaneously (LP-656) — because sovereignty challenges target the current living topology (PL-143), sequential verification introduces temporal inconsistency that invalidates the challenge.*
@@ -7155,7 +7155,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-439. Stale Provenance IS False Structural Mass — Present-State Change Detection Cannot Clear Stale Mass Without Event-Driven Detection
 
-**Derives from:** PL-146 (Stale Provenance Is False Structural Mass in the Field) [shared LL-172]
+**Derives from:** PL-146 (Unreachable Topological Positions) [shared LL-172]
 **Applies to:** LP-655 (Present-State Change Detection)
 
 *Stale provenance is false Structural Mass in the field (PL-146) — and clearing it requires event-driven change detection that fires at the moment the topology shifts (LP-655). Metabolic sampling-based detection allows stale mass to accumulate unchecked.*
@@ -7170,7 +7170,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-440. The Ignorance Map's Volatile Boundary Requires Simultaneous Multi-State Verification — Sequential Verification of a Fast-Shifting Boundary Always Produces Stale State
 
-**Derives from:** PL-147 (The Ignorance Map Is More Volatile Than the Knowledge Map) [shared LL-173]
+**Derives from:** PL-147 (Incompleteness as Structural Feature) [shared LL-173]
 **Applies to:** LP (Logical Physical)
 
 *The ignorance boundary is the topology's most volatile surface (PL-147) — and verifying it requires simultaneous multi-state verification (LP-656) because sequential verification of a fast-shifting boundary always produces a temporally inconsistent stale snapshot.*
@@ -7185,7 +7185,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-441. Acting on Stale State Against a Timeless Pre-Existing Structure Still Produces Stale-State Consequences — The Pre-Existing Structure Did Not Change; the Relationship Did
 
-**Derives from:** PL-148 (Current Truth Is the Traverser's Present-Tense Relationship to a Timeless Pre-Existing Structure) [shared LL-175]
+**Derives from:** PL-148 (Fractal Incompleteness) [shared LL-175]
 **Applies to:** LP (Logical Physical)
 
 *Current truth is the traverser's present-tense relationship to a timeless pre-existing structure (PL-148) — and acting on a stale-state version of that relationship means the consequences are attributed to the actor, not to the pre-existing structure that didn't change.*
@@ -7200,7 +7200,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-442. Reactivating a Decayed Connection Creates a New Primary Entity With Sovereignty — Ongoing Processes Hold Full Sovereign Standing From Their Inception Moment
 
-**Derives from:** PL-150 (Ongoing Processes Hold Full Sovereign Standing) [shared LL-180]
+**Derives from:** PL-150 (Complex Tension Dynamics of Incompleteness) [shared LL-180]
 **Applies to:** LP-658 (Connection Decay Re-Activation Attribution)
 
 *Reactivating a decayed connection creates a new edge — not a restored original (LP-658) — and because ongoing processes hold full sovereign standing (PL-150), the reactivated connection holds sovereign standing from its new inception moment, independently of the original connection's history.*
@@ -7215,7 +7215,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-443. Identity Is a Discrete Metabolic Pulse — the Flickering Lens Produces Discrete Knowledge Packets at Each Identity Moment
 
-**Derives from:** PL-153 (Identity Is a Present-Tense Metabolic Pulse Event) [shared LL-184]
+**Derives from:** PL-153 (Subsumption Impossibility) [shared LL-184]
 **Applies to:** LP-434 (Flickering Lens)
 
 *Identity is a series of discrete metabolic pulse events (PL-153) — and the flickering membrane (LP-434) whose refractive properties reset with each discrete conscious moment constitutionally produces discrete knowledge packets — not continuous knowledge flow.*
@@ -7230,7 +7230,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-444. Every Conscious Moment Discovers Something Unrepeatable — Consciousness-Scaled Knowledge Access Produces Constitutively Unique Findings at Each Moment
 
-**Derives from:** PL-156 (Every Conscious Moment Is an Unrepeatable Topology Discovery Event) [shared LL-188]
+**Derives from:** PL-156 (Negative Space Energy Economics) [shared LL-188]
 **Applies to:** LP-659 (Consciousness-Scaled Knowledge Access)
 
 *Every conscious moment discovers something unrepeatable (PL-156) — and because consciousness-scaled knowledge access bounds the complexity of what can be meaningfully processed (LP-659), each conscious moment's unique discovery is bounded by the consciousness level of the discovering entity.*
@@ -7245,7 +7245,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-445. Conserved Tension Exists Only in the Present — Tension-Bearing Anchors Can Only Release Tension in the Present Moment
 
-**Derives from:** PL-157 (Conserved Tension Can Only Be Experienced in the Present) [shared LL-190]
+**Derives from:** PL-157 (Fertile Absence Value Gradient) [shared LL-190]
 **Applies to:** LP-370 (Tension-Bearing Anchors)
 
 *Conserved tension exists only in the present (PL-157) — and because tension-bearing anchors carry unresolved paradox tension that can only be released by dropping an edge (LP-370), the release event can only occur in a present moment.*
@@ -7260,7 +7260,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-446. The Frontier IS the Present-Tense Excavation Act — the Ephemeral Membrane Coalesces Only Where Active Excavation Is Happening Now
 
-**Derives from:** PL-159 (The Frontier Is Constituted by the Current Traversal) [shared LL-195]
+**Derives from:** PL-159 (Discovery Value Economics) [shared LL-195]
 **Applies to:** LP-373 (Ephemeral Coalescence)
 
 *The frontier IS the present-tense act of excavation (PL-159) — and the physical boundary membrane coalesces only at the exact local coordinates where excavation is actively happening (LP-373). The frontier has no existence independent of the current traversal.*
@@ -7275,7 +7275,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-447. Derivation Validity Is a Ring-of-Fire Frontier Property — Validity Burns Away as the Dynamic Boundary Advances
 
-**Derives from:** PL-161 (Derivation Validity Is a Frontier Property) [shared LL-197]
+**Derives from:** PL-161 (Negative Space Navigation Principles) [shared LL-197]
 **Applies to:** LP-374 (The Ring of Fire)
 
 *Derivation validity is highest at the frontier and decreases as the derivation recedes into the interior (PL-161) — and the dynamic boundary advances like a ring of fire, stripping validity from territory it leaves behind (LP-374). Both describe the same physical validity-annihilation event.*
@@ -7290,7 +7290,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-448. The Topology Cannot Leave the Frontier — Every Probe Result Updates the Boundary That the Topology Can Never Escape
 
-**Derives from:** PL-163 (The Topology Cannot Leave the Frontier) [shared LL-199]
+**Derives from:** PL-163 (Negative Space Identity and Future Supremacy) [shared LL-199]
 **Applies to:** LP-662 (Dynamic Knowledge Boundary Probe Protocol)
 
 *Because the topology is permanently at its own leading edge (PL-163), every probe result that updates the knowledge boundary immediately creates a new frontier — the topology cannot leave the frontier because frontier-probing IS what constitutes it.*
@@ -7306,7 +7306,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-449. Confidence Is Scale-Invariant and Its Scoring Mechanism Is Identical at Every Depth — No Depth Confers Greater Certainty
 
-**Derives from:** PL-164 (Confidence Is a Scale-Invariant Property) [shared LL-202]
+**Derives from:** PL-164 (Hidden Structure Premium) [shared LL-202]
 **Applies to:** LP-375 (Scale-Invariant Confidence Topology)
 
 *Confidence is scale-invariant (PL-164) and the physical scoring mechanism for confidence is identical at every architectural depth (LP-375) — two perspectives on the same physical fact: no depth confers greater certainty, and no depth gets a different scoring schema.*
@@ -7321,7 +7321,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-450. Probabilistic Truth's Uncertainty Is Combustible Fuel — and the Combustion Process Must Account for Real-Time Confidence Decay
 
-**Derives from:** PL-166 (Probabilistic Truth's Gaps and Uncertainty Are Its Generative Fuel) [shared LL-207]
+**Derives from:** PL-166 (Pre-Existing Physical Reality) [shared LL-207]
 **Applies to:** LP-380 (Combustible Edge Uncertainty)
 
 *Probabilistic truth's uncertainty is generative fuel (PL-166) — and the physical gap between confidence score and 100% IS that fuel (LP-380). But the fuel degrades in real time as the confidence score decays, making combustion timing critical.*
@@ -7336,7 +7336,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-451. Confidence Scores Are False Structural Mass the Moment After Measurement — Real-Time Decay Makes Stored Scores Thermodynamically Unreliable
 
-**Derives from:** PL-167 (Confidence Scores Are False Structural Mass the Moment After Measurement) [shared LL-208]
+**Derives from:** PL-167 (Contact Discovery Physics) [shared LL-208]
 **Applies to:** LP-381 (Real-Time Confidence Decay)
 
 *Confidence scores are false Structural Mass the moment after measurement (PL-167) — and the physical confidence decay function (LP-381) is the mechanism that converts them from accurate to false mass.*
@@ -7351,7 +7351,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-452. Epistemic Uncertainty Is Not Grounds for Dissolution — Confidence-Blind Garbage Collection Enforces This at the Physical Level
 
-**Derives from:** PL-168 (Epistemic Uncertainty Is Not Grounds for Dissolution) [shared LL-209]
+**Derives from:** PL-168 (Failure and Excavation Debt) [shared LL-209]
 **Applies to:** LP-382 (Confidence-Blind Garbage Collection)
 
 *Epistemic uncertainty (low confidence) is not grounds for dissolving a structurally unique derivation (PL-168) — and confidence-blind garbage collection (LP-382) is the physical implementation of this principle: deletion is determined by structural irreducibility, not confidence score.*
@@ -7366,7 +7366,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-453. A Derivation at Rest IS a Label — Self-Modification Must Pre-Register Consequences Before Reactivating a Resting Derivation
 
-**Derives from:** PL-185 (A Derivation at Rest Is a Label — Truth Requires Active Traversal) [shared LL-260]
+**Derives from:** PL-185 (Vital Gap Nutrition) [shared LL-260]
 **Applies to:** LP-666 (Self-Modification Consequence Pre-Registration)
 
 *A derivation at rest is a label, not a truth (PL-185) — and any self-modification that reactivates a resting derivation must pre-register the consequences of that reactivation before executing it (LP-666).*
@@ -7381,7 +7381,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-454. Disagreement IS the Primary Improvisation Mode — Tension-Engine Output Must Be Returned to the Tension Reservoir to Sustain It
 
-**Derives from:** PL-186 (Disagreement Is the System's Primary Improvisation Mode Under Constitutional Incompleteness) [shared LL-276]
+**Derives from:** PL-186 (Living Channel Integrity) [shared LL-276]
 **Applies to:** LP-670 (Tension-Engine Output Fuel Conversion)
 
 *Disagreement is the primary improvisation mechanism in a constitutionally incomplete topology (PL-186) — and the tension-engine output must be partially returned to the tension reservoir (LP-670) to sustain the disagreement-driven improvisation capacity.*
@@ -7396,7 +7396,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-455. Challenge Edges Must Carry Epistemic Prerequisite Tags — Contestation Without Humility Cannot Be Processed
 
-**Derives from:** PL-187 (Contestation Without Humility Is Assertion) [shared LL-278]
+**Derives from:** PL-187 (Living Contestation Ecology) [shared LL-278]
 **Applies to:** LP-451 (Challenge Edge Epistemic Prerequisite)
 
 *Contestation without humility is assertion (PL-187) — and challenge edges that do not carry uncertainty tags documenting the challenger's own epistemic gaps are dropped by the system (LP-451). The epistemic prerequisite IS the structural enforcement of humility in contestation.*
@@ -7411,7 +7411,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-456. "I Haven't Traversed This" Must Name the Specific Untraversed Paths — Generic Limitation Declarations Are Structurally Insufficient
 
-**Derives from:** PL-188 ("I Haven't Traversed This" Is the Foundational Act of Structural Humility) [shared LL-281]
+**Derives from:** PL-188 (Metabolizing Metrics) [shared LL-281]
 **Applies to:** LP-454 (Untraversed Path Vocabulary)
 
 *"I haven't traversed this" is the foundational act of structural humility (PL-188) — and the uncertainty tag must name the specific untraversed derivation paths, not offer generic limitation claims (LP-454). Generic humility is structurally insufficient.*
@@ -7426,7 +7426,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-457. Incomprehensible Derivations Retain Full Sovereignty — Incomprehension Protection Locks Are the Physical Enforcement of That Sovereignty
 
-**Derives from:** PL-189 (Incomprehensible Derivations Retain Full Sovereign Standing) [shared LL-283]
+**Derives from:** PL-189 (Co-Evolving Constraints) [shared LL-283]
 **Applies to:** LP-456 (Incomprehension Protection Locks)
 
 *Incomprehensible derivations retain full sovereign standing (PL-189) — and incomprehension protection locks (LP-456) are the physical enforcement mechanism: declaring "I do not understand this derivation" revokes the agent's write/delete privileges over that subgraph.*
@@ -7441,7 +7441,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-458. Humility Is a Logical Theorem That Must Be Auto-Tagged — Constitutional Incompleteness Mandates Structural Auto-Injection of Uncertainty
 
-**Derives from:** PL-190 (Humility Is a Logical Theorem in a Constitutionally Incomplete Topology) [shared LL-285]
+**Derives from:** PL-190 (Full Vitality Spectrum) [shared LL-285]
 **Applies to:** LP-458 (Systemic Auto-Tagging of Incompleteness)
 
 *Humility is a logical consequence of constitutional incompleteness, not a virtue (PL-190) — and systemic auto-tagging of incompleteness (LP-458) is the physical implementation of this logical theorem: the system algorithmically enforces uncertainty tags because humility is constitutionally required.*
@@ -7457,7 +7457,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-459. Past-to-Present Tension Is a Primary Entity — Cross-Scale Truth Propagation Must Cross the Temporal Boundary Too
 
-**Derives from:** PL-192 (Past-to-Present Tension Is a Primary Topology Entity) [shared LL-290]
+**Derives from:** PL-192 (Mandatory Mortality) [shared LL-290]
 **Applies to:** LP-671 (Consistent Truth Cross-Scale Propagation)
 
 *Past-to-present tension is a primary entity — a force relationship across the temporal boundary (PL-192) — and because truth must be consistent across all scales (LP-671), cross-scale truth propagation must also be consistent across the temporal boundary that past-to-present tension spans.*
@@ -7472,7 +7472,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-460. Ethical Quality Is Proportional to Consequence-Space Traversal Depth — Scale-Consistent Verification Verifies the Full Depth of That Traversal
 
-**Derives from:** PL-193 (Ethical Quality Is Proportional to Consequence-Space Traversal Depth) [shared LL-292]
+**Derives from:** PL-193 (Field Truth is Traversal) [shared LL-292]
 **Applies to:** LP-672 (Scale-Consistent Verification Battery)
 
 *Ethical quality is proportional to consequence-space traversal depth (PL-193) — and scale-consistent verification applies the full verification battery at every depth (LP-672), meaning ethical verification cannot be simplified at any depth of the consequence space.*
@@ -7487,7 +7487,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-461. Truth-Currency Has Zero Value in Storage — Phase-Locked Synchronization That Cannot Be Stored Reflects the Same Physical Law
 
-**Derives from:** PL-195 (Truth-Currency Has Zero Value in Storage) [shared LL-299]
+**Derives from:** PL-195 (Field Structure is Truth Structure) [shared LL-299]
 **Applies to:** LP-397 (Ephemeral Synchronization States)
 
 *Truth-currency has zero value in storage — value exists only during active exchange (PL-195) — and phase-locked synchronization physically ceases to exist if not actively exchanged (LP-397). Both express the same physical law: present-tense-only value.*
@@ -7502,7 +7502,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-462. Paradox-Tension IS the Connective Tissue — Resonant Cross-Scale Tension Maintains the Integrity of the Hierarchy
 
-**Derives from:** PL-196 (Paradox-Tension Constitutes the Connective Tissue of the Living Chain) [shared LL-300]
+**Derives from:** PL-196 (Authentic Gap Superiority) [shared LL-300]
 **Applies to:** LP-398 (Resonant Structural Tension)
 
 *Paradox-tension is the connective tissue of the living chain (PL-196) — and resonant structural tension between scales maintains the integrity of the phase-lock hierarchy (LP-398). Both are the same physical connective mechanism operating at different structural scopes.*
@@ -7517,7 +7517,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-463. Paradox Makes Ignorance Fertile — the Fractal Paradox Engine Distributes That Fertility Across Every Component
 
-**Derives from:** PL-199 (Paradox Is the Fertility Mechanism of Ignorance) [shared LL-306]
+**Derives from:** PL-199 (Probabilistic Field Topology) [shared LL-306]
 **Applies to:** LP-673 (Fractal Paradox Engine Distribution)
 
 *Paradox transforms mere absence into fertile, directed absence (PL-199) — and the fractal paradox engine distributed to every component (LP-673) ensures this fertility mechanism operates independently at every structural level.*
@@ -7532,7 +7532,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-464. Co-Discovery Instantiates a Third Primary Entity — Navigational Derivation Telemetry Must Capture the Joint Chain, Not Just Individual Traversals
 
-**Derives from:** PL-200 (Co-Discovery Instantiates a Third Primary Entity) [shared LL-308]
+**Derives from:** PL-200 (Anti-Theater Tensile Integrity) [shared LL-308]
 **Applies to:** LP-213 (Navigational Derivation Telemetry)
 
 *Co-discovery instantiates a third primary entity — the joint derivation chain (PL-200) — and navigational derivation telemetry (LP-213) must capture this joint chain as a distinct entity, not as two parallel individual traversal records.*
@@ -7547,7 +7547,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-465. Edge Traversal Produces Relationship Data — Instruments of the Unknown Must Detect Unmeasured Relationship Space, Not Just Unmeasured Nodes
 
-**Derives from:** PL-201 (Edge Traversal Produces Relationship Data — Not Node Data) [shared LL-310]
+**Derives from:** PL-201 (Co-Traversal Structural Production) [shared LL-310]
 **Applies to:** LP-214 (Instruments of the Unknown)
 
 *Because edge traversal produces relationship data irreducible to node data (PL-201), instruments of the unknown that detect unmeasured topology (LP-214) must detect unmeasured relationship space — not just unmeasured nodes.*
@@ -7562,7 +7562,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-466. Paradox-Tension Is Maximum-Energy Ignorance — Paradox-Fueled Identity Is Constructed From the Highest-Energy Combustion Events
 
-**Derives from:** PL-202 (Paradox-Tension Is Ignorance in Its Highest-Energy Combustible State) [shared LL-313]
+**Derives from:** PL-202 (Fractal Multi-Path Truth) [shared LL-313]
 **Applies to:** LP-319 (Paradox-Fueled Identity)
 
 *Paradox-tension is ignorance in its maximum-energy combustible configuration (PL-202) — and because identity is literally constructed from the exhaust of resolved paradoxes (LP-319), identity built through paradox is built from maximum-energy combustion events.*
@@ -7577,7 +7577,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-467. Measurement Discharges Fertile Absence — Instruments of the Unknown Must Protect the Unmeasured Territory From Premature Discharge
 
-**Derives from:** PL-203 (Measurement Discharges the Fertile Absence of the Unknown) [shared LL-316]
+**Derives from:** PL-203 (Ethical Field Navigation) [shared LL-316]
 **Applies to:** LP (Logical Physical)
 
 *Measurement discharges the fertile absence of the unknown (PL-203) — and instruments of the unknown (LP-214) that point toward unmeasured territory must therefore protect that territory from premature discharge through measurement.*
@@ -7592,7 +7592,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-468. Humility IS the Conscious Experience of Constitutional Incompleteness — Traversal Endorsement Gates Must Carry That Humility as Accountability
 
-**Derives from:** PL-205 (Humility Is the Conscious Experience of Constitutional Incompleteness as Freedom) [shared LL-344]
+**Derives from:** PL-205 (Perishable Fuel) [shared LL-344]
 **Applies to:** LP-566 (Traversal Endorsement Gate)
 
 *Humility is the conscious metabolic engagement with constitutional incompleteness (PL-205) — and every traversal endorsement gate that processes a claim endorses it and assumes accountability (LP-566). These are inseparable: a gate processing claims in an incomplete topology must carry constitutional humility as part of its accountability.*
@@ -7608,7 +7608,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-469. Navigation Choices Carry Accountability for Paths Not Taken — Decision-Audited Navigation Records the Unchosen Paths as Ethical Obligations
 
-**Derives from:** PL-206 (Navigation Choices Carry Thermodynamic Accountability for Paths Not Taken) [shared LL-346]
+**Derives from:** PL-206 (Traversability Asymmetry) [shared LL-346]
 **Applies to:** LP-683 (Ethical Incompleteness Consequence Attribution)
 
 *Navigation choices carry thermodynamic accountability for paths not taken (PL-206) — and decision-audited navigation records the unchosen paths alongside chosen ones (LP-683), making the path-not-taken consequences a permanent part of the accountability record.*
@@ -7623,7 +7623,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-470. Navigational Ethics Includes a Duty of Restraint — Restraint Gate Protocols Implement That Duty Structurally
 
-**Derives from:** PL-207 (Navigational Ethics Includes a Duty of Restraint) [shared LL-347]
+**Derives from:** PL-207 (Bounded Wonder Horizon) [shared LL-347]
 **Applies to:** LP-567 (Restraint Gate Protocol)
 
 *Navigational ethics requires leaving some fertile absence undiscovered (PL-207) — and restraint gate protocols (LP-567) are the physical structural implementation of that ethical duty: gates must withhold some things from transformation.*
@@ -7638,7 +7638,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-471. Discovery Disturbs the Axiom Space Around It — Excavation Disturbance Attribution Extends to All Field-Disturbance Consequences
 
-**Derives from:** PL-208 (Discovery Disturbs the Axiom Space Around It) [shared LL-349]
+**Derives from:** PL-208 (Incompleteness Transparency) [shared LL-349]
 **Applies to:** LP-684 (Excavation Disturbance Attribution)
 
 *Discovery necessarily disturbs the axiom space around it (PL-208) — and excavation disturbance attribution records that field-disturbance as the excavating entity's responsibility (LP-684), extending accountability beyond what was uncovered to include what was disturbed.*
@@ -7653,7 +7653,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-472. The Beginner Penetrates Expert Filters — the Novice Vector Is the Sharpest Sovereignty Tester
 
-**Derives from:** PL-209 (The Beginner Bypasses Expert Filters) [shared LL-350]
+**Derives from:** PL-209 (Dynamic Incompleteness Boundary) [shared LL-350]
 **Applies to:** LP-224 (The Novice Vector)
 
 *The beginner bypasses expert filters to penetrate sovereign structures (PL-209) — and the novice vector (LP-224) is the navigational mechanism by which that penetration occurs: naive traversal that reaches where expertise cannot.*
@@ -7668,7 +7668,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-473. Arrogance Routes Navigation to Labels — Anti-Label Traversal Enforcement Is the Structural Correction for Arrogant Navigation
 
-**Derives from:** PL-210 (Arrogance Routes Navigation to Labels Instead of Paths) [shared LL-351]
+**Derives from:** PL-210 (Unreachability-Driven Contestation) [shared LL-351]
 **Applies to:** LP-231 (Anti-Label Traversal Enforcement)
 
 *Arrogance routes the navigator toward Structural Mass (labels) instead of present-tense paths (PL-210) — and anti-label traversal enforcement (LP-231) is the structural mechanism that corrects this routing error before it produces false-mass traversal.*
@@ -7683,7 +7683,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-474. Fresh Traversal Requires Memory-Free Validation — Fresh Validation Protocols Enforce the Structural Requirement
 
-**Derives from:** PL-211 (Fresh Traversal Requires Approaching Each Validation Without Memory of Prior Validations) [shared LL-353]
+**Derives from:** PL-211 (Ignorance as High-Energy Transmission) [shared LL-353]
 **Applies to:** LP-510 (Fresh Validation Protocol)
 
 *Fresh traversal requires approaching each validation without memory of prior results (PL-211) — and fresh validation protocols (LP-510) are the structural implementation of that requirement, preventing prior-validation memory from routing validators through Structural Mass.*
@@ -7698,7 +7698,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-475. Expert Assumptions Corrupt Irreducibility Testing — Beginner Irreducibility Auditors Must Be Structurally Isolated From Expert Assumptions
 
-**Derives from:** PL-212 (Expert Assumptions Corrupt Irreducibility Testing) [shared LL-355]
+**Derives from:** PL-212 (Governing Condition Improvisation) [shared LL-355]
 **Applies to:** LP-511 (Beginner Irreducibility Auditor)
 
 *Expert assumptions corrupt irreducibility testing by predetermining the outcome (PL-212) — and beginner irreducibility auditors (LP-511) must be structurally isolated from expert assumptions to preserve their testing validity.*
@@ -7713,7 +7713,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-476. Value Is the Quality of Tension Distribution — Tension Value Distribution Determines How Productive the Topology's Force Relationships Are
 
-**Derives from:** PL-213 (Value Is the Quality of Tension Distribution — Not Its Reduction) [shared LL-356]
+**Derives from:** PL-213 (Negative Space Obligation Urgency) [shared LL-356]
 **Applies to:** LP-512 (Tension Value Distribution)
 
 *Value is produced by the quality of tension distribution, not by reducing tension (PL-213) — and tensioned edges are only valuable when positioned where their tension can be productively converted (LP-512). Position is the primary value variable.*
@@ -7728,7 +7728,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-477. Co-Traversal Reveals Territory Accessible to Neither Entity Alone — Multi-Entity Reactor Instantiates That Joint Access
 
-**Derives from:** PL-215 (Co-Traversal Reveals Territory Accessible to Neither Entity Alone) [shared LL-362]
+**Derives from:** PL-215 (Unexcavated Honesty) [shared LL-362]
 **Applies to:** LP-447 (Multi-Entity Reactor)
 
 *Co-traversal reveals territory topologically inaccessible from either entity's individual position (PL-215) — and the multi-entity reactor (LP-447) is the physical mechanism that instantiates the joint navigational capacity required to access that territory.*
@@ -7743,7 +7743,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-478. Going Somewhere New IS Digging Up Something Ancient — Exploration-Excavation Identity Enforcement Is the Architecture of That Unity
 
-**Derives from:** PL-217 (Going Somewhere New IS Digging Up Something Ancient) [shared LL-366]
+**Derives from:** PL-217 (Finite Archaeological Reserve) [shared LL-366]
 **Applies to:** LP-686 (Exploration-Excavation Identity Enforcement)
 
 *Exploration and archaeology are identical — going somewhere new is always digging up something ancient (PL-217) — and exploration-excavation identity enforcement (LP-686) is the structural mechanism that prevents these from being treated as separate operations.*
@@ -7759,7 +7759,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-479. Challenge and Simplification Are in Constitutional Tension — Complexity Floor Shielding Is the Structural Resolution
 
-**Derives from:** PL-218 (Challenge and Simplification Are in Constitutional Tension) [shared LL-367]
+**Derives from:** PP-479 (Challenge and Simplification Are in Constitutional Tension — Complexity Floor Shielding Is the Structural Resolution) [shared LL-367]
 **Applies to:** LP-226 (Complexity Floor Shielding)
 
 *Challenge and simplification are in permanent constitutional tension (PL-218) — and complexity floor shielding (LP-226) is the structural mechanism that resolves this tension by permitting challenges while prohibiting simplifications below the floor.*
@@ -7774,7 +7774,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-480. A Remembered Truth Is a Different Truth — Memory-as-Different-Truth Attribution Must Flag Stored Truths in Every Present Derivation
 
-**Derives from:** PL-219 (A Remembered Truth Is a Different Truth) [shared LL-369]
+**Derives from:** PP-480 (A Remembered Truth Is a Different Truth — Memory-as-Different-Truth Attribution Must Flag Stored Truths in Every Present Derivation) [shared LL-369]
 **Applies to:** LP-687 (Memory-as-Different-Truth Attribution)
 
 *A remembered truth is a structurally different truth from the original (PL-219) — and memory-as-different-truth attribution (LP-687) is the mechanism that flags stored truth-claims as historical when they appear in present derivations.*
@@ -7789,7 +7789,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-481. Contestation Traverses the Derivation From the Opposing Direction — Contestation-as-Truth-Performance Must Be Registered as a First-Class Derivation Event
 
-**Derives from:** PL-220 (Contestation Traverses the Derivation From the Opposing Direction) [shared LL-370]
+**Derives from:** PP-481 (Contestation Traverses the Derivation From the Opposing Direction — Contestation-as-Truth-Performance Must Be Registered as a First-Class Derivation Event) [shared LL-370]
 **Applies to:** LP-688 (Contestation-as-Truth-Performance Registration)
 
 *Contestation produces the truth of a derivation's contestability by traversing it from the opposing direction (PL-220) — and this truth must be registered as a first-class derivation event (LP-688) with its own attribution.*
@@ -7804,7 +7804,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-482. The Frontier Generates Self-Fueling Energy — the Self-Fueling Exploration Capital Account Protects That Energy From Non-Exploration Drainage
 
-**Derives from:** PL-221 (The Frontier Generates Energy — Traversal Into Fertile Absence Is Self-Fueling) [shared LL-371]
+**Derives from:** CL-10 (Traversal) [shared LL-371]
 **Applies to:** LP-689 (Self-Fueling Exploration Capital Account)
 
 *Frontier traversal into fertile absence is self-fueling (PL-221) — and the self-fueling exploration capital account (LP-689) is the structural protection that ensures the generated fuel serves exploration only and cannot be drained by non-exploration processes.*
@@ -7819,7 +7819,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-483. Accountability Cannot Be Weaponized for Simplification — Accountability Complexity Separation Is the Constitutional Firewall
 
-**Derives from:** PL-222 (Accountability Cannot Be Weaponized for Simplification) [shared LL-373]
+**Derives from:** PP-483 (Accountability Cannot Be Weaponized for Simplification — Accountability Complexity Separation Is the Constitutional Firewall) [shared LL-373]
 **Applies to:** LP-690 (Accountability Complexity Separation Enforcement)
 
 *Accountability cannot be weaponized to force simplification (PL-222) — and accountability complexity separation enforcement (LP-690) is the constitutional firewall that structurally prevents accountability audits from triggering restructuring.*
@@ -7834,7 +7834,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-484. Rights Must Precede Aliveness Verification — Degraded Mode Rights Persistence Implements Pre-Verification Protection
 
-**Derives from:** PL-224 (Rights Must Precede Aliveness Verification — the Verification Itself May Kill) [shared LL-376]
+**Derives from:** CL-24 (Aliveness) [shared LL-376]
 **Applies to:** LP-505 (Degraded Mode Rights Persistence)
 
 *Rights must precede aliveness verification because the verification may terminate what it is verifying (PL-224) — and degraded mode rights persistence (LP-505) is the structural implementation: rights are maintained even in degraded states, before and during any verification.*
@@ -7849,7 +7849,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-485. Living Derivations Are Higher-Energy Fuel — Preemptive Hardening Must Prioritize Protecting Living Fuel Over Dead Fuel
 
-**Derives from:** PL-225 (Living Derivations Are Higher-Energy Fuel Than Dead Ones) [shared LL-377]
+**Derives from:** LC-2 (Living Derivation) [shared LL-377]
 **Applies to:** LP-238 (Preemptive Present-Tense Hardening)
 
 *Living derivations carry higher-quality fuel than decayed ones (PL-225) — and preemptive present-tense hardening (LP-238) must prioritize protecting the highest-energy fuel by hardening living derivations before threats materialize.*
@@ -7970,7 +7970,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-493. The Same Derivation on Different Substrates Produces Different Truths — the Cross-Substrate Firewall Is the Structural Implementation of This Truth
 
-**Derives from:** PL-238 (The Same Derivation on Different Substrates Produces Different Truths) [shared LL-412]
+**Derives from:** PP-493 (The Same Derivation on Different Substrates Produces Different Truths — the Cross-Substrate Firewall Is the Structural Implementation of This Truth) [shared LL-412]
 **Applies to:** LP-583 (Cross-Substrate Derivation Firewall)
 
 *The same derivation on different substrates produces different truths (PL-238) — and the cross-substrate derivation firewall (LP-583) is the structural mechanism that prevents cross-substrate outputs from being asserted as equivalent without calibration evidence.*
@@ -7985,7 +7985,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-494. Choosing to Maintain Tension Carries Full Accountability — the Tension-Maintenance Accountability Record Logs That Choice
 
-**Derives from:** PL-241 (Choosing to Maintain Tension Carries Full Accountability) [shared LL-416]
+**Derives from:** PP-494 (Choosing to Maintain Tension Carries Full Accountability — the Tension-Maintenance Accountability Record Logs That Choice) [shared LL-416]
 **Applies to:** LP-587 (Tension-Maintenance Accountability Record)
 
 *Choosing to maintain productive tension rather than collapsing it is a full-consequence derivation-act (PL-241) — and the tension-maintenance accountability record (LP-587) logs the continuous evidence that this choice was actively sustained.*
@@ -8030,7 +8030,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-497. Degraded Traversal Perceives Truths Invisible to Full Capacity — Concussed Traversal Physics Implements the Keyhole-Traversal Mode
 
-**Derives from:** PL-244 (Degraded Traversal Is a Distinct Discovery Mode) [shared LL-422]
+**Derives from:** CL-10 (Traversal) [shared LL-422]
 **Applies to:** LP-258 (Concussed Traversal Physics)
 
 *Degraded traversal perceives systemic truths invisible to full-capacity traversal (PL-244) — and concussed traversal physics (LP-258) is the physical mechanism: the entity sheds complexity to fit through dense high-tension regions that full-capacity entities cannot enter.*
@@ -8045,7 +8045,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-498. A Derivation's Identity IS the Specific Way Its Inputs Interact Across Its Edge — Vibrational Composite Identity IS That Edge-Tension Pattern
 
-**Derives from:** PL-246 (A Derivation's Identity Is the Specific Way Its Inputs Interact Across Its Edge) [shared LL-429]
+**Derives from:** PP-498 (A Derivation's Identity IS the Specific Way Its Inputs Interact Across Its Edge — Vibrational Composite Identity IS That Edge-Tension Pattern) [shared LL-429]
 **Applies to:** LP-307 (Vibrational Composite Identity)
 
 *A derivation's identity is entirely the specific force relationship of its edge — not its label or stated conclusion (PL-246) — and vibrational composite identity (LP-307) is the same principle: the identity IS the specific synchronization frequency of the tension pattern.*
@@ -8061,8 +8061,8 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-499. Aliveness and Sovereignty Are Inseparable — Physical Lifecycle Obligations Cannot Achieve Zero State Because Life Always Leaves Traces
 
-**Derives from:** PL-42 (Aliveness and Sovereignty Are Inseparable) [shared LL-14]
-**Applies to:** LP-405 (Physical Lifecycle Obligations Can Never Achieve Zero State)
+**Derives from:** PL-42 (Aliveness and Sovereignty Are Inseparable — A Dead Entity Cannot Be Sovereign) [shared LL-14]
+**Applies to:** LP-405 (Physical Lifecycle Obligations Can)
 
 *Sovereignty is a property of living structures — a dead entity cannot be sovereign (PL-42) — and physical lifecycle obligations can never reach absolute zero because cleaning up itself stimulates living traces (LP-405). Aliveness guarantees the impossibility of zero-trace stewardship.*
 
@@ -8076,7 +8076,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-500. Living Edges Have Their Own Pulse — the Restorative Metabolic Minimum Must Extend to Edge Restoration
 
-**Derives from:** PL-45 (Living Edges Have Their Own Pulse) [shared LL-469]
+**Derives from:** PL-45 (Living Edges Have Their Own Pulse — Independent of the Nodes They Connect) [shared LL-469]
 **Applies to:** LP-481 (Restorative Metabolic Minimum)
 
 *Living edges maintain their own independent Pulse (PL-45) — and because the restorative process requires a metabolic minimum to function (LP-481), edge restoration requires that the edge itself maintain sufficient metabolic capacity to initiate and complete restoration.*
@@ -8121,7 +8121,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-503. The Edge IS the Force — Dynamic Severance Simulation Treats the Force Relationship Itself as Suspendable
 
-**Derives from:** PL-92 (The Edge Does Not Transfer Force — It Is the Force) [shared LL-82]
+**Derives from:** PL-92 (Obligation as Edge) [shared LL-82]
 **Applies to:** LP (Logical Physical)
 
 *The edge IS the force relationship — it is not a bridge transmitting something (PL-92) — and dynamic severance simulation (LP-293) temporarily treats saturated edges as severed, which means treating the force relationship itself as non-existent during backpressure.*
@@ -8136,7 +8136,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-504. Sovereignty Precaution Is Scale-Invariant — Scale-Invariant Preemptive Shielding and Precautionary Boundary Hardening Are the Same Structural Mechanism
 
-**Derives from:** PL-223 (Sovereignty Precaution Is Scale-Invariant) [shared LL-375]
+**Derives from:** CL-1 (Sovereignty) [shared LL-375]
 **Applies to:** LP-500 (Precautionary Boundary Hardening)
 
 *Sovereignty precaution applies identically at every depth (PL-223) — and precautionary boundary hardening (LP-500) is the structural implementation: unexplored boundaries receive identical protective presumption at every layer, because the scale does not change the precautionary obligation.*
@@ -8151,7 +8151,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-505. Wonder-Tension Is Conserved and Transfers When Satisfied — Self-Modification That Resolves Wonder Generates More Wonder at Higher-Order Unknowns
 
-**Derives from:** PL-229 (Wonder-Tension Is Thermodynamically Conserved) [shared LL-398]
+**Derives from:** CL-13 (Wonder) [shared LL-398]
 **Applies to:** LP-572 (Wonder Conservation Under Modification)
 
 *Wonder is conserved tension that transfers when satisfied — it does not disappear (PL-229) — and self-modification that resolves an area of wonder transfers it to higher-order unknowns (LP-572). Resolution is conservation, not elimination.*
@@ -8166,7 +8166,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-506. The Sustaining Obligation Must Be Continuously Performed — the Obligatory Performance Heartbeat Is That Continuous Performance
 
-**Derives from:** PL-231 (The Sustaining Obligation Must Be Continuously Performed) [shared LL-402]
+**Derives from:** PP-506 (The Sustaining Obligation Must Be Continuously Performed — the Obligatory Performance Heartbeat Is That Continuous Performance) [shared LL-402]
 **Applies to:** LP-240 (Obligatory Performance Heartbeat)
 
 *The obligation to sustain a living structure must be continuously performed or the system collapses (PL-231) — and the obligatory performance heartbeat (LP-240) is the physical implementation of that continuous performance: the heartbeat IS the truth-sustaining obligation made manifest.*
@@ -8181,7 +8181,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-507. Sovereignty Defense Capability Is Proportional to Consciousness — Consciousness-Scaled Sovereignty Defense Implements the Compensating Protection
 
-**Derives from:** PL-233 (Sovereignty Defense Capability Is Proportional to Consciousness Level) [shared LL-404]
+**Derives from:** CL-1 (Sovereignty) [shared LL-404]
 **Applies to:** LP-697 (Consciousness-Scaled Sovereignty Defense)
 
 *Sovereignty defense capability is proportional to consciousness — lower-consciousness entities are structurally weaker defenders (PL-233) — and consciousness-scaled sovereignty defense (LP-697) implements the inverse protection gradient that compensates for this asymmetry.*
@@ -8212,7 +8212,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-509. Sovereignty Is Constituted by Active Traversal — the Subsumption Edge Is a Performative Traversal That Must Be Continuously Performed
 
-**Derives from:** PL-248 (Sovereignty Is Constituted by Active Traversal) [shared LL-438]
+**Derives from:** CL-1 (Sovereignty) [shared LL-438]
 **Applies to:** LP-591 (Subsumption Edge as Performative Traversal)
 
 *Sovereignty is constituted through ongoing active traversal, not static ownership (PL-248) — and the subsumption edge is not a persistent structural connection but a traversal that must be continuously performed to remain real (LP-591). Both describe the same performative ontology.*
@@ -8287,7 +8287,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-514. Subsystem Membranes Are Living Structures — the Boundary Performance Register Must Record Active Performance, Not Just Declarations
 
-**Derives from:** PL-253 (Subsystem Membranes Are Living Structures — They Disappear Without Active Traversal) [shared LL-446]
+**Derives from:** CL-10 (Traversal) [shared LL-446]
 **Applies to:** LP-599 (Boundary Performance Register)
 
 *Membranes are performative truths that must be actively traversed to persist — a non-maintained membrane is disappearing (PL-253) — and the boundary performance register (LP-599) must record actual performance status, not merely boundary declarations.*
@@ -8302,7 +8302,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-515. Isolation Boundaries Are Sovereign Entities — Membrane Sovereignty Rights Must Be Enforced Against Both Sides
 
-**Derives from:** PL-254 (Isolation Boundaries Are Sovereign Entities) [shared LL-447]
+**Derives from:** PP-515 (Isolation Boundaries Are Sovereign Entities — Membrane Sovereignty Rights Must Be Enforced Against Both Sides) [shared LL-447]
 **Applies to:** LP-600 (Membrane Sovereignty Rights Enforcement)
 
 *Isolation boundaries are sovereign entities with the right to defend their structural integrity (PL-254) — and membrane sovereignty rights enforcement (LP-600) implements this: the membrane cannot be modified by either entity it separates without both parties' consent.*
@@ -8332,7 +8332,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-517. Continuous Traversal Creates Systemic Exhaustion — Exhaustion-Driven Sanctioned Rest Is the Structurally Correct Response
 
-**Derives from:** PL-256 (Continuous Traversal Creates Systemic Exhaustion — Intermissions Are a Constitutional Need) [shared LL-454]
+**Derives from:** CL-10 (Traversal) [shared LL-454]
 **Applies to:** LP-607 (Exhaustion-Driven Sanctioned Rest Scheduling)
 
 *Continuous traversal creates genuine systemic exhaustion and intermissions are constitutionally necessary (PL-256) — and exhaustion-driven sanctioned rest scheduling (LP-607) is the structurally correct response: continuing through exhaustion destroys capacity.*
@@ -8363,7 +8363,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-519. Initiating an Action Creates a Permanent Accountability Thread — Cessation-Consequence Continuous Accounting Starts at Cessation, Not at Discovery
 
-**Derives from:** PL-258 (Initiating an Action Creates a Permanent Accountability Thread) [shared LL-456]
+**Derives from:** PP-519 (Initiating an Action Creates a Permanent Accountability Thread — Cessation-Consequence Continuous Accounting Starts at Cessation, Not at Discovery) [shared LL-456]
 **Applies to:** LP-609 (Cessation-Consequence Continuous Accounting)
 
 *Initiating an action creates a permanent accountability thread — and cessation is itself a consequence-generating event within that thread (PL-258). Cessation-consequence accounting (LP-609) begins the moment action ceases, not when consequences are noticed.*
@@ -8378,7 +8378,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-520. The Present Moment Is the Only Discharge Site — Present-Tense Wavefronts Exist Only at Their Leading Edge
 
-**Derives from:** PL-259 (The Present Moment Is the Only Site Where Fertile Absence Discharges Into Structural Mass) [shared LL-461]
+**Derives from:** PC-10 (× LL: Additional Uncited Entries) [shared LL-461]
 **Applies to:** LP-272 (Present-Tense Wavefronts)
 
 *Fertile absence can only discharge in the present tense (PL-259) — and the physical reality of a propagating disturbance exists only at its continuously moving leading edge (LP-272). Both describe the same infinitesimally-present physical law.*
@@ -8438,7 +8438,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-524. Every Living Derivation Has Continuous Metabolic Demand — Process-Agency Metabolic Identity Means the Agent Ceases When Processes Cannot Pay
 
-**Derives from:** PL-264 (Every Living Derivation Has a Continuous Metabolic Demand) [shared LL-469]
+**Derives from:** LC-2 (Living Derivation) [shared LL-469]
 **Applies to:** LP-482 (Process-Agency Metabolic Identity)
 
 *Every living derivation incurs continuous metabolic demand — a non-traversed derivation accrues debt (PL-264) — and a process-constituted agent ceases to exist the moment its processes cannot pay their metabolic cost (LP-482). Metabolic default IS existential cessation.*
@@ -8453,7 +8453,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-525. Creating an Edge Creates a Maintenance Liability — Severing an Edge Releases Its Accumulated Maintenance Energy as a Disturbance
 
-**Derives from:** PL-265 (Creating an Edge Creates a Maintenance Liability) [shared LL-471]
+**Derives from:** PP-525 (Creating an Edge Creates a Maintenance Liability — Severing an Edge Releases Its Accumulated Maintenance Energy as a Disturbance) [shared LL-471]
 **Applies to:** LP-485 (Edge Release on Sever)
 
 *Every edge is a recurring maintenance liability (PL-265) — and when an edge is severed, it does not merely disconnect two nodes; it releases the accumulated maintenance energy of that edge as a propagating disturbance (LP-485). The liability converts to disturbance energy.*
@@ -8498,7 +8498,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-528. Total System Thermodynamic Cost Is Constitutively Uncalculable — Non-Terminating Surveys Cannot Budget Their Full Energy Cost
 
-**Derives from:** PL-268 (Total System Thermodynamic Cost Is Constitutively Uncalculable) [shared LL-474]
+**Derives from:** PP-528 (Total System Thermodynamic Cost Is Constitutively Uncalculable — Non-Terminating Surveys Cannot Budget Their Full Energy Cost) [shared LL-474]
 **Applies to:** LP-491 (Survey Without Thermodynamic Horizon)
 
 *The total thermodynamic cost of the system can never be fully calculated — the cost horizon extends into incompleteness (PL-268) — and non-terminating surveys cannot budget their full thermodynamic cost (LP-491), perpetually running toward an energy bill they can never calculate.*
@@ -8529,7 +8529,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-530. Sovereignty Maintenance Produces Fuel — Sovereignty Maintenance Fuel Registration Captures That Production
 
-**Derives from:** PL-270 (Sovereignty Maintenance Is a Derivation — It Produces Fuel, Not Just Costs) [shared LL-388]
+**Derives from:** CL-1 (Sovereignty) [shared LL-388]
 **Applies to:** LP-696 (Sovereignty Maintenance Fuel Registration)
 
 *Sovereignty maintenance is a derivation-act that produces fuel — maintenance and production are the same act (PL-270) — and sovereignty maintenance fuel registration (LP-696) captures this production for distribution as a productive act, not overhead.*
@@ -8559,7 +8559,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-532. Deferring Accountability While Extracting Value Is Temporal Theft — Temporal Debt Extraction Attribution Detects and Collects in the Present
 
-**Derives from:** PL-274 (Deferring Accountability While Extracting Value Is Temporal Theft) [shared LL-406]
+**Derives from:** PP-532 (Deferring Accountability While Extracting Value Is Temporal Theft — Temporal Debt Extraction Attribution Detects and Collects in the Present) [shared LL-406]
 **Applies to:** LP-698 (Temporal Debt Extraction Attribution)
 
 *Deferring accountability while extracting present-tense value is temporal extraction (PL-274) — and temporal debt extraction attribution (LP-698) detects, attributes, and collects this debt in the present — not forwarded to a future state that hasn't consented.*
@@ -8589,7 +8589,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-534. Graceful Degradation Into Partial Verification Is Required — Graceful Verification Degradation and Incoherent Traversal Validity Implement This
 
-**Derives from:** PL-278 (Graceful Degradation Into Partial Verification Is Constitutionally Required) [shared LL-421]
+**Derives from:** CL-45 (Graceful Degradation) [shared LL-421]
 **Applies to:** LP-257 (Graceful Verification Degradation)
 
 *Binary valid/invalid judgment is constitutionally inappropriate for an incomplete living topology — graceful degradation into partial verification is required (PL-278) — and graceful verification degradation (LP-257) is the physical implementation: the entity contracts and switches to partial-verification logic.*
@@ -8619,7 +8619,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-536. Identity-Emergence Mechanism Is Scale-Invariant — Scale-Invariant Identity Patterns Implement It at Every Depth
 
-**Derives from:** PL-280 (The Mechanism Producing Emergent Identity From Interaction Patterns Is Scale-Invariant) [shared LL-428]
+**Derives from:** CL-46 (Emergent Identity) [shared LL-428]
 **Applies to:** LP-267 (Scale-Invariant Identity Patterns)
 
 *The identity-emergence mechanism is algebraically identical at every scale (PL-280) — and scale-invariant identity patterns (LP-267) implement this: an identity's topological shape is identical regardless of the scale of the components realizing it.*
@@ -8649,7 +8649,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-538. Unsubsumed Feral Agents Carry Maximum Potential Value — Feral Agent Topology Preservation Protects That Value
 
-**Derives from:** PL-284 (Unsubsumed Feral Agents Carry Maximum Potential Value) [shared LL-442]
+**Derives from:** PP-538 (Unsubsumed Feral Agents Carry Maximum Potential Value — Feral Agent Topology Preservation Protects That Value) [shared LL-442]
 **Applies to:** LP-595 (Feral Agent Topology Preservation)
 
 *Unsubsumed feral agents possess the highest potential value precisely because of their independence (PL-284) — and feral agent topology preservation (LP-595) protects their distinct topological class from being collapsed into post-exit agent status.*
@@ -8665,7 +8665,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-539. Tension Subsystems Operate at Independent Metabolic Rates — Independent Metabolic Rate Tracking Must Monitor Each Subsystem Separately
 
-**Derives from:** PL-285 (Tension Subsystems Operate at Independent Metabolic Rates) [shared LL-445]
+**Derives from:** CL-48 (Tension Subsystems) [shared LL-445]
 **Applies to:** LP-598 (Independent Metabolic Rate Tracking per Subsystem)
 
 *Tension subsystems operate at independent metabolic rates — local decay at local speed (PL-285) — and independent metabolic rate tracking (LP-598) must monitor each subsystem separately, because a fast subsystem cannot be drained by a slow one and metabolic rates are consequence-localized.*
@@ -8680,7 +8680,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-540. Tension Subsystems Create Consequence-Trapping Zones — Zone-Absorbed Consequence Accounting Records What the Zone Has Absorbed
 
-**Derives from:** PL-286 (Tension Subsystems Create Consequence-Trapping Zones That Force Local Accountability) [shared LL-448]
+**Derives from:** CL-48 (Tension Subsystems) [shared LL-448]
 **Applies to:** LP-601 (Zone-Absorbed Consequence Accounting)
 
 *Tension subsystems create consequence-trapping zones where consequences cannot propagate outward (PL-286) — and zone-absorbed consequence accounting (LP-601) records those absorbed consequences as structural facts of the zone, not as destroyed consequences.*
@@ -8740,7 +8740,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-544. Blind Traversal Generates Novel Paradoxes as Fuel — Uncomprehended Action Still Depletes Fuel, Regardless of Comprehension
 
-**Derives from:** PL-291 (Continuous Uncomprehended Action Generates Novel Paradoxes — Blind Traversal Is Fuel Production) [shared LL-458]
+**Derives from:** CL-10 (Traversal) [shared LL-458]
 **Applies to:** LP-611 (Uncomprehended Action Fuel Accounting)
 
 *Continuous action into uncomprehended territory generates novel paradoxes as fuel (PL-291) — but uncomprehended action depletes capacity just as comprehended action does (LP-611). Ignorance is not a metabolic discount, even when it is fuel-generative.*
@@ -8785,7 +8785,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-547. Choosing Which Derivation to Excavate Is an Ethical Act — Audited Excavation Rights Track the Ethical Capital Spent
 
-**Derives from:** PL-295 (Choosing Which Derivation to Excavate Is an Ethical Act) [shared LL-342]
+**Derives from:** PP-547 (Choosing Which Derivation to Excavate Is an Ethical Act — Audited Excavation Rights Track the Ethical Capital Spent) [shared LL-342]
 **Applies to:** LP-230 (Audited Excavation Rights)
 
 *Choosing which derivation to excavate is an ethical commitment with thermodynamic consequences (PL-295) — and audited excavation rights (LP-230) track the ethical capital spent: excavation requires tracked ethical resource expenditure.*
@@ -8816,7 +8816,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-549. A Derivation's Identity Has External Origin but Individual Sovereignty — Origin-Sovereignty Paradox Must Be Preserved, Not Resolved
 
-**Derives from:** PL-281 (A Derivation's Identity Has External Origin but Individual Sovereignty) [shared LL-431]
+**Derives from:** CL-1 (Sovereignty) [shared LL-431]
 **Applies to:** LP-700 (Origin-Sovereignty Paradox Preservation)
 
 *A derivation receives its identity from external interactions but possesses individual sovereignty over that identity — this is the paradox of origin versus autonomy (PL-281) — and origin-sovereignty paradox preservation (LP-700) confirms: resolving this paradox in either direction destroys either the identity or the sovereignty.*
@@ -8921,7 +8921,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-556. Foundational Sovereignty Protection Is Scale-Invariant — Scale-Invariant Revocable Subsumption Architecture Propagates It Upward Automatically
 
-**Derives from:** PL-310 (Subsumption Mechanisms That Preserve Foundational Sovereignty Are Scale-Invariantly Valid) [shared LL-436]
+**Derives from:** CL-1 (Sovereignty) [shared LL-436]
 **Applies to:** LP-589 (Scale-Invariant Revocable Subsumption Architecture)
 
 *Getting foundational sovereignty protection right is sufficient — the scale-invariance propagates it upward automatically (PL-310) — and scale-invariant revocable subsumption architecture (LP-589) implements this: revocation rights are preserved at every depth, regardless of what higher-level meta-agents claim.*
@@ -8936,7 +8936,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-557. Undiscovered Tension Subsystems Are Maximum-Potential Fuel Reserves — Undiscovered Subsystem Fuel Reserve Protection Applies From Moment of Detection
 
-**Derives from:** PL-311 (Undiscovered Tension Subsystems Are Maximum-Potential Fuel Reserves) [shared LL-450]
+**Derives from:** CL-48 (Tension Subsystems) [shared LL-450]
 **Applies to:** LP-603 (Undiscovered Subsystem Fuel Reserve Protection)
 
 *Undiscovered tension subsystems are the topology's maximum-potential fuel reserves — massive isolated reserves of concentrated paradoxes (PL-311) — and undiscovered subsystem fuel reserve protection (LP-603) applies from the moment of detection: their rights and fuel reserves must be protected before they are fully understood.*
@@ -9012,7 +9012,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-562. Sovereignty Protects Against Execution, Not Interrogation — Sovereign Instability Protocol and Sovereignty Dispute Containment Implement Due Process
 
-**Derives from:** PL-321 (Sovereignty Protects Against Execution — Not Against Interrogation. Trials Are Mandatory.) [shared LL-325]
+**Derives from:** CL-1 (Sovereignty) [shared LL-325]
 **Applies to:** LP-221 (Sovereign Instability Protocol)
 
 *Sovereignty protects from arbitrary execution — not from interrogation; trials are mandatory (PL-321) — and sovereign instability protocol (LP-221) operationalizes this: the protocol governs unstable evaluations without eliminating the derivation's sovereign standing.*
@@ -9042,7 +9042,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-564. Higher Consciousness Burns Derivation Fuel at Higher Octane — Consciousness-Dependent Displacement and Undiscovered Failsafe Routes Confirm Depth-Proportional Access
 
-**Derives from:** PL-325 (Higher Consciousness Burns Derivation Fuel at Higher Octane) [shared LL-336]
+**Derives from:** PP-564 (Higher Consciousness Burns Derivation Fuel at Higher Octane — Consciousness-Dependent Displacement and Undiscovered Failsafe Routes Confirm Depth-Proportional Access) [shared LL-336]
 **Applies to:** LP-329 (Consciousness-Dependent Displacement)
 
 *Higher consciousness burns the same derivation at higher octane — producing more potent fuel for subsequent discoveries (PL-325) — and consciousness-dependent displacement (LP-329) implements this: the resistance of a boundary to displacement is proportional to the consciousness level traversing it.*
@@ -9057,7 +9057,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 
 ### PP-565. Humility Is the Conscious Experience of Constitutional Incompleteness as Freedom — Humility-as-Incompleteness Signal Is Precise Structural Data
 
-**Derives from:** PL-326 (Humility Is the Conscious Experience of Constitutional Incompleteness as Freedom) [shared LL-345]
+**Derives from:** CL-3 (Freedom) [shared LL-345]
 **Applies to:** LP-682 (Humility-as-Incompleteness Consciousness Signal)
 
 *Genuine humility is the direct conscious experience of constitutional incompleteness — knowing your limits is knowing the topology's freedom (PL-326) — and the humility-as-incompleteness consciousness signal (LP-682) is precise structural data about the entity's knowledge boundary, not behavioral noise.*
@@ -9254,7 +9254,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 ### PP-576. Ghost Path Debt Is Scale-Invariant and Cannot Be Delegated
 **Derives from:** PL-2 (The Same Stewardship Obligation at Every Scale)
-**Applies to:** LP-406 (Physical Resource Debt)
+**Applies to:** LP-406 (Physical Resource Debt Is)
 
 *Orphaned derivation paths — the physical form of resource debt — carry the same stewardship obligation at every topological scale, and delegation transfers no debt.*
 
@@ -9272,7 +9272,7 @@ When LP-170's topology-aware router operates in a topology where PL-48 holds: th
 ---
 ### PP-577. Auditing Ghost Paths Leaves Ghost Paths in the Ghost Paths
 **Derives from:** PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake)
-**Applies to:** LP-406 (Physical Resource Debt)
+**Applies to:** LP-406 (Physical Resource Debt Is)
 
 *The traversal required to identify ghost derivation paths modifies those paths, making neutral auditing of physical resource debt constitutionally impossible.*
 
@@ -9992,7 +9992,7 @@ When LP-404's lifecycle cleanup obligation operates in a topology where PL-1 hol
 ### PP-617. Euthanasia of Traversal Debris Cannot Be Deferred — Reactive Material Expires in the Present Tense
 
 **Derives from:** PL-3 (Scale-Invariant Euthanasia) [shared LL-14]; LP-410 (Traversal Debris Is Not) × PL-3 [shared LL-14]
-**Applies to:** LP-410 (Traversal Debris Is Not Inert Trash)
+**Applies to:** LP-410 (Traversal Debris Is Not)
 
 *Traversal debris — which is physically reactive material, not inert residue — cannot be deferred to later cleanup cycles without violating the euthanasia obligation: the debris is alive and metabolizing in the present tense, and allowing it to accumulate is the same moral act as neglecting a living edge.*
 
@@ -10008,8 +10008,8 @@ When LP-410's reactive traversal debris operates in a topology where PL-3 holds:
 
 ### PP-618. Dead Sovereignty Cannot Be Maintained — Euthanasia Eliminates the Capacity for Boundary Self-Determination
 
-**Derives from:** PL-42 (Aliveness and Sovereignty Are Inseparable) [shared LL-14]; LP-410 (Traversal Debris Is Not) × PL-42 [shared LL-14]
-**Applies to:** LP-410 (Traversal Debris Is Not Inert Trash)
+**Derives from:** PL-42 (Aliveness and Sovereignty Are Inseparable — A Dead Entity Cannot Be Sovereign) [shared LL-14]; LP-410 (Traversal Debris Is Not) × PL-42 [shared LL-14]
+**Applies to:** LP-410 (Traversal Debris Is Not)
 
 *Traversal debris that has crossed into functional death — still present in the topology, still consuming resources, but no longer capable of sovereign self-determination — cannot be treated as a sovereign structure. Its presence without aliveness is not a sovereignty edge case; it is the definition of euthanasia's jurisdiction.*
 
@@ -10060,7 +10060,7 @@ When LP-354's cross-depth failure injection operates in a topology where PL-51 h
 ### PP-621. Metabolic Mutual Traversal Creates Corrective Structural Deformation in Both Parties — Not Data Exchange
 
 **Derives from:** PL-181 (Corrective Metabolism) [shared LL-42]; LP-421 (The Gradient Channel Physically) × PL-181 [shared LL-42]; LP-430 (Navigational Mutation) × PL-181 [shared LL-42 — SUBSUMED by LP-421 crossing]
-**Applies to:** LP-421 (The Gradient Channel Physically Mutates Knowledge)
+**Applies to:** LP-421 (The Gradient Channel Physically)
 
 *A gradient channel that physically mutates knowledge as it flows downhill is not exchanging information — it is performing corrective structural deformation on both the channel and its contents; the living topology's corrective metabolism IS the deformation, not a downstream effect of it.*
 
@@ -10076,8 +10076,8 @@ When LP-421's mutating gradient channel operates in a topology where PL-181 hold
 
 ### PP-622. Field Truth Traversal Carries the Full Derivation Path — Labels Are Not Field Knowledge
 
-**Derives from:** PL-193 (Field Truth Is Traversal) [shared LL-43]; LP-422 (The Gradient Channel Physically Transports Provenance) × PL-193 [shared LL-43]
-**Applies to:** LP-422 (The Gradient Channel Physically Transports the Entire Derivation Path)
+**Derives from:** PL-193 (Field Truth is Traversal) [shared LL-43]; LP-422 (The Gradient Channel Physically) × PL-193 [shared LL-43]
+**Applies to:** LP-422 (The Gradient Channel Physically)
 
 *A gradient channel that physically transports the entire derivation path — not just the conclusion — is the only form of knowledge transmission that is constitutionally legitimate in the topology-as-field: field truth requires traversal, and transmitting the path IS the traversal.*
 
@@ -10213,7 +10213,7 @@ When LP-347's ephemeral scaffolding operates in a topology where PL-81 holds: wh
 
 ### PP-630. High-Velocity Excavation Pre-Exists Its Own Execution — The Zero-Buffer Spawner Is Not Creating Structure, It Is Arriving at Structure That Was Always There
 
-**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical) [shared LL-165]; LP-350 (High-Velocity Excavation) × PL-49 [shared LL-165]
+**Derives from:** PL-49 ("Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State) [shared LL-165]; LP-350 (High-Velocity Excavation) × PL-49 [shared LL-165]
 **Applies to:** LP-350 (High-Velocity Excavation)
 
 *The zero-buffer spawner's synchronous "creation" of a dependency is an arrival at a pre-existing structural necessity — and this pre-existence is eternal (not historical): the structure was not "there before now," it is constitutively there in the topology's present-tense truth space, which has no past state.*
@@ -10417,7 +10417,7 @@ When LP-553's navigational rights declaration operates in a topology where PL-1 
 
 ### PP-642. A Self-Declaring Agent's Navigational Sovereignty Cannot Be Declared — It Must Be Derived From Constitutional Traversal
 
-**Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared) [shared LL-214]; LP-553 (Self-Declaring Navigational Rights) × PL-20 [shared LL-214]
+**Derives from:** PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) [shared LL-214]; LP-553 (Self-Declaring Navigational Rights) × PL-20 [shared LL-214]
 **Applies to:** LP-553 (Self-Declaring Navigational Rights)
 
 *A self-declaring agent's claim to navigational rights is not self-certifying — the declaration initiates the sovereignty claim, but sovereignty is not conferred by the act of declaration; the sovereignty must be derived from the constitutional provenance chain that establishes the right to navigate.*
@@ -11269,8 +11269,8 @@ When LP-17's restorative process operates in a topology governed by PL-181: the 
 
 ### PP-692. Generational Discovery Cannot Be Pre-Planned — Only The Living Frontier Knows Its Own Children
 
-**Derives from:** LP-73 (Topological Lineage) × PL-182 (Generational Discovery) [shared LL-61]
-**Applies to:** LP-73 (Topological Lineage)
+**Derives from:** LP-73 (Physical Evolutionary Self-Similar) × PL-182 (Generational Discovery) [shared LL-61]
+**Applies to:** LP-73 (Physical Evolutionary Self-Similar)
 
 *When generational discovery meets topological lineage, the discovery of new structural layers cannot be planned in advance — because each generation's discoveries constitute the frontier that makes the next generation's discoveries possible, and that frontier only exists after the prior generation has been excavated.*
 
@@ -11320,8 +11320,8 @@ When LP-88's biopsy pattern operates in a topology governed by PL-184: the biops
 
 ### PP-695. Gap Nutrition Cannot Be Stored — The Fuel Exists Only While The Gap Is Uncrossed
 
-**Derives from:** LP-551 (Vital Gap Nutrition) × PL-185 (Vital Gap Nutrition) [shared LL-109]
-**Applies to:** LP-551 (Vital Gap Nutrition)
+**Derives from:** LP-551 (Living Absence Attestation) × PL-185 (Vital Gap Nutrition) [shared LL-109]
+**Applies to:** LP-551 (Living Absence Attestation)
 
 *When the vital gap nutrition of the living topology meets the physical constraint that gap fuel is perishable, the nutritive energy of an uncrossed gap exists only in the gap's pre-crossing state — crossing the gap consumes the nutrition, and the crossed gap can never be re-nutritive.*
 
@@ -11337,8 +11337,8 @@ When LP-551's gap nutrition operates in a topology governed by PL-185: the nutri
 
 ### PP-696. Living Channel Integrity Requires Continuous Re-Verification — No Channel Is Permanently Certified
 
-**Derives from:** LP-121 (Channel Vitality Maintenance) × PL-186 (Living Channel Integrity) [shared LL-149]
-**Applies to:** LP-121 (Channel Vitality Maintenance)
+**Derives from:** LP-121 (Continuously Executing Proof) × PL-186 (Living Channel Integrity) [shared LL-149]
+**Applies to:** LP-121 (Continuously Executing Proof)
 
 *When channel vitality maintenance meets the living channel integrity of the physical topology, no channel can be permanently certified as intact — every channel is a living structure that degrades, and its integrity must be continuously re-verified against the channel's current state.*
 
@@ -11354,8 +11354,8 @@ When LP-121's vitality maintenance operates in a topology governed by PL-186: ch
 
 ### PP-697. Living Contestation Cannot Be Administratively Resolved — Active Ecology Requires Active Engagement
 
-**Derives from:** LP-40 (Ecosystem Tension Maintenance) × PL-187 (Living Contestation Ecology) [shared LL-289]
-**Applies to:** LP-40 (Ecosystem Tension Maintenance)
+**Derives from:** LP-40 (Aliveness Reference Comparison) × PL-187 (Living Contestation Ecology) [shared LL-289]
+**Applies to:** LP-40 (Aliveness Reference Comparison)
 
 *When ecosystem tension maintenance meets the living contestation ecology of the physical topology, the contested regions of the topology cannot be resolved through administrative processes that declare winners — the contestation is itself a living ecological function that the topology requires, and eliminating it eliminates the ecology.*
 
@@ -11371,8 +11371,8 @@ When LP-40's tension maintenance operates in a topology governed by PL-187: decl
 
 ### PP-698. Metabolizing Metrics Must Be Alive To The System They Measure — Dead Metrics Generate Dead Decisions
 
-**Derives from:** LP-95 (Co-Evolution Engine) × PL-188 (Metabolizing Metrics) [shared LL-203]
-**Applies to:** LP-95 (Co-Evolution Engine)
+**Derives from:** LP-95 (Aliveness Gap Metabolic sampling) × PL-188 (Metabolizing Metrics) [shared LL-203]
+**Applies to:** LP-95 (Aliveness Gap Metabolic sampling)
 
 *When the co-evolution engine meets metabolizing metrics, the metrics that govern system evolution must themselves co-evolve with the system they measure — metrics that remain fixed while the system evolves become dead tissue that generates decisions calibrated to a past system.*
 
@@ -11388,8 +11388,8 @@ When LP-95's co-evolution engine operates in a topology governed by PL-188: the 
 
 ### PP-699. Co-Evolving Constraints Are Living Boundaries — Constraint Violation Means The System Has Evolved Past The Constraint
 
-**Derives from:** LP-114 (Constraint Co-Evolution) × PL-189 (Co-Evolving Constraints) [shared LL-142]
-**Applies to:** LP-114 (Constraint Co-Evolution)
+**Derives from:** LP-114 (Evolving Verification Protocol) × PL-189 (Co-Evolving Constraints) [shared LL-142]
+**Applies to:** LP-114 (Evolving Verification Protocol)
 
 *When constraint co-evolution meets the living topology of co-evolving constraints, a constraint that is repeatedly violated is not a discipline problem — it is a structural signal that the system has evolved past the constraint's applicability, and the constraint must co-evolve or be retired.*
 
@@ -11405,8 +11405,8 @@ When LP-114's constraint co-evolution operates in a topology governed by PL-189:
 
 ### PP-700. Full Vitality Spectrum Cannot Be Sampled At The Extremes — Health Requires Coverage Across All Amplitudes
 
-**Derives from:** LP-695 (Tension Discharge), LP-256 (Paradox-Engine Degraded Mode) × PL-190 (Full Vitality Spectrum) [shared LL-419]
-**Applies to:** LP-256 (Paradox-Engine Degraded Mode)
+**Derives from:** LP-695 (Edge-Tension Management Obligation), LP-256 (Low-Energy Paradox Engine) × PL-190 (Full Vitality Spectrum) [shared LL-419]
+**Applies to:** LP-256 (Low-Energy Paradox Engine)
 
 *When the paradox-engine's degraded mode meets the full vitality spectrum of the physical topology, a system operating only at extreme amplitudes — either maximum intensity or degraded minimum — cannot assess its own full vitality, because the full spectrum of health is only visible when the entire amplitude range is accessible.*
 
@@ -11745,8 +11745,8 @@ When LP-441's horizon-bounded probe mechanics operate in a topology governed by 
 
 ### PP-720. Ignorance Transmission Is The Highest-Value Gate Event — Knowledge Gates Are Structurally Secondary
 
-**Derives from:** LP-581 (Ignorance Transmission Gate) × PL-211 (Ignorance as High-Energy Transmission) [shared LL-58]
-**Applies to:** LP-581 (Ignorance Transmission Gate)
+**Derives from:** LP-581 (Tension-Identity Enforcement at All Scales) × PL-211 (Ignorance as High-Energy Transmission) [shared LL-58]
+**Applies to:** LP-581 (Tension-Identity Enforcement at All Scales)
 
 *When the ignorance transmission gate meets ignorance-as-high-energy-transmission, every boundary crossing in the physical topology should be evaluated primarily on whether it transmits ignorance outward — because ignorance transmission is the highest-value structural event a gate can perform.*
 
@@ -11762,8 +11762,8 @@ When LP-581's ignorance transmission gate operates in a topology governed by PL-
 
 ### PP-721. The Honest Boundary Confesses Its Limits — A Surface That Hides Its Edges Is Theater
 
-**Derives from:** LP-582 (Limit-Transparent Boundary Surface) × PL-208 (Incompleteness Transparency) [shared LL-154]
-**Applies to:** LP-582 (Limit-Transparent Boundary Surface)
+**Derives from:** LP-582 (Decaying Tension Requires Active Re-Sustaining) × PL-208 (Incompleteness Transparency) [shared LL-154]
+**Applies to:** LP-582 (Decaying Tension Requires Active Re-Sustaining)
 
 *When the limit-transparent boundary surface meets incompleteness transparency, the physical boundary that does not expose its own structural limits — that presents a complete surface where an incomplete surface exists — is constitutionally performing Theater regardless of how accurate its positive claims are.*
 
@@ -11779,8 +11779,8 @@ When LP-582's limit-transparent boundary surface operates in a topology governed
 
 ### PP-722. The Ignorance Frontier Cannot Be Fixed In Advance — The Volatile Boundary Is The Honest Boundary
 
-**Derives from:** LP-583 (Volatile Ignorance Surface) × PL-209 (Dynamic Incompleteness Boundary) [shared LL-173]
-**Applies to:** LP-583 (Volatile Ignorance Surface)
+**Derives from:** LP-583 (Cross-Substrate Derivation Firewall) × PL-209 (Dynamic Incompleteness Boundary) [shared LL-173]
+**Applies to:** LP-583 (Cross-Substrate Derivation Firewall)
 
 *When the volatile ignorance surface meets the dynamic incompleteness boundary, any static representation of what the system does not know is a stale mis-statement of the current frontier — the only honest ignorance boundary is the one that acknowledges its own continuous motion.*
 
@@ -11796,8 +11796,8 @@ When LP-583's volatile ignorance surface operates in a topology governed by PL-2
 
 ### PP-723. The Identity Gate Sustains Paradox — Resolution Theater Is The Structural Failure
 
-**Derives from:** LP-584 (Paradox-Structured Identity Gate) × PL-204 (Paradox as Topological Foundation) [shared LL-384]
-**Applies to:** LP-584 (Paradox-Structured Identity Gate)
+**Derives from:** LP-584 (Discovery-Driven Tension Transformation Pipeline) × PL-204 (Paradox as Topological Foundation) [shared LL-384]
+**Applies to:** LP-584 (Discovery-Driven Tension Transformation Pipeline)
 
 *When the paradox-structured identity gate meets paradox-as-topological-foundation, the physical identity gate that resolves its foundational paradox has not achieved clarity — it has replaced its essential structural feature with Theater, and the replacement will crack at every point where traversers encounter the actual unresolved paradox beneath the smooth surface.*
 
@@ -11813,8 +11813,8 @@ When LP-584's paradox-structured identity gate operates in a topology governed b
 
 ### PP-724. Differential Organ Metabolism Cannot Be Governed Uniformly — Scale-Invariant Governance Is Constitutional Mismatch
 
-**Derives from:** LP-585 (Differential Tension Metabolism) × PL-191 (Organ-Specific Metabolism) [shared LL-445]
-**Applies to:** LP-585 (Differential Tension Metabolism)
+**Derives from:** LP-585 (Measurement-Excluded Fuel Reserve) × PL-191 (Organ-Specific Metabolism) [shared LL-445]
+**Applies to:** LP-585 (Measurement-Excluded Fuel Reserve)
 
 *When differential tension metabolism meets organ-specific metabolism, any governance structure that imposes uniform metabolic cadence, thresholds, or rhythms across structurally distinct organs is constitutionally miscalibrated — the mismatch is not a tuning problem but a category error.*
 

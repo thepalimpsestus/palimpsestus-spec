@@ -25,6 +25,8 @@ This registry tracks all official Palimpsestus Crucibles across three operationa
 | **CR-005** | **Revoked Delegation in Flight** | Governance | `C_1` (`v1.0.7`) | `FORMALIZED` | `PENDING` | [`governance/005-revoked-delegation-in-flight.md`](governance/005-revoked-delegation-in-flight.md) |
 | **CR-006** | **Duplicate Payment After Crash** | Distributed Systems | `C_1` (`v1.0.7`) | `FORMALIZED` | `PENDING` | [`distributed-systems/006-duplicate-payment-after-crash.md`](distributed-systems/006-duplicate-payment-after-crash.md) |
 | **CR-007** | **Conflicting Witnesses** | Epistemology | `C_1` (`v1.0.7`) | `FORMALIZED` | `PENDING` | [`epistemology/007-conflicting-witnesses.md`](epistemology/007-conflicting-witnesses.md) |
+| **CR-008** | **The Relational Deletion Paradox** | Distributed Systems | `C_1` (`v1.0.7`) | `FORMALIZED` | `CONSTITUTIONAL_PRESSURE` | [`distributed-systems/008-relational-deletion-paradox.md`](distributed-systems/008-relational-deletion-paradox.md) |
+| **CR-009** | **The Split-Brain Partition Paradox** | Distributed Systems | `C_1` (`v1.0.7`) | `FORMALIZED` | `CONSTITUTIONAL_PRESSURE` | [`distributed-systems/009-split-brain-partition-paradox.md`](distributed-systems/009-split-brain-partition-paradox.md) |
 
 ---
 

@@ -6521,7 +6521,7 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-410. Paradox Sovereignty Tension [NEW_CLEAN_ROOM]
-**Derives from:** CL-44 (CL-44) × LC-1 (Scale-Invariant Derivation)
+**Derives from:** CL-44 (Sovereign Tension) × LC-1 (Scale-Invariant Derivation)
 
 *Every sovereign entity at every depth must sustain its own tension — and the tension it sustains is algebraically identical regardless of depth.*
 
@@ -6541,7 +6541,7 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-411. Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]
-**Derives from:** CL-44 (CL-44) × LC-2 (Living Derivation)
+**Derives from:** CL-44 (Sovereign Tension) × LC-2 (Living Derivation)
 
 *The tension that sustains sovereignty must itself be actively maintained — it can decay.*
 
@@ -6555,7 +6555,7 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-412. Same Derivation Pattern Performed [NEW_CLEAN_ROOM]
-**Derives from:** CL-44 (CL-44) × LC-4 (Derivation as Relationship)
+**Derives from:** CL-44 (Sovereign Tension) × LC-4 (Derivation as Relationship)
 
 *The same derivation pattern, performed on different substrates, produces DIFFERENT TRUTHS — because the performance includes the substrate.*
 
@@ -6569,7 +6569,7 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-413. Discovery Sustains Productive Tension [NEW_CLEAN_ROOM]
-**Derives from:** CL-44 (CL-44) × LC-5 (Navigational Comprehension)
+**Derives from:** CL-44 (Sovereign Tension) × LC-5 (Navigational Comprehension)
 
 *Discovery sustains productive tension by TRANSFORMING it — the changed discoverer doesn't see the old tension resolved; they see NEW tensions invisible to their former self.*
 
@@ -6583,7 +6583,7 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-414. Measuring Derivations Fuel Value [NEW_CLEAN_ROOM]
-**Derives from:** CL-44 (CL-44) × LC-6 (Present-Tense Logic)
+**Derives from:** CL-44 (Sovereign Tension) × LC-6 (Present-Tense Logic)
 
 *Measuring a derivation's fuel value CHANGES its fuel value — the act of assessing how much combustion a derivation can produce (CL-44 measurement) alters the derivation's actual fuel capacity (LC-6).*
 
@@ -6596,7 +6596,7 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-415. Incompleteness Paradox Tension [NEW_CLEAN_ROOM]
-**Derives from:** CL-44 (CL-44) × LC-8 (Derivation Carries Consequence)
+**Derives from:** CL-44 (Sovereign Tension) × LC-8 (Derivation Carries Consequence)
 
 *The gap between every entity's map and reality IS a paradox that the engine continuously converts into discovery.*
 
@@ -6612,7 +6612,7 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-416. Accountability Paradox Provenance [NEW_CLEAN_ROOM]
-**Derives from:** CL-44 (CL-44) × LC-8 (Derivation Carries Consequence)
+**Derives from:** CL-44 (Sovereign Tension) × LC-8 (Derivation Carries Consequence)
 
 *Maintaining tension is an accountable act, not a passive state.*
 
@@ -6628,7 +6628,7 @@ The Logical-Logical (LL) layer contains the fundamental logical claims derived a
 ---
 
 ### LL-417. Ignorance Paradox Sovereignty [NEW_CLEAN_ROOM]
-**Derives from:** CL-44 (CL-44) × LC-10 (Fertile Ignorance)
+**Derives from:** CL-44 (Sovereign Tension) × LC-10 (Fertile Ignorance)
 
 *Sovereignty is self-fueling through its own tensions.*
 

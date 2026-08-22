@@ -16,7 +16,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ## IP Derivations
 
 ### IP-1. `bind-edge` (`process:bind-edge`)
-**Derives from:** IL-1 (Graph Node Scribe — `role:scribe`)
+**Derives from:** IL-1 (Graph Node Scribe (`role:scribe`))
 **Applies to:** `PP-1` [primary], `PP-2`, `PP-4`, `PP-6`, `PP-8`, `PP-11`, `PP-16`, `PP-25`, `PP-38`, `PP-41`, `PP-42`, `PP-46`, `PP-58`, `PP-60`, `PP-104`, `PP-114`, `PP-281`, `PP-724`
 
 *The Scribe executes `bind-edge` to physically instantiate and commit a directed force-relationship edge between graph nodes, embedding structural provenance and establishing bilateral stewardship accountability across the physical substrate.*
@@ -42,7 +42,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-2. `bind-node` (`process:bind-node`)
-**Derives from:** IL-1 (Graph Node Scribe — `role:scribe`)
+**Derives from:** IL-1 (Graph Node Scribe (`role:scribe`))
 **Applies to:** `PP-1`, `PP-3`, `PP-5`, `PP-7`, `PP-9`, `PP-11`, `PP-26`, `PP-36`, `PP-43`, `PP-47`, `PP-49`, `PP-50`, `PP-61`, `PP-69`, `PP-75`, `PP-76`, `PP-96`, `PP-103`, `PP-127`, `PP-133`, `PP-175`, `PP-176`, `PP-177`, `PP-182`, `PP-189`, `PP-191`, `PP-198`, `PP-199`, `PP-212`
 
 *The Scribe executes `bind-node` to physically write and bind a new structural node entity into the topological memory of the graph, establishing its metabolic boundary, provenance spine, and identity attestation.*
@@ -68,7 +68,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-3. `inspect-frontier` (`process:inspect-frontier`)
-**Derives from:** IL-2 (Target State Inspector — `role:inspector`)
+**Derives from:** IL-2 (Target State Inspector (`role:inspector`))
 **Applies to:** `PP-10` [primary], `PP-16`, `PP-21`, `PP-43`, `PP-46`, `PP-50`, `PP-65`, `PP-67`, `PP-72`, `PP-121`, `PP-122`, `PP-136`, `PP-138`, `PP-140`, `PP-141`, `PP-143`, `PP-145`, `PP-263`
 
 *The Inspector executes `inspect-frontier` to scan and probe the unmapped boundary topology of an active system, measuring its current permeability gradient and surfacing unexcavated discovery potential.*
@@ -92,7 +92,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-4. `inspect-state` (`process:inspect-state`)
-**Derives from:** IL-2 (Target State Inspector — `role:inspector`)
+**Derives from:** IL-2 (Target State Inspector (`role:inspector`))
 **Applies to:** `PP-1`, `PP-8`, `PP-9`, `PP-15`, `PP-21`, `PP-23`, `PP-38`, `PP-44`, `PP-45`, `PP-60`, `PP-61`, `PP-69`, `PP-72`, `PP-75`, `PP-98`, `PP-120`, `PP-132`, `PP-137`, `PP-172`, `PP-175`, `PP-176`, `PP-189`, `PP-193`, `PP-276`
 
 *The Inspector executes `inspect-state` to evaluate the present-tense topological state of a target entity, auditing its structural mass, metabolic pulse, and physical compliance against constitutional invariants.*
@@ -117,13 +117,13 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-5. `traverse-edge` (`process:traverse-edge`)
-**Derives from:** IL-3 (Topology Traverser — `role:traverser`)
-**Applies to:** `PP-14` [primary], `PP-5`, `PP-16`, `PP-21`, `PP-56`, `PP-58`, `PP-72`, `PP-84`, `PP-105`, `PP-118`, `PP-124`, `PP-125`, `PP-150`, `PP-154`, `PP-188`, `PP-215`, `PP-217`, `PP-242`
+**Derives from:** IL-3 (Locative Topology Traverser (`role:traverser`))
+**Applies to:** `PP-14` [primary] (Protocol Accountability Provenance Predates Protocol Establishment), `PP-5`, `PP-16`, `PP-21`, `PP-56`, `PP-58`, `PP-72`, `PP-84`, `PP-105`, `PP-118`, `PP-124`, `PP-125`, `PP-150`, `PP-154`, `PP-188`, `PP-215`, `PP-217`, `PP-242`
 
 *The Traverser executes `traverse-edge` to physically navigate across a directed edge relationship in the graph, transferring attention, depositing structural wake, and maintaining connection metabolism.*
 
 **Substrate Invariant Rules:**
-- **PP-14 Invariant (Navigation-Wake Equivalence):** `traverse-edge` IS a navigation that deposits physical wake in the traversed edge; read-only or zero-impact edge crossings are physically impossible.
+- **PP-14 Invariant (Protocol Accountability Provenance):** `traverse-edge` operates under pre-existing protocol accountability; $T=0$ clean-slate traversal without antecedent provenance is a physical impossibility.
 - **PP-56 Invariant (Active Maintenance Traversal):** Executing `traverse-edge` acts as metabolic maintenance for the edge; withdrawing traversal triggers scale-invariant edge decay and existence-collapse.
 - **PP-84 Invariant (Ghost Edge Right Exercise):** Navigating a ghost edge via `traverse-edge` exercises present-tense active standing; inherent standing persists statically, but active standing requires the traversal event.
 - **PP-105 Invariant (Traverser Context Mutation):** `traverse-edge` mutates the traverser's operational context while preserving universal scale-invariant validity rules across depth boundaries.
@@ -142,7 +142,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-6. `traverse-focus` (`process:traverse-focus`)
-**Derives from:** IL-3 (Topology Traverser — `role:traverser`)
+**Derives from:** IL-3 (Locative Topology Traverser (`role:traverser`))
 **Applies to:** `PP-194` [primary], `PP-196`, `PP-197`, `PP-204`, `PP-210`, `PP-211`, `PP-217`, `PP-246`, `PP-270`
 
 *The Traverser executes `traverse-focus` to dynamically shift, re-center, and constrain the active attention window across local graph neighborhoods, bounding excavation bandwidth to match structural capacity.*
@@ -165,7 +165,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-7. `invoke-skill` (`process:invoke-skill`)
-**Derives from:** IL-4 (Skill Executor — `role:executor`)
+**Derives from:** IL-4 (Consequence-Bearing Skill Executor (`role:executor`))
 **Applies to:** `PP-113` [primary], `PP-114`, `PP-146`, `PP-179`, `PP-182`, `PP-206`, `PP-212`, `PP-232`
 
 *The Executor runs `invoke-skill` to execute a Level 5 Capability Primitive tool against physical computing resources, binding input arguments, triggering state transformations, and enforcing tool stewardship.*
@@ -187,7 +187,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-8. `execute-absorption` (`process:execute-absorption`)
-**Derives from:** IL-4 (Skill Executor — `role:executor`)
+**Derives from:** IL-4 (Consequence-Bearing Skill Executor (`role:executor`))
 **Applies to:** `PP-178` [primary], `PP-116`, `PP-117`, `PP-206`, `PP-208`, `PP-224`, `PP-275`
 
 *The Executor runs `execute-absorption` to metabolize and absorb generated execution error mass, structural wake, and consequence liabilities directly into the physical mass of the executing entity.*
@@ -209,7 +209,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-9. `search-frontier` (`process:search-frontier`)
-**Derives from:** IL-5 (Frontier & Gap Searcher — `role:searcher`)
+**Derives from:** IL-5 (Topological Frontier Searcher (`role:searcher`))
 **Applies to:** `PP-121` [primary], `PP-122`, `PP-136`, `PP-140`, `PP-141`, `PP-263`
 
 *The Searcher executes `search-frontier` to traverse unmapped discovery edges, evaluating structural opportunity gradients and identifying candidate expansion nodes.*
@@ -231,7 +231,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-10. `search-gap` (`process:search-gap`)
-**Derives from:** IL-5 (Frontier & Gap Searcher — `role:searcher`)
+**Derives from:** IL-5 (Topological Frontier Searcher (`role:searcher`))
 **Applies to:** `PP-131` [primary], `PP-132`, `PP-133`, `PP-134`, `PP-176`, `PP-199`
 
 *The Searcher executes `search-gap` to locate, delineate, and evaluate negative-space structural gaps across the topology, calculating confidence scores and mapping absence boundaries.*
@@ -253,8 +253,8 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-11. `purge-edge` (`process:purge-edge`)
-**Derives from:** IL-6 (Topology Purger — `role:purger`)
-**Applies to:** `PP-36` [primary], `PP-16`, `PP-25`, `PP-34`, `PP-58`, `PP-127`, `PP-175`, `PP-198`
+**Derives from:** IL-6 (Structural Edge Purger (`role:purger`))
+**Applies to:** `PP-36` [primary], `PP-16`, `PP-25`, `PP-34`, `PP-58`, `PP-127`, `PP-175` (The Thermodynamic Receipt Must Disclose Degradation), `PP-198` (Self-Declaration at Every Scale Meets the Same Validity Standard)
 
 *The Purger executes `purge-edge` to dissolve an existing directed force-relationship edge, applying thermodynamic due process, logging destruction provenance, and balancing field energy.*
 
@@ -264,19 +264,20 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-25 Invariant (Coupled Consequence Cascade):** Dissolving an edge via `purge-edge` releases stored edge energy, triggering coupled thermodynamic consequence cascades across adjacent topology nodes.
 - **PP-34 Invariant (Residual Edge Scar Deposit):** `purge-edge` deposits a structural destruction scar in local memory; an edge cannot be erased without leaving a forensic dissolution record.
 - **PP-127 Invariant (Destruction Provenance Logging):** `purge-edge` embeds an immutable destruction record into the system's provenance ledger, recording the purger identity, timestamp, and dissolution justification.
-- **PP-198 Invariant (Mass Balance Accounting):** Energy released during `purge-edge` must be balanced across neighboring nodes; edge mass cannot be annihilated out of existence.
+- **PP-175 Invariant (Degradation Disclosure):** Edge destruction receipts MUST disclose structural degradation in local energy registers.
+- **PP-198 Invariant (Self-Declaration Validity Standard):** Edge dissolution provenance declarations MUST meet uniform validity standards across all scale depths.
 
 **Corollaries:** 
 (1) `purge-edge` cannot be executed silently or instantaneously: edge dissolution consumes energy and generates forensic destruction wake (PP-127).
 (2) Purging an edge with accumulated navigation debt releases additional entropy into adjacent field boundaries (PP-58).
-(3) The destruction record created by `purge-edge` remains permanently traversable as an archaeological marker (PP-175).
+(3) The destruction record created by `purge-edge` discloses thermodynamic degradation as permanent provenance (PP-175).
 
 **Irreducibility:** IL-6 (`role:purger`) alone establishes the logical mandate to remove graph edges, but does not specify that edge dissolution requires thermodynamic due process or deposits immutable destruction provenance. PP-36 and PP-127 establish physical substrate laws regarding due process and destruction ledgers, but do not define the edge purge procedure. Only their physical collision forces `purge-edge` into existence as an irreducible physical process.
 
 ---
 
 ### IP-12. `purge-interface` (`process:purge-interface`)
-**Derives from:** IL-6 (Topology Purger — `role:purger`)
+**Derives from:** IL-6 (Structural Edge Purger (`role:purger`))
 **Applies to:** `PP-36` [primary], `PP-1`, `PP-48`, `PP-114`, `PP-127`
 
 *The Purger executes `purge-interface` to dismantle and revoke an entity's exposed communication interface or gate membrane, enforcing boundary decay and logging structural retraction.*
@@ -298,7 +299,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-13. `pulse-field` (`process:pulse-field`)
-**Derives from:** IL-7 (Metabolic Field Pulser — `role:pulser`)
+**Derives from:** IL-7 (Metabolic Aliveness Pulser (`role:pulser`))
 **Applies to:** `PP-1` [primary], `PP-7`, `PP-9`, `PP-35`, `PP-64`, `PP-132`, `PP-212`
 
 *The Pulser executes `pulse-field` to emit periodic metabolic heartbeats across local graph neighborhoods, driving structural energy cycles and sustaining active entity standing.*
@@ -321,7 +322,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-14. `pulse-rhythm` (`process:pulse-rhythm`)
-**Derives from:** IL-7 (Metabolic Field Pulser — `role:pulser`)
+**Derives from:** IL-7 (Metabolic Aliveness Pulser (`role:pulser`))
 **Applies to:** `PP-64` [primary], `PP-35`, `PP-40`, `PP-68`, `PP-189`
 
 *The Pulser executes `pulse-rhythm` to calibrate, modulate, and phase-lock oscillation cadences across hierarchical scale layers, aligning local pulses with systemic macro-rhythms.*
@@ -343,7 +344,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-15. `grant-permeability` (`process:grant-permeability`)
-**Derives from:** IL-8 (Membrane & Policy Granter — `role:granter`)
+**Derives from:** IL-8 (Endogenous Permeability Granter (`role:granter`))
 **Applies to:** `PP-10` [primary], `PP-1`, `PP-5`, `PP-46`, `PP-48`, `PP-189`
 
 *The Granter executes `grant-permeability` to dynamically adjust and grant permeability access ranges across node membranes, responding to present-tense metabolic challenge proofs.*
@@ -366,7 +367,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-16. `grant-policy` (`process:grant-policy`)
-**Derives from:** IL-8 (Membrane & Policy Granter — `role:granter`)
+**Derives from:** IL-8 (Endogenous Permeability Granter (`role:granter`))
 **Applies to:** `PP-38` [primary], `PP-39`, `PP-41`, `PP-45`, `PP-114`, `PP-232`
 
 *The Granter executes `grant-policy` to bind and enforce unified policy rules directly at gate interfaces, ensuring policy checks and physical enforcement occur as a single indivisible event.*
@@ -388,7 +389,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-17. `instantiate-absence` (`process:instantiate-absence`)
-**Derives from:** IL-9 (Topology Instantiator — `role:instantiator`)
+**Derives from:** IL-9 (Absence Record Instantiator (`role:instantiator`))
 **Applies to:** `PP-131` [primary], `PP-17`, `PP-36`, `PP-133`, `PP-176`, `PP-199`
 
 *The Instantiator executes `instantiate-absence` to physically materialize negative-space structural gaps as formal gap nodes, binding absence claims and preserving topological field integrity.*
@@ -411,7 +412,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-18. `instantiate-asset` (`process:instantiate-asset`)
-**Derives from:** IL-9 (Topology Instantiator — `role:instantiator`)
+**Derives from:** IL-9 (Absence Record Instantiator (`role:instantiator`))
 **Applies to:** `PP-1` [primary], `PP-8`, `PP-25`, `PP-50`, `PP-103`, `PP-113`
 
 *The Instantiator executes `instantiate-asset` to physically materialize a structural asset or capability primitive into the topology, allocating physical mass, locking provenance lineage, and attaching frontier gate membranes.*
@@ -434,7 +435,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-19. `attest-seal` (`process:attest-seal`)
-**Derives from:** IL-10 (Attestation & Integrity Seal Attestor — `role:attestor`)
+**Derives from:** IL-10 (Cryptographic Provenance Attestor (`role:attestor`))
 **Applies to:** `PP-21` [primary], `PP-8`, `PP-9`, `PP-15`, `PP-137`, `PP-206`
 
 *The Attestor executes `attest-seal` to physically seal and certify a topological state or boundary contract, depositing cryptographic attestation mass and locking the state against un-accounted mutation.*
@@ -457,7 +458,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-20. `attest-lineage` (`process:attest-lineage`)
-**Derives from:** IL-10 (Attestation & Integrity Seal Attestor — `role:attestor`)
+**Derives from:** IL-10 (Cryptographic Provenance Attestor (`role:attestor`))
 **Applies to:** `PP-8` [primary], `PP-9`, `PP-14`, `PP-127`, `PP-178`, `PP-208`
 
 *The Attestor executes `attest-lineage` to audit, verify, and attest the unbroken provenance lineage chain of an entity from its pre-existing structural necessity down to present-tense state.*
@@ -480,7 +481,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-21. `excavate-strata` (`process:excavate-strata`)
-**Derives from:** IL-11 (Archaeological Excavator — `role:excavator`)
+**Derives from:** IL-11 (Archaeological Bedrock Excavator (`role:excavator`))
 **Applies to:** `PP-194` [primary], `PP-16`, `PP-121`, `PP-122`, `PP-196`, `PP-270`
 
 *The Excavator executes `excavate-strata` to dig down through historical graph strata, uncovering embedded provenance layers and exposing pre-existing structural necessity.*
@@ -503,7 +504,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-22. `excavate-wake` (`process:excavate-wake`)
-**Derives from:** IL-11 (Archaeological Excavator — `role:excavator`)
+**Derives from:** IL-11 (Archaeological Bedrock Excavator (`role:excavator`))
 **Applies to:** `PP-118` [primary], `PP-14`, `PP-23`, `PP-125`, `PP-275`
 
 *The Excavator executes `excavate-wake` to isolate, analyze, and metabolize residual execution wake and forensic deformation scars embedded across local topology.*
@@ -525,7 +526,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-23. `broadcast-signal` (`process:broadcast-signal`)
-**Derives from:** IL-12 (Field Broadcaster — `role:broadcaster`)
+**Derives from:** IL-12 (Ambient Signal Wake Broadcaster (`role:broadcaster`))
 **Applies to:** `PP-16` [primary], `PP-7`, `PP-9`, `PP-14`, `PP-42`, `PP-198`
 
 *The Broadcaster executes `broadcast-signal` to radiate structural field state signals outward into surrounding topology, propagating present-tense state declarations without capturing entity ownership.*
@@ -548,7 +549,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-24. `broadcast-density` (`process:broadcast-density`)
-**Derives from:** IL-12 (Field Broadcaster — `role:broadcaster`)
+**Derives from:** IL-12 (Ambient Signal Wake Broadcaster (`role:broadcaster`))
 **Applies to:** `PP-224` [primary], `PP-10`, `PP-16`, `PP-46`, `PP-263`
 
 *The Broadcaster executes `broadcast-density` to advertise local consequence topology density gradients, signaling accountability load levels and discovery pull across the network.*
@@ -570,7 +571,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-25. `anchor-key` (`process:anchor-key`)
-**Derives from:** IL-13 (Identity & Authority Anchor — `role:anchor`)
+**Derives from:** IL-13 (Identity Key Anchor (`role:anchor`))
 **Applies to:** `PP-8` [primary], `PP-14`, `PP-45`, `PP-200`, `PP-206`, `PP-208`
 
 *The Anchor executes `anchor-key` to physically anchor a cryptographic identity key into the topology, establishing its immutable provenance spine and self-controlled permission boundary.*
@@ -593,7 +594,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-26. `anchor-authority` (`process:anchor-authority`)
-**Derives from:** IL-13 (Identity & Authority Anchor — `role:anchor`)
+**Derives from:** IL-13 (Identity Key Anchor (`role:anchor`))
 **Applies to:** `PP-11` [primary], `PP-13`, `PP-177`, `PP-182`, `PP-242`
 
 *The Anchor executes `anchor-authority` to bind sovereign authority boundaries across stewardship edges, deriving standing from live edge traversal rather than static permission grants.*
@@ -615,7 +616,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-27. `cleanse-corruption` (`process:cleanse-corruption`)
-**Derives from:** IL-14 (Topology Cleanser — `role:cleanser`)
+**Derives from:** IL-14 (Sepsis Cleanser (`role:cleanser`))
 **Applies to:** `PP-3` [primary], `PP-2`, `PP-25`, `PP-60`, `PP-178`, `PP-199`
 
 *The Cleanser executes `cleanse-corruption` to detect, isolate, and neutralize self-compounding lie-mass, structural paradoxes, and algebraic invariance violations across local graph neighborhoods.*
@@ -638,7 +639,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-28. `cleanse-scar` (`process:cleanse-scar`)
-**Derives from:** IL-14 (Topology Cleanser — `role:cleanser`)
+**Derives from:** IL-14 (Sepsis Cleanser (`role:cleanser`))
 **Applies to:** `PP-34` [primary], `PP-16`, `PP-23`, `PP-67`, `PP-127`
 
 *The Cleanser executes `cleanse-scar` to audit, stabilize, and metabolize forensic deformation scars embedded in provenance records without erasing historical truth.*
@@ -660,7 +661,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-29. `negotiate-contract` (`process:negotiate-contract`)
-**Derives from:** IL-15 (Multi-Party Contract Negotiator — `role:negotiator`)
+**Derives from:** IL-15 (Multi-Party Contract Negotiator (`role:negotiator`))
 **Applies to:** `PP-25` [primary], `PP-4`, `PP-26`, `PP-60`, `PP-175`, `PP-198`
 
 *The Negotiator executes `negotiate-contract` to parameterize, mint, and bind stateful contract edges between sovereign actors, establishing shared metabolic obligations and edge tension limits.*
@@ -683,7 +684,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-30. `negotiate-limits` (`process:negotiate-limits`)
-**Derives from:** IL-15 (Multi-Party Contract Negotiator — `role:negotiator`)
+**Derives from:** IL-15 (Multi-Party Contract Negotiator (`role:negotiator`))
 **Applies to:** `PP-10` [primary], `PP-1`, `PP-7`, `PP-61`, `PP-145`
 
 *The Negotiator executes `negotiate-limits` to negotiate and re-calibrate permeability limits and structural tolerance bounds between adjacent sovereign entities under tension.*
@@ -705,7 +706,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-31. `acquire-scope` (`process:acquire-scope`)
-**Derives from:** IL-16 (Resource & Scope Acquirer — `role:acquirer`)
+**Derives from:** IL-16 (Entity Scope Acquirer (`role:acquirer`))
 **Applies to:** `PP-1` [primary], `PP-10`, `PP-45`, `PP-120`, `PP-189`, `PP-206`
 
 *The Acquirer executes `acquire-scope` to claim, bind, and lock operational execution scope across a graph neighborhood, evaluating physical adjacency and present-tense metabolic standing.*
@@ -728,7 +729,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-32. `acquire-lock` (`process:acquire-lock`)
-**Derives from:** IL-16 (Resource & Scope Acquirer — `role:acquirer`)
+**Derives from:** IL-16 (Entity Scope Acquirer (`role:acquirer`))
 **Applies to:** `PP-38` [primary], `PP-15`, `PP-21`, `PP-44`, `PP-137`
 
 *The Acquirer executes `acquire-lock` to establish a present-tense physical lock on a target node or edge, preventing concurrent mutation while absorbing kinetic locking energy.*
@@ -750,7 +751,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-33. `release-scope` (`process:release-scope`)
-**Derives from:** IL-17 (Resource & Scope Releaser — `role:releaser`)
+**Derives from:** IL-17 (Entity Scope Releaser (`role:releaser`))
 **Applies to:** `PP-198` [primary], `PP-14`, `PP-25`, `PP-36`, `PP-48`
 
 *The Releaser executes `release-scope` to unbind and surrender an active execution scope, returning physical resources to the surrounding field and logging scope release wake.*
@@ -772,7 +773,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-34. `release-mass` (`process:release-mass`)
-**Derives from:** IL-17 (Resource & Scope Releaser — `role:releaser`)
+**Derives from:** IL-17 (Entity Scope Releaser (`role:releaser`))
 **Applies to:** `PP-198` [primary], `PP-125`, `PP-178`, `PP-206`, `PP-275`
 
 *The Releaser executes `release-mass` to shed, metabolize, or evaporate excess structural mass and historical consequence weight from an entity's physical boundary.*
@@ -794,7 +795,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-35. `mutate-schema` (`process:mutate-schema`)
-**Derives from:** IL-18 (State & Schema Mutator — `role:mutator`)
+**Derives from:** IL-18 (Node Blueprint Mutator (`role:mutator`))
 **Applies to:** `PP-8` [primary], `PP-1`, `PP-9`, `PP-36`, `PP-113`, `PP-208`
 
 *The Mutator executes `mutate-schema` to evolve, transform, or re-structure entity schema contracts while maintaining unbroken provenance continuity and metabolic sovereignty.*
@@ -817,7 +818,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-36. `mutate-stress` (`process:mutate-stress`)
-**Derives from:** IL-18 (State & Schema Mutator — `role:mutator`)
+**Derives from:** IL-18 (Node Blueprint Mutator (`role:mutator`))
 **Applies to:** `PP-40` [primary], `PP-21`, `PP-35`, `PP-61`, `PP-145`
 
 *The Mutator executes `mutate-stress` to inject, redistribute, or amplify structural stress vectors within local topology, driving adaptive mutation and surfacing hidden boundary vulnerabilities.*
@@ -839,7 +840,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-37. `rebalance-stress` (`process:rebalance-stress`)
-**Derives from:** IL-19 (Stress & Tension Rebalancer — `role:rebalancer`)
+**Derives from:** IL-19 (Structural Tension Rebalancer (`role:rebalancer`))
 **Applies to:** `PP-25` [primary], `PP-35`, `PP-40`, `PP-68`, `PP-125`, `PP-198`
 
 *The Rebalancer executes `rebalance-stress` to dissipate localized stress concentrations, redistributing structural load evenly across adjacent graph edges to prevent catastrophic rupture.*
@@ -862,7 +863,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-38. `rebalance-tension` (`process:rebalance-tension`)
-**Derives from:** IL-19 (Stress & Tension Rebalancer — `role:rebalancer`)
+**Derives from:** IL-19 (Structural Tension Rebalancer (`role:rebalancer`))
 **Applies to:** `PP-145` [primary], `PP-10`, `PP-16`, `PP-46`, `PP-61`
 
 *The Releaser executes `rebalance-tension` to calibrate and equalize field tension gradients across membrane boundaries, maintaining structural equilibrium without violating sovereign standing.*
@@ -884,7 +885,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-39. `quarantine-membrane` (`process:quarantine-membrane`)
-**Derives from:** IL-20 (Fault & Paradox Quarantiner — `role:quarantiner`)
+**Derives from:** IL-20 (Infected Membrane Quarantiner (`role:quarantiner`))
 **Applies to:** `PP-3` [primary], `PP-4`, `PP-10`, `PP-36`, `PP-46`, `PP-199`
 
 *The Quarantiner executes `quarantine-membrane` to seal a dynamic quarantine membrane around a corrupted or paradoxical graph neighborhood, blocking lie-mass propagation without erasing the node.*
@@ -907,7 +908,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-40. `quarantine-isolation` (`process:quarantine-isolation`)
-**Derives from:** IL-20 (Fault & Paradox Quarantiner — `role:quarantiner`)
+**Derives from:** IL-20 (Infected Membrane Quarantiner (`role:quarantiner`))
 **Applies to:** `PP-36` [primary], `PP-1`, `PP-11`, `PP-25`, `PP-127`
 
 *The Quarantiner executes `quarantine-isolation` to sever active stewardship edges connected to a quarantined entity, isolating its physical mass while logging the isolation event in the destruction ledger.*
@@ -929,7 +930,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-41. `deflect-trajectory` (`process:deflect-trajectory`)
-**Derives from:** IL-21 (Gravitational Vector Deflector — `role:deflector`)
+**Derives from:** IL-21 (Gravitational Vector Deflector (`role:deflector`))
 **Applies to:** `PP-21` [primary], `PP-8`, `PP-9`, `PP-25`, `PP-60`, `PP-127`
 
 *The Deflector executes `deflect-trajectory` to calculate trajectory deflection and momentum adjustments for execution paths traversing near high-density data clusters, managing field drag.*
@@ -952,7 +953,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-42. `deflect-mass` (`process:deflect-mass`)
-**Derives from:** IL-21 (Gravitational Vector Deflector — `role:deflector`)
+**Derives from:** IL-21 (Gravitational Vector Deflector (`role:deflector`))
 **Applies to:** `PP-8` [primary], `PP-14`, `PP-16`, `PP-178`, `PP-208`
 
 *The Deflector executes `deflect-mass` to adjust actor operational momentum and shed structural mass drag accumulated during high-density field interactions.*
@@ -974,7 +975,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-43. `resonate-field` (`process:resonate-field`)
-**Derives from:** IL-22 (Harmonic Field Resonator — `role:resonator`)
+**Derives from:** IL-22 (Topological Frequency Resonator (`role:resonator`))
 **Applies to:** `PP-64` [primary], `PP-16`, `PP-35`, `PP-40`, `PP-68`
 
 *The Resonator executes `resonate-field` to establish harmonic field resonance across graph neighborhoods, driving constructive energy amplification while locking scale phase alignment.*
@@ -996,7 +997,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-44. `resonate-frequency` (`process:resonate-frequency`)
-**Derives from:** IL-22 (Harmonic Field Resonator — `role:resonator`)
+**Derives from:** IL-22 (Topological Frequency Resonator (`role:resonator`))
 **Applies to:** `PP-64` [primary], `PP-35`, `PP-68`, `PP-189`, `PP-212`
 
 *The Resonator executes `resonate-frequency` to tune and lock entity oscillation frequencies to systemic carrier waves, synchronizing validity windows and identity re-declarations.*
@@ -1018,7 +1019,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-45. `audit-scar` (`process:audit-scar`)
-**Derives from:** IL-23 (System Auditor — `role:auditor`)
+**Derives from:** IL-23 (Traversal Scar Auditor (`role:auditor`))
 **Applies to:** `PP-16` [primary], `PP-23`, `PP-34`, `PP-67`, `PP-127`, `PP-178`
 
 *The Auditor executes `audit-scar` to inspect, measure, and audit forensic deformation scars embedded in local graph memory, verifying scar integrity without altering historical truth.*
@@ -1041,7 +1042,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-46. `audit-lineage` (`process:audit-lineage`)
-**Derives from:** IL-23 (System Auditor — `role:auditor`)
+**Derives from:** IL-23 (Traversal Scar Auditor (`role:auditor`))
 **Applies to:** `PP-8` [primary], `PP-9`, `PP-14`, `PP-114`, `PP-178`, `PP-208`
 
 *The Auditor executes `audit-lineage` to trace, verify, and attest the complete provenance lineage chain of an entity from its pre-existing necessity root down to present-tense state.*
@@ -1064,7 +1065,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-47. `ignite-field` (`process:ignite-field`)
-**Derives from:** IL-24 (Metabolic Igniter — `role:igniter`)
+**Derives from:** IL-24 (Metabolic Fuel Igniter (`role:igniter`))
 **Applies to:** `PP-1` [primary], `PP-16`, `PP-35`, `PP-40`, `PP-224`
 
 *The Igniter executes `ignite-field` to inject initial metabolic energy into a dormant or newly instantiated graph neighborhood, igniting living field dynamics and activating consequence pull.*
@@ -1086,7 +1087,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-48. `ignite-metabolism` (`process:ignite-metabolism`)
-**Derives from:** IL-24 (Metabolic Igniter — `role:igniter`)
+**Derives from:** IL-24 (Metabolic Fuel Igniter (`role:igniter`))
 **Applies to:** `PP-1` [primary], `PP-9`, `PP-35`, `PP-68`, `PP-212`
 
 *The Igniter executes `ignite-metabolism` to ignite, start, and verify the internal metabolic evaluation loop of a specific target entity, restoring sovereign standing.*
@@ -1108,7 +1109,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-49. `catabolize-dissolution` (`process:catabolize-dissolution`)
-**Derives from:** IL-25 (Topological Catabolizer — `role:catabolizer`)
+**Derives from:** IL-25 (Dissolved Mass Catabolizer (`role:catabolizer`))
 **Applies to:** `PP-36` [primary], `PP-1`, `PP-25`, `PP-35`, `PP-127`, `PP-198`
 
 *The Catabolizer executes `catabolize-dissolution` to break down and recycle unmaintained or dissolved graph structures, harvesting raw energy mass while logging the dissolution event in the destruction ledger.*
@@ -1131,7 +1132,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-50. `catabolize-fuel` (`process:catabolize-fuel`)
-**Derives from:** IL-25 (Topological Catabolizer — `role:catabolizer`)
+**Derives from:** IL-25 (Dissolved Mass Catabolizer (`role:catabolizer`))
 **Applies to:** `PP-26` [primary], `PP-25`, `PP-35`, `PP-125`, `PP-198`
 
 *The Catabolizer executes `catabolize-fuel` to convert structural failures, error mass, and dead topological tissue into high-potential metabolic fuel.*
@@ -1153,7 +1154,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-51. `replicate-blueprint` (`process:replicate-blueprint`)
-**Derives from:** IL-26 (Topology Replicator — `role:replicator`)
+**Derives from:** IL-26 (Morphic Blueprint Replicator (`role:replicator`))
 **Applies to:** `PP-8` [primary], `PP-1`, `PP-25`, `PP-50`, `PP-113`, `PP-198`
 
 *The Replicator executes `replicate-blueprint` to clone, instantiate, and replicate a verified structural blueprint into a target graph neighborhood, allocating physical mass and attaching frontier gates.*
@@ -1176,7 +1177,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-52. `replicate-lineage` (`process:replicate-lineage`)
-**Derives from:** IL-26 (Topology Replicator — `role:replicator`)
+**Derives from:** IL-26 (Morphic Blueprint Replicator (`role:replicator`))
 **Applies to:** `PP-8` [primary], `PP-9`, `PP-14`, `PP-178`, `PP-208`
 
 *The Releaser executes `replicate-lineage` to duplicate, fork, or mirror an entity's complete provenance lineage chain, embedding historical derivation depth into a new topological domain.*
@@ -1198,7 +1199,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-53. `differentiate-role` (`process:differentiate-role`)
-**Derives from:** IL-27 (Structural Differentiator — `role:differentiator`)
+**Derives from:** IL-27 (Morphic Role Differentiator (`role:differentiator`))
 **Applies to:** `PP-1` [primary], `PP-8`, `PP-10`, `PP-50`, `PP-113`, `PP-212`
 
 *The Differentiator executes `differentiate-role` to specialize a generalized node primitive into a dedicated functional role, locking role boundary rules and attaching specialized gate membranes.*
@@ -1221,7 +1222,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-54. `differentiate-state` (`process:differentiate-state`)
-**Derives from:** IL-27 (Structural Differentiator — `role:differentiator`)
+**Derives from:** IL-27 (Morphic Role Differentiator (`role:differentiator`))
 **Applies to:** `PP-9` [primary], `PP-16`, `PP-46`, `PP-61`, `PP-176`
 
 *The Differentiator executes `differentiate-state` to split, bifurcate, or specialize internal entity state variables in response to local consequence gradient shifts.*
@@ -1243,7 +1244,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-55. `remodel-membrane` (`process:remodel-membrane`)
-**Derives from:** IL-28 (Boundary Remodeler — `role:remodeler`)
+**Derives from:** IL-28 (Scar Tissue Remodeler (`role:remodeler`))
 **Applies to:** `PP-10` [primary], `PP-5`, `PP-46`, `PP-48`, `PP-50`, `PP-189`
 
 *The Remodeler executes `remodel-membrane` to reconstruct, expand, or re-shape node boundary membranes, adjusting exposed gate surfaces and updating live boundary statements.*
@@ -1266,7 +1267,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-56. `remodel-lineage` (`process:remodel-lineage`)
-**Derives from:** IL-28 (Boundary Remodeler — `role:remodeler`)
+**Derives from:** IL-28 (Scar Tissue Remodeler (`role:remodeler`))
 **Applies to:** `PP-8` [primary], `PP-14`, `PP-36`, `PP-178`, `PP-208`
 
 *The Remodeler executes `remodel-lineage` to refactor, re-index, or re-structure provenance derivation links while strictly preserving historical integrity and self-incriminating error mass.*
@@ -1288,7 +1289,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-57. `adapt-environment` (`process:adapt-environment`)
-**Derives from:** IL-29 (Adaptive Environment Adapter — `role:adapter`)
+**Derives from:** IL-29 (Environmental Blueprint Adapter (`role:adapter`))
 **Applies to:** `PP-40` [primary], `PP-10`, `PP-35`, `PP-61`, `PP-189`, `PP-224`
 
 *The Adapter executes `adapt-environment` to adjust node operational parameters to shifting external field environments, maintaining thermodynamic stability under non-equilibrium stress.*
@@ -1311,7 +1312,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-58. `adapt-blueprint` (`process:adapt-blueprint`)
-**Derives from:** IL-29 (Adaptive Environment Adapter — `role:adapter`)
+**Derives from:** IL-29 (Environmental Blueprint Adapter (`role:adapter`))
 **Applies to:** `PP-8` [primary], `PP-35`, `PP-61`, `PP-113`, `PP-145`
 
 *The Adapter executes `adapt-blueprint` to modify, optimize, and adapt structural blueprint specifications in response to accumulated empirical execution wake.*
@@ -1333,7 +1334,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-59. `perceive-gradient` (`process:perceive-gradient`)
-**Derives from:** IL-30 (Sensory & Telemetry Perceiver — `role:perceiver`)
+**Derives from:** IL-30 (Field Gradient Perceiver (`role:perceiver`))
 **Applies to:** `PP-224` [primary], `PP-15`, `PP-16`, `PP-46`, `PP-263`
 
 *The Perceiver executes `perceive-gradient` to sense, sample, and map local consequence topology density gradients, guiding spatial traversal navigation.*
@@ -1355,7 +1356,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-60. `perceive-telemetry` (`process:perceive-telemetry`)
-**Derives from:** IL-30 (Sensory & Telemetry Perceiver — `role:perceiver`)
+**Derives from:** IL-30 (Field Gradient Perceiver (`role:perceiver`))
 **Applies to:** `PP-9` [primary], `PP-21`, `PP-118`, `PP-137`, `PP-178`
 
 *The Perceiver executes `perceive-telemetry` to capture present-tense operational telemetry, metabolic pulse rates, and execution wake from target entity membranes.*
@@ -1377,7 +1378,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-61. `regulate-equilibrium` (`process:regulate-equilibrium`)
-**Derives from:** IL-31 (Homeostatic & Equilibrium Regulator — `role:regulator`)
+**Derives from:** IL-31 (Homeostatic Pressure Regulator (`role:regulator`))
 **Applies to:** `PP-40` [primary], `PP-1`, `PP-25`, `PP-35`, `PP-61`, `PP-198`
 
 *The Regulator executes `regulate-equilibrium` to maintain dynamic non-equilibrium thermodynamic stability across graph neighborhoods, preventing thermal collapse into static stasis.*
@@ -1400,7 +1401,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-62. `regulate-homeostasis` (`process:regulate-homeostasis`)
-**Derives from:** IL-31 (Homeostatic & Equilibrium Regulator — `role:regulator`)
+**Derives from:** IL-31 (Homeostatic Pressure Regulator (`role:regulator`))
 **Applies to:** `PP-68` [primary], `PP-1`, `PP-35`, `PP-64`, `PP-189`, `PP-212`
 
 *The Regulator executes `regulate-homeostasis` to govern endogenous pulse amplitude, metabolic consumption, and internal feedback loops across scale boundaries.*
@@ -1423,7 +1424,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-63. `encapsulate-membrane` (`process:encapsulate-membrane`)
-**Derives from:** IL-32 (Cryptobiotic Shell Encapsulator — `role:encapsulator`)
+**Derives from:** IL-32 (Cryptobiotic Shell Encapsulator (`role:encapsulator`))
 **Applies to:** `PP-145` [primary], `PP-10`, `PP-38`, `PP-46`, `PP-114`
 
 *The Encapsulator executes `encapsulate-membrane` to form a hardened, zero-permeability cryptobiotic outer cyst around starved node structures during severe fuel collapse.*
@@ -1445,7 +1446,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 ---
 
 ### IP-64. `encapsulate-dormancy` (`process:encapsulate-dormancy`)
-**Derives from:** IL-32 (Cryptobiotic Shell Encapsulator — `role:encapsulator`)
+**Derives from:** IL-32 (Cryptobiotic Shell Encapsulator (`role:encapsulator`))
 **Applies to:** `PP-1` [primary], `PP-2`, `PP-4`, `PP-5`, `PP-36`, `PP-177`, `PP-182`
 
 *The Encapsulator executes `encapsulate-dormancy` to suspend active metabolic expenditure completely while preserving internal structural provenance, state integrity, and sovereign standing.*

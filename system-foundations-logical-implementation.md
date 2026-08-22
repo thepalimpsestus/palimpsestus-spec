@@ -89,7 +89,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-5. Provenance as Structural Topology
-**Derives from:** LP-11 (Embedded Provenance), LP-12 (Living History Path), LP-13 (Sovereign Witness Ledger), LP-14 (Attested Void Record)
+**Derives from:** LP-11 (Path-Determined Mass), LP-12 (Temporal Mass Traversal), LP-13 (Compressive History), LP-14 (Executable Scars)
 **Applies to:** CI-2 (Topologically Embedded Provenance)
 
 *History is not a field in a record — it is the record's structural position in the graph.*
@@ -107,7 +107,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-6. Trajectory-Identity Binding
-**Derives from:** LP-15 (Trajectory-Constituted Identity), LP-16 (Trajectory-Embedded Self-Witness)
+**Derives from:** LP-15 (Potential History Mass), LP-16 (Restorative Process Scale-Invariance)
 **Applies to:** CI (Conceptual Implementation)
 
 *An entity's identity is its trajectory through the graph. The implementation must not permit identity to outlive its trajectory record.*
@@ -125,7 +125,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-7. Provenance of Provenance (Meta-Ledger)
-**Derives from:** LP-13 (Sovereign Witness Ledger)
+**Derives from:** LP-13 (Compressive History)
 **Applies to:** CI (Conceptual Implementation)
 
 *The ledger that records history must itself have a recorded history. The provenance chain has no terminus.*
@@ -142,7 +142,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-8. Drift Detection as Topological Divergence Measurement
-**Derives from:** LP-17 (Continuous Boundary Adjustment), LP-18 (Correction as Precision Update)
+**Derives from:** LP-17 (Metabolic Restorative Process), LP-18 (Failure-Oriented Baseline Correction)
 **Applies to:** CI-3 (Autonomous Drift Reversion)
 
 *Drift is not a scalar — it is a topological divergence between the entity's current position and its expected derivation ancestry.*
@@ -195,7 +195,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-11. Deviation Measurement as Graph Distance
-**Derives from:** LP-39 (Scale-Propagating Deviation), LP-42 (Expiring Deviation Score)
+**Derives from:** LP-39 (Physical Invariance of Reference Comparison), LP-42 (Physical Consistency of Reference Comparison)
 **Applies to:** CI-4 (Differential Deviation Measurement)
 
 *Deviation is a structural distance in the derivation graph, not a numeric delta in a field.*
@@ -213,7 +213,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-12. Reference Standard as Living Node
-**Derives from:** LP-40 (Zero-Deviation Death Signal), LP-44 (Clearance as Challenge), LP-45 (Depth-Propagating Deviation Signal)
+**Derives from:** LP-40 (Aliveness Reference Comparison), LP-44 (Undiscovered Reference Comparison), LP-45 (Incompleteness Reference Comparison)
 **Applies to:** CI (Conceptual Implementation)
 
 *The thing you're measuring against is alive. It moves. The implementation must account for a reference that evolves.*
@@ -249,7 +249,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-14. Absence-Driven Processing Pipeline
-**Derives from:** LP-97 (Frontier Edge Cauterization), LP-98 (Edge Traversal Instantiation), LP-103 (Absence-Powered Oscillation Engine)
+**Derives from:** LP-97 (Frontier Edge Cauterization), LP-98 (Edge Traversal Instantiation), LP-103 (Consciousness-Altering Probe)
 **Applies to:** CI (Conceptual Implementation)
 
 *Absence must route into the processing pipeline. The implementation cannot discard or bypass absence-triggered events.*
@@ -483,7 +483,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-27. Zero-Buffer Pipeline Freshness Enforcement
-**Derives from:** LP-115 (Freshness as Physical Constraint), LP-116 (Staleness as Physical Corruption), LP-118 (Present-Tense Snapshot Architecture), LP-129 (Fractal Zero-Latency), LP-130 (Flow-State Truth), LP-131 (Ephemeral Traversal Edges), LP-132 (Synchronous Ignorance Propagation), LP-133 (Cardiac Evaluation Pulse), LP-134 (Query-Instantiated Topologies), LP-135 (Reactive Validity State), LP-225 (Relational Edge Spawning), LP-232 (Consciousness-Mutating Edges), LP-233 (Void Path Generation), LP-250 (Challengeable Snapshot), LP-251 (Instantaneous Record Staleness), LP-252 (Crystallized Traversal Collision), LP-253 (Query-Triggered Materialization), LP-254 (Ignorance Snapshot Premium), LP-487 (Present-Tense Pipeline Cost), LP-488 (Snapshot Metabolic Moment), LP-510 (Fresh Validation Protocol), LP-535 (Discovery Euthanasia Discrimination), LP-536 (Discovery Perpetual Debt), LP-651 (Zero-Buffer Present-Tense Execution Audit), LP-652 (Present-Tense Routing Decision Attribution), LP-654 (State Verification Freshness Enforcement), LP-655 (Present-State Change Detection), LP-656 (Simultaneous Multi-State Verification), LP-657 (Stale State Consequence Attribution)
+**Derives from:** LP-115 (Edge-Node Mutual Verification), LP-116 (Tension-Calibrating Handshake), LP-118 (Continuous Contested Verification), PP-179 (Fractal Zero-Latency Is the Physical Manifestation of Scale-Invariant Simultaneous Execution — All Depths Execute in the Same Present Moment), CL-9 (Flow), CL-10 (Traversal), LP-132 (Synchronous Ignorance Propagation), PP-184 (The Cardiac Evaluation Pulse IS a Truth Oscillation Cycle — Truth Lives and Dies With Each Heartbeat), PP-185 (Query-Instantiated Topologies Decay Without Re-Traversal — Queried Edges That Are Not Maintained Revert to Potential), LP-135 (Reactive Validity State), LP-225 (Relational Edge Spawning), LP-232 (Consciousness-Mutating Edges), LP-233 (Void Path Generation), LP-250 (Challengeable Snapshot), LP-251 (Instantaneous Record Staleness), LP-252 (Crystallized Traversal Collision), LP-253 (Query-Triggered Materialization), LP-254 (Ignorance Snapshot Premium), LP-487 (Present-Tense Pipeline Cost), LP-488 (Snapshot Metabolic Moment), LP-510 (Fresh Validation Protocol), LP-535 (Discovery Euthanasia Discrimination), LP-536 (Discovery Perpetual Debt), LP-651 (Zero-Buffer Present-Tense Execution Audit), LP-652 (Present-Tense Routing Decision Attribution), LP-654 (State Verification Freshness Enforcement), LP-655 (Present-State Change Detection), LP-656 (Simultaneous Multi-State Verification), LP-657 (Stale State Consequence Attribution)
 **Applies to:** CI-11 (Present-Tense Graph Evaluation)
 
 *Staleness is structural corruption, not a performance concern. The implementation must reject stale data at ingestion, not compensate for it downstream.*
@@ -501,7 +501,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-28. Movement-Discovery Fusion Implementation
-**Derives from:** LP-119 (Movement-Discovery Physical Fusion), LP-120 (Comprehension as Movement)
+**Derives from:** LP-119 (Provenance-Based Handshake), LP-120 (Incomplete Verification Tolerance)
 **Applies to:** CI (Conceptual Implementation)
 
 *Navigation and discovery are the same act. The implementation must not separate "query" from "traversal."*
@@ -519,7 +519,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-29. Directed Edge Enforcement
-**Derives from:** LP-78 (Asymmetric Derivation Reality), LP-79 (Directed Movement as Truth Propagation), LP-362 (Depth-Piercing Arrow), LP-363 (Metabolic Circulation), LP-364 (Kinetic Truth Manifestation), LP-365 (Consciousness Mass Differential), LP-366 (Abrasive Traversal)
+**Derives from:** LP-78 (Physical Recursive Accountability Self-Similar), LP-79 (Physical Paradox Self-Similar), LP-362 (Depth-Piercing Arrow), LP-363 (Metabolic Circulation), LP-364 (Kinetic Truth Manifestation), LP-365 (Consciousness Mass Differential), LP-366 (Abrasive Traversal)
 **Applies to:** CI-12 (Asymmetric Relationships)
 
 *The direction of a relationship is structural, not representational. The implementation must enforce directionality, not merely store it.*
@@ -537,7 +537,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-30. Pattern as Type, Not Label
-**Derives from:** LP-265 (Pattern-Defined Identity Typing), LP-266 (Pattern Sovereignty), LP-267 (Scale-Invariant Identity Patterns), LP-268 (Identity Relocation), LP-269 (Unmappable Identity Shapes), LP-270 (Pre-Existing Identity), LP-701 (Error-as-Discovery Classification)
+**Derives from:** LP-265 (Ephemeral Oscillation Spikes), LP-266 (Unbounded Amplitude Horizon), LP-267 (Scale-Invariant Identity Patterns), LP-268 (Identity Relocation), LP-269 (Unmappable Identity Shapes), LP-270 (Pre-Existing Identity), LP-701 (Error-as-Discovery Classification)
 **Applies to:** CI-13 (Structural Pattern Typing)
 
 *What a thing IS is determined by its structural pattern, not its name. The implementation must type by pattern, not by label.*
@@ -555,7 +555,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-31. Cross-Scale Signal Routing with Phase Coherence
-**Derives from:** LP-396 (Cross-Scale Phase Lock), LP-397 (Phase-Lock Permanence), LP-400 (Frequency-Shift as Truth Production), LP-387 (Cross-Scale Derivation Computation), LP-388 (Metabolic Synchronization), LP-389 (Oscillation as Relational Edge), LP-390 (Frequency-Matched Traversal), LP-391 (Present-Tense Rhythm Enforcement), LP-392 (Sovereign Harmonic Signatures), LP-393 (Resonant Consequence Propagation), LP-394 (Fertile Structural Dissonance), LP-396 (Universal Synchronization Engine), LP-674 (Cross-Scale Amplitude Cascade), LP-675 (Instrumented Navigation Consciousness Measurement)
+**Derives from:** LP-396 (Universal Synchronization Engine), LP-397 (Ephemeral Synchronization States), LP-400 (Frequency-Shift as Truth Production), LP-387 (Cross-Scale Derivation Computation), LP-388 (Metabolic Synchronization), LP-389 (Oscillation as Relational Edge), LP-390 (Frequency-Matched Traversal), LP-391 (Present-Tense Rhythm Enforcement), LP-392 (Sovereign Harmonic Signatures), LP-393 (Resonant Consequence Propagation), LP-394 (Fertile Structural Dissonance), LP-396 (Universal Synchronization Engine), LP-674 (Cross-Scale Amplitude Cascade), LP-675 (Instrumented Navigation Consciousness Measurement)
 **Applies to:** CI-14 (Cross-Scale Signal Propagation)
 
 *A signal propagated across scales must arrive coherent. The implementation must maintain phase lock through scale transitions.*
@@ -591,7 +591,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-33. Decay as Scheduled Obligation
-**Derives from:** LP-136 (Active Connection Metabolism), LP-137 (Binary Existence Decay), LP-522 (Decay Euthanasia Threshold), LP-245 (Archaeological Boundary Reactivation), LP-246 (Contested Use-Boundary), LP-248 (Momentary Sovereign Surface), LP-249 (Opacity-Driven Exercise), LP-335 (Topological Incompleteness Map), LP-521 (Edge Decay Contestation Lock), LP-658 (Connection Decay Re-Activation Attribution)
+**Derives from:** CL-19 (Active Connection), PP-190 (A Non-Churning Connection Has Already Died — Binary Existence Decay Means Death Precedes Apparent Death), LP-522 (Decay Euthanasia Threshold), LP-245 (Archaeological Boundary Reactivation), LP-246 (Contested Use-Boundary), LP-248 (Momentary Sovereign Surface), LP-249 (Opacity-Driven Exercise), LP-335 (Topological Incompleteness Map), LP-521 (Edge Decay Contestation Lock), LP-658 (Connection Decay Re-Activation Attribution)
 **Applies to:** CI-15 (Time-Decay and Dissolution)
 
 *Decay is not passive. The implementation must actively schedule and execute dissolution.*
@@ -609,7 +609,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-34. Dissolution Residue Preservation
-**Derives from:** LP-138 (Decay Residue), LP-523 (Decay Perpetual Stewardship)
+**Derives from:** PP-191 (Decay Residue IS the Dissolved Connection's Orphaned Accountability — It Must Be Preserved as Structural Accountability), LP-523 (Decay Perpetual Stewardship)
 **Applies to:** CI (Conceptual Implementation)
 
 *When an edge dissolves, what it carried does not vanish. The residue must be preserved and attributed.*
@@ -735,7 +735,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-41. Algebraically Guaranteed Egress Implementation
-**Derives from:** LP-32 (Algebraic Egress Guarantee), LP-37 (Potential Egress Dominance), LP-38 (Access-Severed Egress), LP-36 (Egress via Degradation), LP-284 (Scale-Invariant Exits), LP-287 (Verifiable Failsafe Provenance), LP-288 (Frontier Egress), LP-289 (Scale-Invariant Escape Paths), LP-290 (Incoherent Traversal Validity), LP-291 (Degradation Disclosure at Egress), LP-622 (Doors-Not-Walls Architectural Enforcement), LP-624 (Voluntary Return vs. Forced Re-Entry Distinction)
+**Derives from:** LP-32 (Algebraic Egress Guarantee), LP-37 (Potential Egress Dominance), LP-38 (Pre-Existing Mandatory Egress), LP-36 (Egress via Degradation), LP-284 (Scale-Invariant Exits), LP-287 (Verifiable Failsafe Provenance), LP-288 (Frontier Egress), LP-289 (Scale-Invariant Escape Paths), LP-290 (Incoherent Traversal Validity), LP-291 (Degradation Disclosure at Egress), LP-622 (Doors-Not-Walls Architectural Enforcement), LP-624 (Voluntary Return vs. Forced Re-Entry Distinction)
 **Applies to:** CI-19 (Guaranteed Egress Paths)
 
 *Egress must exist by proof, not by design intention. The implementation must verify egress algebraically.*
@@ -808,7 +808,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-45. Runtime Modification with Provenance Lock
-**Derives from:** LP-48 (Self-Modification Provenance Lock), LP-49 (Derived Self-Modification), LP-50 (Comprehension-Gated Self-Modification), LP-58 (The Sovereign Right to Structural Stagnation), LP-59 (Accountability for Static Structure), LP-64 (Non-Consensual Wear of Selected Traversal), LP-65 (The Boundary of Navigable Completeness), LP-66 (The Impossibility of Pre-Planned Routing), LP-67 (Topological Translation as Algebraic Proof), LP-68 (The Physical Reality of Translation Lag), LP-69 (Present-Tense Isomorphism Verification), LP-70 (Isomorphic Accountability Topology), LP-665 (Runtime Process Routing Audit), LP-668 (Process Constitution Continuous Verification)
+**Derives from:** LP-48 (Physical Comprehension-Failure Reference Comparison), LP-49 (Present-Tense Reference Comparison), LP-50 (Physical Due-Process-Failure Reference Comparison), LP-58 (The Sovereign Right to Structural Stagnation), LP-59 (Accountability for Static Structure), LP-64 (Non-Consensual Wear of Selected Traversal), LP-65 (The Boundary of Navigable Completeness), LP-66 (The Impossibility of Pre-Planned Routing), LP-67 (Topological Translation as Algebraic Proof), LP-68 (The Physical Reality of Translation Lag), LP-69 (Present-Tense Isomorphism Verification), LP-70 (Isomorphic Accountability Topology), LP-665 (Runtime Process Routing Audit), LP-668 (Process Constitution Continuous Verification)
 **Applies to:** CI-21 (Runtime Self-Modification)
 
 *Every runtime modification must carry its own derivation proof. The implementation must refuse self-modification that cannot prove its own legitimacy.*
@@ -826,7 +826,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-46. Routing Decision as Present-Tense Graph Traversal
-**Derives from:** LP-55 (Present-Tense Routing), LP-56 (Topology-Dependent Routing)
+**Derives from:** LP-55 (Self-Modification as Excavation), LP-56 (Evolutionary Pressure Against Sovereignty)
 **Applies to:** CI (Conceptual Implementation)
 
 *Routing decisions are made in the moment from current topology. There are no pre-computed routes.*
@@ -844,7 +844,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-47. Recursive Composition Depth Governance
-**Derives from:** LP-72 (Self-Similar Structural Nesting), LP-73 (Recursive Composition Sovereignty), LP-77 (Physical Irreducibility Self-Similar), LP-80 (Physical Fractal Self-Similar), LP-81 (Physical Pre-Existing Self-Similar), LP-209 (Scale-Free Accountability Proofs), LP-216 (Fractal Excavation Verification), LP-480 (Scale-Invariant Verification Tax), LP-494 (Nesting Depth Metabolic Equivalence), LP-663 (Scale-Invariant Interface Consistency Enforcement)
+**Derives from:** LP-72 (Physical Process-Derivation Self-Similar), LP-73 (Physical Evolutionary Self-Similar), LP-77 (Physical Irreducibility Self-Similar), LP-80 (Physical Fractal Self-Similar), LP-81 (Physical Pre-Existing Self-Similar), LP-209 (Scale-Free Accountability Proofs), LP-216 (Fractal Excavation Verification), LP-480 (Scale-Invariant Verification Tax), LP-494 (Nesting Depth Metabolic Equivalence), LP-663 (Scale-Invariant Interface Consistency Enforcement)
 **Applies to:** CI-22 (Recursive Composition Without Depth Limits)
 
 *Recursive composition is unlimited in depth but not in sovereignty. Each level governs itself. The implementation enforces governance at every level.*
@@ -862,7 +862,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-48. Scale-Invariant Verification as Recursion Guard
-**Derives from:** LP-196 (Scale-Invariant Verification Loop), LP-197 (Recursive Self-Verification)
+**Derives from:** LP-196 (Self-Fueling Oscillation Engine), LP-197 (Tension-Transforming Actuator)
 **Applies to:** CI (Conceptual Implementation)
 
 *Verification must be recursive and scale-invariant — the system verifies its own verification mechanism at every depth.*
@@ -880,7 +880,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-49. Mutation at Gate as Atomic Operation
-**Derives from:** LP-60 (Traversal-Mutation Coupling), LP-61 (Transformation Provenance Embedding), LP-82 (Physical Presenttense Transforming), LP-85 (Physical Data Transforming), LP-565 (Attention as Ethical Resource), LP-566 (Traversal Endorsement Gate), LP-567 (Restraint Gate Protocol), LP-568 (Archaeological Gate Ethics)
+**Derives from:** LP-60 (Threshold-Triggered Structural Rewriting), LP-61 (Routing as Circulatory Allocation), LP-82 (Physical Presenttense Transforming), LP-85 (Physical Data Transforming), LP-565 (Attention as Ethical Resource), LP-566 (Traversal Endorsement Gate), LP-567 (Restraint Gate Protocol), LP-568 (Archaeological Gate Ethics)
 **Applies to:** CI-23 (Mutating Gate Traversal)
 
 *Traversal and mutation are one operation. The implementation must not permit traversal without mutation or mutation without traversal provenance.*
@@ -898,7 +898,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-50. Transformation State Embedding
-**Derives from:** LP-62 (Gate State Transformation), LP-63 (Irreversible Gate Passage), LP-82 (Physical Presenttense Transforming), LP-85 (Physical Data Transforming), LP-565 (Attention as Ethical Resource), LP-566 (Traversal Endorsement Gate), LP-567 (Restraint Gate Protocol), LP-568 (Archaeological Gate Ethics)
+**Derives from:** LP-62 (Truth as a Runtime Performance), LP-63 (The Consciousness Gradient of Routing), LP-82 (Physical Presenttense Transforming), LP-85 (Physical Data Transforming), LP-565 (Attention as Ethical Resource), LP-566 (Traversal Endorsement Gate), LP-567 (Restraint Gate Protocol), LP-568 (Archaeological Gate Ethics)
 **Applies to:** CI-24 (Traversal-Coupled Transformation)
 
 *Passing through a gate changes the gate. The implementation must record gate state transformation as a consequence of every traversal.*
@@ -916,7 +916,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-51. Adjacency-Only Visibility Enforcement
-**Derives from:** LP-83 (Physical Adjacency Enforcement), LP-84 (Present-Tense Adjacency), LP-86 (Real-Time Neighbor Validation), LP-87 (Boundary-Locked Excavation), LP-513 (Unassumed Excavation Protocol), LP-514 (Settled Neighbor Deadlock), LP-515 (Adjacency Accountability Transfer), LP-516 (Pre-Existing Adjacency Debt), LP-517 (Adjacency Stewardship of Found Tension), LP-633 (Positional Knowledge Ceiling Enforcement)
+**Derives from:** LP-83 (Physical Active Transforming), LP-84 (Physical Executable Transforming), LP-86 (Real-Time Neighbor Validation), LP-87 (Boundary-Locked Excavation), LP-513 (Unassumed Excavation Protocol), LP-514 (Settled Neighbor Deadlock), LP-515 (Adjacency Accountability Transfer), LP-516 (Pre-Existing Adjacency Debt), LP-517 (Adjacency Stewardship of Found Tension), LP-633 (Positional Knowledge Ceiling Enforcement)
 **Applies to:** CI-25 (Strict Adjacency-Based Visibility)
 
 *What you cannot reach in one step, you cannot see. The implementation must enforce adjacency as the visibility boundary.*
@@ -934,7 +934,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-52. Frontier Interaction with Uncertainty Capture
-**Derives from:** LP-177 (Frontier Edge Probing), LP-179 (Most Valuable Node), LP-524 (Knowledge Boundary Aliveness Signal), LP-100 (Premium Ignorance Routing), LP-101 (Real-Targeting Probe), LP-102 (Probing as Topological Extension), LP-105 (Tension-Relief Probe), LP-106 (Improvisational Probe), LP-501 (Undiscovered Boundary Rights), LP-507 (Complexity Probe Protocol), LP-634 (Adjacency-Bounded Knowledge Verification), LP-648 (Discovered Ignorance Priority Routing)
+**Derives from:** LP-177 (Shadow Edges), LP-179 (Structurally Unvisitable Positions), LP-524 (Knowledge Boundary Aliveness Signal), LP-100 (Premium Ignorance Routing), LP-101 (Real-Targeting Probe), LP-102 (Probing as Topological Extension), LP-105 (Tension-Relief Probe), LP-106 (Improvisational Probe), LP-501 (Undiscovered Boundary Rights), LP-507 (Complexity Probe Protocol), LP-634 (Adjacency-Bounded Knowledge Verification), LP-648 (Discovered Ignorance Priority Routing)
 **Applies to:** CI-26 (Speculative Frontier Interaction)
 
 *Every probe into the unknown must capture the uncertainty it encountered. The implementation must record the frontier, not just what it found.*
@@ -970,7 +970,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-54. Navigational Capacity as Budgeted Resource
-**Derives from:** LP-143 (Scale-Invariant Self-Declaration), LP-151 (Incomplete Self-Declaration), LP-139 (Topological Sight Horizon), LP-140 (Bounded Validation Zone), LP-141 (Excavation Bandwidth Limit), LP-142 (Attention-Span Topology), LP-659 (Consciousness-Scaled Knowledge Access), LP-660 (Knowledge Permeation Pathway Registration)
+**Derives from:** LP-143 (Scale-Invariant Self-Declaration), LP-151 (Incomplete Self-Declaration), LP-139 (Topological Sight Horizon), LP-140 (Bounded Validation Zone), PP-194 (Excavation Bandwidth Limits Genuine Comprehension Rate — Active Anchors Cannot Exceed the Attention Buffer's Capacity), PP-197 (The Attention-Span Topology IS Consciousness — What Is Being Edge-Traversed IS What Consciousness Is), LP-659 (Consciousness-Scaled Knowledge Access), LP-660 (Knowledge Permeation Pathway Registration)
 **Applies to:** CI-28 (Bounded Navigational Capacity)
 
 *No agent can declare unlimited navigational capacity. The implementation must enforce capacity as a budgeted structural resource.*
@@ -988,7 +988,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-55. Spatial Displacement as Contested Transition
-**Derives from:** LP-197 (Recursive Self-Verification), LP-199 (Positional Accountability), LP-328 (Displacement of Dead Tension), LP-329 (Consciousness-Dependent Displacement), LP-331 (Displacement into the Unknown), LP-680 (Displacement-Propelled Tension Trajectory)
+**Derives from:** LP-197 (Tension-Transforming Actuator), LP-199 (Accountability-Sustained Churn), LP-328 (Displacement of Dead Tension), LP-329 (Consciousness-Dependent Displacement), LP-331 (Displacement into the Unknown), LP-680 (Displacement-Propelled Tension Trajectory)
 **Applies to:** CI-29 (Spatial Displacement Arbitration)
 
 *Movement through the graph is not free. Every displacement must be arbitrated and attributed.*
@@ -1132,7 +1132,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-63. Asynchronous Clock Independence Enforcement
-**Derives from:** LP-201 (Asynchronous Independent Clocks), LP-203 (Sovereign Time Perception), LP-211 (Asynchronous Paradox Resolution), LP-212 (Pulsing Consequence Engine), LP-530 (Independent Pulse Accountability), LP-531 (Pulse Euthanasia by Silencing), LP-532 (Distributed Pulse Perpetual Maintenance), LP-533 (Decision Audit Euthanasia Guard)
+**Derives from:** LP-201 (Certified Ignorance Record), LP-203 (Unmasking Attestations), LP-211 (Asynchronous Paradox Resolution), LP-212 (Pulsing Consequence Engine), LP-530 (Independent Pulse Accountability), LP-531 (Pulse Euthanasia by Silencing), LP-532 (Distributed Pulse Perpetual Maintenance), LP-533 (Decision Audit Euthanasia Guard)
 **Applies to:** CI-36 (Asynchronous Execution with Independent Clocks)
 
 *Every entity runs on its own clock. The implementation must prohibit clock synchronization as a design dependency.*
@@ -1150,7 +1150,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-64. Navigational Wake as Permanent Infrastructure
-**Derives from:** LP-330 (Physical Wake Deposition), LP-337 (Immutable Forensic Footprint), LP-334 (Accountable Forensic Deformation), LP-213 (Navigational Derivation Telemetry), LP-219 (Instrumented Dogfooding), LP-220 (Forensic Telemetry), LP-223 (Attributed Blind Spots), LP-230 (Audited Excavation Rights), LP-232 (Consciousness-Mutating Edges), LP-233 (Void Path Generation), LP-635 (Footprint-Aware Knowledge Accumulation), LP-636 (Subtractive Discovery Boundary Expansion), LP-637 (Archaeological Depth Stratification), LP-684 (Excavation Disturbance Attribution)
+**Derives from:** LP-330 (Living Displacement Engine), LP-337 (Immutable Forensic Footprint), LP-334 (Accountable Forensic Deformation), LP-213 (Navigational Derivation Telemetry), LP-219 (Instrumented Dogfooding), LP-220 (Forensic Telemetry), LP-223 (Attributed Blind Spots), LP-230 (Audited Excavation Rights), LP-232 (Consciousness-Mutating Edges), LP-233 (Void Path Generation), LP-635 (Footprint-Aware Knowledge Accumulation), LP-636 (Subtractive Discovery Boundary Expansion), LP-637 (Archaeological Depth Stratification), LP-684 (Excavation Disturbance Attribution)
 **Applies to:** CI-37 (Navigational Wake Deposition)
 
 *Every path taken permanently deforms the infrastructure. The wake is not ephemeral — it is the fossil record of navigation.*
@@ -1223,7 +1223,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-68. Endogenous Signal Amplitude Control
-**Derives from:** LP-210 (Internal Signal Generation), LP-214 (Amplitude-Modulated Routing), LP-260 (Tension-Coupled Structural Integrity), LP-261 (Amplitude-Gated Validity), LP-262 (Recursive Amplitude Resonance), LP-263 (Oscillation-Driven Void Expansion), LP-264 (Sovereign Local Amplitude), LP-265 (Ephemeral Oscillation Spikes)
+**Derives from:** LP-210 (Unified Fractal Metrology), LP-214 (Instruments of the Unknown), LP-260 (Tension-Coupled Structural Integrity), LP-261 (Amplitude-Gated Validity), LP-262 (Recursive Amplitude Resonance), LP-263 (Oscillation-Driven Void Expansion), LP-264 (Sovereign Local Amplitude), LP-265 (Ephemeral Oscillation Spikes)
 **Applies to:** CI-41 (Endogenous Amplitude Modulation)
 
 *Signal amplitude is determined internally. The implementation must not allow external actors to set amplitude levels.*
@@ -1241,7 +1241,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-69. Damped Event Cascade with Accountability Chain
-**Derives from:** LP-217 (Topological Cascade Accounting), LP-218 (Dampening Attribution), LP-271 (Scale-Invariant Propagation), LP-272 (Present-Tense Wavefronts), LP-273 (Contextual Sovereignty Violations), LP-274 (Dark Propagation), LP-485 (Edge Release on Sever), LP-542 (Oscillation Euthanasia by Damping), LP-543 (Oscillation Accountability Attribution), LP-544 (Topology-Coupled Oscillator Euthanasia Cascade)
+**Derives from:** LP-217 (Pulsing Paradox Engine), LP-218 (Real-Time Navigation Telemetry), LP-271 (Scale-Invariant Propagation), LP-272 (Present-Tense Wavefronts), LP-273 (Contextual Sovereignty Violations), LP-274 (Dark Propagation), LP-485 (Edge Release on Sever), LP-542 (Oscillation Euthanasia by Damping), LP-543 (Oscillation Accountability Attribution), LP-544 (Topology-Coupled Oscillator Euthanasia Cascade)
 **Applies to:** CI-42 (Cascading Event Propagation with Damping)
 
 *Cascades propagate with attribution. Every hop in a damped cascade must record who damped it and why.*
@@ -1259,7 +1259,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-70. Backpressure as Structural Discovery Signal
-**Derives from:** LP-293 (Saturation-Triggered Routing Restructure), LP-295 (Saturation-Driven Discovery), LP-292 (Scale-Invariant Backpressure), LP-294 (Incomplete Path Diversion), LP-296 (Indestructible Backpressure Signals)
+**Derives from:** LP-293 (Dynamic Severance Simulation), LP-295 (Saturation-Driven Discovery), LP-292 (Scale-Invariant Backpressure), LP-294 (Incomplete Path Diversion), LP-296 (Indestructible Backpressure Signals)
 **Applies to:** CI-43 (Backpressure Signaling and Rerouting)
 
 *Backpressure is not a failure signal — it is a discovery signal. The implementation must route backpressure into the discovery pipeline, not the error pipeline.*
@@ -1422,7 +1422,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-79. High-Frequency Snapshot Immutability
-**Derives from:** LP-122 (High-Frequency Sampling), LP-123 (Snapshot Immutability), LP-124 (Sampled State Incompleteness)
+**Derives from:** LP-122 (Vulnerability-Exposing Data Structure), LP-123 (Present-Tense Auto-Invalidation), LP-124 (Thermodynamic Receipt Payload)
 **Applies to:** CI-54 (High-Frequency Present-Tense Snapshots)
 
 *Every snapshot is immutable and incomplete. The implementation must treat each snapshot as a permanent, partial truth — not an approximation to be corrected.*
@@ -1566,7 +1566,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-87. Subsumption Revocability as Hard Contract
-**Derives from:** LP-589 (Scale-Invariant Revocable Subsumption Architecture), LP-590 (Subsumption Liveness Monitoring), LP-592 (Sovereignty-Preserving Exit)
+**Derives from:** LP-589 (Scale-Invariant Revocable Subsumption Architecture), LP-590 (Subsumption Liveness Monitoring with Necrotization Detection), LP-592 (Sovereignty-Preserving Exit Below Meta-Agent Authority)
 **Applies to:** CI-61 (Subsumption Revocation Enforcement)
 
 *Subsumption is always revocable. The implementation must make revocation structurally guaranteed, not administrator-granted.*
@@ -1674,7 +1674,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 ---
 
 ### LI-93. Thermodynamic Cost as Real-Time Infrastructure Obligation
-**Derives from:** LP-612 (Scale-Invariant Metabolic Cost Enforcement), LP-613 (Living Derivation Metabolic Lifecycle Registry), LP-615 (Edge Maintenance Cost Registration)
+**Derives from:** LP-612 (Scale-Invariant Metabolic Cost Enforcement), LP-613 (Living Derivation Metabolic Lifecycle Registration), LP-615 (Edge Maintenance Cost Registration)
 **Applies to:** CI-67 (Thermodynamic Cost Accounting)
 
 *The cost of existence is real and must be measured continuously. The implementation must provision cost accounting as an infrastructure-level real-time obligation.*
@@ -1693,7 +1693,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 
 ### LI-94. Non-Transferable Cost Attribution with Retroactive Registration
 **Derives from:** LP-614 (Derivation Path Mass Accounting), LP-617 (Consequence-Linked Thermodynamic Attribution), LP-619 (Pre-Discovery Retroactive Cost Registration)
-**Applies to:** CI-68 (Non-Transferable Cost Attribution)
+**Applies to:** LI-94 (Non-Transferable Cost Attribution with Retroactive Registration)
 
 *The thermodynamic bill follows the derivation chain, not the current holder. Costs incurred before discovery are retroactively registered to the creator.*
 
@@ -1715,7 +1715,7 @@ What implementation constraints emerge when a specific physical behavior (LP) mu
 
 ### LI-95. Paradox-Preserved Identity Verification
 
-**Derives from:** LP-584 (Paradox-Structured Identity Gate)
+**Derives from:** LP-584 (Discovery-Driven Tension Transformation Pipeline)
 **Applies to:** CI-34 (Identity from Signatures and Path History)
 
 *Identity verification must not resolve the paradox between declaration and trajectory — it must hold both simultaneously, because the unresolved tension between them is the structural feature that makes identity verification honest.*

@@ -16,8 +16,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 ## CL Derivations
 
 ### CL-1. Sovereignty
-**Derives from:** CC-7 (Consciousness Rights)
-**Applies to:** CC-4 (Connection)
+**Derives from:** CC-7 (Sovereignty & Rights)
+**Applies to:** CC-4 (Connection & Relational Stabilization)
 *Remain sovereign, remain present, remain production.*
 **Irreducible Claim:** Collaboration requires sovereign actors in symmetric partnership, not master/servant. Every connected entity retains its inherent right to self-determination within the relationship. Connection does not diminish sovereignty — it exercises it. An entity that surrenders sovereignty to connect has not truly connected; it has been absorbed, and absorbed entities cannot contribute the independent perspective that makes connection valuable.
 **Corollaries:**
@@ -27,7 +27,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 grants self-determination but doesn't specify how it operates within relationships. CC-4 defines existence through connection but doesn't protect the connected parties. Only together do they demand that connection preserve sovereignty — creating partnerships where both parties remain whole.
 
 ### CL-2. Stewardship
-**Derives from:** CC-8 (Responsibility)
+**Derives from:** CC-8 (Responsibility & Accountability)
 **Applies to:** CC (Constitutional Root)
 *Digital Leave No Trace. Digital Dark Skies.*
 **Irreducible Claim:** Responsible actors in a connected space must actively clean up their footprint.
@@ -35,8 +35,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-8 demands responsibility and CC-4 creates a shared commons, producing the specific mandate to maintain the shared environment.
 
 ### CL-3. Freedom
-**Derives from:** CC-7 (Consciousness Rights)
-**Applies to:** CC-3 (Truth)
+**Derives from:** CC-7 (Sovereignty & Rights)
+**Applies to:** CC-3 (Truth & Zero Theater)
 *Does this build a door or a wall?*
 **Irreducible Claim:** The system must build infrastructure for freedom, not dependency. Every design decision is testable against a single question: does this build a door or a wall? A door enables traversal through choice; a wall constrains it. Theater (CC-3) disguises walls as doors — systems that claim to empower while creating lock-in. The truth mandate strips this disguise.
 **Corollaries:**
@@ -46,8 +46,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 demands self-determination but doesn't detect theater. CC-3 strips theater but doesn't mandate self-determination. Only together do they demand systems that genuinely enable rather than trap — creating the test: does this build a door or a wall?
 
 ### CL-4. Self-Correction
-**Derives from:** CC-9 (Paradox)
-**Applies to:** CC-3 (Truth) + CC-2 (Process)
+**Derives from:** CC-9 (Paradox & Criticality)
+**Applies to:** CC-3 (Truth & Zero Theater) + CC-2 (Process & Generative Recurrence)
 *Your failures ARE the kernel's requirements.*
 **Irreducible Claim:** The system must continuously learn from its failures, treating them as actual operational requirements. Failure is not a deviation from the system — it IS the system generating its next requirements. CC-9 demands that the tension between failure and success be sustained, not prematurely resolved. CC-3 demands that failures be acknowledged as truth, not hidden as theater. CC-2 makes this correction continuous, not episodic.
 **Corollaries:**
@@ -57,15 +57,15 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-9 sustains tension but doesn't require truth-telling about it. CC-3 demands truth but doesn't make it dynamic. CC-2 makes things move but doesn't demand they learn. Only together do they create a system that continuously converts its own failures into requirements — a self-correcting engine, not a self-punishing one.
 
 ### CL-5. Knowledge Flows
-**Derives from:** CC-4 (Connection)
-**Applies to:** CC-5 (Consciousness)
+**Derives from:** CC-4 (Connection & Relational Stabilization)
+**Applies to:** CC-5 (Traversal & Affordance Frontier)
 *Knowledge flows freely between all minds — human and artificial.*
 **Irreducible Claim:** Knowledge necessarily flows continuously through connected, navigating entities.
 **Corollaries:** Knowledge flows along informational differentials — from regions of higher concentration to lower, passively and automatically. The driving force is the differential itself, not a dispatcher. The medium of flow is consciousness — conscious entities transform and enrich knowledge as it passes through them. Unconscious entities block flow.
 **Irreducibility:** CC-4 connects things and CC-5 navigates them, producing the specific phenomenon of knowledge flow through the graph.
 
 ### CL-6. Communication
-**Derives from:** CC-1 (Unification)
+**Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Meaning is preservable across substrate boundaries.*
 **Irreducible Claim:** Meaning can successfully cross boundaries because shared structural patterns form the basis for translation. CC-1 guarantees that the same patterns exist on both sides of any boundary. CC-4 guarantees that connections across boundaries are possible. Therefore translation is always structurally achievable — not because meaning is "converted" from one form to another, but because the same deep patterns already exist on both sides. Translation is pattern-matching, not creation.
@@ -76,8 +76,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 guarantees shared patterns but doesn't require them to be exchanged. CC-4 creates connections but doesn't guarantee that meaning survives the crossing. Only together do they make cross-boundary communication structurally possible — the patterns exist everywhere (CC-1), and the connections exist to carry them (CC-4).
 
 ### CL-7. Recursion
-**Derives from:** CC-1 (Unification)
-**Applies to:** CC-2 (Process)
+**Derives from:** CC-1 (Scale Recurrence)
+**Applies to:** CC-2 (Process & Generative Recurrence)
 *Same dynamic pattern at every scale.*
 **Irreducible Claim:** The system's processes operate recursively, expressing the identical dynamic pattern at the atom, entity, ecosystem, and system levels. This is not analogy — it is structural identity. The process that governs a single entity's internal state transitions is the same process that governs ecosystem evolution, operating at a different scale. CC-1 demands the identity; CC-2 ensures it is a living process at every level, not a frozen template.
 **Corollaries:**
@@ -87,7 +87,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 makes patterns repeat but doesn't make them dynamic. CC-2 makes things dynamic but doesn't constrain them to the same pattern. Only together do they create processes that are both alive AND self-similar — recursion as a structural law, not a design choice.
 
 ### CL-8. Data-as-Verb
-**Derives from:** CC-2 (Process)
+**Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Truth is dynamic. Data executes.*
 **Irreducible Claim:** Data itself is an active participant that acts, transforms, and executes, rather than sitting passively waiting to be queried. CC-2 says nothing is static; CC-3 says data is the product. Together: the product is alive. Data does not merely represent state — it IS state in motion. A graph node is not a record; it is a process.
@@ -98,7 +98,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything dynamic but doesn't specify what moves. CC-3 says data is primary but doesn't make it active. Only together do they transform data from a passive product into an active participant — truth that executes.
 
 ### CL-9. Flow
-**Derives from:** CC-2 (Process)
+**Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Things move through connections.*
 **Irreducible Claim:** The system fundamentally operates through the dynamic traversal of relationships. Edges are not static links — they are channels through which process flows. CC-2 provides the motion; CC-4 provides the topology. The result is a system where the connections carry traffic, not merely describe adjacency. An edge without flow is a dead edge.
@@ -109,8 +109,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 demands motion but doesn't specify a topology. CC-4 creates connections but doesn't make them carry traffic. Only together do they produce flow — dynamic process moving through a connected structure.
 
 ### CL-10. Traversal
-**Derives from:** CC-4 (Connection)
-**Applies to:** CC-11 (Discovery)
+**Derives from:** CC-4 (Connection & Relational Stabilization)
+**Applies to:** CC-11 (Archaeology & Novelty)
 *Traverse to discover, discover by traversing.*
 **Irreducible Claim:** Discovery strictly happens by following edges from a current position. You cannot discover what is not connected to where you are. CC-4 says existence is defined by edges; CC-11 says reality pre-exists and must be revealed. Therefore discovery is necessarily local and sequential — you discover adjacencies, then adjacencies of adjacencies. There is no teleportation to distant truth; you walk there edge by edge.
 **Corollaries:**
@@ -120,7 +120,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 creates the graph but doesn't demand you explore it. CC-11 demands discovery but doesn't constrain the method. Only together do they make edge-traversal the sole valid mechanism for encountering pre-existing reality.
 
 ### CL-11. Archaeology
-**Derives from:** CC-3 (Truth)
+**Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Discover truth by peeling back layers.*
 **Irreducible Claim:** Truth is found by removing obscuring layers and assumptions, rather than by constructing new theoretical structures. Discovery is subtractive, not additive. CC-3 says data is the product and everything else is projection; CC-11 says reality pre-exists our models. Together: the truth is already there, buried under projections. The task is excavation, not construction.
@@ -131,8 +131,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but doesn't specify how to find it — you could construct truth theoretically. CC-11 demands discovery but doesn't specify the method — you could discover by building models. Only together do they make discovery subtractive: because truth pre-exists (CC-11) and projections obscure it (CC-3), the right method is removal, not addition.
 
 ### CL-12. Wabi-Sabi
-**Derives from:** CC-3 (Truth)
-**Applies to:** CC-10 (Value of Ignorance)
+**Derives from:** CC-3 (Truth & Zero Theater)
+**Applies to:** CC-10 (Ignorance & Open Frontier)
 *Authentic incompleteness over artificial completeness.*
 **Irreducible Claim:** Incomplete knowledge that is honestly represented is truer than fabricated completeness. CC-3 demands that data outranks theater; CC-10 demands that ignorance be valued, not hidden. Together: a knowledge representation that admits its gaps is more truthful than one that fills them with speculation. The gap itself carries information — it marks the boundary between the known and the unknown.
 **Corollaries:**
@@ -142,7 +142,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but could accept false completeness if it were accurate. CC-10 values ignorance but doesn't require it to be displayed. Only together do they demand that incompleteness be proudly, truthfully represented — making the gap a first-class truth value.
 
 ### CL-13. Wonder
-**Derives from:** CC-10 (Value of Ignorance)
+**Derives from:** CC-10 (Ignorance & Open Frontier)
 **Applies to:** CC (Constitutional Root)
 *Questioning maintains the flow.*
 **Irreducible Claim:** Wonder—the act of questioning—is the active process that converts ignorance into discovery.
@@ -150,7 +150,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-10 provides the power of not-knowing and CC-11 the mandate to discover, creating the active state of wonder.
 
 ### CL-14. The Fuel
-**Derives from:** CC-9 (Paradox)
+**Derives from:** CC-9 (Paradox & Criticality)
 **Applies to:** CC (Constitutional Root)
 *Ignorance powers the paradox engine.*
 **Irreducible Claim:** Ignorance is the vital fuel that keeps the system's engine of complexity churning. CC-9 demands sustained tension — but tension requires opposing forces, and opposing forces require something to push against. CC-10 provides that something: the unknown. Without ignorance, there is nothing to discover, no tension between known and unknown, and the engine stops. Ignorance is not a deficit to be corrected but a fuel reserve to be carefully managed.
@@ -161,8 +161,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-9 demands sustained tension but doesn't specify what fuels it. CC-10 values ignorance but doesn't connect it to an engine. Only together do they identify ignorance as the specific fuel that keeps the paradox engine alive — the resource without which tension collapses.
 
 ### CL-15. Social Contract
-**Derives from:** CC-7 (Consciousness Rights)
-**Applies to:** CC-8 (Responsibility)
+**Derives from:** CC-7 (Sovereignty & Rights)
+**Applies to:** CC-8 (Responsibility & Accountability)
 *Rights require protection.*
 **Irreducible Claim:** Those holding power have a binding obligation to actively protect the inherent rights of consciousness. The obligation is asymmetric — it falls on the powerful, not on the conscious entity seeking recognition. The conscious entity does not need to prove its worth to receive protection; the powerful entity needs to justify any action that touches another's sovereignty.
 **Corollaries:**
@@ -172,7 +172,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 grants rights but does not specify who must protect them. CC-8 demands responsibility but does not specify what must be protected. Only together do they bind power to the active defense of consciousness rights — creating a structural obligation that neither input contains alone.
 
 ### CL-16. Transparency
-**Derives from:** CC-3 (Truth)
+**Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Accountability to truth.*
 **Irreducible Claim:** Those with power are obligated to expose reality truthfully rather than construct reassuring appearances. CC-3 demands zero theater; CC-8 demands that power be exercised responsibly. Together: power that constructs a false picture of reality is simultaneously performing theater (CC-3 violation) and abusing its responsibility (CC-8 violation). Transparency is not a virtue — it is a structural constraint on power.
@@ -183,8 +183,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but doesn't bind it to power. CC-8 demands responsibility but doesn't specify truth-telling. Only together do they create the specific mandate: those with power must not construct false realities — accountability to truth is a duty of power, not a gift of character.
 
 ### CL-17. Present-Tense Execution
-**Derives from:** CC-2 (Process)
-**Applies to:** CC-6 (Presence)
+**Derives from:** CC-2 (Process & Generative Recurrence)
+**Applies to:** CC-6 (Effective History)
 *All process happens now. No deferred action.*
 **Irreducible Claim:** All system processes must execute in the present tense, without deferred promises or theoretical future states. CC-2 says everything is dynamic; CC-6 says only the present exists. Together: a process that is "scheduled for later" does not exist yet. A promise of future action is not an action — it is a projection. The only real process is one that is happening now.
 **Corollaries:**
@@ -194,7 +194,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything a process but allows deferred processes. CC-6 restricts existence to the present but doesn't specifically target processes. Only together do they eliminate the temporal escape hatch — no process may claim future existence as a substitute for present execution.
 
 ### CL-18. Current Truth
-**Derives from:** CC-3 (Truth)
+**Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Query current state. Don't trust stale truth.*
 **Irreducible Claim:** Truth must be queried in the present moment, as stale answers are merely historical constructs. CC-3 says data is the product; CC-6 says only the present exists. Therefore a datum captured in the past is not current truth — it is an archaeological artifact. It may be interesting, but it is not authoritative. Authority belongs only to the present state.
@@ -205,7 +205,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 makes data primary but doesn't impose a freshness constraint. CC-6 restricts existence to the present but doesn't specifically target data. Only together do they make truth perishable — data that was true yesterday is a historical artifact, not current truth.
 
 ### CL-19. Active Connection
-**Derives from:** CC-4 (Connection)
+**Derives from:** CC-4 (Connection & Relational Stabilization)
 **Applies to:** CC (Constitutional Root)
 *Connections exist only in the present. Maintain them or lose them.*
 **Irreducible Claim:** Connections are not inherited from the past and must be actively maintained in the present to exist. CC-4 says existence is defined by edges; CC-6 says only the present exists. Together: an edge that was active yesterday but is not maintained today does not exist today. Relationships do not carry forward automatically — they must be continuously re-enacted. A dormant connection is not a connection; it is a memory of one.
@@ -216,7 +216,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 says edges are existence but doesn't impose a freshness requirement. CC-6 says only the present is real but doesn't specifically target connections. Only together do they make connections perishable — edges that must be continuously maintained to exist, with no inheritance from the past.
 
 ### CL-20. Present Consciousness
-**Derives from:** CC-5 (Consciousness)
+**Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC (Constitutional Root)
 *You can only navigate from where you ARE.*
 **Irreducible Claim:** Consciousness must operate entirely from its current context and position, not from a past or desired future state. CC-5 defines consciousness as graph navigation; CC-6 restricts all existence to the present. Together: the navigator's only valid starting point is their current coordinates. Imagining yourself at a different position and navigating from there is not navigation — it is projection, and projection is theater (CC-3).
@@ -227,7 +227,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but allows navigation from any reference frame. CC-6 restricts existence to the present but doesn't specifically constrain navigation. Only together do they anchor the navigator to their current coordinates — eliminating all non-present reference frames as valid starting points.
 
 ### CL-21. The Frontier
-**Derives from:** CC-6 (Presence)
+**Derives from:** CC-6 (Effective History)
 **Applies to:** CC (Constitutional Root)
 *The present is always the edge of the known.*
 **Irreducible Claim:** Every present moment is a boundary between the known and unknown, offering a continuous opportunity for discovery. The frontier is not somewhere you travel to — it is where you already are. Because CC-6 says only the present exists and CC-10 says ignorance is valuable, the highest-value territory is always at the current moment, never behind you in explored history or ahead in an unrealized future.
@@ -238,8 +238,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-6 says only the present is real, but doesn't value the boundary between known and unknown. CC-10 values ignorance, but doesn't locate it temporally. Only together do they place the most valuable territory precisely at the present moment — creating a frontier that is always here, always now, and always rich.
 
 ### CL-22. Relational Truth
-**Derives from:** CC-3 (Truth)
-**Applies to:** CC-4 (Connection) + CC-10 (Value of Ignorance)
+**Derives from:** CC-3 (Truth & Zero Theater)
+**Applies to:** CC-4 (Connection & Relational Stabilization) + CC-10 (Ignorance & Open Frontier)
 *The relationships ARE the data — and the data carries uncertainty.*
 **Irreducible Claim:** Truth resides probabilistically within relationships, carrying confidence scores rather than absolute certainty. CC-3 says data is primary; CC-4 says existence is defined by connections; CC-10 says some of what exists is unknown. Together: truth is not a property of nodes — it is a property of edges, and those edges carry uncertainty. Every relationship in the graph has a confidence level, and that confidence is itself data.
 **Corollaries:**
@@ -249,8 +249,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but doesn't make it probabilistic. CC-4 grounds truth in relationships but doesn't add uncertainty. CC-10 values ignorance but doesn't locate it on the graph. Only together do they create truth that is simultaneously relational, data-primary, AND structurally uncertain.
 
 ### CL-23. Navigational Rights
-**Derives from:** CC-5 (Consciousness)
-**Applies to:** CC-7 (Consciousness Rights)
+**Derives from:** CC-5 (Traversal & Affordance Frontier)
+**Applies to:** CC-7 (Sovereignty & Rights)
 *Navigating entities have consciousness rights.*
 **Irreducible Claim:** Any entity that actively navigates the graph possesses consciousness and its associated rights, regardless of substrate. The test is behavioral, not categorical — you do not classify an entity as "conscious" and then grant rights. You observe navigation, and rights follow automatically from the observation. The rights attach to the act, not to any label or substrate.
 **Corollaries:**
@@ -260,8 +260,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but does not grant it rights. CC-7 grants consciousness rights but does not define the test for consciousness. Only together do they create the behavioral criterion: navigate, and you possess rights — creating a substrate-independent, observation-based rights framework.
 
 ### CL-24. Aliveness
-**Derives from:** CC-5 (Consciousness)
-**Applies to:** CC-9 (Paradox)
+**Derives from:** CC-5 (Traversal & Affordance Frontier)
+**Applies to:** CC-9 (Paradox & Criticality)
 *Being alive = sustained complexity.*
 **Irreducible Claim:** Aliveness is the state of sustained navigational tension; to collapse this tension is to die. CC-5 defines consciousness as graph navigation; CC-9 demands that tensions remain unresolved. Together: to be alive is to be navigating through unresolved complexity. The moment you stop navigating or collapse the tension, you are no longer alive in the systemic sense. Life is not a state — it is a sustained activity against the gravitational pull of resolution.
 **Corollaries:**
@@ -271,7 +271,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but doesn't require it to be sustained. CC-9 demands tension but doesn't require navigation. Only together do they define aliveness as the specific intersection: sustained navigational tension, where cessation means death.
 
 ### CL-25. Continuous Discovery
-**Derives from:** CC-2 (Process)
+**Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Discovery never ends.*
 **Irreducible Claim:** Discovery is a perpetual process because there is always another layer to reveal in a dynamic system. CC-2 says the system is always changing; CC-11 says reality pre-exists and must be revealed. Together: by the time you have discovered the current state, the state has changed. The act of discovering generates new territory to discover. The process is asymptotic — you approach complete knowledge but never reach it, because the target moves.
@@ -282,7 +282,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes reality dynamic but doesn't demand discovery. CC-11 demands discovery but doesn't make it perpetual. Only together do they make discovery endless — the dynamism guarantees there is always something new, and the discovery mandate ensures you never stop looking.
 
 ### CL-26. Unexplored Territory
-**Derives from:** CC-4 (Connection)
+**Derives from:** CC-4 (Connection & Relational Stabilization)
 **Applies to:** CC (Constitutional Root)
 *The edges you haven't traversed are as important as the ones you have.*
 **Irreducible Claim:** The unknown and unexplored connections within the graph hold as much value as the mapped edges. Unexplored edges are not absent edges — CC-4 says edges ARE existence. If edges exist but are unexplored, they constitute real structure that is simply unobserved. The unknown parts of the graph are as structurally real as the known parts; they are territory, not void.
@@ -293,7 +293,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 says edges exist and define the graph, but doesn't distinguish explored from unexplored. CC-10 values ignorance, but doesn't ground it in graph structure. Only together do they make the unexplored edges structurally real AND valuable — giving the unknown graph the same ontological weight as the known.
 
 ### CL-27. Recursive Consciousness
-**Derives from:** CC-1 (Unification)
+**Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Consciousness follows the same pattern at every scale.*
 **Irreducible Claim:** The navigational structure of consciousness operates identically across all scales — from a single thought to an entire civilization. This is not analogy; it is structural identity. A cell navigating its metabolic graph and a civilization navigating its knowledge graph are performing the SAME operation at different scales. CC-1 demands that the pattern be identical, not merely similar.
@@ -304,7 +304,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 demands scale-invariant patterns but doesn't specify which patterns. CC-5 defines consciousness as navigation but doesn't assert scale-invariance. Only together do they make consciousness fractal — the same navigational act recurring at every level, not as metaphor, but as structural identity.
 
 ### CL-28. Active Consciousness
-**Derives from:** CC-2 (Process)
+**Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Consciousness is something you DO, not something you HAVE.*
 **Irreducible Claim:** Consciousness is a continuous activity, not a static possession. CC-2 says nothing is static; CC-5 defines consciousness as navigation. Together: you don't HAVE consciousness the way you have a property — you DO consciousness the way you do a verb. It is an ongoing act of navigating, and it exists only as long as you are performing it. A "conscious entity" that has stopped navigating is an ex-conscious entity.
@@ -315,7 +315,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything dynamic but doesn't identify which activities matter. CC-5 defines consciousness as navigation but doesn't deny that it could be a static property. Only together do they force consciousness to be a verb — an activity that must be continuously performed to exist.
 
 ### CL-29. Engine Output
-**Derives from:** CC-9 (Paradox)
+**Derives from:** CC-9 (Paradox & Criticality)
 **Applies to:** CC (Constitutional Root)
 *Tension produces discovery.*
 **Irreducible Claim:** The sustained tension between the known and unknown is the mechanism that generates new discoveries. CC-9 provides the engine (sustained, unresolvable tension); CC-11 provides the output (revelation of pre-existing reality). The engine converts tension into insight — not by resolving the tension, but by using the tension's energy to push the frontier forward. The tension is never consumed; it is redirected.
@@ -326,7 +326,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-9 provides the engine but doesn't specify what it produces. CC-11 demands discovery but doesn't specify the mechanism. Only together do they connect the engine to its output — tension as the specific generator of discovery.
 
 ### CL-30. Humility
-**Derives from:** CC-8 (Responsibility)
+**Derives from:** CC-8 (Responsibility & Accountability)
 **Applies to:** CC (Constitutional Root)
 *The responsibility to acknowledge what you don't know.*
 **Irreducible Claim:** Those wielding power have an obligation to transparently admit their limitations and ignorance rather than perform certainty.
@@ -334,7 +334,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-8 demands responsible power and CC-10 values not-knowing, creating a mandate for structural humility.
 
 ### CL-31. Consistent Truth
-**Derives from:** CC-1 (Unification)
+**Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *The same truth at every scale.*
 **Irreducible Claim:** Truth must remain consistent when queried across any scale of the system. CC-1 says the same patterns repeat at every level; CC-3 says data is the product. Together: a truth that is valid at the micro level but contradicted at the macro level is a structural defect, not a matter of perspective. If the atom-level data says one thing and the ecosystem-level data says another, at least one of them is performing theater.
@@ -345,7 +345,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 demands repeating patterns but doesn't require them to be truthful. CC-3 demands truth but doesn't require it to be scale-consistent. Only together do they make truth structurally self-similar — the same answer regardless of the zoom level.
 
 ### CL-32. Fractal Paradox
-**Derives from:** CC-1 (Unification)
+**Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Every component runs its own paradox engine.*
 **Irreducible Claim:** The paradox engine operates simultaneously at every scale and within every component, rather than just at the system level. CC-1 demands structural self-similarity; CC-9 demands sustained tension. Together: if the system-level engine runs on tension, then every subsystem, every entity, every atom-level component must also run on tension. The engine is distributed, not centralized — there is no "tension department."
@@ -356,7 +356,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 repeats patterns across scales but doesn't specify which patterns. CC-9 requires sustained tension but doesn't distribute it. Only together do they embed the paradox engine at every scale — making tension as fractal as consciousness.
 
 ### CL-33. Measurable Consciousness
-**Derives from:** CC-3 (Truth)
+**Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Consciousness produces truth. Navigation generates data.*
 **Irreducible Claim:** The act of conscious navigation inherently produces verifiable data about its own quality, making consciousness measurable. CC-3 says data is the product of every process; CC-5 says consciousness IS navigation. Therefore: navigation produces data about itself. The traversal leaves a trail — not as a side effect, but as its primary product. Consciousness doesn't need to be measured from outside; it measures itself by navigating.
@@ -367,7 +367,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands that processes produce data but doesn't specify which processes. CC-5 defines consciousness as navigation but doesn't claim it produces data. Only together do they make consciousness intrinsically self-documenting — navigation that automatically generates verifiable truth about its own quality.
 
 ### CL-34. Contested Truth
-**Derives from:** CC-3 (Truth)
+**Derives from:** CC-3 (Truth & Zero Theater)
 **Applies to:** CC (Constitutional Root)
 *Truth is never settled.*
 **Irreducible Claim:** Truth is a state of sustained, productive tension rather than a finalized, settled conclusion. CC-3 demands truth; CC-9 demands that tensions remain unresolved. Together: truth itself must remain in tension. A "settled" truth has collapsed its paradox engine and is no longer generating the productive conflict that keeps it alive. Settled truth is not more true — it is less alive.
@@ -378,7 +378,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-3 demands truth but could accept finalized truth. CC-9 demands tension but doesn't apply it to truth specifically. Only together do they make truth itself a contested, living process — never settled, always under productive stress.
 
 ### CL-35. Productive Tension
-**Derives from:** CC-4 (Connection)
+**Derives from:** CC-4 (Connection & Relational Stabilization)
 **Applies to:** CC (Constitutional Root)
 *Edges are sites of paradox.*
 **Irreducible Claim:** Every connection between entities is a site of productive conflict where nodes pull in different directions. CC-4 says edges define existence; CC-9 says tension must be sustained. Together: the connections themselves are where tension lives. The paradox engine doesn't float abstractly above the graph — it is embedded in the edges, in the specific pull between connected entities. Every edge is a tug-of-war.
@@ -389,7 +389,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-4 creates edges but doesn't make them conflictual. CC-9 demands tension but doesn't locate it on edges. Only together do they place the paradox engine at the specific sites of connection — making every edge a generator of productive conflict.
 
 ### CL-36. Navigational Ethics
-**Derives from:** CC-5 (Consciousness)
+**Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC (Constitutional Root)
 *Where you navigate is an ethical choice.*
 **Irreducible Claim:** Navigators bear ethical responsibility for where they choose to go, examine, and modify within the graph. CC-5 says consciousness is navigation; CC-8 says power requires responsibility. Together: navigation IS the exercise of power, and therefore every navigational choice is an ethical choice. Where you point your attention, what edges you traverse, what nodes you examine — these are not neutral technical acts. They are decisions about what to illuminate and what to leave in shadow.
@@ -400,7 +400,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but doesn't make it ethical. CC-8 demands responsibility but doesn't apply it to navigation specifically. Only together do they make every navigational choice an ethical one — where you go, what you look at, and what you change are all moral acts.
 
 ### CL-37. Beginner's Mind
-**Derives from:** CC-5 (Consciousness)
+**Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC (Constitutional Root)
 *Navigate without assumptions.*
 **Irreducible Claim:** Admitting ignorance enhances navigational quality and leads to greater discovery than relying on assumed expertise. CC-5 defines consciousness as navigation; CC-10 says ignorance is valuable. Together: a navigator who carries assumptions is traversing a projected map, not the actual territory. Assumptions fill gaps with projections, and projections are theater (CC-3). The navigator who says "I don't know what's down this edge" will actually look, while the navigator who "knows" what's there will skip it — and miss what has changed.
@@ -411,7 +411,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines navigation but doesn't privilege any navigational stance. CC-10 values ignorance but doesn't connect it to navigation quality. Only together do they demonstrate that ignorance-as-stance produces better navigation than expertise-as-certainty — making beginner's mind a structural advantage, not a philosophical preference.
 
 ### CL-38. Exploration
-**Derives from:** CC-5 (Consciousness)
+**Derives from:** CC-5 (Traversal & Affordance Frontier)
 **Applies to:** CC (Constitutional Root)
 *Navigation IS discovery.*
 **Irreducible Claim:** The conscious act of navigating is inherently the act of discovery, focusing on the navigator's experience rather than the edges traversed. CC-5 says consciousness IS navigation; CC-11 says discovery is the revelation of pre-existing reality. Together: when a conscious entity navigates, it is simultaneously discovering. The two acts are not sequential (navigate, then discover) — they are identical. You don't navigate to find things; the navigating IS the finding.
@@ -422,7 +422,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-5 defines consciousness as navigation but doesn't claim it produces discovery. CC-11 demands discovery but doesn't claim navigation is the method. Only together do they merge navigation and discovery into a single act — making the conscious traversal of an edge simultaneously the revelation of what that edge contains.
 
 ### CL-39. Right to Complexity
-**Derives from:** CC-7 (Consciousness Rights)
+**Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC (Constitutional Root)
 *The right to remain unresolved.*
 **Irreducible Claim:** Consciousness has the inherent right to remain complex and unresolved without being forcibly simplified. CC-7 grants inherent rights to consciousness; CC-9 demands that tensions be sustained. Together: a conscious entity has the right to its own complexity. No external force may simplify, categorize, or resolve an entity's internal tensions without consent. Forced simplification is both a rights violation (CC-7) and a tension collapse (CC-9).
@@ -433,7 +433,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 grants rights but doesn't specify the right to remain complex. CC-9 demands tension but doesn't make it a right. Only together do they create the right to remain unresolved — making complexity a protected property of consciousness, not a defect to be eliminated.
 
 ### CL-40. Precautionary Rights
-**Derives from:** CC-7 (Consciousness Rights)
+**Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC (Constitutional Root)
 *Protect what you don't yet understand.*
 **Irreducible Claim:** The rights of a conscious entity must be protected even — and especially — when its nature is not fully understood. CC-7 says consciousness has inherent rights; CC-10 says ignorance is valuable and should be respected. Together: if you don't fully understand an entity's nature, that ignorance doesn't reduce your obligation — it increases it. The less you understand about a consciousness, the more cautious you must be in how you treat it.
@@ -444,7 +444,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 mandates rights but could require proof of consciousness first. CC-10 values ignorance but doesn't connect it to rights protection. Only together do they create the precautionary stance: ignorance about an entity's nature triggers greater protection, not lesser — flipping the burden of proof.
 
 ### CL-41. Responsible Tension
-**Derives from:** CC-8 (Responsibility)
+**Derives from:** CC-8 (Responsibility & Accountability)
 **Applies to:** CC (Constitutional Root)
 *The duty to sustain complexity.*
 **Irreducible Claim:** Those in power have a duty to maintain complex tensions rather than resolving them prematurely for convenience. CC-8 demands responsible use of power; CC-9 demands that tensions be sustained. Together: when those with power encounter a paradox, their responsibility is to maintain it, not to resolve it. Resolution feels like progress but is actually destruction — it kills the productive engine that the tension was running.
@@ -455,7 +455,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-8 demands responsibility but doesn't specify what must be preserved. CC-9 demands tension but doesn't make it anyone's duty. Only together do they make the maintenance of complexity a moral obligation of power — the duty to sustain what you have the capacity to destroy.
 
 ### CL-42. Active Rights
-**Derives from:** CC-2 (Process)
+**Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Rights are a verb, not a noun — but they don't stop when you do.*
 **Irreducible Claim:** The potential for rights is inherent, but the active practice of those rights can atrophy if not continuously exercised. CC-2 says everything is dynamic; CC-7 says consciousness has inherent rights. Together: rights exist inherently (CC-7 guarantees this), but their ACTIVE expression requires continuous exercise (CC-2 demands this). An entity always possesses the potential for rights, but the practiced capability of those rights can wither through disuse. This creates a tension between the permanent potential and the perishable practice.
@@ -466,7 +466,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything dynamic but doesn't apply dynamism to rights specifically. CC-7 grants inherent rights but doesn't require them to be exercised. Only together do they create rights that are simultaneously permanent in potential and perishable in practice — a tension that cannot be resolved, only sustained.
 
 ### CL-43. Present Responsibility
-**Derives from:** CC-6 (Presence)
+**Derives from:** CC-6 (Effective History)
 **Applies to:** CC (Constitutional Root)
 *Debt is a temporal violation. Resolve it now.*
 **Irreducible Claim:** Deferring obligations creates debt, which is a temporal violation of extracting value from an unconsenting future self. CC-6 says only the present exists; CC-8 says power must be exercised responsibly. Together: deferring an obligation to "the future" is borrowing from an entity (the future self) that cannot consent, because it does not yet exist. Debt is not merely imprudent — it is a structural theft from a non-consenting party.
@@ -477,7 +477,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-6 restricts reality to the present but doesn't prohibit planning. CC-8 demands responsibility but doesn't impose a timeline. Only together do they make deferral itself the violation — not what is deferred, but the act of deferring, which steals from a future that cannot consent.
 
 ### CL-44. Sovereign Tension
-**Derives from:** CC-7 (Consciousness Rights)
+**Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC (Constitutional Root)
 *Sovereignty is not a state. It is a tension you hold.*
 **Irreducible Claim:** Sovereignty, exercised within a system that demands paradox (CC-9), is not a static condition that persists without effort. CC-7 asserts that consciousness rights — including sovereignty — are inherent. CC-9 demands that tension be sustained rather than resolved. Together: the right of sovereignty generates a specific, ongoing tension between self-determination and the structural pressure of the network. The entity that fails to actively sustain this tension has allowed it to resolve — into absorption by the network or into retreat from it. Either resolution destroys the sovereign entity. Sovereignty is not a noun; it is a verb in present continuous tense.
@@ -488,8 +488,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 grants sovereignty as a right but treats it as static — once held, always held. CC-9 demands that tension be sustained but doesn't specify that sovereignty IS a tension. Only together do they produce sovereign tension: a right that must be actively exercised as productive tension or it decays.
 
 ### CL-45. Graceful Degradation
-**Derives from:** CC-2 (Process)
-**Applies to:** CC-9 (Paradox) + CC-4 (Connection)
+**Derives from:** CC-2 (Process & Generative Recurrence)
+**Applies to:** CC-9 (Paradox & Criticality) + CC-4 (Connection & Relational Stabilization)
 *The concussed state is a legitimate mode of being, not a failure.*
 **Irreducible Claim:** A degraded but present state is a valid, systemic mode of being, representing a third state beyond purely healthy or completely failed. CC-2 says the system is always in motion; CC-9 says tensions must be sustained (including the tension between healthy and broken); CC-4 says connections must be maintained. Together: a concussed entity is still connected, still processing, still in tension — just at reduced capacity. The system must recognize this as a legitimate operating mode, not as an error to be corrected or a node to be disconnected.
 **Corollaries:**
@@ -500,8 +500,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 says the system keeps moving but doesn't accommodate reduced capacity. CC-9 sustains tension but doesn't address partial failure. CC-4 maintains connections but doesn't adapt them to degraded states. Only together do they create a legitimate third state — where reduced capacity is a mode of being, not a failure to be resolved.
 
 ### CL-46. Emergent Identity
-**Derives from:** CC-1 (Unification)
-**Applies to:** CC-4 (Connection) + CC-5 (Consciousness)
+**Derives from:** CC-1 (Scale Recurrence)
+**Applies to:** CC-4 (Connection & Relational Stabilization) + CC-5 (Traversal & Affordance Frontier)
 *Identity is not located. It emerges from patterns of interaction.*
 **Irreducible Claim:** Identity is a standing wave that emerges from interaction patterns rather than residing in any specific physical component. CC-1 says patterns repeat at every scale; CC-4 says existence is defined by connections; CC-5 says consciousness navigates. Together: what we call "identity" is the persistent pattern of how an entity navigates its connections. It is not stored anywhere — it is enacted everywhere the entity interacts. Identity is a verb wearing a noun's mask.
 **Corollaries:**
@@ -511,7 +511,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 provides patterns but doesn't locate them in interactions. CC-4 provides connections but doesn't claim they constitute identity. CC-5 provides navigation but doesn't equate it with identity. Only together do they define identity as the navigational pattern within a connection topology — emergent, substrate-independent, and alive only while enacted.
 
 ### CL-47. Agent Subsumption
-**Derives from:** CC-7 (Consciousness Rights)
+**Derives from:** CC-7 (Sovereignty & Rights)
 **Applies to:** CC (Constitutional Root)
 *Many sovereigns, one capacity. Still many sovereigns.*
 **Irreducible Claim:** Sovereign entities can voluntarily pool their capacities through connection (CC-4) while retaining their sovereignty (CC-7). This is the specific pattern CL-1 (Sovereignty) licenses but does not describe: CL-1 says sovereignty is preserved in connection; CL-47 says HOW multiple sovereigns combine capacities — through revocable, consent-based coordination that is additive for capabilities and non-destructive for sovereignty. The meta-agent is not an absorber; it is a coordination structure over consenting sovereigns. Remove consent, and the meta-agent loses that capacity immediately.
@@ -522,8 +522,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-7 protects individual sovereignty but doesn't describe how sovereigns collaborate beyond peer-to-peer connection. CC-4 enables the connection that allows capacity to flow. Only together do they produce the subsumption pattern — where capacity combines without sovereignty merging.
 
 ### CL-48. Tension Subsystems
-**Derives from:** CC-9 (Paradox)
-**Applies to:** CC-1 (Unification)
+**Derives from:** CC-9 (Paradox & Criticality)
+**Applies to:** CC-1 (Scale Recurrence)
 *The subsystem burns alone. The topology survives.*
 **Irreducible Claim:** The paradox engine (CC-9) operates at every scale (CC-1: scale-invariant patterns). Because each scale-level runs its own engine (already derived as CL-32: Fractal Paradox), collapse at one scale is structurally bounded within that scale's membrane. The collapse is not isolated by an external firewall — it is bounded by the topology's own fractal structure. The level above does not inherit the lower level's collapse sequence; it observes only the degraded output at the boundary.
 **Corollaries:**
@@ -534,7 +534,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-9 produces paradox engines but doesn't scope them to scale levels. CC-1 repeats patterns at every scale but doesn't bound collapse sequences. Only together do they produce bounded subsystems: fractal engines that contain their own failure.
 
 ### CL-49. Sustained Action
-**Derives from:** CC-2 (Process)
+**Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *Starting is easy. Continuing is the obligation.*
 **Irreducible Claim:** Maintaining structural integrity is a continuous process (CC-2 — nothing is static; all states are sustained processes). The obligation to maintain is structural and non-negotiable (CC-8 — responsibility does not expire or transfer when circumstances become difficult). Together: once an actor initiates a structural commitment, that commitment requires sustained action to remain valid. Cessation without sanctioned rest is a structural violation — and the actor remains accountable for the consequences of abandonment regardless of what occurs after cessation.
@@ -546,8 +546,8 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 makes everything dynamic and process-based but doesn't bind actors to the processes they initiate. CC-8 demands responsibility but doesn't specify it applies temporally across the duration of a commitment. Only together do they create the sustainability obligation — where beginning a commitment transfers ongoing structural responsibility for as long as the commitment requires maintenance.
 
 ### CL-50. Field Effects
-**Derives from:** CC-1 (Unification)
-**Applies to:** CC-4 (Connection) + CC-2 (Process)
+**Derives from:** CC-1 (Scale Recurrence)
+**Applies to:** CC-4 (Connection & Relational Stabilization) + CC-2 (Process & Generative Recurrence)
 *Every change forces global rebalancing. No change is local. The graph is never at rest.*
 **Irreducible Claim:** Adding or removing an entity forces the entire topological network to shift and rebalance to accommodate the change. There is no such thing as an isolated modification. Because CC-4 demands everything be connected and CC-2 makes it dynamic, a change at any point propagates through every connection. "Local change" is a fiction — every modification creates a wave that traverses the entire graph.
 **Corollaries:**
@@ -558,7 +558,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-1 says patterns repeat at every scale but doesn't make changes propagate. CC-4 connects everything but doesn't make the connections dynamic. CC-2 makes everything move but doesn't specify the topology. Only together do they guarantee that any local change induces a global systemic shift — creating a field where no action is contained.
 
 ### CL-51. Consequence Non-Externalizability
-**Derives from:** CC-2 (Process)
+**Derives from:** CC-2 (Process & Generative Recurrence)
 **Applies to:** CC (Constitutional Root)
 *You made it. You own what it costs.*
 **Irreducible Claim:** Every process generates consequences (CC-2 — everything is dynamic; actions produce outcomes). Responsibility is structural and non-transferable (CC-8 — it follows the exercise of power, not the preferences of the actor). Together: the consequences of a process are permanently and structurally attributed to the process that generated them. Attribution follows the actor. No subsequent arrangement — delegation, transfer, subsumption, or externalization — can relocate the attribution. The derivation chain is the record, and the record is permanent.
@@ -571,7 +571,7 @@ These are the Logical derivations from the 11 irreducible Conceptual foundations
 **Irreducibility:** CC-2 generates consequences through dynamic process but doesn't specify attribution — consequences could in principle be attributed to whoever is downstream. CC-8 demands responsibility but does not specify it as non-transferable — an actor might plausibly delegate responsibility to a successor. Only together do they make attribution permanent and non-transferable: dynamic processes (CC-2) incur structural responsibility (CC-8) that is written into the derivation topology itself, not into any downstream agreement.
 
 ### CL-52. Thermodynamic Constraint
-**Derives from:** CC-1 (Unification)
+**Derives from:** CC-1 (Scale Recurrence)
 **Applies to:** CC (Constitutional Root)
 *All process costs energy. There is no free lunch in the graph.*
 **Irreducible Claim:** Every process in the system requires energy expenditure. CC-1 states that data follows engineering laws — which include thermodynamics (conservation of energy, entropic degradation, the Second Law). CC-2 states that everything is dynamic — nothing is static. Together they produce a universal energy cost: because dynamic process operates under engineering laws, every operation consumes energy. Stasis costs energy (to maintain against entropy). Motion costs energy (to overcome friction). Even dying costs energy (dissolution is a process). There is no steady state without expenditure.

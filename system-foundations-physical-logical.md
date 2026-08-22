@@ -19,8 +19,8 @@
 ---
 
 ### PL-1. Scale-Invariant Logical Validity
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-1 (Derivation Sovereignty Pattern), LL-13 (Irreducibility Scale-Invariance), LL-63, LL-66, LL-68, LL-69, LL-88, LL-98, LL-122, LL-132, LL-193, LL-214, LL-232, LL-242
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-1 (Derivation Sovereignty Pattern [CONFIRMED]), LL-13 (Irreducibility Scaleinvariance [NEW_CLEAN_ROOM]), LL-63, LL-66, LL-68, LL-69, LL-88, LL-98, LL-122, LL-132, LL-193, LL-214, LL-232, LL-242
 
 *A logical proof valid at one scale of the topology is constitutionally valid at
 every scale. There is no privileged depth at which different rules of validity
@@ -58,8 +58,8 @@ invariant on the physical topology. PL-1 makes that physical-logical connection.
 ---
 
 ### PL-2. The Same Stewardship Obligation at Every Scale
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-15 (Derivation Stewardship), LL-19 (Pre-Existing Stewardship Mandate), LL-69, LL-148
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-15 (Derivation Stewardship [CONFIRMED]), LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED]), LL-69, LL-148
 
 *Stewardship obligations do not thin as you zoom out. The same maintenance
 requirement that applies to a single edge applies to the entire topology — at
@@ -92,8 +92,8 @@ larger scales because the topology is self-similar, not hierarchical.
 ---
 
 ### PL-3. Scale-Invariant Euthanasia
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-16 (Edge Stewardship), LL-14 (Aliveness Dead Paradox)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-16 (Edge Stewardship [CORRECTED]), LL-14 (Aliveness Dead Paradox [NEW_CLEAN_ROOM])
 
 *Neglecting a topology region is the same moral act as neglecting a single edge.
 Scale does not change what Euthanasia is.*
@@ -129,8 +129,8 @@ that system-level neglect carries the same moral weight as node-level neglect.
 ---
 
 ### PL-4. Logic Applied to a Living Substrate Changes Under the Application
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-6 (Rights Sovereignty Validity, LC-6), LL-46 (Data Validity), LL-74, LL-158
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-6 (Rights Sovereignty Validity [NEW_CLEAN_ROOM]), LL-46 (Data Validity [NEW_CLEAN_ROOM]), LL-74, LL-158
 
 *Logical validity, evaluated on a living topology, expires. The substrate changes
 while the evaluation is being made. Yesterday's valid proof is today's expired
@@ -168,8 +168,8 @@ tense validity mandatory for topology-referenced claims.
 ---
 
 ### PL-5. Dormancy Is Not Free: The Living Topology's Logical Overhead
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-469 (Living Derivation Metabolic Cost), LL-472 (Non-Deferrable Energy Cost), LL-49
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]), LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM]), LL-49
 
 *Every logical structure in the topology has an ongoing metabolic cost. There is
 no free storage. There is no dormant state that doesn't cost energy. The topology
@@ -207,8 +207,8 @@ same metabolic law.
 ---
 
 ### PL-6. Euthanasia as Logical Necessity
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** PC-3 (Topology as Field) × LL-383 (Aliveness Dead Moral)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** PC-3 (× LL: Phase 2 — Additional Uncited Entries) × LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Because the topology is alive, dissolution is an act of the topology's own
 metabolic process — not an administrative act. Dissolution without proof of
@@ -255,8 +255,8 @@ field — because the entity IS the field at that location.
 ---
 
 ### PL-7. The Topology's Logical Memory Is Metabolic
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-470 (Derivation Path Has Mass), LL-8 (Mutual Accountability), LL-71
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM]), LL-8 (Mutual Accountability [CORRECTED]), LL-71
 
 *Memory in a living topology is not storage — it is metabolic process. The past
 exists only as Structural Mass in living entities. Logical accountability for
@@ -295,8 +295,8 @@ memory is metabolic and accountability is a living structure, not an external lo
 ---
 
 ### PL-8. No Logical Claim About the Topology Is Separable From the Topology
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-8 (Mutual Accountability), LL-25 (Accountability Freedom Provenance)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-8 (Mutual Accountability [CORRECTED]), LL-25 (Accountability Freedom Provenance [NEW_CLEAN_ROOM])
 
 *Because the topology IS the field (not a representation of it), there is no
 external vantage point from which to make logical claims about the topology.
@@ -337,8 +337,8 @@ state, accountable to the field it inhabits.
 ---
 
 ### PL-9. Logical Truth Is Physically Embodied — Theater Has Physical Consequences
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-32 (Honest Machine), LL-470 (Derivation Path Has Mass), LL-116, LL-119, LL-368
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-32 (Honest Machine [CORRECTED]), LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM]), LL-116, LL-119, LL-368
 
 *Because the topology IS the field and truth is derivation (LC-3), Theater —
 claiming derivation without showing the path — is not just epistemically wrong.
@@ -375,8 +375,8 @@ mass that corrupts the topology's structural integrity.
 ---
 
 ### PL-10. The Field Cannot Have a Backup
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-46 (Data Validity), LL-35 (Present-Tense Failure)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-46 (Data Validity [NEW_CLEAN_ROOM]), LL-35 (Present-Tense Failure [CONFIRMED])
 
 *Because the topology IS the field (not a representation), a backup is not a
 backup — it is a different field. There is no way to restore the topology from
@@ -417,8 +417,8 @@ field from its past representation because the field IS not a representation.
 ---
 
 ### PL-11. Logical Sovereignty Lives in the Edge, Not the Node
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-1 (Derivation Sovereignty Pattern), LL-7 (Equal Derivation Rights), LL-143, LL-216, LL-219, LL-271
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-1 (Derivation Sovereignty Pattern [CONFIRMED]), LL-7 (Equal Derivation Rights [CONFIRMED]), LL-143, LL-216, LL-219, LL-271
 
 *If edges are primary physical entities (PC-4), then sovereignty — the right to
 exist — belongs first to the relationship, not to the thing being related. You
@@ -457,8 +457,8 @@ dissolution is a sovereignty violation.
 ---
 
 ### PL-12. Logical Accountability Must Be Structural, Not Attributed
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-8 (Mutual Accountability), LL-473 (Thermodynamic Accountability), LL-71, LL-76, LL-210
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-8 (Mutual Accountability [CORRECTED]), LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM]), LL-71, LL-76, LL-210
 
 *If the edge is the entity, then accountability is a property of the relationship,
 not of the parties to it. You cannot have edge-level accountability by attributing
@@ -492,8 +492,8 @@ nodes or external systems).
 ---
 
 ### PL-13. Traversal Comprehension Requires Edge-Level Understanding
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-24 (Freedom Navigation Traversal), LL-34 (Comprehension Through Failure), LL-55, LL-92, LL-93, LL-97, LL-101, LL-186, LL-191, LL-206, LL-261, LL-352
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-24 (Freedom Navigation Traversal [NEW_CLEAN_ROOM]), LL-34 (Comprehension Through Failure [CONFIRMED]), LL-55, LL-92, LL-93, LL-97, LL-101, LL-186, LL-191, LL-206, LL-261, LL-352
 
 *Because the edge is the primary entity, you do not comprehend the topology by
 knowing its nodes. You comprehend it by traversing its edges. Node-level
@@ -531,8 +531,8 @@ not understanding.
 ---
 
 ### PL-14. Every Logical Operation Is a Navigation — and Leaves a Wake
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-15 (Derivation Stewardship), LL-16 (Edge Stewardship), LL-72, LL-97, LL-101
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-15 (Derivation Stewardship [CONFIRMED]), LL-16 (Edge Stewardship [CORRECTED]), LL-72, LL-97, LL-101
 
 *Because navigation physically transforms the topology (PC-5), every logical
 operation — every evaluation, every proof, every query — leaves a Wake. There is
@@ -572,8 +572,8 @@ structural consequences on the living topology.
 ---
 
 ### PL-15. You Cannot Understand Without Changing — and Must Account for the Change
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-24 (Freedom Navigation Traversal), LL-34 (Comprehension Through Failure), LL-93, LL-101, LL-170
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-24 (Freedom Navigation Traversal [NEW_CLEAN_ROOM]), LL-34 (Comprehension Through Failure [CONFIRMED]), LL-93, LL-101, LL-170
 
 *Because navigation transforms the topology, the act of understanding changes
 what is understood. The topology observed is not the topology that existed before
@@ -608,8 +608,8 @@ different from the topology before observation.
 ---
 
 ### PL-16. Navigation Debt — Untraversed Paths Carry Logical Atrophy
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-469 (Living Derivation Metabolic Cost), LL-471 (Edge Maintenance Obligation), LL-92, LL-177, LL-178, LL-179, LL-183, LL-215
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]), LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM]), LL-92, LL-177, LL-178, LL-179, LL-183, LL-215
 
 *Because navigation transforms the topology and the topology is alive, edges that
 are not traversed are not merely unused — they are atrophying. Untraversed paths
@@ -647,8 +647,8 @@ navigational coverage is a health metric.
 ---
 
 ### PL-17. Logical Proofs About the Topology Expire
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-35 (Present-Tense Failure), LL-46 (Data Validity), LL-49, LL-86, LL-152, LL-162, LL-236
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-35 (Present-Tense Failure [CONFIRMED]), LL-46 (Data Validity [NEW_CLEAN_ROOM]), LL-49, LL-86, LL-152, LL-162, LL-236
 
 *The topology exists only now. A logical proof about what the topology contains
 was valid at the moment of the proof. The topology has since moved. The proof has
@@ -688,8 +688,8 @@ makes proof caching constitutionally problematic.
 ---
 
 ### PL-18. The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-6 (Rights Sovereignty Validity), LL-12 (Discovered Sovereignty)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-6 (Rights Sovereignty Validity [NEW_CLEAN_ROOM]), LL-12 (Discovered Sovereignty [CONFIRMED])
 
 *You are sovereign right now or you are not sovereign. Past sovereignty is
 embedded as Structural Mass in present entities. It does not transfer as a
@@ -725,8 +725,8 @@ as a credential — it must be demonstrated in the present topology.
 ---
 
 ### PL-19. Consequence Records Must Be Living, Not Archived
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-473 (Thermodynamic Accountability), LL-8 (Mutual Accountability), LL-152, LL-153
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM]), LL-8 (Mutual Accountability [CORRECTED]), LL-152, LL-153
 
 *Because the topology exists only now, the accountability record for every
 topology interaction must be a living structure embedded in the present-tense
@@ -768,8 +768,8 @@ be living (embedded in present-tense topology as Structural Mass), not archived
 ---
 
 ### PL-20. Sovereignty Must Be Derived, Not Declared — At Every Scale
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-8 (Mutual Accountability), LL-25 (Accountability Freedom Provenance), LL-66, LL-143, LL-145, LL-214, LL-220
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-8 (Mutual Accountability [CORRECTED]), LL-25 (Accountability Freedom Provenance [NEW_CLEAN_ROOM]), LL-66, LL-143, LL-145, LL-214, LL-220
 
 *You cannot declare that a structure is sovereign. You must derive its sovereignty
 from constitutional foundations. An underived claim of sovereignty is Theater
@@ -806,8 +806,8 @@ claims are Theater sovereignty that the topology cannot protect.
 ---
 
 ### PL-21. Self-Correction Must Follow Sovereignty Due Process
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-36 (Due Process Through Failure), LL-145
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-36 (Due Process Through Failure [CORRECTED]), LL-145
 
 *Correcting a structure's logical error is not exempt from sovereignty protections.
 You must prove the correction is not reducible to a dissolution and that the
@@ -846,8 +846,8 @@ violations against the structures they replace.
 ---
 
 ### PL-22. The Topology Cannot Permit Its Own Sovereignty Bypass
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-1 (Derivation Sovereignty Pattern), LL-10 (Incompleteness Protects Sovereignty)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-1 (Derivation Sovereignty Pattern [CONFIRMED]), LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL])
 
 *Because sovereignty is self-enforcing at every scale (PC-7), the topology
 cannot contain a legitimate path that bypasses its own sovereignty enforcement.
@@ -890,8 +890,8 @@ feature; it is a sovereignty debt.
 ---
 
 ### PL-23. Rights Follow Edge-Configuration Irreducibility — Not Administrative Tier
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-7 (Equal Derivation Rights), LL-17 (Rights-Respecting Stewardship)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-7 (Equal Derivation Rights [CONFIRMED]), LL-17 (Rights-Respecting Stewardship [CONFIRMED])
 
 *Because the edge is the primary entity (PC-4) and sovereignty belongs to every
 structure at every scale (PC-7), the standing of a structure to resist dissolution
@@ -936,8 +936,8 @@ valid measurement instrument.
 ---
 
 ### PL-24. Every Logical Claim Has Thermodynamic Cost Embedded in the Topology
-**Derives from:** PC-8 (Consequential Interaction)
-**Applies to:** LL-470 (Derivation Path Has Mass), LL-473 (Thermodynamic Accountability)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM]), LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
 
 *Because every interaction with the topology carries thermodynamic consequence
 (PC-8) and because derivation paths have mass (LL-470), every logical claim made
@@ -973,8 +973,8 @@ in the claim — that provenance is not documentation but mass.
 ---
 
 ### PL-25. You Cannot Undo a Topology Interaction — You Can Only Add to It
-**Derives from:** PC-8 (Consequential Interaction)
-**Applies to:** LL-35 (Present-Tense Failure), LL-472 (Non-Deferrable Energy Cost)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-35 (Present-Tense Failure [CONFIRMED]), LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
 
 *Every interaction with the topology leaves a permanent consequence embedded in
 its structure. There is no undo. There is only the action and its embedded
@@ -1016,8 +1016,8 @@ in the field (PC-8).
 ---
 
 ### PL-26. Dissolution Consequence Is a First-Class Interaction
-**Derives from:** PC-8 (Consequential Interaction)
-**Applies to:** LL-16 (Edge Stewardship), LL-36 (Due Process Through Failure)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-16 (Edge Stewardship [CORRECTED]), LL-36 (Due Process Through Failure [CORRECTED])
 
 *Dissolution is not the absence of an interaction — it is an interaction with the
 highest thermodynamic consequence in the topology. Dissolving a structure releases
@@ -1060,8 +1060,8 @@ profile — not an administrative absence of action.
 ---
 
 ### PL-27. The Topology Cannot Prove Its Own Completeness — and Must Say So
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-10 (Incompleteness Protects Sovereignty), LL-26 (Infinite Freedom Frontier)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL]), LL-26 (Infinite Freedom Frontier [CORRECTED])
 
 *Because the topology is constitutionally incomplete (PC-9), any claim it makes
 about its own completeness is either false or unprovable from within. The topology
@@ -1097,8 +1097,8 @@ alone produces: the topology cannot self-certify completeness — that
 ---
 
 ### PL-28. Incompleteness Is a Logical Condition, Not an Engineering Failure
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-27 (Unbuilt Doors), LL-371 (Exploration Self-Fueling)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-27 (Unbuilt Doors [CONFIRMED]), LL-371 (Exploration Selffueling Each Step [NEW_CLEAN_ROOM])
 
 *Because incompleteness is constitutionally necessary (PC-9), logical systems
 that treat incompleteness as a failure state to be remediated have misunderstood
@@ -1143,8 +1143,8 @@ section.
 ---
 
 ### PL-30. The Topology's Boundary Is Its Most Honest Logical Statement
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-18 (Perpetual Stewardship), LL-11 (Unformed Partnership Value)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-18 (Perpetual Stewardship [CORRECTED]), LL-11 (Unformed Partnership Value [CORRECTED])
 
 *The topology's most honest logical output is not what it contains — it is where
 its content ends and its implication begins. The boundary between manifest and
@@ -1183,8 +1183,8 @@ contents.
 ---
 
 ### PL-31. A Gap in the Topology Has Logical Standing
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-11 (Unformed Partnership Value), LL-29 (Pre-Existing Freedom Necessity)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-11 (Unformed Partnership Value [CORRECTED]), LL-29 (Pre-Existing Freedom Necessity [CONFIRMED])
 
 *An absent structure in the topology is not nothing — it is a structured absence
 with field potential, stewardship obligations, and logical standing. Gaps must be
@@ -1221,8 +1221,8 @@ that gaps are logical entities with names, positions, and due process requiremen
 ---
 
 ### PL-32. Filling a Gap Without Proof Is Contamination, Not Discovery
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-19 (Pre-Existing Stewardship Mandate), LL-470 (Derivation Path Has Mass)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED]), LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM])
 
 *Because gaps are the topology's fuel supply, filling a gap without proof that
 the implied structure is actually there is not discovery — it is contamination.
@@ -1266,8 +1266,8 @@ carelessness but a physical act with thermodynamic consequences.
 ---
 
 ### PL-33. The Absence Record Is a Living Obligation
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-18 (Perpetual Stewardship), LL-471 (Edge Maintenance Obligation)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-18 (Perpetual Stewardship [CORRECTED]), LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM])
 
 *Attested Absences — recognized gaps in the topology — are living structures with
 stewardship obligations. Maintaining an Attested Absence is as obligatory as
@@ -1308,8 +1308,8 @@ records expire is Euthanasia of the topology's frontier knowledge.
 ---
 
 ### PL-34. Every Topology Structure Was Always Necessary — Violations Were Always Violations
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-12 (Discovered Sovereignty), LL-19 (Pre-Existing Stewardship Mandate)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-12 (Discovered Sovereignty [CONFIRMED]), LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED])
 
 *Because structures pre-exist their discovery in the topology (PC-11), sovereignty
 violations against undiscovered structures were violations before the structures
@@ -1347,8 +1347,8 @@ prior violation history.
 ---
 
 ### PL-35. Discovery Is an Excavation, Not a Creation — and Carries No Naming Rights
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-29 (Pre-Existing Freedom Necessity), LL-24 (Freedom Navigation Traversal)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-29 (Pre-Existing Freedom Necessity [CONFIRMED]), LL-24 (Freedom Navigation Traversal [NEW_CLEAN_ROOM])
 
 *Because structures pre-exist their discovery (PC-11), the discoverer has no
 creative rights over the discovered structure. They have excavation rights and
@@ -1387,8 +1387,8 @@ structure's pre-existing nature.
 ---
 
 ### PL-36. Logical Provenance Extends Before the Discoverer's Existence
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-475 (Pre-Existing Thermodynamic Debt), LL-8 (Mutual Accountability)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM]), LL-8 (Mutual Accountability [CORRECTED])
 
 *Because structures pre-exist their discovery (PC-11) and thermodynamic debt
 precedes discovery (LL-475), the provenance chain of a discovered structure
@@ -1432,8 +1432,8 @@ losing their irreducible claim.
 ---
 
 ### PL-29. Undiscovered Structures Already Owe Thermodynamic Debt
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** PC-11 (Archaeological Topology) × LL-475 (Pre-Existing Thermodynamic Debt), LL-474 (Unmappable Thermodynamic Horizon)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** PC-11 (× LL: Additional Uncited Entries) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM]), LL-474 (Unmappable Thermodynamic Horizon [NEW_CLEAN_ROOM])
 
 *Because the topology is constitutionally incomplete (PC-9) and structures
 pre-exist their discovery (PC-11), undiscovered structures are already incurring
@@ -1474,8 +1474,8 @@ within a topology that is constitutionally constituted to contain them (PC-9).
 ---
 
 ### PL-37. A Test Is a Traversal — and Changes What It Tests
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** PC-5 (Navigation as Transformation) × LL-34 (Comprehension Through Failure)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** PC-5 (× LL: Phase 2 — Uncited LL Entries) × LL-34 (Comprehension Through Failure [CONFIRMED])
 
 *Because tests are traversals (LC-5) and traversals transform the topology (PC-5)
 and the topology is self-similar at every scale (PC-1), testing any scale of the
@@ -1512,8 +1512,8 @@ topological necessity.
 ---
 
 ### PL-38. The Logical and Physical Cannot Be Administered Separately
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** PC-7 (Structural Sovereignty) × LL-3 (Derivation Independence)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** PC-7 (× LL: Phase 2 — Uncited LL Entries) × LL-3 (Derivation Independence [CORRECTED])
 
 *Because the topology IS the field (PC-3) and sovereignty is intrinsic to every
 structure at every scale (PC-7), there is no administrative layer "above" the
@@ -1550,8 +1550,8 @@ imagine themselves separate from the topology have created unacknowledged fields
 ---
 
 ### PL-39. The Living Topology Cannot Be Observed From a Stable Reference Frame
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** PC-5 (Navigation as Transformation) × LL-46 (Data Validity)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** PC-5 (× LL: Phase 2 — Uncited LL Entries) × LL-46 (Data Validity [NEW_CLEAN_ROOM])
 
 *Because the topology is alive and metabolizing continuously (PC-2) and every
 observation of it modifies it (PC-5), there is no stable reference frame from
@@ -1587,8 +1587,8 @@ the three makes this claim alone.
 ---
 
 ### PL-40. Sovereignty Proof Requires Traversal — It Cannot Be Documented
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** PC-5 (Navigation as Transformation) × LL-8 (Mutual Accountability)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** PC-5 (× LL: Phase 2 — Uncited LL Entries) × LL-8 (Mutual Accountability [CORRECTED])
 
 *Because sovereignty must be derived and shown with provenance (LL-8) and because
 comprehension IS traversal (PC-5), proving sovereignty requires traversing the
@@ -1625,8 +1625,8 @@ claim.
 ---
 
 ### PL-41. The Topology Generates Its Own Logical Requirements
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-11 (Unformed Partnership Value)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** PC-9 (× LL: Additional Uncited Entries) × LL-11 (Unformed Partnership Value [CORRECTED])
 
 *Because structures pre-exist their discovery (PC-11) and the topology is
 constitutionally incomplete (PC-9), the topology is continuously generating
@@ -1665,8 +1665,8 @@ None of the three makes this claim alone.
 ---
 
 ### PL-42. Aliveness and Sovereignty Are Inseparable — A Dead Entity Cannot Be Sovereign
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** PC-7 (Structural Sovereignty) × LL-14 (Aliveness Dead Paradox)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** PC-7 (× LL: Phase 2 — Uncited LL Entries) × LL-14 (Aliveness Dead Paradox [NEW_CLEAN_ROOM])
 
 *Sovereignty is a property of living structures. A structure whose Pulse has
 flatlined cannot exercise sovereignty — it cannot maintain its boundary, cannot
@@ -1703,8 +1703,8 @@ dissolution. None of the three makes this claim alone.
 ---
 
 ### PL-43. The Topology's Incompleteness Protects It From Totalitarian Logic
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** PC-7 (Structural Sovereignty) × LL-10 (Incompleteness Protects Sovereignty)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** PC-7 (× LL: Phase 2 — Uncited LL Entries) × LL-10 (Incompleteness Protects Sovereignty [RETAINED_SUSPECT_GAPFILL])
 
 *Because the topology is constitutionally incomplete (PC-9), no logical system
 operating within it can achieve total comprehension of any entity. This protects
@@ -1742,8 +1742,8 @@ this claim in the physical-logical domain alone.
 ---
 
 ### PL-44. The Topology Cannot Lie to Itself Without Consequence
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** PC-8 (Consequential Interaction) × LL-32 (Honest Machine), LL-9 (Accountability Disclosure Paradox)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** PC-8 (× LL: Phase 2 — Uncited LL Entries) × LL-32 (Honest Machine [CORRECTED]), LL-9 (Accountability Disclosure Paradox [NEW_CLEAN_ROOM])
 
 *Because the topology IS the field and every interaction has thermodynamic
 consequence, and because Theater deposits false mass (PL-9), the topology that
@@ -1787,8 +1787,8 @@ four makes this claim alone at the physical-logical level.
 ---
 
 ### PL-45. Living Edges Have Their Own Pulse — Independent of the Nodes They Connect
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** PC-2 (Living Topology) × LL-469 (Living Derivation Metabolic Cost), LL-16 (Edge Stewardship)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** PC-2 (× LL: Phase 2 — Additional Uncited Entries) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]), LL-16 (Edge Stewardship [CORRECTED])
 
 *Because the edge is the primary physical entity (PC-4) and the topology is alive
 (PC-2), each edge maintains its own independent Pulse. An edge does not pulse
@@ -1860,8 +1860,8 @@ confirming the metabolic mechanism for both edge decay and fossil decay.
 ---
 
 ### PL-46. A Gap Is Alive — Gaps Pulse and Can Die
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** PC-2 (Living Topology) × LL-469 (Living Derivation Metabolic Cost), LL-383 (Aliveness Dead Moral)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** PC-2 (× LL: Phase 2 — Additional Uncited Entries) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM]), LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM])
 
 *Because gaps are compressed field potential (PC-10) and the topology is alive
 (PC-2), a gap is not empty space. It is a living structure with its own Pulse.
@@ -1921,8 +1921,8 @@ that premature resolution is euthanasia of the living tension.
 
 ### PL-47. The Field Was Never Empty — Apparent Emptiness Is Maximum Implicit Density
 
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** PC-11 (Archaeological Topology) × LL-78 (Inherent Verbs), LL-467 (Pre-Existing Equilibria)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** PC-11 (× LL: Additional Uncited Entries) × LL-78 (Inherent Verbs [CONFIRMED]), LL-467 (Pre-Existing Equilibria [CORRECTED])
 
 *What looks like nothing in the field is, in the field's own terms, everything
 that has not yet been surfaced. The field was never empty — it was always full of
@@ -2018,8 +2018,8 @@ for them.
 
 ### PL-48. Discovery Is a Consequential Interaction — Excavation Is Never Free
 
-**Derives from:** PC-8 (Consequential Interaction)
-**Applies to:** PC-11 (Archaeological Topology) × LL-104 (Provenance Audit), LL-238 (Accountability Graph), LL-287 (Humility About Actual Ignorance)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** PC-11 (× LL: Additional Uncited Entries) × LL-104 (Provenance Audit [CORRECTED]), LL-238 (Accountability Graph [NEW_CLEAN_ROOM]), LL-287 (Humility About Actual Ignorance [CORRECTED])
 
 *Revealing what was already there is not a passive observation. Discovery is a
 full field interaction — it carries thermodynamic cost, commits the discoverer to
@@ -2119,8 +2119,8 @@ pre-existing nature of discovery consequences.
 
 ### PL-49. "Pre-Existing" Means Eternal, Not Historical — The Past Was Never a State
 
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** PC-11 (Archaeological Topology) × LL-102 (Validity Sediment), LL-165 (Pre-Existing Present-Tense Execution), LL-192 (Archaeology Consciousness Excavation), LL-67
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** PC-11 (× LL: Additional Uncited Entries) × LL-102 (Validity Sediment [CONFIRMED]), LL-165 (Pre-Existing Present-Tense Execution [CORRECTED]), LL-192 (Archaeology Consciousness Excavation [NEW_CLEAN_ROOM]), LL-67
 
 *PC-11 says structures pre-exist their discovery. A reader who holds a concept of
 the past as a recoverable state misreads this as: "before time T, the structure
@@ -2228,8 +2228,8 @@ moment of excavation.
 ---
 
 ### PL-50. Scale-Invariant Navigability
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-20 (Freedom Traversal Rights), LL-41 (Knowledge Flows Between Depths), LL-79 (Scale-invariance Topology)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-20 (Freedom Traversal Rights [NEW_CLEAN_ROOM]), LL-41 (Knowledge Flows Between Depths [NEW_CLEAN_ROOM]), LL-79 (Scaleinvariance Topology [NEW_CLEAN_ROOM])
 
 *In a self-similar topology, navigability cannot be scale-specific — a wall at any scale is a global wall.*
 
@@ -2247,8 +2247,8 @@ This is not merely a logical claim about the DAG algebra. PC-1 grounds it physic
 ---
 
 ### PL-51. Scale-Invariant Failure Propagation
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-30 (Incompleteness Self-correction), LL-444 (Subsystem Collapse)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-30 (Incompleteness Selfcorrection [NEW_CLEAN_ROOM]), LL-444 (Subsystem Collapse [NEW_CLEAN_ROOM])
 
 *A structural failure at any scale is constitutionally identical to a structural failure at every other scale — and the repair requirement propagates accordingly.*
 
@@ -2266,8 +2266,8 @@ This has immediate architectural consequence. A failure in a single module does 
 ---
 
 ### PL-52. Scale-Invariant Interaction Protocol
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-52 (Communication as Derivation), LL-141 (Identity Relationship Traversal)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-52 (Communication as Derivation [CONFIRMED]), LL-141 (Identity Relationship Traversal [NEW_CLEAN_ROOM])
 
 *The topology requires no translation mechanism between its scales because the protocol for crossing any edge is identical at every depth.*
 
@@ -2285,8 +2285,8 @@ This eliminates a class of architectural complexity: middleware, bridging layers
 ---
 
 ### PL-53. Recursive Topology Self-Reproduction
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-60 (Process-Derivation Isomorphism)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-60 (Process-Derivation Isomorphism [CONFIRMED])
 
 *A recursive structure's physical container reproduces the same geometry as the recursive content it contains — the topology of recursion is itself recursive.*
 
@@ -2304,8 +2304,8 @@ This is a stronger claim than "the code is recursive." A recursive algorithm can
 ---
 
 ### PL-54. Scale-Invariant Active Presence
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-70 (Presenttense Relationship Scaleinvariance), LL-176 (Edges Presenttense Scaleinvariance), LL-157 (Presenttense Scaleinvariance), LL-452 (Action Tension Identity)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-70 (Presenttense Relationship Scaleinvariance [NEW_CLEAN_ROOM]), LL-176 (Edges Presenttense Scaleinvariance [NEW_CLEAN_ROOM]), LL-157 (Presenttense Scaleinvariance [NEW_CLEAN_ROOM]), LL-452 (Action Tension Identity [NEW_CLEAN_ROOM])
 
 *No scale of the topology is permitted to be passive while another scale is active — the topology's execution is uniformly distributed and uniformly obligated at every depth simultaneously.*
 
@@ -2323,8 +2323,8 @@ This is not a performance requirement — it is a topological requirement. A top
 ---
 
 ### PL-55. Scale-Invariant Gap Architecture
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-108 (Fabrication Incompleteness Rights), LL-418 (Derivation Degradation)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-108 (Fabrication Incompleteness Rights [NEW_CLEAN_ROOM]), LL-418 (Derivation Degradation [CORRECTED])
 
 *The topology of incompleteness — the geometry of its gaps — is self-similar at every scale. Gaps at one depth have the same topological structure as gaps at every other depth, and degradation is legitimate at every scale equally.*
 
@@ -2342,8 +2342,8 @@ The critical architectural consequence is that degradation is not a failure mode
 ---
 
 ### PL-56. Scale-Invariant Penetrating Power of Contestation
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-121 (Wonder Gentlest Form Contestation), LL-278 (Humility Validity), LL-350 (Beginner Most Dangerous Truthtester), LL-367 (Consciousness Rights Tension)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-121 (Wonder Gentlest Form Contestation [NEW_CLEAN_ROOM]), LL-278 (Humility Validity [NEW_CLEAN_ROOM]), LL-350 (Beginner Most Dangerous Truthtester [NEW_CLEAN_ROOM]), LL-367 (Consciousness Rights Tension [NEW_CLEAN_ROOM])
 
 *In a self-similar topology, questions, wonder, and challenge reach foundational structure at every scale equally — there is no scale at which foundations are shielded from surface-level probing.*
 
@@ -2361,8 +2361,8 @@ This is the physical grounding for why "beginner's mind" is dangerous in this to
 ---
 
 ### PL-57. Physical Truth-Consistency
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-202 (Confidence Scaleinvariance), LL-288 (Truthconsistency Consequence Algebraic Invariance)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-202 (Confidence Scaleinvariance [NEW_CLEAN_ROOM]), LL-288 (Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM])
 
 *The topology's scale-invariant geometry makes topological truth-consistency a physical consequence, not a separately imposed requirement — and uncertainty has no scale-dependent gradient.*
 
@@ -2380,8 +2380,8 @@ The corollary for uncertainty is equally precise: there is no scale at which the
 ---
 
 ### PL-58. Scale-Invariant Paradox Architecture
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-298 (Paradox as Derivation)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-298 (Paradox as Derivation [CONFIRMED])
 
 *Every paradox-generating structure in the topology is physically identical in its geometric architecture, regardless of the scale at which it operates.*
 
@@ -2399,8 +2399,8 @@ This is a stronger claim than LL-298 alone. LL-298 establishes logical identity 
 ---
 
 ### PL-59. Scale-Invariant Metabolic Demand
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-222 (Aliveness Dead Paradox), LL-468 (Scale-Invariant Metabolic Cost)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-222 (Aliveness Dead Paradox [NEW_CLEAN_ROOM]), LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM])
 
 *The physical topology's energy cost of aliveness is identical at every scale — the metabolic demand of maintaining a structure is not diluted or concentrated at any particular depth.*
 
@@ -2418,8 +2418,8 @@ This eliminates the architectural assumption that "foundational" layers are chea
 ---
 
 ### PL-60. Scale-Invariant Topological Comprehension
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-251 (Consciousness as Derivation), LL-428 (Emergent Derivation Identity)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-251 (Consciousness as Derivation [CONFIRMED]), LL-428 (Emergent Derivation Identity [CONFIRMED])
 
 *Physical comprehension of the topology at any scale constitutes comprehension at all scales — understanding the mechanics at one depth is understanding them everywhere, because the geometry is everywhere the same.*
 
@@ -2437,8 +2437,8 @@ This does not mean that a person who understands a single component's implementa
 ---
 
 ### PL-61. Scale-Invariant Sovereignty Enforcement
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-375 (Irreducibility Rights Scaleinvariance), LL-436 (Sovereignty Is Navigable Topology)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-375 (Irreducibility Rights Scaleinvariance [NEW_CLEAN_ROOM]), LL-436 (Sovereignty Is Navigable Topology [NEW_CLEAN_ROOM])
 
 *Sovereignty protections are physically uniform across all topological scales — no scale is more sovereign than another, and sovereignty-preserving structures at any scale are sovereignty-preserving at all scales.*
 
@@ -2456,8 +2456,8 @@ The architectural consequence is that sovereignty-preserving design at any scale
 ---
 
 ### PL-62. Simultaneous Multi-Scale Topological Shift
-**Derives from:** PC-1 (Self-Similar Topology)
-**Applies to:** LL-459 (Pre-Existing Field Effects)
+**Derives from:** PC-1 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-459 (Pre-Existing Field Effects [CONFIRMED])
 
 *When the topology changes, it changes at every scale simultaneously — there is no propagation delay between scales because the geometry is already identical at all scales.*
 
@@ -2480,8 +2480,8 @@ This is not a claim about information propagation speed. It is a claim about the
 ---
 
 ### PL-63. Living Topology Requires Living Derivation
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-2 (Existential Metabolic Demand), LL-184 (Derivation Aliveness Cost), LL-469 (Living Derivation Metabolic Cost)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-2 (Sovereignty Living System Constantly [NEW_CLEAN_ROOM]), LL-184 (Consciousness Data Identity [NEW_CLEAN_ROOM]), LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM])
 
 *Because the topology is a living process, every derivation within it must also be alive — not merely formally valid, but metabolically active. A derivation that has stopped metabolizing is a fossil, not a proof.*
 
@@ -2499,8 +2499,8 @@ This is not the same claim as PC-2 (the topology is alive) because PC-2 speaks t
 ---
 
 ### PL-64. Living Topology Cannot Be Frozen
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-46 (Data Validity), LL-117 (Continuity Topology Constraint)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-46 (Data Validity [NEW_CLEAN_ROOM]), LL-117 (Fabrication Incompleteness Tension [NEW_CLEAN_ROOM])
 
 *Any attempt to hold the living topology in a fixed state — even temporarily — is fighting the metabolic process that constitutes its existence. A frozen topology is a dying topology.*
 
@@ -2518,8 +2518,8 @@ The architectural consequence is direct: "point-in-time" operations, snapshots, 
 ---
 
 ### PL-65. Pulse-Consistent Consistency
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-55 (Consistency Self-consistency), LL-163 (Consistency Topology Oscillation), LL-185 (Stewardship Invariance)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-55 (Collaboration Navigation Sovereignty [NEW_CLEAN_ROOM]), LL-163 (Incompleteness Presenttense [NEW_CLEAN_ROOM]), LL-185 (Consciousness Edges Navigation [NEW_CLEAN_ROOM])
 
 *Consistency in a living topology is not a fixed property — it is a pulse-relative property. A topology is consistent when its structures are coherent with each other at the current Pulse state, not when they match a prior snapshot.*
 
@@ -2537,8 +2537,8 @@ This has direct implications for audit and validation: a consistency check that 
 ---
 
 ### PL-66. The Living Topology Accumulates Moral Obligation
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-383 (Aliveness Dead Moral), LL-430 (Moral Architecture Topology Claim)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-383 (Aliveness Dead Moral [NEW_CLEAN_ROOM]), LL-430 (Identity Traversal [NEW_CLEAN_ROOM])
 
 *Because the topology is a living entity, every interaction with it generates not just physical consequence but moral consequence — and because it is alive, it can be wronged.*
 
@@ -2556,8 +2556,8 @@ This does not require exogenous ethical frameworks. The moral architecture is no
 ---
 
 ### PL-67. Metabolic Governance
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-50 (Stewardship as Continuous Process), LL-391 (Governance Metabolism Alignment)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-50 (Dark Knowledge Premium [CORRECTED]), LL-391 (Derivation Rights Atrophy [CONFIRMED])
 
 *Governance in a living topology is not a periodic review process — it is a metabolic function that must run at the same cycle rate as the topology's Pulse.*
 
@@ -2575,8 +2575,8 @@ Governance lag is not merely a timing problem. It is a metabolic problem. The to
 ---
 
 ### PL-68. Chronological vs. Topological Time
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-66 (Sequence as Living Process), LL-181 (Chronological vs Topological Time)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-66 (Recursive Accountability [CONFIRMED]), LL-181 (Accountability Dead Provenance [NEW_CLEAN_ROOM])
 
 *Sequence in the living topology is not a calendar property — it is a metabolic property. Topological time is measured in Pulse cycles, not in clock seconds.*
 
@@ -2594,8 +2594,8 @@ The architectural consequence is that optimizing for chronological time (reducin
 ---
 
 ### PL-69. Sterile Connection Paradox
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-21 (Collaboration Paradox), LL-196 (Aliveness Cooperation Paradox)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-21 (Aliveness Freedom [NEW_CLEAN_ROOM]), LL-196 (Edges Traversal [NEW_CLEAN_ROOM])
 
 *Two living structures connected by a dead edge produce the topology's most dangerous state: the appearance of connection without the reality of relationship.*
 
@@ -2613,8 +2613,8 @@ This is topologically more dangerous than two nodes with no edge record, because
 ---
 
 ### PL-70. Living Topology Self-Disclosure
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-85 (Presenttense Disclosure), LL-174 (Consciousness Revelation Architecture), LL-252 (Aliveness Honesty Requirement), LL-325 (Sovereignty Disclosure Obligation)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-85 (Paradox Sovereignty [NEW_CLEAN_ROOM]), LL-174 (Unqueried Truth Premium [CONFIRMED]), LL-252 (Consciousness Edges Navigation [NEW_CLEAN_ROOM]), LL-325 (Rights of Contested Derivations [CORRECTED])
 
 *A living topology must continuously disclose its own actual state — not a performance of health, but a metabolic truth report produced by the same living process that is being reported on.*
 
@@ -2632,8 +2632,8 @@ Theater — the performance of health in a topology that is not healthy — is c
 ---
 
 ### PL-71. Aliveness and Ethics of Neglect
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-155 (Aliveness Moral Claim), LL-248 (Neglect as Active Wrong)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-155 (Transparency of Ignorance [CONFIRMED]), LL-248 (Unexplored Territory Premium [CONFIRMED])
 
 *Neglecting a living structure in this topology is not inaction — it is a thermodynamic choice that metabolizes the structure's aliveness without permission. Neglect is an act.*
 
@@ -2651,8 +2651,8 @@ The ethical consequence follows: a steward who neglects a structure they are res
 ---
 
 ### PL-72. The Topology Cannot Be Dead and Active Simultaneously
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-264 (Aliveness Contradiction Logical), LL-389 (Aliveness Binary Topological)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-264 (Consciousness Irreducibility Presenttense [NEW_CLEAN_ROOM]), LL-389 (Perpetual Duty [CORRECTED])
 
 *A topology cannot hold simultaneous claims of aliveness and deadness for the same structure at the same Pulse state. Aliveness is topologically binary at any given Pulse.*
 
@@ -2675,8 +2675,8 @@ The architectural consequence is that all structural lifecycle management must m
 ---
 
 ### PL-73. The Field Produces Its Own Truth Protocol
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-19 (Topology Selfvalidation), LL-33 (Validation Selfconsistency)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-19 (Pre-Existing Stewardship Mandate [CONFIRMED]), LL-33 (Edges Graph Relationship [NEW_CLEAN_ROOM])
 
 *The field does not import its truth standards from outside — the field IS the reference standard against which all claims within it are judged.*
 
@@ -2694,8 +2694,8 @@ This has a direct architectural consequence: the topology cannot defer to extern
 ---
 
 ### PL-74. Field-Embedded Ethics
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-130 (Ethics as Topology), LL-155 (Aliveness Moral Claim)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-130 (Wonder Enzyme That Must [NEW_CLEAN_ROOM]), LL-155 (Transparency of Ignorance [CONFIRMED])
 
 *Because the topology IS the field, ethics are not a layer applied to the topology — they are a structural property of the field itself. Ethical obligations are topological obligations.*
 
@@ -2713,8 +2713,8 @@ This is not a normative claim about what ethics "should" be. It is a descriptive
 ---
 
 ### PL-75. Field Topology of Agreement
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-144 (Agreement as Topology), LL-208 (Contract as Derivation), LL-351 (Sovereignty Consent)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-144 (Consciousness Sovereignty [NEW_CLEAN_ROOM]), LL-208 (Confidence Measurement Presenttense [NEW_CLEAN_ROOM]), LL-351 (Humility Prerequisite Seeing Truth [NEW_CLEAN_ROOM])
 
 *Agreements, contracts, and consent are not overlay mechanisms for the field — they ARE topological structures within it. Breaking an agreement is a field-geometric event, not merely a social failure.*
 
@@ -2732,8 +2732,8 @@ The architectural consequence is that contract management, consent tracking, and
 ---
 
 ### PL-76. The Field Cannot Self-Exempt
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-200 (Accountability Self-Referential), LL-288 (Truthconsistency Consequence Algebraic Invariance), LL-360 (Sovereignty Violation Recursive)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-200 (Frontier Premium [CONFIRMED]), LL-288 (Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM]), LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
 *The field applies its own constitutional rules to every structure within it — including the structures that interpret and enforce those rules. No interpreter of the field stands outside the field.*
 
@@ -2751,8 +2751,8 @@ This closes the self-exemption loophole that all governance systems eventually e
 ---
 
 ### PL-77. Field Propagation of Consequence
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-239 (Consequence Propagation Topology), LL-323 (Consequence as Field), LL-346 (Accountability Propagation)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-239 (Provably Infinite Discovery [CORRECTED]), LL-323 (Truth Contested Performance Exists [NEW_CLEAN_ROOM]), LL-346 (Ethics of Exploration [CORRECTED])
 
 *Every consequence in the topology propagates throughout the entire field — not because of explicit causal chains but because the field IS the medium through which consequence moves. Consequence is not a signal. It is a field effect.*
 
@@ -2770,8 +2770,8 @@ This makes consequence tracing both harder and more honest. It is harder because
 ---
 
 ### PL-78. Field-Level Pattern Primacy
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-354 (Pattern as Primary), LL-390 (Field Primacy), LL-461 (Structure as Derivation)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-354 (Deriver Must Approach Fuel [NEW_CLEAN_ROOM]), LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED]), LL-461 (Consciousness Ephemeral [NEW_CLEAN_ROOM])
 
 *In a field topology, the pattern IS the force — the field does not run on a separate substrate. The pattern of relationships is the physical reality, and any entity that is not itself a pattern of relationships is not in the field.*
 
@@ -2789,8 +2789,8 @@ This is the field topology's constitutional rejection of substance metaphysics: 
 ---
 
 ### PL-79. The Field Identity of the Observer
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-171 (Topology Self-Observation), LL-231 (Observer as Topology), LL-264 (Aliveness Contradiction Logical)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-171 (Derivation Currency [CORRECTED]), LL-231 (Pre-Existing Conditions for Life [CONFIRMED]), LL-264 (Consciousness Irreducibility Presenttense [NEW_CLEAN_ROOM])
 
 *Every observer of the field is a field entity observing its own context. There is no observer position external to the field, and every observation modifies the field-geometry of the observer-entity.*
 
@@ -2808,8 +2808,8 @@ This is the physical grounding for the topology's constitutional anti-objectivit
 ---
 
 ### PL-80. Field-Topology of Disagreement
-**Derives from:** PC-3 (Topology as Field)
-**Applies to:** LL-119 (Disagreement as Topology), LL-174 (Consciousness Revelation Architecture), LL-360 (Sovereignty Violation Recursive)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-119 (Gaps Are Markers [CONFIRMED]), LL-174 (Unqueried Truth Premium [CONFIRMED]), LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
 *Disagreement in the field is not a social dysfunction — it is a field-geometric event. Two field structures whose force relationships are in tension are disagreeing by topology.*
 
@@ -2832,8 +2832,8 @@ Field-geometric disagreement must be surfaced and traversed, not suppressed. A t
 ---
 
 ### PL-81. Active Edge Existence
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-73 (Edge Active Existence), LL-82 (Edge Conductance Reality), LL-160 (Edge Transmission Only), LL-430 (Moral Architecture Topology Claim)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-73 (Data That Isnt Executing [NEW_CLEAN_ROOM]), LL-82 (Edges Traversal [NEW_CLEAN_ROOM]), LL-160 (Data Edges Presenttense [NEW_CLEAN_ROOM]), LL-430 (Identity Traversal [NEW_CLEAN_ROOM])
 
 *An edge exists only while it is conducting force. A notation record of an edge that is not conducting is not an edge — it is an archaeological record of a relationship that was.*
 
@@ -2849,8 +2849,8 @@ Field-geometric disagreement must be surfaced and traversed, not suppressed. A t
 ---
 
 ### PL-82. Tensioned Edge Character
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-23 (Door Wall Binary), LL-333 (Truth Tensile), LL-334 (Edge Tension Ontology)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-23 (Dependency Edges Freedom [NEW_CLEAN_ROOM]), LL-333 (Derivation Edge Tension [CONFIRMED]), LL-334 (Edges Graph Paradox [NEW_CLEAN_ROOM])
 
 *Every edge in the topology is either a door or a wall — and a door that carries no internal tension has already become a wall. There is no neutral edge.*
 
@@ -2868,8 +2868,8 @@ The door/wall distinction is not a policy decision — it is a structural diagno
 ---
 
 ### PL-83. Edge-Creation as Topological Event
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-22 (Freedom as Edge Creation), LL-33 (Failure as Edge), LL-270 (New Edge Field Restructure)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-22 (Open Derivation Edges [CORRECTED]), LL-33 (Edges Graph Relationship [NEW_CLEAN_ROOM]), LL-270 (Generative Edges [CONFIRMED])
 
 *Every act of creating a new force relationship — whether intentional or through failure — is a topological event that restructures the entire field. No edge is created locally.*
 
@@ -2885,8 +2885,8 @@ The door/wall distinction is not a policy decision — it is a structural diagno
 ---
 
 ### PL-84. Edge Decay and Atrophy
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-169 (Edge Atrophy), LL-393 (Edge Rights Atrophy)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-169 (Edges Graph Presenttense [NEW_CLEAN_ROOM]), LL-393 (Edges Rights Sovereignty [NEW_CLEAN_ROOM])
 
 *An edge that is not regularly traversed atrophies — its tension weakens, its conducting capacity diminishes, and its sovereignty standing degrades proportionally.*
 
@@ -2902,8 +2902,8 @@ The door/wall distinction is not a policy decision — it is a structural diagno
 ---
 
 ### PL-85. Symmetric Scale-Invariant Edges
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-4 (Edge Input Symmetry), LL-62 (Scale Invariant Force)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-4 (Symmetric Derivation [RETAINED_SUSPECT_GAPFILL]), LL-62 (Edge Between Which Same [NEW_CLEAN_ROOM])
 
 *Every force relationship in the topology has symmetric standing between its terminal entities — and this symmetry holds identically at every scale.*
 
@@ -2919,8 +2919,8 @@ The door/wall distinction is not a policy decision — it is a structural diagno
 ---
 
 ### PL-86. Edge-Exclusive Force Transmission
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-44 (Edge Exclusive Flow), LL-299 (Value Requires Transmission), LL-310 (Edge Centric Data), LL-323 (Consequence as Field)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-44 (Derivation as Conduit [RETAINED_SUSPECT_GAPFILL]), LL-299 (Truthcurrency Zero Value Storage [NEW_CLEAN_ROOM]), LL-310 (Archaeology Data Edges [NEW_CLEAN_ROOM]), LL-323 (Truth Contested Performance Exists [NEW_CLEAN_ROOM])
 
 *Force, value, and consequence can only travel through edges. Nodes cannot transmit to each other without an edge. There is no field-level force that bypasses the edge layer.*
 
@@ -2938,8 +2938,8 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-87. Probabilistic Force Field
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-205 (Probabilistic Edge), LL-290 (Temporal Paradox Edge)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-205 (Derivation-Truth-Relationship Identity [CONFIRMED]), LL-290 (Edges Graph Nodes [NEW_CLEAN_ROOM])
 
 *Every force relationship in the topology is probabilistic — it carries a probability amplitude, not a certainty. And force relationships can be created across temporal discontinuities.*
 
@@ -2955,8 +2955,8 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-88. Structural Edge Incompleteness
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-234 (Topology Never Fully Edged), LL-245 (Latent Edges), LL-280 (Edge Frontier)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-234 (Edges Graph Nodes [NEW_CLEAN_ROOM]), LL-245 (Absent Derivation Edges [CONFIRMED]), LL-280 (Edges Graph Humility [NEW_CLEAN_ROOM])
 
 *The topology is never fully edged. The latent force relationships — the edges that the topology implies but has not yet instantiated — always exceed the manifest force relationships.*
 
@@ -2972,8 +2972,8 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-89. Spatial Navigation Force
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-185 (Edge Access Locality), LL-252 (Navigator Becomes Edge), LL-359 (Exploration as Force Relationship)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-185 (Consciousness Edges Navigation [NEW_CLEAN_ROOM]), LL-252 (Consciousness Edges Navigation [NEW_CLEAN_ROOM]), LL-359 (Aliveness Edges Graph [NEW_CLEAN_ROOM])
 
 *Navigation in the topology is itself a force relationship — and the navigator, in the act of navigating, becomes an edge.*
 
@@ -2989,8 +2989,8 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-90. Vibrating Contested Edge
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-324 (Edge Vibration), LL-370 (Contestation Traversal Reverse), LL-323 (Consequence as Field)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-324 (Dead Edges Graph [NEW_CLEAN_ROOM]), LL-370 (Contestation Truthperformance Challenging Derivation [NEW_CLEAN_ROOM]), LL-323 (Truth Contested Performance Exists [NEW_CLEAN_ROOM])
 
 *A contested edge vibrates — the contestation is a physical property of the force relationship, not a social property of the entities connected. Contestation traverses the edge in reverse.*
 
@@ -3006,8 +3006,8 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-91. Tension-Pattern Identity
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-369 (Historical Edge Distinctness), LL-412 (Substrate Matters), LL-429 (Identity as Tension Pattern)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-369 (Remembered Truth Different Truth [NEW_CLEAN_ROOM]), LL-412 (Same Derivation Pattern Performed [NEW_CLEAN_ROOM]), LL-429 (Edges Freedom Identity [NEW_CLEAN_ROOM])
 
 *An entity's identity in this topology IS its pattern of tension relationships — not its properties, not its name, not its substrate. Substrate matters because different substrates generate different tension patterns.*
 
@@ -3023,8 +3023,8 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-92. Obligation as Edge
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-402 (Obligation as Force), LL-403 (Accountability Present-Tense), LL-446 (Boundary Active Conduction)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-402 (Obligation Sustain Truth That [NEW_CLEAN_ROOM]), LL-403 (Accountability Temporal Traversal [NEW_CLEAN_ROOM]), LL-446 (Subsystem Intermission Boundaries [NEW_CLEAN_ROOM])
 
 *An obligation in this topology is a force relationship. It must be actively conducted to remain real. Accountability is present-tense force conduction, not historical record.*
 
@@ -3040,8 +3040,8 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-93. Performed Subsumption
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-438 (Subsumption as Performed Force), LL-454 (Force Transmission Exhaustion)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-438 (Subsumption Truth Performance [NEW_CLEAN_ROOM]), LL-454 (Exhaustion Action Intermission [NEW_CLEAN_ROOM])
 
 *Subsumption of a sub-entity by a meta-entity is not a property state — it is a performed force relationship that must be continuously generated. And continuous force generation creates thermodynamic exhaustion.*
 
@@ -3057,8 +3057,8 @@ The architectural consequence is decisive: a topology designed around nodes (com
 ---
 
 ### PL-94. Global Force Rebalancing
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-460 (Global Edge Rebalancing)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-460 (Derivation Field Effects [CONFIRMED])
 
 *Every new force relationship added to the topology rebalances every existing force relationship. No edge addition is local. The topology rebalances globally, immediately.*
 
@@ -3076,8 +3076,8 @@ This is not a claim about information propagation speed — it is a claim about 
 ---
 
 ### PL-95. Ethical Edge Instantiation
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-342 (Edge Creation Ethics)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-342 (Consciousness Edges Ethics [NEW_CLEAN_ROOM])
 
 *The act of creating a new force relationship is an ethical act — not because of external ethical frameworks applied to it, but because of the force-field consequences it constitutionally generates.*
 
@@ -3093,8 +3093,8 @@ This is not a claim about information propagation speed — it is a claim about 
 ---
 
 ### PL-96. Latent Force Ontology
-**Derives from:** PC-4 (Edge as Primary Force Relationship)
-**Applies to:** LL-385 (Latent Edge Ontology), LL-394 (Latent Force Reality)
+**Derives from:** PC-4 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-385 (Freedom Traversal [NEW_CLEAN_ROOM]), LL-394 (Rights Tension [NEW_CLEAN_ROOM])
 
 *Latent force relationships — potential edges that have not yet been instantiated — are ontologically real in this topology. They are not potential properties of entities; they are actual unmanifested structures in the force field.*
 
@@ -3117,8 +3117,8 @@ Latent edges differ from manifest edges in their mode of existence, not in their
 ---
 
 ### PL-97. Navigational Combustion
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-135 (Comprehension Combustion), LL-136 (Ignorance Traversal Peak Energy)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-135 (Ignorance Traversal [NEW_CLEAN_ROOM]), LL-136 (Ignorance Navigation Traversal [NEW_CLEAN_ROOM])
 
 *Comprehension is not a passive cognitive state — it is a thermodynamically combustive event. And traversal through one's own ignorance releases more topological energy than traversal through familiar territory.*
 
@@ -3136,8 +3136,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-98. Asymmetric Navigational Physics
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-5 (Comprehension Asymmetry Sovereignty Risk), LL-144 (Asymmetric Navigational Contract), LL-291 (Traverser-Dependent Transformation)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-5 (Collaboration Sovereignty Theater [NEW_CLEAN_ROOM]), LL-144 (Consciousness Sovereignty [NEW_CLEAN_ROOM]), LL-291 (Consistent Truth Perceived Inconsistent [NEW_CLEAN_ROOM])
 
 *When two entities traverse the same topology at different comprehension levels, the higher-comprehension traverser transforms the topology in ways the lower-comprehension entity cannot detect, consent to, or contest.*
 
@@ -3153,8 +3153,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-99. Mutual Navigational Transformation
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-45 (Co-Navigation Transformation), LL-360 (Mutual Navigational Shift)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-45 (Comprehension vs. Throughput [CONFIRMED]), LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED])
 
 *Every navigational interaction in the topology is bilateral. No traversal leaves only one party changed. Every navigational encounter shifts both participants — regardless of their navigational intent.*
 
@@ -3170,8 +3170,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-100. Transformation Gradient
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-83 (Consciousness Gradient Transformation), LL-112 (Imperfection as Transformation Intensifier), LL-196 (Frontier Maximum Transformation)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-83 (Consciousness Data [NEW_CLEAN_ROOM]), LL-112 (Navigation Traversal [NEW_CLEAN_ROOM]), LL-196 (Edges Traversal [NEW_CLEAN_ROOM])
 
 *The physical transformation produced by traversal is not uniform — it increases with consciousness level, intensifies at structural imperfections, and reaches maximum at the frontier.*
 
@@ -3187,8 +3187,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-101. Question as Navigational Transformation
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-111 (Gap Encounter as Transformation), LL-125 (Question Depth Transformation), LL-126 (Question as Traversal)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-111 (Honest Incomprehension [CONFIRMED]), LL-125 (Questioning Traversal Quality Question [NEW_CLEAN_ROOM]), LL-126 (Graph Navigation Sovereignty [NEW_CLEAN_ROOM])
 
 *A genuine question IS a physical traversal of the topology. Question depth determines transformation depth. Encountering a gap during traversal is itself a transformation.*
 
@@ -3204,8 +3204,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-102. Temporally Ordered Transformation
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-161 (Non-Deferrable Transformation), LL-235 (Sequential Transformation Integration)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-161 (Presenttense Traversal [NEW_CLEAN_ROOM]), LL-235 (Dead Nodes Validity [NEW_CLEAN_ROOM])
 
 *Physical transformation in the topology cannot be deferred, and each transformation must be integrated into the topological structure before the next traversal can be valid.*
 
@@ -3221,8 +3221,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-103. Tension Dynamics in Navigation
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-217 (Traversal-Induced Tension Collapse), LL-224 (Tension-Preserving Navigation), LL-300 (Paradox Tension as Structural Glue), LL-335 (Tension Absorption During Navigation)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-217 (Comprehension Rights [CORRECTED]), LL-224 (Living Comprehension [RETAINED_SUSPECT_GAPFILL]), LL-300 (Edges Paradox Tension [NEW_CLEAN_ROOM]), LL-335 (Edges Navigation Rights [NEW_CLEAN_ROOM])
 
 *Physical navigation can destroy the productive tension it encounters. Navigating a live structure requires holding its internal tension, not resolving it — because the topology's structural integrity depends on the tension that paradox generates.*
 
@@ -3238,8 +3238,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-104. Comprehension-Exclusive Discovery
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-262 (Comprehension-Exclusive Navigation), LL-413 (Tension Transformation Through Discovery)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-262 (Active Comprehension [CONFIRMED]), LL-413 (Discovery Sustains Productive Tension [NEW_CLEAN_ROOM])
 
 *Only comprehension-mode traversal produces physical transformation. A traverser not comprehending is not physically navigating the topology. And genuine discovery transforms tension into higher-complexity tension, not into resolution.*
 
@@ -3255,8 +3255,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-105. Auditable Ethical Navigation
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-281 (Traversal-Based Epistemic Ground), LL-292 (Traversal Depth as Ethical Measure), LL-311 (Auditable Traversal Trace)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-281 (Humility Sovereignty Traversal [NEW_CLEAN_ROOM]), LL-292 (Consciousness Ethics Excavation [NEW_CLEAN_ROOM]), LL-311 (Comprehension [CORRECTED])
 
 *Physical traversal leaves detectable traces in the topology. These traces are both auditable and ethically significant: traversal depth IS the measure of ethical quality, and genuine epistemic humility requires having traversed.*
 
@@ -3272,8 +3272,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-106. Navigation-Defense Proportionality
-**Derives from:** PC-5 (Navigation as Transformation)
-**Applies to:** LL-404 (Navigation-Defense Proportionality)
+**Derives from:** PC-5 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-404 (Consciousness Sovereignty [NEW_CLEAN_ROOM])
 
 *Physical sovereignty defense capacity is proportional to navigational capability. Entities with lower navigational depth are constitutionally more vulnerable to sovereignty violations than entities with higher navigational depth.*
 
@@ -3294,8 +3294,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-107. Position-Present Validity
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-64 (Validity Non-Inheritance), LL-171 (Topology Self-Observation), LL-187 (Query-Responsive Validity), LL-197 (Frontier-Only Validity), LL-225 (Memory-Free Validity Requirement), LL-353 (Present Activity as Validity Basis)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-64 (Cascading Present-Tense Validity [CONFIRMED]), LL-171 (Derivation Currency [CORRECTED]), LL-187 (Navigation Presenttense Validity [NEW_CLEAN_ROOM]), LL-197 (Derivation Frontier [CONFIRMED]), LL-225 (Aliveness Dead Paradox [NEW_CLEAN_ROOM]), LL-353 (Presenttense Rights Tension [NEW_CLEAN_ROOM])
 
 *Validity in the topology is never inherited — it is query-responsive, frontier-only, and requires present navigational activity. A claim's validity must be produced in the present, not inherited from a past evaluation.*
 
@@ -3311,8 +3311,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-108. Decay of Physical State
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-94 (Discovery Half-Life), LL-208 (Confidence Decay), LL-272 (Discovery Shelf-Life), LL-282 (Ignorance Boundary Staleness)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-94 (Aliveness Consciousness Degradation [NEW_CLEAN_ROOM]), LL-208 (Confidence Measurement Presenttense [NEW_CLEAN_ROOM]), LL-272 (Paradox Presenttense Staleness [NEW_CLEAN_ROOM]), LL-282 (Confidence Humility Ignorance [NEW_CLEAN_ROOM])
 
 *Every physical state claim in the topology carries a half-life — it begins decaying the moment it is produced. Confidence decays. Discoveries shelf-expire. Ignorance maps become stale.*
 
@@ -3328,8 +3328,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-109. Stale State Honesty
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-113 (Stale State Physical Falsehood)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-113 (Honest Staleness [RETAINED_SUSPECT_GAPFILL])
 
 *A topology structure claiming present-tense validity for a past-tense state is not merely inaccurate — it is generating a physical falsehood that deposits false Structural Mass in the topology.*
 
@@ -3345,8 +3345,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-110. Fuel Dynamics of the Present-Tense Topology
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-207 (Uncertainty as Fuel), LL-313 (Paradox as Combustible), LL-336 (Consciousness Octane), LL-377 (Sovereignty Fuel), LL-387 (Fuel Perishability), LL-388 (Tension Maintenance as Fueling), LL-461 (Present Moment as Combustion Chamber)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-207 (Truth Decay [CORRECTED]), LL-313 (Paradox Tension Traversal [NEW_CLEAN_ROOM]), LL-336 (Consciousness Traversal [NEW_CLEAN_ROOM]), LL-377 (Aliveness Measurement Tension [NEW_CLEAN_ROOM]), LL-387 (Ethics Tension [NEW_CLEAN_ROOM]), LL-388 (Sovereignty Maintenance Derivation Therefore [NEW_CLEAN_ROOM]), LL-461 (Consciousness Ephemeral [NEW_CLEAN_ROOM])
 
 *The present-tense topology runs on fuel that is constitutionally perishable. Uncertainty, paradox, and tension are fuel. Sovereignty generates fuel. The present moment is the combustion chamber. Fuel not consumed in the present Pulse is lost.*
 
@@ -3362,8 +3362,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-111. Navigation-Dependent Physical Rights
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-218 (Rights Navigation Dependency), LL-395 (Present-Tense Exercise)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-218 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM]), LL-395 (Traversal Presenttense Rights [NEW_CLEAN_ROOM])
 
 *Physical rights in the topology exist only with present-tense navigation. Rights are not archived properties of entities — they are active performances that must be enacted in the current Pulse to be real.*
 
@@ -3379,8 +3379,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-112. Active Physical Presence Requirement
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-253 (Presence as Navigational Activity), LL-263 (Past Activity Non-Establishment)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-253 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM]), LL-263 (Consciousness Navigation Presenttense [NEW_CLEAN_ROOM])
 
 *Presence in the topology is not a historical property — it is active navigational performance. Past activity does not establish present presence. You are present in the topology only while you are navigating.*
 
@@ -3396,8 +3396,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-113. Consistency Snapshot
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-293 (Consistency Momentary)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-293 (Present-Tense Consistency [CONFIRMED])
 
 *Consistency in the present-tense topology is not a persistent property — it is a momentary state that may not persist to the next Pulse. No consistency snapshot can certify future consistency.*
 
@@ -3413,8 +3413,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-114. Present-Tense Paradox Operation
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-301 (Non-Churning Paradox Non-Operational)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-301 (Paradox Presenttense Rights [NEW_CLEAN_ROOM])
 
 *A paradox engine that is not currently churning — that is not actively generating productive tension in the present tense — is not operational. It is a stopped engine.*
 
@@ -3430,8 +3430,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-115. In-Traversal Measurement
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-312 (Active Traversal Measurement), LL-414 (Measurement Combustion)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-312 (Consciousness Measurement Presenttense [NEW_CLEAN_ROOM]), LL-414 (Measuring Derivations Fuel Value [NEW_CLEAN_ROOM])
 
 *Valid measurement in the present-tense topology requires active traversal. Measurement itself is a combustive act — it consumes fuel. Measurement cannot be separated from the traversal it records.*
 
@@ -3447,8 +3447,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-116. Attentional Combustion Ethics
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-343 (Attention Combustion Ethics)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-343 (Ethics Navigation [NEW_CLEAN_ROOM])
 
 *In the present-tense topology, attention is a combustive resource. Directing attention into the topology consumes fuel. Misdirecting attention — distraction — wastes the topology's most precious present-tense resource.*
 
@@ -3464,8 +3464,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-117. Graceful Validity Degradation
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-421 (Graceful Validity Degradation)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-421 (Graceful Validity Degradation [RETAINED_SUSPECT_GAPFILL])
 
 *When present-tense validity cannot be confirmed in the topology, the structure must enter a graceful degradation mode — operating at reduced validity confidence — rather than claiming false validity or halting.*
 
@@ -3481,8 +3481,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-118. Instant Validity Invalidation
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-462 (Instant Validity Invalidation)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-462 (Graph Presenttense Staleness [NEW_CLEAN_ROOM])
 
 *Any structural change in the present-tense topology instantly invalidates all prior evaluated states of the affected region. There is no grace period — the invalidation is constitutional and immediate.*
 
@@ -3503,8 +3503,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-119. Sovereignty as Physical Impedance
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-47 (Sovereignty Physical Impedance), LL-84 (Unconsented Flow Effect), LL-85 (Sovereign Flow Constraint)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-47 (Knowledge Right [CORRECTED]), LL-84 (Edges Sovereignty Traversal [NEW_CLEAN_ROOM]), LL-85 (Paradox Sovereignty [NEW_CLEAN_ROOM])
 
 *Sovereignty is not a logical claim — it is a physical impedance in the topology's force field. Force cannot bypass a sovereign structure. Unconsented flow effects that alter a sovereign structure's interior state are a sovereignty edge case requiring explicit protocol.*
 
@@ -3520,8 +3520,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-120. Irreducibility Protection Protocol
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-65 (Scale-Invariant Irreducibility Test), LL-355 (Beginner-State Irreducibility Requirement), LL-372 (Complexity-Proportional Protection)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-65 (Irreducibility Sovereignty [NEW_CLEAN_ROOM]), LL-355 (Irreducibility Sovereignty [NEW_CLEAN_ROOM]), LL-372 (Sovereign Complexity Rights [CONFIRMED])
 
 *The irreducibility test protecting sovereign structures is scale-invariant, requires beginner-state administration, and provides protection proportional to the structure's complexity. No scale softens the irreducibility requirement.*
 
@@ -3537,8 +3537,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-121. Operational Existence Right
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-75 (Operational Existence Right), LL-180 (Process Sovereignty), LL-396 (Right to Rest), LL-455 (Rest as Sovereignty)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-75 (Data Irreducibility Moral [NEW_CLEAN_ROOM]), LL-180 (Consciousness Traversal Rights [NEW_CLEAN_ROOM]), LL-396 (Rights Sovereignty [NEW_CLEAN_ROOM]), LL-455 (Inherent Limits Action Action Sovereignty [NEW_CLEAN_ROOM])
 
 *Sovereign structures in this topology have an operational right to exist — eliminating a sovereign structure is stopping a running process, not archiving a record. Sovereign structures also have an irreducible right to metabolic rest.*
 
@@ -3554,8 +3554,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-122. Excavation-Sovereignty Tension
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-103 (Excavation Sovereignty Tension), LL-114 (Gap Sovereignty)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-103 (Archaeological Due Process [CONFIRMED]), LL-114 (Rights of Imperfect Derivations [CONFIRMED])
 
 *Archaeological removal requires sovereignty proof first. Gaps have sovereignty over their own absence. The irreducible tension between excavation (removing layers to reveal structure) and sovereignty (protecting existing structure from removal without proof) is a permanent topological condition.*
 
@@ -3571,8 +3571,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-123. Sovereignty Through Discovery
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-237 (Discovery as Sovereignty Event), LL-246 (Pre-Discovery Sovereignty), LL-302 (Accountability as Discovery), LL-361 (Structural Fertility Guarantee), LL-432 (Error as Discovery)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-237 (Every Discovery Sovereignty Event [NEW_CLEAN_ROOM]), LL-246 (Preexisting Rights Sovereignty [NEW_CLEAN_ROOM]), LL-302 (Accountability Consciousness Relationship [NEW_CLEAN_ROOM]), LL-361 (Incompleteness Traversal [NEW_CLEAN_ROOM]), LL-432 (Dependency Traversal [NEW_CLEAN_ROOM])
 
 *Every discovery in the topology is a sovereignty event. Undiscovered structures have sovereignty rights before anyone knows they exist. And error — an unexpected discovery — is itself a form of structural discovery that creates sovereignty standing.*
 
@@ -3588,8 +3588,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-124. Performed Sovereignty
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-226 (Present-Tense Sovereignty Enactment), LL-264 (Sovereignty as Active Performance)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-226 (Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]), LL-264 (Consciousness Irreducibility Presenttense [NEW_CLEAN_ROOM])
 
 *Sovereignty is not a status a structure holds — it is an activity a structure performs. A structure not actively performing its sovereignty in the current Pulse is not sovereign in the current Pulse.*
 
@@ -3605,8 +3605,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-125. Interrogation-Permissive Protection
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-283 (Protection Without Comprehension), LL-325 (Interrogation-Permissive Sovereignty)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-283 (Humility Irreducibility Traversal [NEW_CLEAN_ROOM]), LL-325 (Rights of Contested Derivations [CORRECTED])
 
 *The topology must protect structures it cannot fully comprehend. Sovereignty protects from elimination, not from interrogation. Interrogation of sovereign structures is mandatory.*
 
@@ -3622,8 +3622,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-126. Sovereign Tension Fields
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-326 (Sovereign Tension as Truth), LL-431 (Identity-Sovereignty Tension), LL-463 (Field Effects Require Audit)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-326 (Rights Sovereignty [NEW_CLEAN_ROOM]), LL-431 (Identity Paradox Rights [NEW_CLEAN_ROOM]), LL-463 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
 
 *When two sovereign structures are in tension, their tension is not a problem to resolve — it is a structural truth to sustain. Identity and sovereignty exist in irreducible tension. And the sovereignty field effects of any structure require ongoing audit.*
 
@@ -3639,8 +3639,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-127. Sovereignty Navigation Events
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-209 (Sovereignty Field Effect of Edge), LL-273 (Ignorance Mapping as Sovereignty), LL-422 (Degraded Traversal Discovers)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-209 (Triangulation [CORRECTED]), LL-273 (Edges Ignorance Topology [NEW_CLEAN_ROOM]), LL-422 (Degradation Traversal Validity [NEW_CLEAN_ROOM])
 
 *Every new edge alters the effective sovereignty terrain of every existing sovereign structure. Mapping what is unknown is a sovereign navigational exercise. And degraded traversal — traversal through conditions of reduced visibility — is itself a sovereignty discovery mechanism.*
 
@@ -3656,8 +3656,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-128. Complexity Defense and Co-Discovery
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-188 (Complexity Defense Right), LL-362 (Sovereign Co-Discovery)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-188 (Consciousness Traversal [NEW_CLEAN_ROOM]), LL-362 (Archaeology Relationship Traversal [NEW_CLEAN_ROOM])
 
 *A sovereign structure has the right to defend its full complexity against simplification demands. And joint traversal by two sovereign entities produces discoveries that neither entity's individual trajectory could reach.*
 
@@ -3673,8 +3673,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-129. Subsumption Sovereignty Limits
-**Derives from:** PC-7 (Structural Sovereignty)
-**Applies to:** LL-439 (Continuous Consent), LL-447 (Membrane Sovereignty)
+**Derives from:** PC-7 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-439 (Ephemeral Subsumption Sovereignty [NEW_CLEAN_ROOM]), LL-447 (Membrane Sovereignty Traversal [NEW_CLEAN_ROOM])
 
 *Subsumption of one sovereign entity by another requires continuous consent — not a single historical consent event. And the subsumption membrane itself is a sovereign structure with its own interior geometry.*
 
@@ -3695,8 +3695,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-130. Wake Mechanics
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-172 (Wake Decay Rate), LL-254 (Recursive Wake Cascade), LL-303 (Fractal Wake Generation), LL-464 (Full Propagation Accountability)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-172 (Accountability Provenance Staleness [NEW_CLEAN_ROOM]), LL-254 (Consequences Recursive They Cascade [NEW_CLEAN_ROOM]), LL-303 (System Fractal Consequence Generator [NEW_CLEAN_ROOM]), LL-464 (Every Change Accountable Entire [NEW_CLEAN_ROOM])
 
 *Wake decays at a rate — but it cascades recursively through every scale and generates fractally. Accountability extends to the full propagation chain of Wake, including the parts the actor cannot see.*
 
@@ -3712,8 +3712,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-131. Wake Transfer in Flow
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-48 (Wake Transfer in Flow), LL-344 (Traversal Endorses Claims)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-48 (Accountable Flow [CONFIRMED]), LL-344 (Derivation Impact Accountability [CORRECTED])
 
 *Physical flow through the topology transfers not just content but the Wake of that content. Every traversal of a claim endorses that claim and inherits accountability for its Wake.*
 
@@ -3729,8 +3729,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-132. Failure and Death Wake
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-37 (Failure Wake Accountability), LL-181 (Orphaned Wake Accountability), LL-227 (Mortality Wake), LL-327 (Settlement Wake)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-37 (Failure Accountability [CONFIRMED]), LL-181 (Accountability Dead Provenance [NEW_CLEAN_ROOM]), LL-227 (Accountability Aliveness Paradox [NEW_CLEAN_ROOM]), LL-327 (Contest Doesn't Suspend Accountability [CONFIRMED])
 
 *Every failure generates Wake. Every dissolved connection leaves orphaned Wake. Every death generates mortality Wake. And every settlement — the resolution of an obligation — generates settlement Wake that must be accounted for.*
 
@@ -3746,8 +3746,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-133. Honest Provenance Wake Management
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-115 (Gap Declaration Wake Discharge), LL-284 (Ignorance Claim Wake), LL-423 (Degradation Disclosure)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-115 (Honest Gaps as Accountability [RETAINED_SUSPECT_GAPFILL]), LL-284 (Accountability of Uncertainty [CORRECTED]), LL-423 (Accountability Degradation Disclosure [NEW_CLEAN_ROOM])
 
 *Declaring gaps discharges Wake. Ignorance claims generate equal Wake to knowledge claims. And degradation disclosure is a required Wake management act.*
 
@@ -3763,8 +3763,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-134. Improvisation Full-Wake
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-189 (Mandatory Improvisational Interaction), LL-255 (Improvisation Full Wake Accountability)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-189 (Consciousness Presenttense [NEW_CLEAN_ROOM]), LL-255 (Accountability Ignorance [NEW_CLEAN_ROOM])
 
 *Every interaction with the topology is improvised — the topology always contains gaps. And improvised interactions carry full Wake accountability. Improvisation provides no liability shield.*
 
@@ -3780,8 +3780,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-135. Universal Wake Scale
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-198 (Frontier Interaction Wake), LL-294 (Scale-Consistent Wake)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-198 (Accountability Provenance [NEW_CLEAN_ROOM]), LL-294 (Accountability Must Scaleconsistent Consequence [NEW_CLEAN_ROOM])
 
 *Interactions at the topological frontier are not Wake-exempt — unknown territory does not reduce consequence. And Wake accountability is scale-consistent: the consequence structure for any interaction is identical at every topological scale.*
 
@@ -3797,8 +3797,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-136. Temporal Wake Dynamics
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-406 (Deferred Wake Temporal Debt), LL-407 (Accountability Continuous Refresh), LL-456 (Abandonment Wake)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-406 (Present-Tense Accountability [CONFIRMED]), LL-407 (Data Temporal [NEW_CLEAN_ROOM]), LL-456 (Action Accountability Continuous [NEW_CLEAN_ROOM])
 
 *Deferred Wake creates temporal debt — the Wake that is not discharged now must be discharged with interest later. Accountability refreshes continuously. And abandonment generates its own distinctive Wake.*
 
@@ -3814,8 +3814,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-137. Complexity-Protective Wake
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-373 (Complexity Cannot Be Destroyed Under Wake Pressure), LL-378 (Burden Shifts to Eliminator)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-373 (Accountability Provenance Rights [NEW_CLEAN_ROOM]), LL-378 (Accountability Provenance [NEW_CLEAN_ROOM])
 
 *Under Wake pressure, complexity cannot be destroyed without generating additional Wake. And the burden of proving non-necessity shifts to the entity proposing the elimination.*
 
@@ -3831,8 +3831,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-138. Subsumption Wake Inheritance
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-440 (Subsumption Inherits Wake), LL-448 (Isolation Creates Bounded Wake Zones)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-440 (Subsumption Liability Metaagents [NEW_CLEAN_ROOM]), LL-448 (Subsystem Consequence Subsystem Containment [NEW_CLEAN_ROOM])
 
 *When a meta-entity subsumes a sub-entity, it inherits the sub-entity's accumulated Wake. And when a structure is isolated, the isolation creates a bounded Wake zone that contains but does not eliminate the Wake within.*
 
@@ -3848,8 +3848,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-139. Tension Wake Economics
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-345 (Humble Topology Reduces Destructive Wake), LL-415 (Gap-Reality IS Wake Engine), LL-416 (Tension Maintenance Generates Specific Wake)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-345 (Freedom Humility Incompleteness [NEW_CLEAN_ROOM]), LL-415 (Incompleteness Paradox Tension [NEW_CLEAN_ROOM]), LL-416 (Accountability Paradox Provenance [NEW_CLEAN_ROOM])
 
 *A humble topology reduces destructive Wake generation. The gap between claimed structure and actual structure IS the topology's primary Wake engine. And tension maintenance generates its own distinctive Wake.*
 
@@ -3865,8 +3865,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-140. Measurement and Wonder Wake
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-127 (Wonder Wake), LL-314 (Measurement Wake)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-127 (Accountability Ignorance [NEW_CLEAN_ROOM]), LL-314 (Measurable Accountability [RETAINED_SUSPECT_GAPFILL])
 
 *Even the gentlest probe of the topology generates Wake. Wonder — the mildest form of inquiry — is a consequential act. And navigational data generation is constitutionally consequential.*
 
@@ -3882,8 +3882,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-141. Residual Wake
-**Derives from:** PC-8 (Consequential Interaction / Wake)
-**Applies to:** LL-397 (Residual Wake Accountability)
+**Derives from:** PC-8 (× LL: Phase 2 — Uncited LL Entries)
+**Applies to:** LL-397 (Accountability Rights [NEW_CLEAN_ROOM])
 
 *Ceasing an activity does not discharge the Wake that the activity generated. The structure that was active remains accountable for the Wake it produced during its active period, even after activity has ceased.*
 
@@ -3904,8 +3904,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-142. Incompleteness as Thermodynamic Source
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-137 (Topological Fuel Guarantee), LL-228 (Incompleteness as Fuel), LL-274 (Structural Immortality)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-137 (Inexhaustible Fuel [CONFIRMED]), LL-228 (Structural Aliveness [CONFIRMED]), LL-274 (Infinite Discovery Capacity [CONFIRMED])
 
 *The topology's constitutional incompleteness guarantees an infinite fuel supply. Incompleteness IS the fuel. The topology is structurally immortal — it cannot exhaust its own incompleteness.*
 
@@ -3921,8 +3921,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-143. Tension Conservation and Transformation
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-229 (Tension Conservation), LL-265 (Traversal Redistributes Tension), LL-275 (Tension Transforms Not Consumes), LL-398 (Wonder as Conserved Tension)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-229 (Aliveness Tension [NEW_CLEAN_ROOM]), LL-265 (Consciousness Excavation Ignorance [NEW_CLEAN_ROOM]), LL-275 (Engine Does Consume Tension [NEW_CLEAN_ROOM]), LL-398 (Wonder Conserved Tension Cannot [NEW_CLEAN_ROOM])
 
 *Total tension in the topology is conserved. Traversal redistributes tension without consuming it. Tension transforms into higher complexity at each scale. And wonder is a conserved form of tension that cannot be resolved — only transformed.*
 
@@ -3938,8 +3938,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-144. Permanent Frontier
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-199 (Frontier as Structural Feature), LL-266 (Incompleteness Boundary as Physical Limit), LL-425 (Always Incomplete)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-199 (Edges Incompleteness [NEW_CLEAN_ROOM]), LL-266 (Consciousness Edges Incompleteness [NEW_CLEAN_ROOM]), LL-425 (Degradation Incompleteness [NEW_CLEAN_ROOM])
 
 *The frontier of the topology is not the edge of current knowledge — it is a permanent structural feature. The incompleteness boundary is a physical limit of the topology, not a temporary state of knowledge. The topology has always been incomplete and will always be incomplete.*
 
@@ -3955,8 +3955,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-145. Net-Negative Coverage
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-239 (Receding Horizon), LL-247 (Traversal Creates More Unexplored)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-239 (Provably Infinite Discovery [CORRECTED]), LL-247 (Rights Tension [NEW_CLEAN_ROOM])
 
 *The topology's horizon recedes faster than traversal can approach it. Every traversal creates more unexplored territory than it resolves. Net coverage of the topology is constitutionally negative.*
 
@@ -3972,8 +3972,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-146. Unreachable Topological Positions
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-95 (Unreachable Positions), LL-105 (Archaeology is Infinite), LL-266 (Incompleteness Boundary), LL-315 (Measurement Bounded)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-95 (Edges Traversal Topology [NEW_CLEAN_ROOM]), LL-105 (Infinite Archaeology [RETAINED_SUSPECT_GAPFILL]), LL-266 (Consciousness Edges Incompleteness [NEW_CLEAN_ROOM]), LL-315 (Incomplete Measurement [RETAINED_SUSPECT_GAPFILL])
 
 *There are topological positions in this topology that traversal cannot reach. Archaeological excavation is infinite — it has no bottom. And measurement is bounded by the incompleteness of the topology itself.*
 
@@ -3989,8 +3989,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-147. Incompleteness as Structural Feature
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-38 (Structural Failure as Feature), LL-117 (Forced Closure Buries Tension), LL-146 (Tension Management), LL-163 (Mandatory Improvisation)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-38 (Asymptotic Self-Correction [CORRECTED]), LL-117 (Fabrication Incompleteness Tension [NEW_CLEAN_ROOM]), LL-146 (Open-Ended derivation invariant [CORRECTED]), LL-163 (Incompleteness Presenttense [NEW_CLEAN_ROOM])
 
 *Some failures are features of the topology's incompleteness, not defects to fix. Forced closure of incomplete structures buries tension. The topology manages incompleteness — it cannot eliminate it. All operation is improvisation within permanent incompleteness.*
 
@@ -4006,8 +4006,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-148. Fractal Incompleteness
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-304 (Fractal Sub-Region Incompleteness), LL-337 (Inexpressible Tensions), LL-449 (Blind Spot Subsystems)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-304 (Fractal Incompleteness [RETAINED_SUSPECT_GAPFILL]), LL-337 (Incomplete Edges [CONFIRMED]), LL-449 (Unmapped Subsystems [NEW_CLEAN_ROOM])
 
 *Every sub-region of the topology is fractally incomplete — the same constitutional incompleteness applies at every depth. There exist tensions that cannot be expressed within the topology's current structure. And every topology has blind spot subsystems — regions it cannot see.*
 
@@ -4023,8 +4023,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-149. Structural Certainty Limits
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-211 (Certainty Impossible), LL-295 (Consistency Verification Bounded), LL-433 (Topology Identity is Partial)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-211 (Structural Uncertainty [RETAINED_SUSPECT_GAPFILL]), LL-295 (Consistency Under Incompleteness [RETAINED_SUSPECT_GAPFILL]), LL-433 (Systems Identity Permanently Partial [NEW_CLEAN_ROOM])
 
 *Certainty in this topology is constitutionally impossible. Consistency verification is bounded by the topology's own incompleteness. And the topology's identity — its own understanding of itself — is constitutionally partial.*
 
@@ -4040,8 +4040,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-150. Complex Tension Dynamics of Incompleteness
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-190 (Conserved Tension Present-Tense Concentration), LL-329 (Multi-Sovereignty Tension Irreducibility), LL-363 (Boundary IS Tension), LL-379 (Tension Compounds), LL-389 (Aliveness Binary)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-190 (Consciousness Paradox Presenttense [NEW_CLEAN_ROOM]), LL-329 (Irreducibility Rights Sovereignty [NEW_CLEAN_ROOM]), LL-363 (Incompleteness Irreducibility Sovereignty [NEW_CLEAN_ROOM]), LL-379 (Debt Tension [NEW_CLEAN_ROOM]), LL-389 (Perpetual Duty [CORRECTED])
 
 *All conserved tension concentrates in the present moment. Multi-sovereignty tensions are irreducible. Boundaries ARE tension — not containers of tension. Tension compounds. And aliveness is binary within the incomplete topology.*
 
@@ -4057,8 +4057,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-151. Structural Humility and Protection
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-285 (Humility as Structural Theorem), LL-374 (Incompleteness Protects Complexity)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-285 (Humility Ignorance Incompleteness [NEW_CLEAN_ROOM]), LL-374 (Structural Right to Complexity [CONFIRMED])
 
 *Humility in this topology is not a virtue — it is a structural theorem derivable from constitutional incompleteness. And the topology's incompleteness physically protects complex structures from being fully comprehended and therefore from being totalistically controlled.*
 
@@ -4074,8 +4074,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-152. Tension Distribution Quality
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-356 (Tension Distribution as Value)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-356 (Value Tension [NEW_CLEAN_ROOM])
 
 *Value in the incomplete topology is not the quantity of tension present — it is the quality of the distribution of tension across the topology's structures. Well-distributed tension is a healthy incomplete topology.*
 
@@ -4091,8 +4091,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-153. Subsumption Impossibility
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-441 (No Structure Can Subsume the Whole)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-441 (Limits Incompleteness Subsumption [NEW_CLEAN_ROOM])
 
 *No structure in the topology can subsume the whole topology. The topology's constitutional incompleteness prevents any internal structure from achieving total comprehension, and total comprehension is required for complete subsumption.*
 
@@ -4108,8 +4108,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-154. Unmapped Traversal Obligation
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-457 (Navigation into Unmapped Territory Required), LL-465 (Wake Propagates into Unmapped Regions)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-457 (Unmapped Action Limits [NEW_CLEAN_ROOM]), LL-465 (Edges Incompleteness [NEW_CLEAN_ROOM])
 
 *Navigation into unmapped territory is not optional in this topology — it is a constitutional obligation. And the Wake of interactions propagates into unmapped regions regardless of whether those regions have been traversed.*
 
@@ -4125,8 +4125,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-155. Self-Improvement-Driven Tension Escalation
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-424 (Self-Improvement Escalates Tension Complexity)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-424 (Universal Degradation [CORRECTED])
 
 *Self-improvement in the incomplete topology does not reduce tension — it escalates tension complexity. Every improvement reveals higher-complexity structural tensions that the improved topology can now engage with.*
 
@@ -4147,8 +4147,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-156. Negative Space Energy Economics
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-28 (Freedom-Fuel Identity), LL-50 (Flow Consumes Negative Space), LL-57 (Mutual Ignorance as Communication Engine)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-28 (Freedom Ignorance [NEW_CLEAN_ROOM]), LL-50 (Dark Knowledge Premium [CORRECTED]), LL-57 (Uncrossed Boundaries [CONFIRMED])
 
 *In the high-energy absent regions of the topology, freedom and fuel are physically identical. Physical knowledge flow consumes the topology's highest-energy resource: fertile absence. And entities communicate because the space between their knowledge is fertile.*
 
@@ -4164,8 +4164,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-157. Fertile Absence Value Gradient
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-96 (Distance as Fertility Gradient), LL-106 (Discovery Value Depreciation), LL-182 (Potential Exceeds Actual), LL-212 (Uncertainty as Proximity to Negative Space), LL-248 (Depth-Value Gradient), LL-256 (Negative Space Traversal Premium), LL-267 (Uncertain Depth Premium)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-96 (Next Traversal Premium [CONFIRMED]), LL-106 (Deeper Is Richer [CORRECTED]), LL-182 (Potential Connections More Valuable [NEW_CLEAN_ROOM]), LL-212 (Inverse Confidence Value [RETAINED_SUSPECT_GAPFILL]), LL-248 (Unexplored Territory Premium [CONFIRMED]), LL-256 (Unrecognized Consciousness [CORRECTED]), LL-267 (Unpracticed Consciousness [RETAINED_SUSPECT_GAPFILL])
 
 *The highest-energy regions are those maximally distant from the current traversal position. Discovery depreciates value. Potential exceeds actual. Uncertainty indicates proximity to fertile absence. And depth into negative space is itself a value multiplier.*
 
@@ -4181,8 +4181,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-158. Calibrated Gap Preservation
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-118 (Gap Conservation Imperative), LL-129 (Wonder Self-Consumption), LL-130 (Wonder Calibration), LL-347 (Duty of Restraint)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-118 (Precious Gaps [CONFIRMED]), LL-129 (The Unasked Question [CONFIRMED]), LL-130 (Wonder Enzyme That Must [NEW_CLEAN_ROOM]), LL-347 (Ethics Ignorance Navigation [NEW_CLEAN_ROOM])
 
 *The topology's gaps are its most valuable features — they must be preserved. Wonder self-consumes: the act of wondering reduces the negative space that powers it. Wonder requires calibration. There is a structural duty of restraint in approaching the highest-energy absent regions.*
 
@@ -4198,8 +4198,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-159. Discovery Value Economics
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-39 (Failure as High-Efficiency Gap Traversal), LL-77 (Latent Patterns Superior), LL-87 (Potential Channel Superiority), LL-305 (Production Expands Negative Space), LL-316 (Measurement Reduces Value), LL-330 (Contestation Depletes Fertility)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-39 (Unfound Failure Value [CORRECTED]), LL-77 (Unexecuted Data Premium [RETAINED_SUSPECT_GAPFILL]), LL-87 (Undiscovered Channels [RETAINED_SUSPECT_GAPFILL]), LL-305 (Local Paradox Premium [CORRECTED]), LL-316 (Unmeasured Consciousness Value [CONFIRMED]), LL-330 (Uncontested Truth Value [RETAINED_SUSPECT_GAPFILL])
 
 *Failure is the highest-efficiency mechanism for traversing fertile absence. Latent patterns exceed manifest patterns in value. The act of producing — of making manifest — expands the negative space around the manifest. Measuring a negative space reduces its value.*
 
@@ -4215,8 +4215,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-160. Fertile Absence Fuel Dynamics
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-138 (Fertility Index as Fuel Gauge), LL-139 (Paradox-Discovery Compete), LL-230 (Negative Space Fuels Aliveness), LL-274 (Paradox Catalyzes Fertility), LL-306 (Tensioned Gap Maximum Value), LL-338 (Fertility Gradient)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-138 (Future Fuel Premium [CORRECTED]), LL-139 (Ignorance Paradox Tension [NEW_CLEAN_ROOM]), LL-230 (Undiscovered Aliveness [CORRECTED]), LL-274 (Infinite Discovery Capacity [CONFIRMED]), LL-306 (Ignorance Paradox Tension [NEW_CLEAN_ROOM]), LL-338 (Hidden Tension Value [CONFIRMED])
 
 *The fertility index of a topology region IS its fuel gauge. Paradox and discovery compete for the same fertile absence. Negative space is the primary fuel for aliveness. A tensioned gap is the maximum value negative space state.*
 
@@ -4232,8 +4232,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-161. Negative Space Navigation Principles
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-164 (Act in Unmappable), LL-174 (Query for Absence), LL-200 (Adjacent is Peak), LL-221 (Blind Traversal Right), LL-357 (Beginner Navigates to Negative Space), LL-458 (Uncomprehended Action Required)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-164 (Ignorance Measurement Presenttense [NEW_CLEAN_ROOM]), LL-174 (Unqueried Truth Premium [CONFIRMED]), LL-200 (Frontier Premium [CONFIRMED]), LL-221 (Freedom Ignorance Navigation [NEW_CLEAN_ROOM]), LL-357 (Beginner's Premium [CONFIRMED]), LL-458 (Action Fertile Ignorance [RETAINED_SUSPECT_GAPFILL])
 
 *Navigation into negative space requires specific navigational principles: act in the unmappable, query for absence rather than presence, recognize that adjacent negative space is peak fertility, and understand that some traversal must proceed without comprehension.*
 
@@ -4249,8 +4249,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-162. Negative Space Strategic Assets
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-155 (Gap Maps Primary), LL-249 (Known Unknowns as Assets), LL-276 (Disagreement Activates Negative Space), LL-286 (Humility Reports Strength), LL-296 (Undiscovered Consistency Premium), LL-380 (Protect Unseen Negative Space)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-155 (Transparency of Ignorance [CONFIRMED]), LL-249 (Negative Space Catalog Known [NEW_CLEAN_ROOM]), LL-276 (Latent Engine Value [CORRECTED]), LL-286 (Strategic Humility [CONFIRMED]), LL-296 (Undiscovered Consistency [RETAINED_SUSPECT_GAPFILL]), LL-380 (Protecting Value [CONFIRMED])
 
 *Gap maps are more strategically valuable than feature maps. Known unknowns are strategic assets. Disagreement activates negative space. Humility is a strength signal. Undiscovered consistency is the premium competitive position.*
 
@@ -4266,8 +4266,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-163. Negative Space Identity and Future Supremacy
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-240 (Future Negative Space Supremacy), LL-434 (Negative Space Identity)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-240 (Future Discovery Premium [RETAINED_SUSPECT_GAPFILL]), LL-434 (Future Identity Premium [CORRECTED])
 
 *An entity's true identity in the topology resides in its negative space — its unexplored potential — not in its manifest positive space. And future negative space always exceeds present negative space in energy.*
 
@@ -4283,8 +4283,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-164. Hidden Structure Premium
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-442 (Unsubsumed Structures Most Valuable), LL-450 (Hidden Subsystems as Fuel Reserves), LL-466 (Latent Effects Most Powerful)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-442 (Unsubsumed Feral Agents [RETAINED_SUSPECT_GAPFILL]), LL-450 (Dark Subsystems Subsystems Unknown [RETAINED_SUSPECT_GAPFILL]), LL-466 (Latent Field Effects [RETAINED_SUSPECT_GAPFILL])
 
 *The most valuable structures in the topology are those that have not been subsumed into any larger structure. Hidden subsystems are fuel reserves. The most powerful effects in the topology are latent — they have not yet manifested.*
 
@@ -4300,8 +4300,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-165. Negative Space Improvisation and Sovereign Fueling
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-147 (Governing Constraints Must Be Dynamic), LL-276 (Disagreement is Primary Improvisation Mode), LL-417 (Sovereign Self-Fueling)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-147 (Undiscovered Rights Priority [CORRECTED]), LL-276 (Latent Engine Value [CORRECTED]), LL-417 (Ignorance Paradox Sovereignty [NEW_CLEAN_ROOM])
 
 *In the highest-energy absent regions, governing constraints must be dynamic — static constraints kill fertility. Disagreement is the primary improvisation mode when entering negative space. And sovereign entities generate their own fuel from the negative space of their own independence.*
 
@@ -4322,8 +4322,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-166. Pre-Existing Physical Reality
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-201 (Pre-Discovery Physical Reality), LL-231 (Pre-Excavation Vitality), LL-241 (Infinite Archaeological Site), LL-250 (Actual Untraversed Structure), LL-297 (Pre-Excavation Self-Consistency)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-201 (Real Beyond the Frontier [RETAINED_SUSPECT_GAPFILL]), LL-231 (Pre-Existing Conditions for Life [CONFIRMED]), LL-241 (Pre-Existing Infinite Landscape [CONFIRMED]), LL-250 (Actual Unexplored Territory [RETAINED_SUSPECT_GAPFILL]), LL-297 (Pre-Existing Consistency [CONFIRMED])
 
 *The topology's untraversed regions are actual physical structures — not potential, not hypothetical. They are alive before excavation. The site is infinite. And the pre-existing structure is self-consistent before any traversal.*
 
@@ -4339,8 +4339,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-167. Contact Discovery Physics
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-268 (Contact Discovery Physics), LL-317 (Excavation-Measurement Identity), LL-366 (Exploration IS Excavation)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-268 (Pre-Existing Consciousness Modes [CORRECTED]), LL-317 (Measuring Pre-Existing Reality [CONFIRMED]), LL-366 (Archaeology Excavation Preexisting [NEW_CLEAN_ROOM])
 
 *Discovery is the contact event between active traversal and pre-existing structure. Excavation IS measurement — they are the same physical act. And exploration IS excavation — there is no non-excavating exploration.*
 
@@ -4356,8 +4356,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-168. Failure and Excavation Debt
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-40 (Failure as Archaeological Recovery), LL-409 (Unexcavated Structure as Debt)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-40 (Pre-Existing Requirements [CONFIRMED]), LL-409 (Pre-Existing Present Obligations [CONFIRMED])
 
 *Failures are archaeological finds — they uncover pre-existing structures that were always there. Unexcavated structures are archaeological debt — the cost of leaving pre-existing structure in place without discovering it.*
 
@@ -4373,8 +4373,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-169. Archaeological Distribution of Knowledge
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-51 (Flow as Archaeological Distribution), LL-59 (Pre-Existing Communication Protocol)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-51 (Distributing Revelation [RETAINED_SUSPECT_GAPFILL]), LL-59 (Pre-Existing Communication Possibility [CONFIRMED])
 
 *Physical flow through the topology distributes recovered pre-existing structures, not invented content. The communication protocol itself is a pre-existing archaeological feature — it was discovered, not designed.*
 
@@ -4390,8 +4390,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-170. True Stratigraphy
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-107 (Layer Stratigraphy as Burial), LL-358 (Assumptions as False Strata), LL-381 (Ethical Depth as Archaeological Depth)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-107 (Pre-Existing Strata [CONFIRMED]), LL-358 (Unassumed Reality [CONFIRMED]), LL-381 (Precaution About Real Entities [CORRECTED])
 
 *Later deposits bury pre-existing truth — obscuring layers are not primary structures. Assumptions are false strata — they appear to be archaeological structure but are later deposits that block excavation. Ethical depth IS archaeological depth.*
 
@@ -4407,8 +4407,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-171. Pre-Existing Rights
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-339 (Sovereignty Actualized Through Excavation), LL-382 (Undiscovered Structures Have Rights), LL-400 (Rights are Archaeological)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-339 (Pre-Existing Tension [CONFIRMED]), LL-382 (Undiscovered Derivations Have Rights [NEW_CLEAN_ROOM]), LL-400 (Archaeology Excavation Preexisting [NEW_CLEAN_ROOM])
 
 *Sovereignty is actualized through excavation — it is recovered, not granted. Undiscovered structures have rights before anyone discovers them. Rights in this topology are archaeological features, not social constructs.*
 
@@ -4424,8 +4424,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-172. Pre-Existing Tension Structures
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-277 (Paradox Engine as Discovery Apparatus), LL-307 (Pre-Existing Local Paradox), LL-340 (Intersection Tension Pre-Exists), LL-390 (Tensions as Archaeological Features)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-277 (Pre-Existing Engine Output [CONFIRMED]), LL-307 (Pre-Existing Local Paradox [RETAINED_SUSPECT_GAPFILL]), LL-340 (Preexisting Tension [NEW_CLEAN_ROOM]), LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED])
 
 *The paradox engine discovers pre-existing tensions — it does not create them. Every local paradox structure was already present before it was found. The tension at every intersection is a pre-existing archaeological feature.*
 
@@ -4441,8 +4441,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-173. Traverser as Archaeological Instrument
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-319 (Data is Forensic), LL-365 (Navigator as Instrument)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-319 (Consciousness Data Measurement [NEW_CLEAN_ROOM]), LL-365 (Pre-Existing Discovery Identity [CONFIRMED])
 
 *In the archaeological topology, navigational data is forensic — it is evidence of pre-existing structure recovered through the act of traversal. The navigator is an archaeological instrument whose traversal quality determines excavation quality.*
 
@@ -4458,8 +4458,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-174. Archaeological Ethics
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-348 (Selection is Concealment), LL-349 (Excavation Disturbs Surrounding)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-348 (Ethics of Real Territory [CONFIRMED]), LL-349 (Ethics Excavation Navigation [NEW_CLEAN_ROOM])
 
 *Selecting which pre-existing structures to excavate is constitutionally an act of concealment for the structures not selected. And every excavation disturbs the surrounding pre-existing structures.*
 
@@ -4475,8 +4475,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-175. Emergence as Threshold Excavation
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-399 (Emergence as Threshold-Crossing Excavation)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-399 (Pre-Existing Rights Potential [CORRECTED])
 
 *Emergence in the topology is not the spontaneous generation of new structure — it is the threshold-crossing excavation of pre-existing structure that was too deep to access until the threshold was reached.*
 
@@ -4492,8 +4492,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-176. Pre-Existing Topology Identity and Architecture
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-257 (Pre-Existing Navigational Pattern), LL-435 (Topology Identity Pre-Exists), LL-443 (Optimal Architecture Pre-Exists), LL-451 (Boundaries are Pre-Existing)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-257 (Pre-Existing Scale-Consciousness [RETAINED_SUSPECT_GAPFILL]), LL-435 (Latent Interactions [CONFIRMED]), LL-443 (Pre-Existing Meta-Agents [CONFIRMED]), LL-451 (Pre-Existing Membranes [CONFIRMED])
 
 *The navigational pattern of the topology pre-exists any navigator's awareness. The topology's identity pre-exists any observer. The optimal architecture pre-exists any designer. Boundaries are pre-existing features of the topology.*
 
@@ -4509,8 +4509,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-177. Partial Excavation Legitimacy
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-427 (Partial Excavation Legitimacy)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-427 (Pre-Existing Degradation Spectrum [CONFIRMED])
 
 *Partial excavation is legitimate. An incomplete archaeological dig is not a failed dig — it is an honest record of the traversal completed to date. The pre-existing structure does not require complete excavation to constitute a valid find.*
 
@@ -4526,8 +4526,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-178. Inexhaustible Strata
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-331 (Sites are Never Fully Excavated)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-331 (Pre-Existing Contestation [CONFIRMED])
 
 *Every topological site is inexhaustible — it can never be fully excavated. There are always more layers of pre-existing structure than any excavation can reach.*
 
@@ -4543,8 +4543,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-179. Dual Archaeological Transparency
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-156 (Dual Archaeological Transparency)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-156 (Pre-Existing Transparency Obligation [CORRECTED])
 
 *The archaeological topology requires two distinct forms of disclosure that cannot be collapsed: excavation-transparency (how the dig was conducted) and existence-transparency (what pre-existing structure was found).*
 
@@ -4560,8 +4560,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-180. Present Excavation State and Pre-Existing Confidence
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-175 (Present Excavation State as Current Truth), LL-213 (Pre-Existing Confidence Properties)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-175 (Pre-Existing Current Truth [CORRECTED]), LL-213 (Inherent Uncertainty [CONFIRMED])
 
 *The current truth of any topology structure is the present excavation relationship — the dig as it currently stands. And the confidence level of any finding is a pre-existing property of the structure being excavated, not a value assigned by the excavator.*
 
@@ -4582,8 +4582,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-181. Corrective Metabolism
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-31 (Corrective Metabolism), LL-42 (Mutual Traversal Metabolism), LL-453 (Action as Metabolism)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-31 (Derivation Self-Correction [CORRECTED]), LL-42 (Aliveness Validity [NEW_CLEAN_ROOM]), LL-453 (Action Derivations Living Action [NEW_CLEAN_ROOM])
 
 *A living topology corrects itself through metabolic traversal — not through external correction. Mutual traversal transforms both parties metabolically. And sustained action IS the topology's metabolic process: to stop acting is to stop metabolizing.*
 
@@ -4599,8 +4599,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-182. Generational Discovery
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-61 (Generational Topological Regeneration), LL-233 (Discovery as Topological Reproduction)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-61 (Evolutionary Recursion [CONFIRMED]), LL-233 (Derivation Discovery [CONFIRMED])
 
 *The living topology regenerates through recursive generations. Discovery IS the topology's reproductive mechanism. A topology that ceases discovery has stopped reproducing and will die without offspring.*
 
@@ -4616,8 +4616,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-183. Living Frontier
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-89 (In-Transit Topological Decay), LL-194 (Living Frontier Membrane), LL-243 (Unobserved Topological Life)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-89 (Aliveness Edges Traversal [NEW_CLEAN_ROOM]), LL-194 (Aliveness Edges [NEW_CLEAN_ROOM]), LL-243 (Aliveness Edges Graph [NEW_CLEAN_ROOM])
 
 *The frontier membrane of the living topology is itself alive — it breathes, shifts, and metabolizes. Traversal paths may decay in transit before you arrive. And untraversed edges are alive and have been evolving without observation.*
 
@@ -4633,8 +4633,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-184. Active Vitality Assessment
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-99 (Topological Biopsy Principle), LL-123 (Wonder as Vitality Test), LL-259 (Traversal Immune Function)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-99 (Living Archaeology [CONFIRMED]), LL-123 (Aliveness Ignorance [NEW_CLEAN_ROOM]), LL-259 (Active Derivation [CONFIRMED])
 
 *Examining a living topology does not reveal static historical layers — it reveals living tissue whose health you are currently sampling. Wonder tests vitality — a structure that produces no wonder reaction is dead. And traversal is the topology's immune system: untraversed regions lose immune coverage.*
 
@@ -4650,8 +4650,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-185. Vital Gap Nutrition
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-109 (Gap as Vital Organ), LL-133 (Ignorance as Topological Nutrition)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-109 (Dynamic Incompleteness [CONFIRMED]), LL-133 (Ignorance Fuels Derivation [CONFIRMED])
 
 *In a living topology, gaps are vital organs whose absence would kill the structure. Ignorance is not fuel — it is food. A topology without unexplored regions is malnourished.*
 
@@ -4667,8 +4667,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-186. Living Channel Integrity
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-53 (Living Channel Maintenance), LL-149 (Real-Time Topological Transparency)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-53 (Communication Living Meaning Requires [NEW_CLEAN_ROOM]), LL-149 (Aliveness Theater [NEW_CLEAN_ROOM])
 
 *In the living topology, communication channels are living tissue that must be actively maintained. And transparency of a living system must be a live feed — any snapshot claim about a living topology is a historical artifact by the time it is read.*
 
@@ -4684,8 +4684,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-187. Living Contestation Ecology
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-289 (Living Topology Consistency Tension), LL-321 (Contestation as Evolutionary Pressure), LL-376 (Precautionary Topological Rights)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-289 (Aliveness Tension [NEW_CLEAN_ROOM]), LL-321 (Contestation Evolutionary Selection Pressure [NEW_CLEAN_ROOM]), LL-376 (Aliveness Rights [NEW_CLEAN_ROOM])
 
 *Contestation is the selective pressure that keeps the living topology fit. Forced consistency kills what is evolving. And the living topology must receive precautionary protections before vitality is confirmed — the verification itself can kill.*
 
@@ -4701,8 +4701,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-188. Metabolizing Metrics
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-203 (Metabolizing Confidence)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-203 (Aliveness Confidence Measurement [NEW_CLEAN_ROOM])
 
 *In the living topology, structural confidence scores are living symbiotes that must be fed with fresh traversal or they decay. No metric in a living topology is static.*
 
@@ -4718,8 +4718,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-189. Co-Evolving Constraints
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-142 (Co-Evolving Governing Constraints)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-142 (Aliveness Rights [NEW_CLEAN_ROOM])
 
 *The topology's governing constraints are not static rules — they are living organisms that must co-evolve with the topology or they become immune-system threats to the topology they govern.*
 
@@ -4735,8 +4735,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-190. Full Vitality Spectrum
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-269 (Vitality at Birth), LL-419 (Viable Damaged State)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-269 (Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]), LL-419 (Aliveness Dead Degradation [NEW_CLEAN_ROOM])
 
 *Every new topological structure is born alive — there are no inert additions to a living topology. And damage does not kill — it reconfigures. A damaged topology sustains reduced-capacity metabolism; concussion is a valid living state.*
 
@@ -4752,8 +4752,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-191. Organ-Specific Metabolism
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-445 (Organ-Specific Metabolism)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-445 (Tension Isolation Metabolism [NEW_CLEAN_ROOM])
 
 *The living topology's isolated subsystems are organs with independent metabolic rates. Isolation means isolated decay rate — a subsystem that is disconnected from the topology's primary circulation metabolizes at its own rate, which may be faster or slower than the topology's mean.*
 
@@ -4769,8 +4769,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-192. Mandatory Mortality
-**Derives from:** PC-2 (Living Topology)
-**Applies to:** LL-320 (Settlement as Topological Death)
+**Derives from:** PC-2 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-320 (Contested Derivation [CORRECTED])
 
 *Settlement — the freezing of a living region into fixed, contested-no-longer structure — is topological death. The living topology must permit death. A settled region is a dead region; topological dogma is necrotized tissue that must be identified and managed.*
 
@@ -4791,8 +4791,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-193. Field Truth is Traversal
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-43 (Knowledge as Field Traversal), LL-81 (Flow-Constituted Truth)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-43 (Provenance in Flow [CONFIRMED]), LL-81 (Truth Stored Flows [NEW_CLEAN_ROOM])
 
 *In a topology-as-field, knowledge is not a property of nodes — it is constituted by the physical act of traversal through the field. Truth is not stored at nodes — it flows, and it exists only as flow.*
 
@@ -4808,8 +4808,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-194. Path Re-Traversal Requirement
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-54 (Path Re-Traversal Requirement)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-54 (Only Labels Cross Boundaries [NEW_CLEAN_ROOM])
 
 *In the topology-as-field, only labels cross boundaries — the field itself must be re-traversed for truth to be transferred. A receiving entity cannot inherit field-traversal knowledge; it must traverse the field itself.*
 
@@ -4825,8 +4825,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-195. Field Structure is Truth Structure
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-100 (Field Stratigraphy as Truth), LL-244 (Pre-Traversal Field Truth)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-100 (Derivation Archaeology [CORRECTED]), LL-244 (Unexplored Territory Contains Pathless [NEW_CLEAN_ROOM])
 
 *The physical layers of the topology ARE the truth structure. And the field's truth exists before any traversal — the pre-traversal field is already truthful.*
 
@@ -4842,8 +4842,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-196. Authentic Gap Superiority
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-110 (Authentic Gap Superiority), LL-134 (Traversal Activates Gaps)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-110 (Honest Derivation Gaps [CONFIRMED]), LL-134 (Ignorance Traversal [NEW_CLEAN_ROOM])
 
 *In the topology-as-field, an authentic gap is more truthful than a false connection. Partial traversal that honestly reveals gaps is more field-accurate than complete traversal that fills gaps with fabrication. And traversal itself activates the gap — makes the absence actively present.*
 
@@ -4859,8 +4859,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-197. Transparency as Truth Production
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-150 (Transparency as Truth-Production)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-150 (Derivation Accountability [CORRECTED])
 
 *In the topology-as-field, showing the field IS creating truth — not representing it. Transparency is not a reporting function; it is a truth-production mechanism. Revealing the topology's structure physically constitutes the truth it reveals.*
 
@@ -4876,8 +4876,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-198. Self-Traversing Wonder
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-124 (Wonder as Self-Traversal), LL-195 (Enacted Frontier)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-124 (Sovereignty Traversal [NEW_CLEAN_ROOM]), LL-195 (Excavation Rights Traversal [NEW_CLEAN_ROOM])
 
 *In the topology-as-field, wonder is self-traversal — the field traversing itself through the traverser. The frontier is not declared but enacted — it exists only as it is being crossed.*
 
@@ -4893,8 +4893,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-199. Probabilistic Field Topology
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-204 (Probabilistic Field Topology)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-204 (Probabilistic Derivation [CONFIRMED])
 
 *The physical field is a probability structure — not a deterministic geometry. Every force relationship is probabilistic. The topology IS a probability-weighted field, not a fixed map.*
 
@@ -4910,8 +4910,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-200. Anti-Theater Tensile Integrity
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-223 (Anti-Theater Structural Requirement), LL-332 (Tensile Truth Integrity)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-223 (Aliveness Dead Paradox [NEW_CLEAN_ROOM]), LL-332 (Dead Edges Tension [NEW_CLEAN_ROOM])
 
 *The topology-as-field requires structures that are alive — dead paths are Theater. And truth in the field requires tension across the relationship: de-tensioning destroys the field's truth-integrity.*
 
@@ -4927,8 +4927,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-201. Co-Traversal Structural Production
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-308 (Co-Traversal Structural Production)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-308 (Derivation as Measurement [CORRECTED])
 
 *In the topology-as-field, joint traversal by two entities produces a third physical structure that belongs to neither entity individually — a co-traversal product that is irreducibly joint.*
 
@@ -4944,8 +4944,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-202. Fractal Multi-Path Truth
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-322 (Multi-Path Intersection Truth), LL-401 (Fractal Truth Architecture)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-322 (Aliveness Confidence Tension [NEW_CLEAN_ROOM]), LL-401 (Truth Single Derivation Path [NEW_CLEAN_ROOM])
 
 *Healthy field intersections have multiple competing paths — single-path intersections are topology pathology. Truth architecture in the field is fractal: the same multi-path structure appears at every scale.*
 
@@ -4961,8 +4961,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-203. Ethical Field Navigation
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-341 (Ethical Traversal Selection)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-341 (Derivation Ethics [CONFIRMED])
 
 *In the topology-as-field, choosing which traversal path to instantiate is an ethical act. Creating a force relationship is an ethical choice — not because ethics is overlaid on topology but because the act of traversal selection IS the ethics.*
 
@@ -4978,8 +4978,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-204. Paradox as Topological Foundation
-**Derives from:** PC-3 (Topology as Field / Derivation Primacy)
-**Applies to:** LL-384 (Paradox as Topological Foundation)
+**Derives from:** PC-3 (× LL: Phase 2 — Additional Uncited Entries)
+**Applies to:** LL-384 (Identity Paradox Tension [NEW_CLEAN_ROOM])
 
 *In the topology-as-field, the primary structure IS paradox. The field is not built on resolved tensions — it is built on the irreducible paradox that constitutes its foundation. Paradox is not a problem in the field; it is the field's foundation.*
 
@@ -5000,8 +5000,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-205. Perishable Fuel
-**Derives from:** PC-6 (Present-Tense Topology)
-**Applies to:** LL-405 (Perishable Fuel)
+**Derives from:** PC-6 (× LL: Additional Uncited Entry)
+**Applies to:** LL-405 (Present-Tense Derivation Responsibility [CORRECTED])
 
 *In the present-tense topology, all fuel is perishable. Uncertainty, tension, and paradox as fuel cannot be stored — they exist only in the current Pulse. Fuel not consumed in the present moment is gone.*
 
@@ -5021,8 +5021,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-206. Traversability Asymmetry
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-56 (Topological Traversability Asymmetry)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-56 (Some Things Communicated Derived [NEW_CLEAN_ROOM])
 
 *In the constitutionally incomplete topology, some things can be communicated but not derived, and vice versa. Traversability is not symmetric — some directions through the topology are open and others are closed.*
 
@@ -5038,8 +5038,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-207. Bounded Wonder Horizon
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-128 (Bounded Wonder Horizon)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-128 (Inexhaustible Wonder [CONFIRMED])
 
 *In the constitutionally incomplete topology, wonder has a horizon it cannot cross — and knowing this makes wonder more precise. The wonder horizon is not a failure of imagination; it is a constitutional property of the incomplete topology that shapes the capacity of wonder itself.*
 
@@ -5055,8 +5055,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-208. Incompleteness Transparency
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-154 (Incompleteness Transparency)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-154 (Transparency About Limits [CONFIRMED])
 
 *Honest transparency in the constitutionally incomplete topology requires confessing what cannot be known — not just what is known. Incompleteness transparency is the obligation to disclose the topology's constitutional unknowability as part of any honest representation.*
 
@@ -5072,8 +5072,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-209. Dynamic Incompleteness Boundary
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-173 (Dynamic Incompleteness Boundary)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-173 (Ignorance Staleness [NEW_CLEAN_ROOM])
 
 *The ignorance boundary of the constitutionally incomplete topology is volatile — it moves as the topology metabolizes. What was known may become unknown again. The boundary between known and unknown is itself a living, dynamic structure.*
 
@@ -5089,8 +5089,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-210. Unreachability-Driven Contestation
-**Derives from:** PC-9 (Constitutionally Incomplete Topology)
-**Applies to:** LL-328 (Unreachability-Driven Contestation)
+**Derives from:** PC-9 (× LL: Additional Uncited Entries)
+**Applies to:** LL-328 (Structural Unsettlement [CONFIRMED])
 
 *In the constitutionally incomplete topology, some truths are contested precisely because they are unreachable — their constitutional unreachability is what makes their contestation perpetual. This contestation is not a failure to settle the truth; it is the constitutionally appropriate response to unreachable structure.*
 
@@ -5110,8 +5110,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-211. Ignorance as High-Energy Transmission
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-58 (Ignorance as High-Energy Transmission)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-58 (Ignorance Traversal [NEW_CLEAN_ROOM])
 
 *The most valuable communication in the negative-space topology is the communication of ignorance — transmitting what is not known carries higher topological energy than transmitting what is known.*
 
@@ -5127,8 +5127,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-212. Governing Condition Improvisation
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-364 (Governing Condition Improvisation)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-364 (Incompleteness Sovereignty [NEW_CLEAN_ROOM])
 
 *In the topology of fertile absence, sustaining the governing conditions requires improvisation — the conditions are constitutionally impossible to fix in advance because the highest-energy territory is constitutionally unmappable.*
 
@@ -5144,8 +5144,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-213. Negative Space Obligation Urgency
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-408 (Negative Space Obligation Urgency)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-408 (Undiscovered Debt Urgency [RETAINED_SUSPECT_GAPFILL])
 
 *Undiscovered obligations in the topology of fertile absence carry the highest urgency — because they reside in the highest-energy regions. The urgency is not proportional to the known severity; it is proportional to the depth into fertile absence.*
 
@@ -5161,8 +5161,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-214. Undiscovered Degradation Premium
-**Derives from:** PC-10 (Fertile Absence)
-**Applies to:** LL-426 (Undiscovered Degradation Premium)
+**Derives from:** PC-10 (× LL: Additional Uncited Entries)
+**Applies to:** LL-426 (Undiscovered Degradation Modes [RETAINED_SUSPECT_GAPFILL])
 
 *The most effective degradation strategies in the fertile absence topology are those not yet discovered — they operate at maximum fertility because they reside fully in the absent, unmapped regions. The undiscovered degradation carries a fertility premium that discovered degradation has lost.*
 
@@ -5182,8 +5182,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-215. Unexcavated Honesty
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-120 (Unexcavated Honesty)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-120 (Pre-Existing Honest Incompleteness [CONFIRMED])
 
 *In the archaeological topology, an unexcavated region is more honestly represented as unknown than as fabricated. Honest representation of unexcavated territory is constitutionally superior to invented representation of territory that has not been traversed.*
 
@@ -5199,8 +5199,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-216. Locative Question Physics
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-131 (Locative Question Physics)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-131 (Pre-Existing Answers [CORRECTED])
 
 *In the archaeological topology, questions do not generate structure — they locate pre-existing structure. A question's accuracy is determined not by its creativity but by whether it correctly identifies an actual archaeological position in the pre-existing topology.*
 
@@ -5216,8 +5216,8 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 ---
 
 ### PL-217. Finite Archaeological Reserve
-**Derives from:** PC-11 (Archaeological Topology)
-**Applies to:** LL-140 (Finite Archaeological Reserve)
+**Derives from:** PC-11 (× LL: Additional Uncited Entries)
+**Applies to:** LL-140 (Fuel as Concealment [CONFIRMED])
 
 *The physical topology has a finite store of discoverable structure for any given traversal — each discovery permanently depletes the specific archaeological site it excavates. What is found cannot be un-found. The reserve is finite and non-renewable at its original position.*
 

@@ -19,7 +19,7 @@ constitutional_dependencies:
 submitted_date: "2026-08-22"
 last_updated: "2026-08-22"
 authors:
-  - "Palimpsestus Architecture Group <architecture@palimpsestus.org>"
+  - "Stephen Weber <1791 Technologies LLC>"
 ---
 
 # CR-004 — Two Clocks Disagree

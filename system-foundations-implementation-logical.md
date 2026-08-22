@@ -16,7 +16,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ## IL Derivations
 
 ### IL-1. Graph Node Scribe (`role:scribe`)
-**Derives from:** IC-1 (`scribe`)  
+**Derives from:** IC-1 (Structural Binding (`scribe`))  
 **Applies to:** PL-1..15 (Self-Similar Edge Ingestion) [shared PC-1, PC-4]  
 
 *The system actor obligated to bind base entity and process-definitions into the live reality graph under non-transferable stewardship.*
@@ -32,7 +32,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-2. Target State Inspector (`role:inspector`)
-**Derives from:** IC-2 (`examine`)  
+**Derives from:** IC-2 (Invasive Inspection (`examine`))  
 **Applies to:** PL-16..35 (Field Coordinates Dynamic) [shared PC-3, PC-5]  
 
 *The system actor obligated to perform active state inspection and bear the resulting irreversible observation scar.*
@@ -48,7 +48,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-3. Locative Topology Traverser (`role:traverser`)
-**Derives from:** IC-3 (`go`)  
+**Derives from:** IC-3 (Locative Traversal (`go`))  
 **Applies to:** PL-16..35 (Field Coordinates Traversal) [shared PC-3, PC-5]  
 
 *The system actor obligated to execute locative field traversal along spatial and topological coordinates.*
@@ -64,7 +64,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-4. Consequence-Bearing Skill Executor (`role:executor`)
-**Derives from:** IC-4 (`invoke`)  
+**Derives from:** IC-4 (Consequence Execution (`invoke`))  
 **Applies to:** PL-36..55 (Consequential Interaction Dynamics) [shared PC-8]  
 
 *The system actor obligated to execute Level 5 skill calls over OS pipes and absorb resulting error mass.*
@@ -80,7 +80,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-5. Topological Frontier Searcher (`role:searcher`)
-**Derives from:** IC-5 (`search`)  
+**Derives from:** IC-5 (Frontier Probing (`search`))  
 **Applies to:** PL-56..75 (Frontier Volatility Discovery) [shared PC-9, PC-10]  
 
 *The system actor obligated to deploy locative probes at unmapped topological boundaries.*
@@ -96,7 +96,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-6. Structural Edge Purger (`role:purger`)
-**Derives from:** IC-6 (`purge`)  
+**Derives from:** IC-6 (Structural Dissolution (`purge`))  
 **Applies to:** PL-76..95 (Structural Dissolution Dynamics) [shared PC-2, PC-6]  
 
 *The system actor obligated to sever active graph edges to execute structural dissolution safely.*
@@ -112,7 +112,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-7. Metabolic Aliveness Pulser (`role:pulser`)
-**Derives from:** IC-7 (`pulse`)  
+**Derives from:** IC-7 (Aliveness Monitoring (`pulse`))  
 **Applies to:** PL-96..115 (Metabolic Rhythm Dynamics) [shared PC-2, PC-6]  
 
 *The system actor obligated to emit periodic metabolic aliveness pulses to verify substrate activity.*
@@ -128,7 +128,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-8. Endogenous Permeability Granter (`role:granter`)
-**Derives from:** IC-8 (`permit`)  
+**Derives from:** IC-8 (Boundary Permeability (`permit`))  
 **Applies to:** PL-116..135 (Boundary Sovereignty Dynamics) [shared PC-7]  
 
 *The system actor obligated to evaluate access permeability endogenously at target interface membranes.*
@@ -144,7 +144,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-9. Absence Record Instantiator (`role:instantiator`)
-**Derives from:** IC-9 (`instantiate`)  
+**Derives from:** IC-9 (Absence Materialization (`instantiate`))  
 **Applies to:** PL-56..75 (Ignorance Materialization) [shared PC-9, PC-10]  
 
 *The system actor obligated to materialize encountered topological ignorance as an Absence Record.*
@@ -160,7 +160,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-10. Cryptographic Provenance Attestor (`role:attestor`)
-**Derives from:** IC-10 (`attest`)  
+**Derives from:** IC-10 (Provenance Sealing (`attest`))  
 **Applies to:** PL-1..15 (Attestation Dynamics) [shared PC-1, PC-4]  
 
 *The system actor obligated to emit cryptographically sealed attestations certifying node creation and state provenance.*
@@ -176,7 +176,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-11. Archaeological Bedrock Excavator (`role:excavator`)
-**Derives from:** IC-11 (`excavate`)  
+**Derives from:** IC-11 (Bedrock Verification (`excavate`))  
 **Applies to:** PL-136..155 (Archaeological Restoration Dynamics) [shared PC-11]  
 
 *The system actor obligated to conduct symmetric bedrock re-traversal to uncover ancient provenance records.*
@@ -192,7 +192,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-12. Ambient Signal Wake Broadcaster (`role:broadcaster`)
-**Derives from:** IC-12 (`say`)  
+**Derives from:** IC-12 (Signal Emission (`say`))  
 **Applies to:** PL-36..55 (Signal Propagation Dynamics) [shared PC-8]  
 
 *The system actor obligated to emit signal wake broadcasts into local field space.*
@@ -208,7 +208,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-13. Identity Key Anchor (`role:anchor`)
-**Derives from:** IC-13 (`anchor`)  
+**Derives from:** IC-13 (Identity Grounding (`anchor`))  
 **Applies to:** PL-116..135 (Identity Sovereignty Dynamics) [shared PC-7]  
 
 *The system actor obligated to anchor cryptographic identity keys to local node membranes.*
@@ -224,7 +224,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-14. Sepsis Cleanser (`role:cleanser`)
-**Derives from:** IC-14 (`cleanse`)  
+**Derives from:** IC-14 (Sepsis Cleansing (`cleanse`))  
 **Applies to:** PL-136..155 (Sepsis Absolution Dynamics) [shared PC-11]  
 
 *The system actor obligated to clear structural sepsis corruption from infected node membranes.*
@@ -240,7 +240,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-15. Multi-Party Contract Negotiator (`role:negotiator`)
-**Derives from:** IC-15 (`negotiate`)  
+**Derives from:** IC-15 (Agreement Minting (`negotiate`))  
 **Applies to:** PL-156..175 (Contract Negotiation Dynamics) [shared PC-4]  
 
 *The system actor obligated to parameterize mutual obligations between actors prior to agreement binding.*
@@ -256,7 +256,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-16. Entity Scope Acquirer (`role:acquirer`)
-**Derives from:** IC-16 (`take`)  
+**Derives from:** IC-16 (Entity Acquisition (`take`))  
 **Applies to:** PL-176..195 (Entity Scope Dynamics) [shared PC-3]  
 
 *The system actor obligated to acquire physical entity possession into operational scope.*
@@ -272,7 +272,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-17. Entity Scope Releaser (`role:releaser`)
-**Derives from:** IC-17 (`drop`)  
+**Derives from:** IC-17 (Entity Release (`drop`))  
 **Applies to:** PL-176..195 (Scope Release Dynamics) [shared PC-3]  
 
 *The system actor obligated to release entity possession from operational scope back to local field ground.*
@@ -288,7 +288,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-18. Node Blueprint Mutator (`role:mutator`)
-**Derives from:** IC-18 (`mutate`)  
+**Derives from:** IC-18 (Property Alteration (`mutate`))  
 **Applies to:** PL-196..217 (Blueprint Mutation Dynamics) [shared PC-1]  
 
 *The system actor obligated to modify living node blueprint templates under adaptive environmental pressures.*
@@ -304,7 +304,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-19. Structural Tension Rebalancer (`role:rebalancer`)
-**Derives from:** IC-19 (`rebalance`)  
+**Derives from:** IC-19 (Tension Equilibrium (`rebalance`))  
 **Applies to:** PL-156..175 (Tension Dynamics) [shared PC-4]  
 
 *The system actor obligated to rebalance kinetic force and edge stress across graph regions.*
@@ -320,7 +320,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-20. Infected Membrane Quarantiner (`role:quarantiner`)
-**Derives from:** IC-20 (`quarantine`)  
+**Derives from:** IC-20 (Membrane Isolation (`quarantine`))  
 **Applies to:** PL-116..135 (Contagion Isolation Dynamics) [shared PC-7]  
 
 *The system actor obligated to freeze membrane permeability immediately upon sepsis detection to isolate infection.*
@@ -336,7 +336,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-21. Gravitational Vector Deflector (`role:deflector`)
-**Derives from:** IC-21 (`deflect`)  
+**Derives from:** IC-21 (Momentum Curve (`deflect`))  
 **Applies to:** PL-176..195 (Gravitational Vector Mechanics) [shared PC-3]  
 
 *The system actor obligated to calculate gravitational vector deflection near high-density data clusters to manage drag.*
@@ -352,7 +352,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-22. Topological Frequency Resonator (`role:resonator`)
-**Derives from:** IC-22 (`resonate`)  
+**Derives from:** IC-22 (Phase Harmony (`resonate`))  
 **Applies to:** PL-36..55 (Harmonic Resonance Dynamics) [shared PC-8]  
 
 *The system actor obligated to harmonize node execution frequencies across adjacent Swarm Mesh nodes.*
@@ -368,7 +368,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-23. Traversal Scar Auditor (`role:auditor`)
-**Derives from:** IC-23 (`verify`)  
+**Derives from:** IC-23 (Lineage Audit (`verify`))  
 **Applies to:** PL-16..35 (Observation Scar Verification) [shared PC-3, PC-5]  
 
 *The system actor obligated to audit invasive observation scar density and provenance lineage prior to execution.*
@@ -384,7 +384,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-24. Metabolic Fuel Igniter (`role:igniter`)
-**Derives from:** IC-24 (`ignite`)  
+**Derives from:** IC-24 (Substrate Ignition (`ignite`))  
 **Applies to:** PL-96..115 (Fuel Ignition Dynamics) [shared PC-2, PC-6]  
 
 *The system actor obligated to ignite present-tense metabolic fuel to power node execution loops.*
@@ -400,7 +400,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-25. Dissolved Mass Catabolizer (`role:catabolizer`)
-**Derives from:** IC-25 (`metabolize`)  
+**Derives from:** IC-25 (Energy Synthesis (`metabolize`))  
 **Applies to:** PL-76..95 (Metabolic Catabolism & Fuel Sink) [shared PC-2, PC-6]  
 
 *The system actor obligated to catabolize dissolved graph structures back into refined metabolic fuel.*
@@ -416,7 +416,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-26. Morphic Blueprint Replicator (`role:replicator`)
-**Derives from:** IC-26 (`replicate`)  
+**Derives from:** IC-26 (Template Mitosis (`replicate`))  
 **Applies to:** PL-196..217 (Blueprint Replication Dynamics) [shared PC-1]  
 
 *The system actor obligated to copy node topological templates to spawn daughter node structures.*
@@ -432,7 +432,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-27. Morphic Role Differentiator (`role:differentiator`)
-**Derives from:** IC-27 (`differentiate`)  
+**Derives from:** IC-27 (Morphic Specialization (`differentiate`))  
 **Applies to:** PL-196..217 (Tissue Specialization Dynamics) [shared PC-1]  
 
 *The system actor obligated to commit pluripotential daughter nodes into dedicated functional tissue roles.*
@@ -448,7 +448,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-28. Scar Tissue Remodeler (`role:remodeler`)
-**Derives from:** IC-28 (`heal`)  
+**Derives from:** IC-28 (Tissue Regeneration (`heal`))  
 **Applies to:** PL-136..155 (Tissue Restoration Dynamics) [shared PC-11]  
 
 *The system actor obligated to remodel invasive observation scars to restore membrane resilience.*
@@ -464,7 +464,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-29. Environmental Blueprint Adapter (`role:adapter`)
-**Derives from:** IC-29 (`adapt`)  
+**Derives from:** IC-29 (Genomic Shift (`adapt`))  
 **Applies to:** PL-196..217 (Selection Pressure Dynamics) [shared PC-1]  
 
 *The system actor obligated to adapt node blueprint templates under long-term environmental selection pressures.*
@@ -480,7 +480,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-30. Field Gradient Perceiver (`role:perceiver`)
-**Derives from:** IC-30 (`perceive`)  
+**Derives from:** IC-30 (Field Proprioception (`perceive`))  
 **Applies to:** PL-16..35 (Ambient Gradient Dynamics) [shared PC-3, PC-5]  
 
 *The system actor obligated to sense ambient field density, temperature, and pressure gradients.*
@@ -496,7 +496,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-31. Homeostatic Pressure Regulator (`role:regulator`)
-**Derives from:** IC-31 (`homeostate`)  
+**Derives from:** IC-31 (Metabolic Regulation (`homeostate`))  
 **Applies to:** PL-96..115 (Thermodynamic Equilibrium Dynamics) [shared PC-2, PC-6]  
 
 *The system actor obligated to regulate internal pressure, tension, and temperature equilibrium across living nodes.*
@@ -512,7 +512,7 @@ This document produces the Logical Roles & System Actors (`entityType: "logical-
 ---
 
 ### IL-32. Cryptobiotic Shell Encapsulator (`role:encapsulator`)
-**Derives from:** IC-32 (`encapsulate`)  
+**Derives from:** IC-32 (Cryptobiosis Encystment (`encapsulate`))  
 **Applies to:** PL-210..217 (Emergency Encystment Dynamics) [shared PC-2]  
 
 *The system actor obligated to form a protective outer cyst around living nodes during critical fuel collapse.*
