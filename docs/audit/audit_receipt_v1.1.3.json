@@ -1,0 +1,30 @@
+{
+  "audit_receipt_id": "rec_audit_v1_1_3_0001",
+  "governing_grammar_version": "C_1",
+  "spec_version": "v1.1.3",
+  "commit_sha": "e60ccc0c0d2be4a9f6397a710d3613b341308359",
+  "working_tree": "CLEAN",
+  "corpus_digest": "sha256:1d114a48446e6fb12748ee343b3ef3f8aa57e1303fc673ee40abcc2f3f01fde0",
+  "methodology": "Literal verification of keyword-guided candidate selections",
+  "timestamp": "2026-08-22T06:40:00Z",
+  "scorecard": {
+    "direct_matches": 4,
+    "structural_matches": 6,
+    "weak_no_matches": 2,
+    "total": 12
+  },
+  "candidate_attestations": [
+    { "prediction": "Causal Horizons", "candidate_id": "PI-180", "file": "system-foundations-physical-implementation.md", "rating": "DIRECT" },
+    { "prediction": "Irreversible Phase Transitions", "candidate_id": "IP-49", "file": "system-foundations-implementation-physical.md", "rating": "DIRECT" },
+    { "prediction": "Measurement Perturbation", "candidate_id": "PP-423", "file": "system-foundations-physical-physical.md", "rating": "STRUCTURALLY RELATED" },
+    { "prediction": "Noncommuting Concurrent Actions", "candidate_id": "II-40", "file": "system-foundations-implementation-implementation.md", "rating": "DIRECT" },
+    { "prediction": "Identity Duplication Without Corruption", "candidate_id": "PP-42", "file": "system-foundations-physical-physical.md", "rating": "STRUCTURALLY RELATED" },
+    { "prediction": "Secret-Dependent Provenance", "candidate_id": "PP-167", "file": "system-foundations-physical-physical.md", "rating": "STRUCTURALLY RELATED" },
+    { "prediction": "Collective Responsibility", "candidate_id": "PL-51", "file": "system-foundations-physical-logical.md", "rating": "STRUCTURALLY RELATED" },
+    { "prediction": "Consent Under Structural Dependency", "candidate_id": "LP-697", "file": "system-foundations-logical-physical.md", "rating": "STRUCTURALLY RELATED" },
+    { "prediction": "Institutional Succession", "candidate_id": "CC-1", "file": "system-foundations-conceptual-conceptual.md", "rating": "STRUCTURALLY RELATED" },
+    { "prediction": "Mutually Inaccessible Witnesses", "candidate_id": "CC-6", "file": "system-foundations-conceptual-conceptual.md", "rating": "WEAK / INDIRECT" },
+    { "prediction": "Reflexive Prediction", "candidate_id": "PP-402", "file": "system-foundations-physical-physical.md", "rating": "DIRECT" },
+    { "prediction": "Adversarially Manufactured Provenance", "candidate_id": "CC-3", "file": "system-foundations-conceptual-conceptual.md", "rating": "WEAK / NO MATCH" }
+  ]
+}
