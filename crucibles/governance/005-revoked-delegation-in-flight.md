@@ -10,7 +10,7 @@ outcomes:
   - "PENDING"
 
 constitution: "C_1"
-spec_version: "v1.0.5"
+spec_version: "v1.0.6"
 
 constitutional_dependencies:
   - "CC-7"

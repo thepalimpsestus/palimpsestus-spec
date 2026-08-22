@@ -4,6 +4,13 @@ All notable changes to the Palimpsestus Open Architecture Specification will be 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.6] - 2026-08-22
+
+### Added
+- **Dual Epistemic Taxonomy & Self-Pinning Resolution:** Documented explicit distinction between External Problem Premises and Internal Epistemic Tiers ($C_1$), and eliminated self-referential commit hash recursion in Crucible frontmatter headers.
+
+---
+
 ## [1.0.5] - 2026-08-22
 
 ### Fixed
