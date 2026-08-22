@@ -4,6 +4,15 @@ All notable changes to the Palimpsestus Open Architecture Specification will be 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.3] - 2026-08-22
+
+### Fixed
+- **Receipt JSON Schema Enforcement (`D16`):** Integrated strict `jsonschema.validate()` on all Cross, Fold, and Migration receipts against their governing JSON schemas.
+- **Universal Witness Digest Verification (`D17`):** Enforced byte-for-byte matching of `parent_witnesses.canonical_text_digest` against target parent nodes.
+- **Negative Mutation Test Coverage (`D18`):** Added `invalid_witness_digest_sample.json` and Step `[1b/6]` verifying hard failure on corrupted digests.
+
+---
+
 ## [1.1.2] - 2026-08-22
 
 ### Added

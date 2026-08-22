@@ -1,10 +1,10 @@
-# Palimpsestus `v1.1.2` Master Defect Ledger
+# Palimpsestus `v1.1.3` Master Defect Ledger
 
-This ledger tracks the structural defects, citation mismatches, verifier category errors, and verifier code enforcement gaps identified during clean-room passes on `v1.1.0` and `v1.1.1`. All defects are explicitly closed and verified under the `v1.1.2` release gate.
+This ledger tracks structural defects, citation mismatches, verifier category errors, and verifier code enforcement gaps identified during clean-room reviews of `v1.1.0`, `v1.1.1`, and `v1.1.2`. All defects are explicitly closed and verified under the `v1.1.3` release gate.
 
 ---
 
-## Master Defect Register (`D01` – `D15`)
+## Master Defect Register (`D01` – `D18`)
 
 | Defect ID | Description | Source | Affected Artifact | Repair Mechanism | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -23,3 +23,6 @@ This ledger tracks the structural defects, citation mismatches, verifier categor
 | **D13** | `verify-conformance.sh` warned on commit mismatch instead of hard-exiting | Code Audit | `scripts/verify-conformance.sh` | Enforce hard script termination (`exit 1`) on spec commit mismatch | **CLOSED** |
 | **D14** | `verify-conformance.sh` carried `SPEC_REF` schema hashes but did not execute sha256 verification | Code Audit | `scripts/verify-conformance.sh` | Added Step `[0/6]` verifying `sha256sum` for all 4 receipt schemas against `SPEC_REF` | **CLOSED** |
 | **D15** | Silent fallback to cell-derived epistemic tiers when tags missing in Markdown | Code Audit | `validators/verify_corpus_conformance.py` | Added explicit `**Epistemic Tier:** Tier X` tag to all 3,269 Markdown entries; verifier hard errors on missing tags | **CLOSED** |
+| **D16** | Receipt JSON Schema validation (`jsonschema.validate()`) was not executed on JSON fixtures | Reviewer Pass | `validators/verify_dag_conformance.py` | Execute strict `jsonschema.validate()` on all receipt JSON objects against `schemas/*.schema.json` | **CLOSED** |
+| **D17** | `parent_witnesses` object not checked against target node computed digest in receipt validator | Reviewer Pass | `validators/verify_dag_conformance.py` | Require `witness.canonical_text_digest == recomputed_target_digest` & title witness for 100% of receipt parents | **CLOSED** |
+| **D18** | Lack of negative mutation test vector proving corrupted witness digest triggers failure | Reviewer Pass | `test-vectors/dag/invalid_witness_digest_sample.json` | Added Step `[1b/6]` executing negative mutation test vector; verifies non-zero exit on corrupted digest | **CLOSED** |
