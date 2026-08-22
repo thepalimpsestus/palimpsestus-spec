@@ -11,7 +11,6 @@ outcomes:
 
 constitution: "C_1"
 spec_version: "v1.0.5"
-spec_commit: "0a79efc"
 
 constitutional_dependencies:
   - "CC-1"
@@ -35,9 +34,11 @@ State the irreducible premises required for the problem to arise. Do not include
 - **P3:** ...
 
 ## 3. Epistemic Classification
-Classify each minimal premise into its appropriate epistemic category:
-- **P1:** Minimal Observation / Constitutive Assumption
-- **P2:** Derived Proposition / Empirical Hypothesis
+Classify each minimal premise using the Dual Epistemic Taxonomy:
+- **External Premise Category:** Phenomenological Observation | Formal/Mathematical Premise | Historical Normative Claim | Thought-Experiment Axiom
+- **Internal Palimpsestus Tier ($C_1$):** Tier 1 Phenomenological Constraint | Tier 2 Constitutive Axiom | Tier 3 Derived Consequence | Tier 4 Empirical Hypothesis | Tier 5 Operational Heuristic
+- **P1:** Tier 1 Phenomenological Constraint (Minimal Observation).
+- **P2:** Tier 2 Constitutive Axiom / Mathematical Group Structure.
 
 ## 4. Hidden-Premise Audit
 Identify unstated auxiliary assumptions, ill-defined categories, or implicit context shifts that must be assumed for the apparent contradiction to manifest:

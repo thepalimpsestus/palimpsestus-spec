@@ -36,6 +36,16 @@ $$\boxed{
 
 Crucible artifacts track two independent, orthogonal metadata dimensions: **Lifecycle Status** (maturity of the artifact) and **Outcome Classification** (the epistemic result under the pinned constitution).
 
+### Epistemic Taxonomy: External Premises vs Internal Tiers
+Crucibles explicitly distinguish between **External Problem Premises** (how a hard problem enters the analysis) and **Internal Palimpsestus Epistemic Tiers** ($C_1$):
+* **External Problem Premises:** Phenomenological Observation, Formal/Mathematical Premise, Historical Normative Claim, Thought-Experiment Axiom.
+* **Internal Palimpsestus Epistemic Tiers ($C_1$):**
+  - **Tier 1:** Phenomenological Starting Constraint
+  - **Tier 2:** Constitutive Axiom ($CC$)
+  - **Tier 3:** Derived Consequence ($CL, CP, CI$)
+  - **Tier 4:** Empirical Hypothesis
+  - **Tier 5:** Operational Heuristic / Application Convention
+
 ### Lifecycle Statuses (`status`)
 1. **`PROPOSED`**: Raw problem submitted by a contributor; un-formalized.
 2. **`FORMALIZED`**: Problem statement, minimal premises, hidden-premise audit, and spec coordinates established.

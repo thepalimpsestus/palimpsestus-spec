@@ -12,7 +12,6 @@ outcomes:
 
 constitution: "C_1"
 spec_version: "v1.0.5"
-spec_commit: "PENDING"
 
 constitutional_dependencies:
   - "CC-1"

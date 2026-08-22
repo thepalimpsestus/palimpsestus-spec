@@ -12,7 +12,6 @@ outcomes:
 
 constitution: "C_1"
 spec_version: "v1.0.5"
-spec_commit: "PENDING"
 
 constitutional_dependencies:
   - "CC-1"
@@ -77,7 +76,7 @@ The exact epistemic boundary between micro-grains and macro-heaps remains an ope
 
 ## 12. Outcome Classification & Justification
 - **Primary Outcome:** `UNDERDETERMINED`
-- **Outcomes:** `[UNDERDETERMINED, REFREMED]`
+- **Outcomes:** `[UNDERDETERMINED, REFRAMED]`
 - **Justification:** Given $C_1$ and initial premises, multiple sharp boundary thresholds are equally warranted; first principles cannot select one without warrant inflation.
 
 ## 13. Resolution Dependency Audit
