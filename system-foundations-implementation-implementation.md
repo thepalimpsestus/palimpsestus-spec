@@ -71,7 +71,7 @@ Edge struct memory layouts MUST reserve a 64-bit atomic boundary permeability fi
 *Binding an edge appends dual-endpoint provenance cryptographic hashes to the edge payload, making un-attributed edge creation physically impossible.*
 
 **Substrate Reaction Gate Invariants:**
-- **Dual-Endpoint Attribution Invariant:** Edge inscription payloads MUST contain cryptographic hash signatures of both initiating actor and target nodes.
+- **Dual-Endpoint Attribution Invariant:** Edge inscription payloads MUST contain cryptographic hash signatures of both origin and target nodes.
 - **Register Zeroization Invariant:** Scratch memory and temporary CPU registers used during edge payload signing MUST be zeroed immediately prior to returning thread execution focus.
 
 **Lock #0 Instantiation Verification Rule:**
