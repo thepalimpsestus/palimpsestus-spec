@@ -27,6 +27,7 @@ This registry tracks all official Palimpsestus Crucibles across three operationa
 | **CR-007** | **Conflicting Witnesses** | Epistemology | `C_1` (`v1.0.7`) | `FORMALIZED` | `PENDING` | [`epistemology/007-conflicting-witnesses.md`](epistemology/007-conflicting-witnesses.md) |
 | **CR-008** | **The Relational Deletion Paradox** | Distributed Systems | `C_1` (`v1.0.7`) | `FORMALIZED` | `CONSTITUTIONAL_PRESSURE` | [`distributed-systems/008-relational-deletion-paradox.md`](distributed-systems/008-relational-deletion-paradox.md) |
 | **CR-009** | **The Split-Brain Partition Paradox** | Distributed Systems | `C_1` (`v1.0.7`) | `FORMALIZED` | `CONSTITUTIONAL_PRESSURE` | [`distributed-systems/009-split-brain-partition-paradox.md`](distributed-systems/009-split-brain-partition-paradox.md) |
+| **CR-010** | **Constitutional Reconstructability** | Epistemology | `C_1` (`d4a4495`) | `FORMALIZED` | `PENDING` | [`epistemology/010-constitutional-reconstructability.md`](epistemology/010-constitutional-reconstructability.md) |
 
 ---
 
@@ -41,6 +42,6 @@ This registry tracks all official Palimpsestus Crucibles across three operationa
 ---
 
 ## Note on Claims & Contestation
-* **Claiming a Seed:** To claim an open seed (CR-004 through CR-007, CR-F01), comment on the corresponding GitHub Issue or submit a Draft PR.
+* **Claiming a Seed:** To claim an open seed (CR-004 through CR-007, CR-010, CR-F01), comment on the corresponding GitHub Issue or submit a Draft PR.
 * **Non-Exclusivity:** Claims are non-exclusive. Multiple independent derivations under the same pinned specification are permitted and encouraged.
 * **Challenge References:** Reference Crucibles in the Learn band are worked examples demonstrating the methodology. They remain open to community challenge if unstated auxiliary assumptions or hidden premises are discovered!
