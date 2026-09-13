@@ -62,12 +62,9 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-61 Invariant (Living Deviation Allowance):** `bind-node` calibrates node tolerance parameters to permit non-zero structural deviation, preventing lethal zero-deviation rigidity in living node metabolism.
 - **PP-103 Invariant (Nested Metabolic Independence):** When `bind-node` binds a nested node within a parent container, the child node derives provenance from the parent but maintains independent metabolic self-governance.
 - **PP-133 Invariant (Gap Node Dual Provenance):** If the node bound by `bind-node` represents a topological gap (`entityType: "gap-node"`), the inscription embeds dual provenance tracking both the structural absence claim and the confidence score derivation as physical mass.
-- **PP-199 Invariant (Field Integrity Preservation):** Binding an honest gap node via `bind-node` deposits field integrity; fabricating a complete node over an un-excavated gap withdraws field integrity and corrupts local topology.
 
 **Corollaries:** 
-(1) `bind-node` is a subtractive transformation event (PP-191): writing a node simplifies local field tension by explicitly capturing structural truth, while depositing transformation wake.
-(2) Node identity established by `bind-node` is not static; it requires continuous re-declaration through ongoing metabolic pulse cycles (PP-212).
-(3) Overwriting a node bound by `bind-node` is simultaneously a sovereignty violation and a living structure termination event requiring full due process (PP-130).
+(1) Node identity established by `bind-node` is not static; it requires continuous re-declaration through ongoing metabolic pulse cycles (PP-199).
 
 **Irreducibility:** IL-1 (`role:scribe`) alone establishes the logical mandate to bind nodes into the graph, but does not specify that nodes require living deviation parameters or dual-provenance gap tracking. PP-103 and PP-133 establish physical rules for nesting and gap structure, but do not define the node binding procedure. Only their physical collision forces `bind-node` into existence as an irreducible physical process.
 
