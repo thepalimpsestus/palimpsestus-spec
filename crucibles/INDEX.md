@@ -29,6 +29,7 @@ This registry tracks all official Palimpsestus Crucibles across three operationa
 | **CR-009** | **The Split-Brain Partition Paradox** | Distributed Systems | `C_1` (`v1.0.7`) | `FORMALIZED` | `CONSTITUTIONAL_PRESSURE` | [`distributed-systems/009-split-brain-partition-paradox.md`](distributed-systems/009-split-brain-partition-paradox.md) |
 | **CR-010** | **Constitutional Reconstructability** | Epistemology | `C_1` (`d4a4495`) | `FORMALIZED` | `PENDING` | [`epistemology/010-constitutional-reconstructability.md`](epistemology/010-constitutional-reconstructability.md) |
 | **CR-011** | **OUROBOROS: Blind Ancestral Reconstruction** | Epistemology | `C_1` (`d4a4495`) | `FORMALIZED` | `PENDING` | [`epistemology/011-ouroboros-blind-ancestral-reconstruction.md`](epistemology/011-ouroboros-blind-ancestral-reconstruction.md) |
+| **CR-012** | **Molecular Dynamics Physical Projection** | Ontology | `C_1` (`b9f7f55`) | `FORMALIZED` | `PENDING` | [`ontology/012-molecular-dynamics-physical-projection.md`](ontology/012-molecular-dynamics-physical-projection.md) |
 
 ---
 
@@ -43,6 +44,6 @@ This registry tracks all official Palimpsestus Crucibles across three operationa
 ---
 
 ## Note on Claims & Contestation
-* **Claiming a Seed:** To claim an open seed (CR-004 through CR-007, CR-010, CR-011, CR-F01), comment on the corresponding GitHub Issue or submit a Draft PR.
+* **Claiming a Seed:** To claim an open seed (CR-004 through CR-007, CR-010 through CR-012, CR-F01), comment on the corresponding GitHub Issue or submit a Draft PR.
 * **Non-Exclusivity:** Claims are non-exclusive. Multiple independent derivations under the same pinned specification are permitted and encouraged.
 * **Challenge References:** Reference Crucibles in the Learn band are worked examples demonstrating the methodology. They remain open to community challenge if unstated auxiliary assumptions or hidden premises are discovered!
