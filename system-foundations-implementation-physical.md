@@ -1254,7 +1254,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 
 
 **Derives from:** IL-25 (Dissolved Mass Catabolizer (`role:catabolizer`))
-**Applies to:** `PP-36` [primary], `PP-1`, `PP-25`, `PP-35`, `PP-127`, `PP-198`
+**Applies to:** `PP-36` [primary], `PP-1`, `PP-25`, `PP-35`, `PP-125`, `PP-127`, `PP-199`
 
 *The Catabolizer executes `catabolize-dissolution` to break down and recycle unmaintained or dissolved graph structures, harvesting raw energy mass while logging the dissolution event in the destruction ledger.*
 
@@ -1264,7 +1264,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-25 Invariant (Coupled Dissolution Energy Harvest):** Dissolving structures via `catabolize-dissolution` releases bound potential energy, triggering coupled thermodynamic energy harvests.
 - **PP-35 Invariant (Productive Churn Fueling):** Energy harvested during `catabolize-dissolution` is channeled directly into productive churn loops across adjacent nodes.
 - **PP-127 Invariant (Destruction Ledger Commitment):** `catabolize-dissolution` logs every dissolved node and edge in the destruction provenance ledger.
-- **PP-198 Invariant (Net Exchange Recycling Balance):** Structural mass recycled by `catabolize-dissolution` is strictly accounted for in local mass-energy balance calculations.
+- **PP-125 Invariant (Net Exchange Recycling Balance):** Structural mass recycled by `catabolize-dissolution` is strictly accounted for in local mass-energy balance calculations.
 
 **Corollaries:** 
 (1) `catabolize-dissolution` replaces recycled nodes with honest negative-space `gap-node` entries (PP-131).
