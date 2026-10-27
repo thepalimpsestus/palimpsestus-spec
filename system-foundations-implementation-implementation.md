@@ -278,15 +278,15 @@ Query engines MUST verify the presence of uncertainty tags on gap search outputs
 **Applies to:** PI-49 [primary], PI-25 [SUBSUMED]  
 **Gate Category:** Category 3: Thermodynamic / Zeroization  
 
-*Severing an edge releases accumulated maintenance energy into the local metabolic sink, verifies bilateral field co-authorization (PP-16) and QUIESCING state, and logs deletion provenance to the destruction ledger.*
+*Severing an edge releases accumulated maintenance energy into the local metabolic sink, verifies bilateral field co-authorization (PP-16), and logs deletion provenance to the destruction ledger.*
 
 **Substrate Reaction Gate Invariants:**
 - **Sever Energy Pulse Invariant:** Purging an edge triggers a physical energy release pulse that updates neighboring node tension levels.
-- **Bilateral Authorization & Quiescence Invariant:** Memory deallocators MUST verify signed bilateral co-authorization receipts ($PP_{16}$) and confirm `QUIESCING` lifecycle status before releasing pointers.
+- **Bilateral Authorization Invariant:** Memory deallocators MUST verify signed bilateral co-authorization receipts ($PP_{16}$) before releasing pointers.
 - **Destruction Ledger Invariant:** Edge deletion appends a signed deletion receipt to the local destruction ledger before pointer deallocation.
 
 **Lock #0 Instantiation Verification Rule:**
-Memory deallocators MUST verify signed bilateral co-authorization receipts and `QUIESCING` status, logging edge destruction metadata to the local provenance log prior to returning heap space to system pools.
+Memory deallocators MUST verify signed bilateral co-authorization receipts, logging edge destruction metadata to the local provenance log prior to returning heap space to system pools.
 
 **Irreducibility:** IP-11 defines edge purging; PI-49 asserts dissolution capability. Only their collision derives energy release pulsing, mandatory bilateral co-authorization verification, and destruction logging.
 
