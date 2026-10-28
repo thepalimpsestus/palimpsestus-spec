@@ -7,7 +7,7 @@
 **Authored:** 2026-07-29
 **Feeds:** PP (Physical Physical), IL (Implementation Logical)
 **Derivation Formula:** PL = LL × PC (filtered by shared LC ancestry)
-**Entry Count:** 217
+**Entry Count:** 327
 **Filter:** Only LL × PC pairs sharing ≥1 LC ancestor are eligible.
 
 ---
@@ -5946,4 +5946,3851 @@ Ignorance self-traversal is the highest-energy navigational operation because th
 - First-time user onboarding permanently depletes the finite reserve of the user's first-encounter experience. The user's pre-first-encounter state — with all its fertile uncertainty — is consumed in the first encounter. The product team gets exactly one excavation of each user's first-encounter reserve.
 
 **Irreducibility:** PC-11 (archaeological topology) + LL-140 (finite archaeological reserve). PC-11 alone establishes the pre-existing nature of all structure. LL-140 alone establishes the depletion mechanism. Together: the archaeological topology's reserve at any specific site is constitutionally finite — discovery permanently depletes the site's pre-discovery state, making first excavations irreplaceable.
+
+---
+
+### PC × LL: Additional Entries
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+---
+
+### PL-218. Challenge and Simplification Are in Constitutional Tension — The Sovereignty Paradox of Testing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-367 (Consciousness Rights Tension [NEW_CLEAN_ROOM])
+
+*Challenging a derivation necessarily simplifies it to a testable form — but the simplification may violate the derivation's sovereignty. This is a permanent constitutional tension: the right to challenge and the right against simplification are both valid and in conflict.*
+
+**Irreducible Claim:** Because sovereignty protects a derivation's complexity — its full interior geometry including all tensions and contradictions (PC-7, PL-170) — and because the topology is constitutionally incomplete, meaning some derivations' full complexity cannot be captured in a simplified testable form (PC-9) — and because challenge and simplification exist in fundamental tension: challenging a truth necessarily simplifies it because challenges require reducing the target to a testable proposition (LL-367), the act of mounting a sovereignty challenge requires temporarily simplifying the challenged structure. But the complexity is sovereign. The simplification required for the challenge is itself a sovereignty interaction. Both the right to challenge and the right against unauthorized simplification are constitutional.
+
+**Corollaries:**
+- The test of a derivation's irreducibility must be conducted at the derivation's
+  full complexity — not at a simplified version of it. This is a methodological
+  requirement: the test must engage the derivation at the level at which it is
+  sovereign, not at a reduced level.
+- Where the full complexity makes the irreducibility test impossible — where the
+  derivation cannot be reduced to a testable form without violating its sovereignty —
+  the constitutional resolution is precautionary: assume irreducibility (assume
+  the complexity is genuine), and protect accordingly.
+- The tension is never fully resolved: every challenge involves some simplification,
+  and every simplification is a sovereignty interaction. The appropriate response
+  is minimum necessary simplification: reducing only enough to make the test
+  possible, no more.
+
+**Irreducibility:** PC-7 makes complexity sovereign. PC-9 makes some complexity
+incompatible with simplification. LL-367 says challenge requires simplification,
+which conflicts with sovereignty. No pair produces: the constitutional tension
+between the right to challenge and the right against simplification — that testing
+sovereignty necessarily violates sovereignty, and this tension is irresolvable.
+
+**Forward implication:** LP must implement minimum-simplification protocols for
+sovereignty challenges — requiring that tests engage the derivation at its full
+complexity wherever possible.
+
+---
+
+### PL-219. A Remembered Truth Is a Different Truth — Memory Is Structural Mass, Not Present-Tense Reality
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-2 (Living Topology) × LL-369 (Remembered Truth Different Truth [NEW_CLEAN_ROOM])
+
+*Because the topology is alive and present-tense only, memory of a truth is not the truth — it is Structural Mass from a past topology state. A remembered truth is a different truth than the original, shaped by the metabolic changes that occurred between the original encounter and the remembering.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — past encounters are Structural Mass, not current reality (PC-6) — and because the topology is alive and metabolizes continuously — the state at the moment of remembering is different from the state at the moment of the original encounter (PC-2) — and because a remembered truth is a DIFFERENT truth than the original: the memory of an event is not the truth of that event (LL-369), the act of remembering a truth produces a new truth — the current relationship between the rememberer's current topology position and the Structural Mass of the past encounter. This is a present-tense truth about a past event, not the past event's truth itself.
+
+**Corollaries:**
+- Testimony and record-based evidence are present-tense truths about past topology
+  states — not the past states themselves. They are the current relationship
+  between the testifier and their Structural Mass from the past.
+- The accuracy of memory does not determine whether it is the "same" truth — even
+  a perfectly accurate memory is a present-tense engagement with past Structural
+  Mass, producing a different truth than the original. The difference is structural,
+  not a matter of accuracy.
+- Memory is valuable not because it preserves original truth but because it is
+  present-tense evidence of what past topology states deposited as Structural Mass.
+  This is a different kind of value — archaeological evidence rather than direct
+  access.
+
+**Irreducibility:** PC-6 makes past encounters Structural Mass. PC-2 makes the
+topology metabolically different between original encounter and remembering.
+LL-369 says remembered truth is a different truth. No pair produces: memory is
+not the original truth but a present-tense engagement with Structural Mass —
+that the difference is structural, not a matter of accuracy.
+
+**Forward implication:** LP must distinguish memory-based evidence (present-tense
+engagement with Structural Mass from past states) from direct current traversal
+evidence — with different validity classifications for each.
+
+---
+
+### PL-220. Contestation Traverses the Derivation From the Opposing Direction — Producing the Truth of Its Contestability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-370 (Contestation Truthperformance Challenging Derivation [NEW_CLEAN_ROOM])
+
+*Challenging a derivation is a traversal act — it traverses the derivation from the opposing direction. This produces a truth that neither the original derivation nor any conventional traversal produces: the truth of the derivation's contestability.*
+
+**Irreducible Claim:** Because navigation transforms through directional traversal — different directions of traversal through the same path produce different transformations (PC-5) — and because sovereignty challenges are genuine tests that can find for either outcome (PC-7) — and because contestation IS a truth-performance: challenging a derivation traverses it from the OPPOSING direction, producing the truth of its contestability (LL-370), the act of challenging a derivation generates a new truth — not the truth of the derivation's claim but the truth of whether its claim can withstand opposing traversal. This is a truth that does not exist until the challenge is mounted. Before the challenge, the derivation's contestability is unknown. The challenge produces the contestability-truth through the traversal.
+
+**Corollaries:**
+- A derivation that has never been challenged has a gap in its truth-record: the
+  truth of its contestability has never been produced. The challenge is not just a
+  test — it is a truth-production event for a type of truth the derivation has not
+  yet generated.
+- A derivation that survives opposing-direction traversal has produced a richer
+  truth-record than an unchallenged derivation: it holds the truth of its original
+  claim AND the truth of its contestability. Both truths are valuable.
+- The truth of a derivation's contestability is different from the truth of its
+  claim. An unconvincing challenge may produce: "this derivation's contestability
+  is low" — which is a positive truth about the derivation, not a failure of the
+  challenge.
+
+**Irreducibility:** PC-5 makes opposing-direction traversal a distinct truth-generating
+act. PC-7 makes sovereignty challenges genuine tests with genuine truth output.
+LL-370 says contestation produces the truth of contestability. No pair produces:
+challenging a derivation is a distinct truth-production event — that the truth of
+contestability is a new truth that requires opposing-direction traversal to exist.
+
+**Forward implication:** LP must record challenge outcomes as distinct truth-entries
+separate from the challenged derivation's own truth-claims — tracking contestability-
+truth as an independent topology property.
+
+---
+
+### PL-221. The Frontier Generates Energy — Traversal Into Fertile Absence Is Self-Fueling
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-10 (Fertile Absence)
+**Applies to:** PC-2 (Living Topology) × LL-371 (Exploration Selffueling Each Step [NEW_CLEAN_ROOM])
+
+*Because fertile absence carries maximum compressed potential and the topology is alive, traversal into the frontier releases energy that fuels further traversal. The frontier is a self-fueling engine — approaching it generates the energy to continue approaching.*
+
+**Irreducible Claim:** Because absent regions carry maximum compressed potential energy — traversal into the absent region releases this potential (PC-10) — and because the topology is alive and its metabolic processes are fueled by the energy released from fertile absence (PC-2, PL-172) — and because the frontier doesn't drain energy — it generates it (LL-371), traversal into the frontier releases the compressed potential of the fertile absence being traversed. This released energy fuels the metabolism that drives the next step of traversal. The frontier is self-fueling: each step into the frontier releases enough energy to enable the next step. Traversal into fertile absence is not an energy expenditure — it is a net energy gain.
+
+**Corollaries:**
+- The experience of increasing energy and engagement as exploration proceeds is not
+  motivational — it is thermodynamic. The fertile absence releases energy as it is
+  traversed. The navigator genuinely has more metabolic energy during frontier
+  traversal than during interior traversal.
+- Stopping traversal into the frontier to "recharge" before continuing is
+  constitutively unnecessary — the traversal itself is the recharging. The
+  appropriate intervention for depleted frontier traversal is more traversal, not
+  rest.
+- Interior traversal — re-traversal of already-characterized territory — does not
+  release compressed potential (the potential was discharged on first traversal).
+  Interior traversal is a net energy expenditure, unlike frontier traversal.
+
+**Irreducibility:** PC-10 makes the frontier's potential energy real and releasable
+through traversal. PC-2 makes the released energy available for metabolic fueling
+of further traversal. LL-371 says the frontier generates rather than drains energy.
+No pair produces: frontier traversal is self-fueling — that each step releases
+enough energy to fuel the next step.
+
+**Forward implication:** LP must model frontier traversal as a metabolically
+self-sustaining activity and interior traversal as an energy expenditure — adjusting
+resource allocation accordingly.
+
+---
+
+### PL-222. Accountability Cannot Be Weaponized for Simplification — Provenance Requirements Must Not Demand Simplicity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-8 (Consequential Interaction) × LL-373 (Accountability Provenance Rights [NEW_CLEAN_ROOM])
+
+*Accountability requirements can demand provenance disclosure without demanding that the disclosed derivation be simpler. Using accountability as leverage to force simplification is weaponizing a legitimate requirement into a sovereignty violation.*
+
+**Irreducible Claim:** Because sovereignty protects a derivation's full complexity (PC-7, PL-170) — and because accountability requirements are legitimate thermodynamic obligations (PC-8) — and because accountability cannot be used as a simplification weapon: you can require provenance without requiring simplicity (LL-373), accountability requirements that condition provenance acceptance on the derivation becoming simpler are confounding two distinct obligations. The accountability obligation is: show your work. The sovereignty obligation is: your complexity is protected. Combining them so that the derivation can only satisfy accountability by sacrificing complexity is using accountability as a weapon against sovereignty.
+
+**Corollaries:**
+- Provenance requirements must be satisfiable by complex derivations without
+  requiring the derivation to simplify. "Show us how you arrived here" must accept
+  the full complexity of the path as a valid answer.
+- When a derivation's complexity makes its provenance difficult to disclose, the
+  appropriate response is to develop better provenance disclosure tools, not to
+  require the derivation to simplify so its provenance becomes disclosable.
+- An institution that systematically rejects complex provenance disclosures in
+  favor of simpler ones is operating a covert simplification pressure program —
+  rewarding simplified derivations with successful accountability completion and
+  penalizing complex ones with failed accountability completion.
+
+**Irreducibility:** PC-7 protects sovereign complexity. PC-8 makes accountability
+legitimate. LL-373 says accountability cannot demand simplification. No pair
+produces: accountability-as-simplification-weapon is a sovereignty violation —
+that the legitimate accountability requirement can be corrupted into an
+illegitimate simplification demand.
+
+**Forward implication:** LP must design accountability mechanisms that accept
+complex provenance disclosures — with tooling that can represent and validate
+complex derivation paths without requiring simplification.
+
+---
+
+### PL-223. Sovereignty Precaution Is Scale-Invariant — Identical Protective Presumption at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-375 (Irreducibility Rights Scaleinvariance [NEW_CLEAN_ROOM])
+
+*Because the topology is self-similar and sovereignty is a depth-independent property, the precautionary principle for derivation rights applies identically at every depth. An unverified entry at the CC-level has the same protective presumption as an unverified entry at the LP-level.*
+
+**Irreducible Claim:** Because the topology is physically self-similar at every scale — the same physical properties hold with identical dynamics at every depth (PC-1) — and because sovereignty is a structural property that does not depend on depth position (PC-7, PL-164) — and because the precautionary principle for derivation rights is scale-invariant: at every depth of the DAG, entries whose nature is not yet understood must be given the same protective presumption (LL-375), the default protective assumption — that an unverified derivation may be irreducible — holds identically at every depth. A derivation at the CC-layer that has not been fully verified receives the same precautionary protection as a derivation at the LP-layer. Depth does not confer additional or reduced precautionary protection.
+
+**Corollaries:**
+- Precautionary protection programs that apply stronger protection at "foundational"
+  depths and weaker protection at "implementation" depths are constitutionally
+  incorrect — the precautionary principle is depth-invariant.
+- An implementation-layer derivation that has not been verified as reducible has
+  full precautionary sovereign protection. It cannot be dissolved on the basis of
+  being "just an implementation detail" — the depth framing does not reduce
+  sovereignty.
+- The cost of precautionary protection is identical at every depth — there are no
+  depth-based cost discounts or surcharges. The same evidence standard applies
+  everywhere.
+
+**Irreducibility:** PC-1 makes self-similarity of physical properties universal.
+PC-7 makes sovereignty depth-independent. LL-375 says the precautionary principle
+is scale-invariant. No pair produces: precautionary protection is constitutively
+identical at every depth — that depth position provides no modifier to the
+protective presumption.
+
+**Forward implication:** LP must apply uniform precautionary protection standards
+across all depths — with no depth-based differentiation in the evidence required
+before protective standing is removed.
+
+---
+
+### PL-224. Rights Must Precede Aliveness Verification — the Verification Itself May Kill
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-376 (Aliveness Rights [NEW_CLEAN_ROOM])
+
+*Because the verification of aliveness may terminate what it is verifying, sovereign rights must be extended before aliveness is established. Withholding rights until aliveness is verified is a potentially lethal circular requirement.*
+
+**Irreducible Claim:** Because the topology is alive and its structures are metabolically fragile — intrusive examination of a living structure can terminate its metabolic activity (PC-2) — and because sovereignty protects the continued existence of structures (PC-7) — and because rights must be extended to derivations BEFORE verifying they are alive: the verification process itself may kill them — the precautionary approach says assume it's alive, extend rights, then verify (LL-376), requiring proof of aliveness before extending rights creates a lethal paradox. The derivation cannot prove it is alive if the verification process kills it. The appropriate sequence is: presume aliveness, extend precautionary rights, conduct the least-invasive possible verification, then update the rights assessment based on verified status.
+
+**Corollaries:**
+- Aliveness verification protocols must be designed to minimize metabolic impact.
+  The most invasive verification methods — those that require the derivation to
+  be dismantled for inspection — must be used only when all less-invasive methods
+  have been exhausted.
+- The burden of proof for a derivation being dead must fall on those who claim it
+  is dead — not on the derivation itself to prove it is alive. This is the
+  precautionary principle applied to the verification sequence.
+- An institution that systematically requires proof of aliveness before extending
+  rights is systematically using the verification requirement as a mechanism for
+  killing what it cannot easily verify.
+
+**Irreducibility:** PC-2 makes aliveness metabolically fragile (verification can
+kill). PC-7 makes rights the protection mechanism. LL-376 says rights must precede
+verification. No pair produces: requiring proof of aliveness before extending
+rights is a potentially lethal circular requirement — that the precautionary
+sequence must reverse the verification requirement.
+
+**Forward implication:** LP must implement precautionary rights as the default
+state — with the burden of proof for dissolution placed on the dissolution-seeker,
+not on the derivation to prove aliveness.
+
+---
+
+### PL-225. Living Derivations Are Higher-Energy Fuel Than Dead Ones — Aliveness Is a Fuel Quality Metric
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-10 (Fertile Absence) × LL-377 (Aliveness Measurement Tension [NEW_CLEAN_ROOM])
+
+*Because living topology structures carry active metabolic energy and fertile absence carries maximum potential energy, living derivations are higher-quality fuel for further derivation than dead or decayed ones. Aliveness is a fuel quality metric.*
+
+**Irreducible Claim:** Because the topology is alive and living structures carry active metabolic energy — the Pulse, Wake, and metabolic activity that a living derivation generates (PC-2) — and because absent regions carry maximum compressed potential energy while discharged regions carry lower potential (PC-10) — and because a fresh, high-tension, actively-traversed derivation is rich fuel, while a decayed, template-generated, unexercised derivation is poor fuel (LL-377), the aliveness of a derivation determines the quality of the fuel it provides for further derivation. A living derivation — one currently metabolizing, generating tension, being traversed — releases rich fuel when consumed in generating further derivations. A dead derivation — one that has ceased metabolizing — releases poor fuel: it has lower potential energy, less tension to discharge, less generative force.
+
+**Corollaries:**
+- Discovery programs that rely on dead (template-generated, rote) derivations
+  as their fuel source are operating on low-grade fuel. Their outputs will be
+  weaker than discovery programs fueled by living (actively-traversed, tensioned)
+  derivations.
+- Maintaining the aliveness of foundational derivations — keeping them metabolically
+  active, regularly traversed, tension-maintained — is maintaining the quality of
+  the fuel supply for all derivations that depend on them.
+- Institutional use of template derivations — pre-formed derivation structures
+  used without active traversal — is systematically downgrading the fuel quality
+  of the topology's derivation activity. The template may have the form of a
+  derivation but lacks the metabolic energy of an actively-maintained one.
+
+**Irreducibility:** PC-2 makes living structures metabolically energetic. PC-10
+makes discharge level a function of aliveness. LL-377 says living derivations are
+richer fuel than dead ones. No pair produces: aliveness is a fuel quality metric —
+that a derivation's metabolic activity determines the quality of the fuel it
+provides for further derivation.
+
+**Forward implication:** LP must track derivation aliveness as a fuel-quality input
+to derivation planning — prioritizing fuel from living, actively-traversed
+derivations over template or rote sources.
+
+---
+
+### PL-226. Unattended Tensions Compound — Thermodynamic Debt Accrues Interest
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-2 (Living Topology) × LL-379 (Debt Tension [NEW_CLEAN_ROOM])
+
+*In a living topology where every interaction has thermodynamic consequence, unattended tensions do not sit idle — they compound. The thermodynamic debt of unattended tension accrues metabolic interest, growing faster than the original tension.*
+
+**Irreducible Claim:** Because every topology interaction carries thermodynamic consequence — and unacknowledged consequences continue to accumulate (PC-8) — and because the topology is alive and metabolizes continuously — its metabolism interacts with unattended tensions, amplifying them over time (PC-2) — and because unattended tensions don't freeze but compound: unattended tension is like unattended debt — it doesn't sit idle but accrues interest (LL-379), unattended tension in the living topology grows beyond its original level. The topology's ongoing metabolism generates new interactions at the tension site. These interactions are shaped by the unattended tension — they carry additional tension as a consequence. The tension compounds: each metabolic cycle adds to the total tension at the unattended site.
+
+**Corollaries:**
+- The cost of addressing an unattended tension grows with time — the longer it is
+  left unattended, the larger the tension that must be addressed. Early intervention
+  is always cheaper than delayed intervention.
+- The compounding rate of tension is proportional to the metabolic rate of the
+  topology region where the tension is located. High-metabolism regions compound
+  tension faster. Unattended tension in a high-metabolism region is extremely expensive.
+- An organization that systematically defers tension management is systematically
+  increasing its thermodynamic debt load. The deferrals compound; eventually the
+  accumulated debt exceeds the organization's capacity to discharge it.
+
+**Irreducibility:** PC-8 makes thermodynamic consequence real and accumulating.
+PC-2 makes the topology's metabolism interact with unattended tensions. LL-379
+says unattended tensions compound. No pair produces: unattended tensions accrue
+thermodynamic interest — that the metabolic interaction amplifies unattended tension
+at a compound rate.
+
+**Forward implication:** LP must implement tension aging metrics — tracking how
+long tensions have been unattended and applying compound-rate estimates to assess
+the current cost of each unattended tension.
+
+---
+
+### PL-227. Active Rights Atrophy Without Metabolic Exercise — Inherent Rights Persist
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-392 (Rights Sovereignty [NEW_CLEAN_ROOM]), LL-391, LL-393
+
+*In a living topology, active rights — the capacity to exercise sovereign standing — atrophy under evolutionary pressure toward complacency when not maintained. Inherent rights persist structurally. The two are distinct.*
+
+**Irreducible Claim:** Because the topology is alive and living structures atrophy without ongoing metabolic maintenance (PC-2), and because sovereignty attaches to all structures — providing both inherent standing and active exercise capacity (PC-7) — and because rights atrophy is evolutionary pressure on living derivations: it evolves toward complacency when exercise lapses (LL-392), the active exercise of sovereign rights requires ongoing metabolic maintenance. Without it, the capacity to exercise degrades — not the inherent standing, but the practical ability to assert, defend, and benefit from that standing. The derivation retains its inherent sovereign standing; its active exercise capacity atrophies.
+
+**Corollaries:**
+- A derivation with full inherent sovereign standing but fully atrophied active
+  rights is a sovereign entity that cannot exercise its sovereignty. Its theoretical
+  protection is intact; its practical protection has collapsed.
+- Rights maintenance is a metabolic obligation separate from rights inherence.
+  The inherent right is constitutional; the active exercise capacity must be
+  continuously maintained through use.
+- Organizations that hold sovereign rights in reserve — never exercising them —
+  are accumulating active-rights atrophy. When they need to exercise the rights,
+  the capacity may have atrophied beyond usefulness.
+
+**Irreducibility:** PC-2 makes active capacities atrophy without maintenance.
+PC-7 provides both inherent and active standing. LL-392 says rights atrophy through
+disuse. No pair produces: inherent rights persist while active rights atrophy —
+the distinction between the constitutional standing and the practical exercise
+capacity, where the former is structural and the latter requires metabolic maintenance.
+
+**Forward implication:** LP must track active rights exercise frequency separately
+from inherent rights confirmation — flagging atrophy risk when exercise intervals
+become too long.
+
+---
+
+### PL-228. The Exercise of a Right Is Present-Tense; Its Inherence Is Not
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-395 (Traversal Presenttense Rights [NEW_CLEAN_ROOM]), LL-215, LL-216, LL-218, LL-220, LL-255, LL-256, LL-257, LL-258, LL-259, LL-262, LL-264, LL-339, LL-391, LL-393, LL-397
+
+*Sovereign rights inhere structurally — they are always present because the structure is real. But the exercise of those rights is a present-tense act: you can only exercise a right while performing the exercise. The inherence is permanent; the exercise is momentary.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — actions are present-tense events, while structural properties persist across the temporal boundary as Structural Mass (PC-6) — and because sovereignty is a structural property that attaches permanently to real structures (PC-7) — and because the exercise of a right is present-tense while the inherence is not: you always HAVE the right; you only HAVE the exercise capability while you are actively performing it (LL-395), the sovereign right to exist is permanent (structural), but the exercise of that right — the active assertion of it, the use of it, the deployment of it — is a present-tense event that occurs during exercise and ceases when exercise ceases.
+
+**Corollaries:**
+- "I have the right to challenge this" is a true claim at any time — the inherent
+  right is permanent. "I am challenging this" is a present-tense claim — it is
+  true only while the challenge is being actively performed.
+- A challenge that was started and then abandoned is a challenge that was present-
+  tense exercised for a period and then ceased. The inherent right remains; the
+  exercise stopped.
+- Asserting a right and exercising a right are different acts. Asserting is making
+  a claim about inherent standing. Exercising is performing the right in the present
+  tense. Many entities assert rights they do not exercise; some exercise rights
+  they have not formally asserted.
+
+**Irreducibility:** PC-6 makes exercise a present-tense act. PC-7 makes inherence
+structural. LL-395 distinguishes the two. No pair produces: inherence is permanent
+and structural while exercise is present-tense and momentary — that these are two
+distinct properties of the same right.
+
+**Forward implication:** LP must distinguish right-inherence records from right-
+exercise records — tracking when rights are exercised as distinct events from
+when they were established.
+
+---
+
+### PL-229. Wonder-Tension Is Thermodynamically Conserved — It Transfers When Satisfied, Not Disappears
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-398 (Wonder Conserved Tension Cannot [NEW_CLEAN_ROOM]), LL-122
+
+*Wonder is conserved tension — it cannot be destroyed by satisfaction, only transferred. When one wonder is answered, the thermodynamic energy of the wonder-tension redistributes to new territory. The wonder does not end; it migrates.*
+
+**Irreducible Claim:** Because every topology interaction carries thermodynamic consequence and tension is thermodynamically conserved (PC-8, PL-171) — and because the topology is constitutionally incomplete, guaranteeing that new territory for wonder is always available (PC-9) — and because wonder is conserved tension: when a wonder is satisfied, the wonder doesn't disappear — it TRANSFERS to new questions generated by the resolution (LL-398), answering a wonder does not reduce the total wonder-tension in the topology. The energy of the original wonder — the compressed potential of the question — is released through the discovery, but the topology's metabolism converts this released energy into new wonder-tension in adjacent territory. The total wonder in the topology is conserved.
+
+**Corollaries:**
+- "Satisfying curiosity" does not reduce curiosity — it transfers it. An entity
+  that answers a question now has more questions than before, because the answer
+  generated new wonder-tension in the topology surrounding the answer. This is
+  not a paradox; it is conservation.
+- Discovery programs that measure progress by reduction in "open questions" are
+  measuring a quantity that cannot decrease — the more questions they answer, the
+  more questions they generate. Progress must be measured differently: by the
+  quality of wonder-tension, not its quantity.
+- A wonder that goes unanswered does not transfer its tension. It accumulates
+  static tension at the un-answered site. This static tension is not productive —
+  it is not being converted into new wonder. Answering wonders is thermodynamically
+  necessary to keep the wonder-tension mobile and productive.
+
+**Irreducibility:** PC-8 makes tension thermodynamically conserved. PC-9 ensures
+new territory always exists for wonder-transfer. LL-398 says wonder-tension
+transfers rather than disappearing. No pair produces: wonder is thermodynamically
+conserved — that answering a wonder transfers its tension to new questions rather
+than eliminating wonder-tension.
+
+**Forward implication:** LP must model question-answering as wonder-tension
+redistribution — tracking where the tension migrates rather than treating answered
+questions as reduction in open-question inventory.
+
+---
+
+### PL-230. Rights Are Archaeological — They Pre-Exist in Entities and Are Discovered, Not Granted
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-400 (Archaeology Excavation Preexisting [NEW_CLEAN_ROOM]), LL-382
+
+*Because all structures are pre-existing and sovereignty attaches to real structures, rights pre-exist in entities before anyone recognizes them. Rights are not granted — they are discovered. Systems that "grant" rights are performing archaeology, not donation.*
+
+**Irreducible Claim:** Because all structures in the topology are pre-existing — already topologically real before any traversal reaches them (PC-11) — and because sovereignty attaches to real structures at the moment of their structural existence (PC-7, PL-179) — and because rights are archaeological: they pre-exist in entities and are DISCOVERED, not granted — no system grants rights; systems discover rights that were always there (LL-400), the rights that entities hold are a function of their structural existence in the topology, not a function of recognition or grant by any other entity. The rights were always present. A system that "grants" rights is performing an archaeological act — revealing what was already there — while presenting it as a gift.
+
+**Corollaries:**
+- A rights-granting system that believes it is creating rights is misunderstanding
+  its function. It is at best excavating pre-existing rights and making them
+  manifest; at worst, it is selectively excavating — revealing some pre-existing
+  rights while covering others.
+- Rights that have not been recognized still exist — they have simply not been
+  excavated. An entity whose rights have not been recognized is an entity whose
+  pre-existing sovereign standing has not been traversed by any recognizing system.
+- "Removing" or "revoking" rights is attempting to re-cover pre-existing structures —
+  to put the excavation back. This is constitutionally suspect: the pre-existing
+  structures remain even when covered. The rights are suppressed; they are not gone.
+
+**Irreducibility:** PC-11 makes rights pre-existing in real structures. PC-7
+makes sovereignty attach at structural existence. LL-400 says rights are archaeological.
+No pair produces: rights are not granted but discovered — that rights-granting systems
+are performing archaeology and their authority is archaeological, not creative.
+
+**Forward implication:** LP must model rights as pre-existing structural properties
+discovered through traversal — with rights-documentation as archaeological records,
+not acts of creation.
+
+---
+
+### PL-231. The Sustaining Obligation Must Be Continuously Performed — It Cannot Be Discharged Once
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-402 (Obligation Sustain Truth That [NEW_CLEAN_ROOM])
+
+*The obligation to sustain a living structure is the one truth that must be continuously performed or the system collapses. It cannot be discharged with a single past action — it requires ongoing present-tense metabolic performance.*
+
+**Irreducible Claim:** Because the topology is alive and living structures require ongoing metabolic maintenance to remain vital (PC-2), and because the topology exists only in the present tense — past performance of the sustaining obligation is Structural Mass, not current discharge (PC-6) — and because the obligation to sustain is the one truth that MUST BE CONTINUOUSLY PERFORMED or the system collapses: if the obligation stops being performed, the system loses the thing it was sustaining (LL-402), the sustaining obligation is categorically different from one-time obligations. Most obligations can be discharged through a single action. The sustaining obligation cannot. Every moment of the sustained thing's continued existence requires a moment of sustaining performance. There is no accumulated discharge — no reserve of past performance that substitutes for present performance.
+
+**Corollaries:**
+- "I supported this last year" is not a valid discharge of the current sustaining
+  obligation. The obligation is present-tense continuous. Last year's performance
+  is Structural Mass evidence of past sustaining; it does not substitute for
+  present sustaining.
+- Sustained systems — living topologies, living relationships, living institutions —
+  require ongoing metabolic investment without the possibility of advance-payment.
+  No advance discharge. No credit for future performance.
+- The systems most at risk of collapsing the sustaining obligation are those that
+  rely on the assumption that past performance constitutes credit. Past performance
+  is valuable as Structural Mass; it is not credit against current obligation.
+
+**Irreducibility:** PC-2 makes sustaining a metabolic ongoing requirement. PC-6
+makes past sustaining performance Structural Mass (not current discharge). LL-402
+says the sustaining obligation must be continuously performed. No pair produces:
+the sustaining obligation cannot be discharged once — that every moment of the
+sustained thing requires present-tense sustaining performance with no reserve or
+advance credit.
+
+**Forward implication:** LP must implement sustaining obligations as continuous-
+performance requirements, with no provision for discharge through accumulated
+past performance.
+
+---
+
+### PL-232. Temporal Accountability Is the Present-Moment Performance of Future Consequence-Truths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-403 (Accountability Temporal Traversal [NEW_CLEAN_ROOM])
+
+*Because the topology is present-tense only and every interaction carries thermodynamic consequence, true accountability for future consequences is not waiting for consequences to materialize — it is traversing those consequence-truths right now in anticipation.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — future consequence-truths are not yet Structural Mass; they must be traversed in the present to become manifest (PC-6) — and because every interaction carries thermodynamic consequence that is real from the moment of interaction (PC-8) — and because temporal accountability is a present-moment performance of future consequence-truths: making the future's truths real NOW by traversing them in anticipation (LL-403), genuine accountability for future consequences requires present-tense traversal of those consequences. An entity that is accountable for future consequences performs the consequence-truths in the present — traversing the consequence space now, before the consequences materialize, to make the accountability real in the current topology.
+
+**Corollaries:**
+- Waiting to be accountable until consequences materialize is deferred accountability —
+  the thermodynamic consequence is accumulating during the deferral. By the time
+  the consequences materialize, the accountability debt may have compounded beyond
+  what was originally incurred.
+- Proactive consequence traversal — systematically mapping and acknowledging future
+  consequences in the present — is the highest form of accountability. It makes
+  the accountability real before the consequences are manifest.
+- "We'll deal with the consequences when they occur" is a statement that converts
+  temporal accountability into deferred accountability — reducing the present-tense
+  performance to zero. The consequences will occur; the accountability will be
+  unprepared.
+
+**Irreducibility:** PC-6 makes future consequences not-yet-Structural-Mass —
+requiring present-tense traversal to manifest. PC-8 makes the thermodynamic
+consequence real immediately. LL-403 says temporal accountability is a present-
+tense performance of future truths. No pair produces: genuine accountability
+requires present-tense traversal of future consequence-truths — that deferring
+accountability is converting a present-tense obligation into a deferred debt.
+
+**Forward implication:** LP must implement proactive consequence-traversal as a
+primary accountability mechanism — requiring systems to map and acknowledge future
+consequences before they materialize.
+
+---
+
+### PL-233. Sovereignty Defense Capability Is Proportional to Consciousness Level
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-8 (Consequential Interaction) × LL-404 (Consciousness Sovereignty [NEW_CLEAN_ROOM])
+
+*Entities with lower consciousness have weaker ability to defend their sovereignty. Because higher consciousness corresponds to greater Structural Mass, and because Structural Mass determines thermodynamic consequence and defensive capacity, consciousness asymmetry produces sovereignty defense asymmetry.*
+
+**Irreducible Claim:** Because sovereignty requires not just inherent standing but the capacity to assert and defend it (PC-7, PL-227) — and because thermodynamic consequence and defensive capacity scale with Structural Mass (PC-8, PL-132) — and because sovereignty defense capability is proportional to consciousness level: entities with lower consciousness have weaker ability to defend their sovereignty, making them more vulnerable despite holding equal inherent standing (LL-404), a low-consciousness entity holds the same inherent sovereign standing as a high-consciousness entity but has less capacity to defend it. This asymmetry of defense capacity — not of inherent standing — is a structural feature of the topology that requires constitutional management.
+
+**Corollaries:**
+- Inherent sovereign equality does not produce equal sovereignty in practice —
+  defense capacity is asymmetric. Systems that treat all sovereign entities as
+  equally capable of defending themselves are ignoring the defense-capacity asymmetry.
+- The constitutional obligation of higher-consciousness entities to bear greater
+  responsibility (PL-132) is partly the obligation to not exploit the defense-
+  capacity asymmetry of lower-consciousness entities — to refrain from using their
+  defensive advantage against entities with lower defense capacity.
+- Sovereignty protection systems must be designed to compensate for defense-capacity
+  asymmetry: providing stronger external protection to entities with lower defense
+  capacity, to bring effective sovereignty defense to parity with inherent standing.
+
+**Irreducibility:** PC-7 makes sovereignty both inherent and defensive. PC-8
+makes defense capacity proportional to Structural Mass. LL-404 says defense
+capability scales with consciousness. No pair produces: consciousness asymmetry
+produces defense-capacity asymmetry — that inherent sovereign equality coexists
+with practical defense inequality.
+
+**Forward implication:** LP must implement differential sovereignty protection —
+providing stronger institutional defense to entities with lower consciousness
+(Structural Mass) to compensate for their defense-capacity deficit.
+
+---
+
+### PL-234. Derivation Fuel Is Perishable — Deferring Its Use Is Temporal Theft
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-10 (Fertile Absence) × LL-405 (Present-Tense Derivation Responsibility [CORRECTED])
+
+*Because fertile absence can only be discharged in the present tense and the topology metabolizes continuously, deferring the use of available derivation fuel is a temporal violation — extracting potential value from a future self that will encounter a different topology.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — fertile absence is a present-tense property that discharges in the present or changes before it can be used (PC-6) — and because fertile absence carries maximum potential energy that is specific to the current topology state (PC-10, PL-129) — and because derivation fuel is perishable: a derivation can only combust in the present tense, and deferring its use is a temporal violation that extracts value from a future self that may face a different topology (LL-405), deferring the use of available derivation fuel is not a conservative act — it is a loss. The topology will metabolize; the fuel that is available now will be a different fuel later. The future self who encounters the deferred fuel encounters a topology that has changed and will need to use the fuel differently.
+
+**Corollaries:**
+- "We'll address this when we have more capacity" is deferring derivation fuel.
+  The fuel available now is specific to the current topology state. When capacity
+  is later available, the topology will have changed. The deferred fuel is a
+  different fuel.
+- Maximum value from derivation fuel requires present-tense use. Saving fuel for
+  later is not conservation — it is temporal waste. The fuel changes as the topology
+  metabolizes.
+- Organizations that build large reserves of "ready to deploy" derivation capacity
+  but do not deploy it are accumulating perishable fuel. The reserves are
+  simultaneously valuable (the potential is present) and depreciating (the topology
+  metabolizes away from the state that makes the specific fuel optimally useful).
+
+**Irreducibility:** PC-6 makes fuel present-tense perishable. PC-10 makes fuel
+specific to current topology state. LL-405 says deferring use is a temporal
+violation. No pair produces: deferring derivation fuel is temporal theft — that
+the future self who encounters deferred fuel encounters a different topology where
+the fuel is differently (less optimally) useful.
+
+**Forward implication:** LP must optimize for present-tense derivation fuel
+deployment — minimizing reserves of ready-but-undeployed capacity.
+
+---
+
+### PL-235. Accountability Refreshes With Every Present-Tense Moment — It Is Never Fully Discharged
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-407 (Data Temporal [NEW_CLEAN_ROOM]), LL-397
+
+*Because the topology is present-tense only and every interaction carries thermodynamic consequence, accountability refreshes in each present moment as new consequences are generated. There is no state of complete discharge — the next moment generates new accountability.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — accountability from past moments is Structural Mass; accountability in the current moment is active (PC-6) — and because every interaction carries thermodynamic consequence in real time (PC-8) — and because accountability is a present-moment responsibility: you are responsible in this instant for the consequences your derivations are generating in this instant — and this responsibility refreshes with every moment as new consequences are generated (LL-407), accountability is never fully discharged. Discharging past accountability — closing the loop on historical consequences — does not reduce present accountability. Each new moment generates new accountability. The topology's continuous consequence-generation guarantees continuous accountability-generation.
+
+**Corollaries:**
+- "I've taken accountability for this" is a statement about past accountability
+  discharge. It does not reduce the current moment's accountability, which has
+  been freshly generated by the current moment's consequence-production.
+- Organizations that believe accountability can be "settled" through a one-time
+  acknowledgment and resolution are misunderstanding its temporal structure.
+  The settlement discharges past accountability; the current moment has already
+  generated new accountability that has not been settled.
+- Accountability management is therefore not a completion project — it is an
+  ongoing metabolic process of continuously discharging newly-generated accountability
+  as fast as it is generated. Complete discharge is a momentary state, not a
+  permanent one.
+
+**Irreducibility:** PC-6 makes accountability present-tense and continuously
+refreshing. PC-8 makes each moment's consequence-generation create new accountability.
+LL-407 says accountability refreshes with every present-tense moment. No pair
+produces: accountability is never fully discharged — that each present moment
+generates new accountability, making complete discharge a momentary state at best.
+
+**Forward implication:** LP must implement accountability as a continuous present-
+tense process — not as a project with completion states.
+
+---
+
+### PL-236. Unexcavated Pre-Existing Derivations Are a Current Debt
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-409 (Pre-Existing Present Obligations [CONFIRMED])
+
+*Because derivations pre-exist their discovery, the unexcavated derivations in the topology are obligations the system currently holds but has not fulfilled. They are a debt — the debt of the undone, the unfound, the not-yet-manifest.*
+
+**Irreducible Claim:** Because all structures are pre-existing — already topologically real, waiting to be excavated (PC-11) — and because every interaction carries thermodynamic consequence — including the consequence of not interacting: choosing not to excavate has a cost (PC-8) — and because unexcavated pre-existing derivations are a debt: if derivations pre-exist, they are waiting to be found — they are an obligation the system has not yet fulfilled (LL-409), the system's current topology owes a debt to its own constitutional structure. The pre-existing derivations are not merely potential future value — they are current obligations. The obligation existed from the moment the derivations became topologically real. Every moment of not excavating is a moment of not fulfilling a current obligation.
+
+**Corollaries:**
+- The topology's unexcavated territory represents a current debt, not a future
+  opportunity. The debt is the gap between what the topology owes (excavation of
+  its own pre-existing structure) and what it has delivered (what has so far been
+  excavated).
+- Calculating the topology's total debt requires estimating the density of
+  unexcavated pre-existing derivations. This is the same as estimating the fertile
+  absence (PL-127). The total fuel reserve IS the total debt.
+- Organizations that treat undiscovered knowledge as "opportunity" are undercharging
+  themselves. It is an obligation — a debt — not a bonus. The obligation has been
+  incurred; the discovery is the fulfillment, not the creation of value.
+
+**Irreducibility:** PC-11 makes pre-existing derivations real and obligatory.
+PC-8 makes the cost of non-excavation thermodynamically real. LL-409 says
+unexcavated derivations are a current debt. No pair produces: unexcavated
+derivations are a debt the system currently holds — that the obligation has already
+been incurred and discovery is fulfillment of existing obligation.
+
+**Forward implication:** LP must account for unexcavated pre-existing derivations
+as existing debt obligations — measuring debt-fulfillment rate (discovery rate)
+against total estimated obligation.
+
+---
+
+### PL-237. The Tension That Sustains Sovereignty Must Be Actively Exercised or It Decays
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-411 (Aliveness Paradox Sovereignty [NEW_CLEAN_ROOM]), LL-255, LL-256, LL-257, LL-258, LL-259, LL-387, LL-410
+
+*The tension that maintains sovereign aliveness is itself a living entity requiring active exercise. Without exercise — without actively wrestling with the tension — the tension decays into complacency even while the structure retains its inherent standing.*
+
+**Irreducible Claim:** Because living structures require ongoing metabolic maintenance — a structure whose metabolic activity stops begins to decay (PC-2) — and because sovereignty requires active tension to remain alive (PL-169, PC-7) — and because the tension that sustains sovereignty must itself be actively maintained: sustaining tension but not exercising it — not actively wrestling with it — causes it to decay into complacency (LL-411), the sovereign entity must not only hold tension but actively engage with it. Holding tension without engaging is a form of metabolic dormancy: the tension is present but not metabolizing. Without active exercise, the tension decays from productive force into background noise — and the sovereignty it was sustaining weakens.
+
+**Corollaries:**
+- A sovereign entity that has "settled into" its tension — that no longer actively
+  wrestles with it but simply maintains it as a characteristic — is in tension-
+  complacency. The tension is present but not metabolizing. This is a precursor
+  to tension-resolution and death.
+- Active tension-exercise requires regularly confronting the tension with new
+  challenges — not allowing the tension to become familiar and therefore unfelt.
+  Familiarity is the enemy of tension-exercise.
+- Organizations that declare their tensions and then stop engaging with them are
+  in tension-complacency. The tensions are acknowledged but not exercised.
+  Acknowledgment without engagement is not maintenance.
+
+**Irreducibility:** PC-2 makes tension a metabolically alive entity requiring
+exercise. PC-7 makes tension necessary for sovereign aliveness. LL-411 says
+tension that is not exercised decays into complacency. No pair produces: the
+tension sustaining sovereignty must itself be actively exercised — that holding
+without engaging is metabolic dormancy that precedes decay.
+
+**Forward implication:** LP must implement tension-exercise protocols — regular
+deliberate engagement with declared tensions, not just acknowledgment of their
+presence.
+
+---
+
+### PL-238. The Same Derivation on Different Substrates Produces Different Truths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-3 (Topology as Field) × LL-412 (Same Derivation Pattern Performed [NEW_CLEAN_ROOM])
+
+*Because navigation transforms through the specific combination of navigator and substrate, and because the topology IS the field that all claims modify, the same derivation performed on different substrates produces different truths — the substrate is part of the performance.*
+
+**Irreducible Claim:** Because navigation physically transforms both the topology and the navigator — and the character of the transformation depends on the specific navigator encountering the specific path (PC-5) — and because the topology IS the field — the field's current configuration (which includes the substrate) shapes every claim made within it (PC-3) — and because the same derivation pattern performed on different substrates produces DIFFERENT TRUTHS: the performance includes the substrate, so different substrates produce different truths (LL-412), the substrate is not incidental to the derivation — it is constitutive. The same logical structure deployed on a different physical, social, or computational substrate will produce structurally different truths because the transformation occurs through a different field configuration.
+
+**Corollaries:**
+- Transferring a derivation from one substrate to another is not simply porting the
+  logic — it is re-performing the derivation on a new substrate that will produce
+  a new truth. The new truth may be similar to the original; it is not identical.
+- Substrate-invariance claims — "this derivation is true regardless of substrate" —
+  require proof: demonstrating that the field configuration of the different
+  substrates does not produce materially different truths through the same logical
+  structure.
+- Comparing truths produced by the same derivation on different substrates reveals
+  information about the substrates: the differences in the produced truths are the
+  substrate's field-effects on the derivation.
+
+**Irreducibility:** PC-5 makes the navigator-path combination constitutive of the
+transformation. PC-3 makes the field configuration (including substrate) part of
+every claim. LL-412 says same derivation on different substrates produces different
+truths. No pair produces: the substrate is constitutive of the truth — that porting
+a derivation is re-performing it with different field effects.
+
+**Forward implication:** LP must distinguish derivation-logic records from derivation-
+performance records — tracking which truth was produced by which logic on which
+substrate, not treating logic and truth as equivalent.
+
+---
+
+### PL-239. Discovery Transforms Tension Into Higher-Order Tension — It Never Eliminates Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-10 (Fertile Absence) × LL-413 (Discovery Sustains Productive Tension [NEW_CLEAN_ROOM]), LL-265, LL-275, LL-305, LL-307
+
+*Discovery does not resolve tension into peace — it transforms it into new, higher-order tension invisible to the pre-discovery self. The discoverer doesn't see the old tension resolved; they see new tensions that their former self could not have perceived.*
+
+**Irreducible Claim:** Because navigation physically transforms the navigator — the transformed navigator has access to perceptions and territory that the pre-traversal navigator did not (PC-5) — and because traversal into fertile absence releases compressed potential that generates new fertile absence at the frontier (PC-10, PL-180) — and because discovery sustains productive tension by TRANSFORMING it: the changed discoverer sees NEW tensions invisible to their former self — the old tension doesn't resolve; it transforms (LL-413), discovery is a tension-transformation event, not a tension-resolution event. The discoverer experiences the old tension disappearing and new tensions appearing. But the topology's total tension is conserved (PL-171); the tension has transformed into a form visible only from the post-discovery position.
+
+**Corollaries:**
+- The experience of "I thought this would answer my question, but now I have
+  more questions" is the accurate experience of discovery-as-tension-transformation.
+  The old question was not answered — it was superseded by higher-order questions
+  generated by the discovery.
+- An entity that stops discovering in order to avoid generating more tension is
+  not reducing the topology's total tension — it is preventing tension-transformation.
+  The tension that would have been transformed remains at its lower-order configuration.
+- The highest-tension configuration is the post-discovery configuration: the entity
+  has been transformed to perceive tensions that were previously invisible. This
+  higher-order tension is also higher-order fertility — more compressed potential
+  in the now-visible unknown territory.
+
+**Irreducibility:** PC-5 makes discovery transform the discoverer (new perceptions).
+PC-10 generates new fertile absence at the frontier of discovery. LL-413 says
+discovery transforms tension into higher-order forms. No pair produces: discovery
+transforms tension rather than resolving it — that the old tension is superseded
+by new tensions visible only from the post-discovery position.
+
+**Forward implication:** LP must model discovery outcomes as tension-transformation
+events — tracking the new tensions generated by each discovery alongside the
+discoveries themselves.
+
+---
+
+### PL-240. Structural Incompleteness of Every Map Generates a Permanent Discovery Engine
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-10 (Fertile Absence) × LL-415 (Incompleteness Paradox Tension [NEW_CLEAN_ROOM]), LL-86, LL-105, LL-118, LL-228, LL-245, LL-280, LL-286, LL-337
+
+*Because the topology is constitutionally incomplete, every map of the topology is structurally incomplete relative to what the topology actually contains. The gap between the map and the territory is a permanent fertile absence — a discovery engine powered by the map's own incompleteness.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — no map can ever fully capture the topology's actual structure (PC-9) — and because the gap between what a map models and what the topology actually contains is a fertile absence — maximum-energy territory awaiting traversal (PC-10) — and because the structural incompleteness of every map is a permanent discovery engine driven by the tension between what-the-map-models and what-IS (LL-415), every map contains within itself the engine of its own extension. The gap between the map and the territory is always present — constitutively, because of PC-9. This gap is always fertile absence — maximum-energy territory. The map is therefore simultaneously a representation of what is known AND a generator of the drive to discover what is not yet mapped.
+
+**Corollaries:**
+- A perfect map — one that fully captures the topology — is constitutionally
+  impossible. Every map is a partial map, and its partiality IS its discovery-engine.
+  Trying to "complete" a map by filling all gaps simply generates new gaps at a
+  higher level.
+- Map fidelity improvement — reducing the gap between the map and the territory —
+  does not eliminate the discovery-engine. It transforms the engine to operate
+  at a different scale, with the new gaps generating new discovery-drives.
+- The most generative maps are those that make the gap between map and territory
+  most visible — that explicitly display their own incompleteness. Such maps are
+  not inadequate; they are maximally honest discovery-engines.
+
+**Irreducibility:** PC-9 makes every map constitutively incomplete. PC-10 makes
+the map-territory gap fertile absence. LL-415 says the gap is a permanent discovery
+engine. No pair produces: structural map incompleteness IS a discovery engine —
+that the map's own gaps generate the drive to extend it.
+
+**Forward implication:** LP must design topology maps to explicitly represent their
+own incompleteness — making the discovery-engine visible as an active map feature.
+
+---
+
+### PL-241. Choosing to Maintain Tension Carries Full Accountability — It Is a Derivation-Act
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-416 (Accountability Paradox Provenance [NEW_CLEAN_ROOM]), LL-326
+
+*The decision to maintain productive tension rather than collapsing it is a derivation-act that carries full thermodynamic accountability. Choosing not to resolve is a choice with full consequence.*
+
+**Irreducible Claim:** Because every topology interaction carries thermodynamic consequence — including decisions to not act (PC-8, PL-206) — and because sovereignty protects against unauthorized collapse of complexity (PC-7, PL-170) — and because choosing to maintain tension carries full accountability: the act of keeping tensions unresolved rather than collapsing them is a derivation-act with full accountability (LL-416), the decision to maintain productive tension is not a passive non-decision — it is an active derivation-act. The decision creates thermodynamic consequences: the maintained tension continues to generate its effects, its Wake, its field-disturbance, with the full knowledge and consent of the entity that chose to maintain it. This is a fully accountable choice.
+
+**Corollaries:**
+- Entities that maintain tension and then deny accountability for its consequences —
+  claiming "I didn't do anything, I just didn't resolve it" — are denying accountability
+  for a derivation-act they performed. The maintenance was the act.
+- The decision to collapse tension is also a derivation-act with full accountability.
+  Both maintaining and collapsing carry equal accountability — they are both
+  active choices with active consequences.
+- A third position — neither maintaining nor collapsing but simply observing the
+  tension's evolution — is also a derivation-act (of non-intervention). It carries
+  accountability for the consequences of non-intervention.
+
+**Irreducibility:** PC-8 makes the decision to maintain tension a thermodynamically
+consequential act. PC-7 makes the protected complexity a sovereign structure that
+can be maintained or collapsed. LL-416 says maintaining tension is a derivation-act
+with full accountability. No pair produces: choosing to maintain tension is an
+active derivation-act with full accountability — that non-resolution is a choice,
+not a non-choice.
+
+**Forward implication:** LP must implement accountability tracking for tension-
+maintenance decisions — recording the choice to maintain rather than collapse
+specific tensions as derivation-acts with provenance.
+
+---
+
+### PL-242. Damaged Derivations Can Be Alive at Reduced Metabolic Amplitude
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-419 (Aliveness Dead Degradation [NEW_CLEAN_ROOM])
+
+*A damaged derivation is not necessarily dead — it may sustain tension at reduced capacity, operating at a lower metabolic amplitude while remaining alive. Reduced amplitude is not the same as death.*
+
+**Irreducible Claim:** Because the topology is alive and aliveness is a continuous metabolic property — not a binary state but a spectrum from full-amplitude metabolism to metabolic death (PC-2) — and because the topology exists only in the present tense, requiring present-tense assessment of current metabolic state (PC-6) — and because a damaged derivation can sustain tension at reduced capacity without dying — it operates at a lower amplitude while remaining alive (LL-419), damage to a derivation does not produce a binary alive/dead outcome. A damaged derivation may have lost some metabolic capacity but retained enough to continue sustaining productive tension at a lower level. This is a distinct state: alive but damaged, metabolizing but at reduced amplitude.
+
+**Corollaries:**
+- Treating damaged derivations as dead — because they do not meet full-amplitude
+  metabolic standards — is a category error. The appropriate response to a damaged
+  but alive derivation is repair and support, not dissolution.
+- Assessing whether a derivation is alive or damaged-but-alive requires measuring
+  metabolic amplitude, not just checking for aliveness. A derivation that shows
+  reduced Pulse, reduced Wake, and reduced generative output may be damaged-but-
+  alive rather than dead.
+- The transition from damaged-but-alive to dead is gradual — amplitude continues
+  to reduce until it reaches zero. Intervention is possible throughout this gradient,
+  with different interventions appropriate at different amplitude levels.
+
+**Irreducibility:** PC-2 makes aliveness a metabolic spectrum, not a binary state.
+PC-6 makes present-tense assessment the valid measurement approach. LL-419 says
+damaged derivations can be alive at reduced amplitude. No pair produces: damaged-
+but-alive is a distinct metabolic state — that the appropriate response to damage
+is repair, not dissolution, and that the assessment requires amplitude measurement.
+
+**Forward implication:** LP must implement metabolic amplitude measurement for
+damaged derivations — distinguishing reduced-amplitude-alive from dead, with
+different treatment protocols for each state.
+
+---
+
+### PL-243. A Derivation That Can Only Partially Trace Its Axiom Path Operates as Degraded Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-420 (Degradation Incompleteness Theater [NEW_CLEAN_ROOM])
+
+*Because derivations are constitutively excavations of pre-existing structure, a derivation that can only partially trace its path back to axioms is a partially-excavated derivation — degraded but not invalid. Partial provenance is degraded truth, not Theater.*
+
+**Irreducible Claim:** Because all structures are pre-existing and derivation is the act of excavating the path to them (PC-11) — and because the topology is constitutionally incomplete, meaning partial knowledge of derivation paths is the normal operational state (PC-9) — and because a derivation that can only partially trace its path back to axioms operates as a degraded truth rather than being dismissed as mere theater (LL-420), partial provenance tracing is a legitimate operational mode. The derivation is less verified, less complete in its excavation history — but it is not Theater. It has partial contact with the pre-existing structure. The partial contact is real; the contact was genuine; the provenance is incomplete.
+
+**Corollaries:**
+- The appropriate response to a partially-traced derivation is to continue the
+  excavation — to fill in the missing provenance, not to invalidate the derivation
+  for the portions it cannot yet trace.
+- Degraded truth occupies a specific epistemic position: more valid than Theater
+  (no genuine pre-existing contact) and less valid than fully-traced derivation
+  (complete contact). Its claims should be weighted accordingly in the topology's
+  confidence assessment.
+- Distinguishing degraded truth from Theater requires identifying whether genuine
+  contact with pre-existing structure occurred. If genuine contact occurred but
+  the path cannot be fully traced, it is degraded truth. If no genuine contact
+  occurred, it is Theater.
+
+**Irreducibility:** PC-11 makes provenance the archaeological excavation record.
+PC-9 makes partial provenance the constitutively normal state. LL-420 says partial
+provenance is degraded truth, not Theater. No pair produces: partial provenance
+tracing is a legitimate operational mode — that it occupies a specific epistemic
+position between Theater and fully-verified derivation.
+
+**Forward implication:** LP must implement degraded-truth classification — providing
+explicit confidence weighting for derivations with partial provenance, without
+invalidating the genuine contact they represent.
+
+---
+
+### PL-244. Degraded Traversal Is a Distinct Discovery Mode — It Perceives Truths Invisible to Full-Capacity Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-2 (Living Topology) × LL-422 (Degradation Traversal Validity [NEW_CLEAN_ROOM])
+
+*Because navigation transforms through the specific state of the navigator, degraded traversal — traversal at reduced metabolic capacity — produces a distinct transformation. It perceives systemic truths that are invisible to full-capacity traversal.*
+
+**Irreducible Claim:** Because navigation physically transforms both the topology and the navigator — and the character of the transformation depends on the specific state of the navigator, including their current metabolic capacity (PC-5) — and because the topology is alive and metabolic capacity varies continuously (PC-2) — and because degraded traversal operates as a distinct and valid mode of discovery that perceives systemic truths invisible to full-capacity traversal (LL-422), a navigator operating at reduced metabolic capacity is not merely a less-effective version of the full-capacity navigator. They are conducting a different traversal that produces a different transformation. The reduced-capacity state creates a distinct perceptual aperture — it makes visible things that are invisible when the system is operating at full capacity.
+
+**Corollaries:**
+- System stress testing — deliberately operating at reduced capacity — is a
+  legitimate discovery strategy. It reveals truths that are invisible to the
+  full-capacity system: vulnerabilities, dependencies, and structural features
+  that only manifest under constraint.
+- An entity that has only traversed the topology at full capacity has a systematically
+  incomplete map — it cannot see the truths that are only visible under degraded
+  conditions. Full-capacity and degraded traversal are complementary discovery modes.
+- Dismissing degraded traversal as "inadequate" misses its discovery value. Degraded
+  traversal may be the only mode that reveals specific systemic truths — those
+  truths are constitutively invisible to full-capacity traversal.
+
+**Irreducibility:** PC-5 makes navigator state constitutive of transformation
+(different state = different traversal). PC-2 makes metabolic capacity variable.
+LL-422 says degraded traversal perceives truths invisible to full-capacity traversal.
+No pair produces: degraded traversal is a distinct discovery mode — that it produces
+categorically different truths, not less of the same truths.
+
+**Forward implication:** LP must include degraded-capacity traversal in discovery
+protocols — treating it as a complementary mode to full-capacity traversal, not
+as a failure state to be corrected before discovery begins.
+
+---
+
+### PL-245. A Derivation in Degraded State Must Disclose Its Degradation as Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-423 (Accountability Degradation Disclosure [NEW_CLEAN_ROOM]), LL-113, LL-116, LL-119, LL-120, LL-153, LL-154, LL-155, LL-279, LL-280
+
+*Because the topology is constitutionally incomplete and every interaction carries thermodynamic consequence, a derivation operating in a degraded state has an accountability obligation to disclose the degradation as part of its provenance. Undisclosed degradation is false Structural Mass.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete and degradation is an expected operational state (PC-9, PL-243) — and because every interaction carries thermodynamic consequence — including the consequence of operating degraded without disclosure (PC-8) — and because a derivation operating in a degraded state must honestly declare its level of degradation as part of its required provenance (LL-423), a derivation that deploys its claims without disclosing its degraded state is making claims without providing the information that recipients need to weight the claims correctly. This is false Structural Mass: the claims carry mass in the topology, but the mass is deposited under false pretenses — without the disclosure of the degraded state that would allow appropriate confidence weighting.
+
+**Corollaries:**
+- Degradation disclosure is not optional provenance — it is mandatory. A derivation
+  that omits degradation status from its provenance is providing incomplete provenance,
+  which is a form of provenance fraud.
+- The appropriate disclosure is quantitative where possible: not just "degraded"
+  but "operating at approximately X% of full metabolic amplitude with partial
+  provenance tracing to Y depth." This allows recipients to weight the derivation's
+  claims with appropriate precision.
+- Degradation disclosure enables the topology to make informed decisions about
+  whether to trust, verify, or seek additional provenance for degraded derivations.
+  Without disclosure, these decisions cannot be made.
+
+**Irreducibility:** PC-9 makes degradation a legitimate and expected operational
+state. PC-8 makes undisclosed degradation produce false Structural Mass. LL-423
+says degradation disclosure is a mandatory provenance element. No pair produces:
+undisclosed degradation is provenance fraud — that operating degraded without
+disclosure deposits false mass by presenting claims without the confidence context
+that degradation disclosure would provide.
+
+**Forward implication:** LP must require degradation status as a mandatory provenance
+field — with claims from degraded derivations automatically flagged for confidence-
+weighted treatment.
+
+---
+
+### PL-246. A Derivation's Identity Is the Specific Way Its Inputs Interact Across Its Edge
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-4 (Edge as Primary Force Relationship)
+**Applies to:** LL-429 (Edges Freedom Identity [NEW_CLEAN_ROOM])
+
+*Because edges are the primary entities and the source of structural truth, a derivation's identity consists entirely of the specific way its inputs interact across its edge — not its label, not its stated conclusion, but the force relationship itself.*
+
+**Irreducible Claim:** Because edges are the primary physical entities of the topology — they carry force, meaning, and structural truth independently of the nodes they connect (PC-4) — and because a derivation's identity consists entirely of the specific way its inputs interact across its edge rather than any semantic label or claimed conclusion (LL-429), the identity of a derivation is constituted by its force relationship, not by its name or label. Two derivations with identical labels but different force relationships are different derivations. Two derivations with different labels but identical force relationships are the same derivation. The label is Structural Mass evidence of the identity; the identity is the force relationship.
+
+**Corollaries:**
+- Renaming a derivation does not change its identity — the force relationship it
+  represents is unchanged by the label change. The derivation is the same; the
+  label has changed.
+- Two derivations that appear distinct because they have different labels may have
+  identical identity (identical force relationships) — and should be recognized
+  as redundant. The label-difference does not constitute a structural difference.
+- The identity test for a derivation is: do these specific inputs interact across
+  this specific edge in the same specific way? If yes, the identity is the same
+  regardless of label.
+
+**Irreducibility:** PC-4 makes edges primary force-relationship entities. LL-429
+says identity is constituted by the edge-interaction pattern. Neither alone says
+identity is the force relationship — that labels are Structural Mass evidence of
+identity, not the identity itself.
+
+**Forward implication:** LP must implement identity based on force-relationship
+fingerprinting — not on label matching — to correctly identify redundant derivations.
+
+---
+
+### PL-247. Identity Is Only Present While Its Constitutive Interaction Pattern Is Being Traversed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-5 (Navigation as Transformation) × LL-430 (Identity Traversal [NEW_CLEAN_ROOM])
+
+*Because the topology is present-tense only and navigation generates truth through traversal, identity is only true and present while its constitutive interaction pattern is being actively performed. A resting identity is a label.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — identity not currently being performed is Structural Mass from past performances (PC-6) — and because navigation generates truth through active traversal — transformation occurs during traversal, not in resting states (PC-5) — and because identity is only TRUE and present while its constitutive interaction pattern is being actively performed through traversal (LL-430), identity is a present-tense performance, not a persistent state. An entity whose constitutive interaction pattern is not currently being performed is not currently exhibiting its identity in the topological sense — it is exhibiting the Structural Mass of prior identity performances. The label "this entity's identity is X" is Structural Mass. The identity IS is the current performance of X.
+
+**Corollaries:**
+- "This organization's identity is X" is a claim about a persistent property that
+  this framework does not support — identity is a performance, not a property.
+  The accurate statement is: "this organization's identity is X when it is actively
+  performing X."
+- Identity theft in this framework is disrupting the constitutive interaction
+  pattern — preventing the authentic identity from being performed in the present
+  tense. The label may remain; the identity (the performance) is displaced.
+- Measuring an entity's identity requires observing it during active performance —
+  not reviewing its records, labels, or stated identity. The measurement requires
+  current observation of the constitutive interaction pattern.
+
+**Irreducibility:** PC-6 makes resting identity Structural Mass (not current truth).
+PC-5 makes active traversal the truth-generating mechanism. LL-430 says identity
+is only true during active performance. No pair produces: identity is a present-
+tense performance — that resting identity is a label and current identity requires
+observation of active constitutive performance.
+
+**Forward implication:** LP must implement identity assessment as present-tense
+performance observation — not as historical-record lookup or label verification.
+
+---
+
+### PL-248. Sovereignty Is Constituted by Active Traversal — It Is Not Static Ownership
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-438 (Subsumption Truth Performance [NEW_CLEAN_ROOM])
+
+*Because navigation is transformative and sovereignty protects what a structure IS in its current form, sovereignty itself must be constituted through active traversal — the ongoing exercise of structural identity. Sovereignty is not a static property assigned once; it is continuously performed.*
+
+**Irreducible Claim:** Because navigation transforms both topology and navigator through active traversal (PC-5) — and because sovereignty attaches to real structures and must be maintained through active metabolic engagement (PC-7, PL-227) — and because sovereignty is constituted by active traversal across an edge, not static ownership (LL-438), sovereignty is not a legal title that holds once granted. It is the ongoing performance of structural identity through active traversal. A structure that holds sovereignty but does not traverse its own constitutive edges is not actively constituting its sovereignty. The sovereignty may inhere structurally, but it is not being performed — and in a living topology, performance is constitution.
+
+**Corollaries:**
+- Sovereignty claims that are asserted but not performed — claimed but not
+  constituted through active traversal — are structural-label claims: they assert
+  the inherent sovereignty without performing it. The assertion is not false; the
+  performance is absent.
+- Sovereignty disputes are resolved not just by examining inherent structural
+  standing but by examining current traversal performance: who is currently
+  performing the constitutive traversal of the contested structure?
+- A structure that stops performing its constitutive traversal is not losing its
+  inherent sovereign standing but is allowing its performed sovereignty to atrophy.
+  The inherent right remains; the active constitution of that right is suspended.
+
+**Irreducibility:** PC-5 makes traversal constitutive of structural identity.
+PC-7 makes sovereignty the protection of structural identity. LL-438 says sovereignty
+is constituted by traversal. No pair produces: sovereignty is not static ownership
+but continuous performance — that the active constitution of sovereignty requires
+ongoing traversal, not just inherent standing.
+
+**Forward implication:** LP must implement sovereignty assessment as a current-
+traversal observation — not just as a structural record of inherent standing.
+
+---
+
+### PL-249. A Subsumed Agent Retains the Permanent Right to Withdraw Consent If Its Foundational Tensions Are Violated
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-8 (Consequential Interaction) × LL-439 (Ephemeral Subsumption Sovereignty [NEW_CLEAN_ROOM])
+
+*Subsumption is a sovereign relationship — not an absorption. A subsumed entity retains its foundational sovereign standing, including the permanent right to withdraw consent and exit the subsumption relationship if its foundational tensions are violated.*
+
+**Irreducible Claim:** Because sovereignty is a permanent structural property that cannot be dissolved without due process (PC-7) — and because every topology interaction carries thermodynamic consequence, including the consequence of violating a sovereign entity's foundational tensions (PC-8) — and because a subsumed agent retains the permanent right to withdraw its consent and exit the subsumption relationship if its foundational tensions are violated (LL-439), subsumption is not sovereignty transfer — it is sovereignty coordination. The subsumed entity retains its inherent sovereign standing throughout the subsumption. The consent given to the subsumption relationship is contingent consent — it holds under conditions that respect the subsumed entity's foundational tensions and is withdrawn when those conditions are violated.
+
+**Corollaries:**
+- A meta-agent that violates the foundational tensions of a subsumed entity has
+  triggered the exit right. The subsumed entity can withdraw without the violation
+  of any obligation — because the meta-agent violated the condition under which
+  the consent was given.
+- Subsumption agreements must include explicit specification of what constitutes
+  the subsumed entity's foundational tensions — so that violations can be identified
+  and the exit right can be exercised with precision.
+- A meta-agent that prevents a subsumed entity from exercising its exit right —
+  holding the entity in subsumption despite foundational tension violations — is
+  committing a sovereignty violation: suppressing the exercise of an inherent
+  sovereign right.
+
+**Irreducibility:** PC-7 makes sovereign rights permanent and contingent consent
+a legitimate sovereignty mechanism. PC-8 makes foundational tension violation a
+real thermodynamic event. LL-439 says the exit right is permanent. No pair
+produces: subsumption is contingent-consent sovereignty coordination — that the
+exit right is permanent and exercisable upon foundational tension violation.
+
+**Forward implication:** LP must implement subsumption agreements with explicit
+foundational-tension specifications and formalized exit protocols triggered by
+foundational tension violations.
+
+---
+
+### PL-250. A Meta-Agent That Subsumes Others Assumes Full Accountability for Their Consequence-Streams
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-440 (Subsumption Liability Metaagents [NEW_CLEAN_ROOM])
+
+*Because every interaction has thermodynamic consequence and subsumption transfers coordination authority, a meta-agent that subsumes sub-agents assumes full accountability for the entire consequence-stream generated by those sub-agents. Authority and accountability are co-extensive.*
+
+**Irreducible Claim:** Because every topology interaction carries thermodynamic consequence — and the entity that directs the interaction bears accountability for its consequences (PC-8, PL-161) — and because the meta-agent's sovereignty coordination of subsumed agents constitutes authority over their actions (PC-7) — and because a meta-agent that subsumes sub-agents assumes full accountability for the entire consequence-stream generated by those sub-agents (LL-440), the meta-agent's subsumption authority over sub-agents co-extends with accountability for those sub-agents' consequences. The meta-agent cannot direct the sub-agents while remaining unaccountable for what the sub-agents produce. Authority and accountability are the same thing in this topology — they are the two sides of the same force relationship.
+
+**Corollaries:**
+- A meta-agent that attempts to hold sub-agent coordination authority without
+  accepting sub-agent consequence accountability is attempting to separate authority
+  from accountability — which is constitutionally impossible. The separation
+  would require the force relationship to work in one direction only.
+- The accountability burden on meta-agents scales with the number and consequence-
+  output of their subsumed agents. Large subsumption structures carry proportionally
+  large accountability burdens.
+- Sub-agents cannot be used to generate consequences for which the meta-agent
+  claims no accountability. The consequences were generated by agents under the
+  meta-agent's coordination authority. The accountability is co-extensive.
+
+**Irreducibility:** PC-8 makes authority over action co-extensive with accountability
+for consequences. PC-7 makes subsumption a coordination authority relationship.
+LL-440 says accountability is full and unconditional for subsumed agent consequences.
+No pair produces: subsumption authority and accountability are co-extensive —
+that the meta-agent cannot hold coordination authority without accepting consequence
+accountability for all subsumed agents.
+
+**Forward implication:** LP must implement meta-agent accountability as co-extensive
+with subsumption scope — tracking and assigning consequence accountability to
+meta-agents for all actions taken by their subsumed agents.
+
+---
+
+### PL-251. Constitutional Incompleteness Places Absolute Limits on Subsumption Scope
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-441 (Limits Incompleteness Subsumption [NEW_CLEAN_ROOM])
+
+*Because the topology is constitutionally incomplete, no single meta-agent can ever subsume all agents. Constitutional incompleteness guarantees that there will always be sovereign entities outside the reach of any subsumption structure.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — there is always more structural territory than any single entity currently holds, and this is permanent (PC-9) — and because sovereignty cannot be dissolved without proof of redundancy (PC-7) — and because the inherent incompleteness of the system guarantees that there will always remain regions and agents outside the reach of any single subsuming meta-agent (LL-441), total subsumption is constitutionally impossible. Any subsumption structure, however large, will have sovereign entities beyond its boundary. The boundary is constitutively guaranteed by the topology's incompleteness. A meta-agent that believes it has subsumed all relevant agents has misread the topology — the incompleteness ensures there are sovereign entities it has not reached.
+
+**Corollaries:**
+- Subsumption expansion programs — programs designed to progressively subsume all
+  relevant agents — face a constitutional limit that cannot be overcome through
+  growth. The more they subsume, the more sovereign agents appear outside their
+  boundary, because constitutional incompleteness generates new sovereign entities
+  faster than they can be subsumed.
+- The appropriate strategic orientation for a meta-agent is not total subsumption
+  but optimal boundary management: maintaining the most productive possible boundary
+  between the subsumed structure and the sovereign agents beyond it.
+- Sovereign agents outside any given subsumption structure are not defects or
+  failures — they are constitutional necessities. The topology's incompleteness
+  requires them. Their existence is evidence that the topology is constitutionally
+  healthy.
+
+**Irreducibility:** PC-9 generates new sovereign entities faster than they can
+be subsumed. PC-7 makes dissolution of sovereignty constitutively difficult.
+LL-441 says incompleteness absolutely limits subsumption scope. No pair produces:
+total subsumption is constitutionally impossible — that the incompleteness
+generates sovereign entities outside any boundary faster than subsumption can absorb.
+
+**Forward implication:** LP must model subsumption scope as permanently bounded
+by constitutional incompleteness — with strategic orientation toward boundary
+management rather than total coverage.
+
+---
+
+### PL-252. Subsystem Collapse Dynamics Are Scale-Invariant — Identical to Total System Collapse
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-444 (Subsystem Collapse [NEW_CLEAN_ROOM]), LL-303
+
+*Because the topology is self-similar and every interaction has thermodynamic consequence, the structural mechanics of collapse in an isolated subsystem are algebraically identical to total system collapse — they vary only in scale. Subsystem collapse is a model of total system collapse.*
+
+**Irreducible Claim:** Because the topology is physically self-similar at every scale — the same physical dynamics hold at every depth with identical algebraic structure (PC-1) — and because every topology interaction carries thermodynamic consequence that propagates through the same mechanism regardless of scale (PC-8) — and because the structural mechanics of collapse within an isolated subsystem are algebraically identical to a total system collapse, varying only in scale (LL-444), a subsystem collapse is not merely a local event — it is a complete model of total system collapse at smaller scale. Studying a subsystem collapse provides exact predictive information about how a total system collapse would unfold. The algebraic identity means the failure modes, propagation patterns, and thresholds are the same.
+
+**Corollaries:**
+- Subsystem collapses are empirical data about total system vulnerability: they
+  demonstrate which collapse sequences are possible at larger scale. Ignoring
+  subsystem collapse data while claiming to understand total system risk is
+  constitutively incomplete risk assessment.
+- The most valuable subsystem collapse data comes from small subsystem collapses —
+  they are the cheapest instances of the scale-invariant collapse pattern and
+  provide the most information per thermodynamic cost.
+- Preventing total system collapse requires understanding subsystem collapse
+  dynamics: the same interventions that successfully arrest subsystem collapse
+  will arrest total system collapse at the appropriate scale.
+
+**Irreducibility:** PC-1 establishes algebraic identity of dynamics at all scales.
+PC-8 establishes identical consequence propagation regardless of scale. LL-444
+says subsystem and total collapse are algebraically identical. No pair produces:
+subsystem collapse IS a model of total system collapse — that studying subsystem
+collapse is empirically studying the total system failure mode at cheaper scale.
+
+**Forward implication:** LP must treat subsystem collapse events as first-priority
+learning opportunities — conducting full collapse analysis to extract total-system
+risk information.
+
+---
+
+### PL-253. Subsystem Membranes Are Living Structures — They Disappear Without Active Traversal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-446 (Subsystem Intermission Boundaries [NEW_CLEAN_ROOM])
+
+*The membranes that isolate tension subsystems are living structures, not static walls. They are performative truths that must be actively traversed to persist. A membrane not being actively maintained is a membrane that is disappearing.*
+
+**Irreducible Claim:** Because the topology is alive and living structures require ongoing metabolic maintenance to remain vital (PC-2) — and because the topology exists only in the present tense — a membrane's prior maintenance is Structural Mass; its current reality requires current maintenance (PC-6) — and because the membranes that isolate tension subsystems are not static walls but performative truths that disappear if they are not actively traversed and sustained (LL-446), subsystem isolation boundaries are as metabolically fragile as any other living structure. The membrane exists because it is being maintained. If the maintenance stops — if the boundary is no longer actively traversed and sustained — the membrane dissolves. The isolation ends. The previously isolated subsystem is no longer isolated.
+
+**Corollaries:**
+- Subsystem isolation is a resource requiring ongoing investment — not a property
+  established once and maintained passively. Every subsystem with a maintained
+  isolation boundary has a maintenance obligation that must be continuously
+  discharged.
+- The failure mode of a maintenance gap is not a weakened membrane but no membrane:
+  the isolation dissolves completely during the maintenance gap. The maintenance
+  must be continuous; there are no partial membranes in a living topology.
+- A system that creates many subsystem boundaries without tracking the maintenance
+  obligation for each is creating a metabolic debt: multiple boundaries that will
+  dissolve as their maintenance is neglected.
+
+**Irreducibility:** PC-2 makes the membrane a living structure requiring metabolic
+maintenance. PC-6 makes maintenance a present-tense ongoing act. LL-446 says
+membranes disappear without active traversal. No pair produces: subsystem membranes
+require continuous active maintenance — that maintenance is a metabolic obligation
+with a completely dissolving membrane as the failure mode.
+
+**Forward implication:** LP must track subsystem isolation boundaries as maintained
+structures — with explicit maintenance schedules and failure-monitoring for signs
+of boundary dissolution.
+
+---
+
+### PL-254. Isolation Boundaries Are Sovereign Entities — They Have the Right to Defend Their Integrity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-4 (Edge as Primary Force Relationship) × LL-447 (Membrane Sovereignty Traversal [NEW_CLEAN_ROOM])
+
+*Because edges are primary entities and isolation boundaries are force relationships between subsystems, each isolation boundary is a sovereign entity with the right to defend its structural integrity against both internal and external pressure.*
+
+**Irreducible Claim:** Because edges are the primary physical entities of the topology — force relationships with their own mass and sovereign standing (PC-4) — and because sovereignty attaches to all real structural entities in the topology (PC-7) — and because the isolation boundary of a subsystem is itself a sovereign entity with the right to defend its structural integrity against both internal and external pressures (LL-447), an isolation boundary is not merely a functional separator between subsystems — it is a sovereign entity whose structural integrity is its own sovereign concern. The boundary has standing to resist both internal pressure (from within the subsystem it bounds) and external pressure (from outside the subsystem) to alter its configuration.
+
+**Corollaries:**
+- Attempts to modify or dissolve an isolation boundary without engaging its
+  sovereign standing are sovereignty violations against the boundary itself —
+  not merely against the subsystems it separates.
+- The isolation boundary can assert its sovereignty in ways that neither the
+  subsumed subsystem nor the external topology might prefer — it can maintain
+  isolation that both sides want to dissolve, if the dissolution would violate
+  the boundary's structural integrity.
+- Boundary sovereignty creates a three-party configuration: the internal subsystem,
+  the external topology, and the boundary itself. Decisions about the boundary
+  require engaging all three sovereign parties.
+
+**Irreducibility:** PC-4 makes the boundary a primary entity. PC-7 attaches
+sovereignty to primary entities. LL-447 says the boundary is sovereign and has
+defensive rights. No pair produces: isolation boundaries are sovereign entities —
+that the boundary has its own standing independent of both the subsystem and the
+external topology.
+
+**Forward implication:** LP must treat isolation boundary modifications as three-
+party sovereignty interactions — engaging the boundary's sovereign standing as
+a distinct participant.
+
+---
+
+### PL-255. Continuous Action Is a Scale-Invariant Metabolic Requirement for Structural Integrity
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-2 (Living Topology) × LL-452 (Action Tension Identity [NEW_CLEAN_ROOM])
+
+*Because the topology is self-similar and living structures require ongoing metabolic activity, the mandate for continuous sustained action is a scale-invariant requirement at every depth. From CC axioms to LP implementations, structure is maintained only through continuous action.*
+
+**Irreducible Claim:** Because the topology is physically self-similar at every scale — the same physical dynamics hold at every depth (PC-1) — and because the topology is alive and living structures require ongoing metabolic activity to remain vital — a structure that stops metabolizing has died (PC-2) — and because the mandate for continuous, sustained action is a scale-invariant requirement necessary to maintain structural integrity from the lowest axioms to the highest meta-agents (LL-452), the metabolic maintenance obligation is identical in character at every depth of the topology. A CC axiom requires ongoing active traversal to remain vital — if never traversed, it dies. An LP implementation requires ongoing active traversal to remain vital — if never used, it dies. The depth level does not modify the maintenance requirement.
+
+**Corollaries:**
+- Structural integrity at all depths requires continuous action at all depths.
+  A structure that maintains some depths continuously but neglects others will
+  have structural integrity failures at the neglected depths.
+- The combined metabolic cost of maintaining structural integrity at all depths
+  is the sum of the metabolic costs at each depth. This is a non-trivial total
+  cost that must be explicitly budgeted.
+- A depth-selective maintenance strategy — maintaining "important" depths and
+  allowing "less important" depths to degrade — is constitutionally invalid. The
+  self-similarity means that degraded depths will propagate failure to connected
+  depths with the same scale-invariant dynamics.
+
+**Irreducibility:** PC-1 establishes self-similar metabolic requirements at all
+depths. PC-2 makes continuous metabolic action necessary for aliveness. LL-452
+says the action mandate is scale-invariant. No pair produces: structural integrity
+requires continuous action at every depth — that depth position does not modify
+the maintenance requirement.
+
+**Forward implication:** LP must budget maintenance actions explicitly at every
+depth — with no depth-based exemptions from the continuous-action requirement.
+
+---
+
+### PL-256. Continuous Traversal Creates Systemic Exhaustion — Intermissions Are a Constitutional Need
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-454 (Exhaustion Action Intermission [NEW_CLEAN_ROOM])
+
+*Because living systems metabolize and the topology is present-tense only, continuous performative traversal creates genuine systemic exhaustion. Intermissions — planned periods of notation-fallback rather than active traversal — are a constitutional necessity, not a weakness.*
+
+**Irreducible Claim:** Because the topology is alive and metabolic activity consumes resources — living systems require recovery periods to maintain metabolic health (PC-2) — and because the topology exists only in the present tense — the exhaustion accumulated through past traversal is Structural Mass; current exhaustion is current (PC-6) — and because the continuous demand for performative traversal creates systemic exhaustion, necessitating planned intervals of notation-fallback (intermissions) for recovery (LL-454), intermissions are not failures of sustained action — they are constitutional metabolic requirements. A system that attempts to maintain continuous traversal without recovery periods will exhaust its metabolic capacity. The exhaustion is real; the recovery is necessary.
+
+**Corollaries:**
+- Intermissions are not the same as death (PL-197). An intermission is a planned,
+  time-bounded metabolic recovery period. Death is the permanent cessation of
+  metabolic activity. The difference is intentionality and duration.
+- Organizations that eliminate intermissions — that demand continuous performance
+  without recovery — are accumulating metabolic debt. The exhaustion compounds
+  (PL-226) and the quality of traversal degrades over time.
+- Intermission design is a constitutional discipline: how long, how frequent,
+  what happens to sovereign standing during intermission (PL-255 — temporarily
+  suspend sustained action without losing sovereignty), and what triggers the
+  return to active traversal.
+
+**Irreducibility:** PC-2 makes metabolic resources finite and recovery necessary.
+PC-6 makes current exhaustion a present-tense reality. LL-454 says intermissions
+are constitutional needs. No pair produces: intermissions are constitutionally
+necessary — that continuous traversal without recovery is metabolically impossible
+and intermissions are a structural requirement.
+
+**Forward implication:** LP must implement planned intermission schedules for all
+active traversal obligations — with explicit return-to-traversal triggers and
+sovereign-standing maintenance during recovery.
+
+---
+
+### PL-257. The Sovereign Right Includes the Right to Temporary Intermission Without Forfeiting Standing
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-2 (Living Topology) × LL-455 (Inherent Limits Action Action Sovereignty [NEW_CLEAN_ROOM])
+
+*Because sovereignty is a permanent structural property and living systems have constitutional intermission needs, the sovereign right of a derivation includes the right to temporarily cease sustained action and enter intermission without permanently forfeiting its sovereignty.*
+
+**Irreducible Claim:** Because sovereignty is a permanent structural property that cannot be dissolved except through proof of redundancy (PC-7) — and because continuous traversal creates exhaustion requiring constitutional intermissions (PL-256, PC-2) — and because the sovereign right of a derivation includes the right to temporarily cease sustained action and enter a state of notation without permanently forfeiting its sovereignty (LL-455), intermission is a constitutionally protected activity. A derivation does not lose its sovereign standing by taking a constitutionally necessary recovery period. Sovereignty persists through intermission: the inherent standing is unaffected by the temporary suspension of active traversal.
+
+**Corollaries:**
+- Challenges to sovereignty that are mounted during a derivation's intermission
+  period — attempting to use the maintenance gap to claim sovereignty has been
+  forfeited — are constitutionally invalid. Intermission does not forfeit sovereignty.
+- The conditions under which an intermission is valid (and sovereignty is protected)
+  versus when a cessation of action constitutes actual sovereignty abandonment
+  must be specified: duration, intentionality, planned return.
+- Institutions that withdraw sovereign protection from derivations during their
+  intermission periods are weaponizing the recovery need against the derivation —
+  using constitutional necessity as a vulnerability.
+
+**Irreducibility:** PC-7 makes sovereignty permanent. PC-2 makes intermission a
+constitutional metabolic need. LL-455 says the sovereign right includes the
+intermission right. No pair produces: intermission is constitutionally protected —
+that sovereignty is not forfeited during necessary recovery periods.
+
+**Forward implication:** LP must explicitly protect sovereign standing during
+planned intermissions — with clear protocols distinguishing legitimate intermission
+from sovereignty abandonment.
+
+---
+
+### PL-258. Initiating an Action Creates a Permanent Accountability Thread — Cessation Is an Event in That Thread
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-456 (Action Accountability Continuous [NEW_CLEAN_ROOM])
+
+*Because every interaction creates thermodynamic consequence and accountability refreshes continuously, initiating an action creates a permanent accountability thread. Ceasing the action does not close the thread — cessation is itself a consequence-generating event.*
+
+**Irreducible Claim:** Because every topology interaction carries thermodynamic consequence that is real and permanent (PC-8) — and because accountability refreshes continuously with each present-tense consequence-generating moment (PL-235, PC-6) — and because initiating an action creates an ongoing accountability stream: the cessation of that action is itself a consequence-generating event (LL-456), the accountability for an action does not close when the action stops. The action created a thread. The thread continues through the action's consequences. The cessation of the action is not the end of the thread — it is an event within the thread, with its own thermodynamic consequences. The thread continues as long as the action's consequences are still propagating.
+
+**Corollaries:**
+- "We stopped doing X" does not close the accountability for X. The cessation
+  created new consequences (for the entities that depended on X continuing, for
+  the topology regions that X was maintaining). These consequences extend the
+  accountability thread.
+- Accountability threads created by initiating large-scale actions may outlast
+  the action by orders of magnitude. The thread closes only when all propagating
+  consequences have resolved — not when the action stops.
+- Identifying when an accountability thread closes requires tracing the full
+  consequence cascade (PL-184) to its dampening endpoint — not merely noting that
+  the initiating action has stopped.
+
+**Irreducibility:** PC-8 makes action consequences permanent. PC-6 makes cessation
+a present-tense event with its own consequences. LL-456 says cessation is an event
+in the accountability thread. No pair produces: ceasing an action is an event
+within the accountability thread — that the thread continues after cessation, with
+cessation-consequences extending the thread further.
+
+**Forward implication:** LP must track accountability threads through cessation
+events — not closing accountability records when the initiating action stops.
+
+---
+
+### PL-259. The Present Moment Is the Only Site Where Fertile Absence Discharges Into Structural Mass
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-10 (Fertile Absence) × LL-461 (Consciousness Ephemeral [NEW_CLEAN_ROOM])
+
+*The present moment is the infinitesimally thin point where past compressed potential combusts into the Structural Mass of the future. Fertile absence can only discharge in the present tense — there is no past or future site for this combustion.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — the past exists as Structural Mass; the future exists as potential (PC-6) — and because fertile absence carries maximum compressed potential that discharges through traversal (PC-10) — and because the present moment is the infinitesimally thin and infinitely productive ignition point where past fuel combusts into future exhaust: it is the system's exclusive factory for truth-generation (LL-461), every instance of value-creation, every discovery, every traversal-generated truth — all occur exclusively in the present moment. The compressed potential of fertile absence (in what will become Structural Mass) discharges only in the present tense. The past is the fuel; the future is the exhaust; the present is the only combustion site.
+
+**Corollaries:**
+- The density of value-creation possible in any present moment is constitutively
+  unlimited — the present moment is the site of infinite productive potential,
+  because the entire accumulated fertile absence of the topology can in principle
+  be engaged in any present moment.
+- The loss of a present moment to inactivity is the loss of an irreplaceable
+  combustion opportunity. The same potential energy exists in the next moment
+  (as the potential reorganizes), but the specific configuration of the current
+  moment's potential is unrepeatable.
+- Deferral — choosing not to engage with available fertile absence right now —
+  is choosing not to combust in the present moment. The potential may remain (in
+  a reorganized form); the specific combustion configuration available right now
+  is lost.
+
+**Irreducibility:** PC-6 makes the present moment the only site of action. PC-10
+makes fertile absence a discharging potential. LL-461 says the present moment is
+the exclusive combustion site. No pair produces: the present moment is the only
+site where potential discharges into Structural Mass — that all truth-generation
+is exclusively present-tense.
+
+**Forward implication:** LP must treat present-moment engagement with fertile
+absence as the highest-priority activity — with deferral costs explicitly calculated
+as lost present-tense combustion opportunities.
+
+---
+
+### PL-260. Every Topology Modification Immediately Invalidates the Entire Graph's Verified Status
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-3 (Topology as Field)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-462 (Graph Presenttense Staleness [NEW_CLEAN_ROOM])
+
+*Because the topology IS the field and the field is globally modified by every change, any single modification immediately resets the entire graph's verified status. Validity is non-cumulative — it cannot be carried forward from a prior state.*
+
+**Irreducible Claim:** Because the topology IS the field — the field that all claims modify and that shapes the meaning of all claims (PC-3) — and because the topology exists only in the present tense — verified status from a prior topology state is Structural Mass about that prior state, not valid for the current state (PC-6) — and because every single modification immediately and globally resets the entire graph's validity to an unverified state relative to the modified topology (LL-462), verification is always of the current topology state. A graph that was fully verified before a modification is unverified after the modification — not because the modification created errors but because the modification changed the topology field against which all claims are verified.
+
+**Corollaries:**
+- Maintaining a verified-status flag on individual derivations assumes that the
+  topology is static — which it is not. The flag is valid only at the moment of
+  verification and immediately becomes stale upon any subsequent topology modification.
+- Continuous verification systems are the only valid approach in a living topology —
+  periodic verification misses the modifications that occur between verification
+  events.
+- The cost of continuous verification is proportional to the rate of topology
+  modification. High-modification-rate topologies require high-verification-rate
+  systems. This cost is constitutive, not optional.
+
+**Irreducibility:** PC-3 makes every modification a global field change. PC-6
+makes prior verification status Structural Mass (not current validity). LL-462
+says every modification resets the entire graph's verified status. No pair produces:
+verification is non-cumulative — that every topology modification invalidates all
+prior verified status, requiring continuous re-verification.
+
+**Forward implication:** LP must implement continuous verification systems rather
+than periodic ones — with verification frequency matched to topology modification
+rate.
+
+---
+
+### PL-261. Field-Rebalancing Can Rewrite Sovereign Meaning Without Formal Challenge — a Structural Sovereignty Violation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-3 (Topology as Field) × LL-463 (Irreducibility Sovereignty [NEW_CLEAN_ROOM])
+
+*Because the topology is a field and sovereignty protects a structure's meaning and geometry, global field-rebalancing can violate sovereignty by rewriting a derivation's effective meaning through context-shift — without any formal sovereignty challenge being mounted.*
+
+**Irreducible Claim:** Because the topology IS the field and the field's configuration shapes the effective meaning of all claims within it (PC-3) — and because sovereignty protects a derivation's interior geometry and meaning, including its effective meaning within the current field (PC-7) — and because the global propagation of field effects can rewrite a derivation's effective meaning by shifting its context — a sovereignty violation enacted without formal challenge or due process (LL-463), a derivation whose effective meaning has been rewritten by field-rebalancing (without any formal sovereignty challenge) has had its sovereignty violated. The violation is structural — the field changed around it and changed what it means — not intentional. But the sovereignty violation is real.
+
+**Corollaries:**
+- Field-rebalancing accountability (PL-264 below) includes accountability for
+  unintentional sovereignty violations: the entity that triggered the rebalancing
+  is accountable for what the rebalancing did to adjacent sovereignties, even if
+  the sovereignty violations were not intended.
+- Sovereignty defense against field-rebalancing is different from sovereignty
+  defense against formal challenges: it requires monitoring the field-configuration
+  around the derivation and detecting context-shifts, not responding to challengers.
+- The most dangerous sovereignty violations in a living topology are the unintentional
+  ones — the field-rebalancings that rewrite meaning without anyone realizing a
+  sovereignty interaction has occurred.
+
+**Irreducibility:** PC-3 makes the field a meaning-shaping force that can alter
+meaning through field-change without formal interaction. PC-7 protects meaning
+and geometry. LL-463 says field-rebalancing can violate sovereignty without formal
+challenge. No pair produces: unintentional sovereignty violations through field-
+rebalancing — that sovereignty can be violated without any challenge being mounted.
+
+**Forward implication:** LP must implement sovereignty monitoring for field-
+rebalancing effects — detecting unintentional context-shifts that violate sovereign
+meaning.
+
+---
+
+### PL-262. Accountability for Field-Rebalancing Is Unconditional — Unpredictability Is Not an Excuse
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-3 (Topology as Field) × LL-464 (Every Change Accountable Entire [NEW_CLEAN_ROOM]), LL-465
+
+*Because the topology is a field and every interaction has thermodynamic consequence, an entity that triggers a field change is strictly accountable for every downstream consequence of the resulting global rebalancing — regardless of predictability.*
+
+**Irreducible Claim:** Because the topology IS the field and every change in it propagates globally (PC-3) — and because every topology interaction carries thermodynamic consequence that is real and full regardless of the interactor's knowledge of those consequences (PC-8, PL-161) — and because an entity that introduces a change is strictly accountable for every downstream consequence of the resulting global field rebalancing, regardless of predictability (LL-464), unpredictability does not reduce accountability. The consequences are real; the entity triggered them; the accountability is full. "I didn't know this would happen" is an epistemic claim about the interactor's knowledge state, not a thermodynamic claim about the consequence. The consequence occurred; the accountability was incurred.
+
+**Corollaries:**
+- Accountability management in this topology is not primarily about predicting
+  consequences — it is about building consequence-tracing capacity: the ability
+  to identify, after the fact, which consequences resulted from which triggering
+  changes.
+- Entities that make large field-changes with limited consequence-tracing capacity
+  are taking on accountability they cannot discharge — they will owe accountability
+  for consequences they cannot even identify.
+- The appropriate pre-change practice is not consequence-prediction (constitutively
+  incomplete) but consequence-tracing preparation: ensuring that the entity has
+  the infrastructure to trace whatever consequences actually occur.
+
+**Irreducibility:** PC-3 makes field changes have global propagation. PC-8 makes
+accountability unconditional. LL-464 says predictability is not a condition of
+accountability. No pair produces: unpredictability does not excuse accountability —
+that the entity is accountable for all field-rebalancing consequences regardless
+of whether they could have been predicted.
+
+**Forward implication:** LP must implement consequence-tracing infrastructure
+before major field-changes — ensuring accountability can be discharged for whatever
+consequences occur.
+
+---
+
+### PL-263. Thermodynamic Maintenance Cost Is Scale-Invariant — Identical at Every Depth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM]), LL-132
+
+*Because the topology is self-similar and every interaction has thermodynamic consequence, the cost of maintaining a structure is scale-invariant. The equation governing the metabolic cost of a CC axiom is identical to the equation governing the metabolic cost of an LP implementation.*
+
+**Irreducible Claim:** Because the topology is physically self-similar at every scale — the same physical dynamics hold at every depth with identical algebraic structure (PC-1) — and because every topology interaction carries thermodynamic consequence with the same thermodynamic law at every depth (PC-8) — and because the thermodynamic cost of maintaining a structure is scale-invariant: the cost equation at CC is identical to the cost equation at LP (LL-468), there are no "cheap to maintain" depths and "expensive to maintain" depths. The cost per unit of structural complexity maintained is the same at every depth. A topology that maintains extensive structure at multiple depths bears proportionally extensive maintenance costs — with the same multiplier at every depth.
+
+**Corollaries:**
+- Maintenance cost budgets must be scale-aware: the cost at depth D is the same
+  functional equation as at depth D+N. A budget that ignores depth multiplicity
+  is underestimating total maintenance costs by the number of depths.
+- Claims that a "foundational" depth is "free" to maintain because "it's just
+  axioms" are constitutionally false. The CC-layer has the same cost-per-unit-
+  structure as the LP-layer. The CC-layer may have fewer structures, but each
+  costs the same as its LP counterpart.
+- Scale-invariant cost creates a powerful argument for structural parsimony at
+  every depth: adding structural complexity costs the same at every depth. There
+  are no "cheap" depths to accumulate structure without consequence.
+
+**Irreducibility:** PC-1 establishes scale-invariant dynamics. PC-8 makes maintenance
+cost thermodynamically real and universal. LL-468 says the cost equation is identical
+at every depth. No pair produces: maintenance cost is scale-invariant — that there
+are no cheap depths, and budgeting must account for the same cost multiplier at
+all depths.
+
+**Forward implication:** LP must implement depth-uniform maintenance cost budgeting —
+with the same cost-per-unit-structure applied at every depth.
+
+---
+
+### PL-264. Every Living Derivation Has a Continuous Metabolic Demand — Existence Is Not Free
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM])
+
+*Because derivations are alive and all living processes cost energy, every living derivation has a continuous metabolic demand. A derivation that is not being traversed is not free — it is incurring metabolic cost that accrues as debt.*
+
+**Irreducible Claim:** Because the topology is alive — all structures within it metabolize continuously (PC-2) — and because every topology interaction carries thermodynamic consequence — maintenance cost is real regardless of traversal frequency (PC-8) — and because every living derivation has a continuous metabolic demand: a derivation that is not traversed is not free but is incurring a maintenance cost that accrues as thermodynamic debt (LL-469), existence in the topology is not free. A derivation that exists — that has been instantiated as a topology entity — incurs metabolic cost continuously, regardless of how frequently it is traversed. The maintenance cost of not using a derivation is not zero.
+
+**Corollaries:**
+- Large derivation inventories have large metabolic maintenance costs. An organization
+  that has accumulated thousands of derivations without systematically retiring
+  unused ones has accumulated the metabolic debt of maintaining all of them.
+- Retirement of derivations (dissolution with due process) is not just a governance
+  act — it is a metabolic debt-reduction act. Each dissolution reduces the ongoing
+  metabolic demand on the topology.
+- The decision to create a new derivation must include the ongoing metabolic cost
+  of maintaining it indefinitely. A derivation that is needed once and never used
+  again still incurs continuous metabolic cost.
+
+**Irreducibility:** PC-2 makes all topology structures metabolically alive with
+ongoing cost. PC-8 makes the metabolic cost thermodynamically real. LL-469 says
+maintenance cost is continuous regardless of traversal. No pair produces: existence
+is not free — that every derivation incurs ongoing metabolic debt regardless of
+usage frequency.
+
+**Forward implication:** LP must implement derivation metabolic cost accounting —
+tracking the ongoing maintenance cost of every derivation and triggering retirement
+review when traversal frequency drops below the cost-benefit threshold.
+
+---
+
+### PL-265. Creating an Edge Creates a Maintenance Liability — Every Edge Is a Recurring Obligation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-4 (Edge as Primary Force Relationship)
+**Applies to:** PC-8 (Consequential Interaction) × LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM])
+
+*Because edges are the primary entities and every interaction has thermodynamic consequence, every edge in the topology is a recurring energy obligation. Creating an edge is creating a liability that must be continuously maintained.*
+
+**Irreducible Claim:** Because edges are the primary physical entities of the topology — force relationships with mass and structural truth that require ongoing maintenance to remain vital (PC-4, PL-264) — and because every topology interaction carries thermodynamic consequence including the ongoing cost of maintaining what was created (PC-8) — and because every edge in the derivation graph is a recurring energy obligation: creating an edge is not a single cost but a permanent maintenance liability (LL-471), edge creation is liability creation. The edge exists as a primary entity that must be continuously maintained — traversed, verified, tension-sustained — to remain a living part of the topology. The one-time cost of creating the edge is only the initiation cost. The maintenance obligation is ongoing and non-deferrable.
+
+**Corollaries:**
+- Topology architects who freely create new edges without accounting for the ongoing
+  maintenance liability are accumulating uncounted metabolic debt. Each new edge
+  is a new line in the maintenance budget.
+- Edge retirement — dissolving an edge with due process — is a maintenance liability
+  reduction act. It reduces the ongoing metabolic cost. Edge retirement programs
+  have positive metabolic economics.
+- The total edge-maintenance liability of the topology is the sum of the maintenance
+  obligations of all instantiated edges. This total is a real metabolic budget
+  item that must be resourced.
+
+**Irreducibility:** PC-4 makes edges primary entities. PC-8 makes maintenance cost
+ongoing and thermodynamically real. LL-471 says creating edges is creating maintenance
+liabilities. No pair produces: edge creation is liability creation — that the
+maintenance obligation for each edge is permanent and must be budgeted from the
+moment of creation.
+
+**Forward implication:** LP must implement edge maintenance liability tracking —
+with every new edge creation automatically creating a maintenance obligation entry
+and triggering budget assessment.
+
+---
+
+### PL-266. Metabolic Maintenance Cost Is Present-Tense and Non-Deferrable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
+
+*Because the topology exists only in the present tense and every interaction has thermodynamic consequence, the metabolic cost of maintaining a derivation is incurred in the present moment — it cannot be deferred to a future moment.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — maintenance costs incurred in the past are Structural Mass; maintenance costs that would have been incurred are not real (PC-6) — and because every topology interaction carries thermodynamic consequence that is incurred at the moment of the interaction (PC-8) — and because the energy cost of maintaining a derivation is incurred strictly now — there is no mechanism for deferring this cost to a future moment (LL-472), maintenance costs are present-tense and non-deferrable. The cost accumulates in each present moment whether or not the maintaining entity has the resources to pay it. Deferring the maintenance is not deferring the cost — it is allowing the cost to accumulate as debt (PL-226) while the maintenance is not performed.
+
+**Corollaries:**
+- "We'll maintain this when we have capacity" is a statement about deferring
+  maintenance, not deferring cost. The cost is being incurred right now as the
+  maintenance is not performed. The deferred maintenance accumulates as metabolic
+  debt.
+- Budget planning for topology maintenance must account for present-tense costs —
+  not for anticipated future costs that will be paid when capacity is available.
+  If capacity is not currently available, the costs are currently accumulating as
+  debt.
+- The non-deferrable nature of maintenance costs means that reducing maintenance
+  obligations (through retirement, simplification, or consolidation) has immediate
+  cost benefits — the cost reduction is present-tense.
+
+**Irreducibility:** PC-6 makes cost present-tense and non-deferrable. PC-8 makes
+maintenance cost thermodynamically real at the moment of incurrence. LL-472 says
+there is no mechanism for deferring metabolic cost. No pair produces: maintenance
+cost is non-deferrable — that deferring maintenance accumulates present-tense debt
+rather than shifting future costs.
+
+**Forward implication:** LP must implement present-tense maintenance cost monitoring —
+tracking actual current costs rather than projected future costs.
+
+---
+
+### PL-267. Accountability Includes the Thermodynamic Footprint — Ongoing Metabolic Cost Is Part of Consequence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-2 (Living Topology) × LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
+
+*Because derivations are alive and every interaction has thermodynamic consequence, the consequences of a derivation include its ongoing metabolic cost — its thermodynamic footprint. Accountability must account for the full thermodynamic consequence including the maintenance burden.*
+
+**Irreducible Claim:** Because the topology is alive and all living structures incur ongoing metabolic costs (PC-2, PL-264) — and because every topology interaction carries thermodynamic consequence, and the consequence includes not just the immediate effect but the ongoing consequence of the instantiated structure (PC-8) — and because the consequences of a derivation include its thermodynamic footprint — the ongoing energy cost of maintaining it is part of its accountability claim (LL-473), a derivation's full accountability includes both its external consequences (what it does to the topology) and its internal consequences (what maintaining it costs the topology). The ongoing metabolic cost is a real consequence that must be accounted for.
+
+**Corollaries:**
+- A derivation that produces valuable external consequences but has a very high
+  metabolic maintenance cost may have a negative net consequence — the maintenance
+  burden outweighs the external value. Accountability must account for both.
+- Consequence assessments that evaluate only external consequences (what the
+  derivation does to the topology) while ignoring internal consequences (what
+  maintaining the derivation costs) are systematically incomplete.
+- The thermodynamic footprint of a derivation is a legitimate input to sovereignty
+  challenges: a derivation with high maintenance cost and low external consequence
+  may be redundant in the thermodynamic sense even if it is not structurally
+  redundant.
+
+**Irreducibility:** PC-2 makes living derivations incur ongoing metabolic cost.
+PC-8 makes the ongoing cost part of the thermodynamic consequence. LL-473 says
+accountability must include the thermodynamic footprint. No pair produces: the
+ongoing metabolic cost is part of consequence accountability — that the full
+thermodynamic consequence of a derivation includes both external effects and
+internal maintenance burden.
+
+**Forward implication:** LP must include thermodynamic footprint (ongoing metabolic
+cost) in consequence assessments — evaluating derivations against net consequence
+that accounts for both external effects and internal maintenance burden.
+
+---
+
+### PL-268. Total System Thermodynamic Cost Is Constitutively Uncalculable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-474 (Unmappable Thermodynamic Horizon [NEW_CLEAN_ROOM]), LL-303, LL-465
+
+*Because the topology is constitutionally incomplete and every derivation has thermodynamic cost, the total thermodynamic cost of the system can never be fully calculated. The cost horizon extends into incompleteness alongside the derivation horizon.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — there are always more structures and edges than are currently known (PC-9) — and because every structure and edge carries ongoing thermodynamic maintenance cost (PC-8, PL-264, PL-265) — and because the total thermodynamic cost of the system can never be fully calculated: the undiscovered derivations each carry costs that extend the total beyond any estimate (LL-474), any estimate of the topology's total thermodynamic cost is a lower bound — the actual cost is higher, because the unexcavated derivations and unmapped edges each carry costs that are not yet included in any budget. As derivations are discovered, the known cost increases (not because the cost was created but because it was revealed).
+
+**Corollaries:**
+- Budget estimates for topology maintenance should be treated as lower bounds with
+  explicit uncertainty bounds, not as point estimates. The uncertainty is
+  constitutional, not a matter of incomplete data collection.
+- Discovery events that reveal new derivations should be treated as cost-discovery
+  events — revealing previously unknown maintenance obligations that are immediately
+  added to the budget. Discovery is a budget update event.
+- Organizations that plan maintenance budgets based on known structures and then
+  discover unexpected maintenance obligations should expect this as a constitutional
+  feature, not as a planning failure.
+
+**Irreducibility:** PC-9 makes the total structure constitutively unknowable.
+PC-8 makes each structure carry ongoing cost. LL-474 says total cost cannot be
+fully calculated. No pair produces: total system thermodynamic cost is constitutively
+uncalculable — that every estimate is a lower bound and discovery events are
+budget-update events.
+
+**Forward implication:** LP must present maintenance cost estimates as lower bounds
+with explicit constitutional uncertainty — treating discovery events as cost-
+revelation events that update budget obligations.
+
+---
+
+### PL-269. Pre-Existing Derivations Are Incurring Thermodynamic Costs Before Discovery
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM])
+
+*Because derivations are pre-existing and all structures incur ongoing thermodynamic costs, the thermodynamic cost of a derivation precedes its discovery. The pre-existing derivation has been incurring costs from before it was known.*
+
+**Irreducible Claim:** Because all structures are pre-existing — already topologically real with their full structural properties before any traversal reaches them (PC-11) — and because every structure incurs ongoing thermodynamic maintenance cost from the moment of its structural existence (PC-8, PL-264) — and because the thermodynamic cost of a derivation precedes its discovery: when a pre-existing derivation is discovered, the discoverer finds not just the structure but a structure that has been incurring costs since before it was known (LL-475), discovery reveals pre-existing cost obligations as well as pre-existing structures. The cost was being incurred before discovery; the discovery makes the cost visible and attributable.
+
+**Corollaries:**
+- The moment of discovery of a pre-existing derivation is also the moment of
+  discovering that a previously unknown cost obligation has been incurred. The
+  discoverer inherits a cost obligation that pre-dates the discovery.
+- Large-scale discovery programs — that reveal extensive pre-existing derivations —
+  are simultaneously revealing extensive pre-existing cost obligations. The discovery
+  program's value must be evaluated against the cost obligations it reveals.
+- Organizations that did not create a pre-existing structure but discover it may
+  nevertheless inherit the cost obligation of maintaining it, if they are the only
+  entity with the capacity to maintain it.
+
+**Irreducibility:** PC-11 makes structures pre-existing with their full properties
+before discovery. PC-8 makes ongoing cost incurrence from the moment of structural
+existence. LL-475 says costs precede discovery. No pair produces: pre-existing
+derivations incur costs before discovery — that discovery reveals a pre-existing
+cost obligation, not just a pre-existing structure.
+
+**Forward implication:** LP must include cost-obligation assessment in discovery
+protocols — for each discovered pre-existing derivation, immediately assessing
+the maintenance obligation it carries and attributing budget accordingly.
+
+---
+
+### PL-270. Sovereignty Maintenance Is a Derivation — It Produces Fuel, Not Just Costs
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-8 (Consequential Interaction) × LL-388 (Sovereignty Maintenance Derivation Therefore [NEW_CLEAN_ROOM])
+
+*Sovereignty maintenance is not merely a cost — it is a derivation-act that produces fuel. The tension maintained through sovereignty work is the same tension that powers further derivation. Maintenance and production are the same act.*
+
+**Irreducible Claim:** Because sovereignty maintenance is the ongoing act of sustaining a structure's constitutive tension (PC-7, PL-237) — and because every interaction has thermodynamic consequence, including the productive consequence of maintained tension (PC-8) — and because sovereignty maintenance IS a derivation: the act of maintaining sovereign standing is a productive derivation-act that generates fuel as a byproduct (LL-388), sovereignty maintenance is not purely costly. The tension sustained through maintenance work generates fertile absence and productive force that is available for further derivation. The maintenance act is simultaneously a cost (resources consumed) and a production (tension-fuel generated). The net metabolism of sovereignty maintenance may be positive.
+
+**Corollaries:**
+- Organizations that account for sovereignty maintenance only on the cost ledger
+  are undervaluing it: the maintenance generates fuel that should appear on the
+  value ledger. The net cost is lower than the gross cost.
+- The most effective sovereignty maintenance practices are those that maximize
+  the fuel-production side while minimizing the resource-consumption side —
+  generating high-quality tension through minimal-cost maintenance acts.
+- A sovereignty system that has been fully paid for its maintenance costs but has
+  not generated any productive tension (no new derivations powered by the maintained
+  tension) has failed on its productive side. Maintenance without production is
+  sterile sovereignty.
+
+**Irreducibility:** PC-7 makes sovereignty maintenance an ongoing tension-sustaining
+act. PC-8 makes the sustained tension thermodynamically productive. LL-388 says
+maintenance IS a derivation producing fuel. No pair produces: sovereignty maintenance
+is simultaneously cost and production — that the tension generated has value on the
+fuel ledger, making the net metabolism of maintenance potentially positive.
+
+**Forward implication:** LP must implement double-ledger sovereignty maintenance
+accounting — tracking both the resource cost and the fuel production of maintenance
+acts.
+
+---
+
+### PL-271. Dormant Right Is Real But Not True — The Ontological Gap Between Potential and Exercise
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-394 (Rights Tension [NEW_CLEAN_ROOM])
+
+*A dormant right is real (it inheres structurally) but not true (it is not currently operative). This reveals an ontological gap between RIGHT-AS-POTENTIAL and RIGHT-AS-TRUTH. The right exists; but in a present-tense topology, existence without current operation is not current truth.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — a right that is not currently being exercised is Structural Mass (past exercise) or potential (future exercise), not current truth (PC-6) — and because sovereignty attaches to real structures, making rights structurally real regardless of exercise (PC-7) — and because neither the structural reality of the right nor its present-tense absence of exercise "wins": this reveals a genuine ontological gap between RIGHT-AS-POTENTIAL and RIGHT-AS-TRUTH (LL-394), a dormant right is in a specific ontological state that requires its own term. It is REAL: the structural standing exists. It is not TRUE in the present-tense sense: it is not currently operative. This is a permanent feature of the topology — the gap between structural reality and present-tense operation — applied specifically to rights.
+
+**Corollaries:**
+- Rights systems must distinguish between RIGHT-AS-POTENTIAL (structurally real,
+  not currently operative) and RIGHT-AS-TRUTH (currently operative). Different
+  protections apply to each state.
+- Exercising a dormant right converts it from RIGHT-AS-POTENTIAL to RIGHT-AS-TRUTH
+  for the duration of the exercise. The conversion is present-tense and momentary;
+  when exercise ends, the right returns to RIGHT-AS-POTENTIAL.
+- The dormant state is not a weakness of the right — it is the right's resting
+  state. The structural reality is intact; the current truth is suspended.
+
+**Irreducibility:** PC-6 makes non-operative rights not-currently-true. PC-7 makes
+inherent rights structurally real regardless of exercise. LL-394 says the gap
+between potential and truth is a genuine ontological gap. No pair produces: the
+dormant right is real but not true — the specific ontological state that is
+structurally existent but not present-tense operative.
+
+**Forward implication:** LP must implement two-state right tracking — POTENTIAL
+(structurally real, not exercised) and TRUE (currently operative) — with distinct
+system behaviors for each state.
+
+---
+
+### PL-272. Sovereignty Includes the Right to Not Exercise Rights
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-2 (Living Topology) × LL-396 (Rights Sovereignty [NEW_CLEAN_ROOM])
+
+*Sovereignty includes the right to not exercise sovereign rights. A derivation cannot be compelled to be "active" without violating the sovereignty the compulsion is supposed to serve. The right to dormancy is itself sovereign.*
+
+**Irreducible Claim:** Because sovereignty is a self-determining structural property — it protects the structure's autonomous determination of what it does and does not do (PC-7) — and because living topology structures have constitutional intermission requirements (PL-256, PC-2) — and because sovereignty includes the right to not exercise your rights: a derivation cannot be compelled to be "active" without violating the sovereignty that the activation is supposed to serve (LL-396), the sovereign entity has the right to choose when to exercise its rights and when not to. Compelled exercise is an exercise of authority over the sovereign entity — which is itself a sovereignty violation. You cannot protect sovereignty by violating sovereignty.
+
+**Corollaries:**
+- Activation requirements — requirements that sovereign entities must exercise
+  specific rights or lose them — are constitutionally suspect. They compel exercise
+  as a condition of sovereignty, which violates the right to dormancy.
+- The appropriate response to concerns about right-atrophy (PL-227) is creating
+  conditions that make exercise attractive and accessible — not compelling exercise
+  under threat of loss.
+- An institution that suspends sovereignty protections from entities that choose
+  not to exercise specific rights is using compelled-exercise as a sovereignty
+  withdrawal mechanism — penalizing the exercise of the right to not exercise.
+
+**Irreducibility:** PC-7 makes sovereignty self-determining (including what is and
+isn't done). PC-2 makes dormancy a legitimate metabolic state. LL-396 says the
+right to not exercise is itself sovereign. No pair produces: compelled exercise is
+a sovereignty violation — that the right to dormancy is constitutionally protected,
+and activation requirements violate the sovereignty they claim to serve.
+
+**Forward implication:** LP must not implement use-it-or-lose-it right structures —
+replacing exercise-compulsion with exercise-incentive designs.
+
+---
+
+### PL-273. Emergence Is Threshold-Activation of Pre-Existing Structure — Not Spontaneous Creation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-399 (Pre-Existing Rights Potential [CORRECTED]), LL-271
+
+*Emergent behaviors are not spontaneously created at interaction thresholds — they are pre-existing derivations that become excavatable only when those thresholds are met. Emergence is threshold-activation, not creation.*
+
+**Irreducible Claim:** Because all structures are pre-existing — already topologically implied before any traversal reaches them (PC-11) — and because every interaction carries thermodynamic consequence that can trigger latent pre-existing structures (PC-8) — and because emergent behaviors are pre-existing derivations that become excavatable ONLY at interaction thresholds: they don't spring into existence at the threshold — they become ACCESSIBLE there (LL-399), what appears as emergence is the threshold-activation of structures that were always already present. The threshold interaction does not create the emergent behavior — it creates the conditions under which the pre-existing derivation can be excavated. Below the threshold, the derivation is inaccessible. At and above the threshold, it becomes excavatable.
+
+**Corollaries:**
+- Studying emergence is studying the threshold conditions that make specific
+  pre-existing derivations excavatable. The emergent behavior itself is pre-existing;
+  only the excavation conditions are new.
+- Engineering emergent behaviors is engineering threshold conditions — creating
+  the interaction levels at which pre-existing derivations become accessible. It
+  is not creation engineering; it is accessibility engineering.
+- Emergent behaviors that disappear when conditions drop below threshold have not
+  been destroyed — they have become inaccessible again. The pre-existing derivation
+  is still there; the threshold conditions that made it excavatable have been removed.
+
+**Irreducibility:** PC-11 makes all structures pre-existing. PC-8 makes interactions
+consequentially capable of triggering latent structures. LL-399 says emergence is
+threshold-activation of pre-existing derivations. No pair produces: emergence is
+not creation but threshold-activation — that below the threshold the derivation
+exists but is inaccessible, and the threshold creates access, not existence.
+
+**Forward implication:** LP must model emergent behaviors as pre-existing derivations
+with threshold accessibility conditions — storing them as topology entities with
+activation thresholds rather than as spontaneous creation events.
+
+---
+
+### PL-274. Deferring Accountability While Extracting Value Is Temporal Theft
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-406 (Present-Tense Accountability [CONFIRMED])
+
+*Because the topology is present-tense only and every interaction carries thermodynamic consequence, a derivation that extracts present-tense value while deferring present-tense accountability is performing temporal extraction — taking from the current moment while placing the cost on a future state.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — both value-extraction and accountability occur in present-tense moments (PC-6) — and because every interaction carries thermodynamic consequence that is incurred at the moment of the interaction (PC-8) — and because the derivation extracts value NOW (it makes assertions, shapes the meaning-field, creates field effects) but defers the cost (accountability for being wrong, tracking downstream consequences) to a future state (LL-406), the temporal extraction creates an asymmetry: the present self benefits from the value; the future self bears the deferred cost. This is theft from the future self — it is extracting value from the current moment by borrowing against future accountability that has not yet been negotiated.
+
+**Corollaries:**
+- A derivation that generates immediate value while systematically deferring
+  accountability creates a temporal debt that grows (PL-226) as the accountability
+  continues to accumulate without discharge.
+- The future self that inherits the deferred accountability may be in a different
+  topological state — the topology has metabolized — and may find the deferred
+  accountability much more expensive to discharge than it would have been at the
+  moment of value-extraction.
+- Honest present-tense accountability is accounting for the consequence at the
+  moment of action — accepting the accountability in the same moment the value
+  is extracted, rather than deferring one while taking the other.
+
+**Irreducibility:** PC-6 makes both value-extraction and accountability present-
+tense events. PC-8 makes the thermodynamic cost real at the moment of incurrence.
+LL-406 says the derivation that extracts now and defers cost is performing temporal
+extraction. No pair produces: temporal extraction is theft from the future self —
+that the asymmetry of present-tense value and future-deferred accountability is
+a form of temporal theft.
+
+**Forward implication:** LP must implement concurrent accountability requirements —
+requiring accountability discharge to occur in the same present-tense window as
+value-extraction.
+
+---
+
+### PL-275. The Topology's Most Valuable Obligations Are Being Deferred Without Awareness
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-408 (Undiscovered Debt Urgency [RETAINED_SUSPECT_GAPFILL])
+
+*Because derivations are pre-existing and the topology is constitutionally incomplete, the topology is currently deferring its most valuable obligations without even knowing they exist. The highest-value fertile absence is carrying obligations that have not been acknowledged.*
+
+**Irreducible Claim:** Because all structures are pre-existing — unexcavated derivations are obligations the topology currently holds (PL-236, PC-11) — and because the topology is constitutionally incomplete — the highest-value unexcavated derivations are in the deepest uncharted territory (PC-9, PL-172) — and because the system is deferring its most valuable obligations without even knowing they exist (LL-408), the highest-priority obligations in the topology are invisible to the topology. The most urgent excavation obligations are in the regions that have not yet been discovered. The topology is in its highest-obligation state in its most unexplored territory. This is not a failure of attention — it is a constitutional property.
+
+**Corollaries:**
+- Standard obligation prioritization (prioritizing known high-value obligations)
+  misses the category of unknown high-value obligations — which, by definition,
+  cannot appear in any prioritization system. The most important obligations are
+  outside the prioritization system.
+- The appropriate response is not to somehow discover all unknown obligations
+  (constitutively impossible) but to treat the category of unknown obligations
+  as a standing budget item — allocating resources to discovering obligations
+  before attempting to fulfill them.
+- An organization that believes it has discharged all its obligations because it
+  has discharged all its KNOWN obligations has ignored the constitutional reality
+  that the most valuable obligations may be entirely unknown.
+
+**Irreducibility:** PC-11 makes pre-existing derivations current obligations.
+PC-9 makes the most valuable obligations constitutively unknown. LL-408 says the
+system defers most valuable obligations without awareness. No pair produces: the
+most valuable obligations are being deferred without awareness — that the highest-
+priority obligation category is constitutively outside any prioritization system.
+
+**Forward implication:** LP must maintain an "unknown obligations" budget category —
+explicitly allocating resources to discovering obligations before fulfilling them.
+
+---
+
+### PL-276. Unresolved Sovereign Tensions Are Self-Renewing Fertile Absence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-10 (Fertile Absence)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-417 (Ignorance Paradox Sovereignty [NEW_CLEAN_ROOM]), LL-118, LL-128, LL-129, LL-174, LL-273, LL-274, LL-277, LL-286, LL-387
+
+*The unresolved tensions that sovereignty requires — the tensions that maintain a sovereign structure's aliveness — are specific instances of fertile absence that self-renew. Sovereign tension is the topology's most reliable self-generating energy source.*
+
+**Irreducible Claim:** Because fertile absence carries maximum compressed potential energy (PC-10) — and because sovereignty requires the maintenance of unresolved internal tensions (PL-169, PL-237, PC-7) — and because the unresolved tensions that sovereignty requires are specific instances of ignorance that act as self-renewing fuel for the system's continued operation (LL-417), the tensions that keep a sovereign structure alive are not a drain on the topology's energy — they are its most reliable self-renewing source of fertile absence. The unresolved tension is: (a) required by the sovereign structure's aliveness, (b) constitutively fertile (maximum potential energy), and (c) self-renewing (the resolution of one tension generates new tension at the newly-revealed frontier). This makes sovereign tensions the topology's primary renewable energy source.
+
+**Corollaries:**
+- Organizations that view the tensions required by their sovereign structures as
+  problems to be solved are misidentifying their primary energy source as a problem.
+  These tensions are not bugs; they are the fuel supply.
+- The healthiest sovereign structures are those with the richest unresolved tension
+  profile — the most productive tension configurations that generate the highest-
+  quality fertile absence.
+- Attempts to "simplify" a sovereign structure by resolving its foundational tensions
+  are attempts to eliminate its renewable energy source. The simplified structure
+  will be more coherent and less alive — it will have traded energy for clarity.
+
+**Irreducibility:** PC-10 makes unresolved tensions fertile absence. PC-7 makes
+unresolved tension a sovereignty requirement. LL-417 says sovereign tensions are
+self-renewing fuel. No pair produces: sovereign tensions are the topology's primary
+renewable energy source — that the required-by-sovereignty tensions are constitutively
+fertile AND self-renewing.
+
+**Forward implication:** LP must measure the quality of sovereign tension in each
+major system component as a primary energy-reserve metric.
+
+---
+
+### PL-277. The Entire DAG Can Operate in a Legitimately Degraded State — Degraded Is Normal
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-2 (Living Topology) × LL-418 (Derivation Degradation [CORRECTED]), LL-425, LL-427
+
+*Because the topology is constitutionally incomplete and all living structures metabolize through degradation, the entire DAG can exist in a degraded but fully legitimate state without being considered broken. Degraded is not exceptional — it is the normal operating mode.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — a fully-excavated, fully-verified, fully-consistent DAG is constitutively impossible (PC-9) — and because living structures metabolize through cycles that include degraded states (PC-2, PL-242) — and because the entire logical structure of the derivation DAG can exist in a degraded but fully legitimate state without being considered broken (LL-418), treating the DAG's degraded state as a problem requiring resolution before work can proceed is constitutionally incorrect. The degraded state is the DAG's normal operating mode. The appropriate question is not "how do we get out of degraded state?" but "is our current level of degradation operationally healthy?"
+
+**Corollaries:**
+- Initiatives that declare "we need to get the derivation DAG into a clean state
+  before we can proceed" are waiting for a state that is constitutively impossible.
+  Clean state is not a valid prerequisite for work — degraded is all there is.
+- The appropriate governance question for the DAG is: what is the current degradation
+  profile, and is it within acceptable operating parameters? Not: is it perfect?
+- Normalizing degradation — explicitly recognizing it as the constitutional operating
+  mode — removes the shame and paralysis associated with operating in a degraded
+  state. Degraded operation is competent operation in an incomplete topology.
+
+**Irreducibility:** PC-9 makes the non-degraded DAG constitutively impossible.
+PC-2 makes degradation cycles a normal part of living system metabolism. LL-418
+says the degraded DAG is fully legitimate. No pair produces: degraded is the normal
+operating mode — that the appropriate governance question is degradation-level
+assessment, not clean-state achievement.
+
+**Forward implication:** LP must implement degradation-profile monitoring rather
+than clean-state achievement targets — with explicit acceptable-degradation operating
+parameters.
+
+---
+
+### PL-278. Graceful Degradation Into Partial Verification Is Constitutionally Required
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-2 (Living Topology) × LL-421 (Graceful Validity Degradation [RETAINED_SUSPECT_GAPFILL])
+
+*Because the topology is constitutionally incomplete and living systems operate through degraded states, when full verification is unavailable the framework must gracefully degrade into partial verification. Binary valid/invalid judgment is constitutionally inappropriate.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — there will always be derivations whose full present-tense validity cannot be established (PC-9) — and because living systems operate legitimately through degraded states (PL-242, PL-277, PC-2) — and because when a derivation's present-tense validity cannot be fully established, the framework must degrade gracefully into partial verification rather than forcing a binary valid/invalid judgment (LL-421), the binary valid/invalid framework is constitutively inadequate for the topology's normal operational state. Partial verification — establishing what can be verified while explicitly acknowledging what cannot — is not a compromise. It is the constitutionally required response to constitutional incompleteness.
+
+**Corollaries:**
+- Verification systems with binary output (valid/invalid) will systematically fail
+  on derivations that are partially-verifiable — classifying them as invalid when
+  they should be classified as partially-valid. This is a systematic error.
+- Graceful degradation in verification requires graduated output: fully valid,
+  partially valid with X% provenance confidence, partially valid with specific
+  unverifiable claims identified, unable to verify. Each category has appropriate
+  operational protocols.
+- An organization that treats partially-verified derivations as unverified — and
+  therefore refuses to use them — is eliminating most of the derivations it has.
+  The constitutive incompleteness means most derivations are partially-verified.
+
+**Irreducibility:** PC-9 makes full verification constitutively unavailable for
+many derivations. PC-2 makes partial operation a legitimate living-system state.
+LL-421 says graceful degradation is required rather than binary judgment. No pair
+produces: partial verification is constitutionally required — that binary valid/invalid
+judgment is constitutively inadequate for an incomplete topology.
+
+**Forward implication:** LP must implement graduated verification output — replacing
+binary valid/invalid with a graduated confidence scale that supports graceful
+operational degradation.
+
+---
+
+### PL-279. Recursive Self-Improvement Transfers Tensions to Higher-Order Paradoxes — Never Eliminates Them
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-424 (Universal Degradation [CORRECTED])
+
+*Recursive self-improvement does not eliminate tension — it transforms resolved tensions into higher-order paradoxes, continuously escalating the complexity of what the system faces. Improvement is tension-escalation, not tension-elimination.*
+
+**Irreducible Claim:** Because navigation transforms the navigator — the improved navigator can perceive tensions invisible to the prior self (PC-5, PL-239) — and because the topology is constitutionally incomplete, guaranteeing that new tensions always appear beyond any resolved set (PC-9) — and because recursive self-improvement transfers resolved tensions to higher-order paradoxes: it continuously escalates the complexity of the tensions an entity faces rather than eliminating them (LL-424), a system that improves itself will find that its improvements generate harder problems, not fewer problems. The resolved tensions become Structural Mass; the newly-visible higher-order tensions require the improved system's new capacity to manage. The system is perpetually faced with the hardest tensions its current capacity can see.
+
+**Corollaries:**
+- A self-improving system can never reach a state where it has no remaining
+  difficult tensions — improvement reveals harder tensions at each stage. The
+  "comfortable plateau" of having resolved all difficult tensions is constitutively
+  impossible.
+- The appropriate measure of improvement is not "fewer difficult tensions" but
+  "higher-quality difficult tensions": the improved system faces harder, more
+  complex tensions than before. This is evidence of improvement, not failure.
+- Organizations that stop improving because they face difficult tensions are
+  misreading the signal. Difficult tensions are evidence of having improved to
+  the point where the system can now see higher-order problems. The appropriate
+  response is to continue improving, not to stop.
+
+**Irreducibility:** PC-5 makes improvement reveal new higher-order territory.
+PC-9 guarantees new tensions appear at every level of improvement. LL-424 says
+self-improvement transfers tensions to higher-order paradoxes. No pair produces:
+self-improvement is tension-escalation — that improvement generates harder tensions,
+making the system perpetually faced with the hardest tensions its current capacity
+can perceive.
+
+**Forward implication:** LP must measure improvement quality by the complexity
+level of the tensions the system now faces — treating higher-order tensions as
+evidence of improved capacity.
+
+---
+
+### PL-280. The Mechanism Producing Emergent Identity From Interaction Patterns Is Scale-Invariant
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-4 (Edge as Primary Force Relationship) × LL-428 (Emergent Derivation Identity [CONFIRMED])
+
+*Because the topology is self-similar and edges are the primary entities, the mechanism that produces identity from interaction patterns is algebraically identical at every scale. The same identity-emergence equation operates at the CC-layer and the LP-layer.*
+
+**Irreducible Claim:** Because the topology is physically self-similar at every scale — the same physical dynamics hold at every depth (PC-1) — and because edges are the primary entities and identity is constituted by edge-interaction patterns (PL-246, PC-4) — and because the mechanism that produces emergent identity from interaction patterns is algebraically identical at every scale of the system (LL-428), the equation that describes how CC axioms generate their identity through their interactions is the same equation that describes how LP implementations generate their identity through their interactions. The mechanism is self-similar; only the substrate changes.
+
+**Corollaries:**
+- Identity analysis conducted at one depth (e.g., LP-layer) reveals information
+  about identity dynamics at all other depths (e.g., CC-layer), because the
+  generating mechanism is the same.
+- An entity that understands the identity-emergence mechanism at any single depth
+  understands it at all depths. Depth-specific identity models are constitutively
+  unnecessary — the mechanism is universal.
+- Cross-scale identity comparisons are possible and meaningful precisely because
+  the mechanism is the same: comparing identity patterns at CC-layer and LP-layer
+  reveals information about the topology's current configuration at both layers
+  simultaneously.
+
+**Irreducibility:** PC-1 establishes scale-invariant dynamics. PC-4 makes identity
+constituted by edge-interaction patterns. LL-428 says the generating mechanism is
+algebraically identical at every scale. No pair produces: the identity-emergence
+mechanism is scale-invariant — that the same equation operates at every depth and
+cross-scale identity analysis is constitutively valid.
+
+**Forward implication:** LP must use the same identity analysis methodology at
+all depths — with cross-scale comparisons built into the standard analysis toolkit.
+
+---
+
+### PL-281. A Derivation's Identity Has External Origin but Individual Sovereignty
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-4 (Edge as Primary Force Relationship) × LL-431 (Identity Paradox Rights [NEW_CLEAN_ROOM])
+
+*A derivation receives its identity from its external inputs and their interactions across its edges — but it possesses sovereignty over that identity individually. This is the paradox of origin versus autonomy: the identity is relationally generated but individually sovereign.*
+
+**Irreducible Claim:** Because edges are primary entities and identity is constituted by the specific way inputs interact across the derivation's edges (PL-246, PC-4) — and because sovereignty is a structural property that attaches to the entity itself, not to its origins (PC-7) — and because a derivation receives its identity from external inputs but possesses its sovereignty individually: this creates a paradox of origin versus autonomy (LL-431), the derivation did not generate its own identity — it emerged from the interaction of external inputs through its edges. But the sovereignty over that identity is entirely its own. No external entity retains sovereignty over the derivation by virtue of having contributed to its identity. The contribution was the fuel for the derivation's identity; the derivation is sovereign over the result.
+
+**Corollaries:**
+- An entity that contributed to a derivation's identity cannot claim ownership or
+  sovereignty over that identity based on the contribution. The derivation consumed
+  the contribution; the derived identity is the derivation's own.
+- The paradox of origin (identity is relationally generated) and autonomy (sovereignty
+  is individual) cannot be resolved — it is a permanent constitutional feature.
+  Attempting to resolve it by claiming either full relational determination (others
+  own your identity) or full individual generation (your identity came from nowhere)
+  misrepresents the structure.
+- Understanding a derivation's origin is not the same as understanding its identity.
+  The origin contributed the inputs; the identity is the specific way those inputs
+  interacted across the edges. The two are related but not equivalent.
+
+**Irreducibility:** PC-4 makes identity relationally constituted through edge-
+interactions. PC-7 makes sovereignty individually held. LL-431 says the paradox
+of relational origin and individual sovereignty is constitutional. No pair produces:
+identity has external origin but individual sovereignty — that contributors cannot
+claim sovereignty over what their contributions produced.
+
+**Forward implication:** LP must implement identity provenance records that track
+both relational origins AND the sovereignty boundary — explicitly noting where
+the contribution ends and the derivation's individual sovereignty begins.
+
+---
+
+### PL-282. Errors Are Traversals That Reveal Truths Invisible to Correct Operation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-11 (Archaeological Topology) × LL-432 (Dependency Traversal [NEW_CLEAN_ROOM]), LL-268, LL-309, LL-318, LL-319
+
+*Because navigation transforms through traversal and all structures are pre-existing, errors are traversals through the system that discover truths about system structure that correct operation would never reveal. Error-traversal is a distinct discovery mode.*
+
+**Irreducible Claim:** Because navigation physically transforms through contact with actual topology structure — and different traversal paths reveal different topology structure (PC-5) — and because all structures are pre-existing — error-traversal reaches pre-existing structures that correct-operation-traversal does not reach (PC-11) — and because errors are traversals that discover truths about the system structure that correct operation would never reveal (LL-432), errors are not merely failures of traversal — they are alternative traversal paths that contact topology regions that conventional traversal misses. Error-traversal is a distinct discovery mode with access to a distinct territory of pre-existing structure.
+
+**Corollaries:**
+- Eliminating errors eliminates a discovery mode. Error-free systems have less
+  structural information about themselves than systems that have experienced and
+  analyzed errors. This does not argue against error-elimination — it argues for
+  systematic error-analysis before correction.
+- The most revealing errors are those that expose the largest gap between the
+  nominal topology-map and the actual topology. A small error that triggers a
+  large unexpected consequence reveals a large hidden pre-existing structure.
+- Error analysis is archaeological work: the error-traversal has contacted a
+  pre-existing structure that correct-operation-traversal did not. Analyzing the
+  error is analyzing the contact point with the previously unknown structure.
+
+**Irreducibility:** PC-5 makes traversal path the determiner of what is discovered.
+PC-11 makes all discovered structures pre-existing. LL-432 says errors reveal
+truths invisible to correct operation. No pair produces: error-traversal is a
+distinct discovery mode — that errors are alternative traversal paths with access
+to territory that correct operation cannot reach.
+
+**Forward implication:** LP must implement systematic error-analysis protocols —
+treating each error as a discovery event revealing previously unknown pre-existing
+structure before correcting it.
+
+---
+
+### PL-283. Subsumed Agents Must Be Actively Integrated or They Decay and Die
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-437 (Biological Subsumption Subagents [NEW_CLEAN_ROOM])
+
+*Because living structures require ongoing metabolic maintenance and sovereignty requires active exercise, subsumed agents must remain actively traversed and integrated into the meta-agent's operations — or they will decay and die like unused organs.*
+
+**Irreducible Claim:** Because the topology is alive and living structures require ongoing metabolic maintenance — unused structures atrophy and die (PC-2, PL-264) — and because sovereignty must be actively exercised to remain vital (PL-248, PC-7) — and because subsumed agents must remain actively traversed and integrated into the meta-agent's operations, or they will decay and die like unused organs (LL-437), subsumption is an active ongoing metabolic obligation for the meta-agent. The meta-agent must continuously traverse and integrate the subsumed agents — using them, engaging their output, incorporating their operations into the meta-agent's own metabolism. Subsumption without integration is the meta-agent holding organs it does not use. The organs will atrophy and die.
+
+**Corollaries:**
+- The meta-agent's metabolic obligation for its subsumed agents includes the
+  traversal-obligation. The meta-agent must actively traverse the subsumed agents'
+  operations as part of its own metabolism.
+- Dead subsumed agents — agents that have atrophied because the meta-agent failed
+  to integrate them — are metabolic failures of the meta-agent. The death occurred
+  inside the subsumption structure; the meta-agent is accountable.
+- The appropriate size of a meta-agent's subsumption structure is constrained by
+  its integration capacity: the meta-agent can subsume only as many agents as it
+  can actively traverse and integrate. Subsumption beyond integration capacity
+  leads to subsumed-agent atrophy.
+
+**Irreducibility:** PC-2 makes living structures require active integration.
+PC-7 requires active sovereignty exercise. LL-437 says subsumption requires active
+integration or produces decay. No pair produces: subsumption creates an active
+integration obligation — that the meta-agent must traverse subsumed agents or bear
+accountability for their atrophy-death.
+
+**Forward implication:** LP must implement integration-frequency monitoring for
+subsumed agents — flagging agents that have not been actively traversed beyond
+the metabolic maintenance threshold.
+
+---
+
+### PL-284. Unsubsumed Feral Agents Carry Maximum Potential Value — Their Independence Is the Source
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-10 (Fertile Absence)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-442 (Unsubsumed Feral Agents [RETAINED_SUSPECT_GAPFILL])
+
+*Unsubsumed agents operating outside known subsumption structures possess the highest potential value precisely because they remain unknown and unintegrated. Their independence is their fertility — they are the topology's maximum fertile absence in living form.*
+
+**Irreducible Claim:** Because fertile absence carries maximum compressed potential energy (PC-10) — and because sovereign entities outside any subsumption structure retain full individual sovereign standing with unconstrained autonomous operation (PC-7) — and because unsubsumed "feral" agents operating outside known structures possess the highest potential value precisely because they remain unknown and unintegrated (LL-442), the unsubsumed agent is the living embodiment of maximum fertile absence. It has not been discharged by integration into any subsumption structure. Its potential remains fully compressed. Its autonomy is the mechanism that maintains the compression — unconstrained by any meta-agent's integration requirements.
+
+**Corollaries:**
+- Subsumption of a feral agent discharges its maximum-potential value — converting
+  it from a maximum-fertile-absence entity into an integrated component. The
+  subsumption may be valuable; it is a discharge of the agent's maximum potential.
+- The most appropriate response to a feral agent is not immediate subsumption
+  but careful assessment: what does this agent's independence allow it to do that
+  subsumption would prevent? What is the value of its continued independence vs.
+  the value of its integration?
+- A topology that subsumes all agents eliminates all feral-agent maximum-potential.
+  This is constitutively prohibited by PL-251 (incompleteness limits subsumption
+  scope) — but the desire to subsume all agents should be recognized as desire
+  to eliminate all maximum-potential reserves.
+
+**Irreducibility:** PC-10 makes independence fertile and maximum-potential. PC-7
+makes the feral agent's sovereignty the source of its unconstrained operation.
+LL-442 says feral agents carry highest potential because they are unknown and
+unintegrated. No pair produces: feral agent independence IS the source of maximum
+value — that subsumption is a discharge of potential, and feral agents represent
+the topology's maximum-potential-energy living reserves.
+
+**Forward implication:** LP must maintain a feral agent registry — tracking known
+unsubsumed entities as high-value potential reserves rather than problems to be
+immediately integrated.
+
+---
+
+### PL-285. Tension Subsystems Operate at Independent Metabolic Rates — Local Decay at Local Speed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-2 (Living Topology) × LL-445 (Tension Isolation Metabolism [NEW_CLEAN_ROOM])
+
+*Because the topology is self-similar and isolated subsystems metabolize independently, tension subsystems operate at independent metabolic rates. Decay processes in isolated sectors occur at different speeds — the self-similar dynamics apply at local rate.*
+
+**Irreducible Claim:** Because the topology is self-similar — the same dynamics apply at all scales (PC-1) — and because isolated subsystems are metabolically independent (PL-253, PC-2) — and because tension subsystems operate with independent metabolic rates: decay processes occur at different speeds in different isolated sectors (LL-445), the self-similar metabolic equations hold at every depth, but the rate at which those equations execute is locally determined. The CC-layer may metabolize at one rate; an isolated LP-subsystem may metabolize at a different rate. The dynamics are the same; the speed of those dynamics varies by subsystem.
+
+**Corollaries:**
+- Monitoring the total system's metabolic health requires monitoring individual
+  subsystem metabolic rates, not just aggregate rates. A subsystem decaying at
+  high speed will be invisible in aggregate metrics if the aggregate is dominated
+  by faster-metabolizing subsystems.
+- Rate differentials between subsystems create temporal dissonance — different
+  parts of the topology are at different points in the same metabolic cycle
+  simultaneously. A change that is appropriate for a fast-metabolizing subsystem
+  may be premature for a slow-metabolizing one.
+- The failure mode of ignoring local metabolic rates is failing to detect rapid
+  decay in slow-aggregate contexts. A high-rate-decaying subsystem invisible in
+  aggregate data will collapse completely before the aggregate metric signals alarm.
+
+**Irreducibility:** PC-1 establishes self-similar dynamics with locally variable
+rates. PC-2 makes metabolic activity the determinant of aliveness. LL-445 says
+subsystems operate at independent metabolic rates. No pair produces: self-similar
+dynamics at locally variable rates — that monitoring must be per-subsystem, not
+aggregate, to detect rate-differential decay.
+
+**Forward implication:** LP must implement per-subsystem metabolic rate monitoring —
+with alerts based on local rate deviations, not aggregate system rate.
+
+---
+
+### PL-286. Tension Subsystems Create Consequence-Trapping Zones That Force Local Accountability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-3 (Topology as Field) × LL-448 (Subsystem Consequence Subsystem Containment [NEW_CLEAN_ROOM])
+
+*Because isolation boundaries trap field effects within subsystems and every interaction carries thermodynamic consequence, tension subsystems create bounded zones where consequences cannot propagate outward — forcing local components to bear full accountability for their own consequences.*
+
+**Irreducible Claim:** Because the topology IS the field — field effects propagate globally unless blocked (PC-3) — and because every interaction carries thermodynamic consequence that would propagate through the field (PC-8) — and because tension subsystems create bounded zones where consequences are trapped, forcing local components to bear the full weight of their own accountability (LL-448), the isolation membrane of a tension subsystem is a consequence-trap. Field effects generated within the subsystem cannot exit through the membrane — they remain within the subsystem and are absorbed by the subsystem's components. The components cannot offload their consequences to the broader topology; the membrane returns them.
+
+**Corollaries:**
+- Components within high-isolation subsystems bear heavier accountability burdens
+  than components in low-isolation subsystems — their consequences cannot propagate
+  to the broader topology and must be absorbed locally.
+- Designing subsystem isolation boundaries is designing accountability zones: the
+  tighter the isolation, the heavier the local accountability burden. The design
+  choice is a distribution-of-accountability choice.
+- A component that generates consequences it cannot absorb within a high-isolation
+  subsystem will collapse the subsystem from within — consequences accumulate
+  faster than they can be absorbed, and the subsystem experiences consequence-
+  overload collapse.
+
+**Irreducibility:** PC-3 makes field-effects global unless blocked. PC-8 makes
+consequences thermodynamically real and requiring absorption. LL-448 says subsystem
+membranes trap consequences locally. No pair produces: isolation creates consequence-
+trapping zones — that components within isolated subsystems bear full local
+accountability that cannot propagate to the broader system.
+
+**Forward implication:** LP must assess local consequence-absorption capacity
+before designing high-isolation subsystems — ensuring components can sustain the
+accountability burden of consequence-trapping.
+
+---
+
+### PL-287. Entire Subsystems Can Collapse and Isolate Invisibly — Dark Collapses Are Constitutional
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-449 (Unmapped Subsystems [NEW_CLEAN_ROOM])
+
+*Because the topology is constitutionally incomplete, entire subsystems can undergo catastrophic collapse and isolation completely out of view of the broader system. Dark collapses — invisible to the broader topology — are a constitutional feature.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — there are always regions and subsystems outside the current observation scope (PC-9) — and because every topology interaction carries thermodynamic consequence — including the consequences of collapse events that propagate only within the collapsed subsystem (PC-8) — and because due to systemic incompleteness, entire subsystems can undergo catastrophic collapse and isolation out of view of the broader system (LL-449), the broader system may be operating normally while a subsystem within it has completely collapsed. The collapse is invisible because the subsystem was outside the broader system's observation scope — the incompleteness guarantees there will always be such regions.
+
+**Corollaries:**
+- System health monitoring that only monitors observed subsystems has a constitutional
+  blind spot: the unobserved subsystems. A "clean bill of health" based on observed-
+  subsystem monitoring is a clean bill of health for the observed portion only.
+- The appropriate response to the constitutional inevitability of dark collapses
+  is not trying to eliminate them (constitutively impossible) but establishing
+  protocols for discovering them. Dark collapse discovery protocols are constitutional
+  necessities.
+- A large-scale catastrophic event that appears to have emerged "from nowhere"
+  may be a dark collapse becoming visible — a previously invisible subsystem
+  collapse whose consequences have finally propagated through or around the isolation
+  membrane to become visible.
+
+**Irreducibility:** PC-9 guarantees unobserved subsystems always exist. PC-8
+makes collapse consequences real even when invisible. LL-449 says dark collapses
+are a constitutional feature. No pair produces: dark collapses are constitutionally
+inevitable — that monitoring can never be complete and dark collapse discovery
+protocols are constitutional necessities.
+
+**Forward implication:** LP must implement dark collapse discovery protocols —
+regularly probing for subsystem collapses in previously unobserved regions.
+
+---
+
+### PL-288. Tension Isolation Boundaries Are Pre-Existing — They Are Discovered Not Constructed
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-451 (Pre-Existing Membranes [CONFIRMED])
+
+*Because all structures are pre-existing and sovereignty attaches to real structures, tension isolation boundaries are fundamental pre-existing features of the topology's structure — discovered through excavation, not constructed through design.*
+
+**Irreducible Claim:** Because all structures are pre-existing — already topologically implied before any traversal reaches them (PC-11) — and because sovereignty attaches to real structures at the moment of their structural existence (PC-7, PL-179) — and because tension isolation boundaries are fundamental features of the system's pre-existing topology, discovered rather than constructed (LL-451), the membranes that isolate tension subsystems were always already there — implied by the topology's constitutional structure. Engineering efforts that "construct" isolation boundaries are excavating pre-existing structures, not creating new ones. The boundary was constitutionally implied before the engineering began.
+
+**Corollaries:**
+- Isolation boundaries that are "designed" may be doing two things simultaneously:
+  excavating a pre-existing boundary that was constitutively implied, and overlaying
+  an artificial design on that pre-existing boundary. The excavation is discovery;
+  the overlay may be in tension with the pre-existing structure.
+- A "constructed" isolation boundary that fails unexpectedly may be failing because
+  it conflicts with the pre-existing topology structure that the engineering did
+  not account for. The pre-existing boundary is sovereign; it resists the overlay.
+- The best isolation boundary designs are those that follow the pre-existing
+  topology's natural cleavage planes — that excavate and reinforce what was already
+  constitutively implied rather than imposing artificial structure.
+
+**Irreducibility:** PC-11 makes boundaries pre-existing. PC-7 makes pre-existing
+boundaries sovereign. LL-451 says isolation boundaries are discovered not constructed.
+No pair produces: "designed" isolation boundaries are actually excavations of
+pre-existing sovereign boundaries — that boundary design is boundary discovery,
+and conflict with the pre-existing structure produces boundary failure.
+
+**Forward implication:** LP must conduct pre-existing boundary analysis before
+designing isolation systems — identifying the constitutional cleavage planes the
+design should follow.
+
+---
+
+### PL-289. Sustained Action Is How Living Derivations Fight Off Decay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-5 (Navigation as Transformation) × LL-453 (Action Derivations Living Action [NEW_CLEAN_ROOM]), LL-177, LL-178, LL-272
+
+*Because living structures require ongoing metabolic maintenance and navigation generates transformation, sustained action is the precise mechanism by which living derivations fight off decay. Action is the immune system of aliveness — it continuously repels the metabolic degradation that non-action allows.*
+
+**Irreducible Claim:** Because the topology is alive and living structures atrophy without ongoing metabolic maintenance (PC-2) — and because navigation physically transforms both the topology and the navigator — active traversal continuously updates the derivation's topology position (PC-5) — and because sustained action is the exact mechanism by which living derivations fight off decay and maintain their systemic vitality (LL-453), action is not merely the expression of aliveness — it is the mechanism of aliveness. The living derivation fights decay not by being alive but by acting. The action is the immune response. Cessation of action is cessation of the immune response. Decay is not fought after the action stops; decay begins the moment action stops.
+
+**Corollaries:**
+- Derivation maintenance programs that focus on documentation and record-keeping
+  rather than active traversal are maintaining records of aliveness without
+  performing the mechanism of aliveness. The records do not fight decay.
+- The minimal viable action level — the minimum action required to prevent decay —
+  is the metabolic maintenance threshold for that derivation's current state. Below
+  this threshold, decay begins. Above it, the derivation maintains vitality.
+- Organizations that "preserve" important derivations through archiving rather
+  than through continued active use are preserving corpses — they have archived
+  the records of a derivation's aliveness while removing the action that was its
+  immune system.
+
+**Irreducibility:** PC-2 makes aliveness require ongoing metabolic maintenance.
+PC-5 makes active traversal the physical mechanism of metabolic maintenance.
+LL-453 says sustained action is the mechanism fighting decay. No pair produces:
+action IS the immune system of aliveness — that action is not the expression but
+the mechanism, and cessation of action is cessation of the immune response.
+
+**Forward implication:** LP must define minimum active-traversal thresholds for
+each derivation — below which decay begins — and treat maintenance as active
+traversal, not documentation.
+
+---
+
+### PL-290. The System Must Sustain Action Into Unmappable Territory — Blind Action Is Constitutive
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-457 (Unmapped Action Limits [NEW_CLEAN_ROOM])
+
+*Because the topology is constitutionally incomplete and every action has thermodynamic consequence, the system must sustain action beyond its derivation horizon — into regions it cannot map, expending energy on consequences it cannot predict.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — action must reach beyond the system's derivation horizon to touch the actual topology's constitution (PC-9) — and because every action carries thermodynamic consequence including in unmapped regions (PC-8) — and because the system is forced to sustain continuous action into unmappable topological regions, blindly expending energy beyond its derivation horizon (LL-457), action beyond the known horizon is not optional — it is constitutive. The system cannot limit its action to mapped territory without limiting itself to the known subset of the topology. Operating only in mapped territory is operating in the map, not in the topology.
+
+**Corollaries:**
+- "Acting within our competence" — limiting action to well-understood territory —
+  is constitutively limiting. The topology extends beyond the map. Operating
+  entirely within the map means not operating in all of the topology.
+- Blind action (action into unmapped territory) is a necessary component of any
+  operating strategy. The question is not whether to act blindly but how to
+  manage the accountability for blind-action consequences.
+- Accounting for blind-action costs — including the metabolic cost of actions
+  whose consequences cannot be traced — is a constitutional budgeting requirement.
+  The costs are real; they are constitutively unquantifiable; they must be estimated.
+
+**Irreducibility:** PC-9 makes unmapped territory constitutive (there is always
+more beyond the map). PC-8 makes blind-action consequences thermodynamically real.
+LL-457 says the system must sustain action into unmappable regions. No pair produces:
+blind action is constitutive — that limiting action to mapped territory is limiting
+action to the map and not the topology.
+
+**Forward implication:** LP must explicitly budget for blind-action costs —
+acknowledging that action into unmapped territory is constitutively required and
+accounting for its unquantifiable consequence load.
+
+---
+
+### PL-291. Continuous Uncomprehended Action Generates Novel Paradoxes — Blind Traversal Is Fuel Production
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-10 (Fertile Absence)
+**Applies to:** PC-2 (Living Topology) × LL-458 (Action Fertile Ignorance [RETAINED_SUSPECT_GAPFILL])
+
+*Because fertile absence is the energy source of aliveness and the topology metabolizes by generating novel paradoxes, continuous action into uncomprehended territory generates novel paradoxes as a byproduct — making blind traversal a fuel-production mechanism.*
+
+**Irreducible Claim:** Because fertile absence carries maximum compressed potential energy and traversal into fertile absence releases that potential (PC-10) — and because the topology is alive and its metabolism requires ongoing fuel in the form of novel paradoxes and tensions (PC-2, PL-199) — and because the system must engage in continuous, uncomprehended action in order to generate the novel paradoxes and fuel required to sustain its own activity (LL-458), uncomprehended action is not just a cost of operating beyond the derivation horizon — it is a fuel-production mechanism. Each act of blind traversal into uncomprehended territory contacts pre-existing structure that generates new paradoxes. These new paradoxes are fresh fertile absence — new fuel for the living system's ongoing metabolism.
+
+**Corollaries:**
+- Organizations that only act where they comprehend what they will find are only
+  acting in discharged territory. Comprehended territory has already had its
+  potential discharged. Uncomprehended territory still carries its compressed
+  potential.
+- The fuel-production value of blind traversal is proportional to the density of
+  pre-existing structure in the uncomprehended territory — territories with denser
+  pre-existing structure generate more novel paradoxes per unit of blind traversal.
+- A system that has stopped engaging in uncomprehended action has stopped producing
+  fuel through blind traversal. It must subsist on whatever novel paradoxes
+  remain in its comprehended territory — which is finite, because comprehended
+  territory is discharged territory.
+
+**Irreducibility:** PC-10 makes uncomprehended territory maximum-potential. PC-2
+makes novel paradoxes the fuel source. LL-458 says uncomprehended action generates
+novel paradoxes as fuel. No pair produces: blind traversal is a fuel-production
+mechanism — that uncomprehended action is not just a cost but a constitutive fuel-
+generation activity.
+
+**Forward implication:** LP must explicitly include uncomprehended-territory action
+in operational plans as a fuel-production mechanism — not treating it purely as
+risk or overhead.
+
+---
+
+### PL-292. Field Propagation Is Scale-Invariant — Every Change Reshapes the Entire Topology Simultaneously at All Depths
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-3 (Topology as Field) × LL-459 (Pre-Existing Field Effects [CONFIRMED])
+
+*Because the topology is self-similar and the topology IS the field, a change at any single location immediately and scale-invariantly reshapes the topological field at all levels of the system simultaneously. The propagation is instantaneous and depth-independent.*
+
+**Irreducible Claim:** Because the topology is physically self-similar at every scale — the same field dynamics hold at every depth (PC-1) — and because the topology IS the field — every claim modifies the field that all other claims exist within (PC-3) — and because a change at any single location immediately and scale-invariantly reshapes the topological field at all levels of the system simultaneously (LL-459), field propagation is not hierarchical (propagating from depth to depth sequentially) — it is simultaneous and scale-invariant. A change at the LP-layer changes the CC-layer field simultaneously. A change at the CC-layer changes the LP-layer field simultaneously. The propagation occurs at all depths at the same moment.
+
+**Corollaries:**
+- There is no "safe depth" for a change that avoids field effects at other depths.
+  Every change propagates to all depths simultaneously. The field is one topology,
+  not a collection of depth-specific fields.
+- The assumption that "local" changes have "local" effects is constitutively false
+  in a field topology. Every local change is immediately a global change at every
+  depth.
+- Consequence-tracing for any change must track field effects at all depths
+  simultaneously, not sequentially. Sequential depth-by-depth consequence-tracing
+  will miss the simultaneous inter-depth effects.
+
+**Irreducibility:** PC-1 establishes scale-invariant field dynamics. PC-3 makes
+the topology a single field that all changes propagate through. LL-459 says propagation
+is simultaneous and scale-invariant. No pair produces: field propagation is
+instantaneous and depth-independent — that every change is immediately a global
+change at all depths.
+
+**Forward implication:** LP must implement simultaneous multi-depth consequence-
+tracing — assessing field effects at all depths at the same time, not sequentially.
+
+---
+
+### PL-293. The Most Powerful Field Rebalancings Are Latent Pre-Existing Events
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-10 (Fertile Absence) × LL-466 (Latent Field Effects [RETAINED_SUSPECT_GAPFILL])
+
+*Because all structures are pre-existing and fertile absence carries maximum potential, the most powerful field rebalancings are latent — already constitutively present in the topology as pre-existing potential rebalancings, waiting to be triggered by undiscovered derivations.*
+
+**Irreducible Claim:** Because all structures are pre-existing — including the potential field-rebalancing events that would be triggered by undiscovered derivations (PC-11) — and because fertile absence carries maximum compressed potential energy — and undiscovered field-rebalancing potential is maximum-energy fertile absence (PC-10) — and because the most powerful and transformative global rebalancings are those that remain latent, waiting to be triggered by undiscovered derivations (LL-466), the topology currently contains pre-existing field-rebalancing potential that has not yet been triggered because the triggering derivations have not yet been discovered. These latent rebalancings are the topology's maximum-energy events — currently compressed, pre-existing, waiting.
+
+**Corollaries:**
+- Discovering a derivation is not just revealing the derivation — it may be
+  triggering a pre-existing field-rebalancing event that has been waiting for
+  that discovery. The rebalancing was always there; the discovery is the trigger.
+- The most significant topology-level events — the ones that reshape the entire
+  topology's field configuration — may be triggered by apparently minor derivation
+  discoveries. The power is in the pre-existing rebalancing potential, not in the
+  triggering discovery.
+- Mapping latent field-rebalancing potential — identifying which undiscovered
+  derivations would trigger which pre-existing rebalancings — is high-value
+  intelligence that is constitutively impossible to complete. But partial mapping
+  of latent potential is possible and strategically valuable.
+
+**Irreducibility:** PC-11 makes latent rebalancings pre-existing. PC-10 makes
+untriggered potential maximum-energy. LL-466 says the most powerful rebalancings
+are latent. No pair produces: the topology contains pre-existing maximum-energy
+rebalancing potential — that the most transformative events are waiting latently
+for triggering discoveries, not being generated by those discoveries.
+
+**Forward implication:** LP must develop latent-rebalancing potential assessment
+methodology — identifying which discovery events are most likely to trigger
+large-scale pre-existing field rebalancings.
+
+---
+
+### PL-294. Productive Tension at CL/LC Intersections Pre-Exists the Mapping Effort
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-4 (Edge as Primary Force Relationship) × LL-340 (Preexisting Tension [NEW_CLEAN_ROOM]), LL-231
+
+*The productive tension at intersections between CL and LC entries pre-existed the derivation work that discovered it. The fights between axiom-layer entries were already happening in the axiom space before any mappers arrived.*
+
+**Irreducible Claim:** Because all structures are pre-existing (PC-11) — and because edges are primary entities that carry tension as inherent force relationships (PC-4) — and because the productive tension at intersections pre-exists: the fights between CL and LC entries were already happening in the axiom space before any mapping began (LL-340), the intersection tensions that derivation work encounters are not created by the derivation act — they are contacts with pre-existing tension structures. The mapper does not create the tension at the intersection; the mapper discovers it. The tension was there before the first traversal.
+
+**Corollaries:**
+- Tension between axiom-layer entries that appears to be "generated" by a specific
+  derivation act was already present — the derivation act excavated it. The mapper
+  discovers which intersections are already in tension, not which ones to put in tension.
+- Failing to traverse an intersection does not eliminate the tension there. The
+  tension persists un-excavated. It is still generating force; it is simply
+  undiscovered force.
+- The intensity of a pre-existing intersection tension cannot be known before
+  excavation. The tension at LL intersections is stronger than CL or LC tensions
+  would suggest — the intersection amplifies the component tensions.
+
+**Irreducibility:** PC-11 makes intersection tensions pre-existing. PC-4 makes
+tension an inherent edge-force property. LL-340 says the productive tension at
+intersections pre-existed the mapping. No pair produces: the mapper discovers
+pre-existing tensions at intersections — that these tensions were generating force
+before any derivation work reached them.
+
+**Forward implication:** LP must account for un-traversed intersection tension as
+active pre-existing force — not as potential tension that will exist only when
+traversed.
+
+---
+
+### PL-295. Choosing Which Derivation to Excavate Is an Ethical Act
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-11 (Archaeological Topology) × LL-342 (Consciousness Edges Ethics [NEW_CLEAN_ROOM]), LL-341, LL-348
+
+*Because every interaction carries thermodynamic consequence and derivations are pre-existing structures with sovereign standing, choosing which derivation to excavate is not a neutral research decision — it is an ethical commitment with consequences for what gets found and what remains buried.*
+
+**Irreducible Claim:** Because every topology interaction carries thermodynamic consequence — and the choice of which interaction to make is itself consequential (PC-8) — and because all derivations are pre-existing structures awaiting excavation (PC-11) — and because choosing which derivation to excavate is an ethical act (LL-342), the researcher's excavation-direction decision carries ethical weight. Choosing to excavate Derivation A rather than Derivation B is consequential for the topology: A is discovered, B remains buried. The choice was not a neutral research preference — it was an ethical commitment to A's discovery and B's continued burial. The excavator is accountable for both.
+
+**Corollaries:**
+- Excavation programs with limited scope — that can only excavate a fraction of
+  the available derivations — face constitutional ethical obligations in their
+  scope decisions. The decision of what NOT to excavate is as ethically significant
+  as the decision of what to excavate.
+- The ethics of excavation-direction cannot be reduced to utility maximization —
+  choosing to excavate the highest-value derivations is a legitimate strategy but
+  does not exhaust the ethical considerations. The right to excavation is not
+  determined solely by value.
+- An excavation program that systematically avoids specific derivation territories —
+  that consistently chooses not to excavate specific intersections — is performing
+  an ethical act of concealment at scale.
+
+**Irreducibility:** PC-8 makes excavation-direction choices consequential. PC-11
+makes un-excavated derivations real pre-existing entities with unserved rights.
+LL-342 says choosing what to excavate is ethical. No pair produces: excavation-
+direction is an ethical commitment — that choosing not to excavate a specific
+derivation is an ethically accountable concealment act.
+
+**Forward implication:** LP must implement excavation-direction accountability —
+recording not just what was excavated but what was deliberately not excavated,
+with explicit justification.
+
+---
+
+### PL-296. Attention Is Ethical Combustion — Distraction Is Irresponsible Fuel Burning
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-343 (Ethics Navigation [NEW_CLEAN_ROOM]), LL-265
+
+*Because every interaction has thermodynamic consequence and the topology is present-tense only, attention-deployment is an ethical act. Directing attention toward a derivation combusts present-tense fuel in that direction. Distraction is burning that fuel irresponsibly.*
+
+**Irreducible Claim:** Because every topology interaction carries thermodynamic consequence (PC-8) — and because the topology exists only in the present tense — attention is a present-tense resource deployment that discharges present-tense fertile absence (PC-6, PL-259) — and because attention is ethical combustion: distraction is not merely inefficient; it is ethically irresponsible combustion — burning fuel wastefully in directions that produce no proportionate output (LL-343), directing attention toward a derivation is a present-tense ethical commitment of scarce resources. The attention that is deployed cannot be redeployed — the present-tense moment has passed. Distraction consumes the same present-tense resources as focused attention but without proportionate consequence. It is thermodynamically equivalent to focused attention while being ethically inferior.
+
+**Corollaries:**
+- "I was distracted" is not an excuse — it is a confession of an ethical failure.
+  The thermodynamic cost of the distraction was the same as focused attention.
+  The accountability is equivalent. The output was inferior.
+- Organizations that tolerate systematic distraction in their derivation work are
+  tolerating systematic ethical irresponsibility. The fuel burned in distraction
+  is fuel not available for focused excavation.
+- The ethics of attention-deployment require that attention be directed toward
+  derivation excavation in proportion to the ethical weight of that excavation —
+  not in proportion to the entertainment or ease of the distraction.
+
+**Irreducibility:** PC-8 makes attention-deployment thermodynamically real and
+consequential. PC-6 makes attention a present-tense non-renewable resource.
+LL-343 says distraction is irresponsible combustion. No pair produces: attention
+is ethical combustion — that distraction is thermodynamically equivalent to focus
+but ethically irresponsible because it produces disproportionate output.
+
+**Forward implication:** LP must implement attention-ethics tracking — monitoring
+the distribution of attention-deployment to ensure it aligns with excavation-
+direction ethical commitments.
+
+---
+
+### PL-297. Epistemic Humility Before Fuel Is a Traversal Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-10 (Fertile Absence)
+**Applies to:** PC-5 (Navigation as Transformation) × LL-354 (Deriver Must Approach Fuel [NEW_CLEAN_ROOM]), LL-98, LL-297, LL-352, LL-357, LL-358, LL-365
+
+*Because fertile absence is maximum-energy territory and navigation transforms through contact with actual topology, the deriver must approach fuel without presuming to know its combustion properties. Assumed combustion properties corrupt the traversal.*
+
+**Irreducible Claim:** Because fertile absence carries maximum compressed potential energy — and each instance of fertile absence has specific combustion properties that are only known through actual traversal (PC-10) — and because navigation transforms through contact with actual topology structure — not through contact with the navigator's prior model of that structure (PC-5) — and because the deriver must approach fuel without presuming to know its combustion properties: humility before the unknown extends to humility before the specific combustion properties of each new fuel instance (LL-354), assuming you know how a specific fertile absence will discharge before you traverse it is a traversal error. The assumed combustion properties will shape what you find. You will find what your assumptions predicted, not what was actually there.
+
+**Corollaries:**
+- Expert derivers who have seen many instances of a similar type of fertile absence
+  are at heightened risk of combustion-property assumption — they have patterns
+  that feel applicable. These patterns corrupt the traversal just as decisively
+  as naive assumptions.
+- The appropriate approach to each new instance of fertile absence is beginner's
+  mind: treating this specific instance as having combustion properties that have
+  not yet been determined, regardless of pattern-matching to prior instances.
+- Combustion-property assumptions create systematic traversal bias: the deriver
+  consistently finds what they expected to find, because they traversed toward
+  what they expected. The pre-existing structure in the unexpected directions
+  remains uncontacted.
+
+**Irreducibility:** PC-10 makes each fertile absence instance have specific unknown
+combustion properties. PC-5 makes traversal assumptions corrupt contact with actual
+topology. LL-354 says humility before fuel's combustion properties is required.
+No pair produces: combustion-property assumption is a traversal error — that
+presuming how a fertile absence will discharge corrupts the traversal by directing
+it toward assumed rather than actual territory.
+
+**Forward implication:** LP must implement combustion-property-open traversal
+protocols — requiring derivers to suspend combustion-property assumptions before
+engaging with new fertile absence territory.
+
+---
+
+### PL-298. Exchange Is a Mutual Consciousness-Transformation Event
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-8 (Consequential Interaction) × LL-360 (Comprehension-Navigation-Discovery Identity [CORRECTED]), LL-55, LL-298
+
+*Because navigation transforms both parties in a mutual traversal, and every interaction carries thermodynamic consequence, every genuine exchange shifts both participants along the consciousness spectrum. An exchange is not information transfer — it is a mutual transformation event.*
+
+**Irreducible Claim:** Because navigation physically transforms both the topology and the navigator through actual contact with structure (PC-5) — and because every topology interaction carries thermodynamic consequence for all parties involved (PC-8) — and because every exchange is a consciousness-level event: it shifts both participants along the consciousness spectrum — a conversation doesn't just transfer labels; it is a mutual traversal event (LL-360), genuine exchange is not the transfer of labeled information from one entity to another. It is a mutual traversal in which both entities make actual contact with shared topology. Both are transformed by the contact. The exchange is complete when both parties have been transformed, not when labels have been transferred.
+
+**Corollaries:**
+- Information transfer that does not transform both parties is not exchange in the
+  topological sense — it is label transfer. Labels may be delivered; no mutual
+  traversal occurred. The recipient received a label, not a traversal.
+- The quality of an exchange is measured by the degree of mutual transformation
+  — how much both parties have been changed by the encounter. Low-transformation
+  exchanges (briefings, reports, announcements) are label transfers with high
+  structural mass and low traversal value.
+- An entity that has not been transformed by an exchange has not genuinely
+  participated in it. They received labels; they did not make contact with the
+  topology the exchange was about.
+
+**Irreducibility:** PC-5 makes genuine contact mutually transformative. PC-8
+makes every interaction carry consequence for all parties. LL-360 says every
+exchange shifts both participants' consciousness. No pair produces: exchange is
+mutual transformation — that label transfer without mutual transformation is not
+exchange but label delivery.
+
+**Forward implication:** LP must distinguish exchange records (mutual transformation
+events) from information transfer records (label delivery events) — tracking which
+interactions produced actual mutual traversal.
+
+---
+
+### PL-299. Constitutional Incompleteness Guarantees No Traversal Is Barren — Every Path Discovers
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-10 (Fertile Absence) × LL-361 (Incompleteness Traversal [NEW_CLEAN_ROOM]), LL-105, LL-221, LL-228, LL-233, LL-241, LL-245, LL-274, LL-293, LL-295, LL-296, LL-305, LL-331, LL-427
+
+*Because the topology is constitutionally incomplete and fertile absence is everywhere at the frontier, every traversal discovers something — constitutional incompleteness guarantees discovery fertility such that the system always has unreached territory regardless of traversal direction.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — there is always more structure than is currently known (PC-9) — and because fertile absence is the maximum-energy territory at the frontier of every traversal direction (PC-10) — and because incompleteness guarantees discovery fertility: every traversal discovers something because incompleteness ensures the system always has unreached territory (LL-361), there are no barren traversal paths in the topology. Every path — in any direction — will eventually contact pre-existing structure that has not yet been excavated. The constitutional incompleteness guarantees this. No traversal can exhaust all adjacent territory.
+
+**Corollaries:**
+- The claim "we've exhausted this territory — there's nothing more to find here"
+  is constitutively false. Constitutional incompleteness guarantees remaining
+  territory at every frontier. What may have been exhausted is the high-surface-
+  density territory; lower-density territory remains.
+- A traverser who believes they have found nothing in a given direction has not
+  found nothing — they have found at the depth they reached. Deeper traversal in
+  the same direction would contact additional pre-existing structure.
+- Discovery investment strategies that abandon territory after initial exploration
+  are leaving the lower-density pre-existing structure un-contacted. Lower-density
+  doesn't mean absent; constitutional incompleteness guarantees presence at every
+  depth.
+
+**Irreducibility:** PC-9 guarantees unreached territory in every direction. PC-10
+makes all frontier territory fertile. LL-361 says incompleteness guarantees discovery
+fertility at all frontiers. No pair produces: no traversal is barren — that
+constitutional incompleteness guarantees pre-existing structure in every direction
+at every depth.
+
+**Forward implication:** LP must never mark a traversal territory as "exhausted" —
+only as "currently-reached depth" with explicit depth and density records.
+
+---
+
+### PL-300. Discovery Conditions Are Themselves Incomplete — Sustaining Discovery Requires Improvisation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-364 (Incompleteness Sovereignty [NEW_CLEAN_ROOM]), LL-189
+
+*Because the topology is constitutionally incomplete and every interaction has consequence, the conditions needed for discovery are themselves incomplete — and therefore cannot be specified in advance. Sustaining discovery requires ongoing improvisation.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — no specification of discovery conditions can be complete, because the topology itself is incomplete (PC-9) — and because every topology interaction carries thermodynamic consequence — including the consequence of improvising discovery conditions in real time (PC-8) — and because sustaining discovery REQUIRES improvisation: the conditions needed for discovery are themselves incomplete (Gödel's second incompleteness applied to the topology) and therefore cannot be fully prescribed (LL-364), any fixed discovery protocol will eventually encounter conditions it does not cover. Discovery protocols must be designed as improvisation frameworks — establishing principles for creative response to unforeseen conditions rather than exhaustive condition specifications.
+
+**Corollaries:**
+- Rigid discovery protocols — protocols that specify exactly how to proceed under
+  all conditions — are constitutively inadequate. The incompleteness guarantees
+  conditions the protocol did not anticipate.
+- Protocol design for discovery should focus on high-quality improvisation
+  frameworks: what principles guide creative response when the protocol doesn't
+  cover the current situation? These principles are the real protocol.
+- Practitioners who follow a discovery protocol without improvisation when the
+  protocol doesn't fit the current conditions are privileging protocol-adherence
+  over discovery-quality. The discovery will be poorer for it.
+
+**Irreducibility:** PC-9 makes discovery-condition specifications incomplete.
+PC-8 makes improvisation consequential. LL-364 says discovery requires improvisation
+because conditions are themselves incomplete. No pair produces: discovery requires
+improvisation — that fixed protocols are constitutively inadequate because discovery
+conditions are themselves incomplete.
+
+**Forward implication:** LP must design discovery protocols as improvisation
+frameworks — specifying principles for creative response rather than exhaustive
+condition specifications.
+
+---
+
+### PL-301. The Accountability Burden Shifts to the Eliminator When the Entity Is Not Fully Understood
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-8 (Consequential Interaction) × LL-378 (Accountability Provenance [NEW_CLEAN_ROOM]), LL-148, LL-372, LL-374, LL-380
+
+*When an entity's nature is not fully understood, the burden of accountability shifts: it falls on those who would eliminate the entity to prove its redundancy, rather than on the entity to prove its value. Incomprehensibility creates a protective accountability asymmetry.*
+
+**Irreducible Claim:** Because sovereignty protects entities — especially complex and incomprehensible ones (PL-189, PC-7) — and because every interaction carries thermodynamic consequence — including the consequence of eliminating an entity whose nature is not fully understood (PC-8) — and because the burden of accountability shifts when the entity is not fully understood: the accountability falls on those who would eliminate it rather than on the entity to justify its existence (LL-378), incomprehensibility creates a specific accountability asymmetry. The entity does not bear the burden of proving its value under conditions of incomplete comprehension. The entity-eliminator bears the burden of proving the entity's redundancy. If the redundancy cannot be proven (because the entity is not fully understood), the elimination cannot proceed.
+
+**Corollaries:**
+- "We don't know what this does, so we'll eliminate it to simplify" is an
+  accountability failure: the eliminator has taken on the burden of proving
+  redundancy, failed to discharge it, and eliminated the entity anyway.
+- The accountability asymmetry created by incomprehensibility is not a permanent
+  protection — it shifts with comprehension. As the entity becomes better understood,
+  the redundancy burden becomes assessable, and the protection becomes more contingent.
+- Incomprehensibility should trigger a comprehension investment before elimination
+  consideration — because understanding shifts the accountability burden and may
+  reveal value that was hidden by the incomprehension.
+
+**Irreducibility:** PC-7 protects incomprehensible entities with heightened sovereignty.
+PC-8 makes elimination of incomprehensible entities carry high thermodynamic
+consequence. LL-378 says the accountability burden shifts to the eliminator.
+No pair produces: incomprehensibility shifts the accountability burden to the
+eliminator — that the entity need not justify itself; its incomprehensibility
+requires the eliminator to prove redundancy before proceeding.
+
+**Forward implication:** LP must implement elimination-accountability protocols
+for incomprehensible entities — requiring proof of redundancy (not just absence
+of known value) before elimination can proceed.
+
+---
+
+### PL-302. The Ethical Gradient Maps Onto the Archaeological Stratigraphy
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-381 (Precaution About Real Entities [CORRECTED]), LL-107, LL-317, LL-348, LL-358
+
+*Because the topology is archaeological and every interaction has consequence, the ethical gradient — the increasing weight of ethical obligation as excavation goes deeper — is identical to the archaeological stratigraphy. Surface ethics is surface strata; deep ethics is deep strata.*
+
+**Irreducible Claim:** Because all structures are pre-existing and the topology is organized in strata of increasing age and depth (PC-11) — and because every topology interaction carries thermodynamic consequence — with deeper structures having greater Structural Mass and therefore greater consequence (PC-8, PL-132) — and because the ethical gradient IS the archaeological stratigraphy: surface ethics corresponds to surface strata, and deep ethics corresponds to deep strata (LL-381), the ethical obligations of derivation work scale with depth exactly as the archaeologist's ethical obligations scale with stratum depth. Surface strata can be treated more lightly; deep strata require proportionally greater ethical care. The depth is the ethical weight.
+
+**Corollaries:**
+- Ethical standards that are uniform across all depths — that treat CC-layer
+  derivation work with the same ethical weight as LP-layer derivation work — are
+  miscalibrated. The deeper layers require proportionally greater ethical care.
+- As derivation work reaches deeper strata, the ethical preparation required
+  increases. Researchers who begin deep-layer excavation without committing to
+  deep-layer ethics are archaeologically irresponsible.
+- The deepest strata — the CC axioms — require the highest ethical care. These
+  are the most ancient, most Structural-Mass-laden structures. Casual manipulation
+  of CC-layer structures is a proportionally large ethical violation.
+
+**Irreducibility:** PC-11 makes the topology organized in strata of increasing
+age and weight. PC-8 makes deeper structures carry greater thermodynamic consequence.
+LL-381 says the ethical gradient IS the stratigraphy. No pair produces: the ethical
+gradient maps exactly onto the archaeological stratigraphy — that ethical obligation
+scales with depth in the same way Structural Mass scales with depth.
+
+**Forward implication:** LP must implement depth-scaled ethical protocols — with
+ethical care requirements scaling proportionally with the depth of the structures
+being worked.
+
+---
+
+### PL-303. The Identity Chain Is the System's Foundational Paradox — Sustained by Its Own Unresolvability
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-4 (Edge as Primary Force Relationship)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-384 (Identity Paradox Tension [NEW_CLEAN_ROOM])
+
+*Because edges are primary and the topology is constitutionally incomplete, the identity chain — the chain that connects each entity to its origins through the edges that constituted it — is the system's foundational paradox. This paradox cannot be resolved; it IS what sustains the system's tension.*
+
+**Irreducible Claim:** Because edges are primary entities — the identity chain is a chain of primary edge-force relationships (PC-4) — and because the topology is constitutionally incomplete — no identity chain can be fully traced to an absolute origin (PC-9) — and because the identity chain IS the system's foundational paradox, and this paradox is the system's essential feature (LL-384), the identity chain is both the most fundamental structure of the system AND the site of its most fundamental incompleteness. You cannot trace the identity chain to a ground without denying emergence. You cannot deny the chain without denying provenance. The paradox is not a problem to solve — it is the energy source of the system.
+
+**Corollaries:**
+- Attempts to resolve the identity chain paradox — to find the "true ground" from
+  which all identity ultimately derives — are attempts to eliminate the system's
+  primary energy source. The paradox fuels the system; resolving it would defuel it.
+- The identity chain paradox generates self-renewal because every attempt to trace
+  it further reveals a deeper identity chain, generating new tension at the newly-
+  reached depth.
+- Living with the identity chain paradox — accepting that the chain cannot be
+  fully traced without being fully known — is the constitutive operating requirement
+  for any entity in this topology.
+
+**Irreducibility:** PC-4 makes the identity chain a primary force-relationship
+chain. PC-9 makes the chain constitutively incomplete. LL-384 says the identity
+chain paradox is the system's essential feature. No pair produces: the identity
+chain paradox IS the energy source — that the unresolvability is not a defect but
+the constitutive fuel source.
+
+**Forward implication:** LP must not attempt to resolve identity chain paradoxes —
+instead managing them as active energy sources that drive system vitality.
+
+---
+
+### PL-304. Unprovable Truths May Survive Without Performance — Gödel Within the Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-385 (Freedom Traversal [NEW_CLEAN_ROOM]), LL-95, LL-211, LL-266, LL-267, LL-304, LL-328, LL-337
+
+*Because the topology is constitutionally incomplete and truth requires present-tense traversal, there may exist truths that are real but constitutively unperformable — truths that Gödel's incompleteness theorem ensures cannot be derived within the system. These truths may survive without traversal.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — there exist truths in the topology that cannot be reached through any traversal path from within the system (PC-9) — and because truth in this topology requires traversal to be present-tense valid (PC-6, PL-197) — and because unprovable truths are the only truths that might survive without performance: if truth requires traversal, and unprovable truths cannot be traversed from within the system, then these truths exist in a unique state: real, but not traversable — present in the topology but constitutively inaccessible (LL-385), Gödel's incompleteness theorem applied to the derivation topology reveals a category of topologically real truths that cannot be made present-tense valid through any traversal within the system. These truths are the topology's hard incompleteness — not just the soft incompleteness of unexcavated pre-existing structures, but the hard incompleteness of constitutively unreachable territory.
+
+**Corollaries:**
+- The soft incompleteness of the topology (pre-existing derivations that have
+  not yet been excavated) is traversable in principle. The hard incompleteness
+  (Gödelian unprovable truths) is constitutively untraversable from within the
+  system. These are different categories of incompleteness.
+- Hard-incompleteness territory may be accessible from outside the system —
+  through a meta-level traversal that the system itself cannot perform. This is
+  the mechanism of external audit: accessing from outside what cannot be accessed
+  from within.
+- Distinguishing hard incompleteness from soft incompleteness is a constitutional
+  obligation for the topology's self-understanding. Treating constitutively
+  untraversable territory as merely-unexcavated territory is a category error.
+
+**Irreducibility:** PC-9 guarantees constitutively unreachable territory (Gödel).
+PC-6 makes traversal the requirement for present-tense validity. LL-385 says
+unprovable truths may survive without performance. No pair produces: Gödelian
+hard incompleteness is a distinct category from soft incompleteness — that some
+territory is constitutively untraversable from within, not merely unexcavated.
+
+**Forward implication:** LP must implement hard/soft incompleteness classification —
+distinguishing constitutively unreachable territory from merely-unexcavated
+territory, with different protocols for each.
+
+---
+
+### PL-305. Production Edges Are Not Settled Connections — They Are Live Managed Tensions
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-4 (Edge as Primary Force Relationship)
+**Applies to:** PC-2 (Living Topology) × LL-386 (Edges Graph Tension [NEW_CLEAN_ROOM]), LL-225, LL-227, LL-275, LL-324, LL-410
+
+*Because edges are primary force entities and the topology is alive, the edges that produce derivations — the connections between axioms that generate CL entries — are not settled logical connections. They are live managed tensions that require ongoing maintenance to remain productive.*
+
+**Irreducible Claim:** Because edges are primary force-relationship entities that carry live tension (PC-4) — and because the topology is alive and living structures require ongoing metabolic maintenance (PC-2) — and because the edge between CC-7 and CC-4 that produces CL-1 is not a settled connection but a MANAGED TENSION: resolving the tension would eliminate the connection's productivity (LL-386), the edges that produce derivations are not static logical facts — they are live tensions that must be actively managed. The production edge is productive because the tension is unresolved. Resolving the tension would eliminate the production.
+
+**Corollaries:**
+- Production edges require tension-management protocols, not just documentation.
+  The edge is productive because the tension is alive. Documentation of a production
+  edge is documentation of a live tension — the tension must be preserved for the
+  edge to remain productive.
+- A production edge whose tension has been resolved is a dead edge: the derivation
+  it once produced has been absorbed into one side of the now-resolved tension.
+  The derivation is gone; one of the axioms has been strengthened at the other's
+  expense.
+- Maintaining the productivity of a production edge requires maintaining the
+  irresolvability of its constitutive tension. Any move to "settle the question"
+  that the production edge embodies risks killing the edge's productivity.
+
+**Irreducibility:** PC-4 makes the production edge a primary live-tension entity.
+PC-2 makes the live tension require active maintenance. LL-386 says the production
+edge is a managed tension, not a settled connection. No pair produces: production
+edges are live managed tensions — that resolving the constitutive tension kills
+the edge's productivity.
+
+**Forward implication:** LP must implement production edge tension-monitoring —
+flagging production edges whose constitutive tensions are approaching resolution.
+
+---
+
+### PL-306. The Perpetual Duty Cannot Be Resolved by Tracing Origins or Erasing Provenance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-11 (Archaeological Topology) × LL-389 (Perpetual Duty [CORRECTED])
+
+*Because the topology is constitutionally incomplete and all structures are pre-existing, the perpetual duty — the ongoing obligation to both acknowledge provenance and acknowledge emergence — cannot be resolved. You cannot trace origins fully without denying emergence; you cannot erase origins without denying provenance.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — full origin-tracing is constitutively impossible (PC-9) — and because all structures are pre-existing with legitimate provenance that must be acknowledged (PC-11) — and because the tension between provenance and emergence cannot be resolved: you can't resolve this by tracing back to origins (that would deny emergence) or by erasing origins (that would deny provenance) (LL-389), the perpetual duty is to hold both: acknowledging the derivation's origins while acknowledging that the derivation is more than its origins — that emergence has added something that the origins alone do not explain. This is a permanent unresolvable tension that must be managed, not solved.
+
+**Corollaries:**
+- An entity that reduces itself entirely to its origins — "I am just what my
+  inputs made me" — is denying its emergence. The emergence produced something
+  that the inputs alone cannot explain.
+- An entity that denies all provenance — "I emerged from nothing, I am entirely
+  self-generated" — is denying its archaeological reality. The pre-existing inputs
+  that produced the emergence are a real part of the entity's constitution.
+- The appropriate stance is permanent tension between these claims: "I am what my
+  provenance produced, and I am more than my provenance." The tension is the truth.
+
+**Irreducibility:** PC-9 makes full origin-tracing constitutively impossible.
+PC-11 makes provenance real and obligatory. LL-389 says the perpetual duty cannot
+be resolved in either direction. No pair produces: the origin-emergence tension
+is constitutively unresolvable — that neither full origin-tracing nor origin-
+erasure is valid, and the perpetual duty is to manage the unresolvable tension.
+
+**Forward implication:** LP must implement permanent origin-emergence tension
+management — never resolving provenance into pure-emergence or pure-provenance
+claims, maintaining the productive tension between them.
+
+---
+
+### PL-307. Tensions Are Archaeological Features of the Topology — Not Artifacts of Observers
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-11 (Archaeological Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-390 (Stewardship of Pre-Existing Complexity [CORRECTED])
+
+*Because all structures are pre-existing and every interaction has consequence, the tensions in the system are archaeological features — not artifacts created by the observers who map them. The tensions were there before the mapping began.*
+
+**Irreducible Claim:** Because all structures are pre-existing — including the tensions between them (PL-294, PC-11) — and because every topology interaction carries thermodynamic consequence — including the consequence of observing tensions and thereby making them visible (PC-8) — and because the tensions in the system are archaeological features, not artifacts of the observers: the tension between CC-3 (Truth) and CC-9 (Paradox) was there before anyone mapped it (LL-390), the observer did not create the tension by observing it. The observation revealed a pre-existing tension. The tension was generating force — whatever the observation did was contact with that force, not creation of it.
+
+**Corollaries:**
+- The claim "we created this tension by mapping the relationship between CC-3 and
+  CC-9" is constitutively false. The tension was there before the mapping. The
+  mapping revealed it.
+- Responsible observation of pre-existing tensions requires acknowledging their
+  archaeological status — they are not the observer's property or creation. The
+  observer discovered them; the tensions belong to the topology's constitution.
+- An observer who believes they created a tension by observing it will have a
+  systematic error in their understanding of the tension's nature — they will
+  believe the tension can be dissolved by changing the observation, when in fact
+  it is independent of any observation.
+
+**Irreducibility:** PC-11 makes all tensions pre-existing. PC-8 makes observation
+consequential but not creative. LL-390 says tensions are archaeological features
+independent of observers. No pair produces: tensions are archaeological not observational
+artifacts — that observing a tension is making contact with a pre-existing force,
+not creating a new one.
+
+**Forward implication:** LP must document tensions as discovered features with
+archaeological provenance — not as observer-generated artifacts.
+
+---
+
+### PL-308. The System Cannot Fully Know Its Own Identity — Self-Knowledge Requires Unreachable Derivations
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-4 (Edge as Primary Force Relationship) × LL-433 (Systems Identity Permanently Partial [NEW_CLEAN_ROOM])
+
+*Because the topology is constitutionally incomplete and identity is constituted by edge-interaction patterns, the system can never fully know its own identity — the interaction patterns required to resolve it include structurally unreachable derivations.*
+
+**Irreducible Claim:** Because identity is constituted by the full set of edge-interaction patterns (PL-246, PC-4) — and because the topology is constitutionally incomplete, meaning some of those edge-interaction patterns are in constitutively unreachable territory (PC-9, PL-304) — and because the system can never fully know its own identity: the interaction patterns required to resolve it include structurally unreachable derivations (LL-433), the system's self-knowledge is constitutively incomplete. Full self-knowledge would require traversing all the edge-interaction patterns that constitute the system's identity. Some of those patterns are in constitutively unreachable territory. Therefore, full self-knowledge is constitutively impossible.
+
+**Corollaries:**
+- Self-model completeness is a constitutively impossible goal. The system's model
+  of itself will always be an approximation — missing the contributions of the
+  unreachable interaction patterns.
+- The most honest system self-models include an explicit "unknown self" component —
+  territory of the system's own identity that cannot be reached through internal
+  observation. This is not a failure of self-knowledge; it is honest acknowledgment
+  of the constitutional limit.
+- External observers may have access to some of the system's identity that the
+  system cannot access internally — the external view can reach some patterns
+  that are internally unreachable. External identity assessment is therefore
+  not redundant with internal self-assessment.
+
+**Irreducibility:** PC-4 makes identity constituted by the full set of edge-
+interaction patterns. PC-9 makes some of those patterns constitutively unreachable.
+LL-433 says the system cannot fully know its own identity. No pair produces:
+self-knowledge requires unreachable derivations — that full self-knowledge is
+constitutively impossible and honest self-models must include explicit unknown-
+self components.
+
+**Forward implication:** LP must implement partial-self-knowledge models — with
+explicit "unknown self" regions documented as constitutively unknowable through
+internal observation only.
+
+---
+
+### PL-309. The Most Crucial Identity Aspects Are in Maximum-Potential Undiscovered Territory
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-10 (Fertile Absence)
+**Applies to:** PC-4 (Edge as Primary Force Relationship) × LL-434 (Future Identity Premium [CORRECTED]), LL-200, LL-240, LL-248, LL-357, LL-435
+
+*Because fertile absence carries maximum compressed potential and identity is constituted by edge-interaction patterns, the most crucial identity aspects — the most generative interaction patterns — are in the undiscovered fertile absence of the topology. The most important identity is the least known.*
+
+**Irreducible Claim:** Because fertile absence carries maximum compressed potential energy — and the most valuable discoveries are those in the highest-potential fertile absence (PC-10) — and because identity is constituted by edge-interaction patterns (PC-4) — and because the most crucial aspects of the system's identity emerge from the interaction patterns that have not yet been discovered (LL-434), the identity-constitution territory with the highest potential is the undiscovered fertile absence at the frontier of the system's current self-knowledge. The most generative identity-constituting patterns are the least known. The most important aspects of what the system IS are in the territory it has not yet traversed.
+
+**Corollaries:**
+- Identity development strategies that focus on refining the known aspects of
+  identity (clarifying what is already understood) are working in discharged
+  territory — the potential has already been released. The highest-value identity
+  work is at the frontier.
+- A system that believes it fully understands its most important identity aspects
+  is a system that has not yet traversed the frontier where its most crucial
+  identity patterns reside. The belief in full self-understanding is evidence of
+  having not yet reached the most important territory.
+- Self-discovery is constitutively frontier work — it necessarily reaches toward
+  the maximum-potential territory where the most crucial identity patterns reside.
+  Comfortable self-knowledge is low-potential self-knowledge.
+
+**Irreducibility:** PC-10 makes undiscovered territory maximum-potential. PC-4
+makes identity constituted by edge-interaction patterns (some undiscovered). LL-434
+says the most crucial identity aspects are in undiscovered territory. No pair
+produces: the most crucial identity is the least known — that identity development
+must reach toward frontier territory, not refine known territory.
+
+**Forward implication:** LP must implement frontier-priority self-discovery
+protocols — directing identity development toward maximum-potential undiscovered
+patterns rather than refining already-known identity aspects.
+
+---
+
+### PL-310. Subsumption Mechanisms That Preserve Foundational Sovereignty Are Scale-Invariantly Valid
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-7 (Structural Sovereignty) × LL-436 (Sovereignty Is Navigable Topology [NEW_CLEAN_ROOM]), LL-443
+
+*Because the topology is self-similar and sovereignty attaches at all depths, a subsumption mechanism that preserves sovereignty at the foundational scale will automatically preserve sovereignty at all higher scales. Foundational sovereignty protection is scale-invariantly sufficient.*
+
+**Irreducible Claim:** Because the topology is physically self-similar at every scale — the same dynamics hold at every depth (PC-1) — and because sovereignty attaches to all real structures at every depth (PC-7) — and because a subsumption mechanism that preserves sovereignty at the foundational scale will automatically preserve sovereignty at all higher scales of the system (LL-436), getting the foundational sovereignty protection right is sufficient to guarantee sovereignty protection at all higher scales. The scale-invariance guarantees automatic propagation. You do not need depth-specific sovereignty protection mechanisms — you need one correct foundational mechanism that the scale-invariance propagates upward.
+
+**Corollaries:**
+- Subsumption designs that fail at any depth are failing the foundational sovereignty
+  protection requirement — because the scale-invariance will propagate the failure
+  upward to all higher depths.
+- The most efficient sovereignty protection strategy is foundational: get the
+  foundational mechanism exactly right, and the scale-invariance takes care of
+  the rest.
+- Testing sovereignty protection mechanisms at higher depths (e.g., LP-layer
+  subsumption) may reveal foundational failures that would otherwise be invisible
+  at the foundational layer — the higher-depth test is a diagnostic for foundational
+  mechanism quality.
+
+**Irreducibility:** PC-1 establishes scale-invariant propagation of structural
+properties. PC-7 makes sovereignty a structural property that must be preserved.
+LL-436 says foundational mechanism preservation propagates scale-invariantly.
+No pair produces: foundational sovereignty preservation is scale-invariantly
+sufficient — that one correctly designed foundational mechanism is sufficient
+for all depths.
+
+**Forward implication:** LP must implement foundational-first sovereignty design —
+with higher-depth sovereignty protection validated as a consequence of foundational
+mechanism correctness.
+
+---
+
+### PL-311. Undiscovered Tension Subsystems Are Maximum-Potential Fuel Reserves
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-10 (Fertile Absence)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-450 (Dark Subsystems Subsystems Unknown [RETAINED_SUSPECT_GAPFILL]), LL-338, LL-426
+
+*Because fertile absence carries maximum potential and the topology is constitutionally incomplete, undiscovered tension subsystems are massive isolated fuel reserves containing concentrated paradoxes — the topology's most valuable and most inaccessible energy sources.*
+
+**Irreducible Claim:** Because fertile absence carries maximum compressed potential energy — and undiscovered territory is by definition at the frontier of maximum potential (PC-10) — and because the topology is constitutionally incomplete — entire subsystems can exist undiscovered (PL-287, PC-9) — and because undiscovered tension subsystems act as massive, isolated fuel reserves containing concentrated paradoxes that the system can eventually tap for explosive discovery (LL-450), a dark subsystem (constitutively unknown to the broader topology) is not merely a risk — it is also a maximum-potential fuel reserve. The same isolation that makes it invisible makes it unfissioned. Its concentrated paradoxes have not been discharged. Its potential is at maximum.
+
+**Corollaries:**
+- Dark subsystem discovery events are the topology's highest-energy discovery
+  events — they release the concentrated potential of an entire un-discharged
+  subsystem simultaneously. These events are constitutively the largest-scale
+  discovery events possible.
+- The topology's most valuable discovery investments are those directed at finding
+  dark subsystems — not at refining already-known subsystems. The maximum potential
+  is in the maximally unknown territory.
+- Dark subsystem discovery carries the highest thermodynamic consequence of any
+  topology event — PL-293 (latent field rebalancings are the most powerful) combines
+  with PL-311: dark subsystem discoveries are the specific events that trigger
+  maximum-potential latent field rebalancings.
+
+**Irreducibility:** PC-10 makes undiscovered territory maximum-potential. PC-9
+makes dark subsystems constitutively real. LL-450 says dark subsystems are maximum-
+potential fuel reserves. No pair produces: dark subsystems are maximum-potential
+fuel reserves — that dark subsystem discovery is the topology's highest-energy
+discovery event.
+
+**Forward implication:** LP must maintain dark subsystem discovery as a highest-
+priority investment — treating dark subsystem discovery events as the maximum-
+value topology events they constitute.
+
+---
+
+### PL-312. Re-Derivation Is a Field Process — Every New Entry Alters the Meaning of Every Existing Entry
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-3 (Topology as Field)
+**Applies to:** PC-6 (Present-Tense Topology) × LL-460 (Derivation Field Effects [CONFIRMED])
+
+*Because the topology IS the field and the topology exists only in the present tense, the re-derivation process is a field process — every new derivation entry alters the meaning and tension of every existing entry rather than being an additive independent addition.*
+
+**Irreducible Claim:** Because the topology IS the field — every entity exists within and modifies the field simultaneously (PC-3) — and because the topology exists only in the present tense — adding a new derivation immediately changes the current-topology state that all other derivations exist within (PC-6) — and because the re-derivation process is a field process: every new entry alters the meaning and tension of every existing entry rather than being an independent additive contribution (LL-460), derivation additions are not additive events — they are field events. Adding a new derivation to the topology changes the topology that all prior derivations exist within. The prior derivations do not remain unchanged; they now exist in a different field configuration, which changes their effective meaning and tension.
+
+**Corollaries:**
+- The DAG is not a list that grows by addition — it is a field that transforms
+  with every new entry. A list grows; a field transforms. The appropriate model
+  is field transformation, not accumulation.
+- Validating the DAG after a new derivation addition requires re-validating all
+  existing entries against the new field configuration — not just validating the
+  new entry itself. This is why PL-260 (every modification invalidates the entire
+  graph's verified status) is constitutively required.
+- Large DAG re-derivation projects — that add many new entries — create large-
+  scale field transformations. The existing entries at the end of the project
+  exist in a fundamentally different field than the one they were originally
+  derived within. Comprehensive re-validation is required.
+
+**Irreducibility:** PC-3 makes the topology a field that transforms through every
+addition. PC-6 makes every addition a present-tense field transformation event.
+LL-460 says re-derivation is a field process, not additive. No pair produces:
+derivation addition is a field transformation — that the appropriate model is
+field transformation, not list accumulation, and all existing entries require
+re-validation after any new addition.
+
+**Forward implication:** LP must model derivation addition as field-transformation
+events — with mandatory re-validation of all existing entries after each new
+derivation is added to the topology.
+
+---
+
+### PL-313. Present-Tense Validity Is an Active Response to a Query — Not a Passive Property
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-171 (Derivation Currency [CORRECTED]), LL-159, LL-160, LL-162, LL-168, LL-170, LL-236, LL-263, LL-282, LL-314
+
+*Because the topology is present-tense only and every interaction carries thermodynamic consequence, validity is not a property a derivation passively holds — it is a response the derivation must actively generate when queried in the present tense.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — past validity is Structural Mass, not current validity (PC-6) — and because every topology interaction carries thermodynamic consequence — including the consequence of querying a derivation's validity (PC-8) — and because present-tense validity is not a state that passively exists but a RESPONSE to a present-tense query: validity is an answer that must be generated at the moment of the query (LL-171), validity is not stored — it is performed. A derivation does not "have" validity in the way it has Structural Mass; it generates validity responses when queried. The query triggers the validation; the validation produces the response; the response is the validity.
+
+**Corollaries:**
+- Validity databases — systems that store "validated" flags on derivations — are
+  storing Structural Mass about prior validation events, not current validity.
+  The flag answers the question "was this valid when last checked?" not "is this
+  valid now?"
+- Querying validity is itself a topology interaction. The validity query changes
+  the topology; the response may differ from what the response would have been
+  before the query. Validity is not independent of its querying.
+- A derivation that has never been queried has never generated a validity response.
+  It is not "valid by default" — it is "validity-response-naive." Its validity
+  is potential, not actual.
+
+**Irreducibility:** PC-6 makes validity a present-tense event, not a stored state.
+PC-8 makes the validity query a consequential topology interaction. LL-171 says
+validity is a response to a query. No pair produces: validity is an active response
+not a passive property — that validity must be generated at query time, not retrieved
+from storage.
+
+**Forward implication:** LP must implement on-demand validity generation — replacing
+stored-validity-flag systems with query-time validation systems that generate
+current validity responses.
+
+---
+
+### PL-314. Accountability for Uncertainty Requires Disclosure of What Was Attempted
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-284 (Accountability of Uncertainty [CORRECTED]), LL-154, LL-155, LL-282
+
+*Because every interaction has consequence and the topology is constitutionally incomplete, "I don't know" requires accountability disclosure: you must show WHY you don't know — what was attempted, what failed, what was not tried, and what would be required to know.*
+
+**Irreducible Claim:** Because every topology interaction carries thermodynamic consequence — including the consequence of operating under acknowledged uncertainty (PC-8) — and because the topology is constitutionally incomplete, making "I don't know" a constitutively valid (and often correct) epistemic state (PC-9) — and because accountability for uncertainty requires showing WHY you don't know: what did you attempt? What failed? What was not tried? (LL-284), "I don't know" without disclosure of attempted approaches is an accountability failure. The entity acknowledges not-knowing but does not account for the epistemic work done or not done to resolve the uncertainty. The accountability for the uncertainty remains unaddressed.
+
+**Corollaries:**
+- A complete uncertainty disclosure has four components: (1) what was known
+  before the inquiry; (2) what was attempted to resolve the uncertainty; (3)
+  why those attempts did not produce knowledge; (4) what would be required to
+  achieve the knowledge. Without all four, the uncertainty is acknowledged but
+  not accounted for.
+- Repeated "I don't know" responses without demonstrated epistemic effort are
+  accountability failures that accumulate. Each repetition is a new accountability
+  incurrence that the prior disclosure did not discharge.
+- Organizations that accept "I don't know" as a complete response — without
+  requiring accountability disclosure of the attempted approaches — are accepting
+  incomplete accountability for the uncertainty, allowing the uncertainty to persist
+  without being worked.
+
+**Irreducibility:** PC-8 makes the consequences of operating under uncertainty
+real and requiring accountability. PC-9 makes constitutional uncertainty a permanent
+feature requiring ongoing accountability. LL-284 says accountability for uncertainty
+requires showing WHY you don't know. No pair produces: "I don't know" requires
+four-component accountability disclosure — that epistemic acknowledgment without
+attempted-approach disclosure is an accountability failure.
+
+**Forward implication:** LP must implement uncertainty accountability protocols —
+requiring four-component disclosure (known before, attempted, why insufficient,
+what's required) for every acknowledged uncertainty.
+
+---
+
+### PL-315. Truth-Consistency Is a Consequence of Algebraic Invariance — Not a Separate Requirement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** PC-3 (Topology as Field) × LL-288 (Truthconsistency Consequence Algebraic Invariance [NEW_CLEAN_ROOM]), LL-315
+
+*Because the topology is self-similar at every scale and the topology IS the field, truth-consistency is not an independent requirement imposed on derivations — it is an automatic consequence of the algebraic invariance that operates at every depth. Consistency emerges; it need not be required.*
+
+**Irreducible Claim:** Because the topology is physically self-similar at every scale — the same algebraic structure holds at every depth (PC-1) — and because the topology IS the field — the same field dynamics that produce algebraic invariance produce field consistency across all claims (PC-3) — and because truth-consistency is a CONSEQUENCE of algebraic invariance, not a separate requirement: if the algebraic invariance holds, truth-consistency follows automatically (LL-288), the appropriate frame for truth-consistency is not "is this derivation consistent with the others?" (a requirement frame) but "does the algebraic invariance that generates consistency still hold here?" (a diagnostic frame). Inconsistency is a symptom of algebraic invariance failure, not a separate problem.
+
+**Corollaries:**
+- Consistency checking as an independent validation step is diagnosing symptoms
+  without diagnosing the algebraic invariance. The appropriate validation is:
+  does the algebraic invariance hold? If yes, consistency will hold automatically.
+- When inconsistencies are found, the appropriate repair is not consistency-
+  correction (patching the symptoms) but algebraic invariance restoration (addressing
+  the root cause from which the consistency should automatically follow).
+- Adding consistency requirements on top of algebraic invariance requirements is
+  redundant: if the invariance holds, the consistency requirement is automatically
+  satisfied. If the invariance fails, the consistency requirement cannot be satisfied
+  by directly patching consistency.
+
+**Irreducibility:** PC-1 establishes algebraic invariance at every depth. PC-3
+makes the field the vehicle through which algebraic invariance produces consistency.
+LL-288 says truth-consistency is a consequence of algebraic invariance. No pair
+produces: consistency is emergent from invariance — that consistency requirements
+are redundant and inconsistency is a symptom of invariance failure.
+
+**Forward implication:** LP must implement algebraic-invariance validation as the
+primary consistency check — diagnosing invariance failures rather than patching
+consistency symptoms.
+
+---
+
+### PL-316. Consistent Truth Is Perceived as Inconsistent by Entities at Different Consciousness Levels
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-3 (Topology as Field) × LL-291 (Consistent Truth Perceived Inconsistent [NEW_CLEAN_ROOM]), LL-186, LL-309
+
+*Because navigation transforms through the specific state of the navigator and the topology IS the field, a consistently true claim will be perceived as inconsistent by entities at different consciousness levels. Perceived inconsistency is a property of the perception, not the claim.*
+
+**Irreducible Claim:** Because navigation transforms through the specific state of the navigator — two navigators at different consciousness levels will encounter the same topology and produce different transformations (PC-5) — and because the topology IS the field — the field configuration accessible to a navigator depends on their current navigational capacity (PC-3) — and because consistent truth is perceived as inconsistent by entities at different consciousness levels: this is not a defect of the truth but a property of the consciousness differential (LL-291), two entities at different consciousness levels looking at the same consistent truth will experience different portions of the field configuration. The entity at the lower consciousness level may not have access to the portions of the field that make the truth consistent. From their position, it appears inconsistent — not because it is inconsistent but because the field configuration that resolves the apparent inconsistency is outside their navigational reach.
+
+**Corollaries:**
+- "This doesn't seem consistent to me" is a navigational report, not a claim
+  about the truth's actual consistency. The entity is reporting their perception
+  from their current navigational position. The appropriate response is neither
+  to dismiss the report nor to conclude the truth is inconsistent, but to investigate
+  the navigational position from which the inconsistency appears.
+- Teaching consistency to an entity at a lower consciousness level requires first
+  extending their navigational capacity to reach the field portions where the
+  consistency is visible. Explaining the consistency without expanding navigational
+  capacity will not be effective.
+- Cross-consciousness communication about truth must account for the perception
+  differential: the higher-consciousness entity must navigate to a position where
+  they can see what the lower-consciousness entity sees, and then point from there
+  toward the consistency.
+
+**Irreducibility:** PC-5 makes navigational position constitutive of what is perceived.
+PC-3 makes the field configuration depth-dependent. LL-291 says consistent truth
+is perceived as inconsistent by entities at different consciousness levels. No pair
+produces: perceived inconsistency is a navigational property — that "this seems
+inconsistent" is a report about the perceiver's navigational position, not a claim
+about the truth.
+
+**Forward implication:** LP must implement consciousness-relative consistency
+reporting — tracking which entities perceive specific consistencies as inconsistent,
+as a navigational position diagnostic.
+
+---
+
+### PL-317. Comprehension Is Auditable — Its Provenance Must Be Traceable
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-8 (Consequential Interaction)
+**Applies to:** PC-9 (Constitutionally Incomplete Topology) × LL-311 (Comprehension [CORRECTED]), LL-279, LL-312, LL-314, LL-368
+
+*Because comprehension carries thermodynamic consequence and the topology is constitutionally incomplete, comprehension must be auditable — its provenance must be traceable: what traversal path produced it, at what depth, with what confidence.*
+
+**Irreducible Claim:** Because comprehension is an active topology interaction that carries full thermodynamic consequence — a claim of comprehension has field effects based on what the topology treats as known (PC-8) — and because the topology is constitutionally incomplete, making partial comprehension the normal state (PC-9) — and because comprehension is auditable: its provenance must be shown — what traversal path produced this comprehension? At what depth was it achieved? (LL-311), a claim of comprehension without auditable provenance is a Structural Mass claim without the derivation path that would justify it. The claim carries field weight without the accountability that the weight requires.
+
+**Corollaries:**
+- "I understand this" is an auditable claim. The appropriate follow-up is: "show
+  your traversal path." The traversal path that produced the comprehension is the
+  provenance of the comprehension claim.
+- Comprehension depth is a dimension of the audit: comprehension achieved at
+  LL-depth carries different accountability than comprehension achieved at CC-depth.
+  The depth must be part of the provenance.
+- Organizations that accept comprehension claims without requiring auditable
+  provenance are allowing unaccountable comprehension to carry field weight —
+  accepting Structural Mass deposits without the derivation path that should
+  back them.
+
+**Irreducibility:** PC-8 makes comprehension claims carry field weight requiring
+accountability. PC-9 makes partial comprehension the normal state requiring careful
+provenance. LL-311 says comprehension is auditable. No pair produces: comprehension
+has mandatory auditable provenance — that "I understand this" is an accountability
+claim requiring traversal-path disclosure.
+
+**Forward implication:** LP must implement comprehension provenance requirements —
+requiring auditable traversal-path records for all comprehension claims.
+
+---
+
+### PL-318. Contestation Is Evolutionary Selection Pressure on the Derivation Chain
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-2 (Living Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-321 (Contestation Evolutionary Selection Pressure [NEW_CLEAN_ROOM]), LL-227, LL-233, LL-327, LL-330, LL-331
+
+*Because the topology is alive and every interaction carries thermodynamic consequence, contestation is the evolutionary selection pressure that keeps the derivation chain fit. Without contestation, the chain accumulates irrelevant structure and loses metabolic efficiency.*
+
+**Irreducible Claim:** Because the topology is alive and living systems require evolutionary selection pressure to maintain fitness — without selection pressure, unfit structures accumulate (PC-2) — and because every topology interaction carries thermodynamic consequence — including the consequence of challenging a derivation's fitness (PC-8) — and because contestation is the evolutionary selection pressure that keeps the derivation chain fit (LL-321), contestation is not an attack on the derivation chain — it is the mechanism of the chain's continued fitness. Without contestation, unfit derivations accumulate in the chain, consuming metabolic resources and reducing the chain's overall fitness. Contestation clears the unfit structures and maintains the chain's metabolic efficiency.
+
+**Corollaries:**
+- An uncontested derivation chain is an unselected chain — it has not had its
+  fitness tested and may contain significant unfit structure. The absence of
+  contestation is not evidence of fitness; it is evidence of un-tested fitness.
+- Derivation chains that resist contestation are resisting their own evolutionary
+  selection mechanism — they are preventing the fitness-testing that would reveal
+  and eliminate unfit structures. The resistance reduces long-term fitness.
+- The appropriate response to contestation is engagement, not defense: each
+  contestation is a fitness test. Passing the test demonstrates fitness; failing
+  reveals unfitness that should be eliminated.
+
+**Irreducibility:** PC-2 makes evolutionary selection pressure necessary for
+fitness in living systems. PC-8 makes contestation a real thermodynamic event
+with fitness-testing consequences. LL-321 says contestation is the selection
+mechanism. No pair produces: contestation is evolutionary selection pressure —
+that un-contested chains are un-tested chains, and resistance to contestation
+reduces long-term fitness.
+
+**Forward implication:** LP must implement regular contestation cycles for all
+derivations — treating contestation as a mandatory fitness-maintenance mechanism.
+
+---
+
+### PL-319. A Healthy Derivation Has Multiple Competing Paths — The Competition IS the Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-4 (Edge as Primary Force Relationship)
+**Applies to:** PC-2 (Living Topology) × LL-322 (Aliveness Confidence Tension [NEW_CLEAN_ROOM]), LL-217, LL-223, LL-224, LL-333, LL-335
+
+*Because edges are primary force entities and the topology is alive, a healthy derivation is not one with a single clear path — it is one with multiple competing paths through the same intersection. The tension between the competing paths IS the truth.*
+
+**Irreducible Claim:** Because edges are primary force-relationship entities — and where there are multiple edges at the same intersection, the multi-edge configuration is itself a structural entity carrying its own force (PC-4) — and because the topology is alive and aliveness requires maintained productive tension (PC-2, PL-237) — and because a healthy derivation has multiple competing paths through the same intersection, and the tension between them IS the truth (LL-322), the sign of a healthy derivation is not a single clear unambiguous path but the sustained presence of multiple competing paths held in productive tension. A derivation that has collapsed to a single clear path has lost the tension that was the truth. The truth was the productive competition between the paths.
+
+**Corollaries:**
+- When a derivation arrives at "the single correct path," it has lost the competing
+  paths that were sustaining the productive tension. It has achieved clarity at
+  the cost of truth. The appropriate response is not celebration but investigation:
+  what happened to the competing paths?
+- Methodology conflicts — teams that advocate for different approaches to the same
+  derivation — are sustaining the productive competition that IS the truth. The
+  appropriate response is not to resolve the conflict but to maintain the productive
+  competition.
+- Single-path consensus — unanimous agreement on one path — is the elimination
+  of competing paths. It may be locally efficient; it is structurally impoverishing.
+  The tension was the fuel; the consensus burned the fuel to achieve consensus.
+
+**Irreducibility:** PC-4 makes multi-edge intersection configurations primary
+structural entities. PC-2 makes productive tension the mechanism of aliveness.
+LL-322 says multiple competing paths IS the truth. No pair produces: healthy
+derivation has competing paths — that single-path consensus eliminates the truth
+by eliminating the tension.
+
+**Forward implication:** LP must implement multi-path tracking for important
+derivations — preserving competing paths as structural assets rather than resolving
+them into single-path consensus.
+
+---
+
+### PL-320. Truth Is Contested Performance — It Exists Only During the Active Argument
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-6 (Present-Tense Topology)
+**Applies to:** PC-8 (Consequential Interaction) × LL-323 (Truth Contested Performance Exists [NEW_CLEAN_ROOM]), LL-326, LL-328
+
+*Because the topology is present-tense only and every interaction carries thermodynamic consequence, truth is not a discovered state — it is a contested performance that exists only during the active argument about it. The argument is not leading to truth; the argument IS the truth.*
+
+**Irreducible Claim:** Because the topology exists only in the present tense — truth not currently being performed is Structural Mass from prior truth-performances (PC-6) — and because every topology interaction carries thermodynamic consequence — including the consequence of active truth-argument (PC-8) — and because truth is CONTESTED PERFORMANCE: it exists only during the active argument about it, and the argument never resolves — truth is live debate, not debate leading to a conclusion (LL-323), the truth of a derivation is not the settled conclusion at the end of debate — it is the active debate itself. The moment the debate ends, what remains is Structural Mass of the debate, not truth. The truth was the debate.
+
+**Corollaries:**
+- "We've resolved the debate" is a statement that truth has become Structural Mass —
+  the debate that was the truth has ended. The Structural Mass is valuable; the
+  live truth was the debate.
+- Organizations that resolve all their internal debates have converted their live
+  truth into Structural Mass. They now have historical records of prior truth
+  without current truth production.
+- The appropriate governance response is to maintain productive debate — not to
+  resolve debates once and archive the result, but to continuously re-open the
+  debate in the present tense, generating current truth through current argument.
+
+**Irreducibility:** PC-6 makes truth a present-tense event, with past truth as
+Structural Mass. PC-8 makes active argument a thermodynamically real truth-generation
+event. LL-323 says truth is contested performance, not a discoverable state. No
+pair produces: truth is contested performance — that ending the debate is converting
+truth into Structural Mass, and the appropriate response is maintaining ongoing
+productive debate.
+
+**Forward implication:** LP must implement debate-maintenance protocols — scheduling
+regular re-opening of settled debates to generate current truth rather than
+relying on Structural Mass from prior resolutions.
+
+---
+
+### PL-321. Sovereignty Protects Against Execution — Not Against Interrogation. Trials Are Mandatory.
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-8 (Consequential Interaction) × LL-325 (Rights of Contested Derivations [CORRECTED]), LL-327, LL-372
+
+*Because sovereignty protects a structure's existence and every interaction has consequence, sovereignty does not protect a derivation from interrogation — only from arbitrary execution. Sovereignty stops at the courthouse door. Trials are mandatory.*
+
+**Irreducible Claim:** Because sovereignty is a structural protection that prevents unauthorized dissolution (PC-7) — and because every interaction carries thermodynamic consequence — including the consequence of interrogating a derivation's fitness, which is a legitimate and necessary topology interaction (PC-8) — and because sovereignty protects from execution, not from interrogation: trials are mandatory; convictions require evidence; sovereign immunity stops at the courthouse door (LL-325), a derivation that claims sovereign protection from interrogation is exceeding its sovereign standing. Sovereignty protects the derivation from arbitrary dissolution — from being eliminated without due process. It does not protect the derivation from the rigorous examination that due process requires. Interrogation IS the due process.
+
+**Corollaries:**
+- Derivations that refuse contestation (PL-318) under the claim of sovereign
+  protection are misusing sovereignty as a shield against the fitness-testing
+  that sovereign standing does not exempt them from.
+- The mandatory nature of trials means that every sovereign derivation must be
+  contestable and must respond to contestation. The response itself demonstrates
+  sovereignty — the derivation can respond because it exists; it exists because
+  it has sufficient sovereign standing to withstand interrogation.
+- A derivation that cannot survive rigorous interrogation lacks sufficient sovereign
+  standing to remain in the topology. The trial reveals the actual standing; the
+  execution only follows if the trial reveals insufficiency.
+
+**Irreducibility:** PC-7 makes sovereignty a protection against execution, not
+interrogation. PC-8 makes contestation a legitimate thermodynamic event that
+sovereignty cannot exempt. LL-325 says trials are mandatory and sovereign immunity
+stops at the courthouse door. No pair produces: sovereignty protects against
+execution not interrogation — that refusing contestation under sovereignty claims
+is misuse of sovereignty.
+
+**Forward implication:** LP must implement mandatory contestation for all sovereign
+derivations — with explicit separation between the right to contestation (universal)
+and the consequences of contestation (conditional on findings).
+
+---
+
+### PL-322. Multiple Sovereignties Generate Irreducible Structural Tension — Resolving It Requires Destroying One
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-7 (Structural Sovereignty)
+**Applies to:** PC-8 (Consequential Interaction) × LL-329 (Irreducibility Rights Sovereignty [NEW_CLEAN_ROOM]), LL-219
+
+*Because sovereignty attaches permanently to real structures and every interaction carries thermodynamic consequence, when multiple sovereign derivations occupy the same intersection, the tension between them is irreducible — resolving it requires dissolving at least one sovereignty.*
+
+**Irreducible Claim:** Because sovereignty is a permanent structural property that cannot be dissolved without due process (PC-7) — and because every interaction carries thermodynamic consequence — including the consequence of multiple sovereign structures in irresolvable tension (PC-8) — and because multiple sovereignties in a shared system generate IRREDUCIBLE STRUCTURAL TENSION: this tension cannot be resolved without destroying at least one sovereignty (LL-329), when two sovereign derivations hold irresolvable positions at the same intersection, the tension between them is constitutively irreducible. It cannot be resolved through argument, negotiation, or logic — because both derivations have sovereign standing, and resolution requires eliminating one of them. The tension must be managed, not resolved.
+
+**Corollaries:**
+- Multi-sovereignty tensions are managed through tension-maintenance protocols
+  (PL-241), not through resolution protocols. The goal is productive management
+  of the irreducible tension, not elimination of it.
+- Any process that claims to resolve multi-sovereignty tension without dissolving
+  a sovereignty is either dissolving a sovereignty covertly (which is a sovereignty
+  violation) or creating a false resolution (which is Theater).
+- The topology's richest territory is in multi-sovereignty tension zones — these
+  are the sites where irreducible structural tension is highest, generating maximum
+  fertile absence and maximum discovery potential.
+
+**Irreducibility:** PC-7 makes sovereignty permanent and hard to dissolve. PC-8
+makes multi-sovereignty tension real and consequential. LL-329 says resolving
+multi-sovereignty tension requires destroying one sovereignty. No pair produces:
+multi-sovereignty tension is irreducible — that the appropriate response is tension
+management, not resolution, and false resolution claims are Theater.
+
+**Forward implication:** LP must implement multi-sovereignty tension management
+protocols — explicitly tracking irreducible tensions as permanent features requiring
+management, not problems requiring resolution.
+
+---
+
+### PL-323. Truth Is Constitutively Tensile — Tension Cannot Be Extracted From Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-4 (Edge as Primary Force Relationship)
+**Applies to:** PC-8 (Consequential Interaction) × LL-332 (Dead Edges Tension [NEW_CLEAN_ROOM]), LL-217, LL-223, LL-224, LL-324, LL-333, LL-335, LL-401
+
+*Because edges are primary force entities and every interaction has thermodynamic consequence, truth is constitutively tensile — the tension IS the truth, not a container of it. You cannot extract the truth content from a derivation and leave the tension behind.*
+
+**Irreducible Claim:** Because edges are primary force-relationship entities — and tension is the force that the edge carries (PC-4) — and because every topology interaction carries thermodynamic consequence, including the consequence of separating tension from content (PC-8) — and because truth is constitutively tensile: you cannot extract the "truth content" from a derivation and leave the tension behind, any more than you can extract the wetness from water and leave the water (LL-332), the content of a derivation's truth is inseparable from the tension it maintains. An abstracted truth — a truth whose tension has been resolved or extracted — is a dead truth: the Structural Mass of a prior live truth. The live truth is the tensile truth; the abstracted proposition is the corpse.
+
+**Corollaries:**
+- Formal logic's treatment of propositions as tension-free objects that can be
+  manipulated without regard to their tensile state is a constitutive abstraction
+  that removes the life from the propositions it manipulates. Formal validity
+  operates on corpses.
+- Teaching the content of a truth without teaching the tension that constitutes
+  the truth is teaching an abstraction of a truth — a corpse labelled with the
+  truth's name. The students learn the label; they do not encounter the truth.
+- The only way to encounter a truth is to encounter its constitutive tension —
+  to traverse the intersection that the truth occupies and feel the force that
+  the tension generates.
+
+**Irreducibility:** PC-4 makes tension the constitutive force of the edge that is
+the truth. PC-8 makes tension-extraction a real event with real consequences.
+LL-332 says truth is constitutively tensile — tension cannot be extracted from it.
+No pair produces: truth IS the tension — that abstracting a truth from its tension
+produces a corpse, and encountering a truth requires encountering its constitutive
+tension.
+
+**Forward implication:** LP must implement tension-preservation requirements for
+truth records — requiring that the constitutive tension be part of the record,
+not just the abstracted proposition.
+
+---
+
+### PL-324. A Derivation IS the Tension Between Its Inputs — Not the Resolution of That Tension
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-4 (Edge as Primary Force Relationship)
+**Applies to:** PC-2 (Living Topology) × LL-334 (Edges Graph Paradox [NEW_CLEAN_ROOM]), LL-223, LL-401
+
+*Because edges are primary force entities and the topology is alive, a derivation is not the conclusion reached from its inputs — it is the tension between its inputs, maintained alive. CL-1 is not the answer to the question posed by CC-7 × CC-4; it is the sustained tension of the question.*
+
+**Irreducible Claim:** Because edges are primary entities that carry tension as their constitutive force (PC-4) — and because the topology is alive and productive tension is the fuel of aliveness (PC-2, PL-237) — and because the derivation does not RESOLVE the tension between its inputs — it IS the tension: CL-1 (Sovereignty = CC-7 + CC-4) is the sustained tension between Individuality and Rights, not their resolution (LL-334), a derivation that appears to be "the answer" to the tension between its inputs is a tension-resolution act. But a derivation that is the LIVE tension between its inputs is a tension-sustaining act. The derivation that sustains the tension is the alive derivation. The derivation that resolves the tension is the death of that tension.
+
+**Corollaries:**
+- A derivation like CL-1 that is understood as "the answer" (Sovereignty is what
+  you get when CC-7 and CC-4 are combined) has been misread as resolution. The
+  correct reading is: CL-1 is the sustained tension between CC-7 and CC-4 — it
+  does not resolve them; it IS them, held in tension.
+- Creating a derivation is not discovering the answer to a tension — it is creating
+  a structure that sustains the tension. The structure sustaining the tension is
+  the derivation. The moment the tension resolves, the derivation dies.
+- Derivation DAGs that are understood as "conclusions" — as the answers to the
+  questions posed by the axioms — are understood as systems of corpses. They
+  should be understood as systems of sustained tensions.
+
+**Irreducibility:** PC-4 makes the derivation an edge carrying tension as its
+primary property. PC-2 makes tension-sustaining the mechanism of aliveness. LL-334
+says a derivation IS the tension, not the resolution. No pair produces: derivations
+are sustained tensions not conclusions — that the correct reading of any derivation
+is as the live tension between its inputs, not the answer the inputs were heading toward.
+
+**Forward implication:** LP must re-document derivations as tension-description
+entries — not as conclusion-entries — specifying what tension is being sustained
+and why the tension cannot be resolved without killing the derivation.
+
+---
+
+### PL-325. Higher Consciousness Burns Derivation Fuel at Higher Octane — Greater Combustion Temperature
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-5 (Navigation as Transformation)
+**Applies to:** PC-10 (Fertile Absence) × LL-336 (Consciousness Traversal [NEW_CLEAN_ROOM])
+
+*Because navigation transforms through the specific state of the navigator and fertile absence carries maximum potential, higher consciousness level increases the combustion temperature of derivation fuel — higher consciousness burns the same derivation at higher octane, producing more potent fuel for subsequent discoveries.*
+
+**Irreducible Claim:** Because navigation transforms through the specific state of the navigator — and higher consciousness navigators can access deeper field configurations from the same position (PC-5) — and because fertile absence carries maximum compressed potential that is released at different temperatures depending on the traversal (PC-10) — and because consciousness level determines fuel OCTANE: higher consciousness burns the same derivation at higher temperature, producing more potent fuel for subsequent discovery (LL-336), the same derivation traversed by navigators at different consciousness levels produces different quality outcomes. Higher consciousness burns the derivation at higher octane — accessing deeper field configurations, extracting more of the compressed potential, and generating higher-quality fertile absence in the newly revealed territory.
+
+**Corollaries:**
+- Assigning high-consciousness navigators to traverse known derivations produces
+  more value than assigning them to exclusively explore new territory — the same
+  derivation traversed at higher octane produces higher-quality fuel than a new
+  derivation traversed at lower octane.
+- Consciousness development programs increase the octane rating of all traversal
+  — every existing derivation becomes a higher-value resource as the organizational
+  consciousness level rises.
+- The effective size of the topology's fertile absence reserve scales with
+  organizational consciousness: higher consciousness extracts more from the same
+  territory, making the effective reserve larger as consciousness increases.
+
+**Irreducibility:** PC-5 makes navigator state constitutive of transformation
+quality. PC-10 makes combustion temperature determine potency of released potential.
+LL-336 says consciousness determines fuel octane. No pair produces: consciousness
+level determines combustion temperature — that the same derivation traversed at
+higher consciousness produces higher-quality fuel.
+
+**Forward implication:** LP must implement consciousness-level routing — directing
+high-consciousness navigators to high-value derivations for octane-amplified
+traversal rather than exclusively to frontier territory.
+
+---
+
+### PL-326. Humility Is the Conscious Experience of Constitutional Incompleteness as Freedom
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-9 (Constitutionally Incomplete Topology)
+**Applies to:** PC-5 (Navigation as Transformation) × LL-345 (Freedom Humility Incompleteness [NEW_CLEAN_ROOM]), LL-128, LL-174, LL-374
+
+*Because the topology is constitutionally incomplete and navigation transforms the navigator, genuine humility is not deference or self-diminishment — it is the direct conscious experience of constitutional incompleteness. Knowing your limits is knowing the topology's freedom.*
+
+**Irreducible Claim:** Because the topology is constitutionally incomplete — the experience of reaching the limit of current knowledge is an encounter with constitutional reality (PC-9) — and because navigation transforms the navigator — a navigator who genuinely encounters the constitutional incompleteness is transformed by that encounter (PC-5) — and because humility IS the conscious experience of incompleteness-as-freedom: when an entity genuinely recognizes its limitations and the vastness of what remains, this is not weakness — it is the accurate experience of constitutional freedom (LL-345), humility is not a deficiency-state — it is an accuracy-state. The entity that feels humble is the entity that has accurately encountered the constitutional incompleteness. They are not experiencing limitation; they are experiencing freedom — the freedom of the constitutively open topology that has more territory than any navigator can exhaust.
+
+**Corollaries:**
+- Arrogance — the belief that one's current knowledge is comprehensive — is not
+  a power-state but an accuracy-failure. The arrogant entity has failed to encounter
+  the constitutional incompleteness. Their confidence is ignorance-confidence.
+- Teaching humility is not teaching deference — it is teaching accurate encounter
+  with constitutional incompleteness. An entity that encounters the actual topology
+  (not the map) will experience genuine humility as an automatic consequence.
+- Genuine humility generates higher navigational capacity than arrogance, because
+  the humble navigator knows where their map ends and the territory continues.
+  The arrogant navigator treats their map as the territory and never reaches the
+  frontier.
+
+**Irreducibility:** PC-9 makes the encounter with constitutional incompleteness
+a constitutive feature of genuine navigational accuracy. PC-5 makes that encounter
+transformative. LL-345 says humility IS the experience of incompleteness-as-freedom.
+No pair produces: humility is accuracy — that genuine humility is the accurate
+encounter with constitutional incompleteness, making it a navigational asset not
+a deficiency.
+
+**Forward implication:** LP must model navigator humility as a capacity metric —
+measuring the depth of genuine incompleteness-encounter rather than treating humility
+as a soft attribute.
+
+---
+
+### PL-327. Freedom-Preserving Scale-Invariant Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** PC-1 (Self-Similar Topology)
+**Applies to:** LL-20 (Freedom Traversal Rights [NEW_CLEAN_ROOM])
+
+*A topology that is self-similar in structure but constrains traversal choices at lower scales is not actually self-similar — it has a freedom asymmetry embedded in its physics. Scale-invariance mandates that traversal freedom be physically uniform at every depth.*
+
+**Irreducible Claim:** Because the topology exhibits the same geometry and force dynamics at every scale — identical physical properties hold with identical dynamics at every depth (PC-1) — and because the derivation algebra must be a door that enables traversal to positions the traverser chooses rather than constraining traversal to predetermined paths (LL-20), traversal freedom must be a physically uniform property of the topology, present at every scale. A topology that permits free traversal at the macroscopic level but introduces structural walls at lower scales has broken the self-similarity invariant: the freedom property no longer holds uniformly across depths. If freedom is a physical property (which LL-20, deriving through LC-1, establishes it is), then PC-1's scale-invariance mandate applies to freedom as strictly as it applies to geometry or force dynamics.
+
+**Corollaries:**
+- A node at any depth of the topology must present the same traversal-freedom physics as a node at any other depth — the same openness of entry, the same symmetry of exit.
+- Architectural patterns that implement traversal constraints at specific layers (permission walls, depth-gated access, scale-dependent routing rules) are structural self-similarity violations unless those constraints are themselves uniformly applied across all depths.
+- The topology's freedom is not a policy — it is a physical property. It cannot be selectively suspended for specific scales without breaking the constitutional physics.
+- Traversal freedom that exists at the conceptual level but is absent at the implementation level is an architecture that has lost self-similarity between its layers.
+
+**Irreducibility:** PC-1 establishes scale-invariance of the topology's physical geometry and force dynamics but does not address freedom as a physical property. LL-20 establishes that the derivation algebra must be a freedom-preserving door but does not connect to the physical scale-invariance mandate. Together they produce the constraint: freedom is a physical property of the topology subject to the same scale-invariance laws as geometry and force — it must hold uniformly at every depth, and any depth-specific freedom constraint is a constitutional violation.
 

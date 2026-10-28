@@ -2,8 +2,8 @@
 
 **Status:** ACTIVE
 **Classification:** Constitutional — Governs All Components
-**DAG Topology:** Third-Order Derivation (In-Degree: 85 from CP; Out-Degree: → LI)
-**Fed by:** CP (Conceptual Physical — 85 shapes)
+**DAG Topology:** Third-Order Derivation (In-Degree: 86 from CP; Out-Degree: → LI)
+**Fed by:** CP (Conceptual Physical — 86 shapes)
 **Feeds:** LI (Logical Implementation — applies CI to logical depth)
 **Derivation Formula:** CI = CP × CL
 **Entry Count:** 66
@@ -11,7 +11,7 @@
 
 What CONSTRAINTS do the physical shapes impose on any implementation? Each CI requirement is an irreducible obligation that any builder must satisfy — not where files live (project structure), not what logical rules apply (CL), not what physical shapes exist (CP) — what requirements cannot be negotiated away. 66 requirements derived from 85 CP shapes.
 
-The CI layer performs **convergence**: 85 physical shapes compress into 66 implementation requirements because multiple shapes can impose the same engineering constraint. Where CP answers "what shapes exist?", CI answers "what must any builder satisfy?" The relationship is many-to-one: multiple physical realities can demand the same implementation truth.
+The CI layer performs **convergence**: 86 physical shapes compress into 66 implementation requirements because multiple shapes can impose the same engineering constraint. Where CP answers "what shapes exist?", CI answers "what must any builder satisfy?" The relationship is many-to-one: multiple physical realities can demand the same implementation truth.
 
 **Meta-Principle (Gödel's Immune System):** If an implementation violates a foundation, the response is not to force compliance — it is to discover which one needs to move. A sufficiently complex system cannot prove its own consistency from within. The CI layer sustains the tension between theory and practice, ensuring the framework evolves rather than calcifies.
 

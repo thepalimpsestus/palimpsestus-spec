@@ -371,7 +371,7 @@
       The System Capability Primitive that executes consequence-bearing skill calls over Swarm Mesh POSIX pipes, forcing initiating actors to absorb error mass upon failure (IC-4).
 
    Ionian Enchantment
-      The principle that the minimal irreducible set produces everything else through combination (CC header). Named for the Ionian philosophers' search for the fundamental substance. In this system: 11 CC axioms produce 52 CL derivations produce 85 CP shapes produce 66 CI requirements — and that is only the Conceptual column.
+      The principle that the minimal irreducible set produces everything else through combination (CC header). Named for the Ionian philosophers' search for the fundamental substance. In this system: 11 CC axioms produce 52 CL derivations produce 86 CP shapes produce 66 CI requirements — and that is only the Conceptual column.
 
    Irreducibility
       The property of a claim that cannot be logically derived from a combination of other claims at the same level. The test for whether an entry is foundational or derived: "Can this be produced by combining other entries at this level?" If yes, it belongs one level down. If no, it is irreducible at this level. The irreducibility test is a derivation's due process (LC-7).
@@ -593,7 +593,7 @@
       The System Capability Primitive that copies a node's topological template to spawn daughter node structures carrying inherited parent provenance (IC-26).
 
    Requirement
-      An implementation constraint derived from physical shapes (CI level). 66 requirements derived from 85 CP shapes. Requirements are what the platform MUST support, operationally, to satisfy the constitutional chain above them.
+      An implementation constraint derived from physical shapes (CI level). 66 requirements derived from 86 CP shapes. Requirements are what the platform MUST support, operationally, to satisfy the constitutional chain above them.
 
    resonate
       The System Capability Primitive that synchronizes structural tension and metabolic pulse frequencies across distributed living node clusters (IC-22).
@@ -653,7 +653,7 @@
       The registry of graph positions that have not yet been traversed or probed — known unknowns about the graph's own topology. Each entry carries position coordinates, a ``last_probed_at`` timestamp, and a ``probe_priority`` score. Continuously updated as the graph evolves. Active discovery pipeline probes are scheduled from the Shadow Catalog (CI-57, LI-82). See :term:`Active Discovery Pipeline`.
 
    Shape
-      The irreducible physical vocabulary of the system (CP level). Shapes are the structural patterns that CAN exist on the graph. 85 shapes derived from 52 CL derivations. Shapes are not metaphors — they are the actual geometric constraints on what structures the topology permits.
+      The irreducible physical vocabulary of the system (CP level). Shapes are the structural patterns that CAN exist on the graph. 86 shapes derived from 52 CL derivations. Shapes are not metaphors — they are the actual geometric constraints on what structures the topology permits.
 
    Social Contract
       The binding obligation of those holding power to actively protect the inherent rights of consciousness (CL-15). The obligation is asymmetric — it falls on the powerful. The contract is self-scaling: as an entity gains power, its protection obligations grow proportionally. Failure to protect is active violation, not neutral neglect.

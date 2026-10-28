@@ -3,11 +3,11 @@
 **Status:** ACTIVE — Certified Architecture Reference  
 **Classification:** Constitutional — Governs All Component Process Definitions & Value Streams  
 **DAG Topology:** Fourth-Order Matrix Cell (In-Degree: from IC × PL; Out-Degree: → IP)  
-**Fed by:** IC (Implementation Conceptual — 32 atomic capability primitives), PL (Physical Logical — 217 physical flow dynamics)  
+**Fed by:** IC (Implementation Conceptual — 32 atomic capability primitives), PL (Physical Logical — 327 physical flow dynamics)  
 **Feeds:** IP (Implementation Physical — Physical Tasks & Execution Processes)  
-**Derivation Formula:** IL = IC × PL (6,944 candidate pairs unified into 32 canonical Logical Roles)  
+**Derivation Formula:** IL = IC × PL (10,464 candidate pairs unified into 32 canonical Logical Roles)  
 **Entry Count:** 32  
-**Candidate Pairs:** 6,944 (Unification Ratio: 217:1)  
+**Candidate Pairs:** 10,464 (Unification Ratio: 327:1)  
 
 This document produces the Logical Roles & System Actors (`entityType: "logical-role"`) of Palimpsestus OS. IL = IC × PL: when an atomic capability verb (IC) is crossed with physical-logical flow dynamics (PL), the crossing forces into existence the logical role that holds responsibility for enacting that capability under those flow conditions. These are not process procedures, not hardware descriptions — they are the 32 System Actors of Palimpsestus OS, each defined by which atomic capability they are accountable for and under which physical-logical obligations that accountability operates. The roles are substrate-agnostic: they define who holds responsibility, leaving the concrete processes they perform to the IP cell.
 

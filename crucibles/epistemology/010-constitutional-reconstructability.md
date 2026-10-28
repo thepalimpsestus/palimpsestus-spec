@@ -34,7 +34,7 @@ authors:
 # CR-010 — Constitutional Reconstructability
 
 ## 1. Problem Statement
-The central foundational assertion of the Palimpsestus architecture is that its constitutional corpus ($C_1$), extracted from an antecedent precursor Work $W$ via basis compression ($\mathbf{CC} = \Phi_C(W)$) and generative expansion across the $M_{4 \times 4}$ derivation lattice (3,306+ entries across Conceptual, Logical, Physical, and Implementation layers), contains sufficient generative grammar to specify a functioning, coherent, scale-homologous runtime architecture without requiring continuous, unprovenanced reference to the precursor implementation.
+The central foundational assertion of the Palimpsestus architecture is that its constitutional corpus ($C_1$), extracted from an antecedent precursor Work $W$ via basis compression ($\mathbf{CC} = \Phi_C(W)$) and generative expansion across the $M_{4 \times 4}$ derivation lattice (3,417+ entries across Conceptual, Logical, Physical, and Implementation layers), contains sufficient generative grammar to specify a functioning, coherent, scale-homologous runtime architecture without requiring continuous, unprovenanced reference to the precursor implementation.
 
 This Crucible asks the core empirical and falsification question:
 > **Can an implementation derived clean-room from the pinned Palimpsestus derivation lattice reconstruct nontrivial architectural structures present in the precursor Work, without using that Work as an implementation blueprint?**

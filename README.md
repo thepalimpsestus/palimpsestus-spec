@@ -36,7 +36,7 @@ This repository contains the normative public law, mathematical foundation, gene
 * 📄 **[fold-receipt.schema.json](schemas/fold-receipt.schema.json):** Foundation Fold Receipt Schema.
 * 📄 **[migration-receipt.schema.json](schemas/migration-receipt.schema.json):** Ancestry-Preserving Constitutional Migration Receipt Schema.
 
-### Matrix Derivation Lattice (3,306+ Authored Entries)
+### Matrix Derivation Lattice (3,417+ Authored Entries)
 * 📄 **[system-foundations-conceptual-conceptual.md](system-foundations-conceptual-conceptual.md):** Conceptual Basis (CC)
 * 📄 **[system-foundations-logical-logical.md](system-foundations-logical-logical.md):** Logical Closure (LL)
 * 📄 **[system-foundations-physical-physical.md](system-foundations-physical-physical.md):** Physical Closure (PP)

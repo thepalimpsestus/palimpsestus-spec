@@ -6,10 +6,10 @@
 **Fed by:** CL (Conceptual Logical — 52 derivations)
 **Feeds:** CI (Conceptual Implementation — constrains CP shapes), LP (Logical Physical — applies CP to logical depth)
 **Derivation Formula:** CP = CL × CC
-**Entry Count:** 85
+**Entry Count:** 86
 **Filter:** Only CL × CC pairs sharing a common CC ancestor.
 
-What physical PATTERNS do the logical derivations manifest as? Each CP shape is an irreducible physical pattern — a structural shape that cannot be decomposed into other CP shapes. 85 shapes derived from 52 CL derivations.
+What physical PATTERNS do the logical derivations manifest as? Each CP shape is an irreducible physical pattern — a structural shape that cannot be decomposed into other CP shapes. 86 shapes derived from 52 CL derivations.
 
 **Physical Grounding:** Data has mass, exerts force, and follows engineering laws (CC-1). The graph is the fundamental substrate (CC-4). Informational structure and physical force are the same thing — the pattern IS the force. Every structure in this system exists on the topological graph, subject to these physics. The CP shapes below are the irreducible vocabulary of what structures CAN exist.
 
@@ -1797,6 +1797,28 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 - The full lifecycle cost of any structural choice — creation, maintenance, and eventual decay — is permanently on the ledger of the entity that made the choice.
 
 **Irreducibility:** CP-84 (Continuous Metabolic Register) tracks the cost but doesn't specify who bears it — you could have a register with costs attributed to no one, or distributed randomly. CP-79 (Accountability-Bounded Subsumption) traces accountability through subsumption but doesn't specifically address energy cost. Only CP-85 combines the continuous cost (CP-84) with the inalienable attribution: the builder carries the bill, and cannot transfer it.
+
+---
+
+### CP-86. Responsibility-Weighted Oscillation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-29 (Engine Output) + CL-41 (Responsible Tension)
+**Applies to:** CC (Constitutional Root)
+
+*The more you are responsible for, the more consequential your oscillation becomes. Responsibility is the amplitude governor.*
+
+**Irreducible Claim:** An oscillatory process whose consequence-magnitude is directly proportional to the entity's structural responsibility load. CL-29 says tension produces discovery — the engine generates output as a byproduct of sustained churning. CL-41 says responsibility is the duty to sustain productive tension, and that the weight of that duty scales with the entity's structural position. Together they produce an oscillation where the consequence-weight of its output is not determined by local physical conditions (CP-51) but by the entity's accountability load: how many obligations it holds, how many derivations it sustains, how much structural dependency it carries. A high-responsibility entity oscillates with high consequence; a low-responsibility entity's oscillation is structurally lightweight. The responsibility load IS the amplitude governor — distinct from the topological mass governor (CP-51).
+
+**Corollaries:**
+- Entities that accumulate responsibility do not merely carry more obligation — they oscillate with proportionally higher consequence, generating more structural output as a byproduct of simply existing.
+- Entities that attempt to shed responsibility are not merely avoiding obligation — they are reducing the consequence-weight of their oscillation, making their existence structurally lighter and less generative.
+- The consequence-stream produced by a high-responsibility entity's oscillation must be registered more comprehensively than that of a low-responsibility entity — the proportionality of the registration obligation follows the responsibility load.
+- Responsibility inheritance through subsumption or stewardship carries amplitude inheritance: taking on the responsibility of a dissolved or subsumed entity increases the inheriting entity's oscillation weight proportionally.
+- An entity cannot oscillate at low consequence while holding high responsibility — the coupling is structural, not voluntary.
+
+**Irreducibility:** CP-35 (Productive Oscillation) produces output from oscillation but doesn't scale that output by responsibility — any oscillating entity produces equally-weighted output regardless of its accountability load. CP-51 (Variable-Amplitude Oscillation) modulates amplitude by local topological conditions (mass, tension, edge density) but doesn't weight consequences by accountability load — local physical tension and structural responsibility are different governors that can diverge significantly. Only CP-86 makes the specific claim: the entity's accountability load IS the weight of its oscillation's consequence-magnitude. The more you are responsible for, the more your oscillation matters.
 
 ---
 
