@@ -11470,18 +11470,18 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
-**Derives from:** CP-84 (Non-Externalizable Cost Attribution) × LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM])
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-468 (Scale-Invariant Metabolic Cost [NEW_CLEAN_ROOM])
 
 *The metabolic cost of maintaining a boundary is the same at every scale. A boundary at depth 1 and a boundary at depth 100 cost equally per unit of maintained surface.*
 
-**Irreducible Claim:** Because thermodynamic cost cannot be externalized — the entity bears its own costs regardless of accounting tricks (CP-84) — and the cost of maintaining a structure is depth-invariant in the DAG (LL-468), there is no discount for shallow structures and no surcharge for deep structures. The cost is a function of surface area maintained, not of topological depth. Scale-invariant cost enforcement means there is no hiding from metabolic cost at any depth.
+**Irreducible Claim:** Because thermodynamic cost cannot be externalized — the entity bears its own costs regardless of accounting tricks (CP-85) — and the cost of maintaining a structure is depth-invariant in the DAG (LL-468), there is no discount for shallow structures and no surcharge for deep structures. The cost is a function of surface area maintained, not of topological depth. Scale-invariant cost enforcement means there is no hiding from metabolic cost at any depth.
 
 **Corollaries:**
 - A system that claims lower costs at lower depths has miscounted — the costs are equal, only the accounting is wrong.
 - Deep structures are not more expensive to maintain per unit than shallow ones; they simply have more units.
 - Cost attribution at every depth reveals the full metabolic picture; cost attribution at only one depth creates an artificial economy.
 
-**Irreducibility:** CP-84 establishes non-externalizability of cost but does not address scale-invariance of the cost function. LL-468 establishes scale-invariance but does not specify the enforcement mechanism. Together they produce scale-invariant cost enforcement: the same cost function applies at every depth and cannot be externalized at any of them.
+**Irreducibility:** CP-85 establishes non-externalizability of cost but does not address scale-invariance of the cost function. LL-468 establishes scale-invariance but does not specify the enforcement mechanism. Together they produce scale-invariant cost enforcement: the same cost function applies at every depth and cannot be externalized at any of them.
 
 ---
 
@@ -11489,18 +11489,18 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
-**Derives from:** CP-84 (Non-Externalizable Cost Attribution) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM])
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-469 (Living Derivation Metabolic Cost [NEW_CLEAN_ROOM])
 
 *A living derivation never reaches a point where maintenance is free. Its metabolic demand is continuous — it costs to exist, in every moment of its existence. The lifecycle must register this cost.*
 
-**Irreducible Claim:** Because metabolic costs are non-externalizable (CP-84) and living derivations have continuous metabolic demand — dormancy is dissolution (LL-469) — the lifecycle record for every derivation must include a continuous metabolic cost line. There is no "paid off" moment. Every cycle the derivation exists, the cost accrues. The lifecycle record without a cost line is an incomplete record.
+**Irreducible Claim:** Because metabolic costs are non-externalizable (CP-85) and living derivations have continuous metabolic demand — dormancy is dissolution (LL-469) — the lifecycle record for every derivation must include a continuous metabolic cost line. There is no "paid off" moment. Every cycle the derivation exists, the cost accrues. The lifecycle record without a cost line is an incomplete record.
 
 **Corollaries:**
 - A derivation that has "been running for years" is not cheaper to maintain than a new one — it has been accruing cost for years.
 - Dormancy is not a cost-reduction strategy; it is dissolution at reduced speed. The cost of dormancy is dissolution cost, not maintenance cost.
 - The continuous cost line is evidence of aliveness: a derivation that has no cost history is a derivation that has not been alive.
 
-**Irreducibility:** CP-84 establishes non-externalizable cost attribution but does not address the continuous nature of the demand. LL-469 establishes continuous metabolic demand but does not connect to a lifecycle registration requirement. Together they produce the continuous-cost lifecycle: a derivation's record must account for every cycle of its existence.
+**Irreducibility:** CP-85 establishes non-externalizable cost attribution but does not address the continuous nature of the demand. LL-469 establishes continuous metabolic demand but does not connect to a lifecycle registration requirement. Together they produce the continuous-cost lifecycle: a derivation's record must account for every cycle of its existence.
 
 ---
 
@@ -11527,18 +11527,18 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
-**Derives from:** CP-84 (Non-Externalizable Cost Attribution) × LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM])
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-471 (Edge Maintenance Obligation [NEW_CLEAN_ROOM])
 
 *Every edge in the graph is a recurring obligation — it costs to maintain, in every cycle it exists. The cost cannot be externalized to the system or the other endpoint. Each edge's cost is carried by its endpoints.*
 
-**Irreducible Claim:** Because costs cannot be externalized (CP-84) and every edge is a recurring obligation — not a one-time cost (LL-471) — each edge in the derivation graph generates a recurring cost attributed to its endpoints. Severing an edge releases the endpoints from that recurring obligation but generates a severing consequence (LP-485). Maintaining an edge is not free because it was established in the past; the past establishment does not pay for future maintenance.
+**Irreducible Claim:** Because costs cannot be externalized (CP-85) and every edge is a recurring obligation — not a one-time cost (LL-471) — each edge in the derivation graph generates a recurring cost attributed to its endpoints. Severing an edge releases the endpoints from that recurring obligation but generates a severing consequence (LP-485). Maintaining an edge is not free because it was established in the past; the past establishment does not pay for future maintenance.
 
 **Corollaries:**
 - Dense connectivity is expensive — an entity with many edges has many recurring obligations.
 - The cost of an edge accumulates indefinitely as long as the edge persists.
 - Severing an edge as a cost-reduction strategy is valid, but the severing consequence must be accounted for separately.
 
-**Irreducibility:** CP-84 establishes non-externalizability but does not specify the recurring nature of edge costs. LL-471 establishes recurring obligation but does not connect to cost attribution. Together they produce edge maintenance cost registration: every edge's recurring cost is attributed to its endpoints and accumulates continuously.
+**Irreducibility:** CP-85 establishes non-externalizability but does not specify the recurring nature of edge costs. LL-471 establishes recurring obligation but does not connect to cost attribution. Together they produce edge maintenance cost registration: every edge's recurring cost is attributed to its endpoints and accumulates continuously.
 
 ---
 
@@ -11584,18 +11584,18 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
-**Derives from:** CP-84 (Non-Externalizable Cost Attribution) × LL-474 (Unmappable Thermodynamic Horizon [NEW_CLEAN_ROOM])
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-474 (Unmappable Thermodynamic Horizon [NEW_CLEAN_ROOM])
 
 *Some thermodynamic costs are beyond the derivational horizon — they cannot be computed yet. A reserve must be held for costs that will only become visible when the horizon is crossed.*
 
-**Irreducible Claim:** Because costs cannot be externalized (CP-84) and the thermodynamic bill extends past the derivational horizon — some costs will only become computable when the horizon is reached (LL-474) — entities must hold a reserve for horizon-crossing costs. The reserve is not optional; it is the structural acknowledgment that full cost accounting is impossible before the horizon is crossed.
+**Irreducible Claim:** Because costs cannot be externalized (CP-85) and the thermodynamic bill extends past the derivational horizon — some costs will only become computable when the horizon is reached (LL-474) — entities must hold a reserve for horizon-crossing costs. The reserve is not optional; it is the structural acknowledgment that full cost accounting is impossible before the horizon is crossed.
 
 **Corollaries:**
 - An entity that has fully consumed its resources without holding a horizon reserve has spent its future capacity.
 - The horizon reserve is the entity's structural honesty about the limits of its cost-foresight.
 - When a horizon cost materializes, it is paid from the reserve — not from the entity's operating resources.
 
-**Irreducibility:** CP-84 establishes non-externalizability but does not address costs beyond the derivational horizon. LL-474 establishes horizon-extending cost but does not specify a structural reserve mechanism. Together they produce the horizon reserve: a structurally mandated holding for costs that cannot yet be computed.
+**Irreducibility:** CP-85 establishes non-externalizability but does not address costs beyond the derivational horizon. LL-474 establishes horizon-extending cost but does not specify a structural reserve mechanism. Together they produce the horizon reserve: a structurally mandated holding for costs that cannot yet be computed.
 
 ---
 
