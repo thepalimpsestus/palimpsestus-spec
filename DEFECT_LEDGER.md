@@ -1,10 +1,10 @@
 # Palimpsestus `v1.1.3` Master Defect Ledger
 
-This ledger tracks structural defects, citation mismatches, verifier category errors, verifier code enforcement gaps, and verification claim calibrations identified during clean-room reviews of `v1.1.0`, `v1.1.1`, `v1.1.2`, and `v1.1.3`. All 18 defects are explicitly closed and verified under the `v1.1.3` release gate.
+This ledger tracks structural defects, citation mismatches, verifier category errors, verifier code enforcement gaps, and verification claim calibrations identified during clean-room reviews of `v1.1.0`, `v1.1.1`, `v1.1.2`, and `v1.1.3`. All 18 defects are explicitly closed and verified under the `v1.1.3` release gate. D19, recorded in the `v1.1.4` correction, is open.
 
 ---
 
-## Master Defect Register (`D01` – `D18`)
+## Master Defect Register (`D01` – `D19`)
 
 | Defect ID | Description | Source | Affected Artifact | Repair Mechanism | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -26,6 +26,7 @@ This ledger tracks structural defects, citation mismatches, verifier category er
 | **D16** | Receipt JSON Schema validation (`jsonschema.validate()`) was not executed on JSON fixtures | Reviewer Pass | `validators/verify_dag_conformance.py` | Execute strict `jsonschema.validate()` on all receipt JSON objects against `schemas/*.schema.json` | **CLOSED** |
 | **D17** | `parent_witnesses` object not checked against target node computed digest in receipt validator | Reviewer Pass | `validators/verify_dag_conformance.py` | Require `witness.canonical_text_digest == recomputed_target_digest` & title witness for 100% of receipt parents | **CLOSED** |
 | **D18** | Lack of negative mutation test vector proving corrupted witness digest triggers failure | Reviewer Pass | `test-vectors/dag/invalid_witness_digest_sample.json` | Added Step `[1b/6]` executing negative mutation test vector; verifies non-zero exit on corrupted digest | **CLOSED** |
+| **D19** | 250 PP parent slots name a PL or LP whose text does not carry the claim the PP attributes to it, and no carrier was confirmed (248 other slots were re-pointed or filled in `v1.1.4`) | Concept check | `system-foundations-physical-physical.md` | Open: re-point each slot when a carrier is found, or restate the claim; list and method in `docs/audit/D19_PP_PARENT_RESIDUE.md` | **OPEN** |
 
 ---
 
