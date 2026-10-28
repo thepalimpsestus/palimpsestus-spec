@@ -1,10 +1,10 @@
 # Palimpsestus `v1.1.3` Master Defect Ledger
 
-This ledger tracks structural defects, citation mismatches, verifier category errors, verifier code enforcement gaps, and verification claim calibrations identified during clean-room reviews of `v1.1.0`, `v1.1.1`, `v1.1.2`, and `v1.1.3`. All 18 defects are explicitly closed and verified under the `v1.1.3` release gate. D19, recorded in the `v1.1.4` correction, is open.
+This ledger tracks structural defects, citation mismatches, verifier category errors, verifier code enforcement gaps, and verification claim calibrations identified during clean-room reviews of `v1.1.0`, `v1.1.1`, `v1.1.2`, and `v1.1.3`. All 18 defects are explicitly closed and verified under the `v1.1.3` release gate. D19, recorded in the `v1.1.4` correction, is open. D20, recorded in the same correction, is corrected and stays open until the corrected text has been checked independently.
 
 ---
 
-## Master Defect Register (`D01` – `D19`)
+## Master Defect Register (`D01` – `D20`)
 
 | Defect ID | Description | Source | Affected Artifact | Repair Mechanism | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -27,6 +27,7 @@ This ledger tracks structural defects, citation mismatches, verifier category er
 | **D17** | `parent_witnesses` object not checked against target node computed digest in receipt validator | Reviewer Pass | `validators/verify_dag_conformance.py` | Require `witness.canonical_text_digest == recomputed_target_digest` & title witness for 100% of receipt parents | **CLOSED** |
 | **D18** | Lack of negative mutation test vector proving corrupted witness digest triggers failure | Reviewer Pass | `test-vectors/dag/invalid_witness_digest_sample.json` | Added Step `[1b/6]` executing negative mutation test vector; verifies non-zero exit on corrupted digest | **CLOSED** |
 | **D19** | 250 PP parent slots name a PL or LP whose text does not carry the claim the PP attributes to it, and no carrier was confirmed (248 other slots were re-pointed or filled in `v1.1.4`) | Concept check | `system-foundations-physical-physical.md` | Open: re-point each slot when a carrier is found, or restate the claim; list and method in `docs/audit/D19_PP_PARENT_RESIDUE.md` | **OPEN** |
+| **D20** | $LP_{614}$, $LP_{616}$, $LP_{617}$ and $LP_{619}$ said their above parent $CP_{85}$ establishes retroactive cost registration; $CP_{85}$'s text establishes non-externalizable cost attributed along the derivation lineage, and no CP entry establishes retroactive registration | Concept check (`docs/audit/D19_PP_PARENT_RESIDUE.md`, related item 3) | `system-foundations-logical-physical.md` | Re-crossed $CP_{85}$ × $LL_{470}$, $LL_{472}$, $LL_{473}$, $LL_{475}$ on $CP_{85}$'s own text (`dag-crossing-method.md` Tests 1-3); $LP_{614}$ restated to what its two parents produce; $LP_{616}$, $LP_{617}$ and $LP_{619}$ marked BARREN in a Derivational State line and kept, their premises corrected; parents and ids unchanged; receipts in `docs/audit/D20_LP_CP85_RECROSS.md` | **OPEN** (closes on an independent check of the corrected text) |
 
 ---
 
