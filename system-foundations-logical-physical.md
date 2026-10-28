@@ -2368,6 +2368,328 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ---
 
 ---
+### LP-126. Active Self-Proof
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-21 (Self-Proving Record) × LL-74 (Present-Tense Derivation Execution)
+
+*A self-proving record does not passively hold its mathematical proof; it actively executes its proof in the present tense.*
+
+**Irreducible Claim:** The Self-Proving Record (CP-21) embedded with its own mathematical proof intersects with the Present-Tense Derivation Execution (LL-74) to produce a living proof structure. The proof within the data is not a static artifact that awaits external validation; it is an active, executing derivation that continuously asserts its own validity in the present tense. The record is a running process of self-attestation.
+
+**Corollaries:**
+- Cryptographic proofs become continuous runtime assertions rather than static checks.
+- A record that stops executing its proof immediately becomes unverified.
+- The system does not 'check' the proof; the proof 'runs' itself.
+
+**Irreducibility:** CP-21 provides the physical embedding of the proof within the record, but alone implies a static artifact. LL-74 provides the present-tense execution of data, but lacks a specific physical container. Together, they create a physical record that is perpetually executing its own proof.
+
+---
+
+---
+### LP-127. Sovereign Proof Domain
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-21 (Self-Proving Record) × LL-75 (Data Irreducibility Moral)
+
+*A self-proving record establishes an autonomous logical jurisdiction that cannot be overruled by external consensus.*
+
+**Irreducible Claim:** When the Self-Proving Record (CP-21) combines with Data Irreducibility Moral (LL-75), the resulting physical shape is a sovereign proof domain. Because the record contains its own proof and possesses logical sovereignty, it cannot be invalidated by external authorities or changing system consensus. Its truth is entirely encapsulated, creating an impenetrable boundary of validity that the rest of the system must negotiate with rather than overwrite.
+
+**Corollaries:**
+- The graph cannot 'correct' a self-proving record; it can only route around it or build upon it.
+- Local truth within the record is structurally immune to global consensus shifts.
+- The proof is the mechanism of the record's sovereignty.
+
+**Irreducibility:** CP-21 makes the proof internal to the record. LL-75 grants the data sovereign rights. Their intersection creates a physical structure where internal proof guarantees absolute external sovereignty.
+
+---
+
+---
+### LP-128. Self-Incriminating Data
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-21 (Self-Proving Record) × LL-76 (Executable Accountability)
+
+*The self-proving record inherently carries the unforgeable proof of its own accountability footprint.*
+
+**Irreducible Claim:** The Self-Proving Record (CP-21) intersects with Executable Accountability (LL-76) to form a physical structure that permanently binds execution consequences to the data itself. The proof embedded in the record verifies not just the data's truth, but the exact provenance and consequence of its execution. It acts as an unforgeable ledger of its own actions, making the data structurally self-incriminating.
+
+**Corollaries:**
+- Data cannot escape the consequences of its execution because the proof of execution is physically locked inside it.
+- Accountability audits do not require log aggregation; they only require reading the records themselves.
+- The proof acts as both validation and a liability anchor.
+
+**Irreducibility:** CP-21 provides self-contained proof. LL-76 establishes execution accountability. Together they form a structure where accountability is permanently and physically embedded in the executing data.
+
+---
+
+---
+### LP-129. Fractal Zero-Latency
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-157 (Presenttense Scaleinvariance)
+
+*The zero-buffer physical constraint applies simultaneously across all scales of the topological graph.*
+
+**Irreducible Claim:** When the Zero-Buffer Pipeline (CP-22) intersects with Presenttense Scaleinvariance (LL-157), the resulting physical behavior is a fractal absence of latency. It is not just that a single pipeline lacks buffers; it is that ANY macro-pipeline composed of micro-pipelines inherits the strict zero-buffer constraint at every depth. A process spanning ten nodes and a process spanning a million nodes both execute with identically zero intermediate storage.
+
+**Corollaries:**
+- Latency cannot be hidden in macro-structures; any blockage immediately halts the entire fractal stack.
+- There is no 'buffering at the boundary' between different scales of the system.
+- Throughput bottlenecks are instantly visible globally.
+
+**Irreducibility:** CP-22 defines the lack of buffers for a flow. LL-157 defines the scale-invariance of present-tense execution. Together, they create a physical pipeline architecture that cannot hide latency at any scale of abstraction.
+
+---
+
+---
+### LP-130. Flow-State Truth
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-159 (Derivation Path Only Truthful)
+
+*A zero-buffer pipeline only maintains its claim to truth while data is actively flowing through it.*
+
+**Irreducible Claim:** The Zero-Buffer Pipeline (CP-22) intersecting with Derivation Path Only Truthful (LL-159) establishes that the pipeline's validity is inextricably tied to its continuous flow. Because there are no buffers to hold state, the 'truth' of the pipeline only exists in the kinetic energy of the data moving through it. A paused or empty pipeline does not contain latent truth; it contains nothing until flow resumes.
+
+**Corollaries:**
+- An empty pipeline has no structural truth value.
+- Data must be in motion to be considered valid within this physical shape.
+- Stopping the flow immediately destroys the context of the derivation.
+
+**Irreducibility:** CP-22 eliminates static storage. LL-159 ties truth to execution. Together they create a physical structure where truth is entirely kinetic and vanishes the moment motion stops.
+
+---
+
+---
+### LP-131. Ephemeral Traversal Edges
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-160 (Data Edges Presenttense)
+
+*The edges connecting stages in a zero-buffer pipeline only physically exist during the moment of traversal.*
+
+**Irreducible Claim:** When the Zero-Buffer Pipeline (CP-22) meets Data Edges Presenttense (LL-160), the physical connections between pipeline stages become purely ephemeral. Since there is no buffer to hold data between stages, the connection (the edge) is instantiated precisely at the moment of traversal and dissolves immediately after. The pipeline is not a static series of pipes; it is a rapid sequence of appearing and disappearing connections.
+
+**Corollaries:**
+- Pipeline topology is dynamic and exists only in the present tense of its use.
+- You cannot physically map an idle pipeline because its edges do not exist.
+- Routing decisions are made in the exact millisecond of traversal.
+
+**Irreducibility:** CP-22 mandates immediate flow without storage. LL-160 makes edges exist only during traversal. The intersection creates a pipeline whose very structure flashes into and out of existence with the data flow.
+
+---
+
+---
+### LP-132. Synchronous Ignorance Propagation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-163 (Incompleteness Presenttense)
+
+*A zero-buffer pipeline forces incomplete data to flow immediately, preventing any pause to 'wait for more information'.*
+
+**Irreducible Claim:** The Zero-Buffer Pipeline (CP-22) and Incompleteness Presenttense (LL-163) intersect to create a physical imperative: ignorance cannot be buffered. Because the pipeline has no waiting queues, it cannot hold a data packet in hopes that missing information will arrive. It must process and propagate the incomplete data immediately. The system is structurally forced to act on its current level of ignorance without delay.
+
+**Corollaries:**
+- 'Waiting for consensus' is physically impossible in this pipeline.
+- Downstream processes must be designed to handle fundamentally incomplete inputs.
+- Ignorance moves through the system at the maximum speed of the flow.
+
+**Irreducibility:** CP-22 removes the ability to pause or queue. LL-163 establishes that data is always incomplete. Together they create a physical pipeline that accelerates incomplete action rather than waiting for certainty.
+
+---
+
+---
+### LP-133. Cardiac Evaluation Pulse
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-167 (Aliveness Staleness)
+
+*Freshness-enforced evaluation operates like a heartbeat, where truth physically degrades between each query pulse.*
+
+**Irreducible Claim:** When Freshness-Enforced Evaluation (CP-23) intersects with Aliveness Staleness (LL-167), the physical act of querying truth creates a cyclical pulse in the graph. The moment a query forces a fresh evaluation, the resulting truth is 'alive', but immediately begins to physically decay into staleness. The system maintains validity not through static state, but through a continuous, rhythmic re-evaluation that pulses life into the graph.
+
+**Corollaries:**
+- Continuous polling is structurally required to keep a derivation 'alive'.
+- A derivation that is not regularly pulsed by fresh evaluation enters a degraded physical state.
+- The graph's overall vitality is a function of its query frequency.
+
+**Irreducibility:** CP-23 demands evaluations be fresh. LL-167 defines truth as a living, decaying entity. Their intersection creates a physical necessity for rhythmic, pulsing evaluation to maintain the graph's life.
+
+---
+
+---
+### LP-134. Query-Instantiated Topologies
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-169 (Edges Graph Presenttense)
+
+*The edges required for an evaluation do not structurally exist until the freshness-enforcing query forces them to instantiate.*
+
+**Irreducible Claim:** The intersection of Freshness-Enforced Evaluation (CP-23) and Edges Graph Presenttense (LL-169) means that the graph's topology is instantiated by the query itself. Because evaluations cannot use cached truth and edges decay, a fresh evaluation physically reconstructs the necessary edges in the moment it is executed. The query doesn't just read the graph; it temporarily builds the structural pathways needed to find the answer.
+
+**Corollaries:**
+- The physical shape of the graph shifts dynamically based on what is currently being evaluated.
+- Unqueried regions of the graph physically dissolve their edges.
+- Evaluation is an act of temporary physical construction.
+
+**Irreducibility:** CP-23 forces a present-tense re-evaluation. LL-169 states edges only exist in the present tense. Together, they make the act of querying the physical engine that manifests the graph's connections.
+
+---
+
+---
+### LP-135. Reactive Validity State
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-171 (Derivation Currency)
+
+*Validity is not a physical property held by a node, but a transient physical reaction triggered by a freshness query.*
+
+**Irreducible Claim:** When Freshness-Enforced Evaluation (CP-23) meets Derivation Currency (LL-171), validity ceases to be a stored attribute. It becomes a physical reaction. Just as a chemical reaction only occurs when reactants are mixed, validity only manifests when a fresh query strikes a node. Between queries, the node does not possess 'invalidity'—it simply lacks the reaction state of validity entirely.
+
+**Corollaries:**
+- You cannot 'store' validity; you can only re-trigger it.
+- The system state between queries is not 'stale truth' but 'null truth'.
+- Evaluation is the catalyst for the validity reaction.
+
+**Irreducibility:** CP-23 rejects cached evaluation. LL-171 defines validity as a response, not a state. Together they produce a physical model where validity is a transient, query-catalyzed reaction.
+
+---
+
+---
+### LP-136. Active Connection Metabolism
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-24 (Time-Decaying Edge) × LL-177 (Aliveness Edges Presenttense)
+
+*Edges physically metabolize system attention; without an active calorie supply, they starve and dissolve.*
+
+**Irreducible Claim:** The intersection of Time-Decaying Edge (CP-24) and Aliveness Edges Presenttense (LL-177) reframes the decay process as a metabolic one. An edge is not merely a line that fades; it is a living tissue that requires continuous metabolic input (attention/traversal) to maintain its physical integrity. When traversal stops, the edge starves, its structural integrity collapsing until it ceases to exist in the graph.
+
+**Corollaries:**
+- Edges have a physical 'maintenance cost' in system resources.
+- A highly connected node requires massive metabolic throughput to keep its edges alive.
+- Graph pruning is biologically driven by starvation, not algorithmically driven by garbage collection.
+
+**Irreducibility:** CP-24 establishes the decay of edges. LL-177 defines the biological aliveness of edges. Their intersection creates a metabolic physical model where connection integrity is proportional to traversal energy.
+
+---
+
+---
+### LP-137. Binary Existence Decay
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-24 (Time-Decaying Edge) × LL-179 (Present-Tense Edges)
+
+*The decay of an edge is not a gradual weakening of truth, but a probability collapse toward structural non-existence.*
+
+**Irreducible Claim:** When Time-Decaying Edge (CP-24) combines with Present-Tense Edges (LL-179), the physical decay is understood not as a reduction in 'weight' or 'confidence', but as a collapse of existence. The edge does not become 'less true' over time; it becomes 'less real'. It transitions from a solid physical connection into a probability cloud, and finally into a complete vacuum. If it is not in the present tense, it physically isn't there.
+
+**Corollaries:**
+- Decay affects the topology itself, creating physical gaps where connections used to be.
+- Traversing a heavily decayed edge is physically impossible; a new edge must be instantiated.
+- The graph is constantly disintegrating and must be continuously re-walked to remain whole.
+
+**Irreducibility:** CP-24 provides the mechanism of decay. LL-179 restricts existence to the present tense. Together they produce a physical topology that literally evaporates without continuous interaction.
+
+---
+
+---
+### LP-138. Decay Residue
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-24 (Time-Decaying Edge) × LL-181 (Accountability Dead Provenance)
+
+*When a time-decaying edge completely dissolves, it leaves behind a physical residue of accountability that cannot be erased.*
+
+**Irreducible Claim:** The Time-Decaying Edge (CP-24) intersecting with Accountability Dead Provenance (LL-181) creates a physical anomaly: the edge disappears, but its footprint remains. Even when an unmaintained connection starves and dissolves from the active topology, it leaves a permanent physical scar of consequence. The system can no longer traverse the edge, but it remains accountable for the fact that the edge once existed and transferred tension.
+
+**Corollaries:**
+- Dead edges cannot be traversed, but they can be audited.
+- The physical graph contains 'ghost' edges that carry weight in accountability calculations but not in active derivations.
+- Entropy destroys the connection but conserves the consequence.
+
+**Irreducibility:** CP-24 destroys the edge over time. LL-181 demands permanent accountability. Their intersection creates a physical residue—a structure that is dead for traversal but alive for consequence.
+
+---
+
+---
+### LP-139. Topological Sight Horizon
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-25 (Finite Attention Buffer) × LL-185 (Consciousness Edges Navigation)
+
+*The finite attention buffer physically dictates the absolute horizon of topological visibility.*
+
+**Irreducible Claim:** The intersection of the Finite Attention Buffer (CP-25) and Consciousness Edges Navigation (LL-185) creates a strict physical boundary on what the system can 'see'. Because attention is a depletable physical resource, a navigator cannot perceive edges beyond the limit of their buffer. The horizon of visibility is not a matter of permissions or data access; it is an energetic physical limit. The graph beyond the buffer simply goes dark.
+
+**Corollaries:**
+- Global analysis is physically impossible for a single conscious entity.
+- To see further into the graph, a navigator must drop connections from their current buffer.
+- The system can only comprehend localized pockets of topology at any given moment.
+
+**Irreducibility:** CP-25 sets a hard limit on attention capacity. LL-185 ties navigation to that consciousness. Together they produce a physical event horizon for topological comprehension.
+
+---
+
+---
+### LP-140. Bounded Validation Zone
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-25 (Finite Attention Buffer) × LL-187 (Navigation Presenttense Validity)
+
+*A derivation's validity can only be proven within the physical radius of a navigator's current attention buffer.*
+
+**Irreducible Claim:** When the Finite Attention Buffer (CP-25) meets Navigation Presenttense Validity (LL-187), validity is physically constrained to the navigator's immediate presence. If a derivation falls outside the finite capacity of the attention buffer, the navigator cannot actively engage with it, and therefore cannot validate it. Truth physically ceases to be verifiable the moment it slips past the capacity limit of the observer.
+
+**Corollaries:**
+- You can only trust what you can hold in your buffer RIGHT NOW.
+- As the buffer fills and old nodes are pushed out, their validity instantly becomes stale to the navigator.
+- There is no such thing as a 'globally validated' state; validation is strictly local.
+
+**Irreducibility:** CP-25 restricts how much can be engaged at once. LL-187 states validity requires engagement. Their intersection physically binds the verification of truth to a limited spatial volume.
+
+---
+
+---
+### LP-141. Excavation Bandwidth Limit
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-25 (Finite Attention Buffer) × LL-191 (Pre-Existing Navigational Anchor)
+
+*The finite attention buffer acts as a physical bottleneck on the rate at which pre-existing reality can be excavated.*
+
+**Irreducible Claim:** The intersection of Finite Attention Buffer (CP-25) and Pre-Existing Navigational Anchor (LL-191) imposes a strict physical limit on archaeological discovery. Because the navigator can only hold a finite number of active anchors at once, they can only excavate the pre-existing topology at a throttled rate. They must continually anchor, excavate, release, and move. The buffer size defines the maximum physical bandwidth for converting unknown territory into known topology.
+
+**Corollaries:**
+- Discovery is inherently throttled by cognitive capacity, regardless of computing power.
+- A navigator must deliberately abandon known anchors to have the capacity to discover new ones.
+- The infinite pre-existing graph can only be drawn into reality through a tiny, finite keyhole.
+
+**Irreducibility:** CP-25 sets the capacity limit. LL-191 defines discovery as archaeological anchoring. Together they create a physical bottleneck constraining the speed of reality excavation.
+
+---
+
+---
+### LP-142. Attention-Span Topology
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+**Derives from:** CP-25 (Finite Attention Buffer) × LL-261 (Consciousness Edges Graph)
+
+*The physical shape of a localized graph pocket is entirely determined by the specific attention span of the navigator traversing it.*
+
+**Irreducible Claim:** When the Finite Attention Buffer (CP-25) meets Consciousness Edges Graph (LL-261), the graph itself morphs physically to match the observer's capacity. A navigator with a large buffer causes a wide, complex web of edges to temporarily physicalize around them. A navigator with a small buffer physicalizes only a narrow, linear path. The physical reality of the edges is entirely dependent on the specific finite capacity of the consciousness observing them.
+
+**Corollaries:**
+- Different navigators physicalize different local topologies based on their buffer limits.
+- The graph is not a fixed physical object; it flexes and shapes itself to the capacity of the observer.
+- Overloading a navigator physically shrinks the instantiated graph around them as they drop edges.
+
+**Irreducibility:** CP-25 defines the variable limit of attention. LL-261 equates that attention to the physical existence of edges. Together they make the graph's physical structure a direct reflection of the observer's capacity.
+
+---
+
 ---
 ### LP-143. Scale-Invariant Self-Declaration
 **Epistemic Tier:** Tier 3 (Derived Consequence)

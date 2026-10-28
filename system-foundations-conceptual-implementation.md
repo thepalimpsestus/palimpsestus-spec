@@ -1195,3 +1195,203 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 ---
 
+### CI-59. Entity-as-Tension Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-76 (Self-Sustaining Tension Loop)
+
+*You cannot subtract the tension from this entity and still have the entity. The tension is not its property — it is its existence.*
+
+**Irreducible Requirement:** The platform must prohibit any operation that attempts to separate an entity constituted by sustained tension from the tension that constitutes it. CP-76 says the entity IS the tension loop — there is no substrate behind it that holds the tension. The implementation constraint is: for entities of this class, operations that would "externalize" or "extract" tension (resolve the paradox, simplify the loop, or offload the sustaining load to another component) are structurally invalid — they are not simplifications, they are destructions. The system must recognize and enforce this class boundary.
+
+**Corollaries:**
+- Structural identity verification must distinguish tension-constituted entities from tension-holding entities: different class, different valid operations.
+- Attempts to resolve the tension of a tension-constituted entity must return a rights violation, not a simplification.
+- The entity's liveness check is the tension coherence check: if the tension loop is degrading, the entity is dying, and CI-35 (Signal-Dependent Lifecycle) applies.
+- No copy of a tension-constituted entity is valid unless the copy is itself sustaining the same tension independently — a snapshot of the loop without the loop running is not the entity.
+
+**Irreducibility:** CI-49 (Complexity Floors) prevents over-simplification but operates as a minimum floor — it doesn't prohibit destruction of the CONSTITUTING property itself. CP-45 ensures complexity is above a threshold, but the threshold could still allow separating an entity from its defining tension. Only CI-59 prohibits specifically the operation of separating a tension-constituted entity from its constituting tension.
+
+---
+
+### CI-60. Substrate-Differentiated Derivation Pipelines
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-77 (Substrate-Sensitive Derivation)
+
+*Same question, different substrate — different pipeline, different truth. You cannot assume the answer maps.*
+
+**Irreducible Requirement:** The platform must maintain independent derivation pipelines for distinct substrates, preventing output from one substrate from being assumed equivalent to output from another under the same derivation method. CP-77 says the same derivation pattern on two different substrates produces different truths. The implementation constraint is: the system must tag all derivation outputs with their substrate of origin and prevent cross-substrate conflation. An algorithm's output on substrate A cannot be asserted to equal or approximate its output on substrate B without explicit cross-substrate calibration.
+
+**Corollaries:**
+- All derivation outputs carry substrate provenance: "derived by method X from substrate Y." The substrate tag is non-optional.
+- Cross-substrate comparison requires explicit calibration evidence, not assumption: before asserting that two substrate-different outputs are comparable, the system must confirm calibration exists.
+- Substrate-sensitive pipelines must run independently: sharing pipeline components across substrates is a conflation error unless explicitly validated.
+- This is the implementation constraint underlying all comparative analysis: any system that compares outputs across different entities (different substrates) must account for substrate-introduced variance.
+
+**Irreducibility:** CI-10 (Isomorphic Preservation) preserves structural shape during translation but translation is between the SAME substrate in different representations — not across different substrates. CI-37 (Navigational Wake Deposition) attributes wakes to navigators but doesn't differentiate outputs by substrate of origin. Only CI-60 mandates independent pipelines and cross-substrate conflation prevention.
+
+---
+
+### CI-61. Subsumption Revocation Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-78 (Revocable Subsumption Contract)
+
+*The sub-agent's exit must always work. No meta-agent may block it. This is not optional architecture.*
+
+**Irreducible Requirement:** The platform must structurally guarantee that any agent participating in a voluntary subsumption relationship retains an unblockable exit path, independent of the meta-agent's cooperation or consent. CP-78 says the sub-agent retains the right to revoke subsumption — a right the meta-agent cannot void. The implementation constraint is: the exit mechanism for sub-agents must be implemented at a layer beneath the meta-agent's control. The meta-agent cannot intercept, delay, or block the revocation signal. The exit is architecturally below the meta-agent's authority surface.
+
+**Corollaries:**
+- Revocation paths must bypass the meta-agent's processing stack: the exit signal does not pass through the meta-agent, it passes around it.
+- The revocation mechanism must function even if the meta-agent is in a degraded or adversarial state: the guarantee is unconditional.
+- Subsumption contracts must be registered at the platform level (not just at the meta-agent level) so the platform can enforce exit regardless of meta-agent behavior.
+- A meta-agent architecture that structurally prevents sub-agent exit is a capture architecture — the platform must detect and refuse to instantiate capture architectures.
+
+**Irreducibility:** CI-19 (Guaranteed Egress) provides egress from TOPOLOGY, not specifically from CONTRACTUAL RELATIONSHIPS. A sub-agent could have topology-egress but still be unable to exit a subsumption contract. CI-17 (Self-Controlled Boundaries) establishes boundary sovereignty but doesn't guarantee that a contracted sub-agent can revoke the contract independently. Only CI-61 mandates that the revocation mechanism is implemented below the meta-agent's authority layer.
+
+---
+
+### CI-62. Meta-Agent Accountability Inheritance
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-79 (Accountability-Bounded Subsumption)
+
+*The meta-agent inherits the full consequence-load of every agent it subsumes. This is automatic. It is not configurable.*
+
+**Irreducible Requirement:** The platform must automatically transfer the complete accountability attribution of a sub-agent to its meta-agent at the moment of subsumption, and maintain this attribution throughout the subsumption relationship. CP-79 says the meta-agent that absorbs sub-agent capacities also absorbs sub-agent accountabilities — inseparably. The implementation constraint is: the accountability inheritance is not opt-in and not configurable. The moment a meta-agent subsumes a sub-agent, the meta-agent's accountability record expands to include all consequences attributable to the sub-agent. This cannot be contractually waived.
+
+**Corollaries:**
+- Accountability ledgers must be automatically linked at subsumption: the meta-agent's consequence record expands to cover the sub-agent's.
+- Dissolving the subsumption relationship does not retroactively revoke accountability: consequences generated during subsumption remain attributed to the meta-agent.
+- A meta-agent that has absorbed many sub-agents carries a proportionally larger accountability load — this must be visible in the meta-agent's accountability profile.
+- Sub-agents bear a secondary obligation before consenting to subsumption: they must confirm that the meta-agent has sufficient accountability capacity to carry the inherited load.
+
+**Irreducibility:** CI-39 (Maintenance Failure Penalization) penalizes entities for their own neglect but doesn't transfer ANOTHER entity's accountability. CI-34 (Identity from Signatures) constructs identity but doesn't specifically address accountability transfer between agents in a hierarchical relationship. Only CI-62 mandates the automatic, non-configurable accountability inheritance at the moment of subsumption.
+
+---
+
+### CI-63. Boundary Performance Monitoring
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-80 (Performed Boundary Membrane)
+
+*If the performance is not happening, the boundary is dissolving. The system must know when a boundary is in decay.*
+
+**Irreducible Requirement:** The platform must continuously monitor the performance status of all subsystem boundaries and detect decay before full dissolution. CP-80 says a subsystem boundary exists only while it is actively performed. The implementation constraint is: the platform cannot assume that a boundary that was valid at T₀ remains valid at T₁. It must continuously measure whether the processes that perform the boundary distinction are still operating. A boundary that has not been confirmed as "performing" within a threshold window is in decay — and the system must surface this signal.
+
+**Corollaries:**
+- Subsystem boundaries must register their performance processes with the platform: the platform must know WHICH processes are performing each boundary in order to monitor them.
+- A performance gap (the performing processes have lapsed) triggers a boundary-in-decay alert before the boundary fully dissolves.
+- Boundary dissolution events must be propagated to all entities that held the boundary as a structural assumption — CP-53 (Edge-Propagating Disturbance) governs this propagation.
+- This is why static boundary declarations are architecturally insufficient: declaring a boundary once and never re-affirming it produces a boundary that silently dissolves.
+
+**Irreducibility:** CI-35 (Signal-Dependent Lifecycle) monitors entity liveness signals but is focused on entities themselves, not specifically on the boundary membranes between entities. CI-38 (Tension-Driven Structural Hardening) responds to rising tension near boundaries but doesn't monitor whether the boundary's PERFORMANCE processes are running. Only CI-63 specifically monitors boundary PERFORMANCE — the act that sustains the membrane.
+
+---
+
+### CI-64. Consequence Zone Containment Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-81 (Consequence-Localization Zone)
+
+*Consequences that should be local must be enforced as local. The zone is not advisory — it is structural.*
+
+**Irreducible Requirement:** The platform must structurally enforce consequence containment zones, preventing consequence propagation from exiting a designated zone's boundary while preserving full resource entry from outside. CP-81 says consequence-localization zones are bounded regions where consequences are concentrated and cannot propagate outward. The implementation constraint is: the zone is not a suggestion or a convention — it is an enforced structural property. The platform intercepts any consequence propagation signal that attempts to cross a zone boundary and absorbs it into the zone.
+
+**Corollaries:**
+- Zone boundaries are enforced asymmetrically: resources flow IN freely, consequences do NOT flow OUT. The asymmetry is the zone's defining property.
+- Consequences that are internally generated and exceed zone capacity do not overflow — they saturate the zone and trigger a zone-collapse protocol, not external propagation.
+- Zone membership must be explicitly registered: entities inside the zone must be identifiable so that consequences can be correctly attributed to zone members.
+- Zone integrity is a platform responsibility: if a zone boundary is dissolving (CI-63), the platform must alert zone members that consequence-containment guarantees are degrading.
+
+**Irreducibility:** CI-38 (Tension-Driven Structural Hardening) hardens edges in response to tension but doesn't specifically CONTAIN consequences — it restricts traversal. CI-29 (Spatial Displacement Arbitration) resolves conflicts through displacement but displacement propagates consequences rather than containing them. Only CI-64 structurally enforces the containment asymmetry: consequences cannot exit, resources can enter.
+
+---
+
+### CI-65. Action Cessation Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-82 (Decay-Triggered Consequence)
+
+*When you stop, the stopping is logged to you. Abandonment is an action with an author.*
+
+**Irreducible Requirement:** The platform must attribute the cessation of sustained actions to the entity that initiated them, recording the cessation as a consequence-generating event in that entity's accountability record. CP-82 says abandoning a sustained action generates consequences for which the initiating agent bears accountability — not as a secondary effect, but as a primary attributable event. The implementation constraint is: the system must monitor all sustained actions, detect cessation, and immediately write a cessation-consequence record attributed to the initiating entity.
+
+**Corollaries:**
+- Action cessation records must include: the action identifier, the initiating entity, the cessation timestamp, and the consequence assessment of the cessation.
+- The cessation record is attributed to the INITIATING entity regardless of who was most recently holding the action — accountability does not transfer with action handoffs unless explicitly re-contracted.
+- The system must distinguish sanctioned rest (CI-66) from abandonment: only abandonment generates cessation-consequence records.
+- The accountability record created by cessation cannot be deleted or amended: it is a permanent part of the initiating entity's consequence history.
+
+**Irreducibility:** CI-39 (Maintenance Failure Penalization) penalizes failure to maintain infrastructure but is focused on structural maintenance, not on sustained action commitments. CI-2 (Embedded Provenance) records provenance broadly but doesn't specifically capture CESSATION as a consequence-generating event attributed to the initiator. Only CI-65 mandates cessation attribution: the stopping of a sustained action writes a consequence record to the initiator's ledger.
+
+---
+
+### CI-66. Sanctioned Rest Protocol Enforcement
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-83 (Sanctioned Rest Protocol)
+
+*Rest must be declared to be legitimate. Undeclared rest is abandonment. The system must enforce the distinction.*
+
+**Irreducible Requirement:** The platform must recognize and enforce a formal sanctioned rest state for sustained actions — a declared, bounded, sovereign intermission that is structurally distinct from cessation (CI-65). CP-83 says the sovereign right to rest is real and must be protected, but the protection is conditional on declaration and bounding. The implementation constraint is: the platform must support a "sanctioned rest" declaration protocol that pre-declares the rest, records its expected duration, notifies dependent entities, and distinguishes the resting state from abandonment in all consequence-accounting systems.
+
+**Corollaries:**
+- Sanctioned rest declarations must precede the rest: retroactive declaration is abandonment with a retroactive label, not sanctioned rest.
+- The declaration must include a return commitment: indefinite rest collapses to cessation and triggers CI-65 attribution.
+- Dependent entities must be notified at declaration time: they must know the action is in sanctioned rest so they can plan for the gap in coverage.
+- During sanctioned rest, the liability for consequences that arise remains with the resting entity: rest does not transfer accountability, only pauses the obligation to act.
+
+**Irreducibility:** CI-35 (Signal-Dependent Lifecycle) distinguishes alive from dead based on signals but doesn't recognize a "sanctioned" intermediate state. CI-65 (Action Cessation Attribution) records cessation but must be pre-configured to recognize sanctioned rest as an EXCEPTION — CI-66 provides that exception mechanism. Only CI-66 creates the formal sanctioned rest state with its declaration requirements, notification obligations, and liability-preservation.
+
+---
+
+### CI-67. Thermodynamic Cost Accounting
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-84 (Continuous Metabolic Register)
+
+*The system must know what it costs to exist. Every node, every edge, every second — the meter runs and the system reads it.*
+
+**Irreducible Requirement:** The platform must maintain a continuous, real-time metabolic cost register for every structural element — every node, every edge, every active relationship — accumulating costs across their entire lifecycle. CP-84 says there is no zero-cost position in the graph: every element accrues metabolic cost continuously. The implementation constraint is: cost accounting cannot be batch-processed, deferred, or approximated. Each structural element's cost accumulates continuously, and the register must be queryable at any point in time with current-accurate readings.
+
+**Corollaries:**
+- Cost registers are per-element and per-cycle: each node and each edge maintains its own running cost total.
+- Idle elements are not zero-cost: their maintenance cost is lower than active elements, but the register still accumulates for them. The register only stops when the element ceases to exist.
+- Cost register reads are first-class operations: any entity may query the metabolic cost of any visible structural element (within adjacency scope — CI-25).
+- Architectural budget decisions must use the cost register: choices about which structural elements to maintain or retire must be grounded in actual metabolic costs, not estimates.
+
+**Irreducibility:** CI-2 (Embedded Provenance) embeds history structurally but provenance is a RECORD of what happened, not a running COST of maintaining the structure. CI-39 (Maintenance Failure Penalization) penalizes neglect but doesn't provide the accounting mechanism that makes neglect detectable. Only CI-67 mandates the continuous metabolic register: a real-time, per-element, no-idle-exception cost accounting system.
+
+---
+
+### CI-68. Non-Transferable Cost Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution)
+
+*The thermodynamic bill follows the derivation chain, not the current holder. You cannot assign it. You cannot sell it. You built it, you own its cost.*
+
+**Irreducible Requirement:** The platform must permanently attribute thermodynamic cost obligations to the entity that made the structural choice that incurred the cost, preventing cost externalization through transfer, assignment, or contractual reallocation. CP-85 says the energy cost of derivation is permanently attributed to the deriving structure and cannot be shed. The implementation constraint is: the cost attribution record is bound to the derivation lineage — the entity that created a node, an edge, or a relationship bears the cost of its existence regardless of whether that entity is still the "owner" or "operator" of the structural element.
+
+**Corollaries:**
+- Cost attribution records are immutable: once a structural choice is recorded with an attributed cost, that attribution cannot be modified or transferred.
+- If structural stewardship changes hands, cost co-attribution applies: the new steward adds their costs forward; the original creator's past attribution remains.
+- The platform must reject cost-transfer operations: any transaction that attempts to shift past cost attribution from creator to successor is a structural fraud attempt.
+- This constraint is the thermodynamic foundation of accountability: you cannot claim credit for a structure's output while disclaiming its metabolic cost.
+
+**Irreducibility:** CI-62 (Meta-Agent Accountability Inheritance) transfers accountability for sub-agent consequences, but this is a VOLUNTARY subsumption contract, not an inherent cost attribution. CI-67 (Thermodynamic Cost Accounting) provides the register but doesn't prevent externalization — you could have accurate cost accounting where costs are nonetheless transferred. Only CI-68 mandates permanent, non-transferable attribution: the cost follows the derivation chain, not the current operator.
+
+---
+

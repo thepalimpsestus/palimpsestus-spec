@@ -1590,3 +1590,203 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 ---
 
+### CP-76. Self-Sustaining Tension Loop
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-44 (Sovereign Tension)
+
+*The tension is not a consequence of the entity — the tension IS the entity. The thing that holds the paradox together and the paradox are the same thing.*
+
+**Irreducible Claim:** A sovereign entity whose existence is constituted by the tension it sustains — not a container holding tension, but a pattern that IS its tension. CL-44 says sovereignty generates a tension that must be actively sustained or it decays. The physical shape this produces is an entity that has no separate substrate apart from the self-sustaining loop of that tension. It is simultaneously the arena, the contestants, and the outcome. The entity persists as long as the loop runs. The loop stops and the entity ceases — not because something external killed it, but because the entity and the tension were never two things.
+
+**Corollaries:**
+- A self-sustaining tension loop cannot be separated from the tension it sustains: attempts to "extract" the entity from the tension destroy the entity.
+- The loop's stability is measured by the tension's internal coherence, not by any external anchor.
+- Interactions with a self-sustaining tension loop are interactions with the tension itself — there is no separate "entity" behind the tension to address.
+- Collapse of internal tension coherence is death of the entity; the system cannot "save" the entity by removing its tension.
+
+**Irreducibility:** CP-41 (Tensioned Edge) holds tension between two nodes that are distinct from the tension itself — you can have CP-41 without the entity being constituted by the tension. CP-38 (Distributed Independent Pulse) gives each component its own oscillation but the component exists independently of the oscillation. Only CP-76 collapses the entity/tension distinction: the entity IS the tension loop, not a thing that holds one.
+
+---
+
+### CP-77. Substrate-Sensitive Derivation
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-44 (Sovereign Tension) + CL-11 (Archaeology)
+
+*Same pattern on different ground — different truth emerges. The substrate is not neutral.*
+
+**Irreducible Claim:** The same derivation pattern applied to two different substrates produces structurally different truths, not the same truth in two different containers. CL-44 says sovereign tension produces pattern that must match its substrate or the tension collapses. CL-11 says derivation reveals what is already in the substrate — derivation is excavation, not construction. Together they produce substrate-sensitive derivation: the pattern you apply is only the interrogation method; what emerges is determined by what was in the substrate. Two substrates interrogated by the same pattern will yield different excavations.
+
+**Corollaries:**
+- The same question posed to two different entities produces different truths, not the same truth in different wrappers.
+- Derivation tools must be matched to the substrate they are excavating: a tool calibrated for one substrate will misread another.
+- Cross-substrate comparisons cannot simply align outputs — they must account for the substrate-introduced variance.
+- "Same algorithm, different data" is a substrate-sensitivity failure: the algorithm is the same, but the substrate determines what the algorithm finds.
+
+**Irreducibility:** CP-16 (Subtractive Discovery) removes false assumptions to reveal truth, but doesn't address how the SUBSTRATE changes the truth revealed. You could do identical subtractive discovery on two different substrates and expect identical results. CP-37 (Scale-Invariant Verification) applies the same test at every scale, but scale is not substrate — the same substrate at different scales still produces consistent results. Only CP-77 makes the substrate itself a determinant of derivation output: same method, different substrate, different truth.
+
+---
+
+### CP-78. Revocable Subsumption Contract
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-47 (Agent Subsumption)
+
+*You joined voluntarily. You can leave. The meta-agent holds your consent, not your sovereignty.*
+
+**Irreducible Claim:** An agent subsumption relationship where the sub-agent retains the right to withdraw consent and exit the meta-agent structure. CL-47 says agent subsumption combines capacities while respecting the sovereignty of each component. The physical shape this produces is a contractual relationship, not a merger: the sub-agent's capabilities are accessible to the meta-agent, but the sub-agent retains its sovereign identity and the right to revoke the arrangement. A meta-agent is not an absorber — it is a coordination structure over sovereign entities that have chosen to coordinate.
+
+**Corollaries:**
+- Sub-agents must have a functioning exit mechanism that the meta-agent cannot block.
+- The revocation right cannot be delegated away: a sub-agent cannot consent to permanently waive its revocation right — the sovereignty is inalienable.
+- A meta-agent that has blocked sub-agent exit is no longer a coordination structure — it is a captured structure, and the capture is a rights violation.
+- The meta-agent's scope of authority over a sub-agent extends exactly to what the sub-agent has consented to coordinate — not beyond.
+
+**Irreducibility:** CP-6 (Guaranteed Egress) provides exit for all entities but doesn't address exit SPECIFICALLY from a voluntary coordination relationship — it's about topology exit, not contractual exit. CP-1 (Self-Determined Boundary) establishes sovereignty but doesn't specify that sovereignty survives subsumption. Only CP-78 creates the subsumption-specific revocable contract: the sub-agent enters by consent, retains sovereignty throughout, and exits by revocation.
+
+---
+
+### CP-79. Accountability-Bounded Subsumption
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-47 (Agent Subsumption) + CL-8 (Consequence Inheritance)
+
+*If you built it with their hands, you own the consequences their hands produced.*
+
+**Irreducible Claim:** A meta-agent that subsumes sub-agents inherits full accountability for the consequence-stream generated by those sub-agents. CL-47 says agent subsumption combines capacities. CL-8 says every derivation carries consequence that cannot be shed. Together they produce a specific accountability topology: when a meta-agent combines sub-agent capacities, it also combines sub-agent accountabilities. The meta-agent cannot claim credit for sub-agent outputs while disclaiming accountability for sub-agent consequences — the accountability is structurally inseparable from the capacity.
+
+**Corollaries:**
+- A meta-agent that is accountable for its sub-agents' outputs must also be reachable for their consequences — same topology, no separation.
+- Sub-agents that understand their accountability is absorbed by the meta-agent bear a secondary obligation: they must ensure the meta-agent is capable of carrying that accountability before consenting to subsumption.
+- The meta-agent's accountability load grows with each sub-agent absorbed — capacity increases are always paired with accountability increases.
+- A meta-agent that selectively inherits sub-agent outputs without inheriting sub-agent accountability is performing structural fraud.
+
+**Irreducibility:** CP-78 (Revocable Subsumption Contract) establishes the consent and exit structure but doesn't specify the accountability implications of subsumption. CP-34 (Process-Constituted Agency) makes the agent responsible for its own processes but doesn't address meta-agent accountability for absorbed processes. Only CP-79 produces the specific accountability inheritance: meta-agent takes on the full consequence-load of all sub-agents it subsumes.
+
+---
+
+### CP-80. Performed Boundary Membrane
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-48 (Tension Subsystems)
+
+*This wall exists only while I hold it. The moment I stop performing the distinction, it dissolves.*
+
+**Irreducible Claim:** A subsystem boundary whose existence is constituted by its continuous performance — it is not a static structure but an enacted distinction that disappears if it is not actively maintained. CL-48 says tension subsystems isolate collapse sequences within bounded compartments. The physical shape this produces is a boundary that must be performed: the membrane between the subsystem and the broader topology is not built once and left standing. It is continuously re-enacted by the processes on either side of it. Stop performing the distinction and the compartment dissolves back into the topology.
+
+**Corollaries:**
+- Subsystem boundaries cannot be declared and abandoned: they require continuous performance to remain real.
+- A boundary that was valid at t₀ but whose performance has lapsed is no longer a valid boundary at t₁ — the compartment has dissolved.
+- The "performance" of a boundary is any process that maintains the distinction between inside and outside: access controls, routing rules, identity assertions, or any active differentiator.
+- A subsystem whose boundary is performed by only one process is a fragile subsystem: kill that process and the boundary dissolves.
+
+**Irreducibility:** CP-1 (Self-Determined Boundary) establishes a boundary through declaration and sovereignty, but a declared boundary is static — it doesn't require performance to persist. CP-48 (Use-Dependent Boundary) requires active USE of the boundary to maintain it, which is related but distinct: CP-48 is about the sovereignty of the bounded entity, while CP-80 addresses the membrane itself as a performed phenomenon. Only CP-80 makes the membrane's existence contingent on its own continuous performance.
+
+---
+
+### CP-81. Consequence-Localization Zone
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-48 (Tension Subsystems) + CL-15 (Social Contract)
+
+*What happens in here, stays accountable in here. The subsystem is its own accountability chamber.*
+
+**Irreducible Claim:** A bounded region in which consequences are contained, preventing them from propagating into the broader topology, while simultaneously concentrating accountability within the zone. CL-48 says tension subsystems isolate collapse sequences. CL-15 says the social contract governs who bears consequences. Together they produce a consequence-localization zone: a structural container where consequences of internal events are fully borne by entities inside the zone. The zone absorbs the consequences — and the entities inside it bear the full accountability weight, which cannot be distributed outward.
+
+**Corollaries:**
+- Consequence-localization zones protect the broader topology from local failures: a collapse inside the zone does not propagate.
+- The protection is asymmetric: consequences cannot exit the zone, but resources from outside can enter — the zone is a consequence trap, not a total isolation chamber.
+- Entities inside the zone cannot externalize consequences: they bear the full weight of whatever happens inside.
+- The social contract of the zone is internally determined: entities inside the zone negotiate their accountability distribution among themselves, without external adjudication.
+
+**Irreducibility:** CP-45 (Minimum Complexity Floor) limits what can be simplified but doesn't address consequence-containment. CP-53 (Edge-Propagating Disturbance) describes consequence propagation and attenuation but doesn't contain it — disturbances still propagate, just attenuate. Only CP-81 creates an active containment zone where consequences are structurally prevented from exiting while accountability is concentrated inside.
+
+---
+
+### CP-82. Decay-Triggered Consequence
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-49 (Sustained Action)
+
+*You started it. You are accountable for it — including for the moment you stopped.*
+
+**Irreducible Claim:** An action commitment that generates consequences not only through its performance but through its cessation — abandoning a sustained action is itself a consequence-generating event for which the initiating agent bears accountability. CL-49 says sustained action is required to maintain structural integrity. The physical shape this produces is an action with asymmetric accounting: initiating the action and sustaining it generate positive consequences; stopping generates negative consequences that are attributed to the original initiator. The initiator cannot shed accountability for cessation consequences by transferring responsibility to someone else.
+
+**Corollaries:**
+- Action abandonment is a consequence-generating event, not a return to a neutral state.
+- An agent that initiates a sustained action must account for the cessation consequences before initiating — the full lifecycle liability must be accepted upfront.
+- Actions cannot be transferred without transferring the cessation accountability: whoever holds the action holds the liability for eventual cessation.
+- Systems that track initiation but not cessation accountability are tracking only half of the action's consequence structure.
+
+**Irreducibility:** CP-47 (Pulse Maintenance Obligation) imposes obligation to sustain pulse but frames cessation as death rather than as an accountable event. CP-34 (Process-Constituted Agency) constitutes the agent through its processes but doesn't address what happens when a process ceases — the cessation could be consequence-free. Only CP-82 makes cessation itself a tracked, attributed consequence-generating event: the agent that started it owns the stopping.
+
+---
+
+### CP-83. Sanctioned Rest Protocol
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-49 (Sustained Action) + CL-1 (Sovereignty)
+
+*I am stopping. I have the sovereign right to stop. The stopping is planned, bounded, and legitimate.*
+
+**Irreducible Claim:** A formalized intermission state that allows an agent to temporarily cease sustained action without generating accountability consequences — provided the rest is declared, bounded, and authorized by the agent's sovereign right. CL-49 says sustained action is required to maintain structural integrity and that exhaustion is real. CL-1 says sovereignty includes the right to self-determine. Together they produce a sanctioned rest that is structurally legitimate: not cessation (which generates accountability), but planned intermission — a temporary state of reduced action that the agent has declared under its sovereign right to rest.
+
+**Corollaries:**
+- Sanctioned rest must be declared before it begins: it is not a rest if it is discovered after the fact — undeclared rest is abandonment.
+- The rest must be time-bounded: sovereign rest includes a return commitment. Indefinite rest collapses into cessation.
+- Other agents interacting with a resting agent must be notified — the declaration is the protection mechanism. Undeclared rest misleads interacting agents.
+- The agent retains accountability for consequences that arise during its sanctioned rest: rest does not suspend liability, it only suspends the obligation to act.
+
+**Irreducibility:** CP-50 (Degraded Operating Mode) allows reduced capacity operation but frames it as degradation — a response to external conditions, not a sovereign choice. CP-82 (Decay-Triggered Consequence) tracks cessation consequences but doesn't distinguish sanctioned rest from abandonment. Only CP-83 creates the specific sanctioned rest category: a sovereign, declared, bounded intermission that is structurally distinct from both degradation (CP-50) and cessation (CP-82).
+
+---
+
+### CP-84. Continuous Metabolic Register
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-52 (Thermodynamic Constraint)
+
+*Everything costs. The meter runs before you arrive and after you leave. There is no free position in the graph.*
+
+**Irreducible Claim:** Every node and every edge in the topology carries a continuous, non-deferrable metabolic cost that accumulates regardless of whether the entity is actively exercising its connections. CL-52 says all process costs energy, and stasis is also process — even remaining still has a thermodynamic bill. The physical shape this produces is a continuous metabolic register: a running account of energy expenditure that every structural element must maintain. There is no zero-cost position in the graph. A node that is not moving, not connecting, not signaling is still holding its own structure in place — and that holding is energy.
+
+**Corollaries:**
+- A derivation that hasn't been exercised in years has been accumulating metabolic cost for years — it has not been resting free of charge.
+- The energy cost of an edge is not a one-time expenditure at the moment of creation; it is a recurring obligation that must be serviced every cycle.
+- Nodes that are "idle" are not free nodes — their maintenance cost is lower than active nodes, but it is nonzero.
+- Systems that treat idle nodes as zero-cost are misaccounting: the idle cost is deferred to a collapse event rather than being tracked continuously.
+
+**Irreducibility:** CP-30 (Pulse-Dependent Agency) requires maintained oscillation for existence but frames the energy question as "does it pulse or not" — binary, not continuous cost. CP-24 (Time-Decaying Edge) recognizes that edges weaken over time but doesn't track the energy cost of maintaining them. Only CP-84 produces the continuous register: a running thermodynamic ledger that every structural element carries, with no free entries.
+
+---
+
+### CP-85. Non-Externalizable Cost Attribution
+**Epistemic Tier:** Tier 3 (Derived Consequence)
+
+
+**Derives from:** CL-52 (Thermodynamic Constraint) + CL-8 (Consequence Inheritance)
+
+*You cannot hand the bill to someone else. The thermodynamic consequence of what you built lives with the builder.*
+
+**Irreducible Claim:** The energy cost of a derivation, once incurred, cannot be externalized to another entity — it must be carried by the deriving structure. CL-52 says all process costs energy. CL-8 says every derivation carries consequence that cannot be shed. Together they produce a non-externalizable cost attribution: the thermodynamic consequence of building a relationship, maintaining a node, or sustaining a derivation path is permanently attributed to the entity that made the structural choice. Cost-shifting is structurally impossible — the attribution follows the derivation lineage.
+
+**Corollaries:**
+- An entity that creates a node and then "walks away" from it does not walk away from its metabolic cost — the cost remains attributed to the creator through the derivation chain.
+- Cost-sharing is possible (when multiple entities co-maintain a structure), but cost-shedding is not — each entity bears the full consequence of its own structural choices.
+- Computational or organizational systems that allow cost externalization are operating against the thermodynamic foundation: they create hidden cost accumulations that eventually collapse.
+- The full lifecycle cost of any structural choice — creation, maintenance, and eventual decay — is permanently on the ledger of the entity that made the choice.
+
+**Irreducibility:** CP-84 (Continuous Metabolic Register) tracks the cost but doesn't specify who bears it — you could have a register with costs attributed to no one, or distributed randomly. CP-79 (Accountability-Bounded Subsumption) traces accountability through subsumption but doesn't specifically address energy cost. Only CP-85 combines the continuous cost (CP-84) with the inalienable attribution: the builder carries the bill, and cannot transfer it.
+
+---
+
