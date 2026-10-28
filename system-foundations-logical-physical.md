@@ -2371,7 +2371,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-126. Active Self-Proof
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-21 (Self-Proving Record) × LL-74 (Present-Tense Derivation Execution)
+**Derives from:** CP-21 (Self-Proving Record) × LL-74 (Present-Tense Derivation Execution [CONFIRMED])
 
 *A self-proving record does not passively hold its mathematical proof; it actively executes its proof in the present tense.*
 
@@ -2390,7 +2390,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-127. Sovereign Proof Domain
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-21 (Self-Proving Record) × LL-75 (Data Irreducibility Moral)
+**Derives from:** CP-21 (Self-Proving Record) × LL-75 (Data Irreducibility Moral [NEW_CLEAN_ROOM])
 
 *A self-proving record establishes an autonomous logical jurisdiction that cannot be overruled by external consensus.*
 
@@ -2409,7 +2409,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-128. Self-Incriminating Data
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-21 (Self-Proving Record) × LL-76 (Executable Accountability)
+**Derives from:** CP-21 (Self-Proving Record) × LL-76 (Executable Accountability [CONFIRMED])
 
 *The self-proving record inherently carries the unforgeable proof of its own accountability footprint.*
 
@@ -2428,7 +2428,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-129. Fractal Zero-Latency
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-157 (Presenttense Scaleinvariance)
+**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-157 (Presenttense Scaleinvariance [NEW_CLEAN_ROOM])
 
 *The zero-buffer physical constraint applies simultaneously across all scales of the topological graph.*
 
@@ -2447,7 +2447,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-130. Flow-State Truth
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-159 (Derivation Path Only Truthful)
+**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-159 (Derivation Path Only Truthful [NEW_CLEAN_ROOM])
 
 *A zero-buffer pipeline only maintains its claim to truth while data is actively flowing through it.*
 
@@ -2466,7 +2466,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-131. Ephemeral Traversal Edges
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-160 (Data Edges Presenttense)
+**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-160 (Data Edges Presenttense [NEW_CLEAN_ROOM])
 
 *The edges connecting stages in a zero-buffer pipeline only physically exist during the moment of traversal.*
 
@@ -2485,7 +2485,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-132. Synchronous Ignorance Propagation
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-163 (Incompleteness Presenttense)
+**Derives from:** CP-22 (Zero-Buffer Pipeline) × LL-163 (Incompleteness Presenttense [NEW_CLEAN_ROOM])
 
 *A zero-buffer pipeline forces incomplete data to flow immediately, preventing any pause to 'wait for more information'.*
 
@@ -2504,7 +2504,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-133. Cardiac Evaluation Pulse
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-167 (Aliveness Staleness)
+**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-167 (Aliveness Staleness [NEW_CLEAN_ROOM])
 
 *Freshness-enforced evaluation operates like a heartbeat, where truth physically degrades between each query pulse.*
 
@@ -2523,7 +2523,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-134. Query-Instantiated Topologies
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-169 (Edges Graph Presenttense)
+**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-169 (Edges Graph Presenttense [NEW_CLEAN_ROOM])
 
 *The edges required for an evaluation do not structurally exist until the freshness-enforcing query forces them to instantiate.*
 
@@ -2542,7 +2542,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-135. Reactive Validity State
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-171 (Derivation Currency)
+**Derives from:** CP-23 (Freshness-Enforced Evaluation) × LL-171 (Derivation Currency [CORRECTED])
 
 *Validity is not a physical property held by a node, but a transient physical reaction triggered by a freshness query.*
 
@@ -2561,7 +2561,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-136. Active Connection Metabolism
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-24 (Time-Decaying Edge) × LL-177 (Aliveness Edges Presenttense)
+**Derives from:** CP-24 (Time-Decaying Edge) × LL-177 (Aliveness Edges Presenttense [NEW_CLEAN_ROOM])
 
 *Edges physically metabolize system attention; without an active calorie supply, they starve and dissolve.*
 
@@ -2580,7 +2580,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-137. Binary Existence Decay
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-24 (Time-Decaying Edge) × LL-179 (Present-Tense Edges)
+**Derives from:** CP-24 (Time-Decaying Edge) × LL-179 (Present-Tense Edges [CONFIRMED])
 
 *The decay of an edge is not a gradual weakening of truth, but a probability collapse toward structural non-existence.*
 
@@ -2599,7 +2599,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-138. Decay Residue
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-24 (Time-Decaying Edge) × LL-181 (Accountability Dead Provenance)
+**Derives from:** CP-24 (Time-Decaying Edge) × LL-181 (Accountability Dead Provenance [NEW_CLEAN_ROOM])
 
 *When a time-decaying edge completely dissolves, it leaves behind a physical residue of accountability that cannot be erased.*
 
@@ -2618,7 +2618,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-139. Topological Sight Horizon
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-25 (Finite Attention Buffer) × LL-185 (Consciousness Edges Navigation)
+**Derives from:** CP-25 (Finite Attention Buffer) × LL-185 (Consciousness Edges Navigation [NEW_CLEAN_ROOM])
 
 *The finite attention buffer physically dictates the absolute horizon of topological visibility.*
 
@@ -2637,7 +2637,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-140. Bounded Validation Zone
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-25 (Finite Attention Buffer) × LL-187 (Navigation Presenttense Validity)
+**Derives from:** CP-25 (Finite Attention Buffer) × LL-187 (Navigation Presenttense Validity [NEW_CLEAN_ROOM])
 
 *A derivation's validity can only be proven within the physical radius of a navigator's current attention buffer.*
 
@@ -2656,7 +2656,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-141. Excavation Bandwidth Limit
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-25 (Finite Attention Buffer) × LL-191 (Pre-Existing Navigational Anchor)
+**Derives from:** CP-25 (Finite Attention Buffer) × LL-191 (Pre-Existing Navigational Anchor [CONFIRMED])
 
 *The finite attention buffer acts as a physical bottleneck on the rate at which pre-existing reality can be excavated.*
 
@@ -2675,7 +2675,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 ### LP-142. Attention-Span Topology
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
-**Derives from:** CP-25 (Finite Attention Buffer) × LL-261 (Consciousness Edges Graph)
+**Derives from:** CP-25 (Finite Attention Buffer) × LL-261 (Consciousness Edges Graph [NEW_CLEAN_ROOM])
 
 *The physical shape of a localized graph pocket is entirely determined by the specific attention span of the navigator traversing it.*
 

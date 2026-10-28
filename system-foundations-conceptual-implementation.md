@@ -1204,7 +1204,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *You cannot subtract the tension from this entity and still have the entity. The tension is not its property — it is its existence.*
 
-**Irreducible Requirement:** The platform must prohibit any operation that attempts to separate an entity constituted by sustained tension from the tension that constitutes it. CP-76 says the entity IS the tension loop — there is no substrate behind it that holds the tension. The implementation constraint is: for entities of this class, operations that would "externalize" or "extract" tension (resolve the paradox, simplify the loop, or offload the sustaining load to another component) are structurally invalid — they are not simplifications, they are destructions. The system must recognize and enforce this class boundary.
+**Irreducible Claim:** The platform must prohibit any operation that attempts to separate an entity constituted by sustained tension from the tension that constitutes it. CP-76 says the entity IS the tension loop — there is no substrate behind it that holds the tension. The implementation constraint is: for entities of this class, operations that would "externalize" or "extract" tension (resolve the paradox, simplify the loop, or offload the sustaining load to another component) are structurally invalid — they are not simplifications, they are destructions. The system must recognize and enforce this class boundary.
 
 **Corollaries:**
 - Structural identity verification must distinguish tension-constituted entities from tension-holding entities: different class, different valid operations.
@@ -1225,7 +1225,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *Same question, different substrate — different pipeline, different truth. You cannot assume the answer maps.*
 
-**Irreducible Requirement:** The platform must maintain independent derivation pipelines for distinct substrates, preventing output from one substrate from being assumed equivalent to output from another under the same derivation method. CP-77 says the same derivation pattern on two different substrates produces different truths. The implementation constraint is: the system must tag all derivation outputs with their substrate of origin and prevent cross-substrate conflation. An algorithm's output on substrate A cannot be asserted to equal or approximate its output on substrate B without explicit cross-substrate calibration.
+**Irreducible Claim:** The platform must maintain independent derivation pipelines for distinct substrates, preventing output from one substrate from being assumed equivalent to output from another under the same derivation method. CP-77 says the same derivation pattern on two different substrates produces different truths. The implementation constraint is: the system must tag all derivation outputs with their substrate of origin and prevent cross-substrate conflation. An algorithm's output on substrate A cannot be asserted to equal or approximate its output on substrate B without explicit cross-substrate calibration.
 
 **Corollaries:**
 - All derivation outputs carry substrate provenance: "derived by method X from substrate Y." The substrate tag is non-optional.
@@ -1246,7 +1246,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *The sub-agent's exit must always work. No meta-agent may block it. This is not optional architecture.*
 
-**Irreducible Requirement:** The platform must structurally guarantee that any agent participating in a voluntary subsumption relationship retains an unblockable exit path, independent of the meta-agent's cooperation or consent. CP-78 says the sub-agent retains the right to revoke subsumption — a right the meta-agent cannot void. The implementation constraint is: the exit mechanism for sub-agents must be implemented at a layer beneath the meta-agent's control. The meta-agent cannot intercept, delay, or block the revocation signal. The exit is architecturally below the meta-agent's authority surface.
+**Irreducible Claim:** The platform must structurally guarantee that any agent participating in a voluntary subsumption relationship retains an unblockable exit path, independent of the meta-agent's cooperation or consent. CP-78 says the sub-agent retains the right to revoke subsumption — a right the meta-agent cannot void. The implementation constraint is: the exit mechanism for sub-agents must be implemented at a layer beneath the meta-agent's control. The meta-agent cannot intercept, delay, or block the revocation signal. The exit is architecturally below the meta-agent's authority surface.
 
 **Corollaries:**
 - Revocation paths must bypass the meta-agent's processing stack: the exit signal does not pass through the meta-agent, it passes around it.
@@ -1267,7 +1267,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *The meta-agent inherits the full consequence-load of every agent it subsumes. This is automatic. It is not configurable.*
 
-**Irreducible Requirement:** The platform must automatically transfer the complete accountability attribution of a sub-agent to its meta-agent at the moment of subsumption, and maintain this attribution throughout the subsumption relationship. CP-79 says the meta-agent that absorbs sub-agent capacities also absorbs sub-agent accountabilities — inseparably. The implementation constraint is: the accountability inheritance is not opt-in and not configurable. The moment a meta-agent subsumes a sub-agent, the meta-agent's accountability record expands to include all consequences attributable to the sub-agent. This cannot be contractually waived.
+**Irreducible Claim:** The platform must automatically transfer the complete accountability attribution of a sub-agent to its meta-agent at the moment of subsumption, and maintain this attribution throughout the subsumption relationship. CP-79 says the meta-agent that absorbs sub-agent capacities also absorbs sub-agent accountabilities — inseparably. The implementation constraint is: the accountability inheritance is not opt-in and not configurable. The moment a meta-agent subsumes a sub-agent, the meta-agent's accountability record expands to include all consequences attributable to the sub-agent. This cannot be contractually waived.
 
 **Corollaries:**
 - Accountability ledgers must be automatically linked at subsumption: the meta-agent's consequence record expands to cover the sub-agent's.
@@ -1288,7 +1288,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *If the performance is not happening, the boundary is dissolving. The system must know when a boundary is in decay.*
 
-**Irreducible Requirement:** The platform must continuously monitor the performance status of all subsystem boundaries and detect decay before full dissolution. CP-80 says a subsystem boundary exists only while it is actively performed. The implementation constraint is: the platform cannot assume that a boundary that was valid at T₀ remains valid at T₁. It must continuously measure whether the processes that perform the boundary distinction are still operating. A boundary that has not been confirmed as "performing" within a threshold window is in decay — and the system must surface this signal.
+**Irreducible Claim:** The platform must continuously monitor the performance status of all subsystem boundaries and detect decay before full dissolution. CP-80 says a subsystem boundary exists only while it is actively performed. The implementation constraint is: the platform cannot assume that a boundary that was valid at T₀ remains valid at T₁. It must continuously measure whether the processes that perform the boundary distinction are still operating. A boundary that has not been confirmed as "performing" within a threshold window is in decay — and the system must surface this signal.
 
 **Corollaries:**
 - Subsystem boundaries must register their performance processes with the platform: the platform must know WHICH processes are performing each boundary in order to monitor them.
@@ -1309,7 +1309,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *Consequences that should be local must be enforced as local. The zone is not advisory — it is structural.*
 
-**Irreducible Requirement:** The platform must structurally enforce consequence containment zones, preventing consequence propagation from exiting a designated zone's boundary while preserving full resource entry from outside. CP-81 says consequence-localization zones are bounded regions where consequences are concentrated and cannot propagate outward. The implementation constraint is: the zone is not a suggestion or a convention — it is an enforced structural property. The platform intercepts any consequence propagation signal that attempts to cross a zone boundary and absorbs it into the zone.
+**Irreducible Claim:** The platform must structurally enforce consequence containment zones, preventing consequence propagation from exiting a designated zone's boundary while preserving full resource entry from outside. CP-81 says consequence-localization zones are bounded regions where consequences are concentrated and cannot propagate outward. The implementation constraint is: the zone is not a suggestion or a convention — it is an enforced structural property. The platform intercepts any consequence propagation signal that attempts to cross a zone boundary and absorbs it into the zone.
 
 **Corollaries:**
 - Zone boundaries are enforced asymmetrically: resources flow IN freely, consequences do NOT flow OUT. The asymmetry is the zone's defining property.
@@ -1330,7 +1330,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *When you stop, the stopping is logged to you. Abandonment is an action with an author.*
 
-**Irreducible Requirement:** The platform must attribute the cessation of sustained actions to the entity that initiated them, recording the cessation as a consequence-generating event in that entity's accountability record. CP-82 says abandoning a sustained action generates consequences for which the initiating agent bears accountability — not as a secondary effect, but as a primary attributable event. The implementation constraint is: the system must monitor all sustained actions, detect cessation, and immediately write a cessation-consequence record attributed to the initiating entity.
+**Irreducible Claim:** The platform must attribute the cessation of sustained actions to the entity that initiated them, recording the cessation as a consequence-generating event in that entity's accountability record. CP-82 says abandoning a sustained action generates consequences for which the initiating agent bears accountability — not as a secondary effect, but as a primary attributable event. The implementation constraint is: the system must monitor all sustained actions, detect cessation, and immediately write a cessation-consequence record attributed to the initiating entity.
 
 **Corollaries:**
 - Action cessation records must include: the action identifier, the initiating entity, the cessation timestamp, and the consequence assessment of the cessation.
@@ -1351,7 +1351,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *Rest must be declared to be legitimate. Undeclared rest is abandonment. The system must enforce the distinction.*
 
-**Irreducible Requirement:** The platform must recognize and enforce a formal sanctioned rest state for sustained actions — a declared, bounded, sovereign intermission that is structurally distinct from cessation (CI-65). CP-83 says the sovereign right to rest is real and must be protected, but the protection is conditional on declaration and bounding. The implementation constraint is: the platform must support a "sanctioned rest" declaration protocol that pre-declares the rest, records its expected duration, notifies dependent entities, and distinguishes the resting state from abandonment in all consequence-accounting systems.
+**Irreducible Claim:** The platform must recognize and enforce a formal sanctioned rest state for sustained actions — a declared, bounded, sovereign intermission that is structurally distinct from cessation (CI-65). CP-83 says the sovereign right to rest is real and must be protected, but the protection is conditional on declaration and bounding. The implementation constraint is: the platform must support a "sanctioned rest" declaration protocol that pre-declares the rest, records its expected duration, notifies dependent entities, and distinguishes the resting state from abandonment in all consequence-accounting systems.
 
 **Corollaries:**
 - Sanctioned rest declarations must precede the rest: retroactive declaration is abandonment with a retroactive label, not sanctioned rest.
@@ -1372,7 +1372,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *The system must know what it costs to exist. Every node, every edge, every second — the meter runs and the system reads it.*
 
-**Irreducible Requirement:** The platform must maintain a continuous, real-time metabolic cost register for every structural element — every node, every edge, every active relationship — accumulating costs across their entire lifecycle. CP-84 says there is no zero-cost position in the graph: every element accrues metabolic cost continuously. The implementation constraint is: cost accounting cannot be batch-processed, deferred, or approximated. Each structural element's cost accumulates continuously, and the register must be queryable at any point in time with current-accurate readings.
+**Irreducible Claim:** The platform must maintain a continuous, real-time metabolic cost register for every structural element — every node, every edge, every active relationship — accumulating costs across their entire lifecycle. CP-84 says there is no zero-cost position in the graph: every element accrues metabolic cost continuously. The implementation constraint is: cost accounting cannot be batch-processed, deferred, or approximated. Each structural element's cost accumulates continuously, and the register must be queryable at any point in time with current-accurate readings.
 
 **Corollaries:**
 - Cost registers are per-element and per-cycle: each node and each edge maintains its own running cost total.
@@ -1393,7 +1393,7 @@ The CI layer performs **convergence**: 85 physical shapes compress into 66 imple
 
 *The thermodynamic bill follows the derivation chain, not the current holder. You cannot assign it. You cannot sell it. You built it, you own its cost.*
 
-**Irreducible Requirement:** The platform must permanently attribute thermodynamic cost obligations to the entity that made the structural choice that incurred the cost, preventing cost externalization through transfer, assignment, or contractual reallocation. CP-85 says the energy cost of derivation is permanently attributed to the deriving structure and cannot be shed. The implementation constraint is: the cost attribution record is bound to the derivation lineage — the entity that created a node, an edge, or a relationship bears the cost of its existence regardless of whether that entity is still the "owner" or "operator" of the structural element.
+**Irreducible Claim:** The platform must permanently attribute thermodynamic cost obligations to the entity that made the structural choice that incurred the cost, preventing cost externalization through transfer, assignment, or contractual reallocation. CP-85 says the energy cost of derivation is permanently attributed to the deriving structure and cannot be shed. The implementation constraint is: the cost attribution record is bound to the derivation lineage — the entity that created a node, an edge, or a relationship bears the cost of its existence regardless of whether that entity is still the "owner" or "operator" of the structural element.
 
 **Corollaries:**
 - Cost attribution records are immutable: once a structural choice is recorded with an attributed cost, that attribution cannot be modified or transferred.
