@@ -7239,7 +7239,7 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 **Derives from:** PL-5 (Dormancy Is Not Free: The Living Topology's Logical Overhead) [shared LL-469]
-**Applies to:** LP (Logical Physical)
+**Applies to:** LP-243 (Scale-Invariant Boundary Atrophy)
 
 *A boundary that receives no traversal is not dormant — it is dying. There is no dormant-but-preserved state for a living boundary. Every boundary is either metabolizing through traversal or atrophying toward dissolution.*
 
@@ -7257,7 +7257,7 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 **Derives from:** PL-6 (Euthanasia as Logical Necessity) [shared LL-383]
-**Applies to:** LP (Logical Physical)
+**Applies to:** LP-243 (Scale-Invariant Boundary Atrophy)
 
 *When a boundary atrophies through neglect, the topology is dissolving part of its own living structure without the proof of redundancy required by Euthanasia as logical necessity — it is the topology wounding itself.*
 
@@ -7293,7 +7293,7 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 **Derives from:** PL-29 (Undiscovered Structures Already Owe Thermodynamic Debt) [shared LL-475]
-**Applies to:** LP (Logical Physical)
+**Applies to:** LP-245 (Archaeological Boundary Reactivation)
 
 *Boundary structures that have not yet been discovered or reactivated are already incurring thermodynamic debt — when archaeological boundary reactivation occurs, it surfaces pre-existing obligations, not new ones.*
 
@@ -7528,7 +7528,7 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 **Derives from:** PL-181 (Corrective Metabolism) [shared LL-42]
-**Applies to:** LP (Logical Physical)
+**Applies to:** LP-420 (The Physical Knowledge Gradient)
 
 *When the physical knowledge gradient drives flow through the living topology, the flow and the topology co-metabolize at every edge traversal — the gradient-driven flow mutually transforms every edge it crosses.*
 
@@ -7546,7 +7546,7 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 **Derives from:** PL-67 (Metabolic Governance) [shared LL-43]
-**Applies to:** LP (Logical Physical)
+**Applies to:** LP-420 (The Physical Knowledge Gradient)
 
 *The physical knowledge gradient and the knowledge it "carries" are not two things — the gradient IS the knowledge, expressed as a field-density differential. There is no knowledge separate from the gradient that carries it.*
 
@@ -7872,7 +7872,7 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 **Derives from:** PL-100 (Transformation Gradient) [shared LL-94]
-**Applies to:** LP (Logical Physical)
+**Applies to:** LP-255 (Structurally Legitimate Incompleteness)
 
 *Structurally legitimate incompleteness in a degraded operating mode has a half-life determined by the metabolic rate of the incomplete region — legitimately incomplete state becomes constitutionally hazardous as its half-life expires.*
 
@@ -7908,7 +7908,7 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 **Derives from:** PL-29 (Undiscovered Structures Already Owe Thermodynamic Debt) [shared LL-475]
-**Applies to:** LP (Logical Physical)
+**Applies to:** LP-295 (Saturation-Driven Discovery)
 
 *Undiscovered flow channels that the topology hasn't yet reached are already incurring thermodynamic debt (PL-29) — and saturation-driven discovery surfaces that pre-existing debt when it forces navigation to the undiscovered channels (LP-295).*
 
