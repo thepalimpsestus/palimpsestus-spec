@@ -11508,7 +11508,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
-**Derives from:** LP-619 (Pre-Discovery Retroactive Cost Registration) × LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM])
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-470 (Derivation Path Has Mass [NEW_CLEAN_ROOM])
 
 *The derivation path that leads to a conclusion carries more structural cost than the bare conclusion. The path is mass — it costs more to maintain than the claim alone.*
 
@@ -11546,7 +11546,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
-**Derives from:** LP-619 (Pre-Discovery Retroactive Cost Registration) × LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
 
 *The thermodynamic bill is due now. It cannot be deferred to the future. Retroactive registration is for past costs that were always accruing; it does not create a grace period for present costs.*
 
@@ -11565,7 +11565,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
-**Derives from:** LP-619 (Pre-Discovery Retroactive Cost Registration) × LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
 
 *The creator of a derivation owns its thermodynamic cost — including the cost of consequences the derivation generates. The cost is retroactively attributed to the creator, not to whoever inherits the derivation.*
 
@@ -11603,7 +11603,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
-**Derives from:** LP-619 (Pre-Discovery Retroactive Cost Registration) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM])
+**Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM])
 
 *A derivation that was discovered today was incurring cost since its natural origin — before discovery. Retroactive registration must reach back to the natural origin, not to the discovery date.*
 
