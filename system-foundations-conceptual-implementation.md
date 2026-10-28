@@ -9,7 +9,7 @@
 **Entry Count:** 66
 **Filter:** Only CP × CL pairs sharing a common CC ancestor.
 
-What CONSTRAINTS do the physical shapes impose on any implementation? Each CI requirement is an irreducible obligation that any builder must satisfy — not where files live (project structure), not what logical rules apply (CL), not what physical shapes exist (CP) — what requirements cannot be negotiated away. 66 requirements derived from 85 CP shapes.
+What CONSTRAINTS do the physical shapes impose on any implementation? Each CI requirement is an irreducible obligation that any builder must satisfy — not where files live (project structure), not what logical rules apply (CL), not what physical shapes exist (CP) — what requirements cannot be negotiated away. 66 requirements derived from 86 CP shapes.
 
 The CI layer performs **convergence**: 86 physical shapes compress into 66 implementation requirements because multiple shapes can impose the same engineering constraint. Where CP answers "what shapes exist?", CI answers "what must any builder satisfy?" The relationship is many-to-one: multiple physical realities can demand the same implementation truth.
 
