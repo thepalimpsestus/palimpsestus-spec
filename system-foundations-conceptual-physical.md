@@ -6,7 +6,7 @@
 **Fed by:** CL (Conceptual Logical — 52 derivations)
 **Feeds:** CI (Conceptual Implementation — constrains CP shapes), LP (Logical Physical — applies CP to logical depth)
 **Derivation Formula:** CP = CL × CC
-**Entry Count:** 75
+**Entry Count:** 85
 **Filter:** Only CL × CC pairs sharing a common CC ancestor.
 
 What physical PATTERNS do the logical derivations manifest as? Each CP shape is an irreducible physical pattern — a structural shape that cannot be decomposed into other CP shapes. 85 shapes derived from 52 CL derivations.

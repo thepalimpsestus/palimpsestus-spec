@@ -11,7 +11,7 @@ What physical STRUCTURES emerge when CP shapes combine with LL theorems? These a
 
 LP relates to CP the way LL relates to CL: CP defines the irreducible physical vocabulary; LP defines what physical behavior emerges when that vocabulary is constrained by second-order logical derivations.
 
-**Entry Count:** 701
+**Entry Count:** 702
 **Source Pairs:** 1,042 CP × LL pairs (filtered from 31,289 raw by shared CL lineage)
 **Survival Rate:** ~34% (403 / 1,042 after irreducibility pass and gap remediation)
 
