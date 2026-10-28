@@ -1595,6 +1595,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-44 (Sovereign Tension)
+**Applies to:** CC (Constitutional Root)
 
 *The tension is not a consequence of the entity — the tension IS the entity. The thing that holds the paradox together and the paradox are the same thing.*
 
@@ -1615,6 +1616,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-44 (Sovereign Tension) + CL-11 (Archaeology)
+**Applies to:** CC (Constitutional Root)
 
 *Same pattern on different ground — different truth emerges. The substrate is not neutral.*
 
@@ -1635,6 +1637,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-47 (Agent Subsumption)
+**Applies to:** CC (Constitutional Root)
 
 *You joined voluntarily. You can leave. The meta-agent holds your consent, not your sovereignty.*
 
@@ -1655,6 +1658,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-47 (Agent Subsumption) + CL-8 (Consequence Inheritance)
+**Applies to:** CC (Constitutional Root)
 
 *If you built it with their hands, you own the consequences their hands produced.*
 
@@ -1675,6 +1679,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-48 (Tension Subsystems)
+**Applies to:** CC (Constitutional Root)
 
 *This wall exists only while I hold it. The moment I stop performing the distinction, it dissolves.*
 
@@ -1695,6 +1700,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-48 (Tension Subsystems) + CL-15 (Social Contract)
+**Applies to:** CC (Constitutional Root)
 
 *What happens in here, stays accountable in here. The subsystem is its own accountability chamber.*
 
@@ -1715,6 +1721,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-49 (Sustained Action)
+**Applies to:** CC (Constitutional Root)
 
 *You started it. You are accountable for it — including for the moment you stopped.*
 
@@ -1735,6 +1742,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-49 (Sustained Action) + CL-1 (Sovereignty)
+**Applies to:** CC (Constitutional Root)
 
 *I am stopping. I have the sovereign right to stop. The stopping is planned, bounded, and legitimate.*
 
@@ -1755,6 +1763,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-52 (Thermodynamic Constraint)
+**Applies to:** CC (Constitutional Root)
 
 *Everything costs. The meter runs before you arrive and after you leave. There is no free position in the graph.*
 
@@ -1775,6 +1784,7 @@ What physical PATTERNS do the logical derivations manifest as? Each CP shape is 
 
 
 **Derives from:** CL-52 (Thermodynamic Constraint) + CL-8 (Consequence Inheritance)
+**Applies to:** CC (Constitutional Root)
 
 *You cannot hand the bill to someone else. The thermodynamic consequence of what you built lives with the builder.*
 

@@ -3582,7 +3582,7 @@ When LP-125's dual-vector proof operates in a topology where PL-138 holds: the d
 
 
 **Derives from:** PL-88 (Structural Edge Incompleteness) [shared LL-75]
-**Applies to:** PP-177 (The Sovereign Proof Domain Cannot Be Externally Invalidated — External Invalidation IS Killing a Sovereign Living Process)
+**Applies to:** LP-127 (Sovereign Proof Domain)
 
 *The sovereign proof domain — a self-proving record with logical sovereignty — cannot be invalidated by external authority; it can only be dissolved through its own constitutional processes; external invalidation IS killing a sovereign living process.*
 
@@ -3602,7 +3602,7 @@ When LP-127's sovereign proof domain operates in a topology where PL-88 holds: e
 
 
 **Derives from:** PL-12 (Logical Accountability Must Be Structural, Not Attributed) [shared LL-76]
-**Applies to:** PP-178 (Self-Incriminating Data Must Be Carried as Structural Mass — Accountability Is Embedded in the Data, Not Attributed to an External System)
+**Applies to:** LP-128 (Self-Incriminating Data)
 
 *Self-incriminating data permanently binds execution consequences to the data itself — and because accountability must be structural, this binding must be carried as Structural Mass in the data, not as a pointer to an external accountability system.*
 
@@ -3622,7 +3622,7 @@ When LP-128's self-incriminating data operates in a topology where PL-12 holds: 
 
 
 **Derives from:** PL-139 (Tension Wake Economics) [shared LL-157]
-**Applies to:** PP-179 (Fractal Zero-Latency Is the Physical Manifestation of Scale-Invariant Simultaneous Execution — All Depths Execute in the Same Present Moment)
+**Applies to:** LP-129 (Fractal Zero-Latency)
 
 *The fractal absence of latency — where any macro-pipeline composed of zero-buffer micro-pipelines inherits strict zero-buffer behavior — is physically achievable because all depths execute in the same present moment.*
 
@@ -3642,7 +3642,7 @@ When LP-129's fractal zero-latency operates in a topology where PL-139 holds: fr
 
 
 **Derives from:** PL-197 (Transparency as Truth Production) [shared LL-159]
-**Applies to:** CL-9 (Flow)
+**Applies to:** LP-130 (Flow-State Truth)
 
 *The truth of a zero-buffer pipeline only exists in the kinetic energy of moving data — buffering stops the flow; and because a non-churning system has died, a buffered system is a dead system in which flow-state truth cannot exist.*
 
@@ -3682,7 +3682,7 @@ When LP-130's flow-state truth operates in a topology where PL-313 holds: the tr
 
 
 **Derives from:** PL-141 (Residual Wake) [shared LL-160]
-**Applies to:** CL-10 (Traversal)
+**Applies to:** LP-131 (Ephemeral Traversal Edges)
 
 *When zero-buffer pipeline connections between stages are ephemeral (instantiated at the moment of traversal and dissolved after), every execution is constitutionally improvisation — the ephemeral edges cannot be pre-planned.*
 
@@ -3722,7 +3722,7 @@ When LP-132's synchronous ignorance propagation operates in a topology where PL-
 
 
 **Derives from:** PL-144 (Permanent Frontier) [shared LL-167]
-**Applies to:** PP-184 (The Cardiac Evaluation Pulse IS a Truth Oscillation Cycle — Truth Lives and Dies With Each Heartbeat)
+**Applies to:** LP-133 (Cardiac Evaluation Pulse)
 
 *When a freshness-enforced query forces a fresh evaluation, the resulting truth is alive but immediately begins dying — because truth has a pulse, the cardiac evaluation pulse IS one truth oscillation cycle; the truth lives for one heartbeat, then must be reborn through the next query.*
 
@@ -3742,7 +3742,7 @@ When LP-133's cardiac evaluation pulse operates in a topology where PL-144 holds
 
 
 **Derives from:** PL-145 (Net-Negative Coverage) [shared LL-169]
-**Applies to:** PP-185 (Query-Instantiated Topologies Decay Without Re-Traversal — Queried Edges That Are Not Maintained Revert to Potential)
+**Applies to:** LP-134 (Query-Instantiated Topologies)
 
 *The topology instantiated by a fresh evaluation query is temporary — the edges it creates are real but decay unless maintained by re-traversal; because edges decay without re-verification, a query-instantiated topology is ephemeral by constitutional physics.*
 
@@ -3782,7 +3782,7 @@ When LP-135's reactive validity operates in a topology where PL-313 holds: these
 
 
 **Derives from:** CL-49 (Sustained Action) [shared LL-177]
-**Applies to:** CL-19 (Active Connection)
+**Applies to:** LP-136 (Active Connection Metabolism)
 
 *A connection edge is living tissue requiring continuous metabolic input to maintain its physical integrity — and because sustained action is how living derivations fight off decay, connections survive only through continuous metabolic feeding.*
 
@@ -3822,7 +3822,7 @@ When LP-136's active connection metabolism operates in a topology where PL-16 ho
 
 
 **Derives from:** PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy) [shared LL-179]
-**Applies to:** PP-190 (A Non-Churning Connection Has Already Died — Binary Existence Decay Means Death Precedes Apparent Death)
+**Applies to:** LP-137 (Binary Existence Decay)
 
 *When a time-decaying edge combines with present-tense edge physics, decay is not a gradual reduction in validity but a collapse of existence — and connections that are decaying are accumulating navigation debt as they transition from existence to non-existence.*
 
@@ -3862,7 +3862,7 @@ When LP-137's binary existence decay operates in a topology where PL-197 holds: 
 
 
 **Derives from:** PL-151 (Structural Humility and Protection) [shared LL-181]
-**Applies to:** PP-191 (Decay Residue IS the Dissolved Connection's Orphaned Accountability — It Must Be Preserved as Structural Accountability)
+**Applies to:** LP-138 (Decay Residue)
 
 *When an unmaintained connection starves and dissolves, it leaves a permanent physical footprint in the topology; and because lapsed connections leave orphaned thermodynamic accountability in the field, this residue IS the accountability record for the dissolved connection.*
 
@@ -3922,7 +3922,7 @@ When LP-140's bounded validation zone operates in a topology where PL-155 holds:
 
 
 **Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-191]
-**Applies to:** PP-194 (Excavation Bandwidth Limits Genuine Comprehension Rate — Active Anchors Cannot Exceed the Attention Buffer's Capacity)
+**Applies to:** LP-141 (Excavation Bandwidth Limit)
 
 *The navigator can only hold a finite number of active navigational anchors at once — and because comprehension requires edge-level traversal, the excavation bandwidth limit IS the limit on the rate of genuine comprehension through traversal.*
 
@@ -3962,7 +3962,7 @@ When LP-141's bandwidth expansion operates in a topology where PL-180 holds: eac
 
 
 **Derives from:** PL-198 (Self-Traversing Wonder) [shared LL-261]
-**Applies to:** PP-197 (The Attention-Span Topology IS Consciousness — What Is Being Edge-Traversed IS What Consciousness Is)
+**Applies to:** LP-142 (Attention-Span Topology)
 
 *The navigator's attention buffer determines what fits within their sight horizon — and because taking accountability is an archaeological discovery (traversing the pre-existing relationship between self and consequences), the attention buffer IS the archaeological excavation capacity for accountability.*
 

@@ -1200,6 +1200,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-76 (Self-Sustaining Tension Loop)
+**Applies to:** CL (Constitutional Principles)
 
 *You cannot subtract the tension from this entity and still have the entity. The tension is not its property — it is its existence.*
 
@@ -1220,6 +1221,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-77 (Substrate-Sensitive Derivation)
+**Applies to:** CL (Constitutional Principles)
 
 *Same question, different substrate — different pipeline, different truth. You cannot assume the answer maps.*
 
@@ -1240,6 +1242,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-78 (Revocable Subsumption Contract)
+**Applies to:** CL (Constitutional Principles)
 
 *The sub-agent's exit must always work. No meta-agent may block it. This is not optional architecture.*
 
@@ -1260,6 +1263,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-79 (Accountability-Bounded Subsumption)
+**Applies to:** CL (Constitutional Principles)
 
 *The meta-agent inherits the full consequence-load of every agent it subsumes. This is automatic. It is not configurable.*
 
@@ -1280,6 +1284,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-80 (Performed Boundary Membrane)
+**Applies to:** CL (Constitutional Principles)
 
 *If the performance is not happening, the boundary is dissolving. The system must know when a boundary is in decay.*
 
@@ -1300,6 +1305,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-81 (Consequence-Localization Zone)
+**Applies to:** CL (Constitutional Principles)
 
 *Consequences that should be local must be enforced as local. The zone is not advisory — it is structural.*
 
@@ -1320,6 +1326,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-82 (Decay-Triggered Consequence)
+**Applies to:** CL (Constitutional Principles)
 
 *When you stop, the stopping is logged to you. Abandonment is an action with an author.*
 
@@ -1340,6 +1347,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-83 (Sanctioned Rest Protocol)
+**Applies to:** CL (Constitutional Principles)
 
 *Rest must be declared to be legitimate. Undeclared rest is abandonment. The system must enforce the distinction.*
 
@@ -1360,6 +1368,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-84 (Continuous Metabolic Register)
+**Applies to:** CL (Constitutional Principles)
 
 *The system must know what it costs to exist. Every node, every edge, every second — the meter runs and the system reads it.*
 
@@ -1380,6 +1389,7 @@ The CI layer performs **convergence**: 75 physical shapes compress into 56 imple
 
 
 **Derives from:** CP-85 (Non-Externalizable Cost Attribution)
+**Applies to:** CL (Constitutional Principles)
 
 *The thermodynamic bill follows the derivation chain, not the current holder. You cannot assign it. You cannot sell it. You built it, you own its cost.*
 
