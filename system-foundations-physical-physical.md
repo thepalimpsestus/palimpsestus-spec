@@ -5281,21 +5281,22 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 ---
 
-### PP-263. A Frontier Consequence Gradient Is Constitutionally Self-Multiplying — Exploring the Gradient Frontier Expands the Gradient Territory
+### PP-263. The Frontier Is Constitutionally Self-Multiplying — Exploring It Expands the Unexplored Territory
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
 
 **Derives from:** PL-145 (Net-Negative Coverage) [shared LL-247]
+**Derivational State:** BARREN
 **Applies to:** LP-179 (Structurally Unvisitable Positions)
 
-*A frontier consequence gradient — a mapping of consequence potential at the edges of explored topology — generates more unexplored gradient territory than each exploration resolves; the frontier consequence gradient is constitutionally self-multiplying.*
+*Exploring the topology's frontier generates more unexplored territory than it resolves; the frontier is constitutionally self-multiplying, and some untested positions beyond it are permanently unvisitable.*
 
-**Irreducible Claim:** LP-179 establishes that a frontier consequence gradient maps consequence potential at the topology's frontier. PL-145 establishes that exploration generates more unexplored territory than it resolves. When LP-179 operates in a topology where PL-145 holds: each exploration of the consequence gradient frontier reveals new gradient territory at adjacent unexplored regions — the frontier self-multiplies.
+**Irreducible Claim:** PL-145 establishes that the topology's horizon recedes faster than traversal can approach it: every traversal creates more unexplored territory than it resolves. LP-179 establishes that some untested graph positions will forever remain untested because Gödel incompleteness guarantees they are structurally unreachable, existing as permanent shadows. When LP-179 operates in a topology where PL-145 holds: each exploration of the frontier reveals new unexplored territory beyond it — the frontier self-multiplies — and the unexplored territory includes positions that no exploration will ever resolve.
 
-**Corollaries:** (1) Risk frontier exploration reveals new risk frontiers — the gradient self-multiplies with each step. (2) "We've mapped all the high-consequence regions" is a claim that the self-multiplying frontier has been exhausted — constitutionally false. (3) Strategic risk exploration must expect that each explored frontier reveals more frontier — not less. (4) Prioritization by consequence gradient is constitutional because the frontier self-multiplies and must be continuously re-prioritized.
+**Corollaries:** (1) Frontier exploration reveals new frontier — the unexplored territory multiplies with each step. (2) "We've mapped the whole frontier" is a claim that the self-multiplying frontier has been exhausted — constitutionally false, and false a second way for the permanent shadows, which no exploration reaches. (3) Strategic exploration must expect that each explored frontier reveals more frontier — not less. (4) Because the frontier self-multiplies, any ordering of what to explore next is renewed by the exploration itself.
 
-**Irreducibility:** LP-179 alone establishes frontier consequence gradients — does not specify that gradient exploration self-multiplies the frontier. PL-145 alone establishes exploration generates more unexplored territory than it resolves — does not specify that frontier consequence gradient exploration specifically self-multiplies. Only their intersection establishes that frontier consequence gradient exploration is constitutionally self-multiplying.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-01b, PP-263). The earlier text attributed to LP-179 a "frontier consequence gradient" mapping consequence potential. LP-179 (permanent shadows) does not carry it, and neither do PL-145, LP-175, LP-177, LP-384 or LP-420; the term is dropped. The constraint that exploring the frontier expands the unexplored territory faster than it resolves it holds from PL-145 alone (Test 1). LP-179 adds only that some untested positions are permanently unvisitable, a second and independent reason that the frontier cannot be exhausted; it does not make the frontier self-multiply (Test 2 does not apply to the self-multiplication). The two stand side by side; they are a conjunction, not a product of the crossing. The entry is kept and marked, not deleted.
 
 ---
 
@@ -5389,21 +5390,22 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 ---
 
-### PP-269. A Consequence-Density Field IS a Governance Priority Signal — High-Density Regions Require Priority Governance Attention
+### PP-269. Discovery Reproduces the Topology Through Verb-Constructed Edges — Where No Verb Is Executed, No Edge Is Made
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
 
 **Derives from:** PL-182 (Generational Discovery) [shared LL-252]
+**Derivational State:** BARREN
 **Applies to:** LP-184 (Verbs as Relational Edges)
 
-*A consequence-density field — a mapping of how densely consequences accumulate across the topology — IS a governance priority signal; high-density regions require priority governance attention and carry greater present-tense accountability obligation.*
+*The topology's reproductive discovery is carried out through the relational edges that verb execution instantiates; where agents navigate by verbs, each verb executed is an edge made, and a topology in which no verb is executed has ceased discovery and is reproductively arrested.*
 
-**Irreducible Claim:** LP-184 establishes that a consequence-density field maps the density of accumulated consequences across the topology. PL-182 establishes that consequence density is a governance signal — high-density regions require priority governance attention. When LP-184 operates in a topology where PL-182 holds: the density field IS the governance priority signal. High-density regions ARE the governance priority.
+**Irreducible Claim:** LP-184 establishes that the scale-invariant verbs ('look', 'go') in the agent interface are the literal instantiation of relational edges between the agent and the topology: using a verb physically constructs the logical topology. PL-182 establishes that discovery is the living topology's reproductive mechanism — each discovery produces offspring structures that carry forward its living character — and that a topology that ceases discovery is reproductively arrested. When LP-184 operates in a topology where PL-182 holds: where discovery is performed by navigating with verbs, the topology's reproduction is carried out as the instantiation of relational edges, and its continuity depends on verbs continuing to be executed.
 
-**Corollaries:** (1) Architectural "hot spots" in a codebase are governance signals — they require priority governance attention, not just technical refactoring. (2) Organizational "pressure points" are governance signals requiring priority attention. (3) "We need to refactor that area" is a governance signal acknowledgment when the area is a high-density consequence region. (4) Governance systems that don't monitor consequence density are missing the constitutional governance priority signal.
+**Corollaries:** (1) A participant that holds or accumulates documents without executing the interface's verbs instantiates no edge; it is a notation copy, not an offspring (PL-182's inert notation). (2) A population of agents that stops navigating has ceased discovery and is reproductively arrested, even if its stored structure is intact. (3) The offspring of discovery, so carried out, are relations between agent and topology, not free-standing artifacts.
 
-**Irreducibility:** LP-184 alone establishes consequence-density fields — does not specify that high-density regions are governance priority signals. PL-182 alone establishes consequence density is a governance signal — does not specify that consequence-density fields specifically are this governance signal. Only their intersection establishes the consequence-density field as the constitutional governance priority signal.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-01b, PP-269). The earlier text attributed to LP-184 a "consequence-density field" and to PL-182 a governance-priority signal; neither text carries them (LP-184 is verbs as relational edges; PL-182 is discovery as the topology's reproduction), and no LP, PL, CP or LL entry searched carries them, so they are dropped. Restated on what the parents say. LP-184 alone establishes that every use of a verb instantiates a relational edge, and its parent CP-33 requires agents to navigate by the verbs, with no bypass; so that the navigation by which discovery proceeds constructs edges holds from LP-184 alone, applied to the case PL-182 supplies (Test 2). That a topology which ceases discovery is reproductively arrested holds from PL-182 alone (Test 1). The parts stand side by side: one parent's rule applied to a case the other supplies, not a constraint that needs both. The entry is kept and marked, not deleted.
 
 ---
 

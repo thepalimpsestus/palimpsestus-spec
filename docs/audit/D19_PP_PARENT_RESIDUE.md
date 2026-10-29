@@ -88,6 +88,33 @@ Open loci found in this batch, for later batches:
 - PP-282 attributes a "consequence-aware edge weight" to LP-193, as PP-281 did.
 - PP-241 says LP-186 establishes a "consequence field" with "consequence physics". LP-186 uses neither phrase.
 
+### Batch 01b
+
+PP-263 and PP-269, returned from batch 01, re-crossed on their parents' own texts. Three slots are corrected: PP-263's LP slot, and both of PP-269's slots, since its restated text attributes to PL-182 only what PL-182 says.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left | Above | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-263 | PL-145 | LP-179 (kept) | BARREN | No entry in A carries a "consequence gradient"; LP-179, LP-175, LP-177, LP-384 and LP-420 were read, and LP-384's gradient is one of confidence, not consequence. The term is dropped. Test 1: that exploring the frontier creates more unexplored territory than it resolves holds from PL-145 alone. LP-179's permanent shadows are a second, separate reason the frontier cannot be exhausted, not a product. |
+| PP-269 | PL-182 (kept) | LP-184 (kept) | BARREN | Neither parent carries a consequence-density field or a governance-priority signal, and no LP, PL, CP or LL entry searched does. Both are dropped. Restated as discovery (PL-182) crossed with verbs as relational edges (LP-184). Test 2: LP-184's parent CP-33 requires agents to navigate by the verbs with no bypass, so that the navigation by which discovery proceeds constructs edges holds from LP-184 alone, applied to PL-182's case. Test 1: arrest when discovery ceases holds from PL-182 alone. |
+
+What changed:
+- `system-foundations-physical-physical.md`: PP-263 and PP-269 restated (title, italic line, Irreducible Claim, corollaries, Irreducibility), and a `**Derivational State:** BARREN` line added after each Derives line. Two lines are added. Parents and `[shared LL-x]` tags are unchanged.
+- `system-foundations-physical-implementation.md`: the 95 **Derives from** copies of each old title now carry the new one. Only the title label changed.
+- PP-269 was proposed IRREDUCIBLE, resting on a bridge (discovery is performed by executing the verbs) that neither parent states. CP-33's corollary supplies the bridge. With it, the product is one parent's rule applied to a case the other supplies, so the entry is BARREN.
+
+Doubts recorded, not acted on:
+- PP-263: corollary (4), that any ordering of what to explore next is renewed by the exploration, applies PL-145 and is not in either parent's text.
+- PP-269: corollary (1) applies PL-182's corollary on inert notation to LP-184.
+
+Out-edges:
+- `system-foundations-implementation-physical.md` cites PP-263 for a "consequence gradient" in three invariant lines (:246, :631, :1521) and two corollaries (:634, :991). PP-263 no longer carries it, and before this correction no parent of PP-263 did. Those IP entries are an open locus, not corrected here.
+- The IP file does not cite PP-269.
+
+Open loci found in this batch, for later batches:
+- PL-145 is the left parent of 13 other PP entries (PP-65, 67, 122, 138, 141, 195, 252, 257, 264, 268, 284, 285, 329) that each say the exploration of some object self-multiplies. Each needs its own reading of its LP parent.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -132,13 +159,13 @@ Open loci found in this batch, for later batches:
 | PP-260 | LP | LP-177 | no carrier found (every reader) |
 | PP-261 | LP | LP-177 | no carrier found (strict reader, high) |
 | PP-262 | LP | LP-178 | no carrier found (every reader) |
-| PP-263 | LP | LP-179 | no carrier found (strict reader, high) |
+| PP-263 | LP | LP-179 | no carrier found (strict reader, high); batch 01b: restated, BARREN |
 | PP-264 | LP | LP-180 | candidate LP-401, low confidence, not adopted |
 | PP-265 | LP | LP-180 | no carrier found (strict reader, high) |
 | PP-266 | LP | LP-181 | no carrier found (every reader) |
 | PP-267 | LP | LP-182 | no carrier found (every reader) |
 | PP-268 | LP | LP-183 | no carrier found (strict reader, high) |
-| PP-269 | LP | LP-184 | no carrier found (every reader) |
+| PP-269 | LP | LP-184 | no carrier found (every reader); batch 01b: restated, BARREN |
 | PP-270 | LP | LP-185 | no carrier found (strict reader, high) |
 | PP-271 | LP | LP-186 | no carrier found (strict reader, low) |
 | PP-272 | LP | LP-187 | no carrier found (every reader) |
@@ -285,7 +312,7 @@ Open loci found in this batch, for later batches:
 | PP-260 | PL | PL-240 | candidate PL-29, low confidence, not adopted |
 | PP-261 | PL | PL-299 | no carrier found (strict reader, medium) |
 | PP-266 | PL | PL-181 | no carrier found (strict reader, medium) |
-| PP-269 | PL | PL-182 | no carrier found (every reader) |
+| PP-269 | PL | PL-182 | no carrier found (every reader); batch 01b: restated, BARREN |
 | PP-270 | PL | PL-183 | no carrier found (strict reader, medium) |
 | PP-272 | PL | PL-228 | no carrier found (every reader) |
 | PP-274 | PL | PL-81 | no carrier found (strict reader, medium) |
