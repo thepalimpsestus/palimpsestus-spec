@@ -11519,7 +11519,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 - The maintenance cost of the path is the honest accounting of what truth costs; stripping the path is cost evasion.
 - Path costs incurred before the path was stripped stay attributed to the entities that incurred them; stripping the path changes the record, not the bill.
 
-**Irreducibility:** CP-85 establishes that cost cannot be externalized and stays with the entity that made the structural choice, but does not specify what a conclusion's cost consists of. LL-470 establishes that paths cost more than assertions, and places the debt a shortcut defers on the system's future state. Together they produce derivation-path mass accounting: the full cost of a conclusion includes the continuous maintenance cost of its derivation path, and the debt a shortcut defers is not the system's: dropping the path moves neither the path's cost nor that debt off the entities whose choices incurred them.
+**Irreducibility:** CP-85 establishes that cost cannot be externalized and stays with the entity that made the structural choice, but does not specify what a conclusion's cost consists of. LL-470 establishes that paths cost more than assertions, and that a shortcut defers a debt to the system's future state, but does not say on whose ledger that debt sits. That a conclusion's full cost includes the maintenance cost of its path holds from LL-470 alone, and that the path's cost stays with whoever built it holds from CP-85 alone. What needs both is this: the debt a shortcut defers to the system's future state stays attributed to the entity that chose the shortcut, and dropping the path does not move it off that entity.
 
 ---
 
@@ -11547,18 +11547,18 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 
 **Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-472 (Non-Deferrable Energy Cost [NEW_CLEAN_ROOM])
-**Derivational State:** BARREN (D20; `docs/audit/D20_LP_CP85_RECROSS.md`)
+**Derivational State:** BARREN
 
 *The thermodynamic bill is due now, and from the entity that made the choice. It cannot be deferred to the future; a deferral is a default by the chooser, not a hand-off.*
 
 **Irreducible Claim:** Because cost cannot be externalized — it stays attributed to the entity that made the structural choice (CP-85) — and thermodynamic cost is strictly present-tense — deferral accumulates debt (LL-472) — there is no grace period between when a cost accrues and when it is due. A deferral is the chooser's default, not a transfer: it moves the bill neither to a later moment nor to whoever later holds the structure, so the debt a deferral creates stays on the ledger of the entity that deferred. Present costs are due as they accrue, from the entity that incurs them.
 
 **Corollaries:**
-- A system that defers present costs pending a future registration event is in thermodynamic debt from the moment of deferral.
+- A system that defers present costs is in thermodynamic debt from the moment of deferral.
 - A successor that takes over a structure does not take over its predecessor's deferred present costs; those remain the predecessor's debt.
-- The combination of non-externalizable attribution and present-tense collection produces a complete accounting: no cost escapes, either to a later moment or to another entity.
+- Present-tense collection leaves no later moment to which a cost can be moved: a cost not paid now is a default now (LL-472). Non-externalizable attribution leaves no other entity to which it can be moved (CP-85). The two stand side by side; together they are a conjunction, not a product of the crossing.
 
-**Irreducibility:** CP-85 establishes that cost cannot be handed to another entity. LL-472 establishes that cost is due in the present and that the one who defers it is defaulting. Re-crossed on CP-85's text, the claim's timing (no grace period; a deferral is the deferrer's default) holds from LL-472 alone (Test 1), and the rest (no cost passes to a later holder) holds from CP-85 alone (Test 2). The two parts stand side by side; no constraint needs both. The entry is kept, not deleted, under No Ancestral Erasure.
+**Irreducibility:** CP-85 establishes that cost cannot be handed to another entity. LL-472 establishes that cost is due in the present and that the one who defers it is defaulting. Re-crossed on CP-85's text (D20; `docs/audit/D20_LP_CP85_RECROSS.md`), the claim's timing (no grace period; a deferral is the deferrer's default) holds from LL-472 alone (Test 1), and the rest (no cost passes to a later holder) holds from CP-85 alone (Test 2). The two parts stand side by side; no constraint needs both. The entry is kept and marked, not deleted (see the D20 receipt on keeping).
 
 ---
 
@@ -11567,7 +11567,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 
 **Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-473 (Thermodynamic Accountability [NEW_CLEAN_ROOM])
-**Derivational State:** BARREN (D20; `docs/audit/D20_LP_CP85_RECROSS.md`)
+**Derivational State:** BARREN
 
 *The creator of a derivation owns its thermodynamic cost — including the cost of consequences the derivation generates. The cost stays attributed to the creator, not to whoever inherits the derivation.*
 
@@ -11578,7 +11578,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 - A creator who appears to have externalized consequence costs has not shed them — the attribution still follows the lineage back to the creator.
 - The consequence-linked attribution is the structural mechanism by which thermodynamic honesty is enforced over time.
 
-**Irreducibility:** CP-85 establishes that cost cannot be externalized and follows the derivation lineage. LL-473 establishes creator ownership of a derivation's thermodynamic consequence. Re-crossed on CP-85's text, the claim holds from CP-85 alone (Test 2: CP-85 already attributes the consequence of what was built to the builder, through any walk-away, along the lineage), and its consequence scope holds from LL-473 alone (Test 1). The entry is kept, not deleted, under No Ancestral Erasure; its out-edge (LI-94) stands.
+**Irreducibility:** CP-85 establishes that cost cannot be externalized and follows the derivation lineage. LL-473 establishes creator ownership of a derivation's thermodynamic consequence. Re-crossed on CP-85's text (D20; `docs/audit/D20_LP_CP85_RECROSS.md`), the claim holds from CP-85 alone (Test 2: CP-85 already attributes the consequence of what was built to the builder, through any walk-away, along the lineage), and its consequence scope holds from LL-473 alone (Test 1). The entry is kept and marked, not deleted (see the D20 receipt on keeping); its out-edge LI-94 takes from it only the creator's ownership, which LL-473 alone carries.
 
 ---
 
@@ -11606,7 +11606,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 
 
 **Derives from:** CP-85 (Non-Externalizable Cost Attribution) × LL-475 (Pre-Existing Thermodynamic Debt [NEW_CLEAN_ROOM])
-**Derivational State:** BARREN (D20; `docs/audit/D20_LP_CP85_RECROSS.md`)
+**Derivational State:** BARREN
 
 *A derivation that was discovered today was incurring cost since its natural origin — before discovery. Retroactive registration must reach back to the natural origin, not to the discovery date.*
 
@@ -11617,7 +11617,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 - The discoverer does not initiate the pre-discovery costs; discovery reveals them. Whose ledger carries them is not settled by either parent.
 - Discovery is a cost-revealing event, not a cost-initiating event.
 
-**Irreducibility:** CP-85 establishes that a structural choice's full lifecycle cost sits permanently on its maker's ledger, along the lineage. LL-475 establishes that a derivation's cost runs from before its discovery and that discovery is an accounting event. Re-crossed on CP-85's text, the claim (the record reaches back past the discovery date; the discoverer reveals the cost rather than starting it) holds from LL-475 alone (Test 1), and LP-492 already states it for embedded history (Test 3). What CP-85 would add, a maker's ledger for the pre-discovery cost, neither parent settles: LL-475 rests on derivations being discovered rather than created, and places the running cost with the topology and the steward. The entry is kept, not deleted, under No Ancestral Erasure; its out-edge (LI-94) stands.
+**Irreducibility:** CP-85 establishes that a structural choice's full lifecycle cost sits permanently on its maker's ledger, along the lineage. LL-475 establishes that a derivation's cost runs from before its discovery and that discovery is an accounting event. Re-crossed on CP-85's text (D20; `docs/audit/D20_LP_CP85_RECROSS.md`), the claim (the record reaches back past the discovery date; the discoverer reveals the cost rather than starting it) holds from LL-475 alone (Test 1). What CP-85 would add, a maker's ledger for the pre-discovery cost, neither parent settles: LL-475 rests on derivations being discovered rather than created, and places the running cost with the topology and the steward. The entry is kept and marked, not deleted (see the D20 receipt on keeping). Its out-edge LI-94 registers pre-discovery cost to the creator, a bearer this entry no longer carries; that is recorded as D21.
 
 ---
 
