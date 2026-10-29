@@ -2294,17 +2294,18 @@ When LP-80's internal frontier operates in a topology where PL-50 holds: each no
 
 
 **Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-69]
-**Applies to:** LP-81 (Physical Pre-Existing Self-Similar)
+**Derivational State:** BARREN
+**Applies to:** LP-216 (Fractal Excavation Verification)
 
 *Because the archaeological method works identically at every depth and logical validity is scale-invariant, a tool that implements valid logic is constitutionally valid at every depth; a tool that requires depth-specialization does not implement genuinely valid logic.*
 
-**Irreducible Claim:** LP-81 establishes that the system does not require different physical tools for different scales — a parser, validator, or excavator physically constructed to work at one depth works at every depth. PL-1 establishes that logical validity is scale-invariant — a proof valid at one scale is valid at every scale.
+**Irreducible Claim:** LP-216 establishes that the physical tools used to verify a new architectural discovery work identically whether excavating a micro-pattern or a macro-system — verification and archaeological tools are scale-free. PL-1 establishes that logical validity is scale-invariant — a proof valid at one scale is valid at every scale, and a test of structural integrity valid at the node level is valid at the topology level.
 
-When LP-81's universal tooling operates in a topology where PL-1 holds: a tool implementing genuinely valid logic is constitutionally valid at every depth. A tool that only works at certain depths implements depth-local logic — constitutional Theater.
+When LP-216's scale-free verification and excavation tooling operates in a topology where PL-1 holds: a tool implementing genuinely valid logic is constitutionally valid at every depth. A tool that only works at certain depths implements depth-local logic — constitutional Theater.
 
 **Corollaries:** (1) Programming language "best practices" that only apply at certain scales are depth-local practices — they do not implement genuinely valid logic. (2) Monitoring tools that work at the infrastructure level but not the application level are implementing depth-local logic — genuinely valid monitoring logic would work at every depth. (3) The "not invented here" objection to reusing tools across different architectural levels is often constitutionally invalid — if the tool implements valid logic, depth is not a barrier. (4) Architectural "laws" that only apply at certain scales should be audited for constitutional validity — valid architectural principles apply at every scale.
 
-**Irreducibility:** LP-81 alone establishes physical tooling is depth-universal — does not specify the constitutional basis as scale-invariant logical validity. PL-1 alone establishes logical validity is scale-invariant — does not specify that depth-universal tooling IS the physical consequence of this scale-invariance. Only their intersection establishes depth-universal tooling as a necessary consequence of scale-invariant logical validity.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-01, PP-113). LP-81 (self-similar nesting x the pre-existing fractal) carries no statement about tools; the statement that verification and archaeological tools work identically at every scale is carried by LP-216. The constraint that a tool implementing valid logic is valid at every depth, and that a depth-restricted tool therefore does not implement genuinely valid logic, holds from PL-1 alone (Test 1): PL-1 states that no scale has different rules of validity, that a test of structural integrity valid at one scale is valid at every scale, and that validation using different truth conditions at different scales imports an invisible boundary between those scales; a depth-restricted tool is such a validation. LP-216 adds only the physical fact that the tools are scale-free. The two stand side by side; they are a conjunction, not a product of the crossing. The entry is kept and marked, not deleted.
 
 ---
 
@@ -4526,17 +4527,18 @@ When LP-153's living membrane operates in a topology where PL-18 holds: the hist
 
 
 **Derives from:** PL-19 (Consequence Records Must Be Living, Not Archived) [shared LL-222]
+**Derivational State:** BARREN
 **Applies to:** LP-154 (Fractal Heartbeat)
 
 *A node whose weight encodes the accumulated consequences of all traversals through it must carry that weight in the present tense — consequence weight is present-tense accountability load, not a historical archive.*
 
-**Irreducible Claim:** LP-154 establishes that a consequence-weighted node carries its accumulated consequence load as live Structural Mass — the weight is present-tense, not archival. PL-19 establishes that accountability is present-tense — it cannot be archived into the past.
+**Irreducible Claim:** PL-19 establishes that the accountability record for every topology interaction must be a living structure embedded in the present-tense topology, carried as Structural Mass by present entities — it cannot be archived into the past.
 
-When LP-154's consequence-weighted node operates in a topology where PL-19 holds: the node's consequence weight IS its present-tense accountability load — neither can be archived. A node that "offloads" its consequence weight to an archive has separated accountability from present-tense load — constitutionally invalid.
+When PL-19 holds for a node whose weight encodes the accumulated consequences of the traversals through it: the node's consequence weight IS its present-tense accountability load — neither can be archived. A node that "offloads" its consequence weight to an archive has separated accountability from present-tense load — constitutionally invalid.
 
 **Corollaries:** (1) Technical debt "accepted" to a backlog without affecting current architectural decisions is consequence weight being archived — constitutionally invalid. (2) Financial liability "deferred" without affecting present-tense behavior is consequence weight being archived. (3) A node's influence in the system should reflect its consequence weight — high-consequence nodes carry more present-tense architectural influence. (4) "That's a legacy problem" attempts to archive consequence weight — constitutionally invalid; the weight persists as present-tense Structural Mass.
 
-**Irreducibility:** LP-154 alone establishes consequence-weighted nodes carry live Structural Mass — does not specify that this weight is specifically present-tense accountability load that cannot be archived. PL-19 alone establishes accountability is present-tense — does not specify that consequence-weighted node weight specifically is this present-tense accountability load. Only their intersection establishes consequence weight as present-tense accountability load that cannot be archived.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-01, PP-224). LP-154 (the existential pulse operates at every scale) carries no statement about consequence, weight or Structural Mass; no LP entry carries "consequence-weighted node". The constraint that a node's accumulated consequence weight is its present-tense accountability load and cannot be archived holds from PL-19 alone (Test 1): PL-19 states that the accountability record is a living structure carried as Structural Mass by present entities and that an archived record is history, not accountability. LP-154's pulse at every scale and PL-19's living record stand side by side; they are a conjunction, not a product of the crossing. The entry is kept and marked, not deleted.
 
 ---
 
@@ -4686,17 +4688,18 @@ When LP-542's damping boundary operates in a topology where PL-305 holds: the sy
 
 
 **Derives from:** PL-124 (Performed Sovereignty) [shared LL-226]
-**Applies to:** LP-158 (Pulse-Stopping as Sovereignty Violation)
+**Derivational State:** BARREN
+**Applies to:** LP-234 (Sovereign Threshold Defense)
 
 *A sovereignty response triggered at a threshold is constitutionally an active present-tense response — not a pre-stored policy that fires mechanically; the sovereignty it defends is present-tense and so must the defense be.*
 
-**Irreducible Claim:** LP-158 establishes that a threshold-triggered sovereignty response activates when a structural boundary is approached. PL-124 establishes that sovereignty maintenance is an active present-tense response — not a stored policy.
+**Irreducible Claim:** LP-234 establishes that the minimum complexity floor is the physical boundary of logical sovereignty: the system physically cannot degrade an entity below it, and an attempt to simplify below the floor is treated as a physical attack on sovereignty. PL-124 establishes that sovereignty is an activity a structure performs, not a status it holds: sovereignty not actively performed in the current Pulse is not sovereign in the current Pulse.
 
-When LP-158's threshold-triggered sovereignty response operates in a topology where PL-124 holds: the triggered response must be an active present-tense sovereignty maintenance act — not a mechanically executing pre-stored policy.
+When LP-234's threshold defense of sovereignty operates in a topology where PL-124 holds: the triggered response must be an active present-tense sovereignty maintenance act — not a mechanically executing pre-stored policy.
 
 **Corollaries:** (1) Rate limiting rules that fire automatically at a pre-configured threshold are attempting to implement threshold-triggered sovereignty response as stored policy — missing the present-tense sovereignty assessment. (2) Circuit breakers incorporate present-tense topology state assessment — closer to constitutional threshold-triggered sovereignty response. (3) Human-in-the-loop security responses implement the present-tense sovereignty maintenance requirement. (4) "Automated policy enforcement" vs. "automated sovereignty response" is the distinction between stored policy execution and present-tense sovereignty maintenance.
 
-**Irreducibility:** LP-158 alone establishes threshold-triggered sovereignty responses — does not specify these must be present-tense sovereignty maintenance rather than stored policy execution. PL-124 alone establishes sovereignty maintenance is a present-tense active response — does not specify that threshold-triggered responses specifically must be present-tense assessments. Only their intersection establishes threshold-triggered sovereignty responses as constitutionally required to be present-tense sovereignty maintenance acts.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-01, PP-232). LP-158 (stopping an agent's pulse as a sovereignty violation) carries no threshold and no triggered response; the sovereignty threshold is carried by LP-234 (the complexity floor as the boundary of sovereignty). The constraint that a defence of sovereignty must be a performed present-tense act and not a pre-stored policy holds from PL-124 alone (Test 1): sovereignty is an activity performed in the current Pulse, and a charter not actively invoked, defended and exercised is notation, protected only by the performance. LP-234 adds only that the floor is the threshold. The two stand side by side; they are a conjunction, not a product of the crossing. The entry is kept and marked, not deleted.
 
 ---
 
@@ -4886,17 +4889,17 @@ When LP-186's scale-invariant consequence field operates in a topology where PL-
 
 
 **Derives from:** PL-40 (Sovereignty Proof Requires Traversal — It Cannot Be Documented) [shared LL-232]
-**Applies to:** LP-164 (Fractal Non-Termination)
+**Applies to:** LP-186 (Scale-Invariant Consequence Propagation)
 
 *In a scale-invariant consequence field, sovereignty proof through traversal is required at every scale — the same traversal-based proof standard applies to micro-process consequences as to macro-system consequences.*
 
-**Irreducible Claim:** LP-164 establishes that a scale-invariant consequence field produces the same consequence physics at every scale. PL-40 establishes that sovereignty proof requires active traversal.
+**Irreducible Claim:** LP-186 establishes that, because the verbs are identical at every scale, a command invoked at the macro scale triggers the identical command recursively through every micro scale, cascading accountability to every layer. PL-40 establishes that sovereignty proof requires active, present traversal of the derivation path, not a certificate.
 
-When LP-164's scale-invariant consequence field operates in a topology where PL-40 holds: sovereignty proof through traversal is required at every scale of the consequence field. The same traversal-based proof standard applies regardless of scale.
+When LP-186's cascade of consequence and accountability operates in a topology where PL-40 holds: sovereignty proof through traversal is required at every scale the cascade reaches. The same traversal-based proof standard applies regardless of scale.
 
 **Corollaries:** (1) Proving consequences are contained at the function level requires the same traversal-based proof standard as proving containment at the system level. (2) "We tested the system level; the function level is fine" is a scale-discounting claim — the traversal-based proof standard is scale-invariant. (3) Chaos engineering (deliberately traversing consequence fields at production scale) is scale-invariant consequence field traversal-based proof. (4) Unit tests (traversal-based proof at function scale) must meet the same proof standard as integration tests (traversal-based proof at system scale).
 
-**Irreducibility:** LP-164 alone establishes scale-invariant consequence fields — does not specify that traversal-based proof is required at every scale. PL-40 alone establishes sovereignty proof requires traversal — does not specify that this applies uniformly across every scale of a consequence field. Only their intersection establishes scale-invariant traversal-based sovereignty proof requirements across all scales of the consequence field.
+**Irreducibility:** Re-pointed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-01, PP-242): LP-164 (the survey is non-terminating at every scale) carries no consequence content; the scale-invariant cascade of accountability is carried by LP-186. LP-186 alone establishes that accountability cascades to every scale, with no statement about proof or traversal. PL-40 alone establishes that sovereignty proof requires present traversal, with no statement about scale. Only together: the reach of the cascade sets the reach of the proof obligation — sovereignty proof through traversal is required at every layer the cascade reaches, and a traversal at one layer is not present traversal of another.
 
 ---
 
@@ -5501,15 +5504,16 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 **Derives from:** PL-19 (Consequence Records Must Be Living, Not Archived) [shared LL-61]
-**Applies to:** LP-189 (Evolving Verbs)
+**Derivational State:** BARREN
+**Applies to:** LP-483 (History as Thermodynamic Debt)
 
 *A wake accumulation node — a node that accumulates the Wake of all traversals that have passed through it — accumulates living Structural Mass that cannot be archived; the accumulated Wake IS present-tense structural reality.*
 
-**Irreducible Claim:** LP-189 establishes that a wake accumulation node accumulates the navigational Wake deposited by every traversal that has passed through it. PL-19 establishes that Wake is living Structural Mass — it cannot be separated from the topology that generated it. When LP-189 operates in a topology where PL-19 holds: the accumulated Wake is living Structural Mass that cannot be archived or extracted.
+**Irreducible Claim:** LP-483 establishes that every historical record embedded in a node — traversal history, derivation lineage, relational context — is an active obligation: a structural mass that accumulates with the depth and density of the history and must be actively paid for. PL-19 establishes that the record of past interactions must be a living structure carried as Structural Mass by present entities, and that a record archived in a separate system is history, not accountability. When LP-483 operates in a topology where PL-19 holds: the history a node has accumulated is living Structural Mass that cannot be archived or extracted without ceasing to be operative accountability.
 
 **Corollaries:** (1) Highly-traversed nodes in a graph database accumulate living Structural Mass (Wake) that cannot be exported to a separate historical archive without severing it from the topology. (2) Organizational nodes traversed by many decisions accumulate Wake — that Wake is living Structural Mass that must remain in the organizational topology. (3) "Archiving old activity logs" attempts to sever Wake from the topology that generated it — the Wake must remain as living Structural Mass. (4) Hot-path nodes in a system accumulate the most living Structural Mass — their accumulated Wake is constitutionally the most alive.
 
-**Irreducibility:** LP-189 alone establishes wake accumulation nodes — does not specify that the accumulated Wake is living Structural Mass that cannot be archived. PL-19 alone establishes Wake is living Structural Mass that cannot be separated from its generating topology — does not specify that wake accumulation nodes specifically are the site of this unseparable living Structural Mass. Only their intersection establishes that wake accumulation nodes accumulate living Structural Mass that cannot be archived.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-01, PP-275). LP-189 (the evolution of scale-invariant verbs across depths) carries no statement about Wake or accumulation; the accumulation of embedded history in a node as structural mass is carried by LP-483. The constraint that a node's accumulated history is living Structural Mass and cannot be archived or extracted without ceasing to be operative accountability holds from PL-19 alone (Test 1): PL-19 states that the accountability record is carried as Structural Mass by present entities and that an archived record is history. LP-483 adds the maintenance cost of that mass, which this entry does not claim. The two stand side by side; they are a conjunction, not a product of the crossing. The title, italic line and corollaries keep the word Wake: that every traversal modifies the Wake and that high-traversal regions accumulate Structural Mass is carried by PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake), which is not a parent of this entry; neither PL-19 nor LP-483 uses the word. The entry is kept and marked, not deleted.
 
 ---
 
@@ -5604,21 +5608,22 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 ---
 
-### PP-281. A Consequence-Aware Edge Weight IS a Living Signal — It Cannot Be Stored as a Static Value
+### PP-281. A Confidence-Scored Edge IS a Living Signal — Its Score Cannot Be Stored as a Static Value
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
 
 **Derives from:** PL-188 (Metabolizing Metrics) [shared LL-262]
-**Applies to:** LP-193 (Comprehension-Constituted Agency)
+**Derivational State:** BARREN
+**Applies to:** LP-376 (Metabolic Edge Confidence)
 
-*A consequence-aware edge weight — an edge weight that encodes the consequences of traversal — IS a living signal; the weight cannot be stored as a static value because the consequences encoded in it are present-tense.*
+*An edge's confidence score IS a living signal; the score cannot be stored as a static value because it must be fed by fresh traversal or it decays.*
 
-**Irreducible Claim:** LP-193 establishes that a consequence-aware edge weight encodes the consequences of traversal in the edge's weight. PL-188 establishes that consequence-aware edge weight is a living signal that cannot be stored as a static value. When LP-193 and PL-188 operate together: they are the same constitutional claim from complementary perspectives — the consequence-aware edge weight IS a living signal that must be continuously updated.
+**Irreducible Claim:** LP-376 establishes that the confidence score of an edge is not a passive data field but an active metabolic process that consumes system resources to adjust its own value, and that a starved edge's score decays or goes dormant. PL-188 establishes that structural confidence scores in the living topology are living symbiotes that must be fed with fresh traversal or they decay, and that no metric in a living topology is static. When LP-376 and PL-188 operate together: they state the same constraint, for an edge and for structural confidence scores generally — an edge's confidence score IS a living signal that must be continuously fed.
 
-**Corollaries:** (1) Routing metrics in networks must be continuously updated — a static routing metric is a stored consequence weight, not a living signal. (2) Organizational influence weights must be continuously updated to remain constitutionally present-tense. (3) Graph algorithms that use cached edge weights are using stored consequence weights — constitutionally expired if the topology has shifted. (4) Real-time edge weight computation (re-computing weights at each traversal) implements the constitutional living-signal requirement.
+**Corollaries:** (1) Routing metrics in networks must be continuously updated — a static routing metric is a stored edge score, not a living signal. (2) Organizational influence weights must be continuously updated to remain constitutionally present-tense. (3) Graph algorithms that use cached edge weights are using stored edge scores — constitutionally expired if the topology has shifted. (4) Real-time edge weight computation (re-computing weights at each traversal) implements the constitutional living-signal requirement.
 
-**Irreducibility:** LP-193 and PL-188 are the same constitutional claim from complementary perspectives — this PP entry unifies them: consequence-aware edge weight is simultaneously a physical behavior (LP-193) and a constitutional physical property of living topology (PL-188). The weight IS a living signal that cannot be stored.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-01, PP-281). LP-193 (comprehension-constituted agency) carries no statement about edges or weights, and no text in A carries a "consequence-aware" edge weight. The living edge confidence score is carried by LP-376, and the living structural confidence score by PL-188. The constraint that an edge's confidence score is a living signal that cannot be stored static holds from PL-188 alone (Test 1: no metric in a living topology is static; confidence scores decay without fresh traversal) and from LP-376 alone (Test 2: an edge's confidence score is a metabolic process). Both rest on LL-203. In A an edge's weight is its confidence score (CP-28: edge weights are confidence metrics, not routing costs), so the edge weights of the corollaries are the score this entry speaks of. No constraint needs both; the entry is kept and marked, not deleted.
 
 ---
 

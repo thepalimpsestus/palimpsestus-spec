@@ -47,6 +47,46 @@ The second is a text change to an authored entry, not a pointer fix.
 
 4. **Header titles that name no PL entry.** In 27 of the listed PL slots (PP-225 to PP-367), the header pairs the PL id with a title that is not that entry's title and matches no PL entry in A. Examples are "Consequence Carries Its Own Thermodynamic Receipt" (with PL-299, 12 slots), "A Living System Dies Before It Appears Dead" (with PL-305, 9 slots) and "High-Consequence Intersections Are Constitutionally Priority Governance Sites" (with PL-228, 3 slots). The claim these PP entries cite has no PL entry, which is consistent with no carrier being found. PP-225 and PP-228 pair PL-319 with the title "Tension Between Competing Paths IS the Truth"; the concept check found that PL-319's text carries their claim, so they are not listed. PP-510 to PP-542 differ from the entry's title in wording only.
 
+## Correction batches
+
+Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again; no batch has been independently re-crossed.
+
+### Batch 01
+
+Eight LP slots. Six are corrected here. Two (PP-263, PP-269) went back to the Worker and stay listed.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-113 | PL-1 | LP-216 (LP-81) | BARREN | LP-81 carries no tool claim; LP-216 carries scale-free verification and excavation tools. Test 1: that a depth-restricted tool does not implement valid logic holds from PL-1 alone, whose corollary says validation with different truth conditions at different scales imports an invisible boundary. |
+| PP-224 | PL-19 | LP-154 (kept) | BARREN | LP-154 carries no consequence, weight or Structural Mass, and no LP entry carries a consequence-weighted node, so the claim no longer attributes that to LP-154. Test 1: that a node's accumulated consequence is living Structural Mass, not archive, holds from PL-19 alone (present entities carry the weight of prior interactions as Structural Mass). |
+| PP-232 | PL-124 | LP-234 (LP-158) | BARREN | LP-158 carries no threshold response; LP-234 carries the sovereign threshold defence. Test 1: that the defence must be performed in the present holds from PL-124 alone, which already requires sovereignty defence to be performed. The threshold is a case of it. |
+| PP-242 | PL-40 | LP-186 (LP-164) | IRREDUCIBLE | LP-164 carries no consequence content; LP-186 carries accountability cascading through every layer. Test 1: PL-40 alone gives no reach across layers. Test 2: LP-186 alone gives no proof by traversal. Product: the reach of the cascade sets the reach of the proof obligation. |
+| PP-275 | PL-19 | LP-483 (LP-189) | BARREN | LP-189 carries no Wake or accumulation; LP-483 carries embedded history as accumulating structural mass. Test 1: that a node's accumulated history cannot be archived and stay operative accountability holds from PL-19 alone. |
+| PP-281 | PL-188 | LP-376 (LP-193) | BARREN | LP-193 carries no edge or weight, and no text in A carries a "consequence-aware" edge weight. LP-376 carries the metabolic edge confidence score. Test 1 (PL-188 alone: no metric in a living topology is static) and Test 2 (LP-376 alone) both hold. |
+
+What changed (`system-foundations-physical-physical.md`):
+- Applies line re-pointed: PP-113, PP-232, PP-242, PP-275 and PP-281.
+- Irreducible Claim restated to the parents' own texts: all six. This also removes PP-275's old sentence "PL-19 establishes that Wake is living Structural Mass": PL-19 does not use the word Wake. That PL-side misattribution was not in the list below.
+- Each Irreducibility field restated; for the BARREN entries it names the failing test.
+- `**Derivational State:** BARREN` added after the Derives line: PP-113, PP-224, PP-232, PP-275 and PP-281. Five lines are added.
+- PP-281 also changes its title, italic line and two corollary phrases, from "consequence-aware edge weight" to the edge's confidence score. Its Irreducibility cites CP-28 (edge weights are confidence metrics), so the corollaries and IP-1's invariant line, which speak of edge weights, still read on it.
+- PP-275 keeps the word Wake in its title, italic line and corollaries. Its Irreducibility names PL-14, which is not a parent, as the text that carries Wake and the accumulation of Structural Mass.
+- No entry has been removed, renumbered or re-parented on the PL side.
+
+Doubts recorded, not acted on:
+- PP-242: PL-40's corollary that there are no permanent trusted states may already cover every layer. On that reading Test 1 gives BARREN. The entry is kept IRREDUCIBLE because the per-layer reach comes from LP-186. Low confidence.
+- PP-275: LP-483 says history is a debt and that pruning or archiving lowers the load; PL-19 says the accountability record must stay living. Crossed, these may give a real product: accountability history cannot be shed as debt by archiving or pruning. The entry does not claim it, and it was not added.
+- PP-281: corollary (1) speaks of routing metrics, and CP-28 says edge weights are not routing costs. The corollary was left as it is, since PL-188 covers every metric.
+- PP-224: corollary (3), on a node's influence, is not in PL-19. It was left as it is.
+
+Open loci found in this batch, for later batches:
+- PP-263 and PP-269 use "consequence gradient" and "consequence density", which no entry in A carries. Several IP entries build on the first.
+- PP-269's tag LL-252 is not carried by PL-182.
+- PP-282 attributes a "consequence-aware edge weight" to LP-193, as PP-281 did.
+- PP-241 says LP-186 establishes a "consequence field" with "consequence physics". LP-186 uses neither phrase.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -54,16 +94,16 @@ The second is a text change to an authored entry, not a pointer fix.
 | PP | Side | Named now | Reading |
 | :--- | :---: | :--- | :--- |
 | PP-102 | LP | LP-72 | no carrier found (strict reader, low) |
-| PP-113 | LP | LP-81 | candidate LP-210, low confidence, not adopted |
+| PP-113 | LP | LP-216 (was LP-81) | candidate LP-210, low confidence, not adopted; batch 01: re-pointed and restated, BARREN |
 | PP-216 | LP | LP-151 | no carrier found (strict reader, medium) |
 | PP-217 | LP | LP-151 | candidate LP-243, low confidence, not adopted |
 | PP-218 | LP | LP-151 | no carrier found (strict reader, medium) |
 | PP-220 | LP | LP-152 | no carrier found (strict reader, medium) |
 | PP-221 | LP | LP-152 | no carrier found (strict reader, medium) |
 | PP-223 | LP | LP-153 | candidate LP-1, medium confidence, no second reader proposed it; not adopted |
-| PP-224 | LP | LP-154 | no carrier found (strict reader, medium) |
+| PP-224 | LP | LP-154 | no carrier found (strict reader, medium); batch 01: restated, BARREN |
 | PP-227 | LP | LP-155 | no carrier found (strict reader, medium) |
-| PP-232 | LP | LP-158 | candidate LP-238, low confidence, not adopted |
+| PP-232 | LP | LP-234 (was LP-158) | candidate LP-238, low confidence, not adopted; batch 01: re-pointed and restated, BARREN |
 | PP-233 | LP | LP-159 | no carrier found (strict reader, high) |
 | PP-234 | LP | LP-159 | no carrier found (strict reader, high) |
 | PP-235 | LP | LP-160 | no carrier found (strict reader, low) |
@@ -71,7 +111,7 @@ The second is a text change to an authored entry, not a pointer fix.
 | PP-238 | LP | LP-162 | no carrier found (strict reader, high) |
 | PP-239 | LP | LP-163 | no carrier found (every reader) |
 | PP-240 | LP | LP-163 | no carrier found (strict reader, high) |
-| PP-242 | LP | LP-164 | candidate LP-186, low confidence, not adopted |
+| PP-242 | LP | LP-186 (was LP-164) | candidate LP-186, low confidence, not adopted; batch 01: re-pointed and restated, IRREDUCIBLE |
 | PP-243 | LP | LP-165 | no carrier found (strict reader, medium) |
 | PP-245 | LP | LP-166 | no carrier found (strict reader, high) |
 | PP-246 | LP | LP-167 | no carrier found (every reader) |
@@ -102,12 +142,12 @@ The second is a text change to an authored entry, not a pointer fix.
 | PP-271 | LP | LP-186 | no carrier found (strict reader, low) |
 | PP-272 | LP | LP-187 | no carrier found (every reader) |
 | PP-274 | LP | LP-188 | candidate LP-397, low confidence, not adopted |
-| PP-275 | LP | LP-189 | no carrier found (strict reader, low) |
+| PP-275 | LP | LP-483 (was LP-189) | no carrier found (strict reader, low); batch 01: re-pointed and restated, BARREN |
 | PP-276 | LP | LP-190 | no carrier found (strict reader, high) |
 | PP-277 | LP | LP-191 | no carrier found (strict reader, medium) |
 | PP-278 | LP | LP-191 | no carrier found (strict reader, medium) |
 | PP-280 | LP | LP-192 | no carrier found (strict reader, medium) |
-| PP-281 | LP | LP-193 | no carrier found (strict reader, medium) |
+| PP-281 | LP | LP-376 (was LP-193) | no carrier found (strict reader, medium); batch 01: re-pointed and restated, BARREN |
 | PP-282 | LP | LP-193 | no carrier found (strict reader, medium) |
 | PP-283 | LP | LP-194 | no carrier found (strict reader, high) |
 | PP-284 | LP | LP-194 | no carrier found (strict reader, high) |
