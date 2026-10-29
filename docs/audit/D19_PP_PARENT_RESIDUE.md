@@ -115,6 +115,53 @@ Out-edges:
 Open loci found in this batch, for later batches:
 - PL-145 is the left parent of 13 other PP entries (PP-65, 67, 122, 138, 141, 195, 252, 257, 264, 268, 284, 285, 329) that each say the exploration of some object self-multiplies. Each needs its own reading of its LP parent.
 
+### Batch 02
+
+Eight slots: PP-721's LP slot and seven PL slots (PP-1, 7, 16, 26, 42, 49, 103). All eight are corrected and all eight are BARREN.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-721 | PL-208 (kept) | LP-649 (LP-582, listed twice) | BARREN | LP-582 carries no transparency claim; LP-649 carries that a gap must be disclosed as an attested record. The Derives line now names PL-208 alone. Test 1: that a representation disclosing only what is known claims more completeness than exists, and is Theater, holds from PL-208 alone. |
+| PP-1 | PL-42 (PL-50, listed twice) | LP-1, LP-24 (kept) | BARREN | PL-50 carries navigability, not sovereignty as metabolism; PL-42 carries that sovereignty needs aliveness and that Pulse monitoring is sovereignty monitoring. The sentence that defending the boundary is the metabolic activity moves to LP-1 and LP-24 (through LL-2). Test 2: the identity of evaluation metabolism and sovereignty contestation holds from LP-1 and LP-24 alone. |
+| PP-7 | PL-227 (PL-50) | LP-5 (kept) | BARREN | PL-50 carries no sovereignty content; PL-227 carries that active exercise of rights atrophies without metabolic maintenance while inherent standing persists. The cessation clause is cut back to that: a lapsed endpoint withdraws the exercise of its sovereignty, not its standing. Test 1, through LL-2: a conjunction. |
+| PP-16 | PL-201 (PL-74) | LP-8 (kept) | BARREN | PL-74 does not carry the claim; PL-201 carries the nearest statement. The co-traversal product the PP named belongs to neither parent. Test 1: holds from PL-201 alone. |
+| PP-26 | PL-59 (kept) | LP-17 (kept) | BARREN | Restated only. The failure-as-fuel statement is LP-17's and is now attributed to it; PL-59 is restated to what it carries. Test 2: holds from LP-17 alone. |
+| PP-42 | PL-247 (PL-51) | LP-25 (kept) | BARREN | PL-51 carries failure propagation across scales, nothing on identity. PL-247 carries that an identity not being performed is the Structural Mass of its past performances and a resting identity is a label. "Identity IS mass" is dropped, since PL-247 says identity is the present performance. Test 2: that a gate evaluating provenance reads structural history, not a label, holds from LP-25 alone. |
+| PP-49 | PL-192 (PL-54) | LP-30 (kept) | BARREN | PL-54 requires uniform activity and treats dormancy as a defect, the opposite thrust. No PL entry searched states an entity's right to complete its cycle; PL-192 carries that the living topology must permit death. The LL-21 ground moves to LP-30's sentence, where LP-30 states it. Test 2: the interior-triggered self-dissolution capability holds from LP-30 alone. |
+| PP-103 | PL-191 (PL-82) | LP-73 (kept) | BARREN | PL-82 carries door/wall edge tension, nothing on metabolism. PL-191 carries that a subsystem isolated from the primary circulation metabolizes at its own rate. The offspring wording is attributed to LL-61, LP-73's own logical parent; LP-73 states only the self-similar nesting. "Governance" in paragraph 2 becomes "metabolism". Test 1: PL-191's rule applied to the nested case LP-73 supplies is a conjunction. |
+
+What changed (`system-foundations-physical-physical.md`):
+- Derives or Applies line re-pointed: PP-721, PP-1, PP-7, PP-16, PP-42, PP-49 and PP-103. PP-26 keeps its parents.
+- Irreducible Claim restated to the parents' own texts, and Irreducibility restated naming the failing test: all eight.
+- `**Derivational State:** BARREN` added after the Derives line: all eight. Eight lines are added.
+- No title is changed, so the 95 copies of each title in `system-foundations-physical-implementation.md` stay valid. No entry has been removed or renumbered, and nothing on the PL or LP side is changed.
+
+Amendments made by OPEN PM in review:
+- PP-7: "a sovereignty vacuum in the exercise of sovereignty" became "a vacuum in the exercise of sovereignty" (the doubled word).
+- PP-26: the italic line's "failure-states are its primary fuel" became "drift and failure states are its fuel"; "primary" is carried by neither parent.
+- PP-42: the Irreducibility now records that the parents use "label" differently. LP-25 calls the badge the label and the derivation history the thing read; PL-247 calls the accumulated Structural Mass itself a label of the present identity. The entry follows LP-25's usage.
+- PP-49: PL-192's sentence keeps its own ground, that a settled region is a dead region (LL-320).
+- PP-103: "as subsystems isolated from the container's primary circulation" became the condition "where a nested entity is isolated from the container's primary circulation". Neither parent says a nested entity is so isolated. The Irreducibility says the restated claim holds only under that condition.
+
+Doubts recorded, not acted on:
+- PP-42: paragraph 2's statement that no evaluation takes zero time, and corollary (1) on latency as a physical minimum, are stated by neither parent. Corollary (3) keeps the words "identity mass". PL-246 (identity as the edge's force relationship; the label is Structural Mass evidence) was read and is not nearer.
+- PP-49: PL-6 (dissolution is the topology's own metabolic act, not an administrative one) shares the frame of corollary (1) but protects against dissolution. PL-192 concerns settled regions, not an entity's right. The PL slot may be judged to have no carrier at all.
+- PP-103: the title and corollaries keep "self-governing", which neither parent states.
+- PP-7: the bridge through LL-2 is the weakest step in the batch.
+
+Out-edges (`system-foundations-implementation-physical.md`), not corrected here:
+- PP-16 is cited for scar deposits (:84, :551, :730, :1087, :1160, :1391 and others); PP-16's text says nothing about scars.
+- PP-42 is cited for `restore-lineage` (:1196, :1450); PP-42's text says nothing about lineage restoration. :605 rests on the structural-mass content, which is kept.
+- PP-103 is cited for nested self-governance (:63, :476, :1321), which now rests on the title and corollaries alone.
+- These belong with D23 (IP lines whose PP labels do not match the PP's text).
+
+Open loci found in this batch, for later batches:
+- PL-50 is the named left parent of PP-1 (twice) and PP-7 and carries what neither says of it. The same pattern is likely in other PP entries.
+- Stray LP ids in the Derives line, which names the left (PL) parent: LP-625 (PP-1), LP-395 (PP-7), LP-695 (PP-16, PP-42) and LP-445 (PP-26). None is cited in the bodies. They are left as they are.
+- PL-42, PL-227, PL-201, PL-247, PL-192 and PL-191 do not apply the LL named in the `[shared LL-x]` tag of the PP they now serve (related item 1).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -260,16 +307,16 @@ Open loci found in this batch, for later batches:
 | PP-695 | LP | LP-551,LP-551 | candidate LP-241, medium confidence, no second reader proposed it; not adopted |
 | PP-698 | LP | LP-95,LP-95 | no carrier found (strict reader, medium) |
 | PP-720 | LP | LP-581,LP-581 | no carrier found (every reader) |
-| PP-721 | LP | LP-582,LP-582 | candidate LP-649, low confidence, not adopted |
+| PP-721 | LP | LP-582,LP-582 | candidate LP-649, low confidence, not adopted; batch 02: re-pointed to LP-649 and restated, BARREN |
 | PP-723 | LP | LP-584,LP-584 | candidate LP-694, low confidence, not adopted |
-| PP-1 | PL | PL-50,PL-50 | no carrier found (strict reader, medium) |
-| PP-7 | PL | PL-50 | no carrier found (every reader) |
-| PP-16 | PL | PL-74 | no carrier found (strict reader, medium) |
+| PP-1 | PL | PL-50,PL-50 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-42 and restated, BARREN |
+| PP-7 | PL | PL-50 | no carrier found (every reader); batch 02: re-pointed to PL-227 and restated, BARREN |
+| PP-16 | PL | PL-74 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-201 and restated, BARREN |
 | PP-24 | PL | PL-50 | no carrier found (strict reader, medium) |
-| PP-26 | PL | PL-59 | no carrier found (every reader) |
-| PP-42 | PL | PL-51 | no carrier found (strict reader, medium) |
+| PP-26 | PL | PL-59 | no carrier found (every reader); batch 02: restated, BARREN |
+| PP-42 | PL | PL-51 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-247 and restated, BARREN |
 | PP-43 | PL | PL-53 | candidate PL-98, low confidence, not adopted |
-| PP-49 | PL | PL-54 | no carrier found (strict reader, medium) |
+| PP-49 | PL | PL-54 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-192 and restated, BARREN |
 | PP-52 | PL | PL-54 | no carrier found (strict reader, medium) |
 | PP-59 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
 | PP-63 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
@@ -279,7 +326,7 @@ Open loci found in this batch, for later batches:
 | PP-89 | PL | PL-90 | no carrier found (every reader) |
 | PP-92 | PL | PL-94 | no carrier found (strict reader, medium) |
 | PP-98 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
-| PP-103 | PL | PL-82 | no carrier found (every reader) |
+| PP-103 | PL | PL-82 | no carrier found (every reader); batch 02: re-pointed to PL-191 and restated, BARREN |
 | PP-107 | PL | PL-85 | no carrier found (strict reader, medium) |
 | PP-112 | PL | PL-50 | no carrier found (every reader) |
 | PP-115 | PL | PL-86 | no carrier found (strict reader, medium) |
