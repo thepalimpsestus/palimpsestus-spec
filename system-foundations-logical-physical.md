@@ -11578,7 +11578,7 @@ LP relates to CP the way LL relates to CL: CP defines the irreducible physical v
 - A creator who appears to have externalized consequence costs has not shed them — the attribution still follows the lineage back to the creator.
 - The consequence-linked attribution is the structural mechanism by which thermodynamic honesty is enforced over time.
 
-**Irreducibility:** CP-85 establishes that cost cannot be externalized and follows the derivation lineage. LL-473 establishes creator ownership of a derivation's thermodynamic consequence. Re-crossed on CP-85's text (D20; `docs/audit/D20_LP_CP85_RECROSS.md`), the claim holds from CP-85 alone (Test 2: CP-85 already attributes the consequence of what was built to the builder, through any walk-away, along the lineage), and its consequence scope holds from LL-473 alone (Test 1). The entry is kept and marked, not deleted (see the D20 receipt on keeping); its out-edge LI-94 takes from it only the creator's ownership, which LL-473 alone carries.
+**Irreducibility:** CP-85 establishes that cost cannot be externalized and follows the derivation lineage. LL-473 establishes creator ownership of a derivation's thermodynamic consequence. Re-crossed on CP-85's text (D20; `docs/audit/D20_LP_CP85_RECROSS.md`), the claim holds from CP-85 alone (Test 2: CP-85 already attributes the consequence of what was built to the builder, through any walk-away, along the lineage), and its consequence scope holds from LL-473 alone (Test 1). The entry is kept and marked, not deleted (see the D20 receipt on keeping); its out-edge LI-94 takes from it the creator's ownership (LL-473 alone) and its non-transfer to a later holder (CP-85 alone).
 
 ---
 

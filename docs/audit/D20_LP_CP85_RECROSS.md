@@ -1,6 +1,6 @@
 # D20: four LP entries re-crossed on CP-85's own text
 
-Ledger entry: `DEFECT_LEDGER.md`, D20. Status: **OPEN** until the corrected text has been checked independently. Round 2 (below) answers the first independent check. Corpus file: `system-foundations-logical-physical.md`.
+Ledger entry: `DEFECT_LEDGER.md`, D20. Status: **CLOSED**. Round 2 (below) answers the first independent check; Round 3 records the second, which found the correction holds. Corpus file: `system-foundations-logical-physical.md`.
 
 ## The defect
 
@@ -10,7 +10,7 @@ LP-612 to LP-619 each cross CP-85 (Non-Externalizable Cost Attribution) with one
 - the attribution follows the derivation lineage;
 - cost-sharing is possible, but cost-shedding is not.
 
-`git grep -i retroactiv` over `system-foundations-conceptual-physical.md` at the base of this correction finds no line. A one-word search does not show absence, so the nearest CP text was read as well: CP-84 (Continuous Metabolic Register) says the meter runs before anyone arrives. It carries cost that accrues before discovery, but not a registration that reaches back. On that reading no CP entry establishes retroactive registration (see also `docs/audit/D19_PP_PARENT_RESIDUE.md`, related item 3, which names CP-84).
+`git grep -i retroactiv` over `system-foundations-conceptual-physical.md` at the base of this correction finds no line. A one-word search does not show absence, so the nearest CP text was read as well: CP-84 (Continuous Metabolic Register) says the meter runs before anyone arrives. It carries cost that accrues before anyone arrives, but not a registration that reaches back. On that reading no CP entry establishes retroactive registration (see also `docs/audit/D19_PP_PARENT_RESIDUE.md`, related item 3, which names CP-84).
 
 ## The rule applied
 
@@ -65,7 +65,7 @@ That check also reported points about LP-612, LP-613, LP-615 and LP-618, about t
 
 An independently prompted check of the landed text (at 308ec35) agreed with the classes of LP-614, LP-616 and LP-617, and accepted BARREN for LP-619 on the reading recorded above. It found one must-fix: this file and LP-619 said the out-edge LI-94 was unaffected, when LI-94's creator attribution of pre-discovery cost had lost its LP carrier. That is now recorded as D21 (Out-edges above). It also raised these notes, answered here:
 - LP-614's Irreducibility credited the pair with what LL-470 gives alone: restated to the residue only.
-- LP-616 kept "future registration event" and "complete accounting" in a BARREN entry: both restated. The LL-472 half of the old corollary 2 (no later moment to move a cost to) is restored in corollary 3.
+- LP-616 kept "future registration event" and "complete accounting" in a BARREN entry: both restated. Corollary 3 now carries an LL-472 statement (no later moment to move a cost to) in place of the old corollary 2's LL-472 half, which said present-tense collection prevents future debt from forming; both are LL-472's alone.
 - "Not the system's" and "says the opposite" over-read LL-470, which places the debt in time, not with an owner: restated.
 - LP-619's Test 3 citation of LP-492 covered only a special case: removed; Test 1 decides the class.
 - The Derivational State value carried a suffix outside the schema enum: the line is now the bare value, and the Irreducibility field names D20 and this file.
@@ -73,3 +73,13 @@ An independently prompted check of the landed text (at 308ec35) agreed with the 
 - The absence claim rested on one word, and D19's CP-84 suggestion was not answered: both answered above.
 - Not adopted: the check read "from their natural origin" in LP-619's claim as more than LL-475 says. LL-475 says undiscovered derivations "have always been incurring costs" and that discovery reveals obligations running "since before the discoverer existed", on derivations that pre-exist (LC-11). That warrants "from their natural origin". The text is unchanged.
 - Seen in passing by the check, outside this defect: LP-702 attributes 'responsibility-weighted oscillation' to its above parent CP-61 (Compensatory Structure Spawner), a phrase that matches CP-86's title. An open locus for the D19 batches.
+
+## Round 3: the second independent check
+
+A second check, prompted independently of the edits, read the round-2 text and found the correction holds, with no must-fix. Its re-run of the absence search (`git grep -n -i 'retroactiv\|backdat'` over `system-foundations-conceptual-physical.md`) found no line; not found is not proof of absence. It confirmed that no LP entry at the base of this correction has CP-84 as a parent (0 hits), and accepted the reading of LL-475 recorded in Round 2. It raised four notes, applied here:
+- LP-617's out-edge sentence understated what LI-94 takes from it: LI-94 also takes the non-transfer to a later holder, which CP-85 alone carries. Restated; the edge stands either way, since both halves are single-parent facts LP-617 still carries.
+- Round 2 called corollary 3 of LP-616 a restoration of the old LL-472 half; the wording differs. Re-worded above.
+- "before discovery" went beyond CP-84's words; now "before anyone arrives".
+- The register title still read `D01` – `D20`: now `D21`.
+
+D20 is closed. D21 stays open.
