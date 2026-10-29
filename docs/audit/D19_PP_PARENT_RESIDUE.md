@@ -162,6 +162,57 @@ Open loci found in this batch, for later batches:
 - Stray LP ids in the Derives line, which names the left (PL) parent: LP-625 (PP-1), LP-395 (PP-7), LP-695 (PP-16, PP-42) and LP-445 (PP-26). None is cited in the bodies. They are left as they are.
 - PL-42, PL-227, PL-201, PL-247, PL-192 and PL-191 do not apply the LL named in the `[shared LL-x]` tag of the PP they now serve (related item 1).
 
+### Batch 03
+
+Eight slots in seven entries: the PL slots of PP-131, 136, 140, 145, 199 and 217, and the LP slots of PP-217 and PP-218. Seven are corrected and all seven are BARREN; PP-136 is not corrected and stays open.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-131 | PL-226 (PL-113) | LP-94 (kept) | BARREN | PL-113 carries that a consistency snapshot cannot certify the future, nothing on hidden tension. PL-226 carries that unattended tension compounds as thermodynamic debt. Reading "hidden" (LP-94) as "unattended" is the entry's step. Test 1: with it, PL-226's rule applies to the case LP-94 supplies, a conjunction. "Uncounted" is dropped. |
+| PP-140 | PL-130 (PL-149) | LP-101 (kept) | BARREN | PL-149 carries that certainty is impossible, nothing on decay. PL-130 is the only entry found that joins Wake and its decay. Test 1: that a probe's Wake decays holds from PL-130 alone; LP-101 supplies only that the probe is an interaction. The scale-invariant rate and the truth-event are dropped. |
+| PP-145 | PL-150 (PL-216) | LP-105 (kept) | BARREN | PL-216 carries that a question locates pre-existing structure. PL-150 carries that a boundary IS tension (LL-363) and that multi-sovereignty tension is irreducible (LL-329). Test 1: relief without resolution is PL-150's irreducibility applied to the tension whose release LP-105 names. The claim now holds only where the boundary lies between sovereign structures. |
+| PP-199 | PL-237 (PL-50) | LP-144 (kept) | BARREN | PL-50 carries that a wall at any scale is a global wall. PL-237 carries that sovereign tension held without exercise is dormancy and the sovereignty weakens. Test 1: that stopping the exercise weakens the sovereignty holds from PL-237 alone, applied to LP-144's case; reading a stale identity declaration as tension held without exercise is the entry's step. |
+| PP-217 | PL-84 (PL-27) | LP-246 (LP-151) | BARREN | Neither old parent carries its claim. LP-246 carries that an uncontested border is unused and decays (Test 2); PL-84 carries that an untraversed edge atrophies and its standing degrades (Test 1). The same decay stated twice is a conjunction. "Unprobed" is read as "unexercised"; limit-testing as a necessity is dropped. |
+| PP-218 | PL-43 (kept) | LP-151 (kept) | BARREN | Restated only. LP-151 carries protective partiality and that a complete self-model must not be demanded, not that limit-testing is a necessity. Test 1: that no exhaustive map can be obtained holds from PL-43 alone; Test 2: that it must not be demanded holds from LP-151 alone, once the demand is read as one for a complete self-model (the entry's step). Two single-parent facts side by side. |
+
+What changed (`system-foundations-physical-physical.md`):
+- Derives or Applies line re-pointed: PP-131, PP-140, PP-145, PP-199 and PP-217 (both). PP-218 keeps its parents.
+- Italic line, Irreducible Claim and Corollaries restated to the parents' own texts, and Irreducibility restated naming the failing test: all six entries.
+- `**Derivational State:** BARREN` added after the Derives line: six lines, one per entry; PP-217's two slots share one.
+- No title is changed. No entry has been removed or renumbered, and nothing on the PL or LP side is changed.
+
+PP-136 (PL-160), not corrected: the Worker proposed restating the entry onto LP-98 alone. LP-98's corollary says successful probes solidify the ephemeral edge into a permanent connection, so the restatement would contradict the title, "Frontier Understanding Is Constitutionally Ephemeral". A retitle is outside this batch's brief; it goes to a later title pass with its 95 copies in `system-foundations-physical-implementation.md`, as in batch 01b. The slot stays in D19.
+
+Amendments made by OPEN PM in review:
+- PP-131, PP-145, PP-199 and PP-218: the Worker left these unmarked, reading the entry's own step as a product (for PP-145 it named the conjunction reading as close); each is one parent's rule applied to a case the other supplies, or two single-parent facts, so each is BARREN under the batch 01b ruling and carries the marker. For PP-218 a new edit adds the marker between its unchanged Derives and Applies lines.
+- PP-131: visibility is the precondition for attending to the tension and "does not itself discharge the debt"; the Worker's text made visibility the debt service.
+- PP-140: dropped "the same curve" and "PL-130 states no exception" (PL-130 gives a decay curve, not a common one), and the (LL-201) tag on the failed-probe clause, which is LP-101's corollary; corollary (1) no longer says "the same rate".
+- PP-145: corollary (1) is limited to bottlenecks that mark a capacity boundary; PL-150's boundary is a boundary between regions, not every bottleneck.
+- PP-199: dropped PL-237's "acknowledgment without engagement" clause, which concerns declared tensions, not identity declarations; the Irreducibility records that reading a stale identity declaration as tension held without exercise is the entry's step, and that the parents use "tension" in two senses.
+- PP-217 and PP-218: the Irreducibility rewritten to name which parent alone carries which half.
+
+Doubts recorded, not acted on:
+- PP-199: corollaries (1) and (2) call yearly or release-cycle re-declaration slow; neither parent states a rate.
+- PP-217: PL-84 speaks of traversal and LP-246 of contestation; "exercised" covers both and the entry does not say they are one.
+- PP-242 (batch 01) is classed IRREDUCIBLE as a product (cascade reach sets proof reach). Batch 01 preceded the 01b conjunction ruling; it should be re-read under it for consistency.
+
+Out-edges (`system-foundations-implementation-physical.md`), not corrected here:
+- PP-140 is cited for "decay-resistant wake" (:88) and a "truth-event" (:245); the restated entry carries neither.
+- PP-145 is cited for surfacing "sovereign boundary limits" (:784); the probe no longer reveals the boundary.
+- PP-199 is cited for "metabolic pulse cycles" (:67), which now rests only on LP-144's pulse; the gap-node field-integrity lines (:271, :275, :451, :455, :708, :1013) were never carried by PP-199.
+- PP-131 is cited by gap-node lines (:262, :267, :441, :446, :1270, :1525) for content PP-131 never carried.
+- PP-136 lines :87 and :244 rest on LP-98's frontier-edge content.
+- These belong with D23. PP-217's two citations (:133, :161) are Applies lists and carry no content claim.
+
+Open loci found in this batch, for later batches:
+- Every batch 02 and batch 03 correction is BARREN: where the original product was false, the nearest true carrier gives a conjunction. Later batches should expect this and say so when they find otherwise.
+- PP-216 makes the same false attribution to LP-151 as PP-217 and PP-218.
+- Thin or stub-like old parents: PL-50 (again), PL-113, PL-149, PL-160, PL-216.
+- The `[shared LL-x]` tag no longer matches the new parent on PP-131 (PL-226 applies LL-379), PP-140 (PL-130), PP-199 (PL-237) and PP-217 (PL-84); PP-145 and PP-218 still match (related item 1).
+- Titles keep claims the restated bodies no longer make (all six entries; "navigation debt" and "unprobed" in PP-217, "IS Thermodynamic Debt Management" in PP-131, "Totalitarian Control" in PP-218). Each title has 1 copy in PP and 95 in PI, none in IP.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -171,8 +222,8 @@ Open loci found in this batch, for later batches:
 | PP-102 | LP | LP-72 | no carrier found (strict reader, low) |
 | PP-113 | LP | LP-216 (was LP-81) | candidate LP-210, low confidence, not adopted; batch 01: re-pointed and restated, BARREN |
 | PP-216 | LP | LP-151 | no carrier found (strict reader, medium) |
-| PP-217 | LP | LP-151 | candidate LP-243, low confidence, not adopted |
-| PP-218 | LP | LP-151 | no carrier found (strict reader, medium) |
+| PP-217 | LP | LP-151 | candidate LP-243, low confidence, not adopted; batch 03: re-pointed to LP-246 and restated, BARREN |
+| PP-218 | LP | LP-151 | no carrier found (strict reader, medium); batch 03: kept and restated, BARREN |
 | PP-220 | LP | LP-152 | no carrier found (strict reader, medium) |
 | PP-221 | LP | LP-152 | no carrier found (strict reader, medium) |
 | PP-223 | LP | LP-153 | candidate LP-1, medium confidence, no second reader proposed it; not adopted |
@@ -333,10 +384,10 @@ Open loci found in this batch, for later batches:
 | PP-119 | PL | PL-87 | candidate PL-63, low confidence, not adopted |
 | PP-129 | PL | PL-110 | no carrier found (strict reader, medium) |
 | PP-130 | PL | PL-111 | no carrier found (strict reader, medium) |
-| PP-131 | PL | PL-113 | candidate PL-226, low confidence, not adopted |
-| PP-136 | PL | PL-160 | no carrier found (strict reader, medium) |
-| PP-140 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
-| PP-145 | PL | PL-216 | no carrier found (strict reader, medium) |
+| PP-131 | PL | PL-113 | candidate PL-226, low confidence, not adopted; batch 03: re-pointed to PL-226 and restated, BARREN |
+| PP-136 | PL | PL-160 | no carrier found (strict reader, medium); batch 03: read, not corrected (restatement would contradict the title; to the title pass) |
+| PP-140 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 03: re-pointed to PL-130 and restated, BARREN |
+| PP-145 | PL | PL-216 | no carrier found (strict reader, medium); batch 03: re-pointed to PL-150 and restated, BARREN |
 | PP-154 | PL | PL-130 | no carrier found (strict reader, medium) |
 | PP-158 | PL | PL-133 | no carrier found (strict reader, medium) |
 | PP-163 | PL | PL-50 | no carrier found (every reader) |
@@ -344,9 +395,9 @@ Open loci found in this batch, for later batches:
 | PP-184 | PL | PL-144 | no carrier found (strict reader, high) |
 | PP-192 | PL | PL-154 | no carrier found (strict reader, medium) |
 | PP-196 | PL | PL-198 | no carrier found (every reader) |
-| PP-199 | PL | PL-50 | no carrier found (strict reader, high) |
+| PP-199 | PL | PL-50 | no carrier found (strict reader, high); batch 03: re-pointed to PL-237 and restated, BARREN |
 | PP-216 | PL | PL-22 | no carrier found (every reader) |
-| PP-217 | PL | PL-27 | candidate PL-84, low confidence, not adopted |
+| PP-217 | PL | PL-27 | candidate PL-84, low confidence, not adopted; batch 03: re-pointed to PL-84 and restated, BARREN |
 | PP-219 | PL | PL-30 | no carrier found (strict reader, medium) |
 | PP-231 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-233 | PL | PL-305 | no carrier found (strict reader, high) |
