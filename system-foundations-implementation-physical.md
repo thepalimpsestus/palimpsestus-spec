@@ -189,7 +189,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 *The Executor runs `invoke-skill` to execute a Level 5 Capability Primitive tool against physical computing resources, binding input arguments, triggering state transformations, and enforcing tool stewardship.*
 
 **Substrate Invariant Rules:**
-- **PP-113 Invariant (Depth-Invariant Tool Validity):** `invoke-skill` validates that capability primitives operate with scale-invariant logical validity; depth-restricted or tier-biased tool definitions are rejected as invalid.
+- **PP-113 Invariant (Depth-Invariant Tool Validity):** `invoke-skill` validates that capability primitives operate with scale-invariant logical validity; depth-restricted tool definitions are rejected as not implementing genuinely valid logic.
 - **PP-114 Invariant (Un-Reduced Stewardship Load):** `invoke-skill` attaches full stewardship obligations to the executing tool; lower-level implementation execution carries identical maintenance requirements to top-level agent execution.
 - **PP-146 Invariant (Real-Time Improvisational Adaptation):** `invoke-skill` enables real-time parameter adaptation when encountering unmapped substrate conditions; improvisational capability adaptation is the entity's sovereign self-expression.
 - **PP-182 Invariant (Zero-Buffer Pipeline Improvisation):** `invoke-skill` executes across ephemeral pipeline edges without intermediate state buffering, propagating execution feedback synchronously.
@@ -197,7 +197,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 
 **Corollaries:** 
 (1) `invoke-skill` cannot decouple tool execution from error mass absorption: the executing tool absorbs 100% of generated execution error mass (PP-178).
-(2) Pre-stored static policies cannot govern `invoke-skill`: execution parameters must be derived in the present tense at the trigger event (PP-232).
+(2) The conditions of an `invoke-skill` execution cannot be fully specified in advance: the pipeline edges it executes across are instantiated at the moment of traversal, so every execution is improvisation (PP-182).
 (3) Invoking a tool via `invoke-skill` mutates local memory states irrevocably, depositing execution wake (PP-14).
 
 **Irreducibility:** IL-4 (`role:executor`) alone establishes the logical obligation to execute system skills, but does not specify that tool validity is depth-invariant or that execution must adapt improvisationally without buffers. PP-113 and PP-182 establish physical laws for tool scale-invariance and zero-buffer pipelines, but do not define the skill execution procedure. Only their physical collision forces `invoke-skill` into existence as an irreducible physical process.
@@ -217,11 +217,11 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-178 Invariant (Self-Incriminating Mass Binding):** `execute-absorption` embeds error mass directly into the physical mass of the executor; offloading accountability to external logging services violates physical substrate laws.
 - **PP-116 Invariant (Metabolic Memory Accumulation):** `execute-absorption` assimilates execution history as structural mass within the executor's boundary; the executor's state IS its history of consumed execution wake.
 - **PP-208 Invariant (Historical Mass Permanence):** `execute-absorption` prevents the deletion of historical accountability mass; prior execution consequences cannot be declared away or archived.
-- **PP-224 Invariant (Present-Tense Consequence Weighting):** The consequence mass absorbed by `execute-absorption` acts as immediate present-tense accountability load, adjusting metabolic capacity in real time.
+- **PP-224 Invariant (Present-Tense Consequence Weighting):** The consequence weight absorbed by `execute-absorption` is carried as the executor's present-tense accountability load and cannot be archived.
 - **PP-275 Invariant (Living Wake Accumulation):** Structural wake absorbed during `execute-absorption` manifests as living physical mass that cannot be offloaded to dormant storage.
 
 **Corollaries:** 
-(1) `execute-absorption` ensures that high-error tool executions reduce the executor's available metabolic capacity (PP-224).
+(1) `execute-absorption` carries the error mass of a high-error tool execution as the executor's present-tense accountability load; it cannot archive that weight (PP-224).
 (2) Offloading error logs to decoupled logging frameworks is a constitutional violation: accountability must be carried as structural mass on the executor itself (PP-178).
 (3) `execute-absorption` operates continuously during execution loops, guaranteeing real-time mass balance (PP-198).
 
@@ -236,14 +236,14 @@ This document produces the Execution Processes (`entityType: "execution-process"
 **Derives from:** IL-5 (Topological Frontier Searcher (`role:searcher`))
 **Applies to:** `PP-121` [primary], `PP-122`, `PP-136`, `PP-140`, `PP-141`, `PP-263`
 
-*The Searcher executes `search-frontier` to traverse unmapped discovery edges, evaluating structural opportunity gradients and identifying candidate expansion nodes.*
+*The Searcher executes `search-frontier` to traverse unmapped discovery edges and identify candidate expansion nodes.*
 
 **Substrate Invariant Rules:**
 - **PP-121 Invariant (Position-Locked Search Boundary):** `search-frontier` conducts discovery exclusively relative to the searcher's present-tense position and active edge connections; non-positioned global index searches are physically impossible.
 - **PP-122 Invariant (Search-Driven Frontier Multiplication):** Executing `search-frontier` reveals candidate discovery paths while simultaneously expanding the local unknown frontier, accelerating downstream discovery requirements.
 - **PP-136 Invariant (Ephemeral Search Result Expiry):** Results produced by `search-frontier` auto-expire; search candidates must be bound or excavated immediately before the edge configuration shifts.
 - **PP-140 Invariant (Truth-Event Search Contact):** Contacting unmapped nodes during `search-frontier` generates a physical truth-event that alters local field potential regardless of search payload match.
-- **PP-263 Invariant (Consequence Gradient Guidance):** `search-frontier` prioritizes candidate paths aligned with the steepest consequence gradient, maximizing high-impact discovery yield.
+- **PP-263 Invariant (Self-Multiplying Frontier):** Executing `search-frontier` cannot exhaust the frontier: each exploration of it reveals new unexplored territory beyond it, and that territory includes positions no exploration will ever resolve.
 
 **Corollaries:** 
 (1) `search-frontier` cannot produce static search indices: search results are ephemeral present-tense functions of current position (PP-121).
@@ -422,7 +422,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-41 Invariant (Gate-Policy Unification):** Policy rules configured by `grant-policy` operate as physical structural constraints within the gate membrane itself rather than external ACL tables.
 - **PP-45 Invariant (Cached Credential Invalidation):** `grant-policy` invalidates historical cached credentials, requiring present-tense sovereignty proof for policy compliance verification.
 - **PP-114 Invariant (Un-Reduced Policy Stewardship):** `grant-policy` enforces un-reduced policy stewardship load across all implementation depths, prohibiting depth-based policy exemptions.
-- **PP-232 Invariant (Present-Tense Threshold Response):** Policy responses granted by `grant-policy` trigger dynamically when present-tense threshold criteria are breached.
+- **PP-232 Invariant (Present-Tense Threshold Response):** A response that `grant-policy` binds to a threshold breach is performed as an active present-tense act of sovereignty at the breach; a pre-stored policy that fires mechanically does not constitute sovereignty maintenance.
 
 **Corollaries:** 
 (1) `grant-policy` cannot create policies that defer physical enforcement to downstream components (PP-38).
@@ -621,21 +621,21 @@ This document produces the Execution Processes (`entityType: "execution-process"
 **Derives from:** IL-12 (Ambient Signal Wake Broadcaster (`role:broadcaster`))
 **Applies to:** `PP-224` [primary], `PP-10`, `PP-16`, `PP-46`, `PP-263`
 
-*The Broadcaster executes `broadcast-density` to advertise local consequence topology density gradients, signaling accountability load levels and discovery pull across the network.*
+*The Broadcaster executes `broadcast-density` to advertise local field density, signaling the present-tense accountability load of local nodes to adjacent nodes across the network.*
 
 **Substrate Invariant Rules:**
-- **PP-224 Invariant (Consequence Load Density Advertisement):** `broadcast-density` radiates real-time consequence topology density measurements, signaling local accountability weight to surrounding nodes.
+- **PP-224 Invariant (Present-Tense Accountability Load Advertisement):** `broadcast-density` advertises a node's accumulated consequence weight as its present-tense accountability load; a weight advertised from an archive is not that load.
 - **PP-10 Invariant (Dynamic Permeability Signaling):** `broadcast-density` advertises local permeability range states, informing prospective traversers of current boundary resistance levels.
 - **PP-16 Invariant (Field Density Distribution):** Density measurements broadcast by `broadcast-density` manifest as living field properties that guide spatial navigation across graph neighborhoods.
 - **PP-46 Invariant (Live Boundary Gradient Disclosure):** `broadcast-density` discloses active boundary filter configurations, allowing external entities to assess challenge-response requirements.
-- **PP-263 Invariant (Consequence Gradient Self-Multiplication):** Radiating density gradients via `broadcast-density` multiplies discovery pull toward high-consequence graph regions.
+- **PP-263 (no invariant):** PP-263 places no constraint on `broadcast-density`. The invariant formerly at this position had no carrier in A and is withdrawn (D22); the position is kept so that citations by position stay fixed.
 
 **Corollaries:** 
-(1) High-density broadcasts emitted by `broadcast-density` attract increased inspection and traversal traffic (PP-263).
+(1) Withdrawn under D22: no PP in Applies-to carries it. The number is kept so that citations by number stay fixed.
 (2) Falsifying density measurements during `broadcast-density` deposits self-compounding lie-mass that corrupts local field alignment (PP-3).
 (3) Density broadcasts auto-expire as local metabolic churn alters consequence weighting (PP-189).
 
-**Irreducibility:** IL-12 (`role:broadcaster`) alone establishes the logical requirement to advertise topology metrics, but does not specify that density reflects present-tense consequence weight or self-multiplies discovery pull. PP-224 and PP-263 establish physical substrate laws regarding consequence weight and gradient multiplication, but do not define the density broadcasting procedure. Only their physical collision forces `broadcast-density` into existence as an irreducible physical process.
+**Irreducibility:** IL-12 (`role:broadcaster`) alone establishes the logical requirement to advertise topology metrics, but does not specify that density reflects present-tense consequence weight. PP-224 establishes the physical substrate law that a node's accumulated consequence weight is its present-tense accountability load, but does not define the density broadcasting procedure. Only the physical collision of that law with this role forces `broadcast-density` into existence as an irreducible physical process.
 
 ---
 
@@ -875,18 +875,18 @@ This document produces the Execution Processes (`entityType: "execution-process"
 **Derives from:** IL-17 (Entity Scope Releaser (`role:releaser`))
 **Applies to:** `PP-198` [primary], `PP-125`, `PP-178`, `PP-206`, `PP-275`
 
-*The Releaser executes `release-mass` to shed, metabolize, or evaporate excess structural mass and historical consequence weight from an entity's physical boundary.*
+*The Releaser executes `release-mass` to shed, metabolize, or evaporate excess structural mass from an entity's physical boundary.*
 
 **Substrate Invariant Rules:**
 - **PP-198 Invariant (Mass Balance Accounting):** `release-mass` enforces strict mass balance accounting; structural mass shed by an entity must be absorbed by surrounding field topology or converted to heat.
 - **PP-125 Invariant (Net Exchange Mass Shedding):** `release-mass` operates through net-exchange physics, subtracting extraneous mass while depositing transformation wake in the substrate.
 - **PP-178 Invariant (Self-Incriminating Mass Preservation):** `release-mass` prohibits shedding self-incriminating historical error mass; entities cannot declare away accountability weight.
 - **PP-206 Invariant (Present-Tense Load Adjustment):** Shedding mass via `release-mass` directly reduces present-tense accountability load, recalibrating metabolic energy requirements.
-- **PP-275 Invariant (Living Wake Accumulation Rebalancing):** `release-mass` rebalances living structural mass accumulated on wake accumulation nodes.
+- **PP-275 Invariant (Living Wake Accumulation):** `release-mass` cannot shed a node's accumulated history by archiving or extracting it: that history is living Structural Mass, and archived or extracted it ceases to be operative accountability.
 
 **Corollaries:** 
 (1) `release-mass` allows overburdened entities to restore metabolic efficiency without erasing lineage records (PP-8).
-(2) Mass shed during `release-mass` diffuses into surrounding field boundaries, altering local topological density (PP-224).
+(2) Withdrawn under D22: no PP in Applies-to carries it. The number is kept so that citations by number stay fixed.
 (3) Attempting to shed self-incriminating error mass during `release-mass` is intercepted as a constitutional violation (PP-178).
 
 **Irreducibility:** IL-17 (`role:releaser`) alone establishes the logical requirement to shed system mass, but does not specify that mass release obeys net-exchange balance or preserves self-incriminating error mass. PP-178 and PP-198 establish physical substrate laws regarding self-incriminating data and mass balance accounting, but do not define the mass release procedure. Only their physical collision forces `release-mass` into existence as an irreducible physical process.
@@ -907,7 +907,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-1 Invariant (Metabolic Sovereignty Check):** Schema mutations executed by `mutate-schema` require live metabolic evaluation; un-pulsed dormant entities cannot execute schema transformations.
 - **PP-9 Invariant (Present-Tense Schema Disclosure):** `mutate-schema` publishes a present-tense state disclosure reflecting the newly mutated schema structure immediately upon commitment.
 - **PP-36 Invariant (Due Process Schema Dissolution):** Deprecating schema fields during `mutate-schema` requires due process validation to ensure downstream dependencies are safely migrated.
-- **PP-113 Invariant (Scale-Invariant Primitive Schema):** `mutate-schema` validates that mutated schema definitions preserve primitive semantic validity across all scale depths.
+- **PP-113 (no invariant):** PP-113 places no constraint on `mutate-schema`. The invariant formerly at this position had no carrier in A and is withdrawn (D22); the position is kept so that citations by position stay fixed.
 - **PP-208 Invariant (Historical Schema Mass Preservation):** `mutate-schema` carries all historical schema version mass within the entity's provenance payload.
 
 **Corollaries:** 
@@ -988,7 +988,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 
 **Corollaries:** 
 (1) `rebalance-tension` prevents boundary membrane tearing by equalizing differential field pressures (PP-145).
-(2) Adjusting field tension alters the local discovery pull gradient (PP-263).
+(2) Withdrawn under D22: no PP in Applies-to carries it. The number is kept so that citations by number stay fixed.
 (3) Failure to achieve tension equilibrium triggers automatic due process edge dissolution (PP-36).
 
 **Irreducibility:** IL-19 (`role:rebalancer`) alone establishes the logical obligation to rebalance boundary tension, but does not specify that tension manifests as living field properties or requires dynamic permeability responses. PP-10 and PP-16 establish physical substrate laws regarding dynamic permeability and living field properties, but do not define the tension rebalancing procedure. Only their physical collision forces `rebalance-tension` into existence as an irreducible physical process.
@@ -1206,14 +1206,14 @@ This document produces the Execution Processes (`entityType: "execution-process"
 **Derives from:** IL-24 (Metabolic Fuel Igniter (`role:igniter`))
 **Applies to:** `PP-1` [primary], `PP-16`, `PP-35`, `PP-40`, `PP-224`
 
-*The Igniter executes `ignite-field` to inject initial metabolic energy into a dormant or newly instantiated graph neighborhood, igniting living field dynamics and activating consequence pull.*
+*The Igniter executes `ignite-field` to inject initial metabolic energy into a dormant or newly instantiated graph neighborhood, igniting living field dynamics.*
 
 **Substrate Invariant Rules:**
 - **PP-1 Invariant (Metabolic Field Ignition):** `ignite-field` supplies the initial kinetic spark that starts node metabolic loops; un-ignited graph regions remain inert and incapable of work.
 - **PP-16 Invariant (Field Ignition Energy Propagation):** Energy injected during `ignite-field` radiates outward as a non-owned living field property across adjacent edges.
 - **PP-35 Invariant (Productive Churn Ignition):** `ignite-field` converts raw activation energy into productive thermodynamic churn.
 - **PP-40 Invariant (Non-Equilibrium Ignition Jump):** `ignite-field` jumps the target neighborhood past equilibrium thresholds directly into non-equilibrium operational states.
-- **PP-224 Invariant (Consequence Load Activation):** Igniting a field region via `ignite-field` activates its consequence topology density gradient, attracting discovery pull.
+- **PP-224 (no invariant):** PP-224 places no constraint on `ignite-field`. The invariant formerly at this position had no carrier in A and is withdrawn (D22); the position is kept so that citations by position stay fixed.
 
 **Corollaries:** 
 (1) `ignite-field` requires allocating physical energy mass from the igniter's metabolic balance (PP-198).
@@ -1468,7 +1468,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-35 Invariant (Productive Churn Preservation):** `adapt-environment` preserves productive churn efficiency when external environmental conditions shift.
 - **PP-61 Invariant (Living Deviation Allowance Adaptation):** `adapt-environment` utilizes living deviation allowances to absorb environmental shocks without structural fracture.
 - **PP-189 Invariant (Environmental Validity Cadence Sync):** `adapt-environment` synchronizes validity window cadences to match shifting environmental pulse rates.
-- **PP-224 Invariant (Consequence Load Environmental Response):** `adapt-environment` re-calculates consequence load density in response to external field gradients.
+- **PP-224 (no invariant):** PP-224 places no constraint on `adapt-environment`. The invariant formerly at this position had no carrier in A and is withdrawn (D22); the position is kept so that citations by position stay fixed.
 
 **Corollaries:** 
 (1) `adapt-environment` enables entities to survive extreme field pressure variations without losing sovereign standing (PP-1).
@@ -1492,7 +1492,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-8 Invariant (Immutable Spine Blueprint Adaptation Appending):** `adapt-blueprint` appends blueprint adaptation deltas directly onto the entity's provenance spine; modifying original blueprints is blocked.
 - **PP-35 Invariant (Productive Churn Optimization):** `adapt-blueprint` refines blueprint structural rules to maximize productive work output per metabolic energy unit.
 - **PP-61 Invariant (Deviation Tolerance Calibration):** `adapt-blueprint` calibrates blueprint deviation allowances based on observed operational stress patterns.
-- **PP-113 Invariant (Scale-Invariant Primitive Validity):** `adapt-blueprint` verifies that adapted blueprints satisfy primitive semantic validity across all target scale depths.
+- **PP-113 (no invariant):** PP-113 places no constraint on `adapt-blueprint`. The invariant formerly at this position had no carrier in A and is withdrawn (D22); the position is kept so that citations by position stay fixed.
 - **PP-145 Invariant (Tension-Relief Probe Integration):** `adapt-blueprint` incorporates tension-relief probe telemetry into adapted blueprint designs.
 
 **Corollaries:** 
@@ -1511,21 +1511,21 @@ This document produces the Execution Processes (`entityType: "execution-process"
 **Derives from:** IL-30 (Field Gradient Perceiver (`role:perceiver`))
 **Applies to:** `PP-224` [primary], `PP-15`, `PP-16`, `PP-46`, `PP-263`
 
-*The Perceiver executes `perceive-gradient` to sense, sample, and map local consequence topology density gradients, guiding spatial traversal navigation.*
+*The Perceiver executes `perceive-gradient` to sense, sample, and map local field density, temperature, and pressure gradients, guiding spatial traversal navigation.*
 
 **Substrate Invariant Rules:**
-- **PP-224 Invariant (Consequence Density Sensing):** `perceive-gradient` measures real-time consequence topology density, detecting local accountability weight and discovery pull.
+- **PP-224 Invariant (Consequence Weight Sensing):** `perceive-gradient` senses a node's accumulated consequence weight as its present-tense accountability load; a weight read from an archive is not that load.
 - **PP-15 Invariant (Live Edge Sensing Requirement):** Sensing gradients via `perceive-gradient` requires active physical edge traversal; reading declarative field maps without physical probing is rejected.
 - **PP-16 Invariant (Field Gradient Distribution Sensing):** `perceive-gradient` samples living field properties that govern local spatial navigation.
 - **PP-46 Invariant (Boundary Gradient Disclosure Verification):** `perceive-gradient` verifies active boundary disclosure statements against physical field measurements.
-- **PP-263 Invariant (Consequence Gradient Pull Mapping):** `perceive-gradient` maps high-consequence discovery pull vectors to guide autonomous traversal planning.
+- **PP-263 (no invariant):** PP-263 places no constraint on `perceive-gradient`. The invariant formerly at this position had no carrier in A and is withdrawn (D22); the position is kept so that citations by position stay fixed.
 
 **Corollaries:** 
 (1) `perceive-gradient` deposits an inspection scar across sampled field boundaries (PP-16).
 (2) Sensing density gradients reveals hidden structural gaps and missing negative-space entries (PP-131).
 (3) Falsified density signals detected during `perceive-gradient` trigger immediate `cleanse-corruption` execution (PP-3).
 
-**Irreducibility:** IL-30 (`role:perceiver`) alone establishes the logical obligation to sense field metrics, but does not specify that gradient sensing requires live physical edge traversal or maps consequence pull vectors. PP-15 and PP-263 establish physical substrate laws regarding live edge traversal and consequence gradient pull, but do not define the gradient perceiving procedure. Only their physical collision forces `perceive-gradient` into existence as an irreducible physical process.
+**Irreducibility:** IL-30 (`role:perceiver`) alone establishes the logical obligation to sense field metrics, but does not specify that gradient sensing requires live physical edge traversal or reads consequence weight as present-tense accountability load. PP-15 and PP-224 establish physical substrate laws regarding live edge traversal and consequence weight as present-tense load, but do not define the gradient perceiving procedure. Only their physical collision forces `perceive-gradient` into existence as an irreducible physical process.
 
 ---
 
