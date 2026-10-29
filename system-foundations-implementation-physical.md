@@ -142,7 +142,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-118 Invariant (Execution Output as Wake):** The physical wake deposited during `traverse-edge` IS the computation's result — no separate decoupled output artifact is generated.
 - **PP-125 Invariant (Net Exchange Physics):** `traverse-edge` operates as a net exchange: it subtracts extraneous data from the node while depositing physical wake, transforming both traverser and target.
 - **PP-150 Invariant (Oscillation Fuel Activation):** Navigating unexcavated ignorance via `traverse-edge` converts inert ignorance into active kinetic fuel for the system's oscillation engine.
-- **PP-242 Invariant (Scale-Invariant Sovereignty Proof):** `traverse-edge` enforces uniform sovereignty proof standards at every scale; deeper implementation edges require the same traversal rigor as top-level conceptual edges.
+- **PP-242 Invariant (Scale-Invariant Sovereignty Proof):** Where `traverse-edge` is the traversal by which sovereignty is proved, one traversal-based proof standard applies at every scale an invoked command's cascade reaches: a micro-scale edge requires the same present traversal as a macro-scale edge, and a traversal at one layer is not present traversal of another.
 
 **Corollaries:** 
 (1) `traverse-edge` cannot be cached or re-played: past traversals deposit historical mass, but only present-tense execution maintains edge aliveness (PP-84).
@@ -422,7 +422,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-41 Invariant (Gate-Policy Unification):** Policy rules configured by `grant-policy` operate as physical structural constraints within the gate membrane itself rather than external ACL tables.
 - **PP-45 Invariant (Cached Credential Invalidation):** `grant-policy` invalidates historical cached credentials, requiring present-tense sovereignty proof for policy compliance verification.
 - **PP-114 Invariant (Un-Reduced Policy Stewardship):** `grant-policy` enforces un-reduced policy stewardship load across all implementation depths, prohibiting depth-based policy exemptions.
-- **PP-232 Invariant (Present-Tense Threshold Response):** A response that `grant-policy` binds to a threshold breach is performed as an active present-tense act of sovereignty at the breach; a pre-stored policy that fires mechanically does not constitute sovereignty maintenance.
+- **PP-232 Invariant (Present-Tense Threshold Response):** A policy granted by `grant-policy` cannot itself constitute the defence of sovereignty at its threshold (the minimum complexity floor): where that threshold is reached, the response must be a sovereignty defence performed in the current Pulse, not the mechanical firing of a pre-stored policy.
 
 **Corollaries:** 
 (1) `grant-policy` cannot create policies that defer physical enforcement to downstream components (PP-38).
@@ -635,7 +635,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 (2) Falsifying density measurements during `broadcast-density` deposits self-compounding lie-mass that corrupts local field alignment (PP-3).
 (3) Density broadcasts auto-expire as local metabolic churn alters consequence weighting (PP-189).
 
-**Irreducibility:** IL-12 (`role:broadcaster`) alone establishes the logical requirement to advertise topology metrics, but does not specify that density reflects present-tense consequence weight. PP-224 establishes the physical substrate law that a node's accumulated consequence weight is its present-tense accountability load, but does not define the density broadcasting procedure. Only the physical collision of that law with this role forces `broadcast-density` into existence as an irreducible physical process.
+**Irreducibility:** IL-12 (`role:broadcaster`) alone establishes the logical requirement to radiate signal wake broadcasts alerting adjacent nodes to state changes, but does not specify that the consequence weight it signals is present-tense accountability load. PP-224 establishes the physical substrate law that a node's accumulated consequence weight is its present-tense accountability load, but does not define the broadcasting procedure. Only the physical collision of that law with this role forces `broadcast-density` into existence as an irreducible physical process.
 
 ---
 
@@ -679,7 +679,7 @@ This document produces the Execution Processes (`entityType: "execution-process"
 - **PP-13 Invariant (Derived Authority Standing):** Authority anchored by `anchor-authority` must be derived from live traversal of the provenance chain; declaring static authority without derivation proof is invalid theater.
 - **PP-177 Invariant (Sovereign Proof Domain Invalidation Prohibition):** `anchor-authority` protects sovereign authority domains against external invalidation; authority can only be contested through internal metabolic evaluation.
 - **PP-182 Invariant (Internal Sovereignty Contestation Loops):** `anchor-authority` binds internal contestation loops that continuously test authority validity during active operation.
-- **PP-242 Invariant (Scale-Invariant Authority Proof):** `anchor-authority` enforces uniform authority proof standards across all implementation depths.
+- **PP-242 Invariant (Scale-Invariant Authority Proof):** Proof of the sovereign authority `anchor-authority` binds is held to one traversal-based standard at every scale an invoked command's cascade reaches; a traversal at one layer is not present traversal of another.
 
 **Corollaries:** 
 (1) `anchor-authority` cannot grant unilateral authority over shared field entities (PP-16).
