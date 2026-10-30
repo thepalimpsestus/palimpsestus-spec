@@ -979,6 +979,50 @@ Not changed (listed, for later work):
 - Most IP lines that cite the Part A entries cite content those entries do not carry (the checker counts 64 of 79 content citations not carried, 9 in part). "No claim they cite changes" above is true of batch 10's change only, and does not say these lines are carried. They are the D23 locus and go to it.
 - Already listed under batch 10 and still open: PP-1's "LP-24 × PL-42" chain, PP-22's missing state line, the PI `[SUBSUMED]` tag on PP-42, PP-255's "of Attraction", and the 34 other leading LP ids.
 
+### Batch 12
+
+The Worker (Sonnet) made the return against `ad6cd9f` (sha256 `1507717d0af93a4621b4fd50ef21d13957f38a9c6050eb9ede51d333845de811`). It was applied at `47c2768`. The twelve entries did not change between those commits, and every old text still occurs once. OPEN PM read each entry whole and each leading LP whole, at `75248fb`.
+
+The batch took the leading LP id on twelve Derives lines: PP-2 to 6 and PP-8 to 14. As with Part A of batch 10, these ids are not among the 250 slots, so the slot count does not change. In each entry the id stood on the Derives line only. No sentence of the entry cites the LP or uses its matter, and no line elsewhere in A names the id together with the PP. Each id is removed, and the Irreducibility says so in one sentence. The parent pair the text uses is unchanged, so no entry is re-crossed.
+
+| Entry | Removed | That LP's matter |
+| :--- | :--- | :--- |
+| PP-2 | LP-644 | a discovery must be traceable to the ignorance that started it |
+| PP-3 | LP-499 | permanent contestation does not justify simplifying the entity |
+| PP-4 | LP-452 | long derivations with empty uncertainty tags are flagged |
+| PP-5 | LP-642 | an imperfection is read as a signal before repair |
+| PP-6 | LP-526 | a knowledge boundary's value is its leading edge at live tensions |
+| PP-8 | LP-681 | pre-existing tensions are registered apart from created ones |
+| PP-9 | LP-322 | identity formation consumes the system's fertile ignorance |
+| PP-10 | LP-685 | combustion assumptions are invalidated when the fuel changes |
+| PP-11 | LP-463 | an agent deleting edges works under maximum certainty suppression |
+| PP-12 | LP-641 | an attested gap is not filled with fabricated data |
+| PP-13 | LP-618 | a reserve is held for costs beyond the derivational horizon |
+| PP-14 | LP-411 | traversal debris is speculative edges that must be pruned |
+
+OPEN PM's review. One amendment:
+- PP-11: the Worker weighed this one (medium), since corollary (3) speaks of deleting an edge. LP-463 speaks of the certainty an agent must clear before deleting an edge, and it allows the deletion once that threshold is met; corollary (3) calls the deletion a sovereignty violation. So LP-463 does not carry the corollary and in part runs against it. The removal stands, and the Irreducibility now says why corollary (3) does not rest on LP-463.
+
+PP-9 was also weighed: LP-322 rests on trajectory-constituted identity (CP-60), which is near corollary (2)'s "the record IS the endpoint's constitution". LP-322's own claim is that identity formation consumes ignorance, which the entry does not use. The removal stands with no further sentence.
+
+How the slots are counted: no slot changes. **179 remain.** BARREN lines: 54, unchanged.
+
+Out-edges (at `47c2768`): no line in A outside the PP file names a leading id together with its PP, and no PI copy of these twelve titles carries an id. Lines that name a leading id alone, and rely on no PP: glossary lines for LP-322 and LP-411, the D20 record's pointer for LP-618, and PP-721's list for LP-452. IP lines cite these PPs by id or title only. Titles are unchanged.
+
+Loci, not changed here:
+- None of the twelve entries has a Derivational State line. None has been crossed.
+- PI tags eleven of the twelve [SUBSUMED] and PP-11 not at all. This is the PI tag locus again.
+- PP-3's second Derives chain, "LP-28 × PL-44", puts an LP in a left-parent chain, and the claim attributes LP-28's matter to LP-3. Its rate claims (super-linear degradation) have no parent. Same kind of locus as PP-1's LP-24 chain.
+- PP-2 and PP-8: "present-tense, not a future risk" is said of PL-98 but is not PL-98's text. PP-8's drift mechanism is not in LP-6.
+- PP-4: "no path can … fill" a defensive void sits against LP-4's second corollary (the entity can collapse its voids for trusted collaborators); the title's "Constitutionally Protected" leans on it.
+- PP-5: corollary (2) cites PL-9, which is not a parent.
+- PP-9: corollary (2) runs the identity in the reverse direction to PL-7.
+- PP-10: corollary (4) compares audit kinds, which neither parent does.
+- PP-11: corollary (3)'s sovereignty violation is not carried by PL-12, whose dissolved edge carries its record with it.
+- PP-12: corollary (4) brings in Wake, which neither parent states.
+- PP-13: the title's "Only Derived From Provenance Traversal" and corollaries (2) and (4) are PL-40's matter; PL-40 is not a parent.
+- PP-14: corollary (4) cites "LP-13 × PL-275", which is PP-22's pair.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
