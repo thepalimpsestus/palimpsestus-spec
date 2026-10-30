@@ -1151,6 +1151,21 @@ Loci, not changed here:
 - PP-25: PL-51 and LP-16 contain neither "thermodynamic" nor "cascade"; PL-51 carries cross-scale failure and the repair requirement at every scale. The entry's "distributes thermodynamically" is not PL-51's, and the coupling of correction and cascade is in neither parent.
 - PP-27 and PP-28: both say LP-18 corrects toward the higher-mass state. LP-18 does not use the word "mass"; its ground is that the failure is the higher-fidelity truth (LL-32). Mass as the signal is the entries' bridge from PL-9 and PL-44, stated as LP-18's.
 
+### Batch 14, independent check
+
+A blind checker (Opus; brief sha256 `1c697c37…`, return `feac8651f513bfa5fef9956195a72a48f05a156f3c67f4e56604aa689025b5ad`) used its own copy of A at `7e5e434`. It read each entry, each removed LP, each PL parent and each Applies-to LP whole, and wrote its entry judgments and out-edge search before it opened this record. It gave HOLDS for all eleven removals: no removed LP carries, or is needed by, any sentence of its entry. It weighed four near words, each a different object from the removed LP's: PP-32's pre-correction state (LP-639's pre-discovery state, which LP-639 preserves and PP-32 says cannot be restored), PP-35's "escalated", PP-39's "instantiation" and PP-40's audit finding (LP-650's audit trail). All eleven closing sentences name the LP by its exact title. Its out-edge list is empty: outside the PP file each removed id occurs only at its own LP heading, the PI title copies are exact and name no removed id, and IC and IP cite these entries by id only.
+
+It agreed with this record on the verdicts, the out-edges and the batch 14 loci. After reading the record it accepted the stricter reading of the corollaries this record calls beyond their parent (PP-30 (2), PP-31 (2) and (3), PP-34 (2)), and the loci it had not raised. No verdict changed. It also gave the header-filter ground (no removed LP shares a direct LL parent with the kept PL); as in batch 12, OPEN PM does not use the filter as a ground.
+
+Loci it raised that this record did not list, checked at `d49c59f` and recorded (not changed here):
+- PP-37 crosses the same pair as PP-76 (PL-147 × LP-22, both tagged LL-38), and PP-33 the same pair as PP-244 (PL-17 × LP-20, tagged LL-35 and LL-233). Each is a Test 3 question for the batch that re-crosses those entries, as PP-26/69 and PP-301/340 were.
+- The note after PP-40 ("Batch 2 (LP-24–LP-100 eligible crossings) pending.") is stale against the header and the entries that follow it.
+
+Not accepted as stated:
+- PP-34 "puts the past as Structural Mass under PC-8". The sentence keeps PL-25's two clauses and drops the PC-6 tag from the second; it does not give that clause to PC-8. Format only.
+- PP-29 still naming LP-588 on its Derives line: the checker's copy was at `7e5e434`. Batch 13 removed that id at `d49c59f`.
+- The closing sentences' "D19 (batch-14)" has no path. It is the form batches 10 and 12 used, and this record is where the batch is found. No change.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
