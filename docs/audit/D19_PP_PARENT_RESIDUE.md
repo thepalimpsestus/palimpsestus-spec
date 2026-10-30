@@ -627,6 +627,25 @@ Doubts recorded, not acted on:
 - PP-130's title calls a scored gap node a living structure; PL-46 says a gap is one, and the entry treats the node as the gap.
 - PP-43's title is close to a restatement of its own condition; the entry has little else of its own (it is BARREN on Test 2).
 
+### Title pass, round 1, independent check
+
+A blind checker (brief sha256 `c8c769de…`, return `7ca37646…`) worked from A at `108534d`. It did not have this record, the title-pass return, or the Worker's edits. It read each of the 15 entries whole, with each named parent. It then compared the PP and PI files with their state at `3d753d2`.
+
+It gave KEEP on 12 titles and AMEND on 3. The mechanical checks pass:
+- Each old title has 0 copies, and each new title has 1 copy in PP and 95 in PI.
+- Every changed PI line is a Derives line that matches its old line once the old title is put back.
+- Outside the 15 headers, only the PP-217 and PP-301 Irreducibility notes changed.
+
+OPEN PM read each amended entry and its parents again. The three amendments are applied, in the header and in all 95 PI Derives copies of each:
+- **PP-24.** The body always says sovereignty "over it" or "over that history", and the title had dropped that scope. It now reads "… Is the Performance of Its Sovereignty Over That History — …".
+- **PP-130.** The title said "Overwriting It" without "with generated data". That made it say that a fill by LP-93's due-process transaction also overrides the lock, which neither the entry (corollary 2) nor LP-93 says. It also called the node itself a living structure, where the body says the node is the write-lock and the gap is the living structure. It now reads "A Scored Gap Node Is a Write-Lock and the Gap a Living Structure — Where Overwriting the Node With Generated Data Is a Premature Closure of the Gap, the Overwrite Overrides the Lock and Terminates the Structure". This answers the round-1 doubt on PP-130 ("node vs gap").
+- **PP-199.** The title made re-declaration alone the exercise of the tension. The body pairs re-declaration with defence every time, and corollary (3) says that re-stating without defending "is not yet engagement with the tension". It now reads "… Where Re-Declaring and Defending It Is Read as Exercising the Tension That Sustains Sovereignty, a Declaration Left Unrenewed and Undefended Is That Tension Held Without Exercise". The checker proposed "Unrenewed or Undefended". OPEN PM keeps the italic's own "unrenewed and undefended", since a title states only what the body states.
+
+Also recorded:
+- **PP-301's PI own text, counted again.** The old claim, lowercased, occurs 569 times in the 95 PI entries that derive from PP-301: in the italic line, the Irreducible Claim, the Irreducibility and the corollaries. The title pass changed none of them. This is the out-edge recorded above for D23, and PI is not restated in D19.
+- **PP-24, `LP-446`.** The checker found it named and not used. It stays with the stray-id locus (batch 05).
+- **PP-140, "Real-Target".** LP-101 and the body say "real-targeting". This is a wording difference only, and the title is kept.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.

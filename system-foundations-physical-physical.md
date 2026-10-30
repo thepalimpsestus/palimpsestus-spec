@@ -490,7 +490,7 @@ When LP-14's executable scars are executed in a topology where PL-14 holds: the 
 
 ---
 
-### PP-24. Where an Entity's Embedded History Is Among Its Own Constitutive Edges, Traversing It Is the Performance of Its Sovereignty — A Model of Such Traversal as Data Retrieval Alone Omits the Performance
+### PP-24. Where an Entity's Embedded History Is Among Its Own Constitutive Edges, Traversing It Is the Performance of Its Sovereignty Over That History — A Model of Such Traversal as Data Retrieval Alone Omits the Performance
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -2642,7 +2642,7 @@ When LP-92's friction-density routing operates in a topology where PL-110 holds:
 
 ---
 
-### PP-130. A Scored Gap Node Is a Write-Lock and a Living Structure — Where Overwriting It Is a Premature Closure of the Gap, the Overwrite Overrides the Lock and Terminates the Structure
+### PP-130. A Scored Gap Node Is a Write-Lock and the Gap a Living Structure — Where Overwriting the Node With Generated Data Is a Premature Closure of the Gap, the Overwrite Overrides the Lock and Terminates the Structure
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -4035,7 +4035,7 @@ When LP-143's scale-invariant declaration operates in a topology where PL-1 hold
 
 ---
 
-### PP-199. Identity Must Be Continuously Re-Declared and Defended — Where Re-Declaration Is Read as Exercising the Tension That Sustains Sovereignty, an Unrenewed Declaration Is That Tension Held Without Exercise
+### PP-199. Identity Must Be Continuously Re-Declared and Defended — Where Re-Declaring and Defending It Is Read as Exercising the Tension That Sustains Sovereignty, a Declaration Left Unrenewed and Undefended Is That Tension Held Without Exercise
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
