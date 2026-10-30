@@ -902,6 +902,52 @@ Not changed (listed, for later work):
 - Many entries carry a bare "LP (Logical Physical)" Applies line (PP-309, 310, 336, 348, 354, 356, 358, 360, 362, 364, 368); those not yet worked are slots in the list below.
 - The PP-305/309 overlap and the conjunction question for PP-365 stay as recorded: tests in order, Test 3 not reached.
 
+### Batch 11
+
+The Worker (Sonnet) made the return against `39d7cc1` (sha256 `22cc721ba2e1e680c70f94c4ce397fc447a1c92bf4a71f4144118b2701fa5da5`). It was applied at `5bbf3de`, where every old text still occurs once. OPEN PM read every proposed parent whole, and every entry the new text names, and amended the return (below). The Worker's text gave a confidence for each entry; confidence stays in this record and is not put in A.
+
+The batch took the eight slots that earlier batches had read and sent to the title pass: the PL slots of PP-112, 136, 196, 246 and 270, and the LP slots of PP-246, 270 and 276. The Worker proposed seven RE-POINTs and one restatement.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-112 | PL-127 (PL-50) | LP-80 (kept) | BARREN | PL-127 carries that a structure is sovereign over its interior, that mapping known unknowns is a sovereign act, and that leaving the map to others surrenders sovereignty over the knowledge boundary. LP-80 does not say that the frontier lies inside every node; that is now a stated condition. The metabolism claim (a node that stops exploring its interior is dying) has no carrier and is withdrawn. Fails Test 1 under the condition. Confidence low-medium. |
+| PP-136 | PL-160 (kept, NO CARRIER) | LP-98 (kept) | BARREN | The entry is restated to LP-98's own text: the edge materializes when the probe crosses it, leaves no trace on failure and becomes permanent on success. No PL or LP found says frontier understanding is ephemeral or must be captured; that claim is withdrawn, and LP-98's permanent connection runs against it. PL-160 carries nothing of the entry, and nothing is now attributed to it. PL-198 and PL-81 are near and not used. Fails Test 2. Confidence medium. |
+| PP-196 | PL-36 (PL-198) | LP-142 (kept) | BARREN | PL-36 carries that the accountability chain pre-exists the discoverer. LP-142 bounds the pocket by the buffer. That the bound applies to an accountability chain is a classification PL-36 supplies; the bound itself holds from LP-142 for any traversal. Fails Test 2. "The buffer IS the excavation capacity" is withdrawn. Confidence medium. |
+| PP-246 | PL-302 (PL-174) | LP-167 (kept, NO CARRIER) | BARREN | PL-302 carries depth → Structural Mass → consequence, and that the ethical gradient is the stratigraphy. The entry is restated in PL-302's direction only: it is not asserted that every region of higher consequence is a deeper stratum. "The gradient IS the present-tense accountability map" is withdrawn. The Worker proposed LP-478 for the LP slot. Not adopted: LP-478's strata are the consequences of one decision, not the topology's strata by age and depth. It is named in the text as a re-cross question. Fails Test 1. Confidence medium for the PL slot, low for LP-478. |
+| PP-270 | PL-77 (PL-183) | LP-212 (LP-185) | BARREN | PL-77 carries that consequence propagates through the whole field. LP-212 carries that each component's pulse originates further consequence. "No node is terminal" holds from PL-77; LP-212 adds the second half. A conjunction: fails Test 1. The dual "settled achievement and new frontier" standing is withdrawn. "Settled" in A is death (PL-192) or the stale wake behind a wavefront (LP-272), and "frontier" has several senses (PL-183, PL-144, LP-272), none of which carries it. Confidence low-medium. |
+| PP-276 | PL-1 (kept) | LP-671 (LP-190) | BARREN | LP-671 carries cross-scale truth consistency and the label "local truth" for a claim verified locally only. The same standard at every scale holds from PL-1 alone. Reading an edge condition as a scale is the entry's own step, kept as a condition. Fails Test 1. Confidence medium. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **Confidence words** ("confidence medium" and the like) are not put in A. Each Irreducibility now opens with the D19 sentence and closes "The entry is kept and marked, not deleted."
+- **PP-112.** The Worker's title, italic and claim kept a weakened metabolic reading ("the node's sovereignty is exercised in engaging it … a node that stops engaging is weakening"). PL-248 and PL-237 come near this, but neither is a parent of the entry. The text now carries only what PL-127 states, with the inside-every-node reading as a condition. LP-174 states untested positions at every scale more directly than LP-80. It is named as a re-cross question for the Applies-to line, and not adopted here, because LP-80 is not a slot in this batch.
+- **PP-136.** The Worker kept PL-160 as a parent and attributed to it "the frontier is the highest-energy territory". PL-160 says that absent regions are the highest-energy regions, and nothing of probes, edges or understanding. The PL slot is NO CARRIER: the Derives-from line stays, and nothing is attributed to it. The title now follows LP-98's own words ("materializes at the exact moment the probe crosses it").
+- **PP-196.** The Worker's Test 1 and Test 2 reading is kept. The Irreducibility now also says what PL-198 (the earlier parent) states, and gives the Test 2 result in A's form. PL-123 (taking accountability is a discovery event that creates new structure) is now named and not used, because it runs against a chain that pre-exists the navigator. Title, italic, claim and corollaries kept.
+- **PP-246.** LP-478 is not adopted (above), so the LP slot is NO CARRIER and the Applies-to line stays LP-167. The Worker's title and claim ran from consequence to obligation and added "confident action there requires excavating the consequence strata", which came from LP-478. Both are restated to PL-302.
+- **PP-270.** In the Irreducibility, LP-393 is removed from the overlap list because OPEN PM did not verify it. The other text is kept.
+- **PP-276.** The title is restated to what the two slot parents and the stated condition carry. The Worker's Test 1 reading is kept. The Irreducibility now also says what LP-190 (the earlier parent) states, and that the earlier corollaries read "scale" as how extreme an input is while PL-1's scale is depth; that reading is a stated condition.
+
+Titles: all six changed. Each title's 95 copies in PI were replaced with it, so no PI copy of these six is stale.
+
+How the slots are counted: six RE-POINTs (the PL slots of PP-112, 196, 246 and 270; the LP slots of PP-270 and 276) and two NO CARRIER (the PL slot of PP-136, the LP slot of PP-246), so 8 slots are corrected. **179 remain.** BARREN lines: 48 → 54.
+
+Out-edges (at `5bbf3de`):
+- IC: one line, IC:382 (IC-20), cites PP-112 among the tags for membrane permeability. That was loose before and is loose after. Recorded, not changed.
+- II: none.
+- IP lines that state the content of an entry, sent to D23 as named lines:
+  - IP:87 and IP:244 (PP-136): ephemeral understanding, and results that expire before the edge shifts. Withdrawn in PP-136.
+  - IP:176 and IP:555 (PP-270): the dual settled/frontier standing. Withdrawn in PP-270.
+  - IP:481 and IP:171 (PP-246): a consequence gradient that attracts traversal and steers focus. Not carried by PP-246 before or after.
+  - IP:167 (PP-196): carried in substance, since the focus bounds the accountability that can be followed. Its "archaeological excavation capacity" wording is withdrawn.
+  - IP:554 (PP-196): ties the bound to excavation depth. Loose.
+- IP Applies-to lists only (IP:78, 105, 161, 237, 545): no claim to check.
+
+Loci, not changed here:
+- `[shared LL-x]` tags no longer match the new parents in several entries. For example, PP-112 shows LL-68 while PL-127 applies LL-209, 273 and 422, and PP-246 shows LL-235, which comes from LP-167 and not PL-302. This is the same tag locus as PP-255.
+- PI still tags these six [SUBSUMED] while the PP file marks them BARREN. This is the PI tag locus again.
+- These have no carrier and could each be named on a parent line: LP-174 for PP-112; PL-198 or PL-81 for PP-136; LP-478 for PP-246. Each is a re-cross question.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -929,7 +975,7 @@ Not changed (listed, for later work):
 | PP-242 | LP | LP-186 (was LP-164) | candidate LP-186, low confidence, not adopted; batch 01: re-pointed and restated, IRREDUCIBLE |
 | PP-243 | LP | LP-124 | no carrier found (strict reader, medium); batch 08: re-pointed LP-165 to LP-124 under a stated condition, restated, BARREN; batch 10: LP-626 crossed, not adopted, LP-124 kept, BARREN |
 | PP-245 | LP | LP-166 | no carrier found (strict reader, high) |
-| PP-246 | LP | LP-167 | no carrier found (every reader); batch 04: read, not corrected (to the title pass) |
+| PP-246 | LP | LP-167 | no carrier found (every reader); batch 04: read, not corrected (to the title pass); batch 11: NO CARRIER, kept, nothing attributed (LP-478 crossed, not adopted) |
 | PP-247 | LP | LP-168 | no carrier found (strict reader, high) |
 | PP-248 | LP | LP-168 | no carrier found (strict reader, high) |
 | PP-249 | LP | LP-169 | no carrier found (strict reader, medium) |
@@ -953,12 +999,12 @@ Not changed (listed, for later work):
 | PP-267 | LP | LP-182 | no carrier found (every reader) |
 | PP-268 | LP | LP-183 | no carrier found (strict reader, high) |
 | PP-269 | LP | LP-184 | no carrier found (every reader); batch 01b: restated, BARREN |
-| PP-270 | LP | LP-185 | no carrier found (strict reader, high); batch 04: read, not corrected (sense conflicts; to the title pass) |
+| PP-270 | LP | LP-185 | no carrier found (strict reader, high); batch 04: read, not corrected (sense conflicts; to the title pass); batch 11: RE-POINT → LP-212 |
 | PP-271 | LP | LP-186 | no carrier found (strict reader, low) |
 | PP-272 | LP | LP-187 | no carrier found (every reader) |
 | PP-274 | LP | LP-188 | candidate LP-397, low confidence, not adopted |
 | PP-275 | LP | LP-483 (was LP-189) | no carrier found (strict reader, low); batch 01: re-pointed and restated, BARREN |
-| PP-276 | LP | LP-190 | no carrier found (strict reader, high); batch 04: read, not corrected (to the title pass) |
+| PP-276 | LP | LP-190 | no carrier found (strict reader, high); batch 04: read, not corrected (to the title pass); batch 11: RE-POINT → LP-671 |
 | PP-277 | LP | LP-191 | no carrier found (strict reader, medium) |
 | PP-278 | LP | LP-191 | no carrier found (strict reader, medium) |
 | PP-280 | LP | LP-192 | no carrier found (strict reader, medium) |
@@ -1068,13 +1114,13 @@ Not changed (listed, for later work):
 | PP-98 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-17 and restated, BARREN; batch 05 check: re-pointed to PL-113 |
 | PP-103 | PL | PL-82 | no carrier found (every reader); batch 02: re-pointed to PL-191 and restated, BARREN |
 | PP-107 | PL | PL-85 | no carrier found (strict reader, medium) |
-| PP-112 | PL | PL-50 | no carrier found (every reader); batch 05: read, not corrected (to the title pass) |
+| PP-112 | PL | PL-50 | no carrier found (every reader); batch 05: read, not corrected (to the title pass); batch 11: RE-POINT → PL-127 |
 | PP-115 | PL | PL-86 | no carrier found (strict reader, medium) |
 | PP-119 | PL | PL-87 | candidate PL-63, low confidence, not adopted |
 | PP-129 | PL | PL-110 | no carrier found (strict reader, medium) |
 | PP-130 | PL | PL-111 | no carrier found (strict reader, medium); batch 05: re-pointed to PL-46 and restated, BARREN |
 | PP-131 | PL | PL-113 | candidate PL-226, low confidence, not adopted; batch 03: re-pointed to PL-226 and restated, BARREN |
-| PP-136 | PL | PL-160 | no carrier found (strict reader, medium); batch 03: read, not corrected (restatement would contradict the title; to the title pass) |
+| PP-136 | PL | PL-160 | no carrier found (strict reader, medium); batch 03: read, not corrected (restatement would contradict the title; to the title pass); batch 11: NO CARRIER, kept, nothing attributed |
 | PP-140 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 03: re-pointed to PL-130 and restated, BARREN |
 | PP-145 | PL | PL-216 | no carrier found (strict reader, medium); batch 03: re-pointed to PL-150 and restated, BARREN |
 | PP-154 | PL | PL-130 | no carrier found (strict reader, medium); batch 05: re-pointed to PL-81 and restated, BARREN |
@@ -1083,7 +1129,7 @@ Not changed (listed, for later work):
 | PP-166 | PL | PL-51 | no carrier found (strict reader, medium) |
 | PP-184 | PL | PL-144 | no carrier found (strict reader, high) |
 | PP-192 | PL | PL-154 | no carrier found (strict reader, medium) |
-| PP-196 | PL | PL-198 | no carrier found (every reader); batch 05: read, not corrected (to the title pass) |
+| PP-196 | PL | PL-198 | no carrier found (every reader); batch 05: read, not corrected (to the title pass); batch 11: RE-POINT → PL-36 |
 | PP-199 | PL | PL-50 | no carrier found (strict reader, high); batch 03: re-pointed to PL-237 and restated, BARREN |
 | PP-216 | PL | PL-22 | no carrier found (every reader) |
 | PP-217 | PL | PL-27 | candidate PL-84, low confidence, not adopted; batch 03: re-pointed to PL-84 and restated, BARREN |
@@ -1092,7 +1138,7 @@ Not changed (listed, for later work):
 | PP-233 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-243 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
-| PP-246 | PL | PL-174 | no carrier found (every reader); batch 04: read, not corrected (to the title pass) |
+| PP-246 | PL | PL-174 | no carrier found (every reader); batch 04: read, not corrected (to the title pass); batch 11: RE-POINT → PL-302 |
 | PP-249 | PL | PL-175 | no carrier found (strict reader, medium) |
 | PP-255 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-267 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-258 | PL | PL-177 | candidate PL-205, low confidence, not adopted |
@@ -1100,7 +1146,7 @@ Not changed (listed, for later work):
 | PP-261 | PL | PL-299 | no carrier found (strict reader, medium); batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-266 | PL | PL-181 | no carrier found (strict reader, medium) |
 | PP-269 | PL | PL-182 | no carrier found (every reader); batch 01b: restated, BARREN |
-| PP-270 | PL | PL-183 | no carrier found (strict reader, medium); batch 04: read, not corrected (sense conflicts; to the title pass) |
+| PP-270 | PL | PL-183 | no carrier found (strict reader, medium); batch 04: read, not corrected (sense conflicts; to the title pass); batch 11: RE-POINT → PL-77 |
 | PP-272 | PL | PL-228 | no carrier found (every reader) |
 | PP-274 | PL | PL-81 | no carrier found (strict reader, medium) |
 | PP-279 | PL | PL-228 | no carrier found (every reader) |
