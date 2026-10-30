@@ -6101,7 +6101,7 @@ Where an arbitration between competing sovereignty claims is an interaction with
 
 ---
 
-### PP-306. Where a Fault Detector Detects Faults Through Monitoring Queries, Sampling or Logging, That Monitoring Is Measurement in the Present-Tense Topology, an Active Traversal That Consumes the Topology's Fuel; Its Cost Belongs in the System's Thermodynamic Budget
+### PP-306. Where a Fault Detector Detects Faults Through Monitoring Queries, Sampling or Logging, That Monitoring Is Measurement in the Present-Tense Topology, an Active Traversal That Consumes the Topology's Fuel; the Monitoring's Cost Belongs in the System's Thermodynamic Budget
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 

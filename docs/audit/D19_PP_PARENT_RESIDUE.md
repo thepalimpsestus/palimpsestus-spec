@@ -711,6 +711,23 @@ Still to retitle:
 - PP-103: waits on its body fix ("self-governing").
 - The six NO CARRIER entries: PP-112, 136, 196, 246, 270 and 276.
 
+### Title pass, round 2, independent check
+
+A blind checker (an Opus subagent) checked the six titles. It worked on its own copy of `f122458` against `8778613`, without this record. Its return is `check-T2.md`, sha256 562a6d18…. Verdict: 6 KEEP, 0 AMEND. Mechanical checks 6–9 pass:
+- each old title occurs 0 times;
+- each new title occurs once in PP and 95 times in PI;
+- the PI changes are only on Derives lines;
+- in PP, 12 lines changed (the six headers and one Irreducibility line per entry);
+- PI own text cites none of the six.
+
+OPEN PM on its optional points:
+- PP-306: "Its Cost" stands after "the Topology's Fuel" and can be misread as the fuel's cost. It now reads "the Monitoring's Cost", in the header and its 95 PI Derives copies. Adopted.
+- PP-344: the checker suggested "a Repair Mechanism" for "the Repair Mechanism". Not adopted: "the" is the italic line's own article, and every title in this pass follows its italic.
+- PP-344's Irreducibility says "Consequence-Sensitive" *is* the entry's own word. This stays: the word is still in the entry's Irreducible Claim. PP-310's "were" speaks of the earlier text; both are true.
+- PP-310: completing the round 2 record, the title pass also dropped "Consequence-Aware", "Topology Pruner" and "Must Carry … Cost", not only "Pruning Is Not Free".
+- PP-26's Derives line also names LP-445, which the body never cites. This is on the stray-id list for batch 10.
+- The sibling titles PP-305, 308, 309, 341, 343 and 365 still carry "Consequence-Aware"/"Consequence-Sensitive". Their bodies are in batch 09.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
