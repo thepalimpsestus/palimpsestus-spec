@@ -1166,6 +1166,25 @@ Not accepted as stated:
 - PP-29 still naming LP-588 on its Derives line: the checker's copy was at `7e5e434`. Batch 13 removed that id at `d49c59f`.
 - The closing sentences' "D19 (batch-14)" has no path. It is the form batches 10 and 12 used, and this record is where the batch is found. No change.
 
+### Batch 13, independent check
+
+A blind checker (Opus; brief sha256 `18617ff3…`, return `c3a1534cec4ed4e1d44ad5f1834e7cd2d99052b1cb37f133a50d37f15f0aba67`) used its own copy of A at `d49c59f`. It read each entry, each removed LP, each PL parent and each Applies-to LP whole, and wrote its entry judgments and out-edge search before it opened this record. It gave HOLDS for all eleven removals: no sentence of any entry uses the removed LP's matter, and its searches on each id, the LP's own parents and terms from the LP's text found the id only in the closing sentence. All eleven closing sentences name the LP by its exact title. Its readings of the eleven LPs and of the near words match this record's. It also noted that each removed id stood on the Derives line, which the method gives to the left parent, here PL (`dag-crossing-method.md`: "derives from" is horizontal, from the left parent); that ground is consistent with the removals and is not used, because the text alone settles them.
+
+OPEN PM read the cited lines again at `83de0c9`. Two of batch 13's loci are withdrawn:
+- **PP-15, corollary (4).** PL-40's corollary bounds evaluation lifetimes by the metabolism rate of the region the evaluation describes, so that fast-metabolizing regions invalidate prior evaluations faster. That carries the rule that a compliance traversal expires once the topology has changed. The locus is withdrawn.
+- **PP-23, corollary (3).** PL-14 says that all traversals transform and that a topology traversed many times differs structurally from one traversed few times. Each execution therefore meets a topology the earlier ones changed, which is the corollary's ground. The locus is withdrawn.
+
+New loci, not changed here:
+- PP-15 and PP-13 apply the same LP (LP-7). PP-13's corollaries (1) to (4) already say that compliance certificates are Theater and that only a live traversal answers; PP-15's body says the same under PL-40. This is a Test 3 question, as for PP-26/69.
+- PP-17: "deposited different Wake" and "using their own Structural Mass" are in neither LP-9 nor PL-194 (with the PC-5 locus above).
+- PP-18: "universal protocol" and "a narrower, less capable implementation" are in neither LP-10 nor PL-169. Its corollary (1) says that incompatible protocols are excavations that have not yet reached shared bedrock and that "the bedrock exists"; LP-10's corollary says that protocol failures are physical incompatibility at the bedrock level. The two may conflict.
+- PP-19, corollary (2): "the postmortem's physical accountability value is zero" is stronger than PL-323 or LP-11 states.
+- PP-20, corollary (3): "lose tension exponentially" is in neither parent.
+- PP-25, corollary (2): a common topology model "updated atomically" is in neither parent.
+- PP-29, corollary (3): that an edge-level correction cannot be expressed as a node-level change is the entry's own step.
+
+Out-edges: the checker's list agrees with this record's. Its search found IP lines that cite these entries for matter the entries do not carry: PP-17 at `system-foundations-implementation-physical.md:447` (an integrity-scored absence), PP-19 at :1195, :1500 and :1550 (attestation seals and sealed reports), and PP-25 at :40, :754, :762 and :1654 (metabolic energy, obligations and fuel). No removed LP carries them either, so they do not bear on the removals. They are D23 lines. `docs/audit/D20_LP_CP85_RECROSS.md:62` says that PP-22 names LP-616; batch 10 removed it. That record is historical and stays as written.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
