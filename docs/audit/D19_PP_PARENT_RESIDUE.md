@@ -16,7 +16,7 @@ Result, in the commits after `e4a4d6a`:
   - In each one the header id changes, together with the same id in that entry's text.
 - **Not changed:** 250 slots, listed below.
   - For each, no entry was confirmed to carry the claim.
-  - Their text stays as written, so no ancestry is erased (`dag-crossing-method.md` line 91: an open item is marked, never deleted).
+  - Their text stays as written, so no ancestry is erased (No Ancestral Erasure, `dag-crossing-method.md` line 7). Keeping an open or marked entry rests on D20's reading of that invariant (`D20_LP_CP85_RECROSS.md` line 23), not on a rule the method states.
 
 ## What would close it
 
@@ -255,7 +255,7 @@ Rival parents named by the check, not adopted (each is no clearer than the paren
 - PP-218: LP-4 protects against unauthorized mapping only.
 
 Corrections and loci for later:
-- This record's line 19 cites `dag-crossing-method.md` line 91 for keeping marked entries. That line covers entries that pass the tests and have an unknown out-edge. Keeping a BARREN entry rests on D20's reading (`D20_LP_CP85_RECROSS.md` line 23), which states that it is that correction's reading and not a rule of the method.
+- This record's line 19 cites `dag-crossing-method.md` line 91 for keeping marked entries. That line covers entries that pass the tests and have an unknown out-edge. Keeping a BARREN entry rests on D20's reading (`D20_LP_CP85_RECROSS.md` line 23), which states that it is that correction's reading and not a rule of the method. Line 19 now cites method line 7 and D20 line 23 (corrected with batch 05).
 - The method's template places Derivational State after Applies to (method lines 126-131). D20 and these batches place it after Derives from. One placement is to be chosen and applied to every marked entry in one pass.
 - PP-217 follows PL-84 (standing degrades at an unexercised boundary). PP-7 (batch 02) follows PL-227 (a lapse withdraws exercise, not standing), and PL-248's third corollary says the inherent right remains. The PL layer states both halves, and the two PP entries now follow opposite ones; this goes to the Holder as a known tension in A, not to a batch.
 - LP-243 states an exact common decay rate. A slot re-pointed to it would import a measure (PP-217's candidate column).
@@ -344,6 +344,58 @@ Loci found, for later passes:
 - **PP-270.** LP-272 ("behind the wave, the graph has already settled") is in tension with a node being settled and a frontier at once. This adds to the record's sense conflicts.
 
 A note on the brief: it listed only PP-340 and PP-102 as BARREN. PP-217 has been BARREN since batch 03, and the checker found that for itself.
+
+### Batch 05
+
+Nine PL slots in nine entries: PP-24, PP-43, PP-69, PP-80, PP-98, PP-112, PP-130, PP-154 and PP-196. Seven slots are corrected, and all seven corrected entries are BARREN. Two slots are not corrected and stay open.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-24 | PL-248 (PL-50) | LP-15 (kept) | BARREN | PL-50 is door-or-wall navigability at every scale and has no sovereignty or metabolism; no PL entry found says contestation is metabolism. PL-248 carries that sovereignty is constituted by active traversal, not static ownership. LP-15 carries that untraversed embedded history is potential energy which execution converts. Where the entity's embedded history is among its constitutive edges (the entry's condition), the sovereignty half holds from PL-248 alone (Test 1) and the metabolic half from LP-15 alone (Test 2): a conjunction, not a product of the crossing. |
+| PP-43 | PL-98 (PL-53) | LP-26 (kept) | BARREN | PL-53 is recursion container geometry and has no comprehension. PL-98 carries comprehension asymmetry between traversers. Test 2: that a traverser who cannot execute the gate's puzzle has shown less comprehension than the challenge requires, and the gate stays closed, holds from LP-26 alone; reading the result as a measure of comprehension is the entry's condition. PL-98 enters only in a clause no conclusion or corollary uses. "Structural mass", "present-tense physical fact" and the threshold corollary are cut. |
+| PP-69 | PL-59 (kept) | LP-17 (kept) | BARREN | Restated only. PL-59 carries uniform metabolic demand per unit at every scale, not failure-fuel; no PL or LP entry searched has "failure-fuel" or a "deviation score". Test 2: that zero drift starves the restorative process and petrifies the living derivations holds from LP-17 alone, once drift is read as deviation from a reference state (the entry's condition; CP-4's wording). The sustainable-range corollary is cut. |
+| PP-80 | PL-84 (PL-149) | LP-55 (kept) | BARREN | PL-149 is about limits on certainty and has no edge decay. PL-84 carries that an untraversed edge atrophies and is not a stable dormant entity. The old text had LP-55 say self-modification reveals edges that were always there; LP-55 says the rewrite embodies a discovered truth and does not mention edges, so that is cut, with "immediate" and "scale-invariant". Test 1: where the modified routing is read as edges (the entry's condition), that it is not exempt from atrophy holds from PL-84 alone. |
+| PP-98 | PL-17 (PL-149) | LP-69 (kept) | BARREN | PL-149 has no decay and no depth. PL-17 carries that a proof about topology state expires, at a rate set by the region's metabolic activity. Test 2: that a verified isomorphism expires holds from LP-69 alone. No parent states a depth-independent rate, so "deep verification is no more durable than shallow" and its corollaries are cut. |
+| PP-130 | PL-46 (PL-111) | LP-93 (kept) | BARREN | PL-111 is rights as present-tense navigation and has no gap vitality. PL-46 carries that a gap is a living structure and that premature closure terminates it (LL-383). Where overwriting a gap node with generated data is a premature closure (the entry's condition), the write-lock half holds from LP-93 alone (Test 2) and the termination half from PL-46 alone (Test 1): a conjunction. "Constitutional violations" and "maximum compressed potential energy" are cut. |
+| PP-154 | PL-81 (PL-130) | LP-113 (kept) | BARREN | PL-130 is Wake mechanics and has no protective invariant. PL-81 carries that an edge exists only while conducting. Test 2: that the connection exists only while the joint traversal goes on holds from LP-113 alone (the connection activates only because both traverse together, and a failure to match pace aborts it). "Protective invariant", "security guarantee" and the four credential-mechanism corollaries are cut. |
+
+What changed (`system-foundations-physical-physical.md`):
+- PP-24, PP-43, PP-80, PP-98, PP-130 and PP-154: Derives line re-pointed. PP-69: Derives line kept.
+- In all seven: italic line, Irreducible Claim, Corollaries and Irreducibility restated, and `**Derivational State:** BARREN` added after the Derives line (seven lines).
+- No title is changed. No entry has been removed or renumbered, and nothing on the PL or LP side is changed.
+- This file, line 19: the citation for keeping open entries now names No Ancestral Erasure (`dag-crossing-method.md` line 7) and D20's reading of it, in place of method line 91.
+
+Not corrected (two slots, open):
+- PP-112 (PL-50). No PL entry found says a node's metabolism is contestation with its own internal frontier. Nearest: PL-187 (the living topology's health requires active contestation), PL-144 (every structure, foundations included, has an untraversed frontier) and PL-183 (the frontier is alive). PL-276 says the held, unresolved tension is the fuel, which is the opposite direction. LP-80 is a generic CP-12 × LL-68 template, so a restatement onto the named parents would leave the title with nothing under it.
+- PP-196 (PL-198). No PL entry found links attention to accountability. PL-48 says excavation commits the discoverer to a non-expiring accountability obligation, which is the opposite direction from the entry's bound. Restated onto PL-198 and LP-142 the entry would say only what LP-142 says.
+- Both join PP-136, PP-246, PP-270 and PP-276 for the title pass.
+
+Amendments made by OPEN PM in review:
+- PP-43: the Worker kept it IRREDUCIBLE and noted a doubt on Test 2. Reviewed: Test 2 holds, since the claim's conclusion and all three corollaries follow from LP-26 and the entry's condition. The state line is added and the Irreducibility rewritten to say so.
+- PP-69: the sentence "The demand of keeping each structural unit alive does not stop when the fuel does (PL-59)" joined fuel (LP-17) to demand (PL-59), which neither parent does. It now states only PL-59's own content.
+- PP-98 corollary (2): it set an interval for re-verifying a translation by metabolic activity, which LP-69 contradicts (verify at the moment of each crossing). It now says the rate of going out of date follows metabolic activity (PL-17) and LP-69 still requires verification at each crossing.
+
+Doubts recorded, not acted on:
+- PP-24: PL-270 (sovereignty maintenance produces fuel, not just costs) is a rival found in review. It carries "not overhead", not traversal of history, and is not adopted. Its Corollary 3 follows PL-248's "inherent right remains", which bears on the PL-84 and PL-227 tension item.
+- PP-69 crosses the same pair as PP-26 (LP-17 × PL-59, batch 02), on drift where PP-26 is on failure. Test 3 could read it as SUBSUMED there. Both are kept and marked BARREN, as nothing is deleted.
+- PP-80: PL-255 (the rows file's candidate) and PL-263 carry a scale-invariant maintenance need of structure, not of edges, and are not adopted. PP-98: PL-84, PL-108 and PL-255 carry decay of edges or structure, not the expiry of a proof. PP-130: PL-32 is about the fill, not the gap's life. PP-154: PL-52, PL-128 and PL-201 match on wording only.
+- The BARREN marks on PP-24 and PP-130 rest on the conjunction rule; a reader who holds that the entry's condition is itself a product of the crossing would drop only the state line.
+
+Out-edges, not corrected here (for D23):
+- IP line 1069 (IP-41) cites PP-24 for "metabolic thrust to maintain velocity", which PP-24 has never said.
+- IP lines 167 (IP-6) and 554 (IP-21) build on PP-196's claim. PP-196 is not corrected, so they rest on a claim no PL parent carries.
+- `system-foundations-implementation-conceptual.md` lines 382, 477 and 553 list PP-112, PP-80 and PP-130 by id only.
+- PP-43, 69, 98 and 154 are also in Applies lists of PP ids at IP lines 52, 78, 105 and 133. These cite ids, not claims.
+
+Open loci found in this batch, for later batches:
+- Stray LP ids at the head of PP Derives lines: `LP-446,` in PP-24 and `LP-445,` in PP-26. Both are left as they are.
+- PP-26's corollaries (2), "a metabolically sustainable level", and (3), "failure-fuel", were not restated in batch 02. PP-69 cuts both for want of a parent, so PP-26's corollaries need the same reading.
+- "Sovereignty contestation IS the metabolism" is attributed to PL-50 in PP-24 and PP-112, and no PL entry found says it.
+- LP-55 is restated in "edge" language it does not use (PP-80). The same pattern may recur.
+- LP-80, like LP-72, LP-185 and LP-190, is a generic entry.
+- Titles that no longer match the restated text (for the title pass): PP-24 "Assertion"; PP-43 "Scan" and "State"; PP-69 "Deviation Score" and "Self-Starvation"; PP-80 "Immediate Scale-Invariant"; PP-98 the rate and depth halves; PP-130 "Violation" and "Metabolically Vital".
 
 ## The 250 slots
 
@@ -495,38 +547,38 @@ A note on the brief: it listed only PP-340 and PP-102 as BARREN. PP-217 has been
 | PP-1 | PL | PL-50,PL-50 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-42 and restated, BARREN |
 | PP-7 | PL | PL-50 | no carrier found (every reader); batch 02: re-pointed to PL-227 and restated, BARREN |
 | PP-16 | PL | PL-74 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-201 and restated, BARREN |
-| PP-24 | PL | PL-50 | no carrier found (strict reader, medium) |
+| PP-24 | PL | PL-50 | no carrier found (strict reader, medium); batch 05: re-pointed to PL-248 and restated, BARREN |
 | PP-26 | PL | PL-59 | no carrier found (every reader); batch 02: restated, BARREN |
 | PP-42 | PL | PL-51 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-247 and restated, BARREN |
-| PP-43 | PL | PL-53 | candidate PL-98, low confidence, not adopted |
+| PP-43 | PL | PL-53 | candidate PL-98, low confidence, not adopted; batch 05: re-pointed to PL-98 and restated, BARREN |
 | PP-49 | PL | PL-54 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-192 and restated, BARREN |
 | PP-52 | PL | PL-54 | no carrier found (strict reader, medium) |
 | PP-59 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
 | PP-63 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
-| PP-69 | PL | PL-59 | no carrier found (every reader) |
+| PP-69 | PL | PL-59 | no carrier found (every reader); batch 05: kept and restated, BARREN |
 | PP-78 | PL | PL-198 | no carrier found (strict reader, medium) |
-| PP-80 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
+| PP-80 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-84 and restated, BARREN |
 | PP-89 | PL | PL-90 | no carrier found (every reader) |
 | PP-92 | PL | PL-94 | no carrier found (strict reader, medium) |
-| PP-98 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
+| PP-98 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-17 and restated, BARREN |
 | PP-103 | PL | PL-82 | no carrier found (every reader); batch 02: re-pointed to PL-191 and restated, BARREN |
 | PP-107 | PL | PL-85 | no carrier found (strict reader, medium) |
-| PP-112 | PL | PL-50 | no carrier found (every reader) |
+| PP-112 | PL | PL-50 | no carrier found (every reader); batch 05: read, not corrected (to the title pass) |
 | PP-115 | PL | PL-86 | no carrier found (strict reader, medium) |
 | PP-119 | PL | PL-87 | candidate PL-63, low confidence, not adopted |
 | PP-129 | PL | PL-110 | no carrier found (strict reader, medium) |
-| PP-130 | PL | PL-111 | no carrier found (strict reader, medium) |
+| PP-130 | PL | PL-111 | no carrier found (strict reader, medium); batch 05: re-pointed to PL-46 and restated, BARREN |
 | PP-131 | PL | PL-113 | candidate PL-226, low confidence, not adopted; batch 03: re-pointed to PL-226 and restated, BARREN |
 | PP-136 | PL | PL-160 | no carrier found (strict reader, medium); batch 03: read, not corrected (restatement would contradict the title; to the title pass) |
 | PP-140 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 03: re-pointed to PL-130 and restated, BARREN |
 | PP-145 | PL | PL-216 | no carrier found (strict reader, medium); batch 03: re-pointed to PL-150 and restated, BARREN |
-| PP-154 | PL | PL-130 | no carrier found (strict reader, medium) |
+| PP-154 | PL | PL-130 | no carrier found (strict reader, medium); batch 05: re-pointed to PL-81 and restated, BARREN |
 | PP-158 | PL | PL-133 | no carrier found (strict reader, medium) |
 | PP-163 | PL | PL-50 | no carrier found (every reader) |
 | PP-166 | PL | PL-51 | no carrier found (strict reader, medium) |
 | PP-184 | PL | PL-144 | no carrier found (strict reader, high) |
 | PP-192 | PL | PL-154 | no carrier found (strict reader, medium) |
-| PP-196 | PL | PL-198 | no carrier found (every reader) |
+| PP-196 | PL | PL-198 | no carrier found (every reader); batch 05: read, not corrected (to the title pass) |
 | PP-199 | PL | PL-50 | no carrier found (strict reader, high); batch 03: re-pointed to PL-237 and restated, BARREN |
 | PP-216 | PL | PL-22 | no carrier found (every reader) |
 | PP-217 | PL | PL-27 | candidate PL-84, low confidence, not adopted; batch 03: re-pointed to PL-84 and restated, BARREN |
