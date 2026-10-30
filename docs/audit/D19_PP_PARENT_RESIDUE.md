@@ -817,6 +817,16 @@ Loci, not changed here:
 
 Out-edges: IP 0 and IC 0 for all six. Each has 95 PI title copies on Derives lines, and no PI claim text cites any of them. Titles are unchanged.
 
+### Title pass, round 3, independent check
+
+An Opus reviewer, given only `451498b` and the round 3 inputs, checked the four titles (return sha256 `946a2916b0c27bf88a48136831475ecf4bae413f56a62d33ce0a354112f02844`). KEEP PP-236 and PP-261. AMEND PP-288 and PP-300. Mechanical checks PASS: no old title remains, each new title is in PP once and in PI 95 times, only the 95 PI Derives lines changed, and no PI claim text cites the four ids.
+
+Both amendments are adopted (OPEN PM re-read PL-266 and PL-40 whole):
+- PP-288: the second condition read "a Cost of Maintaining the Structures" (title and italic), but the claim says "maintenance of the derivations involved", and PL-266 states its rule for the cost of maintaining a derivation. The title and italic now read "a Cost of Maintaining the Derivations Involved", as the claim does and as PP-261's title already does ("the Derivations the Interference Affects").
+- PP-300: "Proving That Sovereignty Requires …" could be read as the outcome proving that sovereignty requires traversal, which the body does not claim. The title, italic and claim now read "proving the outcome's sovereignty requires …".
+
+The 95 PI copies of each title change with it. No rule, class or slot count changes.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.

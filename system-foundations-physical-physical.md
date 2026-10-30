@@ -5766,7 +5766,7 @@ Where two or more consequence cascades interfere, and the cost of the interferen
 
 ---
 
-### PP-288. Where the Cost of Reconciling a Divergence Between Structures Is a Thermodynamic Cost, It Is Strictly Present-Tense and a Deferral to a Later Re-Convergence Does Not Defer It — Where It Is a Cost of Maintaining the Structures, Deferring the Maintenance Does Not Defer the Cost
+### PP-288. Where the Cost of Reconciling a Divergence Between Structures Is a Thermodynamic Cost, It Is Strictly Present-Tense and a Deferral to a Later Re-Convergence Does Not Defer It — Where It Is a Cost of Maintaining the Derivations Involved, Deferring the Maintenance Does Not Defer the Cost
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -5775,7 +5775,7 @@ Where two or more consequence cascades interfere, and the cost of the interferen
 **Derivational State:** BARREN
 **Applies to:** LP-616 (Non-Deferrable Present-Tense Cost Collection)
 
-*Where the cost of reconciling a divergence between structures is a thermodynamic cost, it is strictly present-tense and a deferral to a later re-convergence does not defer it: the deferred cost accumulates as debt (LP-616, LL-472); where it is a cost of maintaining the structures, PL-266 states the same of that cost: deferring the maintenance does not defer the cost.*
+*Where the cost of reconciling a divergence between structures is a thermodynamic cost, it is strictly present-tense and a deferral to a later re-convergence does not defer it: the deferred cost accumulates as debt (LP-616, LL-472); where it is a cost of maintaining the derivations involved, PL-266 states the same of that cost: deferring the maintenance does not defer the cost.*
 
 **Irreducible Claim:** PL-266 establishes that the topology exists only in the present tense (PC-6), that every topology interaction carries thermodynamic consequence incurred at the moment of the interaction (PC-8), and that the energy cost of maintaining a derivation is incurred strictly now, with no mechanism for deferring it (LL-472): maintenance costs are present-tense and non-deferrable, and deferring the maintenance is not deferring the cost but allowing it to accumulate as debt (PL-226). LP-616 establishes that thermodynamic cost is strictly present-tense and that deferral accumulates debt (LL-472), so there is no grace period between when a cost accrues and when it is due, and a deferral does not move the bill to a later moment.
 
@@ -5986,7 +5986,7 @@ Where a divergence between structures is left unreconciled, and the cost of reco
 
 ---
 
-### PP-300. Where an Arbitration Between Competing Sovereignty Claims Has an Outcome That Is Held as a Sovereignty Claim, Proving That Sovereignty Requires Traversing the Derivation Path From Constitutional Foundations to the Claim, and Not Reading a Pre-Evaluated Sovereignty Certificate of the Outcome
+### PP-300. Where an Arbitration Between Competing Sovereignty Claims Has an Outcome That Is Held as a Sovereignty Claim, Proving the Outcome's Sovereignty Requires Traversing the Derivation Path From Constitutional Foundations to the Claim, and Not Reading a Pre-Evaluated Sovereignty Certificate of the Outcome
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -5995,11 +5995,11 @@ Where a divergence between structures is left unreconciled, and the cost of reco
 **Derivational State:** BARREN
 **Applies to:** LP-205 (Certified Unexcavated Site)
 
-*Where an arbitration between competing sovereignty claims has an outcome that is held as a sovereignty claim, proving that sovereignty requires traversing the derivation path from constitutional foundations to the claim, and not reading a pre-evaluated sovereignty certificate of the outcome (PL-40).*
+*Where an arbitration between competing sovereignty claims has an outcome that is held as a sovereignty claim, proving the outcome's sovereignty requires traversing the derivation path from constitutional foundations to the claim, and not reading a pre-evaluated sovereignty certificate of the outcome (PL-40).*
 
 **Irreducible Claim:** PL-40 establishes that sovereignty must be derivable from constitutional foundations (PL-20) and that comprehension requires traversal (PC-5, LL-24), so that proving sovereignty requires actually traversing the derivation path from constitutional foundations to the sovereignty claim, and not reading a pre-evaluated sovereignty certificate. A sovereignty certificate is a label: it says that the path was once traversed and found valid, and present sovereignty requires present traversal.
 
-Where an arbitration between competing sovereignty claims has an outcome that is held as a sovereignty claim: proving that sovereignty requires traversing its derivation path, and a certificate or stored record of the outcome is a label. The condition is not asserted: PL-40 does not mention arbitration, consequences or an engine. LP-205, the above parent, is not used in this claim (see the Irreducibility).
+Where an arbitration between competing sovereignty claims has an outcome that is held as a sovereignty claim: proving the outcome's sovereignty requires traversing its derivation path, and a certificate or stored record of the outcome is a label. The condition is not asserted: PL-40 does not mention arbitration, consequences or an engine. LP-205, the above parent, is not used in this claim (see the Irreducibility).
 
 **Corollaries:** (1) Where an arbitration outcome is held as a sovereignty claim, a certificate or stored record of the outcome is a label that says the path was once traversed and found valid, not a proof of present sovereignty (PL-40). (2) There are no permanent trusted states in the topology: sovereignty must be continuously demonstrated by traversal (PL-40), so an arbitration outcome held as a sovereignty claim is not a permanent trusted state.
 
