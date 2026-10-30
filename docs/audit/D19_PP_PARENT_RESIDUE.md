@@ -49,7 +49,7 @@ The second is a text change to an authored entry, not a pointer fix.
 
 ## Correction batches
 
-Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again. Batches 03 and 04 have been checked independently ("Batch 03, independent check", "Batch 04, independent check"); the other batches have not.
+Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again. Batches 03, 04 and 05 have been checked independently ("Batch 03, independent check", "Batch 04, independent check", "Batch 05, independent check"); the other batches have not.
 
 ### Batch 01
 
@@ -397,6 +397,35 @@ Open loci found in this batch, for later batches:
 - LP-80, like LP-72, LP-185 and LP-190, is a generic entry.
 - Titles that no longer match the restated text (for the title pass): PP-24 "Assertion"; PP-43 "Scan" and "State"; PP-69 "Deviation Score" and "Self-Starvation"; PP-80 "Immediate Scale-Invariant"; PP-98 the rate and depth halves; PP-130 "Violation" and "Metabolically Vital".
 
+### Batch 05, independent check
+
+A blind checker worked from its own copy of A at `b04da10`. It read every parent whole and wrote its findings before opening this record. It agreed with the seven re-pointings away from the old PL parents, the cuts in all seven entries, NO CARRIER for PP-112 and PP-196, the BARREN marks on PP-24, PP-43, PP-69, PP-80, PP-98 and PP-130, the stray LP-446 and LP-445 ids, the PP-69/PP-26 overlap, and the same twelve IP and IC lines. It found the following. OPEN PM read each cited line and each parent again; all are accepted except where stated.
+
+- **PP-154.** The batch 05 Irreducibility said the whole constraint holds from LP-113 alone. LP-113 says the joint traversal activates the connection and a pace mismatch during it aborts it; it does not say whether the connection persists after the traversal. The checker left the state UNRESOLVED (BARREN if cut back to LP-113, or IRREDUCIBLE on the entry's own step). OPEN PM settles it as BARREN on corrected grounds: activation and abort hold from LP-113 alone (Test 2); that a connection not being exercised by traversal is not an edge holds from PL-81 alone (Test 1), whose corollary on a relationship between two parties says so; reading the connection as an edge is the entry's condition. The Irreducibility is rewritten to say this. The italic line now carries the condition ("where that connection is an edge"), and corollary (1) puts the condition first.
+- **PP-98.** The italic gave PL-17's "valid at the instant" to LP-69. PL-113 (Consistency Snapshot) shares LL-293 with LP-69 and says a consistency check is a record of its moment that certifies no future consistency. That carries the expiry without reading the verification as a proof, which PL-17 needed. PP-98 is re-pointed from PL-17 to PL-113, and its italic, Irreducible Claim, corollaries (1)-(3) and Irreducibility are restated. The rate of expiry (PL-17's) goes with it, since PL-113 states none. The `[shared LL-293]` tag is now true of both parents. Still BARREN by Test 2.
+- **PP-43.** OPEN PM's batch 05 amendment held that all three corollaries follow from LP-26 and the entry's condition. That was wrong: they prescribed logging, which no parent states. They are restated to what the reading gives (a reading at each interaction; pass/fail keeps less), and corollary (3) says that nothing is prescribed. "Has shown a comprehension level below" becomes "has not demonstrated the comprehension the challenge tests", with the reading as the condition.
+- **PP-69, corollary (4).** It cited the sibling PP-26 for the restorative process; the fact is LP-17's, and the citation is removed.
+- **PP-80, corollary (3).** "The value of a self-modification lies in the traversal" has no parent and is cut; the corollary keeps PL-84's atrophy.
+- **PP-130, corollaries (2) and (3).** They wrote PL-46's premature-closure condition as met for every imputation and every default. Each now states the condition.
+- **PP-24, Irreducibility.** LP-15 does not say "metabolic"; it says untraversed potential energy converted into kinetic derivation. "The metabolic half" becomes "the energy half". The batch 05 receipt above keeps the old word as the record of that batch.
+
+Not changed:
+
+- **Titles.** The checker found title words without a parent in six of the seven entries, adding PP-69 "Entity's Own" and PP-80 "Self-Modification-Excavated Edges" to the record's list. They stay for the title pass. Candidates (not applied): PP-24 "Traversing One's Own Constitutive History Is the Performance of Sovereignty — A Retrieval-Only Model Omits the Performance"; PP-43 "A Gate's Comprehension Challenge, Read as a Measure, Gives a Reading of Comprehension and Not Only a Grade"; PP-69 "Drift Is the Restorative Process's Fuel — Zero Drift Starves It and the Living Derivations Would Petrify"; PP-80 "Edges Brought Into Use by Self-Modification Atrophy Without Regular Traversal — Self-Modification Is Not Maintenance"; PP-98 "A Verified Isomorphism Expires — A Verification Records Its Moment"; PP-130 "A Scored Gap Node Is a Write-Lock and a Living Structure — Overwriting It by Premature Closure Overrides the Lock and Terminates the Structure".
+- **PP-69 and PL-181.** PL-181 (Corrective Metabolism, LL-31) is nearer to LP-17 by concept than PL-59. It carries self-directed correction as metabolism, not failure as fuel, so it is a partial carrier, and the constraint would be BARREN on LP-17 alone either way. PL-59 is kept. Test 3 against PP-26 also triggers, as the batch 05 doubt says; the state line stays BARREN.
+- **PP-24, `LP-446`.** The checker found it used nowhere in the entry. It stays with the stray-id locus.
+- **The `[shared LL-x]` tags** on PP-24, 69, 80, 130 and 154 name an LL that the new PL parent does not carry. This is related item 1. The checker withdrew its filter argument after reading the record, because method section 3 overrides the PP header's filter line (a conflict already listed under batch 04).
+
+Out-edges, added for D23:
+- IP line 554 (IP-21) cites PP-196 for excavation depth as capacity; PP-196 speaks of the attention buffer, even in its uncorrected text.
+- IC line 382 (IC-20) lists PP-112, IC line 477 (IC-25) PP-80, and IC line 553 (IC-29) PP-130; none of the three carries what those IC entries are about.
+- IP line 78 (IP-3) lists PP-43, which is about a gate challenge, not frontier inspection.
+
+Loci found, for later passes:
+- IP-3 corollary (2) (IP line 93) cites the scar's irrevocability to PP-67, which mentions neither a scar nor irrevocability. The checker named PP-16, which does not either; the carrier is not found here.
+- The PP header's Method link points to `../processes/dag-crossing-method.md`; the method is at the repository root. Its Entry Count line is stale.
+- PP-112: PL-127 (mapping one's own unknowns is a sovereign act) is a partial carrier for an internal-frontier reading, beside the record's PL-187, PL-144 and PL-183. PP-196: PL-123 (every discovery is a sovereignty event; taking accountability is a discovery event) is a partial carrier. Its claim says recognizing responsibility creates new topological structure (LL-302), against "archaeological" and "pre-existing", as the checker found; it also says unexcavated structures have sovereignty rights before discovery (LL-246). It carries one half of the entry, not the bound, so the slot stays open.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -560,7 +589,7 @@ Open loci found in this batch, for later batches:
 | PP-80 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-84 and restated, BARREN |
 | PP-89 | PL | PL-90 | no carrier found (every reader) |
 | PP-92 | PL | PL-94 | no carrier found (strict reader, medium) |
-| PP-98 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-17 and restated, BARREN |
+| PP-98 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-17 and restated, BARREN; batch 05 check: re-pointed to PL-113 |
 | PP-103 | PL | PL-82 | no carrier found (every reader); batch 02: re-pointed to PL-191 and restated, BARREN |
 | PP-107 | PL | PL-85 | no carrier found (strict reader, medium) |
 | PP-112 | PL | PL-50 | no carrier found (every reader); batch 05: read, not corrected (to the title pass) |
