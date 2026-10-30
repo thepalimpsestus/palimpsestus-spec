@@ -49,7 +49,7 @@ The second is a text change to an authored entry, not a pointer fix.
 
 ## Correction batches
 
-Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again. Batch 03 has been checked independently ("Batch 03, independent check"); the other batches have not.
+Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again. Batches 03 and 04 have been checked independently ("Batch 03, independent check", "Batch 04, independent check"); the other batches have not.
 
 ### Batch 01
 
@@ -309,6 +309,41 @@ Open loci found in this batch, for later batches:
 - LP-72, LP-185 and LP-190 are generic entries whose text names no specific content. A PP that cites one as the carrier of a specific claim should be read with that in mind.
 - The `[shared LL-x]` tag no longer matches the new parents on PP-340 (it says LL-148; PL-140 applies LL-127 and LL-314, and LP-124 applies LL-153) or on PP-102 (it says LL-60, which is LP-72's ground). This is related item 1.
 - The PP-340 title says the monitor carries the cost, but the restated body says its record does. The PP-102 title's "self-generates recursively" is the entry's wording; PL-148 says "replicates at every scale". Both are for the title pass.
+
+### Batch 04, independent check
+
+A blind checker worked from its own copy of A at `776ee51`. It read every parent whole and wrote its findings before opening this record. It agreed with every parent choice, all three BARREN marks (PP-340 by Test 2, PP-102 by Test 1, PP-217 by Tests 1 and 2), NO CARRIER for the five open slots (PP-246 both, PP-270 both, PP-276 LP), the misreading of "scale" in PP-276, and the same eight IP lines and IC-22. It found the following, all accepted after reading each cited line:
+
+- **PP-102.** LP-72's claim has two conditions: self-similar nesting physically shapes the graph, *and* process-derivation isomorphism applies its logical theorem. The batch 04 text kept only the first, so it wrote the second as if it were met. Both are now restored in the Irreducible Claim and in the Irreducibility.
+- **PP-102, corollary (2).** No parent says that a "system boundary" box implies completeness, and the old corollary (4) allowed exactly that box as a boundary declaration, so the two conflicted. Corollary (2) is restated to the region reading: the outermost box is as incomplete as what it bounds, and the label does not make it a complete context.
+- **PP-102, corollary (4).** The clause "completeness claims should be understood as current-boundary declarations" was a permissive rule that no parent carries. It is cut, and the corollary keeps only PL-148's rule.
+- **PP-340.** "Consequence-sensitive" appears in neither PL nor LP. It was a label left from the old LP-227 reading, and it is cut from the italic line and the body. The Irreducibility keeps it, because there it describes the old text. The title keeps it until the title pass.
+
+Not changed:
+
+- **PP-217 corollary (3).** Untested recovery procedures rest on PL-84 corollary 1 by analogy. The checker calls it minor. It stays: the entry's italic includes PL-84's conducting capacity, which is that corollary's sense.
+
+Title candidates for the title pass (not applied; titles are not changed in batches):
+
+- **PP-340:** "Where a Topology Monitor's Output Is Held as a Self-Proving Record, the Record Carries the Thermodynamic Cost of the Monitoring That Produced It".
+- **PP-102:** "No Container Is Complete — Constitutional Incompleteness Replicates at Every Depth; the Outermost Container Is as Incomplete as the Innermost". "Self-generates" is no parent's word.
+- **PP-217:** "Unexercised Sovereignty Boundaries Decay — Active Standing Atrophies at an Unexercised Boundary While Inherent Standing Persists". It names *active* standing; the batch 04 record's candidate was written before the forward correction and does not.
+
+Rival parents, named and not adopted, since the named parents carry the bodies:
+
+- **PP-217.** PL-237 as left parent: its claim keeps the inherent standing in its own text. LP-620 and LP-569 as above parents, beside the record's LP-244 and LP-249. The checker withdrew LP-243 after confirming that its italic states a rate.
+- **PP-340.** LP-616 and LP-617 as above parents, for an unconditional reading. Both are BARREN themselves.
+
+Loci found, for later passes:
+
+- **LP-249 against the inherent-standing reading.** LP-249 says an entity that stops exercising its boundary loses its sovereignty. That conflicts with LL-393, PL-227, PP-7 and PP-217, where inherent standing persists. This is a conflict inside A, not settled here.
+- **Shared-LL tags.** PP-246 [LL-235] and PP-270 [LL-253] are also unsupported, in addition to those already listed. PP-276 [LL-63] is genuinely shared.
+- **IP-18.** IP-18 corollary (2) (`system-foundations-implementation-physical.md:481`) cites PP-246, which is not in IP-18's own Applies list (:467).
+- **PL-84.** PL-84 restates LL-393 without its "still technically has sovereignty".
+- **The PP header.** Its eligibility filter ("only LP × PL pairs sharing ≥1 LL ancestor") conflicts with the Zero Pre-Filtering Mandate in `dag-crossing-method.md`.
+- **PP-270.** LP-272 ("behind the wave, the graph has already settled") is in tension with a node being settled and a frontier at once. This adds to the record's sense conflicts.
+
+A note on the brief: it listed only PP-340 and PP-102 as BARREN. PP-217 has been BARREN since batch 03, and the checker found that for itself.
 
 ## The 250 slots
 
