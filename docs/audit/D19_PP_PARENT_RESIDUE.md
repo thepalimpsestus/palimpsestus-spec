@@ -49,7 +49,7 @@ The second is a text change to an authored entry, not a pointer fix.
 
 ## Correction batches
 
-Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again. Batches 03, 04, 05 and 06 have been checked independently ("Batch 03, independent check", "Batch 04, independent check", "Batch 05, independent check", "Batch 06, independent check"); the other batches have not.
+Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again. Batches 03, 04, 05, 06 and 07 have been checked independently ("Batch 03, independent check", "Batch 04, independent check", "Batch 05, independent check", "Batch 06, independent check", "Batch 07, independent check"); the other batches have not.
 
 ### Batch 01
 
@@ -542,6 +542,43 @@ Open loci found in this batch, for later passes:
 - Titles that no longer match the restated text (for the title pass): PP-306, 310 and 342 "Consequence-Aware"; PP-310 "Pruning Is Not Free" (it holds only under the condition); PP-342 "Thermodynamic Cost"; PP-344 "Consequence-Sensitive"; PP-366 "Must Carry", "Consequence-Aware" and "Synthesizer"; and PP-300 "Scale-Invariant Arbitration Standards", which neither parent nor its body supports.
 - Five sibling entries hold the same five LP ids as real Applies-to parents, with bodies that make the same "consequence-aware X" claims of them: PP-305 (LP-208), PP-308 (LP-210), PP-341 (LP-228), PP-343 (LP-229) and PP-365 (LP-240). PP-309 is a further bare-LP entry of the same family. They are not in this batch; whether each is already in the slot table is to be checked when they are taken.
 - The bare "LP (Logical Physical)" Applies-to lines of PP-306, 310, 342 and 366 (form only; see the counting note above).
+
+### Batch 07, independent check
+
+A blind checker (brief sha256 `0e3d8f78…`, return `658bb162…`) used its own copy of A at `3d753d2`. It read every parent whole and wrote its findings before it opened this record. It also judged the three PP-26 parts that the batch 06 check carried forward: the italic line, the Irreducible Claim and corollary (4).
+
+It agreed with the record on these points:
+- the five PL re-pointings, and LP-489 for PP-344 with Test 2 and Test 3 against PP-527;
+- the five BARREN marks;
+- the former-parent statements (PL-299; LP-208, 210, 228, 229 and 240);
+- PP-300's LP slot as NO CARRIER: LP-496, LP-228 and LP-250 each touch disputes, but none is an engine that arbitrates on consequences;
+- the title loci, the PP-343 sibling, and the PP-26/PP-69 overlap;
+- the seven IP lines citing PP-26.
+
+For PP-26 it gave HOLDS, at high confidence, on all three parts. LP-17's own italic ("consumes failures to sustain the living system") is the nearest LP-17 comes to the cut claim, and it does not say that zero failures starve the process.
+
+OPEN PM read each cited parent line again. These findings are accepted and applied (`system-foundations-physical-physical.md`):
+- **PP-310, italic.** "not a later step" becomes "not a separate step". PL-26's corollary reads "These are not three separate steps — they are the dissolution interaction itself". "Later" is a word of time that PL-26 does not use, and the entry's own Irreducibility says PL-26 "states no moment".
+- **PP-310, claim.** "every dissolution is a complete interaction" becomes "every dissolution event must be a complete interaction". PL-26's rule is normative, and its next sentence names dissolutions that lack the components. Written as "is", the rule read as already met.
+- **PP-342, corollary (3).** The corollary quoted PL-37's separate-topology rule for validation said to leave its object unchanged. That rule is about running verification in a separate topology. PL-37 answers the case directly ("Tests are not neutral"; the topology after the test is different from the topology before), so the corollary now cites those lines first and gives the separate-topology rule its own sense: the verification topology diverges with every traversal.
+- **PP-344, italic.** "cannot externalize its thermodynamic consequence" becomes "cannot externalize the thermodynamic consequence of correction", in LP-489's own words. "Its" could be read as the repair mechanism's whole consequence, which is wider than LP-489's claim.
+- **PP-366, corollary (3).** The corollary dropped the entry's own condition, so it read as if synthesis were already an interaction with the topology. It now begins "Where synthesis is an interaction with the topology".
+- **PP-69, forward correction.** PP-69's claim said that PP-26 "states this for zero failures and the restorative engine". After batch 06, PP-26 no longer states that. The sentence now says that PP-26 restates LP-17's drift and failure fuel, and that LP-17 ties starvation to the absence of drift, not of failures.
+
+Not changed:
+- **The `[shared LL-x]` tags.** The checker gave AMEND on all five tags because none is borne out by a parent, new or former. That is related item 1, and the tags stay. On the text alone, PP-306 HOLDS.
+- **Candidate LP parents, recorded for the LP-slot pass and not adopted:**
+  - **LP-483 for PP-310.** LP-483 says that pruning history (the controlled dissolution of embedded records) is metabolically rewarding. It would supply the entry's condition for history records only, not for topology elements in general.
+  - **LP-479 for PP-310.** LP-479 says that architectural pruning is rewarded thermodynamically.
+  - **LP-480 for PP-342.** LP-480 says that the energy cost of verification does not diminish. Crossed with PL-37 it would be a conjunction, and it would bear on the title's "Thermodynamic", which PL-37 does not use.
+  - **LP-585 for PP-306.** LP-585 says that full measurement is a consumption event. It is the cost PL-115 states, from the LP side, so each parent alone would carry the cost.
+  - No candidate changes a BARREN mark. LP-483's and LP-479's reward reading bears on PP-310's title ("Pruning Is Not Free"), which goes to the title pass.
+- **The PP file header filter.** The checker said this record does not name it. It does, under batch 04's independent check ("The PP header").
+- **PP-366's list of PL-140 entries.** PP-344, PP-426 and PP-657 also derive from PL-140. The sentence lists four and does not claim the list is complete, so it is not changed.
+
+Out-edges: no new ones. The IP lines citing PP-26 (52, 749, 756, 1283, 1288, 1295 and 1299) are as recorded under batch 06's independent check and go to D23.
+
+Count: these amendments are to slots already corrected, so the count does not change (199 remain). PP-26 is cleared for the title pass, and PP-306, 310, 342, 344 and 366 go to it with the record's title loci.
 
 ### Title pass, round 1
 
