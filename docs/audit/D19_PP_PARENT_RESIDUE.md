@@ -49,7 +49,7 @@ The second is a text change to an authored entry, not a pointer fix.
 
 ## Correction batches
 
-Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again; no batch has been independently re-crossed.
+Each batch takes listed slots one at a time. For each slot the parent texts are read whole, a carrier is sought, and the PP is re-pointed or restated to what its parents carry. The pair is then crossed again under `dag-crossing-method.md` Tests 1-3 (section 4.A). An entry whose constraint needs only one parent is kept and marked `**Derivational State:** BARREN` after its Derives line, with the failing test in its Irreducibility field, as in D20 (`docs/audit/D20_LP_CP85_RECROSS.md`, "The rule applied"). The `[shared LL-x]` tags are left as they are (related item 1). A batch is made by a Worker and reviewed by OPEN PM, who reads each parent text again. Batch 03 has been checked independently ("Batch 03, independent check"); the other batches have not.
 
 ### Batch 01
 
@@ -261,13 +261,62 @@ Corrections and loci for later:
 - LP-243 states an exact common decay rate. A slot re-pointed to it would import a measure (PP-217's candidate column).
 - Other PP entries that count bare declaration as exercise need PP-199's reading (PL-237's third corollary; PL-247; PL-248's first corollary).
 
+### Batch 03 check, forward correction: PP-217 and PP-7
+
+The batch 03 check said PP-217 (PL-84) and PP-7 (PL-227) follow opposite halves of the PL layer and sent the pair to the Holder as a known tension in A. A answers it, so it does not go to the Holder. PL-84 grounds its standing claim in LL-393, and LL-393 says an untraversed derivation still has sovereignty while its active rights atrophy. PL-227 makes the same split in its title (active rights atrophy, inherent rights persist), and both apply LL-393. Read with its own ground, PL-84's degrading "sovereignty standing" is active standing. PP-217 now says so: its italic line, the second paragraph of its claim, corollary (1) and its Irreducibility name active standing as what degrades and say the inherent standing persists. Read so, PP-217 and PP-7 agree. The batch 03 check text above stays as written.
+
+### Batch 04
+
+Eight slots in five entries: both slots of PP-246, PP-270 and PP-340, the LP slot of PP-276 and the LP slot of PP-102. Three slots are corrected (PP-340 both, PP-102 LP), and both corrected entries are BARREN. Five slots are not corrected and stay open.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-340 | PL-140 (PL-299) | LP-124 (bare "LP (Logical Physical)") | BARREN | PL-299's text is "Constitutional Incompleteness Guarantees No Traversal Is Barren", and the header's title for it matches no PL entry. The body named LP-227, which is Tension-Bearing Infrastructure, not a monitor. PL-140 carries that every interaction, monitoring included, is consequential and none is cost-free (PC-8, LL-314). LP-124 carries that a self-proving record embeds the cost of its own derivation (CP-21, LL-153). Test 2: where a monitor's output is held as a self-proving record (a condition, not asserted), LP-124 alone requires it to carry the monitoring's cost. The anomaly-monitor half and the frequency rate are dropped. |
+| PP-102 | PL-148 (kept) | LP-72 (kept) | BARREN | Restated only. LP-72 says that, where self-similar nesting shapes the graph, process-derivation isomorphism must manifest as it. It does not say that no container is a special top-level object, and no LP entry found does. Test 1: incompleteness at every depth, the outermost included, holds from PL-148 alone (PC-9, LL-304), once a container is read as a region of the topology (the entry's step). |
+
+What changed (`system-foundations-physical-physical.md`):
+- PP-340: Derives and Applies lines re-pointed. Italic line, Irreducible Claim, Corollaries and Irreducibility restated.
+- PP-102: italic line, Irreducible Claim and Irreducibility restated. Corollaries kept: they are instances of the restated claim.
+- `**Derivational State:** BARREN` added after the Derives line of each: two lines.
+- PP-217: the forward correction above, four edits.
+- No title is changed. No entry has been removed or renumbered, and nothing on the PL or LP side is changed.
+
+Not corrected (five slots, open):
+- PP-246 (PL-174 and LP-167). Neither parent has a consequence gradient or an accountability map. The phrase "consequence topology gradient" occurs in no PL or LP entry. PL-235, PL-77 and PL-302 each carry one part, and joining them would be the entry's own step with none of them named.
+- PP-270 (PL-183 and LP-185). Neither parent has a lattice, a node that receives and re-transmits, or a node's double standing as achievement and frontier. "Settled" in the entry means achieved, but PL-192 uses settlement for a region's death. "Frontier" in the entry means a propagation front, but PL-183 and PL-144 use it for the edge of the known. The two senses must be settled first.
+- PP-276 (LP slot, LP-190). LP-190 carries only that the comprehension verbs are the same at every scale. No LP entry found has a boundary-condition truth evaluator. The entry's corollaries read "scale" as how extreme an input is, but PL-1's scale is depth.
+- In all three, restating to what the named parents carry would leave the title with nothing under it. So they join PP-136 for the title pass (each title: 1 copy in PP, 95 in PI).
+
+Amendments made by OPEN PM in review:
+- PP-340 corollary (2): reworded. A monitor that reports its own cost as zero reports a figure that PL-140 says no interaction has.
+- PP-102: LP-72 states its nesting as a condition ("When Self-Similar Nesting physically shapes the graph"), so the claim and the Irreducibility now say "where self-similar nesting shapes the graph", not that LP-72 establishes it. "x" becomes "×", as A writes it.
+
+Doubts recorded, not acted on:
+- PP-340: PL-267 (the rows file's candidate; accountability includes the thermodynamic footprint) was set aside for PL-140. PL-140 carries the old body's sentence, "every interaction deposits thermodynamic cost", and names monitoring; PL-267 names neither. Under Test 2 the class is the same either way.
+- PP-102: LP-72 is a generic CP-12 × LL-60 template. Whether a PP should keep such an entry as its above parent is for the method, not this batch.
+
+Out-edges, not corrected here (for D23):
+- IP lines 171 and 481 cite PP-246 for a "consequence topology gradient".
+- IP lines 176 and 555 cite PP-270 for the settled-and-frontier standing.
+- PP-246 is also in the Applies lists at IP lines 161, and PP-270 at 161 and 545. PP-276 is in the Applies list at IP line 105.
+- `system-foundations-implementation-conceptual.md` line 420 (IC-22) lists PP-340 under harmonic tension, which PP-340 has never said.
+
+Open loci found in this batch, for later batches:
+- Twelve PP entries pair PL-299 with the title "Consequence Carries Its Own Thermodynamic Receipt", which no PL entry bears: PP-236, 243, 255, 261, 288, 301, 306, 310, 340 (corrected here), 342, 344 and 366. In each, either the id or the title is stale.
+- PP-270 cites LP-185 (Present-Tense Verbs). LP-186 (Scale-Invariant Consequence Propagation, a command cascading down every scale) is nearer the entry's subject, so the id may be off by one. LP-186 has no lattice either, and the PL half has no carrier whichever id it is.
+- LP-72, LP-185 and LP-190 are generic entries whose text names no specific content. A PP that cites one as the carrier of a specific claim should be read with that in mind.
+- The `[shared LL-x]` tag no longer matches the new parents on PP-340 (it says LL-148; PL-140 applies LL-127 and LL-314, and LP-124 applies LL-153) or on PP-102 (it says LL-60, which is LP-72's ground). This is related item 1.
+- The PP-340 title says the monitor carries the cost, but the restated body says its record does. The PP-102 title's "self-generates recursively" is the entry's wording; PL-148 says "replicates at every scale". Both are for the title pass.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
 
 | PP | Side | Named now | Reading |
 | :--- | :---: | :--- | :--- |
-| PP-102 | LP | LP-72 | no carrier found (strict reader, low) |
+| PP-102 | LP | LP-72 | no carrier found (strict reader, low); batch 04: kept and restated, BARREN |
 | PP-113 | LP | LP-216 (was LP-81) | candidate LP-210, low confidence, not adopted; batch 01: re-pointed and restated, BARREN |
 | PP-216 | LP | LP-151 | no carrier found (strict reader, medium) |
 | PP-217 | LP | LP-151 | candidate LP-243, low confidence, not adopted; batch 03: re-pointed to LP-246 and restated, BARREN |
@@ -288,7 +337,7 @@ Corrections and loci for later:
 | PP-242 | LP | LP-186 (was LP-164) | candidate LP-186, low confidence, not adopted; batch 01: re-pointed and restated, IRREDUCIBLE |
 | PP-243 | LP | LP-165 | no carrier found (strict reader, medium) |
 | PP-245 | LP | LP-166 | no carrier found (strict reader, high) |
-| PP-246 | LP | LP-167 | no carrier found (every reader) |
+| PP-246 | LP | LP-167 | no carrier found (every reader); batch 04: read, not corrected (to the title pass) |
 | PP-247 | LP | LP-168 | no carrier found (strict reader, high) |
 | PP-248 | LP | LP-168 | no carrier found (strict reader, high) |
 | PP-249 | LP | LP-169 | no carrier found (strict reader, medium) |
@@ -312,12 +361,12 @@ Corrections and loci for later:
 | PP-267 | LP | LP-182 | no carrier found (every reader) |
 | PP-268 | LP | LP-183 | no carrier found (strict reader, high) |
 | PP-269 | LP | LP-184 | no carrier found (every reader); batch 01b: restated, BARREN |
-| PP-270 | LP | LP-185 | no carrier found (strict reader, high) |
+| PP-270 | LP | LP-185 | no carrier found (strict reader, high); batch 04: read, not corrected (sense conflicts; to the title pass) |
 | PP-271 | LP | LP-186 | no carrier found (strict reader, low) |
 | PP-272 | LP | LP-187 | no carrier found (every reader) |
 | PP-274 | LP | LP-188 | candidate LP-397, low confidence, not adopted |
 | PP-275 | LP | LP-483 (was LP-189) | no carrier found (strict reader, low); batch 01: re-pointed and restated, BARREN |
-| PP-276 | LP | LP-190 | no carrier found (strict reader, high) |
+| PP-276 | LP | LP-190 | no carrier found (strict reader, high); batch 04: read, not corrected (to the title pass) |
 | PP-277 | LP | LP-191 | no carrier found (strict reader, medium) |
 | PP-278 | LP | LP-191 | no carrier found (strict reader, medium) |
 | PP-280 | LP | LP-192 | no carrier found (strict reader, medium) |
@@ -374,7 +423,7 @@ Corrections and loci for later:
 | PP-337 | LP | LP-225 | no carrier found (strict reader, medium) |
 | PP-338 | LP | LP-226 | no carrier found (strict reader, medium) |
 | PP-339 | LP | LP-227 | no carrier found (strict reader, medium) |
-| PP-340 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
+| PP-340 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 04: filled with LP-124 and restated, BARREN |
 | PP-341 | LP | LP-228 | no carrier found (strict reader, medium) |
 | PP-342 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
 | PP-343 | LP | LP-229 | no carrier found (strict reader, low) |
@@ -451,7 +500,7 @@ Corrections and loci for later:
 | PP-233 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
 | PP-243 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
-| PP-246 | PL | PL-174 | no carrier found (every reader) |
+| PP-246 | PL | PL-174 | no carrier found (every reader); batch 04: read, not corrected (to the title pass) |
 | PP-249 | PL | PL-175 | no carrier found (strict reader, medium) |
 | PP-255 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
 | PP-258 | PL | PL-177 | candidate PL-205, low confidence, not adopted |
@@ -459,7 +508,7 @@ Corrections and loci for later:
 | PP-261 | PL | PL-299 | no carrier found (strict reader, medium) |
 | PP-266 | PL | PL-181 | no carrier found (strict reader, medium) |
 | PP-269 | PL | PL-182 | no carrier found (every reader); batch 01b: restated, BARREN |
-| PP-270 | PL | PL-183 | no carrier found (strict reader, medium) |
+| PP-270 | PL | PL-183 | no carrier found (strict reader, medium); batch 04: read, not corrected (sense conflicts; to the title pass) |
 | PP-272 | PL | PL-228 | no carrier found (every reader) |
 | PP-274 | PL | PL-81 | no carrier found (strict reader, medium) |
 | PP-279 | PL | PL-228 | no carrier found (every reader) |
@@ -486,7 +535,7 @@ Corrections and loci for later:
 | PP-327 | PL | none | no carrier found (strict reader, medium) |
 | PP-331 | PL | PL-108 | candidate PL-17, low confidence, not adopted |
 | PP-337 | PL | PL-174 | no carrier found (strict reader, medium) |
-| PP-340 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
+| PP-340 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 04: re-pointed to PL-140 and restated, BARREN |
 | PP-342 | PL | PL-299 | no carrier found (strict reader, medium) |
 | PP-344 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
 | PP-345 | PL | PL-239 | candidate PL-17, low confidence, not adopted |
