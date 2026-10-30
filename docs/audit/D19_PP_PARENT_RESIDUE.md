@@ -677,6 +677,40 @@ Loci, not changed here:
 
 Out-edges: IP 0 and IC 0 for all six. Each has 95 PI title copies on Derives lines, and no PI claim text cites any of them. Titles are unchanged.
 
+### Title pass, round 2
+
+Six titles: PP-26, after the batch 07 check cleared its body, and PP-306, 310, 342, 344 and 366, whose bodies were restated in batch 07 and checked. A Worker (Sonnet) proposed each title against `cf27aaa`. OPEN PM reviewed each one against the entry text at `8778613`; batch 08 did not touch these six. Each title states what the entry's italic line states, keeps the entry's own step as a "Where …" condition, and drops the words the body cut. All six are applied as the Worker proposed them.
+
+Applied (old title, then new):
+
+| Entry | Old title | New title |
+| :--- | :--- | :--- |
+| PP-26 | Zero Failure Rate Starves the Restorative Metabolic Engine — Zero Failures Is a Danger Signal | The Restorative Process Consumes Drift and Failure States as Fuel — Where a Section of Topology Has Zero Failures, It Supplies None of Those Failure States; Starvation Is Tied to the Absence of Drift |
+| PP-306 | A Consequence-Aware Fault Detector Must Carry the Thermodynamic Cost of Its Own Detection Activity | Where a Fault Detector Detects Faults Through Monitoring Queries, Sampling or Logging, That Monitoring Is Measurement in the Present-Tense Topology, an Active Traversal That Consumes the Topology's Fuel; Its Cost Belongs in the System's Thermodynamic Budget |
+| PP-310 | A Consequence-Aware Topology Pruner Must Carry the Thermodynamic Cost of Pruning — Pruning Is Not Free | Where Pruning an Element of the Topology Is Dissolving It, Pruning Is an Interaction With Thermodynamic Consequence, Not an Administrative Convenience — The Consequence Accounting Is Part of the Dissolution Interaction Itself, Not a Separate Step |
+| PP-342 | A Consequence-Aware Topology Validator Must Carry the Thermodynamic Cost of Its Own Validation Activity | Where the Validation of a Topology Is a Test of That Topology, It Is a Traversal That Leaves a Wake and Changes What It Validates, and Verification Design Must Account for the Topological Cost of Verification Traversals |
+| PP-344 | A Consequence-Sensitive Topology Repair Must Carry the Thermodynamic Cost of Its Own Repair Activity | Where the Act of Repair Is an Interaction With the Topology, It Is Not Cost-Free; Where the Repair Mechanism Initiates a Restorative Process, It Owns the Metabolic Cost of That Restoration and Cannot Externalize the Thermodynamic Consequence of Correction to the System Commons |
+| PP-366 | A Consequence-Aware Topology Synthesizer Must Carry the Thermodynamic Cost of Its Own Synthesis Activity | Where Synthesizing a View of the Topology Is an Interaction With the Topology, It Carries Thermodynamic Consequence and Is Not Cost-Free |
+
+What changed:
+- `system-foundations-physical-physical.md`:
+  - the six `### PP-n.` headers;
+  - in each of the six, the Irreducibility sentence that spoke of the title in the present tense ("The title keeps the earlier claim until the title pass", "The title's … holds only under …", "both are flagged and not changed"). It is put in the past and says what this pass did. The wording is OPEN PM's, from the Worker's suggestions.
+- `system-foundations-physical-implementation.md`: each old title occurs 95 times, every time as the parenthesized title after the PP id on a `**Derives from:**` line. All 95 copies of each title are replaced, 570 in all, on 190 lines. No other PI text is changed.
+- No other tracked file holds any of the six old titles. This was searched by exact text at `8778613`.
+- PI own text, searched outside the Derives lines by PP id and by the old titles' claim words: none of the six is cited. The "consequence-aware … must carry the thermodynamic cost" lines in PI are PP-301's old claim, which is already the out-edge for D23.
+
+Review notes:
+- PP-26: the title keeps drift beside failure states, as the body does. It keeps "zero failures" as the entry's step. Its last clause is LP-17's limit, which the italic line states. It does not say that zero failures starves the process.
+- PP-342: the cost named is topological, which is PL-37's kind. One "Where" scope covers both halves, as the Irreducible Claim does.
+- PP-344: it is long (277 characters) because the body keeps two conditions over two parents. Shortening it would drop one of them.
+- Lengths run from 136 to 277 characters.
+
+Still to retitle:
+- PP-236, 243, 255, 261, 288 and 300: their loci are listed under batch 08, and the titles wait on the batch 08 check.
+- PP-103: waits on its body fix ("self-governing").
+- The six NO CARRIER entries: PP-112, 136, 196, 246, 270 and 276.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
