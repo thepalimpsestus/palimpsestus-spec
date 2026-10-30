@@ -1048,6 +1048,66 @@ Loci, not changed here:
 
 Out-edges: the checker listed 14 lines (13 IP, 1 IC, 0 II), the same lines as batch 11's list. The titles' new wording changes no IP or IC line, since those lines cite ids and not titles.
 
+### Batch 12, independent check
+
+A blind checker (Opus; brief sha256 `a5fa820b…`, return `2aae325d2cbd1f842c70d223eb65fed425abd28f3220b814bcaf2d66c87199ee`) used its own copy of A at `f62b046`. It read each entry and each removed LP whole and wrote its entry judgments and out-edge search before it opened this record. It gave HOLDS for all twelve removals: none of the removed LPs carries, or is needed by, any sentence of its entry. All twelve closing sentences name the LP by its exact title, and what they say is true, PP-11's longer one included. Its out-edge list is empty: no line outside the PP file names a removed id together with its PP, and the IP lines that cite these entries rest on none of the removed LPs.
+
+It agreed with this record on the verdicts, the PP-11 amendment, the PP-9 weighing and the out-edges. After reading the record it accepted the batch 12 loci it had not raised, and corrected two of its own readings (PP-9 corollary (2) and PP-13 corollary (1) are not carried by their PL parent). No verdict changed.
+
+It also gave a further ground: no removed LP shares a direct LL parent with the kept PL, so none of the twelve removed pairs passes the header filter (PP:10), and every removed id lies outside the header's LP-1 to 23 range for PP-1 to 40. OPEN PM does not use the filter as a ground: the filter is itself an open locus against the Zero Pre-Filtering Mandate (`dag-crossing-method.md` §3). The removals stand on the carriage reading alone.
+
+Loci it raised that this record did not list, now recorded (not changed here):
+- PP-5: the quotation it gives (the current boundary, where not-yet-manifest extensions begin) is not PL-27's wording.
+- PP-14, corollary (4): "the most commonly neglected debt" goes beyond PL-275, which says the most valuable debt is deferred without awareness.
+- PP-2 and PP-8: they also credit PL-98 with a difference in structural mass, which PL-98 does not state.
+- PP-11, corollary (3): the nearest carrier is PL-19, which makes a dissolution a violation only when it happens without transfer; PL-19 is not a parent.
+- All twelve: three blank lines between the Tier line and the Derives line (format only).
+
+It noted that the D19 row of `DEFECT_LEDGER.md` did not mention batch 12. The row now does.
+
+### Batch 14
+
+The Worker (Sonnet) made the return against `f62b046` (sha256 `4e37b3f18c1440f397f47226ddfb0c4b3f97d98cbd90bbf7d76c7868d0fc2a58`). It was applied at `a8549a5`. The eleven entries did not change between those commits, and every old text still occurs once. OPEN PM read each entry whole and each leading LP whole, at `a8549a5`.
+
+The batch took the leading LP id on eleven Derives lines: PP-30 to 40. As in batches 10 (Part A) and 12, these ids are not among the 250 slots, so the slot count does not change. In each entry the id stood on the Derives line only. No sentence of the entry cites the LP or uses its matter, and at `a8549a5` each id occurs in A only there and at its own LP heading. Each id is removed, and the Irreducibility says so in one sentence. The parent pair the text uses is unchanged, so no entry is re-crossed.
+
+| Entry | Removed | That LP's matter |
+| :--- | :--- | :--- |
+| PP-30 | LP-490 | an entity that modifies itself owns the full energy cost of the change |
+| PP-31 | LP-667 | a self-modification larger than the attention buffer must be decomposed |
+| PP-32 | LP-639 | a discovered truth is validated against the pre-discovery state |
+| PP-33 | LP-470 | a decision with a wide blast radius must show its gaps |
+| PP-34 | LP-469 | a system-wide challenge by a high-power node must be put as a query |
+| PP-35 | LP-645 | the questioning engine is not throttled by a full discovery queue |
+| PP-36 | LP-448 | the converter runs on the tension at the sovereignty boundary |
+| PP-37 | LP-399 | a component out of phase-lock loses its operational rights at once |
+| PP-38 | LP-596 | a registry of meta-agent patterns is an archaeological record |
+| PP-39 | LP-435 | the membrane admits only knowledge valid for the present state |
+| PP-40 | LP-650 | an audit trail must prove its own completeness |
+
+OPEN PM's review. No amendment. The Worker weighed three near words and added no sentence for them; OPEN PM agrees on reading:
+- PP-30, corollary (3): the accounting for the traversal's own Wake is PL-15's ("must account for the change"), not LP-490's energy cost of self-modification.
+- PP-32: "pre-correction state" shares only the idea of a prior state with LP-639, and runs the other way (PP-32 says that state no longer exists; LP-639 wants it kept).
+- PP-40, corollary (4): "audit finding" is an auditor classifying a gate's absence, not a record proving its own completeness.
+
+How the slots are counted: no slot changes. **179 remain.** BARREN lines: 54, unchanged.
+
+Out-edges (at `a8549a5`): no line in A outside the PP file names a leading id, and no PI copy of these eleven titles carries an id. PP-31 cites PP-30 as "PP-30 (LP-19 × PL-15)", which now matches PP-30's parent pair exactly. IP and IC lines cite these PPs by id or title only, and the bodies do not change. Titles are unchanged.
+
+Loci, not changed here:
+- None of the eleven entries has a Derivational State line, and PI tags all eleven [SUBSUMED]. The known loci again.
+- PP-35: the claim (a due process demonstration that traverses the derivation path from constitutional foundations, not a pre-evaluated certificate) is PL-40's matter, nearly in PL-40's words, and the entry gives it to PL-21. PL-21 says a correction needs proof of reducibility or irreducibility and says nothing of constitutional foundations or certificates. The PL slot of PP-35 is not among the 250, so this is a new slot of the D19 kind, for a later re-cross. PP-13 (batch 12 loci) gives PL-40's matter to PL-20 in the same way.
+- PP-32 and PP-34: both put "removal of an expired correction is a forward addition, not a reversion" on LP-20, with PL-10 and PL-25. PL-25 already says what is called rollback is a forward action that creates new structure, so whether PP-34 adds anything to PL-25 applied to LP-20 is a Test 1 question for a later re-cross. PP-32's "calcification" is not LP-20's word, and its corollary (1) reads PL-10's claim and not PL-10's own last-resort corollary.
+- PP-30, corollary (2) (a continuous updating process) and "constitutionally unstable" go beyond PL-15.
+- PP-31, corollaries (2) and (3) ("compounding"; tests indistinguishable from production) go beyond PL-37.
+- PP-33: "corrections are proofs about how to fix the topology" is the entry's own bridge; neither parent says it. Corollary (1)'s direction of error is not PL-17's.
+- PP-34, corollaries (2) and (4) (an active correction register; "correction graduation") are in neither parent.
+- PP-36: due process "for the original creation" and corollary (3)'s creation analysis are in neither parent.
+- PP-37: "cannot be dissolved; must be maintained as permanent edges" and "constitutional failure maintenance" are not PL-147's text, which speaks of keeping the gap as a living Attested Absence.
+- PP-38, corollary (3): "PP-4 applies" points at a defensive-void entry, not at skipped gate evaluation.
+- PP-39: that the gate is an edge entity, on which the title and corollaries (3) and (4) rest, is stated by neither LP-23 nor PL-11.
+- PP-40: LP-23's own corollary already calls bypassing gates a constitutional violation, and PL-22 already calls an override a sovereignty violation, so the entry may restate its parents' separate claims (Test 1 or 3). Corollary (1)'s "must be rejected" is stricter than PL-22's corollary on legitimate operational constraints.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.

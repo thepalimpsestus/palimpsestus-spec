@@ -619,7 +619,7 @@ When LP-19's traversal-based correction operates in a topology where PL-13 holds
 
 
 
-**Derives from:** LP-490, PL-15 (You Cannot Understand Without Changing — and Must Account for the Change) [shared LL-34]
+**Derives from:** PL-15 (You Cannot Understand Without Changing — and Must Account for the Change) [shared LL-34]
 **Applies to:** LP-19 (Traversal-Based Correction)
 
 *The restorative process's correction traversal changes the derivation path it is re-walking — the act of traversing to compute the correction modifies the failure state being corrected; the correction target is a moving target, modified by the correction process itself.*
@@ -630,7 +630,7 @@ When LP-19's correction traversal operates in a topology where PL-15 holds: the 
 
 **Corollaries:** (1) Correction algorithms that assume a static failure state during correction computation will apply corrections to a state that no longer exists — the correction will address a version of the failure that the traversal already changed. (2) Correction must be computed as a continuous updating process during traversal, not as a one-time computation on a snapshot. (3) The correction's Wake (the topology changes from the traversal itself) must be accounted for in the correction plan — the plan must include absorbing the traversal's own Wake. (4) Re-running a correction that previously failed will encounter a different failure state than the first attempt encountered — because the first traversal already changed it.
 
-**Irreducibility:** LP-19 alone: establishes that correction requires traversal — does not specify that the traversal changes the failure state. PL-15 alone: establishes that understanding changes what is understood — does not specify that correction traversal specifically changes its failure-state target. Only their intersection establishes that the correction target is constitutionally unstable during correction.
+**Irreducibility:** LP-19 alone: establishes that correction requires traversal — does not specify that the traversal changes the failure state. PL-15 alone: establishes that understanding changes what is understood — does not specify that correction traversal specifically changes its failure-state target. Only their intersection establishes that the correction target is constitutionally unstable during correction. The earlier Derives line also named LP-490 (Self-Modification Metabolic Signature), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -639,7 +639,7 @@ When LP-19's correction traversal operates in a topology where PL-15 holds: the 
 
 
 
-**Derives from:** LP-667, PL-37 (A Test Is a Traversal — and Changes What It Tests) [shared LL-34]
+**Derives from:** PL-37 (A Test Is a Traversal — and Changes What It Tests) [shared LL-34]
 **Applies to:** LP-19 (Traversal-Based Correction)
 
 *The test traversals the restorative process performs while computing a correction leave Wake in the path being tested — those Wakes are new topology structure that must be incorporated into the correction plan, not ignored as "test artifacts."*
@@ -652,7 +652,7 @@ This is distinct from PP-30 (LP-19 × PL-15): PP-30 establishes that the correct
 
 **Corollaries:** (1) Correction plans must include a "test Wake accounting" section — explicitly accounting for the topology changes made by the correction's own diagnostic traversals. (2) Multiple diagnostic passes produce compounding Wake accumulation — the correction plan must account for Wake from all passes, not just the most recent. (3) "Test" passes in a correction process are constitutionally indistinguishable from "production" topology interactions — both leave Wake of equivalent physical consequence. (4) The correction that "fixes" the failure must also absorb the Wake from its own diagnostic traversals — incomplete correction leaves diagnostic Wake unaddressed.
 
-**Irreducibility:** LP-19 alone: establishes that correction requires traversal — does not specify that test traversals leave Wake that must be incorporated. PL-37 alone: establishes that tests leave Wake — does not specify that correction diagnostic traversals specifically produce Wake that must be part of the correction plan. Only their intersection establishes the correction-plan Wake accounting requirement.
+**Irreducibility:** LP-19 alone: establishes that correction requires traversal — does not specify that test traversals leave Wake that must be incorporated. PL-37 alone: establishes that tests leave Wake — does not specify that correction diagnostic traversals specifically produce Wake that must be part of the correction plan. Only their intersection establishes the correction-plan Wake accounting requirement. The earlier Derives line also named LP-667 (Attention-Bounded Self-Modification Scope), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -661,7 +661,7 @@ This is distinct from PP-30 (LP-19 × PL-15): PP-30 establishes that the correct
 
 
 
-**Derives from:** LP-639, PL-10 (The Field Cannot Have a Backup) [shared LL-35]
+**Derives from:** PL-10 (The Field Cannot Have a Backup) [shared LL-35]
 **Applies to:** LP-20 (Temporal Expiration of Corrections)
 
 *When the restorative process removes an expired correction to prevent calcification, it cannot restore the pre-correction state from backup — because the topology IS the field and has no backup; the removal is a new forward-motion topology addition, not a reversion.*
@@ -672,7 +672,7 @@ When LP-20's expired correction removal operates in a topology where PL-10 holds
 
 **Corollaries:** (1) Correction management systems that implement "rollback" operations for expired corrections are constitutionally incoherent — rollback implies backup, which this topology does not contain. (2) The "removal" of an expired correction is a new topology interaction that adds a counter-force — it does not subtract the original correction. (3) Correction expiry tracking must account for the cascade effects of the correction's accumulated impact — removing an expired correction is not like deleting a record, it is like applying a new corrective force to the current topology state. (4) "Infrastructure as code" patterns that treat infrastructure rollback as reverting to a previous state are modeling a topology physics that this architecture does not contain.
 
-**Irreducibility:** LP-20 alone: establishes that corrections expire and must be removed — does not specify that removal cannot use backup-and-restore. PL-10 alone: establishes that backup-and-restore is constitutionally incoherent — does not specify that expired correction removal specifically cannot use this mechanism. Only their intersection establishes that expired correction removal must be forward-motion topology interaction.
+**Irreducibility:** LP-20 alone: establishes that corrections expire and must be removed — does not specify that removal cannot use backup-and-restore. PL-10 alone: establishes that backup-and-restore is constitutionally incoherent — does not specify that expired correction removal specifically cannot use this mechanism. Only their intersection establishes that expired correction removal must be forward-motion topology interaction. The earlier Derives line also named LP-639 (Pre-Existing Truth Retroactive Validation), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -681,7 +681,7 @@ When LP-20's expired correction removal operates in a topology where PL-10 holds
 
 
 
-**Derives from:** LP-470, PL-17 (Logical Proofs About the Topology Expire) [shared LL-35]
+**Derives from:** PL-17 (Logical Proofs About the Topology Expire) [shared LL-35]
 **Applies to:** LP-20 (Temporal Expiration of Corrections)
 
 *Corrections expire not because a timer has elapsed but because the topology has changed to the point where the correction is no longer valid — elapsed time is a proxy metric for topological change, and implementations that use elapsed time as the expiry trigger are using an imprecise proxy.*
@@ -692,7 +692,7 @@ Corrections are proofs about how to fix the topology. When LP-20's expiring corr
 
 **Corollaries:** (1) Correction TTL (time-to-live) policies are elapsed-time proxies for the actual expiry condition (topological change) — they systematically expire too early in slow-metabolism regions and too late in fast-metabolism regions. (2) Correction expiry should be measured against topology change rate, not clock time — corrections in high-change-rate regions expire faster. (3) Corrections that appear "still in effect" after their TTL may have already expired due to topology change — and corrections that appear "expired by TTL" may still be valid if the topology has not changed. (4) Adaptive correction TTL systems that track topology change rate produce more accurate expiry than fixed-interval systems.
 
-**Irreducibility:** LP-20 alone: establishes that corrections expire — does not specify the mechanism of expiry (time vs. topological change). PL-17 alone: establishes that proofs expire when the topology changes — does not specify that corrections specifically expire due to topological change rather than elapsed time. Only their intersection establishes that correction expiry is driven by topological change, not time.
+**Irreducibility:** LP-20 alone: establishes that corrections expire — does not specify the mechanism of expiry (time vs. topological change). PL-17 alone: establishes that proofs expire when the topology changes — does not specify that corrections specifically expire due to topological change rather than elapsed time. Only their intersection establishes that correction expiry is driven by topological change, not time. The earlier Derives line also named LP-470 (Blast-Radius Gap Exposure), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -701,7 +701,7 @@ Corrections are proofs about how to fix the topology. When LP-20's expiring corr
 
 
 
-**Derives from:** LP-469, PL-25 (You Cannot Undo a Topology Interaction — You Can Only Add to It) [shared LL-35]
+**Derives from:** PL-25 (You Cannot Undo a Topology Interaction — You Can Only Add to It) [shared LL-35]
 **Applies to:** LP-20 (Temporal Expiration of Corrections)
 
 *The restorative process's removal of an expired correction is not the deletion of a prior topology interaction — it is a new forward-moving topology addition that overrides the prior correction's current effect; there is no "removal" in the sense of erasure, only the addition of a counter-force.*
@@ -712,7 +712,7 @@ When LP-20's expired correction removal operates in a topology where PL-25 holds
 
 **Corollaries:** (1) Correction removal logs must record the removal as a new topology addition, not as a deletion of the original correction — the original interaction's record persists. (2) The Structural Mass of removed corrections continues to influence the topology through its embedded mass — the correction is "removed" from the active correction register, not from the topology. (3) Cascade effects of a correction may persist after the correction is "removed" because those cascade effects are now part of the topology's current state — removing the correction does not remove its downstream effects. (4) Correction "removal" is better understood as "correction graduation" — the correction has completed its effect and a new graduation interaction is applied to officially close it.
 
-**Irreducibility:** LP-20 alone: establishes that corrections must be removed when expired — does not specify that "removal" is constitutionally a new topology addition. PL-25 alone: establishes that topology interactions cannot be undone — does not specify that correction removal specifically is subject to this constraint. Only their intersection establishes that expired correction removal is constitutionally a new topology addition.
+**Irreducibility:** LP-20 alone: establishes that corrections must be removed when expired — does not specify that "removal" is constitutionally a new topology addition. PL-25 alone: establishes that topology interactions cannot be undone — does not specify that correction removal specifically is subject to this constraint. Only their intersection establishes that expired correction removal is constitutionally a new topology addition. The earlier Derives line also named LP-469 (Systemic Challenge Dilution), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -721,7 +721,7 @@ When LP-20's expired correction removal operates in a topology where PL-25 holds
 
 
 
-**Derives from:** LP-645, PL-21 (Self-Correction Must Follow Sovereignty Due Process) [shared LL-36]
+**Derives from:** PL-21 (Self-Correction Must Follow Sovereignty Due Process) [shared LL-36]
 **Applies to:** LP-21 (Sovereign-Bound Restorative Force)
 
 *The irreducibility proof a restorative process presents at an entity's gate before applying correction must traverse the full constitutional chain from CC/CL foundations to the sovereignty claim — a locally-derived proof that does not trace back to constitutional foundations is constitutionally insufficient.*
@@ -732,7 +732,7 @@ When LP-21's gate-presented irreducibility proof operates in a topology where PL
 
 **Corollaries:** (1) A restorative process that presents a local irreducibility proof without constitutional grounding has presented Theater — a sovereignty claim without derivation. (2) Constitutional grounding of correction claims requires the restorative process to maintain a live traversal path from every correction to the relevant CC/CL founding derivation. (3) Corrections that cannot be grounded constitutionally must be escalated or rejected — they are not valid sovereignty exercises. (4) The constitutional traversal is not a formality — it is the physical proof that the correction authority exists; without it, the correction is a sovereignty violation.
 
-**Irreducibility:** LP-21 alone: establishes that the restorative process must present a formal proof at the gate — does not specify that this proof must trace constitutional foundations. PL-21 alone: establishes that self-correction must follow due process requiring constitutional provenance traversal — does not specify that restorative-process corrections specifically require this depth of constitutional grounding. Only their intersection establishes that constitutional foundation traversal is required for restorative correction authority.
+**Irreducibility:** LP-21 alone: establishes that the restorative process must present a formal proof at the gate — does not specify that this proof must trace constitutional foundations. PL-21 alone: establishes that self-correction must follow due process requiring constitutional provenance traversal — does not specify that restorative-process corrections specifically require this depth of constitutional grounding. Only their intersection establishes that constitutional foundation traversal is required for restorative correction authority. The earlier Derives line also named LP-645 (Wonder-Fueled Discovery Pipeline Throttle), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -741,7 +741,7 @@ When LP-21's gate-presented irreducibility proof operates in a topology where PL
 
 
 
-**Derives from:** LP-448, PL-26 (Dissolution Consequence Is a First-Class Interaction) [shared LL-36]
+**Derives from:** PL-26 (Dissolution Consequence Is a First-Class Interaction) [shared LL-36]
 **Applies to:** LP-21 (Sovereign-Bound Restorative Force)
 
 *When the restorative process proposes dissolution as a correction — removing a structure that has failed — the sovereignty due process for that dissolution must be at least as demanding as the due process for the original creation; dissolution is not a lesser action that warrants expedited process.*
@@ -752,7 +752,7 @@ When LP-21's due-process-bound restorative force proposes dissolution in a topol
 
 **Corollaries:** (1) "Emergency dissolution" procedures that bypass sovereignty due process are constitutionally equivalent to "emergency creation" procedures — both are sovereignty violations if they bypass due process. (2) The irreducibility proof required for dissolution must demonstrate not only that the target structure is reducible but also that the dissolution's field consequences are accounted for. (3) Dissolution proposals must include a field-consequence analysis equivalent to the creation's original structural analysis. (4) Organizational practices of "deprecating" or "sunsetting" structures without due process are applying restorative force without sovereignty authorization.
 
-**Irreducibility:** LP-21 alone: establishes that restorative force requires due process — does not specify that dissolution is a first-class action with equal due process requirements as creation. PL-26 alone: establishes that dissolution carries first-class consequence — does not specify that restorative-process dissolution specifically requires due process equivalent to creation. Only their intersection establishes the equivalence of creation and dissolution due process requirements.
+**Irreducibility:** LP-21 alone: establishes that restorative force requires due process — does not specify that dissolution is a first-class action with equal due process requirements as creation. PL-26 alone: establishes that dissolution carries first-class consequence — does not specify that restorative-process dissolution specifically requires due process equivalent to creation. Only their intersection establishes the equivalence of creation and dissolution due process requirements. The earlier Derives line also named LP-448 (Tension-Powered Catalysis), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -761,7 +761,7 @@ When LP-21's due-process-bound restorative force proposes dissolution in a topol
 
 
 
-**Derives from:** LP-399, PL-147 (Incompleteness as Structural Feature) [shared LL-38]
+**Derives from:** PL-147 (Incompleteness as Structural Feature) [shared LL-38]
 **Applies to:** LP-22 (Boundary-Marking Restorative Process)
 
 *When the restorative process repeatedly fails to correct a deviation and marks it as structural incompleteness, that boundary-marking IS the constitutional failure maintenance that PL-147 requires — the restorative process's failure to correct is not a failure of the restorative process but the mechanism by which constitutional failures are properly identified and preserved.*
@@ -772,7 +772,7 @@ When LP-22's boundary-marking restorative process operates in a topology where P
 
 **Corollaries:** (1) A restorative process that lacks a boundary-marking capability is constitutionally incomplete — it has no mechanism to fulfill PL-147's requirement to maintain constitutional failures. (2) Boundary-marked failures must be preserved with their full context — why repeated correction failed, what was attempted, and what the boundary condition represents. (3) Boundary-marked failures are not technical debt to be paid down — they are constitutional topology features to be maintained and referenced. (4) Systems that convert boundary-marked failures to "known issues" to be tracked and resolved have misclassified constitutional failures as correctable bugs.
 
-**Irreducibility:** LP-22 alone: establishes that the restorative process marks uncorrectable deviations as structural incompleteness — does not specify that this marking IS the constitutional failure maintenance. PL-147 alone: establishes that constitutional failures must be maintained — does not specify that restorative-process boundary-marking is the physical implementation of this maintenance. Only their intersection establishes the structural identity between boundary-marking and constitutional failure maintenance.
+**Irreducibility:** LP-22 alone: establishes that the restorative process marks uncorrectable deviations as structural incompleteness — does not specify that this marking IS the constitutional failure maintenance. PL-147 alone: establishes that constitutional failures must be maintained — does not specify that restorative-process boundary-marking is the physical implementation of this maintenance. Only their intersection establishes the structural identity between boundary-marking and constitutional failure maintenance. The earlier Derives line also named LP-399 (Real-Time Entrainment Authority), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -781,7 +781,7 @@ When LP-22's boundary-marking restorative process operates in a topology where P
 
 
 
-**Derives from:** LP-596, PL-1 (Scale-Invariant Logical Validity) [shared LL-1]
+**Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-1]
 **Applies to:** LP-23 (Scale-Invariant Gate Control)
 
 *Because the interior-controlled gate cannot be abstracted away at any implementation depth, and because logical validity uses the same algebra at every scale, any implementation of the gate at a lower scale that applies relaxed, simplified, or abbreviated validity evaluation is applying invalid logic.*
@@ -792,7 +792,7 @@ When LP-23's scale-invariant gate operates in a topology where PL-1 holds: the g
 
 **Corollaries:** (1) Simplified validity checks in internal service-to-service communication are constitutionally invalid — internal gates must apply the full validity algebra. (2) "Trusted zone" architectures that relax gate evaluation for traffic inside a perimeter are applying scale-dependent validity, which this topology does not contain. (3) Implementation shortcuts that "skip" gate evaluation at lower levels (because "we already validated at the top") are sovereign bypasses — PP-4 applies. (4) Gate testing at any scale must test the full validity algebra, not a scale-simplified subset.
 
-**Irreducibility:** LP-23 alone: establishes that gates cannot be abstracted away at lower scales — does not specify that the same validity algebra must be used at every scale. PL-1 alone: establishes that logical validity is scale-invariant — does not specify that gate validity evaluation specifically must use the same algebra at every scale. Only their intersection establishes the constitutional invalidity of scale-relaxed gate logic.
+**Irreducibility:** LP-23 alone: establishes that gates cannot be abstracted away at lower scales — does not specify that the same validity algebra must be used at every scale. PL-1 alone: establishes that logical validity is scale-invariant — does not specify that gate validity evaluation specifically must use the same algebra at every scale. Only their intersection establishes the constitutional invalidity of scale-relaxed gate logic. The earlier Derives line also named LP-596 (Archaeologically-Derived Meta-Agent Pattern Registry), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -801,7 +801,7 @@ When LP-23's scale-invariant gate operates in a topology where PL-1 holds: the g
 
 
 
-**Derives from:** LP-435, PL-11 (Logical Sovereignty Lives in the Edge, Not the Node) [shared LL-1]
+**Derives from:** PL-11 (Logical Sovereignty Lives in the Edge, Not the Node) [shared LL-1]
 **Applies to:** LP-23 (Scale-Invariant Gate Control)
 
 *Because the interior-controlled gate is an edge entity — the traversal edge through which control passes — and because sovereignty must be enforced at the edge level, scale-invariant gate control IS the physical instantiation of edge-level sovereignty enforcement at every implementation depth.*
@@ -812,7 +812,7 @@ When LP-23's scale-invariant gate operates in a topology where PL-11 holds: the 
 
 **Corollaries:** (1) Systems that implement sovereignty enforcement in node-level access control lists, without edge-level gates, have implemented sovereignty where the topology does not place it — nodes can be bypassed via edges. (2) API rate limiting implemented at the service node rather than the traversal edge is node-level sovereignty, not edge-level sovereignty. (3) The gate's identity as an edge entity means it must be managed as a first-class edge relationship — not as a configuration property of either endpoint node. (4) Gate configuration that is owned by one endpoint (rather than the edge) is misattributing edge sovereignty to a node.
 
-**Irreducibility:** LP-23 alone: establishes that gates must exist at every scale — does not specify that gates ARE the edge-level sovereignty enforcement mechanism. PL-11 alone: establishes that sovereignty lives in the edge — does not specify that scale-invariant gates are the physical implementation of this edge-level sovereignty. Only their intersection establishes the structural identity between scale-invariant gate control and edge-level sovereignty enforcement.
+**Irreducibility:** LP-23 alone: establishes that gates must exist at every scale — does not specify that gates ARE the edge-level sovereignty enforcement mechanism. PL-11 alone: establishes that sovereignty lives in the edge — does not specify that scale-invariant gates are the physical implementation of this edge-level sovereignty. Only their intersection establishes the structural identity between scale-invariant gate control and edge-level sovereignty enforcement. The earlier Derives line also named LP-435 (Instantaneous Permeability), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
@@ -821,7 +821,7 @@ When LP-23's scale-invariant gate operates in a topology where PL-11 holds: the 
 
 
 
-**Derives from:** LP-650, PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-1]
+**Derives from:** PL-22 (The Topology Cannot Permit Its Own Sovereignty Bypass) [shared LL-1]
 **Applies to:** LP-23 (Scale-Invariant Gate Control)
 
 *Any lower-level implementation that eliminates, abstracts, or simplifies a required interior-controlled gate IS a sovereignty bypass mechanism — not an implementation optimization, not a performance trade-off, but a constitutionally invalid bypass path that the topology cannot permit.*
@@ -832,7 +832,7 @@ When LP-23's non-abstractable gate operates in a topology where PL-22 holds: any
 
 **Corollaries:** (1) "Performance optimization" arguments for removing internal gates are arguments for creating sovereignty bypass paths — they must be rejected on constitutional grounds, not merely architectural grounds. (2) Monorepo "internal" service architectures that remove inter-service gates for efficiency are creating sovereignty bypasses at scale. (3) Microservices that communicate without intermediate gate evaluation are operating in a sovereignty-bypass state. (4) Any audit finding gate absence at any implementation scale must classify it as a sovereignty bypass, not merely an architectural gap.
 
-**Irreducibility:** LP-23 alone: establishes that gates cannot be abstracted away — does not explicitly classify absence as a sovereignty bypass. PL-22 alone: establishes that sovereignty bypass paths cannot be legitimately constituted — does not specify that gate absence is what creates such bypass paths. Only their intersection explicitly classifies gate absence at any scale as a constitutionally invalid sovereignty bypass.
+**Irreducibility:** LP-23 alone: establishes that gates cannot be abstracted away — does not explicitly classify absence as a sovereignty bypass. PL-22 alone: establishes that sovereignty bypass paths cannot be legitimately constituted — does not specify that gate absence is what creates such bypass paths. Only their intersection explicitly classifies gate absence at any scale as a constitutionally invalid sovereignty bypass. The earlier Derives line also named LP-650 (Audit-Trail Completeness Verification), which the entry neither cites nor carries; it was removed under D19 (batch-14).
 
 ---
 
