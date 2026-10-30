@@ -646,6 +646,37 @@ Also recorded:
 - **PP-24, `LP-446`.** The checker found it named and not used. It stays with the stray-id locus (batch 05).
 - **PP-140, "Real-Target".** LP-101 and the body say "real-targeting". This is a wording difference only, and the title is kept.
 
+### Batch 08
+
+Six slots: the LP slot of PP-236, PP-243, PP-255, PP-261, PP-288 and PP-300. Batch 06 crossed the PL slot of the first five and left each BARREN "provisional", with its LP slot open. Batch 07 found no carrier for PP-300 and made no edit. The Worker (Sonnet) made the return against `3d753d2`. It was applied at `cf27aaa`, where every old text still occurs once, with three amendments by OPEN PM (below). All six slots are corrected, and all six entries are BARREN. PP-300 has a state line for the first time. No entry is SUBSUMED.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-236 | PL-140 | LP-124 (LP-160) | BARREN | LP-160 (a perpetual systemic pulse) states no mapper, record or cost. LP-124 says a self-proving record embeds the cost of its own derivation and is incomplete without it. That carries the entry's "incomplete record" only under a condition the entry states and does not assert: that the mapper's record is held as a self-proving record whose derivation is the mapping. LP-124 alone covers that case (Test 2); PL-140 adds only that the mapping has a cost. A conjunction. Confidence low-medium. |
+| PP-243 | PL-140 | LP-124 (LP-165) | BARREN | LP-165 (a living survey) states no loop, correction or cost. LP-124 under the stated condition that the correction signal is held as a self-proving record whose derivation is the correction. As PP-236 (Test 2). Confidence low-medium; the condition is further from both parents than PP-236's. |
+| PP-255 | PL-267 | LP-173 (kept) | BARREN | NO CARRIER. LP-173 (a survey revealing a pre-existing topology) states no attractor or cost. LP-564, 177, 186, 393, 489 and 616 were read and not adopted. LP-489 and LP-616 would carry "cannot be externalized" only by importing an initiator or a choosing entity, which neither the entry nor PL-267 has. Nothing in the entry is attributed to LP-173. The batch 06 "provisional" sentence is replaced by the settled reading. Holds from PL-267 alone (Test 1). |
+| PP-261 | PL-266 | LP-616 (LP-177) | BARREN | LP-177 (shadow edges) states no cascade, interference or cost. LP-616 states for thermodynamic cost in general what PL-266 states for maintenance cost: it is present-tense and a deferral accumulates debt. Both rest on LL-472. Only LP-616's timing half is used, not its attribution half (CP-85). One rule stated twice, so a conjunction (Tests 1 and 2 both hold under the stated conditions). Confidence medium-low. |
+| PP-288 | PL-266 | LP-616 (LP-196) | BARREN | LP-196 (a self-fueling oscillation engine) states no divergence or cost timing. As PP-261, for the cost of reconciling a divergence. If PP-261's carrier is withdrawn, this one goes with it. |
+| PP-300 | PL-40 | LP-205 (kept) | BARREN | NO CARRIER. LP-205 is a signed attestation that a derivation intersection is unexcavated. It states no arbitration, sovereignty claim or engine. LP-228 and LP-496 were read and not adopted. The body attributed a consequence-aware arbitration engine to LP-205. It is restated onto PL-40 alone, as a case under a stated condition: where an arbitration outcome is held as a sovereignty claim, proving it requires traversal, not a certificate. Holds from PL-40 alone (Test 1). |
+
+How the slots are counted: PP-255 and PP-300 keep their Applies lines, and no sentence in either entry is attributed to the named LP. They are counted as corrected, as PP-102 was in batch 04 (its Applies line still names LP-72). The four re-pointed slots are corrected by the re-point.
+
+OPEN PM's review (every named and adopted parent re-read whole: LP-124, 160, 165, 173, 177, 196, 205 and 616, and PL-40, 140, 266 and 267). Three amendments:
+- PP-236: the condition now reads "a self-proving record whose derivation is the mapping" (italic, claim, Irreducibility). Without it, the step from "the record embeds the cost of its own derivation" (LP-124) to "the record embeds the cost of the mapping" is unstated. PP-243 already states its condition this way.
+- PP-261 and PP-288: the claim's account of LP-616 no longer says that a deferral moves the bill "neither to a later moment nor to anyone else". It now says only that a deferral does not move the bill to a later moment. "To anyone else" is LP-616's CP-85 half, which the entries do not use; the account now keeps to the half they rest on.
+
+Not adopted from the return: nothing. Two families now stand on one LP rule over different subjects: PL-140 × LP-124 (PP-236, 243, 301 and 340) and PL-266 × LP-616 (PP-261 and 288). Under Test 3 as this record reads it (batch 06), the shared rule is the LP's own, so none of them is SUBSUMED. The independent check is asked to attack that reading.
+
+Loci, not changed here:
+- Titles (for the title pass): PP-236 "Incomplete Accountability Record" and PP-243 "Must Carry Its Own Thermodynamic Receipt … Incomplete" hold only under the stated conditions. PP-255 "That Cost Cannot Be Externalized" is not carried by PL-267. PP-261 "Carry Their Own Thermodynamic Receipt" and "Must Be Accounted at the Moment of Interference" are not carried. PP-288 "Deposits Its Thermodynamic Receipt" is not carried. PP-300's whole title is not carried.
+- `[shared LL-x]` tags on PP-236, 243, 261 and 288 now match neither new parent (related item 1).
+- PP-261 and PP-288 now depend on LP-616, which D20 marks BARREN. If LP-616 is restated, re-read both.
+- PP-22 carries "LP-616, PL-275" on a line of its text, which puts an LP id in a PL position (for batch 09's stray-id list).
+
+Out-edges: IP 0 and IC 0 for all six. Each has 95 PI title copies on Derives lines, and no PI claim text cites any of them. Titles are unchanged.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -666,12 +697,12 @@ Also recorded:
 | PP-233 | LP | LP-159 | no carrier found (strict reader, high) |
 | PP-234 | LP | LP-159 | no carrier found (strict reader, high) |
 | PP-235 | LP | LP-160 | no carrier found (strict reader, low) |
-| PP-236 | LP | LP-160 | no carrier found (strict reader, medium) |
+| PP-236 | LP | LP-124 | no carrier found (strict reader, medium); batch 08: re-pointed LP-160 to LP-124 under a stated condition, restated, BARREN |
 | PP-238 | LP | LP-162 | no carrier found (strict reader, high) |
 | PP-239 | LP | LP-163 | no carrier found (every reader) |
 | PP-240 | LP | LP-163 | no carrier found (strict reader, high) |
 | PP-242 | LP | LP-186 (was LP-164) | candidate LP-186, low confidence, not adopted; batch 01: re-pointed and restated, IRREDUCIBLE |
-| PP-243 | LP | LP-165 | no carrier found (strict reader, medium) |
+| PP-243 | LP | LP-124 | no carrier found (strict reader, medium); batch 08: re-pointed LP-165 to LP-124 under a stated condition, restated, BARREN |
 | PP-245 | LP | LP-166 | no carrier found (strict reader, high) |
 | PP-246 | LP | LP-167 | no carrier found (every reader); batch 04: read, not corrected (to the title pass) |
 | PP-247 | LP | LP-168 | no carrier found (strict reader, high) |
@@ -682,13 +713,13 @@ Also recorded:
 | PP-252 | LP | LP-172 | no carrier found (strict reader, high) |
 | PP-253 | LP | LP-172 | candidate LP-610, low confidence, not adopted |
 | PP-254 | LP | LP-173 | no carrier found (every reader) |
-| PP-255 | LP | LP-173 | no carrier found (strict reader, high) |
+| PP-255 | LP | LP-173 | no carrier found (strict reader, high); batch 08: no carrier, nothing attributed to LP-173, BARREN settled |
 | PP-256 | LP | LP-174 | no carrier found (strict reader, low) |
 | PP-257 | LP | LP-174 | no carrier found (strict reader, low) |
 | PP-258 | LP | LP-175 | no carrier found (strict reader, high) |
 | PP-259 | LP | LP-176 | candidate LP-212, low confidence, not adopted |
 | PP-260 | LP | LP-177 | no carrier found (every reader) |
-| PP-261 | LP | LP-177 | no carrier found (strict reader, high) |
+| PP-261 | LP | LP-616 | no carrier found (strict reader, high); batch 08: re-pointed LP-177 to LP-616 (timing half), restated, BARREN |
 | PP-262 | LP | LP-178 | no carrier found (every reader) |
 | PP-263 | LP | LP-179 | no carrier found (strict reader, high); batch 01b: restated, BARREN |
 | PP-264 | LP | LP-180 | candidate LP-401, low confidence, not adopted |
@@ -713,7 +744,7 @@ Also recorded:
 | PP-285 | LP | LP-195 | no carrier found (strict reader, high) |
 | PP-286 | LP | LP-195 | no carrier found (strict reader, medium) |
 | PP-287 | LP | LP-196 | no carrier found (strict reader, high) |
-| PP-288 | LP | LP-196 | no carrier found (strict reader, high) |
+| PP-288 | LP | LP-616 | no carrier found (strict reader, high); batch 08: re-pointed LP-196 to LP-616 (timing half), restated, BARREN |
 | PP-289 | LP | LP-197 | no carrier found (every reader) |
 | PP-290 | LP | LP-197 | no carrier found (strict reader, high) |
 | PP-291 | LP | LP-198 | no carrier found (strict reader, medium) |
@@ -725,7 +756,7 @@ Also recorded:
 | PP-297 | LP | LP-203 | no carrier found (strict reader, high) |
 | PP-298 | LP | LP-204 | no carrier found (strict reader, high) |
 | PP-299 | LP | LP-204 | no carrier found (strict reader, high) |
-| PP-300 | LP | LP-205 | no carrier found (strict reader, high); batch 07: no carrier found, not corrected (false attribution stays open) |
+| PP-300 | LP | LP-205 | no carrier found (strict reader, high); batch 07: no carrier found, not corrected (false attribution stays open); batch 08: restated onto PL-40 alone, nothing attributed to LP-205, BARREN |
 | PP-301 | LP | LP-205 | no carrier found (strict reader, high); batch 06: re-pointed to LP-124 and restated, BARREN |
 | PP-302 | LP | LP-206 | no carrier found (strict reader, medium) |
 | PP-303 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
@@ -834,14 +865,14 @@ Also recorded:
 | PP-219 | PL | PL-30 | no carrier found (strict reader, medium) |
 | PP-231 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-233 | PL | PL-305 | no carrier found (strict reader, high) |
-| PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open) |
-| PP-243 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open) |
+| PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
+| PP-243 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-246 | PL | PL-174 | no carrier found (every reader); batch 04: read, not corrected (to the title pass) |
 | PP-249 | PL | PL-175 | no carrier found (strict reader, medium) |
-| PP-255 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-267 and restated, BARREN (provisional: LP slot open) |
+| PP-255 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-267 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-258 | PL | PL-177 | candidate PL-205, low confidence, not adopted |
 | PP-260 | PL | PL-240 | candidate PL-29, low confidence, not adopted |
-| PP-261 | PL | PL-299 | no carrier found (strict reader, medium); batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open) |
+| PP-261 | PL | PL-299 | no carrier found (strict reader, medium); batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-266 | PL | PL-181 | no carrier found (strict reader, medium) |
 | PP-269 | PL | PL-182 | no carrier found (every reader); batch 01b: restated, BARREN |
 | PP-270 | PL | PL-183 | no carrier found (strict reader, medium); batch 04: read, not corrected (sense conflicts; to the title pass) |
@@ -851,7 +882,7 @@ Also recorded:
 | PP-282 | PL | PL-228 | no carrier found (every reader) |
 | PP-286 | PL | PL-276 | no carrier found (strict reader, medium) |
 | PP-287 | PL | PL-276 | no carrier found (strict reader, medium) |
-| PP-288 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open) |
+| PP-288 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-289 | PL | PL-239 | candidate PL-118, medium confidence, no second reader proposed it; not adopted |
 | PP-292 | PL | PL-276 | no carrier found (strict reader, medium) |
 | PP-293 | PL | PL-305 | no carrier found (strict reader, high) |
