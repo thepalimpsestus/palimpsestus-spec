@@ -827,6 +827,54 @@ Both amendments are adopted (OPEN PM re-read PL-266 and PL-40 whole):
 
 The 95 PI copies of each title change with it. No rule, class or slot count changes.
 
+### Batch 10
+
+Two parts. The Worker (Sonnet) made the return against `70b0abd` (sha256 `6c391ac651061bf8dad339c33eb3f1769fd70bbdaa1b85cbbe4a3902ba436647`). It was applied at `39d7cc1`, where every old text still occurs once, with four amendments by OPEN PM (below).
+
+**Part A: the leading LP id on seven Derives lines.** PP-1, 7, 16, 22, 24, 26 and 42 had a Derives line of the form "LP-n, PL-m (title) [shared LL-k]". Batches 02, 05 and 09 listed these ids as strays and left them. These ids are not among the 250 slots, so the slot count does not change. In each entry the id stood on the Derives line only. No sentence of the entry cites the LP or uses its matter, and no line elsewhere in A relies on it as a parent of that PP. Each id is removed, and the Irreducibility says so in one sentence. The parent pair the text uses is unchanged, so no entry is re-crossed and every state line stands.
+
+| Entry | Removed | That LP's matter |
+| :--- | :--- | :--- |
+| PP-1 | LP-625 | consequence does not bar an entity's exit |
+| PP-7 | LP-395 | resonant frequencies exist before components |
+| PP-16 | LP-695 | every edge is a managed tension |
+| PP-22 | LP-616 | the thermodynamic bill is due now, from the chooser |
+| PP-24 | LP-446 | incompleteness as perpetual fuel |
+| PP-26 | LP-445 | conversion alters the converting entity |
+| PP-42 | LP-695 | every edge is a managed tension |
+
+PP-42's 95 PI title copies read "PP-42 (Derives from: LP-695 (Tension Discharge) Gate Identity …". That is the title with an id and a name glued in front, and "Tension Discharge" is not LP-695's title. The copies now read "PP-42 (Gate Identity …". This is the only PI change.
+
+**Part B: two LP slots re-crossed.** "Batch 08, independent check" sent both.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-243 | PL-140 | LP-124 (kept) | BARREN | LP-626 was crossed in full and is not adopted. Its "not free" is said of the consequences of an entity's own self-correction, placed in that entity's accountability record. It states no thermodynamic cost, signal or receipt, and it would import an unstated condition (that the loop's correction is the corrector's own). LP-124 stays: it carries the "receipt" and the "incomplete" for the signal itself, under the stated condition. Still a conjunction (Test 2). Confidence low-medium. |
+| PP-255 | PL-267 | LP-613 (LP-173) | BARREN | LP-613 says that a living derivation's metabolic demand is continuous, with no "paid off" moment, and that its lifecycle record must carry a continuous cost line. It rests this on metabolic costs being non-externalizable (CP-85). Under the entry's stated condition (the attractor is a living derivation) that carries the cost's continuity and the half of the title "That Cost Cannot Be Externalized", which batch 08 found no parent for. It does not carry an attractor, an accountability claim or "of Attraction". Not BARREN at Test 1, since PL-267 does not say the cost cannot be externalized. A conjunction at Test 2: each property is stated by one parent. Case against: a lifecycle record and an accountability claim are different records. Confidence low-medium. |
+
+How the slots are counted: PP-255's LP slot was already counted as corrected in batch 08 (NO CARRIER). PP-243's was counted when it was re-pointed. Neither count changes. **184 remain.**
+
+OPEN PM's review. Every leading LP was re-read whole against its entry, and so were LP-124, 613 and 626 and PL-267. Four amendments:
+- Part A: each new sentence ends "it was removed under D19 (batch-10)", so the entry points to this record.
+- PP-243: the LP-626 sentence now says what LP-626's own "not free" is said of. The return said only that LP-626 states no thermodynamic cost, which left its italic's words unaddressed.
+- PP-255, corollary (3): the return ended by saying the attractor's accountability claim "carries that accrual". Neither parent says this, since LP-613's accrual is in the lifecycle record. The corollary now keeps to LP-613: the attractor's lifecycle record carries a cost line for every cycle of its existence.
+- PP-255, Irreducibility: the gloss "which cannot be handed to another" is cut, because LP-613 says only "non-externalizable". The Test 2 sentence no longer calls the cost line itself "non-externalizable". It now says the line is for a cost that LP-613 holds non-externalizable (CP-85).
+
+Loci, not changed here:
+- Titles, for a later title round: PP-255's "Of Attraction" is carried by neither parent, and its "Accountability Propagation Attractor" is a stated condition.
+- PP-255 now depends on LP-613, which BRIEF and D20 list as a locus ("weak irreducibility"). If LP-613 is restated, re-read PP-255.
+- LP-626 names LL-39 for "self-correction consequence". LL-39 is about a failure as an ignorance-discovery. This is for whoever restates LP entries.
+- PP-1's second Derives chain, "LP-24 × PL-42", puts an LP in a left-parent chain. LP-24 is used four times in the body. It needs its own read.
+- PP-22 has no Derivational State line and has not been re-crossed.
+- The PI copies tag PP-42 [SUBSUMED], while the PP file marks it BARREN. This is the same PI tag locus as before.
+- The 34 other entries with a leading LP id (PP-2 to 6, 8 to 15, 17 to 21, 23, 25, 27 to 40) are for later batches.
+- `[shared LL-241]` on PP-255 now matches neither parent (related item 1).
+- Earlier lines of this record that list the removed ids are history.
+
+Out-edges: IC 0 for all nine. II: one line, which cites PP-16's field-entity claim; that claim is unchanged. IP: PP-1 has 50 lines, PP-7 12, PP-16 46, PP-24 1, PP-26 7 and PP-42 6. No claim they cite changes. Titles are unchanged.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -852,7 +900,7 @@ The 95 PI copies of each title change with it. No rule, class or slot count chan
 | PP-239 | LP | LP-163 | no carrier found (every reader) |
 | PP-240 | LP | LP-163 | no carrier found (strict reader, high) |
 | PP-242 | LP | LP-186 (was LP-164) | candidate LP-186, low confidence, not adopted; batch 01: re-pointed and restated, IRREDUCIBLE |
-| PP-243 | LP | LP-124 | no carrier found (strict reader, medium); batch 08: re-pointed LP-165 to LP-124 under a stated condition, restated, BARREN |
+| PP-243 | LP | LP-124 | no carrier found (strict reader, medium); batch 08: re-pointed LP-165 to LP-124 under a stated condition, restated, BARREN; batch 10: LP-626 crossed, not adopted, LP-124 kept, BARREN |
 | PP-245 | LP | LP-166 | no carrier found (strict reader, high) |
 | PP-246 | LP | LP-167 | no carrier found (every reader); batch 04: read, not corrected (to the title pass) |
 | PP-247 | LP | LP-168 | no carrier found (strict reader, high) |
@@ -863,7 +911,7 @@ The 95 PI copies of each title change with it. No rule, class or slot count chan
 | PP-252 | LP | LP-172 | no carrier found (strict reader, high) |
 | PP-253 | LP | LP-172 | candidate LP-610, low confidence, not adopted |
 | PP-254 | LP | LP-173 | no carrier found (every reader) |
-| PP-255 | LP | LP-173 | no carrier found (strict reader, high); batch 08: no carrier, nothing attributed to LP-173, BARREN settled |
+| PP-255 | LP | LP-613 (was LP-173) | no carrier found (strict reader, high); batch 08: no carrier, nothing attributed to LP-173, BARREN settled; batch 10: re-pointed to LP-613 and restated, BARREN |
 | PP-256 | LP | LP-174 | no carrier found (strict reader, low) |
 | PP-257 | LP | LP-174 | no carrier found (strict reader, low) |
 | PP-258 | LP | LP-175 | no carrier found (strict reader, high) |
