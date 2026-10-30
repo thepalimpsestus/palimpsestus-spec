@@ -728,6 +728,30 @@ OPEN PM on its optional points:
 - PP-26's Derives line also names LP-445, which the body never cites. This is on the stray-id list for batch 10.
 - The sibling titles PP-305, 308, 309, 341, 343 and 365 still carry "Consequence-Aware"/"Consequence-Sensitive". Their bodies are in batch 09.
 
+### Batch 08, independent check
+
+A blind checker (brief sha256 `0825cb45…`, return `67876226…`) used its own copy of A at `8778613`. It read every parent whole and wrote its six entry judgments before it opened this record. It gave HOLDS for PP-236, 243, 255, 261 and 288 and AMEND for PP-300. It found BARREN for all six, and no IP or IC line citing any of them.
+
+It agreed with the record on these points:
+- LP-124 under the stated condition for PP-236 and PP-243, and LP-616 (its timing half) for PP-261 and PP-288;
+- PP-255 and PP-300 as NO CARRIER, with nothing attributed to the kept LP;
+- the title loci, and the shared-LL tags on PP-236, 243, 261 and 288 matching neither parent.
+
+Its confidence was higher than the record's: high for PP-236 and PP-255, and medium for PP-243, 261 and 288. The verdicts are the same.
+
+OPEN PM read each cited line again. These findings are accepted and applied (`system-foundations-physical-physical.md`):
+- **PP-300, Irreducibility.** It said "the other sixteen PP entries that derive from PL-40". Eighteen Derives lines name PL-40, PP-300's included, so the count is seventeen. The checker counted PP-15, whose line reads "LP-534, PL-40". The text now says seventeen. The checker's note on PP-15's "LP-534," is left out of A, because that id is one of the leading LP ids that batch 10 takes up.
+- **PP-344, Irreducibility (Test 3).** Batch 07 wrote that Test 3 "also triggers" against PP-527 because PP-527 states LP-489's half. Batches 06 and 08 say that an LP family's shared rule does not make its members SUBSUMED. The checker asked for one reading. In `dag-crossing-method.md` lines 65-67 the tests are taken in order, each ending in a class. PP-344 is BARREN at Test 2, so Test 3 is not reached. The sentence now says that PP-527 also states LP-489's rule, and that the overlap is noted, not classified. This settles the question without choosing between the readings. It applies equally to the LP-124 family (PP-236, 243, 301, 340) and the LP-616 family (PP-261, 288). The batch 07 check had agreed with "Test 2 and Test 3 against PP-527"; that agreement is superseded here. No state line changes.
+
+Not changed:
+- **Candidate LP parents, not adopted here and sent to batch 10 to be crossed in full:**
+  - **LP-626 for PP-243.** LP-626 says that self-correction is not free, and that the correction's consequences are a permanent part of the correcting entity's accountability record. If the loop's correction is read as self-correction, LP-626 carries most of the entry's claim without LP-124's imported record condition. That would make it a closer carrier than LP-124. It would still be BARREN at Test 2.
+  - **LP-613 for PP-255.** LP-613 says that every derivation's lifecycle record must carry a continuous metabolic cost line. Its claim rests on non-externalizable cost (CP-85), and it needs no initiator. It may carry the title's "Cannot Be Externalized", which batch 08 found no carrier for. The slot is NO CARRIER until batch 10 decides.
+- **The `[shared LL-x]` tags of PP-255 (LL-241) and PP-300 (LL-120).** These are carried only by the kept LP, which contributes nothing. This is related item 1, and the tags stay.
+- **PP-288.** The checker read its LP-616 branch as weaker than PP-261's: the cost of reconciling is not yet incurred, while PP-261's cost is. The record already says that PP-288 goes with PP-261's carrier, so nothing changes.
+- **The PP file header filter.** This is already recorded under batch 04's independent check.
+- **The 95 PI title copies.** The brief did not ask for them, and the title pass checks counted them.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
