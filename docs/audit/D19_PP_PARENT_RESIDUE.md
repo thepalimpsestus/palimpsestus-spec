@@ -948,6 +948,37 @@ Loci, not changed here:
 - PI still tags these six [SUBSUMED] while the PP file marks them BARREN. This is the PI tag locus again.
 - These have no carrier and could each be named on a parent line: LP-174 for PP-112; PL-198 or PL-81 for PP-136; LP-478 for PP-246. Each is a re-cross question.
 
+### Batch 10, independent check
+
+A blind checker (Opus; brief sha256 `ded4aa0d…`, return `40ded5f6beb81cc4c88ba1480e8d371d2f025f7760db28634d1f703071507746`) used its own copy of A at `ad6cd9f`. It read every parent whole and wrote its entry judgments before it opened this record. It gave HOLDS for all seven Part A removals (PP-1, 7, 16, 22, 24, 26 and 42) and AMEND for PP-243 and PP-255. It found the PI copies of PP-42's title correct (95 lines, all identical to the PP title, none with LP-695).
+
+It agreed with the record on these points:
+- no sentence of the seven Part A entries cites or uses the removed LP, and each parent pair the text uses is unchanged;
+- PP-243: LP-124 stays the above parent, LP-626 is rightly not adopted, and the entry is BARREN at Test 2;
+- PP-255: LP-613 is better than LP-173 and better than NO CARRIER, Test 1 is not met, and the entry is BARREN at Test 2, with the same case against;
+- the IP out-edge counts (50, 12, 46, 1, 7 and 6) and IC 0 for all nine.
+
+OPEN PM read PP-243, PP-255, PL-140, LP-124, LP-613, LP-489 and LP-617 whole at `75248fb`. These findings are accepted and applied (`system-foundations-physical-physical.md`):
+- **PP-243, Test 1.** The Irreducibility still said that "the constraint that remains holds from PL-140 alone (Test 1)". That sentence dates from batch 06, before LP-124 became the above parent. It is wrong for the entry as it stands, and it contradicted the same paragraph's Test 2 finding. It now says that PL-140 alone gives only that the correction's cost is not zero; that the signal must embed the cost, and that a signal without it is incomplete, do not hold from PL-140 alone.
+- **PP-243, mood.** LP-124 says the record "must permanently embed" its cost. The italic, both paragraphs of the claim and the Irreducibility's summary of LP-124 said "embeds", which states the duty as if met and did not fit corollary (2), which contemplates a signal that does not. Each now says "must embed".
+- **PP-243, Test 3.** The entry ran Test 3 after finding BARREN at Test 2, while PP-255 says Test 3 is not reached. Under the method the tests run in order. The sentence now says Test 3 is not reached and keeps the sibling comparison as information, without the "SUBSUMED" judgment.
+- **PP-243, LP-489.** It was not named. It says that the initiator of a restorative process owns the cost of the correction and cannot externalize it. That says who owns a cost, not that a signal carries it, and it would import a restorative process with an initiating entity. It is now named as read and not adopted.
+- **PP-255, the joined record.** The claim said that "an assessment or a record that leaves it out is incomplete (PL-267, LP-613)". PL-267's incompleteness is for an assessment and LP-613's is for a lifecycle record; "a record" could be read as the accountability record, of which LP-613 says nothing. The two are now stated separately, each with its own parent.
+- **PP-255, corollary (3).** OPEN PM's batch-10 amendment wrote that the lifecycle record "carries" a cost line; LP-613 says it "must include" one. It now says "must carry".
+- **PP-255, LP-617.** It was not named. It shares LL-473 with PL-267 and says the creator of a derivation owns its thermodynamic cost. It puts the cost on a party the entry does not name and states no continuity and no paid-off moment. It is now named as read and not adopted.
+- **PL-299's title** is now quoted in full in both entries ("… No Traversal Is Barren — Every Path Discovers").
+
+No class, parent or slot count changes. **179 remain.** The italic of neither entry changes in substance, and no title changes here.
+
+Not changed (listed, for later work):
+- PP-243's `[shared LL-233]` also matches neither parent (PL-140: LL-127, LL-314; LP-124: LL-153), as PP-255's `[shared LL-241]` does. In the Part A entries the tag is the Applies-to LP's LL, not an ancestor shared with the PL (related item 1; tags are not evidence). The PP header's "sharing ≥1 LL ancestor" filter conflicts with the method's zero pre-filtering.
+- PL-299's title is quoted without "— Every Path Discovers" in other batch-06 entries; each is for its own read.
+- PP-24's Irreducibility lacks the closing "kept and marked, not deleted" sentence.
+- PP-42's body (zero-time evaluation, latency corollaries) keeps claims its own Irreducibility says neither parent states; PP-22 equates PL-275's value with LP-13's tension, which no parent links. Both are for the title round with PP-42's and PP-22's titles.
+- LP-613 carries no D20 note or Derivational State, while LP-616 and LP-617 (also CP-85) do. This is for whoever restates LP entries.
+- Most IP lines that cite the Part A entries cite content those entries do not carry (the checker counts 64 of 79 content citations not carried, 9 in part). "No claim they cite changes" above is true of batch 10's change only, and does not say these lines are carried. They are the D23 locus and go to it.
+- Already listed under batch 10 and still open: PP-1's "LP-24 × PL-42" chain, PP-22's missing state line, the PI `[SUBSUMED]` tag on PP-42, PP-255's "of Attraction", and the 34 other leading LP ids.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
