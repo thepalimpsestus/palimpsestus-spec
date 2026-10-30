@@ -875,6 +875,33 @@ Loci, not changed here:
 
 Out-edges: IC 0 for all nine. II: one line, which cites PP-16's field-entity claim; that claim is unchanged. IP: PP-1 has 50 lines, PP-7 12, PP-16 46, PP-24 1, PP-26 7 and PP-42 6. No claim they cite changes. Titles are unchanged.
 
+### Batch 09, independent check
+
+A blind checker (brief sha256 `47309a37…`, return `1f7668ac4b00953f2629201736f46ef809305dcb5b5f28120aceaed8170e8042`) used its own copy of A at `39d7cc1`. It read every parent whole and wrote its six entry judgments before it opened this record. It gave HOLDS for PP-341 and PP-343 and AMEND for PP-305, 308, 309 and 365. It found BARREN for all six, and no IP or IC line citing any of them. Its note headed "CLEAN-ROOM EXPOSURE" concerns a harness notice that named OPEN PM's own session folder, which is in OPEN PM's roots; no content outside the roots was shown or used.
+
+It agreed with the record on these points:
+- PL-72 carries everything now attributed to it in PP-305 and PP-309, and is better than NO CARRIER; PL-305 carries nothing of either entry;
+- PL-82 carries PP-308's door/wall diagnostic;
+- LP-168 carries PP-365's scan-result half, LP-240 carries nothing, and LP-168 is better than NO CARRIER;
+- the kept LP lines of PP-341 and PP-343 carry nothing of their entries.
+
+OPEN PM read each cited line again (PL-285, PL-287, LP-57, LP-136, LP-438, LP-463, LP-522, LP-562, LP-590, LP-602, LP-691 and PL-137 whole, at `ad6cd9f`). These findings are accepted and applied (`system-foundations-physical-physical.md`):
+- **PP-305.** The Irreducibility named PL-72 as "the nearest" carrier of "a living system dies before it appears dead". PL-285 (a subsystem decaying at high rate and invisible in aggregate data collapses completely before the aggregate metric signals alarm) and PL-287 (the broader system may operate normally while a subsystem within it has completely collapsed) are nearer. Both are now named, and neither is used. The claim's absence sentence said that no entry states that a detector detects faults from their consequence patterns; LP-602 states that unattributed consequence patterns are detection signals for dark subsystems. It is now named, as speaking of subsystems and not faults, and not used.
+- **PP-308.** The Irreducibility said "No LP entry searched states a pruner". That is false: LP-463, LP-57 and LP-136 state pruning, and LP-562 states that a settled edge is a dead edge. They are now named; none states the door/wall diagnostic.
+- **PP-309.** The claim said that no entry states that a pruner removes dead elements, and the Irreducibility that no LP entry states a pruner. Both are false: LP-57 states that pruning of ghost edges is a necessary function, and LP-438 that a probe flags a dead edge for garbage collection or revitalization. They are now named. The Irreducibility also said, truly, that PL-72 states no duty to check before an act, but did not say that other entries state one: LP-522 (an aliveness check before the final decay step), LP-463, LP-691 and PL-137. They are now named, and none is used. The batch 09 row had read LP-522 and not adopted it; the entry now says so in its text.
+- **PP-365.** The italic now says "a cached index of it", as LP-168 does. The body's "rebuilt and not read" was no parent's wording; the sentence now gives each parent's own consequence (PL-118: invalid from the structural change, and the evaluation must run again; LP-168: stale once the scan is past, and the survey re-run). The Irreducibility now says that the method's tests are written for a single constraint and are applied here to each half, which the method text does not state.
+- **PP-341.** The italic now says "a claim that the topology is complete with respect to validity", as the claim does.
+
+**Three LP slots reopened.** Batch 09 counted the LP slots of PP-305, 308 and 309 as corrected under NO CARRIER: each line kept, nothing attributed. For PP-308 and PP-309 that reading rested on "no LP entry searched states a pruner", which the check shows false. For PP-305 the search did not read the LP entries that state detection of aliveness or death (LP-438, LP-562, LP-590) or LP-602. Nothing is attributed to the kept lines, so the entries are not wrong, but NO CARRIER was not established. The three slots are reopened for a re-cross against the named candidates, with their titles: 184 → 187. Each entry now says that whether one should be named is a re-cross question. Their PL slots stay corrected. No state line changes; BARREN stays 48.
+
+Not changed (listed, for later work):
+- The PL-114 siblings PP-190, 290, 339, 349, 358 and 362 still assert detecting death before apparent death, which PP-343 cut as not PL-114's; the PL-27 siblings PP-251, 271, 323, 336, 348, 356, 360, 364 and 368 still assert that some invalid or undetected thing always escapes, which PP-341 cut as not PL-27's. Each is taken in its own batch.
+- The PP header gives the LP count as 706; the LP file holds 702 entries. The header's Method link points to `../processes/dag-crossing-method.md`.
+- The `[shared LL-x]` tags of all six entries match neither parent (related item 1; tags are not evidence).
+- PP-667's Derives line appears in two forms; PL-285 and PL-287 carry "Applies to: PC-x × LL-y"; the method's section 7 covers only IRREDUCIBLE; LP-245 says "reactivation" where PL-114 says a restart is not reactivation.
+- Many entries carry a bare "LP (Logical Physical)" Applies line (PP-309, 310, 336, 348, 354, 356, 358, 360, 362, 364, 368); those not yet worked are slots in the list below.
+- The PP-305/309 overlap and the conjunction question for PP-365 stay as recorded: tests in order, Test 3 not reached.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -959,11 +986,11 @@ Out-edges: IC 0 for all nine. II: one line, which cites PP-16's field-entity cla
 | PP-302 | LP | LP-206 | no carrier found (strict reader, medium) |
 | PP-303 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
 | PP-304 | LP | LP-207 | no carrier found (strict reader, medium) |
-| PP-305 | LP | LP-208 | no carrier found (strict reader, medium); batch 09: no carrier; nothing attributed to LP-208, restated on the PL parent alone, BARREN |
+| PP-305 | LP | LP-208 | no carrier found (strict reader, medium); batch 09: no carrier; nothing attributed to LP-208, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, candidates LP-438, 562, 590, 602 not read; for re-cross |
 | PP-306 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 07: no carrier; body's LP-208 attribution cut and restated on the PL parent alone, BARREN |
 | PP-307 | LP | LP-209 | no carrier found (strict reader, medium) |
-| PP-308 | LP | LP-210 | no carrier found (strict reader, medium); batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN |
-| PP-309 | LP | none (bare "LP (Logical Physical)") | candidate LP-522, low confidence, not adopted; batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN |
+| PP-308 | LP | LP-210 | no carrier found (strict reader, medium); batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, "no LP states a pruner" false (LP-57, 136, 463, 562); for re-cross |
+| PP-309 | LP | none (bare "LP (Logical Physical)") | candidate LP-522, low confidence, not adopted; batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, "no LP states a pruner" false (LP-57, 136, 438, 463; LP-522, 691); for re-cross |
 | PP-310 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 07: no carrier; body's LP-210 attribution cut and restated on the PL parent alone, BARREN |
 | PP-311 | LP | LP-211 | no carrier found (strict reader, medium) |
 | PP-312 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
