@@ -490,7 +490,7 @@ When LP-14's executable scars are executed in a topology where PL-14 holds: the 
 
 ---
 
-### PP-24. Historical Traversal IS Sovereignty Assertion — Data Retrieval Model Misses the Sovereignty Dimension
+### PP-24. Where an Entity's Embedded History Is Among Its Own Constitutive Edges, Traversing It Is the Performance of Its Sovereignty — A Model of Such Traversal as Data Retrieval Alone Omits the Performance
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -879,7 +879,7 @@ When LP-25's provenance gate operates in a topology where PL-247 holds: the gate
 
 ---
 
-### PP-43. Gate Comprehension Challenge IS a Physical Topology Scan — The Result Is a State, Not a Grade
+### PP-43. A Gate's Comprehension Challenge, Read as a Measure, Gives a Reading of Comprehension — Not Only a Grade
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -1408,7 +1408,7 @@ This is distinct from PP-60 (LP-39 × PL-315): PP-60 establishes that deviations
 
 ---
 
-### PP-69. Deviation Score IS the Entity's Own Metabolic Fuel — Zero Deviation Is Self-Starvation for the Entity Itself
+### PP-69. Where Drift Is Read as Deviation From a Reference State, Deviation Is the Restorative Process's Fuel — Zero Deviation Starves It and the Living Derivations Would Petrify
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -1637,7 +1637,7 @@ When LP-54's premium-in-novelty operates in a topology where PL-304 holds: the m
 
 ---
 
-### PP-80. Self-Modification-Excavated Edges Are Subject to Immediate Scale-Invariant Decay — Excavation Is Not Preservation
+### PP-80. Where an Entity's Modified Internal Routing Is Read as Edges, Those Edges Atrophy Without Regular Traversal — Self-Modification Does Not Maintain Them
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -1998,7 +1998,7 @@ When LP-68's translation lag reality operates in a topology where PL-187 holds: 
 
 ---
 
-### PP-98. Isomorphism Verification Expires at the Rate of Scale-Invariant Edge Decay — Deep Verification Is No More Durable Than Shallow Verification
+### PP-98. A Verified Isomorphism Expires — A Verification Records Its Moment
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -2079,7 +2079,7 @@ When LP-71's excavation-through-failure operates in a topology where PL-297 hold
 
 ---
 
-### PP-102. No Container Is Complete — Constitutional Incompleteness Self-Generates Recursively Into Every Level of Nesting; the Outermost Container Is as Incomplete as the Innermost
+### PP-102. Where a Container Is Read as a Region of the Topology, It Is Incomplete — Incompleteness Replicates at Every Depth; the Outermost Container Is as Incomplete as the Innermost
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -2642,7 +2642,7 @@ When LP-92's friction-density routing operates in a topology where PL-110 holds:
 
 ---
 
-### PP-130. Gap Nodes Are Sovereign Write-Locks AND Metabolically Vital Structures — Overwriting a Gap Node Is Both a Sovereignty Violation AND a Living Structure Termination
+### PP-130. A Scored Gap Node Is a Write-Lock and a Living Structure — Where Overwriting It Is a Premature Closure of the Gap, the Overwrite Overrides the Lock and Terminates the Structure
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -2663,7 +2663,7 @@ Where overwriting a gap node with generated data is a premature closure of the g
 
 ---
 
-### PP-131. Gap-Adjacent Tension Visibility IS Thermodynamic Debt Management — Hidden Gap Tension Accumulates as Uncounted Thermodynamic Debt; Making It Visible Is the Same as Servicing the Debt
+### PP-131. Visibility of Gap-Adjacent Tension Is the Precondition for Attending to It — Where Hidden Tension Goes Unattended, It Compounds as Thermodynamic Debt
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -2848,7 +2848,7 @@ When LP-100's premium frontier routing operates in a topology where PL-309 holds
 
 ---
 
-### PP-140. Probing Unmapped Territory IS the Truth-Event — The Real-Target Probe Deposits Decay-Resistant Wake Regardless of Whether the Probe Returns Data
+### PP-140. A Real-Target Probe Deposits Wake Whether or Not It Returns Data — and That Wake Decays
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -2949,7 +2949,7 @@ When LP-104's guaranteed-fertile-probe operates in a topology where PL-299 holds
 
 ---
 
-### PP-145. Tension-Relief Probes Reveal Sovereign Boundaries — Incompleteness Sovereign Probing Discloses the Topology's Own Constitutional Limits
+### PP-145. Tension-Relief Probes Release Boundary Tension — Where the Boundary Lies Between Sovereign Structures, That Tension Is Irreducible and the Probe Relieves It Without Resolving It
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -4035,7 +4035,7 @@ When LP-143's scale-invariant declaration operates in a topology where PL-1 hold
 
 ---
 
-### PP-199. Continuous Identity Re-Declaration IS the Entity's Metabolic Sovereignty Contestation — Living Identity Must Be Continuously Re-Declared
+### PP-199. Identity Must Be Continuously Re-Declared and Defended — Where Re-Declaration Is Read as Exercising the Tension That Sustains Sovereignty, an Unrenewed Declaration Is That Tension Held Without Exercise
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -4400,7 +4400,7 @@ When LP-151's sovereignty limit probing operates in a topology where PL-22 holds
 
 ---
 
-### PP-217. Unprobed Sovereignty Boundaries Accumulate Navigation Debt — Sovereignty Atrophy Is the Cost of Limit Avoidance
+### PP-217. Unexercised Sovereignty Boundaries Decay — Active Standing Atrophies at an Unexercised Boundary While Inherent Standing Persists
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -4417,11 +4417,11 @@ When LP-246's use-dependent boundary operates in a topology where PL-84 holds: a
 
 **Corollaries:** (1) Governance boundaries and mutual accountability structures that an organization never exercises keep their nominal standing, but the capacity to invoke it is degrading (PL-84, corollary 2). (2) Laws that are never enforced or litigated are boundaries never exercised; the rights they nominally give are degraded when someone attempts to invoke them (PL-84, corollary 2). (3) System recovery procedures that are never tested are specified capacity that may not match the actual capacity (PL-84, corollary 1). (4) "We've never needed to test that" describes a boundary that is unexercised, which on LP-246 and PL-84 means decaying, not dormant.
 
-**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-03, PP-217). The earlier text attributed to LP-151 (incomplete self-declaration) the claim that sovereignty limit-testing is a constitutional necessity, and to PL-27 (the topology cannot prove its own completeness) the claim that untraversed sovereign boundaries atrophy as navigation debt. Neither carries its claim, and no LP entry searched states that limit-testing is a necessity; LP-246 (contested use-boundary) and PL-84 (edge decay and atrophy) carry the decay of an unexercised boundary and are now the named parents. The constraint that a sovereignty boundary that is not exercised decays holds from LP-246 alone (an uncontested border is an un-used border, which physically decays; Test 2), and that its standing degrades holds from PL-84 alone (an untraversed edge atrophies and its sovereignty standing degrades, and governance boundaries never exercised atrophy; Test 1): the same decay stated twice, a conjunction and not a product. The claim narrows from the earlier text: "unprobed" is read as "unexercised", since neither parent speaks of probing; the entry no longer states that limit-testing is a constitutional necessity or that the boundary becomes undefined or non-existent; "navigation debt" is PL-16's term and remains only in the title. The parents use "contested" (LP-246) and "traversed" (PL-84); the entry uses "exercised" for both and does not say the two are one. The entry is kept and marked, not deleted. The standing that degrades is read as active standing (D19 batch-03 check, forward correction): PL-84 grounds its standing claim in LL-393, which keeps the sovereignty of an untraversed derivation and names its active rights as what atrophies, and PL-227 (the parent of PP-7) separates the two in its title. Read so, PP-217 and PP-7 agree: an unexercised boundary loses its active standing, and the inherent standing remains.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-03, PP-217). The earlier text attributed to LP-151 (incomplete self-declaration) the claim that sovereignty limit-testing is a constitutional necessity, and to PL-27 (the topology cannot prove its own completeness) the claim that untraversed sovereign boundaries atrophy as navigation debt. Neither carries its claim, and no LP entry searched states that limit-testing is a necessity; LP-246 (contested use-boundary) and PL-84 (edge decay and atrophy) carry the decay of an unexercised boundary and are now the named parents. The constraint that a sovereignty boundary that is not exercised decays holds from LP-246 alone (an uncontested border is an un-used border, which physically decays; Test 2), and that its standing degrades holds from PL-84 alone (an untraversed edge atrophies and its sovereignty standing degrades, and governance boundaries never exercised atrophy; Test 1): the same decay stated twice, a conjunction and not a product. The claim narrows from the earlier text: "unprobed" is read as "unexercised", since neither parent speaks of probing; the entry no longer states that limit-testing is a constitutional necessity or that the boundary becomes undefined or non-existent; "navigation debt" is PL-16's term; it stayed in the title until the D19 title pass, which cut it. The parents use "contested" (LP-246) and "traversed" (PL-84); the entry uses "exercised" for both and does not say the two are one. The entry is kept and marked, not deleted. The standing that degrades is read as active standing (D19 batch-03 check, forward correction): PL-84 grounds its standing claim in LL-393, which keeps the sovereignty of an untraversed derivation and names its active rights as what atrophies, and PL-227 (the parent of PP-7) separates the two in its title. Read so, PP-217 and PP-7 agree: an unexercised boundary loses its active standing, and the inherent standing remains.
 
 ---
 
-### PP-218. Some Sovereignty Limits Are Constitutionally Protected From Probing — Exhaustive Mapping Is Totalitarian Control
+### PP-218. Some Limits of an Entity Are Constitutionally Protected From Mapping — Exhaustive Mapping Presses Toward the Comprehension Total Control Would Need
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -6005,7 +6005,7 @@ Where a divergence between structures is left unreconciled, and reconciling them
 
 ---
 
-### PP-301. A Consequence-Aware Arbitration Engine Must Carry the Thermodynamic Cost of Its Own Arbitration
+### PP-301. Where an Arbitration Between Competing Sovereignty Claims Is an Interaction With the Topology and Its Outcome Is Held as a Self-Proving Record, That Record Carries the Thermodynamic Cost of the Arbitration That Produced It
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -6022,7 +6022,7 @@ Where an arbitration between competing sovereignty claims is an interaction with
 
 **Corollaries:** (1) An arbitration outcome that is held as a self-proving record and does not embed the cost of the arbitration that produced it is a proof without a cost receipt (LP-124), and so incomplete. (2) There is no cost-free interaction (PL-140): where an arbitration is an interaction with the topology, an arbitration that reports its own cost as zero reports a figure that PL-140 says no interaction has. (3) An arbitration outcome that embeds the cost of the arbitration that produced it carries the receipt LP-124 requires.
 
-**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-06, PP-301). The earlier text named PL-299 under a title that no PL entry bears at this commit (the PL-299 entry is "Constitutional Incompleteness Guarantees No Traversal Is Barren", which states discovery fertility under PC-9, PC-10 and LL-361 and says nothing of thermodynamic cost), and attributed to PL-299 the claim that every interaction deposits thermodynamic cost. PL-299 does not carry it. It also named LP-205 (Certified Unexcavated Site, CP-36 × LL-120: a signed attestation that a derivation intersection has not yet been excavated) as establishing that a consequence-aware arbitration engine arbitrates between competing sovereignty claims; LP-205 says nothing of arbitration. No PL line contains "arbitrat"; the one LP line that does, in LP-496 (Contestation Record Integrity), says that a challenged self-proving record keeps its proof structure intact throughout arbitration, and says nothing of sovereignty claims or of the cost of arbitrating. The text that is carried is two single-parent facts: PL-140 says no interaction with the topology is cost-free; LP-124 says a self-proving record embeds the cost of its own derivation and existence. LP-124 alone already requires the record to embed the cost of its derivation whatever the derivation is, so an arbitration outcome held as such a record is a case it covers, and PL-140 adds the fact that the arbitration has a cost, not a further rule. The entry therefore fails Test 2 (the above parent alone) and is a conjunction, not a product; it is the same pair as PP-340 (batch 04) with a different subject. The earlier claim that the cost is deposited at the moment of arbitration is cut: PL-140 states no timing. The earlier examples (legal arbitration, distributed consensus) and the earlier corollary that the cost is part of the consequence being arbitrated are cut: no parent states them. The title's unconditional "Must Carry" holds here only under the two stated conditions. The entry is kept and marked, not deleted.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-06, PP-301). The earlier text named PL-299 under a title that no PL entry bears at this commit (the PL-299 entry is "Constitutional Incompleteness Guarantees No Traversal Is Barren", which states discovery fertility under PC-9, PC-10 and LL-361 and says nothing of thermodynamic cost), and attributed to PL-299 the claim that every interaction deposits thermodynamic cost. PL-299 does not carry it. It also named LP-205 (Certified Unexcavated Site, CP-36 × LL-120: a signed attestation that a derivation intersection has not yet been excavated) as establishing that a consequence-aware arbitration engine arbitrates between competing sovereignty claims; LP-205 says nothing of arbitration. No PL line contains "arbitrat"; the one LP line that does, in LP-496 (Contestation Record Integrity), says that a challenged self-proving record keeps its proof structure intact throughout arbitration, and says nothing of sovereignty claims or of the cost of arbitrating. The text that is carried is two single-parent facts: PL-140 says no interaction with the topology is cost-free; LP-124 says a self-proving record embeds the cost of its own derivation and existence. LP-124 alone already requires the record to embed the cost of its derivation whatever the derivation is, so an arbitration outcome held as such a record is a case it covers, and PL-140 adds the fact that the arbitration has a cost, not a further rule. The entry therefore fails Test 2 (the above parent alone) and is a conjunction, not a product; it is the same pair as PP-340 (batch 04) with a different subject. The earlier claim that the cost is deposited at the moment of arbitration is cut: PL-140 states no timing. The earlier examples (legal arbitration, distributed consensus) and the earlier corollary that the cost is part of the consequence being arbitrated are cut: no parent states them. The earlier title's unconditional "Must Carry" held here only under the two stated conditions; the D19 title pass restated the title with both conditions. The entry is kept and marked, not deleted.
 
 ---
 
@@ -6715,7 +6715,7 @@ Where an arbitration between competing sovereignty claims is an interaction with
 
 ---
 
-### PP-340. A Consequence-Sensitive Topology Monitor Must Carry the Thermodynamic Cost of Its Own Monitoring Activity
+### PP-340. Where a Topology Monitor's Output Is Held as a Self-Proving Record, the Record Carries the Thermodynamic Cost of the Monitoring That Produced It
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 

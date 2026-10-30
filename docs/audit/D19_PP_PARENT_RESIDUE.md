@@ -543,6 +543,53 @@ Open loci found in this batch, for later passes:
 - Five sibling entries hold the same five LP ids as real Applies-to parents, with bodies that make the same "consequence-aware X" claims of them: PP-305 (LP-208), PP-308 (LP-210), PP-341 (LP-228), PP-343 (LP-229) and PP-365 (LP-240). PP-309 is a further bare-LP entry of the same family. They are not in this batch; whether each is already in the slot table is to be checked when they are taken.
 - The bare "LP (Logical Physical)" Applies-to lines of PP-306, 310, 342 and 366 (form only; see the counting note above).
 
+### Title pass, round 1
+
+The title pass is the D19 item that brings the titles of restated entries into line with their bodies (batch 03, "Titles, not changed here"). A Worker read 27 entries sent to it by batches 03 to 06 at `2984ebf` and proposed a title for each; OPEN PM reviewed each title against the entry text at `3d753d2` and applied 15 of them. A title states only what the entry body states, keeps the entry's own step as a condition ("Where …"), and drops words that no parent carries.
+
+Applied (old title, then new):
+
+| Entry | Old title | New title |
+| :--- | :--- | :--- |
+| PP-24 | Historical Traversal IS Sovereignty Assertion — Data Retrieval Model Misses the Sovereignty Dimension | Where an Entity's Embedded History Is Among Its Own Constitutive Edges, Traversing It Is the Performance of Its Sovereignty — A Model of Such Traversal as Data Retrieval Alone Omits the Performance |
+| PP-43 | Gate Comprehension Challenge IS a Physical Topology Scan — The Result Is a State, Not a Grade | A Gate's Comprehension Challenge, Read as a Measure, Gives a Reading of Comprehension — Not Only a Grade |
+| PP-69 | Deviation Score IS the Entity's Own Metabolic Fuel — Zero Deviation Is Self-Starvation for the Entity Itself | Where Drift Is Read as Deviation From a Reference State, Deviation Is the Restorative Process's Fuel — Zero Deviation Starves It and the Living Derivations Would Petrify |
+| PP-80 | Self-Modification-Excavated Edges Are Subject to Immediate Scale-Invariant Decay — Excavation Is Not Preservation | Where an Entity's Modified Internal Routing Is Read as Edges, Those Edges Atrophy Without Regular Traversal — Self-Modification Does Not Maintain Them |
+| PP-98 | Isomorphism Verification Expires at the Rate of Scale-Invariant Edge Decay — Deep Verification Is No More Durable Than Shallow Verification | A Verified Isomorphism Expires — A Verification Records Its Moment |
+| PP-102 | No Container Is Complete — Constitutional Incompleteness Self-Generates Recursively Into Every Level of Nesting; the Outermost Container Is as Incomplete as the Innermost | Where a Container Is Read as a Region of the Topology, It Is Incomplete — Incompleteness Replicates at Every Depth; the Outermost Container Is as Incomplete as the Innermost |
+| PP-130 | Gap Nodes Are Sovereign Write-Locks AND Metabolically Vital Structures — Overwriting a Gap Node Is Both a Sovereignty Violation AND a Living Structure Termination | A Scored Gap Node Is a Write-Lock and a Living Structure — Where Overwriting It Is a Premature Closure of the Gap, the Overwrite Overrides the Lock and Terminates the Structure |
+| PP-131 | Gap-Adjacent Tension Visibility IS Thermodynamic Debt Management — Hidden Gap Tension Accumulates as Uncounted Thermodynamic Debt; Making It Visible Is the Same as Servicing the Debt | Visibility of Gap-Adjacent Tension Is the Precondition for Attending to It — Where Hidden Tension Goes Unattended, It Compounds as Thermodynamic Debt |
+| PP-140 | Probing Unmapped Territory IS the Truth-Event — The Real-Target Probe Deposits Decay-Resistant Wake Regardless of Whether the Probe Returns Data | A Real-Target Probe Deposits Wake Whether or Not It Returns Data — and That Wake Decays |
+| PP-145 | Tension-Relief Probes Reveal Sovereign Boundaries — Incompleteness Sovereign Probing Discloses the Topology's Own Constitutional Limits | Tension-Relief Probes Release Boundary Tension — Where the Boundary Lies Between Sovereign Structures, That Tension Is Irreducible and the Probe Relieves It Without Resolving It |
+| PP-199 | Continuous Identity Re-Declaration IS the Entity's Metabolic Sovereignty Contestation — Living Identity Must Be Continuously Re-Declared | Identity Must Be Continuously Re-Declared and Defended — Where Re-Declaration Is Read as Exercising the Tension That Sustains Sovereignty, an Unrenewed Declaration Is That Tension Held Without Exercise |
+| PP-217 | Unprobed Sovereignty Boundaries Accumulate Navigation Debt — Sovereignty Atrophy Is the Cost of Limit Avoidance | Unexercised Sovereignty Boundaries Decay — Active Standing Atrophies at an Unexercised Boundary While Inherent Standing Persists |
+| PP-218 | Some Sovereignty Limits Are Constitutionally Protected From Probing — Exhaustive Mapping Is Totalitarian Control | Some Limits of an Entity Are Constitutionally Protected From Mapping — Exhaustive Mapping Presses Toward the Comprehension Total Control Would Need |
+| PP-301 | A Consequence-Aware Arbitration Engine Must Carry the Thermodynamic Cost of Its Own Arbitration | Where an Arbitration Between Competing Sovereignty Claims Is an Interaction With the Topology and Its Outcome Is Held as a Self-Proving Record, That Record Carries the Thermodynamic Cost of the Arbitration That Produced It |
+| PP-340 | A Consequence-Sensitive Topology Monitor Must Carry the Thermodynamic Cost of Its Own Monitoring Activity | Where a Topology Monitor's Output Is Held as a Self-Proving Record, the Record Carries the Thermodynamic Cost of the Monitoring That Produced It |
+
+What changed:
+- `system-foundations-physical-physical.md`: the 15 `### PP-n.` headers. Two Irreducibility sentences that spoke of the title in the present tense are put in the past: PP-217 ("navigation debt" stayed in the title until this pass, which cut it) and PP-301 (the earlier title's unconditional "Must Carry"; this pass restated the title with both conditions).
+- `system-foundations-physical-implementation.md`: each old title occurs 95 times, every time as the parenthesized title after the PP id on a `**Derives from:**` line. All 95 copies of each are replaced (1,425 in all). No other PI text is changed. No other `system-foundations-*.md` file holds any of the 15 old titles (searched by exact text at `3d753d2`).
+- Batch 03 said a retitle is a read of each PI entry, since a PI entry may carry the old claim in its own text. Searched at `3d753d2` outside the Derives lines, by PP id and by the old titles' claim words: 14 of the 15 entries are not cited in PI own text. PP-301 is (below).
+
+OPEN PM amendments to the Worker's titles:
+- PP-69: the Worker's "Drift Is the Restorative Process's Fuel — Zero Drift Starves It …" states LP-17 alone and leaves out the entry's own reading of drift as deviation from a reference state, which its italic line and body keep as a condition. The title keeps it, as the titles of PP-24, 80, 102 and 301 keep theirs.
+- PP-80: "Where an Entity's Modified Internal Routing Is Read as Edges, They Atrophy" had a singular subject and a plural pronoun; "Those Edges Atrophy".
+- PP-301: "That Record Embeds" becomes "That Record Carries", the verb of its own italic line and of PP-340's title, which crosses the same pair.
+
+Held, not applied in this round:
+- PP-26: in the batch 07 independent check, which reads its italic, claim and corollaries.
+- PP-236, 243, 255, 261 and 288: their LP slots are in batch 08; a title waits on the restated body.
+- PP-112, 136, 196, 246, 270 and 276: the Worker proposed no title (NO CARRIER: no named parent carries the old claim, and an honest title would restate one parent or have no subject). The old titles stay, flagged, until each entry is re-crossed to a carrier or marked under the entry-kept-and-marked practice. Their slots stay open in the table below.
+- Titles not yet sent: PP-103 (batch 02 found "self-governing" in its title and corollaries, which neither parent states), PP-306, 310, 342, 344 and 366 (batch 07), and PP-300.
+
+Out-edge, not corrected here (for D23): the PI own text of all 95 PI entries cites PP-301 by id (190 lines outside the Derives lines) and restates its old unconditional claim, that a consequence-aware arbitration engine must carry the thermodynamic cost of its own arbitration, in the italic line, the Irreducible Claim, the Irreducibility and three corollaries of each entry. The restated PP-301 holds that only under two conditions. PI is not restated in D19.
+
+Doubts recorded, not acted on:
+- PP-26 and PP-69 cross the same pair (LP-17 × PL-59). PP-69's title now names deviation; PP-26's title (held) names failure states.
+- PP-130's title calls a scored gap node a living structure; PL-46 says a gap is one, and the entry treats the node as the gap.
+- PP-43's title is close to a restatement of its own condition; the entry has little else of its own (it is BARREN on Test 2).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
