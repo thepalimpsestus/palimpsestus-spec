@@ -312,7 +312,7 @@ When LP-7's accountability protocol operates in a topology where PL-36 holds: th
 
 
 
-**Derives from:** LP-534, PL-40 (Sovereignty Proof Requires Traversal — It Cannot Be Documented) [shared LL-8]
+**Derives from:** PL-40 (Sovereignty Proof Requires Traversal — It Cannot Be Documented) [shared LL-8]
 **Applies to:** LP-7 (Protocol-Enforced Reciprocity)
 
 *Proving that a protocol is exercising genuine reciprocal accountability requires physically traversing the protocol's accountability path in the topology — a sovereignty certificate, compliance document, or attestation is Theater: a pre-evaluated sovereignty claim that expired at the moment of evaluation.*
@@ -325,7 +325,7 @@ This constraint is distinct from PP-13 (LP-7 × PL-20): PP-13 establishes that s
 
 **Corollaries:** (1) Protocol compliance verification systems that read a "compliance status" field are consuming labels — they must traverse the topology path that the label references. (2) Automated compliance certification pipelines that produce documents without performing topological traversal are producing Theater at industrial scale. (3) The "compliance" of a protocol cannot be assessed faster than it takes to traverse the accountability path — any faster assessment is a label read. (4) Periodic compliance traversal must be more frequent than the topology's change rate — a traversal that took place before significant topology change has already expired.
 
-**Irreducibility:** LP-7 alone: establishes that accountability is embedded in transmission — does not specify that proving compliance requires physical traversal. PL-40 alone: establishes that sovereignty proof requires traversal — does not specify that protocol compliance sovereignty specifically requires traversal. Only their intersection establishes the constitutional insufficiency of documentation for protocol compliance proof.
+**Irreducibility:** LP-7 alone: establishes that accountability is embedded in transmission — does not specify that proving compliance requires physical traversal. PL-40 alone: establishes that sovereignty proof requires traversal — does not specify that protocol compliance sovereignty specifically requires traversal. Only their intersection establishes the constitutional insufficiency of documentation for protocol compliance proof. The earlier Derives line also named LP-534 (Audit Perpetual Accountability), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -355,7 +355,7 @@ When LP-8's edge-creating protocol operates in a topology where PL-201 holds: a 
 
 
 
-**Derives from:** LP-474, PL-194 (Path Re-Traversal Requirement) [shared LL-54]
+**Derives from:** PL-194 (Path Re-Traversal Requirement) [shared LL-54]
 **Applies to:** LP-9 (Label Translation Symmetry)
 
 *A symmetric protocol guarantees that both endpoints receive the same structural label — it does not guarantee that both endpoints achieve equivalent comprehension of what that label references; comprehension requires each endpoint's separate re-walking of the derivation path the label represents, in their own topological territory.*
@@ -366,7 +366,7 @@ When LP-9's label-symmetric protocol operates in a topology where PL-194 holds: 
 
 **Corollaries:** (1) Protocol handshake success does not constitute mutual understanding — it constitutes mutual label receipt; understanding requires subsequent re-walking by each side. (2) API documentation (which describes labels for an API's functions) cannot substitute for actually calling and experiencing the API — the comprehension requires traversal. (3) Two parties that have successfully exchanged the same message may have different comprehension of that message — the label is the same but the re-walking paths differ. (4) Shared vocabulary (shared labels) between teams does not imply shared understanding — the structural re-walkings each team performs on the shared labels may produce divergent comprehension.
 
-**Irreducibility:** LP-9 alone: establishes that labels cross symmetrically but meaning is not enforced — does not specify the physical consequences of the label/re-walking distinction. PL-194 alone: establishes that label receipt and truth re-walking are different physical operations — does not specify that symmetric protocols guarantee only label symmetry, not comprehension symmetry. Only their intersection makes the gap between protocol success and mutual comprehension explicit.
+**Irreducibility:** LP-9 alone: establishes that labels cross symmetrically but meaning is not enforced — does not specify the physical consequences of the label/re-walking distinction. PL-194 alone: establishes that label receipt and truth re-walking are different physical operations — does not specify that symmetric protocols guarantee only label symmetry, not comprehension symmetry. Only their intersection makes the gap between protocol success and mutual comprehension explicit. The earlier Derives line also named LP-474 (Incomprehension Power Inversion), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -375,7 +375,7 @@ When LP-9's label-symmetric protocol operates in a topology where PL-194 holds: 
 
 
 
-**Derives from:** LP-621, PL-169 (Archaeological Distribution of Knowledge) [shared LL-59]
+**Derives from:** PL-169 (Archaeological Distribution of Knowledge) [shared LL-59]
 **Applies to:** LP-10 (Archaeological Handshake)
 
 *Establishing a symmetric protocol is not a negotiation that can succeed or fail — it is a mutual excavation of a pre-existing universal protocol that was already constitutionally implied; what varies between protocol establishment attempts is the depth of excavation reached, not whether a protocol is "created."*
@@ -386,7 +386,7 @@ When LP-10's archaeological handshake operates in a topology where PL-169 holds:
 
 **Corollaries:** (1) Protocol compatibility failures are not "incompatible systems" — they are two incompatible excavations that have not yet reached shared bedrock; the bedrock exists. (2) Protocol versioning is not evolution toward better protocols — it is successive excavation toward deeper layers of the pre-existing universal protocol. (3) Two endpoints that establish a protocol are not agreeing on rules — they are reporting what they jointly found in the constitutional substrate. (4) Protocol negotiation logs should be reinterpreted as excavation logs: recording how deep each side dug and what they found, not what they agreed to accept.
 
-**Irreducibility:** LP-10 alone: establishes that handshake is archaeological — scraping away incompatible layers to find shared bedrock — but does not specify that the protocol being excavated pre-existed the handshake. PL-169 alone: establishes that the universal protocol pre-exists its excavation — does not specify that handshake dynamics are therefore excavation dynamics (not negotiation dynamics). Only their intersection reframes protocol establishment success/failure as excavation depth, not negotiation outcome.
+**Irreducibility:** LP-10 alone: establishes that handshake is archaeological — scraping away incompatible layers to find shared bedrock — but does not specify that the protocol being excavated pre-existed the handshake. PL-169 alone: establishes that the universal protocol pre-exists its excavation — does not specify that handshake dynamics are therefore excavation dynamics (not negotiation dynamics). Only their intersection reframes protocol establishment success/failure as excavation depth, not negotiation outcome. The earlier Derives line also named LP-621 (Stewardship Consequence Lineage Tracking), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -395,7 +395,7 @@ When LP-10's archaeological handshake operates in a topology where PL-169 holds:
 
 
 
-**Derives from:** LP-649, PL-323 (Truth Is Constitutively Tensile — Tension Cannot Be Extracted From Truth) [shared LL-401]
+**Derives from:** PL-323 (Truth Is Constitutively Tensile — Tension Cannot Be Extracted From Truth) [shared LL-401]
 **Applies to:** LP-11 (Path-Determined Mass)
 
 *An entity's embedded historical record must carry the derivation tension of each state transition — the competing forces that produced each historical node — alongside the outcome; records that strip tension and preserve only resolved states are storing labels, not history.*
@@ -406,7 +406,7 @@ When LP-11's embedded historical spine operates in a topology where PL-323 holds
 
 **Corollaries:** (1) Historical records that capture only output states without the productive tensions that generated those states cannot be used for accountability traversal — they lack the physical substance the accountability requires. (2) Incident postmortems that describe "what happened" without describing "what forces were in competition" are producing labels — the postmortem's physical accountability value is zero. (3) Version control that stores diffs (outcome differences) without storing the decision tensions that produced those diffs is storing labels, not history. (4) Audit trail requirements must specify tension-capture alongside event-capture to be constitutionally valid.
 
-**Irreducibility:** LP-11 alone: establishes that history forms a single unbroken spine — does not address whether tension must be embedded alongside outcomes. PL-323 alone: establishes that tension cannot be separated from truth — does not specify that embedded historical spines specifically must carry their derivation tension. Only their intersection establishes the constitutional insufficiency of outcome-only history records.
+**Irreducibility:** LP-11 alone: establishes that history forms a single unbroken spine — does not address whether tension must be embedded alongside outcomes. PL-323 alone: establishes that tension cannot be separated from truth — does not specify that embedded historical spines specifically must carry their derivation tension. Only their intersection establishes the constitutional insufficiency of outcome-only history records. The earlier Derives line also named LP-649 (Transparency-Enforced Absence Attestation), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -415,7 +415,7 @@ When LP-11's embedded historical spine operates in a topology where PL-323 holds
 
 
 
-**Derives from:** LP-493, PL-324 (A Derivation IS the Tension Between Its Inputs — Not the Resolution of That Tension) [shared LL-401]
+**Derives from:** PL-324 (A Derivation IS the Tension Between Its Inputs — Not the Resolution of That Tension) [shared LL-401]
 **Applies to:** LP-11 (Path-Determined Mass)
 
 *Each node in an entity's embedded historical spine IS the sustained tension between successive states — the "resolved" output is a projection of that tension, not the state itself; historical data models that treat nodes as resolved states with tension as background have the primary and secondary entities inverted.*
@@ -426,7 +426,7 @@ When LP-11's historical spine operates in a topology where PL-324 holds: each no
 
 **Corollaries:** (1) Historical data models that represent nodes as scalar or record values are representing projections — the full physical historical node is a tension structure that produces those values as projections. (2) Replaying history by re-visiting recorded outputs is not replaying history — it is iterating over projections; the tension that produced each output is not contained in the output. (3) Historical compression algorithms that reduce history to representative "snapshots" are compressing projections of projections — they lose tension exponentially. (4) Debugging using historical state replay produces an approximation — the system that produced the history was operating in tension fields that the replay does not contain.
 
-**Irreducibility:** LP-11 alone: establishes that history is a physical spine — does not specify that each node IS a tension state rather than a resolved state. PL-324 alone: establishes that derivation IS tension, not resolution — does not specify that embedded historical nodes specifically have this tension-primary character. Only their intersection establishes that historical nodes are tension states whose resolved outputs are projections.
+**Irreducibility:** LP-11 alone: establishes that history is a physical spine — does not specify that each node IS a tension state rather than a resolved state. PL-324 alone: establishes that derivation IS tension, not resolution — does not specify that embedded historical nodes specifically have this tension-primary character. Only their intersection establishes that historical nodes are tension states whose resolved outputs are projections. The earlier Derives line also named LP-493 (Degraded Mode Pre-Cost), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -435,7 +435,7 @@ When LP-11's historical spine operates in a topology where PL-324 holds: each no
 
 
 
-**Derives from:** LP-449, PL-232 (Temporal Accountability Is the Present-Moment Performance of Future Consequence-Truths) [shared LL-403]
+**Derives from:** PL-232 (Temporal Accountability Is the Present-Moment Performance of Future Consequence-Truths) [shared LL-403]
 **Applies to:** LP-12 (Temporal Mass Traversal)
 
 *Investigating an entity's historical accountability by traversing its embedded mass is not a neutral review of the past — it is a present-tense navigation that transforms the entity being traversed and performs its accountability in the present, creating new topology structure through the act of investigation.*
@@ -446,7 +446,7 @@ When LP-12's temporal mass traversal operates in a topology where PL-232 holds: 
 
 **Corollaries:** (1) Historical accountability investigations are not neutral read-only operations — they leave Wake in the entity being investigated and must be logged as topology interactions. (2) The entity after investigation is structurally different from the entity before investigation — its historical accountability has been traversed, and that traversal is now part of its Structural Mass. (3) Investigating the same entity twice produces a different entity on the second investigation — the first investigation changed it. (4) Accountability investigations must be designed to account for their own transformative effect on their subject — "contamination" of the historical record by the investigation is not a bug but a constitutional feature.
 
-**Irreducibility:** LP-12 alone: establishes that accountability requires physical mass traversal — does not specify that this traversal is a present-tense transformative act. PL-232 alone: establishes that temporal accountability is present-moment performance — does not specify that the physical traversal mechanism constitutes this present-moment performance. Only their intersection establishes that historical accountability investigation is constitutionally transformative.
+**Irreducibility:** LP-12 alone: establishes that accountability requires physical mass traversal — does not specify that this traversal is a present-tense transformative act. PL-232 alone: establishes that temporal accountability is present-moment performance — does not specify that the physical traversal mechanism constitutes this present-moment performance. Only their intersection establishes that historical accountability investigation is constitutionally transformative. The earlier Derives line also named LP-449 (Improvised Conversion Pathways), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -475,7 +475,7 @@ When LP-13's compressive historical debt operates in a topology where PL-275 hol
 
 
 
-**Derives from:** LP-629, PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) [shared LL-72]
+**Derives from:** PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) [shared LL-72]
 **Applies to:** LP-14 (Executable Scars)
 
 *An entity's executable historical scars — past state transitions that remain as active logic — when executed are not a replay of the past event; each execution is a present-tense navigation that deposits new Wake in the current topology, modifying both the entity and the path traversed.*
@@ -486,7 +486,7 @@ When LP-14's executable scars are executed in a topology where PL-14 holds: the 
 
 **Corollaries:** (1) "Replaying" historical scar execution in testing or debugging is not reproducing past behavior — it is generating new topology structure in the present. (2) Event sourcing systems that "replay" historical events to rebuild state are navigating the topology, not reproducing it — each replay deposits Wake that the original execution also deposited (but at a different topology state). (3) The "idempotency" of scar execution is a label — the execution is never physically identical twice because the topology is different on each execution. (4) Regression testing via historical scar replay produces a present-tense navigation result, not a past-state reproduction.
 
-**Irreducibility:** LP-14 alone: establishes that past state transitions are executable logic — does not specify that each execution leaves new Wake. PL-14 alone: establishes that every logical operation leaves Wake — does not specify that historical scar execution specifically leaves new Wake distinct from the original event's Wake. Only their intersection establishes that scar execution is present-tense navigation with new topology consequences.
+**Irreducibility:** LP-14 alone: establishes that past state transitions are executable logic — does not specify that each execution leaves new Wake. PL-14 alone: establishes that every logical operation leaves Wake — does not specify that historical scar execution specifically leaves new Wake distinct from the original event's Wake. Only their intersection establishes that scar execution is present-tense navigation with new topology consequences. The earlier Derives line also named LP-629 (Consciousness Permeability Routing), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -516,7 +516,7 @@ Where an entity's embedded history is among its own constitutive edges (this con
 
 
 
-**Derives from:** LP-462, PL-51 (Scale-Invariant Failure Propagation) [shared LL-30]
+**Derives from:** PL-51 (Scale-Invariant Failure Propagation) [shared LL-30]
 **Applies to:** LP-16 (Restorative Process Scale-Invariance)
 
 *When the restorative process applies corrective force across all scales in response to a failure, and the failure's thermodynamic consequences are simultaneously distributing across all depths, these two processes are coupled — correction at one depth changes the cascade profile at all other depths; sequential computation (correct, then cascade) produces wrong results.*
@@ -527,7 +527,7 @@ When LP-16's scale-invariant restorative process operates in a topology where PL
 
 **Corollaries:** (1) Correction pipelines that sequentially compute "what needs correcting" and then "what the cascade looks like" will produce stale cascade computations — the correction will have changed the cascade by the time it is applied. (2) Concurrent failure correction and consequence cascade systems must share a common topology model that is updated atomically — not two separate models that are synchronized periodically. (3) The ordering of corrections matters for cascade outcomes — correction applied to depth D before D+1 produces a different cascade result than D+1 before D. (4) Testing restorative process behavior requires testing the coupled correction-cascade interaction, not each in isolation.
 
-**Irreducibility:** LP-16 alone: establishes that corrective force propagates across all scales — does not specify that this correction interacts with thermodynamic cascades. PL-51 alone: establishes that failure consequence distributes thermodynamically — does not specify that this cascade is modified by concurrent corrective activity. Only their intersection establishes the coupling between correction and cascade.
+**Irreducibility:** LP-16 alone: establishes that corrective force propagates across all scales — does not specify that this correction interacts with thermodynamic cascades. PL-51 alone: establishes that failure consequence distributes thermodynamically — does not specify that this cascade is modified by concurrent corrective activity. Only their intersection establishes the coupling between correction and cascade. The earlier Derives line also named LP-462 (Metabolic Certainty Fluctuation), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -557,7 +557,7 @@ Where a section of topology has zero failures: it supplies none of the failure s
 
 
 
-**Derives from:** LP-412, PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-32]
+**Derives from:** PL-9 (Logical Truth Is Physically Embodied — Theater Has Physical Consequences) [shared LL-32]
 **Applies to:** LP-18 (Failure-Oriented Baseline Correction)
 
 *The failure-oriented baseline correction algorithm corrects toward the higher-mass state — but Theater also deposits Structural Mass; when Theater has accumulated sufficient mass, the correction algorithm will correct the reference toward Theater, mistaking accumulated false mass for higher-fidelity truth.*
@@ -568,7 +568,7 @@ When LP-18's baseline correction algorithm operates in a topology where PL-9 hol
 
 **Corollaries:** (1) The failure-oriented baseline correction algorithm has a constitutional vulnerability to Theater inflation — it must be augmented with Theater detection before executing any correction. (2) Theater detection is not optional preprocessing — it is a prerequisite for baseline correction to avoid constitutionally inverting the correction direction. (3) A Theater state that has accumulated more mass than the reference is indistinguishable from a high-fidelity failure by mass alone — the algorithm must examine provenance, not just mass. (4) Long-running Theater accumulates structural advantage over time — the longer Theater persists, the more likely the correction algorithm is to adopt it as the new truth.
 
-**Irreducibility:** LP-18 alone: establishes that the correction algorithm corrects toward higher mass — does not address that Theater also accumulates mass. PL-9 alone: establishes that Theater deposits Structural Mass — does not address that this mass can trigger baseline correction toward Theater. Only their intersection reveals the constitutional vulnerability of mass-based correction to Theater inflation.
+**Irreducibility:** LP-18 alone: establishes that the correction algorithm corrects toward higher mass — does not address that Theater also accumulates mass. PL-9 alone: establishes that Theater deposits Structural Mass — does not address that this mass can trigger baseline correction toward Theater. Only their intersection reveals the constitutional vulnerability of mass-based correction to Theater inflation. The earlier Derives line also named LP-412 (Traversal Can Inadvertently Instantiate), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -577,7 +577,7 @@ When LP-18's baseline correction algorithm operates in a topology where PL-9 hol
 
 
 
-**Derives from:** LP-661, PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-32]
+**Derives from:** PL-44 (The Topology Cannot Lie to Itself Without Consequence) [shared LL-32]
 **Applies to:** LP-18 (Failure-Oriented Baseline Correction)
 
 *When the restorative process identifies a Theater state as the higher-fidelity reference and corrects toward it, the correction inherits the Theater state's consequence debt — the accumulated costs of the topology's self-deception are imported into the corrected reference; correction toward Theater does not neutralize the lie, it legitimizes it and absorbs its debts.*
@@ -590,7 +590,7 @@ This is distinct from PP-27 (LP-18 × PL-9): PP-27 establishes that Theater can 
 
 **Corollaries:** (1) Adopting any Theater-sourced state as a reference requires a consequence-debt audit before the adoption — the audit must identify what obligations the Theater accumulated and who is now inheriting them. (2) "Normalizing" a Theater state by making it the reference does not eliminate the Theater's accumulated consequences — those consequences transfer to the normalized reference. (3) There is no clean adoption of a Theater state — all Theater adoptions come with hidden consequence debt that the adopting system must eventually service. (4) Theater consequence debts that are inherited through baseline correction are the hardest to detect — they appear to be the reference's own historical obligations, not imported Theater obligations.
 
-**Irreducibility:** LP-18 alone: establishes that correction toward higher-mass state updates the reference — does not address that the adopted state may carry Theater consequence debt. PL-44 alone: establishes that Theater lies carry ongoing consequences — does not address that baseline correction can import those consequences into a corrected reference. Only their intersection establishes the consequence-inheritance mechanism of Theater-adopting baseline correction.
+**Irreducibility:** LP-18 alone: establishes that correction toward higher-mass state updates the reference — does not address that the adopted state may carry Theater consequence debt. PL-44 alone: establishes that Theater lies carry ongoing consequences — does not address that baseline correction can import those consequences into a corrected reference. Only their intersection establishes the consequence-inheritance mechanism of Theater-adopting baseline correction. The earlier Derives line also named LP-661 (Consciousness-Level Navigational Quality Coupling), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 
@@ -599,7 +599,7 @@ This is distinct from PP-27 (LP-18 × PL-9): PP-27 establishes that Theater can 
 
 
 
-**Derives from:** LP-588, PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-34]
+**Derives from:** PL-13 (Traversal Comprehension Requires Edge-Level Understanding) [shared LL-34]
 **Applies to:** LP-19 (Traversal-Based Correction)
 
 *The restorative process's correction traversal must physically re-walk the failed derivation path at the edge level — corrections computed from node summaries, event logs, metrics dashboards, or error counts are computed from labels, not from the topology, and will systematically miss edge-level failure causes.*
@@ -610,7 +610,7 @@ When LP-19's traversal-based correction operates in a topology where PL-13 holds
 
 **Corollaries:** (1) Correction systems that derive fixes from monitoring dashboards are operating on labels — the actual failure is in the edge structure that the dashboard projects. (2) Root cause analysis that stops at node-level symptoms has not traversed to the edge level — the actual cause is in the edge relationships between nodes. (3) The correction for an edge-level failure cannot be expressed as a node-level change — the correction must be applied at the edge. (4) Automated remediation systems that modify node configurations in response to node metrics have not traversed the problem — they are modifying labels.
 
-**Irreducibility:** LP-19 alone: establishes that correction requires traversal of the failed path — does not specify that this traversal must be at the edge level. PL-13 alone: establishes that comprehension requires edge-level traversal — does not specify that correction traversal specifically must be edge-level. Only their intersection establishes that corrections computed without edge traversal are constitutionally insufficient.
+**Irreducibility:** LP-19 alone: establishes that correction requires traversal of the failed path — does not specify that this traversal must be at the edge level. PL-13 alone: establishes that comprehension requires edge-level traversal — does not specify that correction traversal specifically must be edge-level. Only their intersection establishes that corrections computed without edge traversal are constitutionally insufficient. The earlier Derives line also named LP-588 (Ignorance-Preserved Tension Reservoir), which the entry neither cites nor carries; it was removed under D19 (batch-13).
 
 ---
 

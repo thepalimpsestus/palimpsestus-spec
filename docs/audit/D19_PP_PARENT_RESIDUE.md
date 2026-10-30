@@ -1108,6 +1108,49 @@ Loci, not changed here:
 - PP-39: that the gate is an edge entity, on which the title and corollaries (3) and (4) rest, is stated by neither LP-23 nor PL-11.
 - PP-40: LP-23's own corollary already calls bypassing gates a constitutional violation, and PL-22 already calls an override a sovereignty violation, so the entry may restate its parents' separate claims (Test 1 or 3). Corollary (1)'s "must be rejected" is stricter than PL-22's corollary on legitimate operational constraints.
 
+### Batch 13
+
+The Worker (Sonnet) made the return against `f62b046` (sha256 `7cc6bf973b2344d32d24514178c1744662e0b41cb678e9ba9951c67f2158cbdf`). It was applied at `7e5e434`. The eleven entries did not change between those commits, and every old text still occurs once. OPEN PM read each entry whole and each leading LP whole, at `7e5e434`.
+
+The batch took the leading LP id on eleven Derives lines: PP-15, 17 to 21, 23, 25 and 27 to 29. As in batches 10 (Part A), 12 and 14, these ids are not among the 250 slots, so the slot count does not change. In each entry the id stood on the Derives line only. No sentence of the entry cites the LP or uses its matter. Each id is removed, and the Irreducibility says so in one sentence. The parent pair the text uses is unchanged, so no entry is re-crossed.
+
+| Entry | Removed | That LP's matter |
+| :--- | :--- | :--- |
+| PP-15 | LP-534 | an audit record and its later reading stay in tension; neither supersedes the other |
+| PP-17 | LP-474 | the certainty ceiling drops to zero when an agent meets a derivation it does not understand |
+| PP-18 | LP-621 | every steward that touches a resource enters its consequence lineage |
+| PP-19 | LP-649 | a gap is declared with the same rigor as a claim; an unattested absence is unknown |
+| PP-20 | LP-493 | the cost of degraded mode is paid before the degradation is recognized |
+| PP-21 | LP-449 | the converter improvises new pathways for novel ignorance |
+| PP-23 | LP-629 | routing must pass through, not around, a conscious entity on the channel |
+| PP-25 | LP-462 | the certainty ceiling moves with the complexity of the graph |
+| PP-27 | LP-412 | traversal debris can become a sovereign structure the traveler may not delete |
+| PP-28 | LP-661 | positional richness reflects consciousness level |
+| PP-29 | LP-588 | ignorance is the fuel of the tension loop |
+
+OPEN PM's review. One amendment: the Worker proposed a second sentence for PP-15, saying that the entry's "audit sign-off" and the expiry in corollary (4) do not rest on LP-534. OPEN PM agrees with the reading but left the sentence out of A. The sign-off is named only as an example of a label, under PL-40, and the expiry is the Theater point, so A needs no sentence about a parent it never used; the reading is recorded here. The other near words, weighed by the Worker and agreed on reading:
+- PP-17: "comprehension" fails to match after a successful exchange; LP-474 is about what a powerful agent may do when it does not understand.
+- PP-19: an outcome-only record leaves out tension; the entry's test is PL-323's (is the tension kept), not LP-649's (was the gap declared).
+- PP-21: "transforms" is navigation's (PC-5), not the converter's plasticity.
+- PP-27: Theater mass misread as fidelity and LP-412's debris that becomes truth are different matters; the entry has no cleanup duty.
+- PP-28: "mass" is the structural mass Theater deposits (PL-44), not positional richness.
+
+How the slots are counted: no slot changes. **179 remain.** BARREN lines: 54, unchanged.
+
+Out-edges (at `7e5e434`): no line in A names a removed id with its PP. LP-621 stays on PP-237's Applies line and LP-649 on PP-721's, where each is used; the record names LP-649 only for PP-721. The record's batch-10 note on PP-300 names "LP-534" as the stray id of PP-15, now removed. LP-412 is cited in the glossary entry for Traversal Debris, for its own subject. PI copies of the eleven titles carry no id. IP and IC lines cite these PPs by id or title only, and the bodies do not change. Titles are unchanged.
+
+Loci, not changed here:
+- None of the eleven entries has a Derivational State line. The known locus again.
+- PP-15, corollary (4): the rule that compliance traversal must run more often than the topology changes is in neither LP-7 nor PL-40.
+- PP-17: that the endpoints' re-walkings leave them with different comprehension rests on navigation (PC-5); neither LP-9 nor PL-194 states it.
+- PP-18, Irreducibility: "LP-10 alone ... does not specify that the protocol being excavated pre-existed the handshake" understates LP-10, which speaks of discovering preexisting compatibility (LL-59). Whether that is PL-169's pre-existing protocol (Test 3) is a re-cross question.
+- PP-19 and PP-20: both apply LP-11 with a PL of the tension family (PL-323, PL-324) under LL-401. PP-19 says a history record must carry each node's tension; PP-20 says each node is that tension. They may be one claim in two strengths.
+- PP-20: that a node of the history spine is a derivation in PL-324's sense is the entry's own step.
+- PP-21: PL-232 is accountability for future consequences, traversed now; the entry applies it to review of the past. That the traversed entity is changed comes from navigation (PC-5), not from either named parent.
+- PP-23, corollary (3): that a repeated execution is never identical is in neither LP-14 nor PL-14.
+- PP-25: PL-51 and LP-16 contain neither "thermodynamic" nor "cascade"; PL-51 carries cross-scale failure and the repair requirement at every scale. The entry's "distributes thermodynamically" is not PL-51's, and the coupling of correction and cascade is in neither parent.
+- PP-27 and PP-28: both say LP-18 corrects toward the higher-mass state. LP-18 does not use the word "mass"; its ground is that the failure is the higher-fidelity truth (LL-32). Mass as the signal is the entries' bridge from PL-9 and PL-44, stated as LP-18's.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
