@@ -752,6 +752,41 @@ Not changed:
 - **The PP file header filter.** This is already recorded under batch 04's independent check.
 - **The 95 PI title copies.** The brief did not ask for them, and the title pass checks counted them.
 
+### Title pass, round 3
+
+Four titles: PP-236, 261, 288 and 300, whose bodies batch 08 restated and its independent check cleared at `70b0abd`. A Worker (Sonnet) proposed each title against `70b0abd`. OPEN PM reviewed each one against the entry text and its parents' text at `70b0abd`. Each title states what the entry's italic line states, keeps each of the entry's own steps as a "Where …" condition, and drops the words the body cut. All four are applied as the Worker proposed them.
+
+Applied (old title, then new):
+
+| Entry | Old title | New title |
+| :--- | :--- | :--- |
+| PP-236 | The Accountability Mapping Activity Itself Carries Thermodynamic Cost — Mapping Without Accounting for Its Own Cost Is an Incomplete Accountability Record | Where an Accountability Mapper's Tracing of Consequence Chains Is the Generation of Navigational Data by Measurement, Logging, Tracing or Monitoring, That Activity Is Itself Consequential and Not Cost-Free — Where the Mapper's Record Is Held as a Self-Proving Record Whose Derivation Is the Mapping, the Record Embeds the Cost of Its Own Derivation, and a Record Without That Cost Is Incomplete |
+| PP-261 | Cascade Interference Events Carry Their Own Thermodynamic Receipt — The Interference Cost Must Be Accounted at the Moment of Interference | Where the Cost of an Interference Between Consequence Cascades Is a Thermodynamic Cost, It Is Strictly Present-Tense and a Deferral Does Not Defer It — Where It Is a Cost of Maintaining the Derivations the Interference Affects, Deferring the Maintenance Does Not Defer the Cost |
+| PP-288 | A Topology Divergence Event Deposits Its Thermodynamic Receipt Immediately — Divergence Cost Is Not Deferred | Where the Cost of Reconciling a Divergence Between Structures Is a Thermodynamic Cost, It Is Strictly Present-Tense and a Deferral to a Later Re-Convergence Does Not Defer It — Where It Is a Cost of Maintaining the Structures, Deferring the Maintenance Does Not Defer the Cost |
+| PP-300 | A Consequence-Aware Arbitration Engine Must Apply Scale-Invariant Arbitration Standards | Where an Arbitration Between Competing Sovereignty Claims Has an Outcome That Is Held as a Sovereignty Claim, Proving That Sovereignty Requires Traversing the Derivation Path From Constitutional Foundations to the Claim, and Not Reading a Pre-Evaluated Sovereignty Certificate of the Outcome |
+
+What changed:
+- `system-foundations-physical-physical.md`:
+  - the four `### PP-n.` headers;
+  - in PP-236, the one Irreducibility sentence that spoke of the title in the present tense (the sentence that begins "LP-124 carries the title's …"). It is put in the past and says what this pass did. PP-261, 288 and 300 have no such sentence; PP-300's "Cut with the claim they rest on" is already in the past.
+- `system-foundations-physical-implementation.md`: each old title occurs 95 times, every time as the parenthesized title after the PP id on a `**Derives from:**` line. All four titles sit on the same 95 lines, so 380 copies are replaced on 95 lines. No other PI text is changed.
+- No other tracked file holds any of the four old titles. This was searched by exact text after the apply.
+- PI own text, searched outside the Derives lines by PP id and by the old titles' claim words: none of the four is cited. The "consequence-aware arbitration engine" lines in PI (569) are PP-301's old claim, already the out-edge for D23; they share only the opening words of PP-300's old title. The "divergence" lines in PI-50 to PI-56 come from those PI entries' own titles and cite nothing of PP-288.
+
+Review notes:
+- The batch 06 candidates for PP-261 and PP-288 kept only the maintenance reading (PL-266). Batch 08 paired it with LP-616's thermodynamic-cost reading, so both titles state both, each under its own condition. PP-288's candidate also said "Deferring the Reconciliation", where the body says "deferring the maintenance".
+- PP-236: the first half of the old title was unconditional, and "Incomplete" held only under the self-proving-record condition (batch 08). Both are now under their conditions. "Accountability record" is dropped as the entry's own phrase.
+- PP-300: the title states only PL-40's rule under the entry's condition, and nothing of LP-205 (NO CARRIER, batch 08). It has no subtitle, as the old title had none.
+- PL-40's "pre-evaluated sovereignty certificate" is wrapped across two lines of its entry; it was read there.
+- PP-261 and PP-288 stand on LP-616 (BARREN in D20) beside the weak PL-266 carrier; PP-236's second half stands on LP-124 under a condition. If LP-616 or LP-124 is restated, these titles are re-read with their bodies.
+- Lengths run from 276 to 394 characters. PP-236 is long because it keeps two conditions over two parents.
+
+Still to retitle:
+- PP-243 and 255: after batch 10 re-crosses them against LP-626 and LP-613.
+- PP-305, 308, 309, 341, 343 and 365: after batch 09.
+- PP-103: waits on its body fix ("self-governing").
+- The six NO CARRIER entries (PP-112, 136, 196, 246, 270 and 276): their titles stay flagged until each is re-crossed to a carrier (title pass, round 1); that is a later re-cross batch, body and title together.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.

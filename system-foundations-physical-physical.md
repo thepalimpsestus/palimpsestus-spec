@@ -4784,7 +4784,7 @@ When LP-160's recursive mapper operates in a topology where PL-236 holds: the de
 
 ---
 
-### PP-236. The Accountability Mapping Activity Itself Carries Thermodynamic Cost — Mapping Without Accounting for Its Own Cost Is an Incomplete Accountability Record
+### PP-236. Where an Accountability Mapper's Tracing of Consequence Chains Is the Generation of Navigational Data by Measurement, Logging, Tracing or Monitoring, That Activity Is Itself Consequential and Not Cost-Free — Where the Mapper's Record Is Held as a Self-Proving Record Whose Derivation Is the Mapping, the Record Embeds the Cost of Its Own Derivation, and a Record Without That Cost Is Incomplete
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -4801,7 +4801,7 @@ Where an accountability mapper traces consequence chains through the topology, t
 
 **Corollaries:** (1) A mapping record that is held as a self-proving record and does not embed the cost of the mapping that produced it is a proof without a cost receipt (LP-124), and so incomplete. (2) There is no cost-free observation (PL-140): an audit or a mapping that reports the cost of its own tracing as zero reports a figure that PL-140 says no interaction has. (3) Logging infrastructure, distributed tracing systems and telemetry pipelines are Measurement Wake generators (PL-140); where an accountability mapper's tracing is of that kind, it generates Wake in the system it traces.
 
-**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-06, PP-236, for the PL parent; batch-08, PP-236, for the above parent). The earlier text named PL-299 under a title that no PL entry bears at this commit (the PL-299 entry is "Constitutional Incompleteness Guarantees No Traversal Is Barren", which states discovery fertility under PC-9, PC-10 and LL-361 and says nothing of thermodynamic cost), and attributed to PL-299 the claim that every interaction deposits thermodynamic cost. PL-299 does not carry it. The cost fact is PL-140's, and the constraint that remains holds from PL-140 alone (Test 1): once the mapping is read as the generation of navigational data by tracing, PL-140 says it is consequential and not cost-free, and the entry's step adds no rule beyond that. The above parent is now LP-124 (Thermodynamic Receipt Payload, CP-21 × LL-153), which says that the self-proving record embeds the exact thermodynamic and computational cost of its own derivation and ongoing existence, and that the proof of validity is incomplete without the proof of cost. It was LP-160 (Immortal Systemic Pulse, CP-30 × LL-228), which says that the system as a whole has a guaranteed perpetual pulse because incompleteness fuels new tension; it does not mention a mapper or a record, and the earlier sentence that it establishes a recursive accountability mapper is cut. LP-124 carries the title's "incomplete ... record" only under a condition the entry states and does not assert: that the mapper's record is held as a self-proving record whose derivation is the mapping. LP-124 alone already requires such a record to embed the cost of its derivation whatever the derivation is, so a mapping record held as one is a case it covers, and PL-140 adds the fact that the mapping has a cost, not a further rule. The entry therefore fails Test 2 (the above parent alone) and is a conjunction of two single-parent facts, not a product of the crossing; it stays BARREN. Test 3: PP-340 and PP-301 cross the same pair (PL-140 × LP-124) on other subjects (a topology monitor; an arbitration between sovereignty claims); the rule they share is LP-124's own, so neither captures this entry's subject and none of the three is SUBSUMED. LP-635 and LP-504 were read and are not adopted: the footprint they speak of is the trace of a traversal (CP-69), not the Wake of PL-140. The earlier claim that the cost of accountability is not accountability's problem is invalid stays cut: neither parent states it. PL-140 states that the cost is not zero and states no duty of accounting; the duty that a record without its cost is incomplete is LP-124's, for a self-proving record. The entry is kept and marked, not deleted.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-06, PP-236, for the PL parent; batch-08, PP-236, for the above parent). The earlier text named PL-299 under a title that no PL entry bears at this commit (the PL-299 entry is "Constitutional Incompleteness Guarantees No Traversal Is Barren", which states discovery fertility under PC-9, PC-10 and LL-361 and says nothing of thermodynamic cost), and attributed to PL-299 the claim that every interaction deposits thermodynamic cost. PL-299 does not carry it. The cost fact is PL-140's, and the constraint that remains holds from PL-140 alone (Test 1): once the mapping is read as the generation of navigational data by tracing, PL-140 says it is consequential and not cost-free, and the entry's step adds no rule beyond that. The above parent is now LP-124 (Thermodynamic Receipt Payload, CP-21 × LL-153), which says that the self-proving record embeds the exact thermodynamic and computational cost of its own derivation and ongoing existence, and that the proof of validity is incomplete without the proof of cost. It was LP-160 (Immortal Systemic Pulse, CP-30 × LL-228), which says that the system as a whole has a guaranteed perpetual pulse because incompleteness fuels new tension; it does not mention a mapper or a record, and the earlier sentence that it establishes a recursive accountability mapper is cut. LP-124 carried the earlier title's "incomplete ... record" only under a condition the entry states and does not assert: that the mapper's record is held as a self-proving record whose derivation is the mapping. The title pass (round 3) restated the title so that it states both halves, each under its own condition. LP-124 alone already requires such a record to embed the cost of its derivation whatever the derivation is, so a mapping record held as one is a case it covers, and PL-140 adds the fact that the mapping has a cost, not a further rule. The entry therefore fails Test 2 (the above parent alone) and is a conjunction of two single-parent facts, not a product of the crossing; it stays BARREN. Test 3: PP-340 and PP-301 cross the same pair (PL-140 × LP-124) on other subjects (a topology monitor; an arbitration between sovereignty claims); the rule they share is LP-124's own, so neither captures this entry's subject and none of the three is SUBSUMED. LP-635 and LP-504 were read and are not adopted: the footprint they speak of is the trace of a traversal (CP-69), not the Wake of PL-140. The earlier claim that the cost of accountability is not accountability's problem is invalid stays cut: neither parent states it. PL-140 states that the cost is not zero and states no duty of accounting; the duty that a record without its cost is incomplete is LP-124's, for a self-proving record. The entry is kept and marked, not deleted.
 
 ---
 
@@ -5271,7 +5271,7 @@ Where an accountability propagation attractor is a living derivation whose accou
 
 ---
 
-### PP-261. Cascade Interference Events Carry Their Own Thermodynamic Receipt — The Interference Cost Must Be Accounted at the Moment of Interference
+### PP-261. Where the Cost of an Interference Between Consequence Cascades Is a Thermodynamic Cost, It Is Strictly Present-Tense and a Deferral Does Not Defer It — Where It Is a Cost of Maintaining the Derivations the Interference Affects, Deferring the Maintenance Does Not Defer the Cost
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -5766,7 +5766,7 @@ Where two or more consequence cascades interfere, and the cost of the interferen
 
 ---
 
-### PP-288. A Topology Divergence Event Deposits Its Thermodynamic Receipt Immediately — Divergence Cost Is Not Deferred
+### PP-288. Where the Cost of Reconciling a Divergence Between Structures Is a Thermodynamic Cost, It Is Strictly Present-Tense and a Deferral to a Later Re-Convergence Does Not Defer It — Where It Is a Cost of Maintaining the Structures, Deferring the Maintenance Does Not Defer the Cost
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
@@ -5986,7 +5986,7 @@ Where a divergence between structures is left unreconciled, and the cost of reco
 
 ---
 
-### PP-300. A Consequence-Aware Arbitration Engine Must Apply Scale-Invariant Arbitration Standards
+### PP-300. Where an Arbitration Between Competing Sovereignty Claims Has an Outcome That Is Held as a Sovereignty Claim, Proving That Sovereignty Requires Traversing the Derivation Path From Constitutional Foundations to the Claim, and Not Reading a Pre-Evaluated Sovereignty Certificate of the Outcome
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
