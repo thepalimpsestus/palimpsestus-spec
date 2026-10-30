@@ -1023,6 +1023,31 @@ Loci, not changed here:
 - PP-13: the title's "Only Derived From Provenance Traversal" and corollaries (2) and (4) are PL-40's matter; PL-40 is not a parent.
 - PP-14: corollary (4) cites "LP-13 × PL-275", which is PP-22's pair.
 
+### Batch 11, independent check
+
+A blind checker (Opus; brief sha256 `9105e8d5…`, return `339f01a471fab9ad1547d2760a5be2a0bc2763dbb7f0b905dfd5985a1566337d`) used its own copy of A at `75248fb`. It read every parent whole and wrote its six entry judgments before it opened this record. It gave HOLDS for PP-136 (tag only) and AMEND for PP-112, 196, 246, 270 and 276. It found BARREN right for all six and agreed with every parent choice, every withdrawal and both NO CARRIER slots. Its CLEAN-ROOM EXPOSURE note concerns a harness notice that showed it the path of another checker's output file; it did not open the file, and no content was shown or used.
+
+OPEN PM read each cited line again at `f62b046` (PL-1, 36, 77, 127 and 302, LP-80, 142, 212, 272, 671 and 693, and PP-551, all whole). These findings are accepted and applied:
+- **Tags.** No `[shared LL-n]` tag on the six names an LL that both current parents cite: each belongs to one parent only, and PP-270's LL-253 belongs to the earlier parent LP-185. PP-255's LL-241 (batch 10 locus) matches neither PL-267 (LL-473) nor LP-613 (LL-469). The seven tags are removed, as on the 50 Derives lines that already had none.
+- **PP-112.** PL-127 says that the team that maintains its ignorance map asserts sovereignty over its "knowledge boundary" and that one that outsources it has surrendered sovereignty over its "epistemic boundary". The surrender clause in the title, italic and body now uses PL-127's word for it. "Nested at every scale" is not LP-80's: the body now says "the self-similar nesting of frontier value (LP-80)".
+- **PP-196.** LP-142 says the buffer shapes the pocket a navigator physicalizes, which is temporary. The title said how much of a chain a navigator can follow, with no "at once", which bounds total reach. It now says "at Once" twice, and "Their Discoverer" for "the Navigator", since PL-36 speaks of the discoverer. Corollary (1) gave the buffer to an organization and corollary (3) said "we didn't know" can report a buffer limit; LP-142 says neither. Both are restated to the parents, and corollary (4) now uses LP-142's dropped edges.
+- **PP-246.** "Risk" in corollary (1) is in neither parent and is cut. "Depth gives consequence and consequence-bearing depth gives obligation" is now "depth gives both consequence and obligation", which is PL-302's order. LP-693 states deep-layer ethics for far-downstream consequences, but PP-551 already crosses PL-302 with LP-693 and states the same depth-scaled obligation, so naming it here would duplicate PP-551. The entry now says so. With LP-478 already not adopted, this closes the re-cross question for PP-246's LP slot: it stays NO CARRIER.
+- **PP-270.** The body used "terminal" for a place that originates nothing (LP-212's half), while the Irreducibility used it for a place where consequence stops (PL-77's half). Both senses are now named, one per parent. LP-212 speaks of each component's pulse, so "node" becomes "component" in the title, italic, body and corollaries. Corollary (2) spoke of teams and cited nothing; it is now restated to the two parents. LP-272 never uses the word "frontier"; the text now says it describes a wavefront. The Test sentence now gives each half to its parent and calls the whole a conjunction of two single-parent facts, in the form other entries use.
+- **PP-276.** LP-671 requires that a truth at one scale not be contradicted at another, and permits a labeled local truth. "Truth Must Hold Across Scales" said more. The title now says LP-671's requirement and drops the undefined "Boundary-Condition Truth Evaluator". The italic's "every other boundary" is now "every other scale", PL-1's word. The Irreducibility said "LP-671 restates it"; it now says what LP-671 adds, and that the entry is a conjunction under the stated condition.
+
+Four titles changed (PP-112, 196, 270 and 276). Each title's 95 copies in PI were replaced. The checker also found that PP-197's 95 PI copies carried a title that PP-197 dropped at v1.1.1. They now carry the PP title. A full scan of PI (68,780 copies of PP titles) now finds no copy that differs from its PP title.
+
+Not accepted as a change: the checker's own reading of IP:167 moved toward this record's. Under PP-196's condition, the focus bounds the accountability taken at once; IP:167's "maximum archaeological excavation capacity" is not carried. That stays a D23 line, as listed in batch 11.
+
+Loci, not changed here:
+- PI still tags all six [SUBSUMED] (570 lines) while the PP file marks them BARREN. This is the PI tag locus.
+- PP-307 and PP-337 still state, in their titles, the accountability-map identity that PP-246 withdrew as carried by no PL or LP. They are for a later batch.
+- The PP file header's filter (only pairs sharing an LL ancestor are eligible) contradicts the method's Zero Pre-Filtering Mandate (`dag-crossing-method.md` §3).
+- PL-123's "recognizing responsibility creates new topological structure" sits against PL-35 and PL-173 (structures are uncovered, not created). This is for whoever restates PL entries.
+- The re-cross questions for PP-112 (LP-174) and PP-136 (PL-198, PL-81) stand. The checker would not name LP-174, because it says every scale and not inside every node.
+
+Out-edges: the checker listed 14 lines (13 IP, 1 IC, 0 II), the same lines as batch 11's list. The titles' new wording changes no IP or IC line, since those lines cite ids and not titles.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.

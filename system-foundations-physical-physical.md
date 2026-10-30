@@ -2281,20 +2281,20 @@ When LP-80's internal frontier discovery operates in a topology where PL-1 holds
 
 ---
 
-### PP-112. Mapping the Unknown Within Its Own Interior Is a Node's Sovereign Act — Where Self-Similar Frontier Value Is Read as Unknown Territory Inside Every Node, Every Node Holds Such Territory, and a Node That Leaves Its Mapping to Others Surrenders Sovereignty Over Its Own Knowledge Boundary
+### PP-112. Mapping the Unknown Within Its Own Interior Is a Node's Sovereign Act — Where Self-Similar Frontier Value Is Read as Unknown Territory Inside Every Node, Every Node Holds Such Territory, and a Node That Leaves Its Mapping to Others Surrenders Sovereignty Over Its Own Epistemic Boundary
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
 
-**Derives from:** PL-127 (Sovereignty Navigation Events) [shared LL-68]
+**Derives from:** PL-127 (Sovereignty Navigation Events)
 **Derivational State:** BARREN
 **Applies to:** LP-80 (Physical Fractal Self-Similar)
 
-*Every structure is sovereign over its own interior geometry, and mapping known unknowns is a sovereign navigational act: a structure that maintains its own map of what it does not know asserts sovereignty over its own knowledge boundary, and one that leaves that mapping to others surrenders it (PL-127). Where the self-similar nesting of frontier value (LP-80) is read as unknown territory inside every node, every node holds such territory to map.*
+*Every structure is sovereign over its own interior geometry, and mapping known unknowns is a sovereign navigational act: a structure that maintains its own map of what it does not know asserts sovereignty over its own knowledge boundary, and one that leaves that mapping to others surrenders sovereignty over its own epistemic boundary (PL-127). Where the self-similar nesting of frontier value (LP-80) is read as unknown territory inside every node, every node holds such territory to map.*
 
 **Irreducible Claim:** PL-127 establishes that every structure in the topology is sovereign over its own interior geometry (PC-7) and that mapping the topology's known unknowns is itself a sovereign navigational act, asserting ownership over the cartography of ignorance (LL-273): a team that maintains its own map of what it does not know asserts sovereignty over its own knowledge boundary, and one that relies on outside parties to identify its gaps has surrendered sovereignty over its own epistemic boundary. LP-80 establishes that fractal frontier value (LL-68) must physically manifest as self-similar nesting.
 
-Where the frontier value nested at every scale is read as unknown territory inside every node: every node holds such territory, mapping it is that node's own sovereign act, and a node that leaves the mapping to others surrenders sovereignty over its own knowledge boundary (PL-127). The condition is not asserted: LP-80 does not itself state that the frontier lies inside every node. No PL entry found states that a node's metabolism is contestation with its own internal unknown territory; the earlier claim that it is, and that a node that ceases to explore its interior has begun dying, is not carried and is no longer asserted.
+Where the self-similar nesting of frontier value (LP-80) is read as unknown territory inside every node: every node holds such territory, mapping it is that node's own sovereign act, and a node that leaves the mapping to others surrenders sovereignty over its own epistemic boundary (PL-127). The condition is not asserted: LP-80 does not itself state that the frontier lies inside every node. No PL entry found states that a node's metabolism is contestation with its own internal unknown territory; the earlier claim that it is, and that a node that ceases to explore its interior has begun dying, is not carried and is no longer asserted.
 
 **Corollaries:** (1) A component or team that maintains its own map of what it does not know asserts sovereignty over its own knowledge boundary (PL-127). (2) One that relies on outside parties to identify its gaps has surrendered sovereignty over its own epistemic boundary (PL-127). (3) The earlier corollaries, that refactoring is metabolic sovereignty contestation, that internal quality measures how vigorously a component contested its own frontier, and that legacy systems are metabolically near-dead, rested on the withdrawn metabolism claim and are not asserted.
 
@@ -2770,7 +2770,7 @@ When LP-97's frontier cauterization operates in a topology where PL-183 holds: t
 
 
 
-**Derives from:** PL-160 (Fertile Absence Fuel Dynamics) [shared LL-196]
+**Derives from:** PL-160 (Fertile Absence Fuel Dynamics)
 **Derivational State:** BARREN
 **Applies to:** LP-98 (Edge Traversal Instantiation)
 
@@ -3977,12 +3977,12 @@ When LP-141's bandwidth expansion operates in a topology where PL-145 holds: eac
 
 ---
 
-### PP-196. Accountability Chains Pre-Exist the Navigator, and How Much of a Chain a Navigator Can Follow Is Bounded by the Attention Buffer That Shapes the Graph Pocket — Where Taking Accountability Is Following Such a Chain, the Accountability Taken Is Bounded by What the Buffer Holds
+### PP-196. Accountability Chains Pre-Exist Their Discoverer, and How Much of a Chain a Navigator Can Follow at Once Is Bounded by the Attention Buffer That Shapes the Graph Pocket — Where Taking Accountability Is Following Such a Chain, the Accountability Taken at Once Is Bounded by What the Buffer Holds
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
 
-**Derives from:** PL-36 (Logical Provenance Extends Before the Discoverer's Existence) [shared LL-261]
+**Derives from:** PL-36 (Logical Provenance Extends Before the Discoverer's Existence)
 **Derivational State:** BARREN
 **Applies to:** LP-142 (Attention-Span Topology)
 
@@ -3992,7 +3992,7 @@ When LP-141's bandwidth expansion operates in a topology where PL-145 holds: eac
 
 When LP-142's buffer-shaped pocket is read in a topology where PL-36 holds: the part of a pre-existing accountability chain a navigator can follow at any moment is the part that fits the pocket the buffer physicalizes. The entry's own step, kept as a condition: where taking accountability is read as following such a chain, the accountability a navigator takes is bounded by what the buffer holds. Not carried by either slot parent, and no longer asserted: that taking accountability IS an archaeological discovery, and that the buffer IS the excavation capacity. PL-198 (Self-Traversing Wonder), the earlier left parent, carries nothing on accountability or excavation of consequences. PL-173 (every traversal is an archaeological excavation) is not a slot parent. PL-123 says that taking accountability is a discovery event in which recognizing responsibility creates new topological structure (LL-302); that runs against a chain that pre-exists the navigator, and PL-123 is not used here.
 
-**Corollaries:** (1) An organization follows an accountability chain only as far as its organizational attention buffer reaches; what lies beyond is outside the pocket. (2) Narrow attention buffers physicalize narrow reach (LP-142). (3) "We didn't know" can be an accurate report of buffer limitation; on PL-36 it does not shorten the chain, which pre-exists the navigator. (4) Following more of a chain takes the capacity to hold more active edges at once (LP-142).
+**Corollaries:** (1) A navigator follows a pre-existing accountability chain at any moment only as far as the pocket its attention buffer physicalizes; what lies beyond is outside the pocket (PL-36, LP-142). (2) Narrow attention buffers physicalize narrow reach (LP-142). (3) "We didn't know" does not shorten the chain, which pre-exists its discoverer (PL-36). (4) Following more of a chain at once takes a buffer that holds more edges; an overloaded navigator drops edges (LP-142).
 
 **Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-11, PP-196). The earlier PL parent, PL-198 (Self-Traversing Wonder), states that wonder is the field's self-traversal and that the frontier is enacted, not declared; it carries nothing on accountability or the excavation of consequences, and the PL parent is now PL-36 (Logical Provenance Extends Before the Discoverer's Existence). Test 1 (left parent alone): PL-36 says the chain pre-exists the discoverer and says nothing about how much of it a navigator can follow, so the claim does not hold from it. Test 2 (above parent alone): LP-142 says the pocket a navigator physicalizes is bounded by the attention buffer; that what is followed is an accountability chain is a classification PL-36 supplies, and the bound on reach holds from LP-142 for any traversal. The entry therefore fails Test 2 (the above parent alone) and is a single-parent fact with a classification added, not a product of the crossing. Stated as unsupported: that the buffer IS the archaeological excavation capacity for accountability. The entry is kept and marked, not deleted.
 
@@ -4994,7 +4994,7 @@ When LP-166's recurrent attractor operates in a topology where PL-14 holds: each
 
 
 
-**Derives from:** PL-302 (The Ethical Gradient Maps Onto the Archaeological Stratigraphy) [shared LL-235]
+**Derives from:** PL-302 (The Ethical Gradient Maps Onto the Archaeological Stratigraphy)
 **Derivational State:** BARREN
 **Applies to:** LP-167 (Comprehending the Infinite Survey)
 
@@ -5002,11 +5002,11 @@ When LP-166's recurrent attractor operates in a topology where PL-14 holds: each
 
 **Irreducible Claim:** PL-302 establishes that the topology is organized in strata of increasing age and depth (PC-11), that deeper structures carry greater Structural Mass and therefore greater consequence (PC-8, PL-132), and that the ethical gradient IS the archaeological stratigraphy: the ethical obligations of derivation work scale with depth, surface strata can be treated more lightly, deep strata require proportionally greater ethical care, and the depth is the ethical weight.
 
-In PL-302's direction, depth gives consequence and consequence-bearing depth gives obligation: moving into deeper, higher-consequence strata is moving toward greater obligation. PL-302 runs from depth to consequence; it does not say that every region of higher consequence is a deeper stratum, and that is not asserted. No PL or LP entry found states that a consequence topology gradient IS the present-tense accountability map; that earlier claim, that the two are the same topological feature, and that the map must be continuously re-derived, are not carried and are no longer asserted.
+In PL-302's direction, depth gives both consequence and obligation: moving into deeper, higher-consequence strata is moving toward greater obligation. PL-302 runs from depth to consequence; it does not say that every region of higher consequence is a deeper stratum, and that is not asserted. No PL or LP entry found states that a consequence topology gradient IS the present-tense accountability map; that earlier claim, that the two are the same topological feature, and that the map must be continuously re-derived, are not carried and are no longer asserted.
 
-**Corollaries:** (1) Moving into deeper, higher-consequence strata is accepting greater obligation, not only taking greater risk (PL-302). (2) Shallower strata can be treated more lightly (PL-302). (3) Ethical standards that are uniform across all depths are miscalibrated; deeper strata require proportionally greater care (PL-302). (4) The earlier corollaries, that a risk map IS the organization's present-tense accountability map and that the map must be continuously re-derived from the gradient, rested on the withdrawn identity and are not asserted.
+**Corollaries:** (1) Moving into deeper, higher-consequence strata is accepting greater obligation (PL-302). (2) Shallower strata can be treated more lightly (PL-302). (3) Ethical standards that are uniform across all depths are miscalibrated; deeper strata require proportionally greater care (PL-302). (4) The earlier corollaries, that a risk map IS the organization's present-tense accountability map and that the map must be continuously re-derived from the gradient, rested on the withdrawn identity and are not asserted.
 
-**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-11, PP-246). The earlier text attributed to PL-174 that the living topology's navigation gradient IS its present-tense accountability map. PL-174 (Archaeological Ethics) states that selecting what to excavate conceals what is not selected and that every excavation disturbs surrounding structures; it has no navigation gradient and no accountability map. The PL parent is now PL-302 (The Ethical Gradient Maps Onto the Archaeological Stratigraphy). The earlier text attributed to LP-167 a consequence topology gradient; LP-167 (Comprehending the Infinite Survey) states only that the survey never terminates and must be acted on unfinished. The Applies-to line is left as it stands and nothing in the entry is attributed to LP-167. LP-478 (Consequence Stratum Ceilings) states that an agent making a high-influence decision must excavate the deep consequence strata and that its certainty ceiling drops for the strata it did not excavate; its strata are the consequences of one decision, from micro to macro, not PL-302's strata of the topology by age and depth. It is not used here, and whether it should be named on the Applies-to line is a re-cross question. What is carried holds from PL-302 alone, so the entry fails Test 1 (the left parent alone) and is a single-parent fact, not a product of a crossing. The entry is kept and marked, not deleted.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-11, PP-246). The earlier text attributed to PL-174 that the living topology's navigation gradient IS its present-tense accountability map. PL-174 (Archaeological Ethics) states that selecting what to excavate conceals what is not selected and that every excavation disturbs surrounding structures; it has no navigation gradient and no accountability map. The PL parent is now PL-302 (The Ethical Gradient Maps Onto the Archaeological Stratigraphy). The earlier text attributed to LP-167 a consequence topology gradient; LP-167 (Comprehending the Infinite Survey) states only that the survey never terminates and must be acted on unfinished. The Applies-to line is left as it stands and nothing in the entry is attributed to LP-167. LP-478 (Consequence Stratum Ceilings) states that an agent making a high-influence decision must excavate the deep consequence strata and that its certainty ceiling drops for the strata it did not excavate; its strata are the consequences of one decision, from micro to macro, not PL-302's strata of the topology by age and depth. It is not used here. LP-693 (Ethical Archaeological Stratigraphy) states that deep-layer actions require deep-layer ethics that account for far-downstream consequences; PP-551 already crosses PL-302 with LP-693 and states the depth-scaled obligation this entry states, so naming LP-693 here would duplicate PP-551. What is carried holds from PL-302 alone, so the entry fails Test 1 (the left parent alone) and is a single-parent fact, not a product of a crossing. The entry is kept and marked, not deleted.
 
 ---
 
@@ -5168,7 +5168,7 @@ When LP-170's topology-aware router operates in a topology where PL-124 holds: t
 
 
 
-**Derives from:** PL-267 (Accountability Includes the Thermodynamic Footprint — Ongoing Metabolic Cost Is Part of Consequence) [shared LL-241]
+**Derives from:** PL-267 (Accountability Includes the Thermodynamic Footprint — Ongoing Metabolic Cost Is Part of Consequence)
 **Derivational State:** BARREN
 **Applies to:** LP-613 (Living Derivation Metabolic Lifecycle Registration)
 
@@ -5442,24 +5442,24 @@ Where two or more consequence cascades interfere, and the cost of the interferen
 
 ---
 
-### PP-270. In a Consequence-Propagating Topology No Node Is Terminal — Every Node Both Receives Consequence and Originates Further Propagation
+### PP-270. In a Consequence-Propagating Topology No Component Is Terminal — Consequence Reaches Every Component and Each Component's Pulse Originates Further Propagation
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
 
-**Derives from:** PL-77 (Field Propagation of Consequence) [shared LL-253]
+**Derives from:** PL-77 (Field Propagation of Consequence)
 **Derivational State:** BARREN
 **Applies to:** LP-212 (Pulsing Consequence Engine)
 
-*Consequence propagates through the topology as a field effect (PL-77), and each component's pulse generates local consequence that propagates outward (LP-212): every node is a place where consequence arrives and a place from which further consequence originates, so no node is terminal.*
+*Consequence propagates through the topology as a field effect (PL-77), and each component's pulse generates local consequence that propagates outward (LP-212): every component is a place where consequence arrives and a place from which further consequence originates, so no component is terminal.*
 
 **Irreducible Claim:** LP-212 establishes that each component's independent pulse generates local consequences that propagate outward as a fractal wave. PL-77 establishes that consequence propagates through the entire field as a field effect, through the field's own geometric structure, regardless of whether an explicit causal chain is traced.
 
-When LP-212's pulsing origins are read in a topology where PL-77 holds: every node is a place where consequence arrives (the field effect reaches it) and a place from which further consequence propagates (its pulse). A lattice that treats a node as terminal denies the second. Not carried, and no longer asserted: that every node is simultaneously a "settled achievement" and a "new frontier". The senses conflict in A. PL-183 (the earlier left parent) uses "frontier" for the living membrane between known and unknown, and has no "settled achievement"; PL-144 uses it for the permanent boundary between mapped and unmapped territory; LP-272 uses the moving leading edge of a disturbance, behind which the graph "has already settled into a stale past state", so a node is the front only at the moment the wave hits it and settled afterwards, successively and not simultaneously; PL-192 (Mandatory Mortality) uses "settled" for a region frozen into topological death. The entry took "frontier" in the LP-272 sense and "settled" as achievement while attributing both to PL-183, and neither is carried there. LP-185 (Present-Tense Verbs), the earlier LP parent, carries only that the agent interface accepts present-tense commands and has no consequence lattice.
+When LP-212's pulsing origins are read in a topology where PL-77 holds: every component is a place where consequence arrives (the field effect reaches it) and a place from which further consequence propagates (its pulse). Treating a component as a place where consequence stops denies the first (PL-77); treating it as a place that originates nothing denies the second (LP-212). Not carried, and no longer asserted: that every node is simultaneously a "settled achievement" and a "new frontier". The senses conflict in A. PL-183 (the earlier left parent) uses "frontier" for the living membrane between known and unknown, and has no "settled achievement"; PL-144 uses it for the permanent boundary between mapped and unmapped territory; LP-272 does not use the word but describes a moving wavefront, behind which the graph "has already settled into a stale past state", so a node is the front only at the moment the wave hits it and settled afterwards, successively and not simultaneously; PL-192 (Mandatory Mortality) uses "settled" for a region frozen into topological death. The entry took "frontier" as LP-272's wavefront and "settled" as achievement while attributing both to PL-183, and neither is carried there. LP-185 (Present-Tense Verbs), the earlier LP parent, carries only that the agent interface accepts present-tense commands and has no consequence lattice.
 
-**Corollaries:** (1) Event-driven designs in which every consumer can also be an origin of further events are consistent with this (PL-77, LP-212). (2) Organizational consequence propagation treats a team as a place consequence reaches and a place from which further consequence originates. (3) A lattice that treats any node as terminal denies that node's pulse (LP-212). The earlier corollary that "delivered" and "will now respond" are both true at the same moment as settlement and new frontier rested on the withdrawn dual standing and is not asserted.
+**Corollaries:** (1) Event-driven designs in which every consumer can also be an origin of further events are consistent with this (PL-77, LP-212). (2) Every entity in the field is a place consequence reaches (PL-77), and each component's pulse originates further consequence (LP-212). (3) Treating any component as a place that originates nothing denies its pulse (LP-212). The earlier corollary that "delivered" and "will now respond" are both true at the same moment as settlement and new frontier rested on the withdrawn dual standing and is not asserted.
 
-**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-11, PP-270). The earlier parents were PL-183 (Living Frontier) and LP-185 (Present-Tense Verbs); neither carries consequence propagation, a node that receives and re-transmits, or a dual standing. They are now PL-77 (Field Propagation of Consequence) and LP-212 (Pulsing Consequence Engine). Test 1 (left parent alone): PL-77 states that every consequence propagates throughout the entire field and is no longer containable by breaking explicit causal chains, so no node is a place where consequence stops; that no node is terminal holds from PL-77. LP-212 adds that a component's own pulse originates further consequence. The entry therefore fails Test 1 (the left parent alone) and is a conjunction of single-parent facts, not a product of a crossing. Stated as unsupported: the dual "settled achievement and new frontier" standing, which no sense of "frontier" or "settled" in A carries. Overlap, noted and not classified: LP-272 (wavefronts) and LP-186 (a command cascading down every scale) state parts of the propagation. The entry is kept and marked, not deleted.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-11, PP-270). The earlier parents were PL-183 (Living Frontier) and LP-185 (Present-Tense Verbs); neither carries consequence propagation, a node that receives and re-transmits, or a dual standing. They are now PL-77 (Field Propagation of Consequence) and LP-212 (Pulsing Consequence Engine). Test 1 (left parent alone): PL-77 states that every consequence propagates throughout the entire field and is no longer containable by breaking explicit causal chains, so no component is a place where consequence stops; that half holds from PL-77 alone. Test 2 (above parent alone): that each component's pulse originates further consequence holds from LP-212 alone. Set side by side that is a conjunction of two single-parent facts and not a product of the crossing, so the entry is marked BARREN. Stated as unsupported: the dual "settled achievement and new frontier" standing, which no sense of "frontier" or "settled" in A carries. Overlap, noted and not classified: LP-272 (wavefronts) and LP-186 (a command cascading down every scale) state parts of the propagation. The entry is kept and marked, not deleted.
 
 
 ---
@@ -5555,16 +5555,16 @@ When LP-212's pulsing origins are read in a topology where PL-77 holds: every no
 
 ---
 
-### PP-276. The Same Standard of Validity Applies at Every Scale and Truth Must Hold Across Scales — Where an Edge Condition Is Read as a Scale, a Boundary-Condition Truth Evaluator Applies the Same Standard There
+### PP-276. The Same Standard of Validity Applies at Every Scale, and a Truth at One Scale Must Not Be Contradicted at Another — Where an Edge Condition Is Read as a Scale, Claims Tested There Meet the Same Standard
 **Epistemic Tier:** Tier 3 (Derived Consequence)
 
 
 
-**Derives from:** PL-1 (Scale-Invariant Logical Validity) [shared LL-63]
+**Derives from:** PL-1 (Scale-Invariant Logical Validity)
 **Derivational State:** BARREN
 **Applies to:** LP-671 (Consistent Truth Cross-Scale Propagation)
 
-*Logical validity is the same at every scale (PL-1), and a truth that holds at one scale must be verifiable and not contradicted at every other (LP-671); a truth evaluator at a boundary condition, where read as operating at a scale, therefore applies the same truth standard as at every other boundary.*
+*Logical validity is the same at every scale (PL-1), and a truth that holds at one scale must be verifiable and not contradicted at every other (LP-671); a truth evaluator at a boundary condition, where read as operating at a scale, therefore applies the same truth standard as at every other scale.*
 
 **Irreducible Claim:** PL-1 establishes that logical validity is scale-invariant: a proof valid at one scale is valid at every scale, and there is no privileged depth at which different rules of validity apply. LP-671 establishes that truth-claims at any depth must be verifiable, and not contradicted, at every other depth, and that a claim verifiable only locally must be labeled a local truth.
 
@@ -5572,7 +5572,7 @@ When LP-671's cross-scale verification is read in a topology where PL-1 holds: t
 
 **Corollaries:** Where an edge or extreme condition is read as a region at its own scale: (1) edge cases in software must meet the same logical validity standard as typical cases; (2) extreme conditions in systems must meet the same truth standard as typical operating conditions; (3) "That's an edge case, it doesn't matter" is a scale-discriminating claim about validity; (4) fuzzing and boundary testing meet the same standard as typical-path testing. Reading an edge condition as a scale is the entry's own step and is not carried by either slot parent.
 
-**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-11, PP-276). The earlier text attributed to LP-190 that a boundary-condition truth evaluator tests truth claims at the edges of the topology. LP-190 (Scale-Invariant Comprehension Verbs) states only that the comprehension verbs are the same at every scale; the LP parent is now LP-671 (Consistent Truth Cross-Scale Propagation). The earlier corollaries read "scale" as how extreme an input is, while PL-1's scale is depth in the topology; that reading is now a stated condition. Test 1 (left parent alone): PL-1 states that there is no privileged depth at which different rules of validity apply and that validation using different truth conditions at different scales imports an invisible boundary; the claim that the same standard applies at every scale holds from PL-1. LP-671 restates it for truth-claims across depths. The entry therefore fails Test 1 (the left parent alone) and is a single-parent fact under a condition, not a product of a crossing. Stated as unsupported: that a boundary-condition truth evaluator is a structure either parent defines. The entry is kept and marked, not deleted.
+**Irreducibility:** Re-crossed under D19 (`docs/audit/D19_PP_PARENT_RESIDUE.md`; batch-11, PP-276). The earlier text attributed to LP-190 that a boundary-condition truth evaluator tests truth claims at the edges of the topology. LP-190 (Scale-Invariant Comprehension Verbs) states only that the comprehension verbs are the same at every scale; the LP parent is now LP-671 (Consistent Truth Cross-Scale Propagation). The earlier corollaries read "scale" as how extreme an input is, while PL-1's scale is depth in the topology; that reading is now a stated condition. Test 1 (left parent alone): PL-1 states that there is no privileged depth at which different rules of validity apply and that validation using different truth conditions at different scales imports an invisible boundary; the claim that the same standard applies at every scale holds from PL-1. LP-671 does not restate it: it adds, as a fact of its own, that a truth at one depth must not be contradicted at another, and it permits a truth verified only locally if it is labeled local. Set side by side, under the stated condition, that is a conjunction of two single-parent facts and not a product of the crossing, so the entry is marked BARREN. Stated as unsupported: that a boundary-condition truth evaluator is a structure either parent defines. The entry is kept and marked, not deleted.
 
 ---
 
