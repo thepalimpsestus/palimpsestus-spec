@@ -213,6 +213,54 @@ Open loci found in this batch, for later batches:
 - The `[shared LL-x]` tag no longer matches the new parent on PP-131 (PL-226 applies LL-379), PP-140 (PL-130), PP-199 (PL-237) and PP-217 (PL-84); PP-145 and PP-218 still match (related item 1).
 - Titles keep claims the restated bodies no longer make (all six entries; "navigation debt" and "unprobed" in PP-217, "IS Thermodynamic Debt Management" in PP-131, "Totalitarian Control" in PP-218). Each title has 1 copy in PP and 95 in PI, none in IP.
 
+### Batch 03, independent check
+
+An independent checker (Opus, blind to the Worker's file and to OPEN PM's review, on its own copy of e6b2c61) re-read the six entries from their parents (check file sha256 af0b965fc4dfbc34f30e49e720e6ea4cf8a3a2ffe4fbc914610b8f833bdfa39b, kept with OPEN PM's records). It agreed with every parent choice and every BARREN mark, and asked for amendments in all six. OPEN PM read each cited parent line before accepting.
+
+What changed (`system-foundations-physical-physical.md`; corollaries and Irreducibility only, no parent, marker or title):
+- PP-131: corollary (1) used error rates and latency spikes, which are outside LP-94's sense (the stress around scored gaps); it now names LP-94's dashboards and tension metrics. The Irreducibility no longer says no PL entry states the claim for hidden tension: PL-200's corollary says suppressed visible tension accumulates as undisclosed structural load, though not as debt. It also records that LP-94's corollary (tension metrics guide manual intervention) carries the link from visibility to attention, not the step from hidden to unattended.
+- PP-140: the corollaries field is replaced. The old (1) called probe logs Wake, which no parent says; the old (3) ranked probes by value and implied that maintenance resists decay, which no parent says and which the entry's own Irreducibility had dropped. Three corollaries remain, each from PL-130 or from PL-130 with LP-101.
+- PP-145: corollary (1), on bottlenecks at a capacity boundary, is dropped and the rest renumbered. A capacity limit is not PL-150's boundary between two regions. The checker proposed instead PL-150's own example, API boundaries between services, with probing across them as LP-105's release. That was not adopted: LP-105's probe releases a system's tension with its own boundary (LL-363), not tension between sovereign services, and the checker's own finding says so. The Irreducibility now states that LP-105's own case does not meet the between-sovereign-structures condition.
+- PP-199: the italic line reads "re-declaration and defense" and "unrenewed and undefended". The corollaries field is replaced. The old (1) and (2) stated rates that no parent gives (the doubt recorded in batch 03). The old (3) counted bare re-declaration frequency as exercise, which LP-144 ("re-declared and defended") and PL-237 (holding tension without engaging it is dormancy) do not support.
+- PP-217: corollary (1) used fire drills and stress tests of an organization's own limits, which neither parent's boundary covers (LP-246: a border kept by contest; PL-84: an edge kept by traversal). It now uses PL-84's second corollary, governance boundaries never exercised.
+- PP-218: corollary (3) was a quantifier shift. PL-43 says no actor comprehends everything, not that some limit escapes every probe. It now rests the unmappable depths on LP-151 and the incomplete comprehension on PL-43.
+
+Titles, not changed here; the title pass. The checker found that all six titles keep claims the bodies dropped, and four contradict their own body:
+- PP-131: "Making It Visible Is the Same as Servicing the Debt" against "Visibility does not itself discharge the debt".
+- PP-140: "Decay-Resistant Wake" against Wake that decays.
+- PP-145: "Reveal" and "Discloses" against a probe that no longer reveals.
+- PP-218: "Exhaustive Mapping Is Totalitarian Control" against "is not itself totalitarian control".
+
+Each title has 1 copy in PP and 95 in PI (counted at e6b2c61, by exact title text). The PI copies are headings or citations of PI entries that may carry the old claim in their own text, so a retitle is a read of each PI entry, not a replacement of a string. The title pass takes PP-131, PP-140, PP-145, PP-199, PP-217, PP-218 and PP-136 (batch 03) together, and it is a D19 item in its own right, not optional. The checker's titles are recorded as candidates:
+- PP-131: "Gap-Adjacent Tension Must Be Visible to Be Attended — Unattended Tension Compounds as Thermodynamic Debt".
+- PP-140: "A Real-Target Probe Deposits Wake Whether or Not It Returns Data — and That Wake Decays".
+- PP-145: "Tension-Relief Probes Relieve Boundary Tension Without Resolving It — Where the Boundary Lies Between Sovereign Structures, the Tension Is Irreducible".
+- PP-199: "Continuous Identity Re-Declaration and Defense Exercises the Tension That Sustains Sovereignty — Living Identity Must Be Continuously Re-Declared".
+- PP-217: "Unexercised Sovereignty Boundaries Decay — The Standing Held at an Untraversed Edge Degrades".
+- PP-218: "Some Limits of an Entity Are Constitutionally Protected From Mapping — Exhaustive Mapping Presses Toward the Comprehension Total Control Would Need".
+
+Out-edges missed by the batch 03 record (`system-foundations-implementation-physical.md`). PP-145 is also cited, for content the restated entry does not carry, at:
+- :936 (probes map deformation responses);
+- :983 (probes measure and equalize tension gradients);
+- :990 (equalizing pressures prevents tearing);
+- :1496 (probe telemetry in blueprints);
+- :1619, :1626 and :1630 ("tension-relief capping").
+
+Capping runs against LP-105's release. These go to D23 with the lines already listed. The checker's full IP list for the six entries (39 lines) is the input for D23's first part. PP-218 has no IP line.
+
+Rival parents named by the check, not adopted (each is no clearer than the parent kept):
+- PP-131: PL-200 carries the "hidden" half but not debt.
+- PP-140: PL-140 carries the deposit but not decay.
+- PP-217: LP-244 makes boundary use traversal, which would close the contested/traversed doubt, and LP-249 uses "exercising" but routes the loss through transparency.
+- PP-218: LP-4 protects against unauthorized mapping only.
+
+Corrections and loci for later:
+- This record's line 19 cites `dag-crossing-method.md` line 91 for keeping marked entries. That line covers entries that pass the tests and have an unknown out-edge. Keeping a BARREN entry rests on D20's reading (`D20_LP_CP85_RECROSS.md` line 23), which states that it is that correction's reading and not a rule of the method.
+- The method's template places Derivational State after Applies to (method lines 126-131). D20 and these batches place it after Derives from. One placement is to be chosen and applied to every marked entry in one pass.
+- PP-217 follows PL-84 (standing degrades at an unexercised boundary). PP-7 (batch 02) follows PL-227 (a lapse withdraws exercise, not standing), and PL-248's third corollary says the inherent right remains. The PL layer states both halves, and the two PP entries now follow opposite ones; this goes to the Holder as a known tension in A, not to a batch.
+- LP-243 states an exact common decay rate. A slot re-pointed to it would import a measure (PP-217's candidate column).
+- Other PP entries that count bare declaration as exercise need PP-199's reading (PL-237's third corollary; PL-247; PL-248's first corollary).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
