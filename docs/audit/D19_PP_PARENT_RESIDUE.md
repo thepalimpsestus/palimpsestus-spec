@@ -426,6 +426,53 @@ Loci found, for later passes:
 - The PP header's Method link points to `../processes/dag-crossing-method.md`; the method is at the repository root. Its Entry Count line is stale.
 - PP-112: PL-127 (mapping one's own unknowns is a sovereign act) is a partial carrier for an internal-frontier reading, beside the record's PL-187, PL-144 and PL-183. PP-196: PL-123 (every discovery is a sovereignty event; taking accountability is a discovery event) is a partial carrier. Its claim says recognizing responsibility creates new topological structure (LL-302), against "archaeological" and "pre-existing", as the checker found; it also says unexcavated structures have sovereignty rights before discovery (LL-246). It carries one half of the entry, not the bound, so the slot stays open.
 
+### Batch 06
+
+Seven slots in six entries: PP-301 on both sides, and the PL slot of PP-236, PP-243, PP-255, PP-261 and PP-288. Every one of the six PL slots named PL-299 under the title "Consequence Carries Its Own Thermodynamic Receipt". No PL entry bears that title at this commit. The PL-299 entry is "Constitutional Incompleteness Guarantees No Traversal Is Barren — Every Path Discovers": it states discovery fertility (PC-9, PC-10, LL-361) and says nothing of thermodynamic cost. Both the id and the title were stale. All seven slots are corrected, and all six entries are BARREN. For five of them the LP slot is not crossed in this batch, so their marks are provisional (see below). The batch also makes the PP-26 forward correction that batch 05 asked for.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :--- | :--- | :--- | :---: | :--- |
+| PP-301 | PL-140 (PL-299) | LP-124 (LP-205) | BARREN | LP-205 is a signed attestation that a derivation intersection is unexcavated and says nothing of arbitration. No LP or PL entry searched mentions arbitration between sovereignty claims. PL-140 carries that no interaction with the topology is cost-free. LP-124 carries that a self-proving record embeds the cost of its own derivation, and that a proof without a cost receipt is rejected as a forgery. Two conditions are stated: the arbitration is an interaction with the topology, and its outcome is held as a self-proving record. Under them the constraint holds from LP-124 alone (Test 2), and PL-140 adds the fact of a cost, not a rule. Confidence medium. |
+| PP-236 | PL-140 (PL-299) | LP-160 (kept, not crossed) | BARREN | PL-140 says that generating navigational data by measurement, logging, tracing or monitoring is consequential, and that zero-cost observability is impossible. Read the mapping as tracing of that kind (the entry's condition); then that it is not cost-free holds from PL-140 alone (Test 1). "Incomplete accountability record" is cut: PL-140 states no duty of accounting. Confidence medium. |
+| PP-243 | PL-140 (PL-299) | LP-165 (kept, not crossed) | BARREN | Read the correction as an interaction with the topology (the entry's condition); then that its cost is not zero holds from PL-140 alone (Test 1). The rule that a correction signal must carry its cost has no parent, and corollary (2) says so. Confidence low. |
+| PP-255 | PL-267 (PL-299) | LP-173 (kept, not crossed) | BARREN | PL-267 says a derivation's accountability includes its ongoing metabolic cost, and that an assessment of external consequences alone is incomplete. Read the attractor as a living derivation whose accountability claim is assessed (the entry's condition); then that holds from PL-267 alone (Test 1). PL-12 was read as the rival and is not adopted, because its edge-borne, non-delegatable accountability refuses the attribution the old text made. "Cannot be externalized" and the insurance, leadership and Theater corollaries are cut. Confidence low. |
+| PP-261 | PL-266 (PL-299) | LP-177 (kept, not crossed) | BARREN | PL-266's own claim is that maintenance cost is present-tense and non-deferrable. Its moment-of-interaction sentence is ground (PC-8), recited and not established there, so the carrier is weak. Read the interference cost as a cost of maintaining the derivations it affects (the entry's condition); then non-deferral holds from PL-266 alone (Test 1). "Accounted at the moment of interference" is cut. Confidence low. |
+| PP-288 | PL-266 (PL-299) | LP-196 (kept, not crossed) | BARREN | As PP-261, for the cost of reconciling a divergence read as a maintenance cost. "Deposits … immediately" is cut to what PL-266 says. Confidence low. |
+
+What changed (`system-foundations-physical-physical.md`):
+- PP-301: the Derives line is re-pointed to PL-140 and the Applies line to LP-124. PP-236, 243 and 301 now name PL-140; PP-255 names PL-267; PP-261 and 288 name PL-266. No Applies line other than PP-301's is changed.
+- In all six entries the italic line, Irreducible Claim, Corollaries and Irreducibility are restated, and `**Derivational State:** BARREN` is added after the Derives line (six lines). Each Irreducibility records the stale PL-299 id and title.
+- PP-26, forward correction from batch 05: corollary (2) loses "a metabolically sustainable level" and corollary (3) loses "failure-fuel". Both now state only what LP-17 and PL-59 say, and the Irreducibility records the change.
+- No title is changed. No entry has been removed or renumbered, and nothing on the PL or LP side is changed.
+
+Test 3 for PP-301: PP-340 (batch 04) crosses the same pair, PL-140 × LP-124, with a different subject. The rule both entries share is LP-124's own, so neither entry captures the other, and PP-301 is not SUBSUMED. Both are BARREN.
+
+Provisional marks: for PP-236, 243, 255, 261 and 288 only the PL slot was crossed. Each Irreducibility says the old sentence attributed to its LP parent is not carried (LP-160, 165, 173, 177 and 196 mention no mapper, loop, attractor, cascade or divergence), and that the BARREN mark is to be re-read when the LP slot is crossed. Those five LP slots stay open in the table below.
+
+Amendments made by OPEN PM in review:
+- PP-261 and PP-288, corollary (2): "a budget for the cost of an interference" and "a budget for a divergence" become "a budget for the maintenance that an interference (a divergence) calls for". PL-266's budget sentence speaks of maintenance cost, and these are read in its own sense (brief point 9).
+- PP-26, corollary (2): the Worker's "the state LP-17 calls starved" gave LP-17 a word for failure that it uses only for the absence of drift. It now says that failure states are, with drift, what LP-17 says the process consumes as fuel.
+- PP-26, corollary (3): "is in the starved state LP-17 describes" becomes "supplies none of the failure states LP-17 says the restorative process consumes as fuel", for the same reason. The PL-59 clause now follows PL-59's own corollary wording (maintenance debt accumulating without visibility).
+- PP-301 and PP-288, Irreducibility: two pointers that did not resolve in A ("see section 3", "batch-06, PP-261") now name this record's batch 06.
+
+Errors in the Worker's return, corrected here, not in A:
+- The return said that PP-300 names PL-299 [shared LL-241] and applies to LP-173. At `162a234`, PP-300 names PL-40 [shared LL-120] and applies to LP-205. It is PP-255 that applies to LP-173. PP-300's PL slot is not in the residue. Its LP slot (LP-205) is open and goes to batch 07.
+- The return searched only its own seven slots for the stale PL-299 title. Five more entries name PL-299 under the same title: PP-306, PP-310, PP-342, PP-344 and PP-366. They are in the residue table on both sides and go to batch 07. Four other entries (PP-64, PP-66, PP-99 and PP-144) name PL-299 under its actual title. They are not in the residue and are not read here.
+
+Doubts recorded, not acted on:
+- The `[shared LL-x]` tags on all six entries now name an LL that the new parent does not carry. PL-140 carries LL-127 and LL-314, PL-266 LL-472, PL-267 LL-473 and LP-124 LL-153. This is related item 1.
+- PP-26 corollary (1) ("optimizing toward starvation … a constitutionally dangerous objective") is from batch 02 and is out of this batch's scope. LP-17 states starvation for zero drift, not for zero failure, and no parent says "constitutionally dangerous". It goes to the independent check.
+- PP-243 and PP-255 are low-confidence carriers: PL-140 and PL-267 match only under the stated condition.
+
+Out-edges, not corrected here (for D23):
+- An IP or IC citation of PP-301's arbitration claim has not been searched in this batch. It goes to the independent check.
+
+Open loci found in this batch, for later passes:
+- Titles that no longer match the restated text (for the title pass): PP-301 "Must Carry" (it holds only under the two conditions); PP-236 "Incomplete Accountability Record"; PP-243 "Must Carry Its Own Thermodynamic Receipt" and "Incomplete"; PP-255 "Cost of Attraction" and "Cannot Be Externalized"; PP-261 "Thermodynamic Receipt" and "Accounted at the Moment of Interference"; PP-288 "Deposits … Immediately". "Thermodynamic Receipt" is LP-124's phrase, and PP-243, 261 and 288 do not name LP-124.
+- The stray `LP-445,` id at the head of PP-26's Derives line is left as it is (batch 05 locus).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -506,7 +553,7 @@ Loci found, for later passes:
 | PP-298 | LP | LP-204 | no carrier found (strict reader, high) |
 | PP-299 | LP | LP-204 | no carrier found (strict reader, high) |
 | PP-300 | LP | LP-205 | no carrier found (strict reader, high) |
-| PP-301 | LP | LP-205 | no carrier found (strict reader, high) |
+| PP-301 | LP | LP-205 | no carrier found (strict reader, high); batch 06: re-pointed to LP-124 and restated, BARREN |
 | PP-302 | LP | LP-206 | no carrier found (strict reader, medium) |
 | PP-303 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
 | PP-304 | LP | LP-207 | no carrier found (strict reader, medium) |
@@ -614,14 +661,14 @@ Loci found, for later passes:
 | PP-219 | PL | PL-30 | no carrier found (strict reader, medium) |
 | PP-231 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-233 | PL | PL-305 | no carrier found (strict reader, high) |
-| PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
-| PP-243 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
+| PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open) |
+| PP-243 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open) |
 | PP-246 | PL | PL-174 | no carrier found (every reader); batch 04: read, not corrected (to the title pass) |
 | PP-249 | PL | PL-175 | no carrier found (strict reader, medium) |
-| PP-255 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
+| PP-255 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-267 and restated, BARREN (provisional: LP slot open) |
 | PP-258 | PL | PL-177 | candidate PL-205, low confidence, not adopted |
 | PP-260 | PL | PL-240 | candidate PL-29, low confidence, not adopted |
-| PP-261 | PL | PL-299 | no carrier found (strict reader, medium) |
+| PP-261 | PL | PL-299 | no carrier found (strict reader, medium); batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open) |
 | PP-266 | PL | PL-181 | no carrier found (strict reader, medium) |
 | PP-269 | PL | PL-182 | no carrier found (every reader); batch 01b: restated, BARREN |
 | PP-270 | PL | PL-183 | no carrier found (strict reader, medium); batch 04: read, not corrected (sense conflicts; to the title pass) |
@@ -631,14 +678,14 @@ Loci found, for later passes:
 | PP-282 | PL | PL-228 | no carrier found (every reader) |
 | PP-286 | PL | PL-276 | no carrier found (strict reader, medium) |
 | PP-287 | PL | PL-276 | no carrier found (strict reader, medium) |
-| PP-288 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
+| PP-288 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open) |
 | PP-289 | PL | PL-239 | candidate PL-118, medium confidence, no second reader proposed it; not adopted |
 | PP-292 | PL | PL-276 | no carrier found (strict reader, medium) |
 | PP-293 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-294 | PL | PL-108 | candidate PL-17, low confidence, not adopted |
 | PP-295 | PL | PL-109 | no carrier found (strict reader, medium) |
 | PP-297 | PL | PL-113 | no carrier found (every reader) |
-| PP-301 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
+| PP-301 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN |
 | PP-303 | PL | PL-305 | no carrier found (every reader) |
 | PP-305 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-306 | PL | PL-299 | candidate PL-267, low confidence, not adopted |
