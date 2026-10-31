@@ -1763,6 +1763,34 @@ Loci, not changed here:
 - Kernel citations of these five entries were not checked.
 - The titles of PP-292 and PP-294 are long; for the title pass.
 
+### Batch 23, independent check
+
+A blind checker (Opus; brief sha256 `c99dd61f9403057ae3f873d470ac6f13e1d41b2a59b4302bc5c8f226e16eb2f9`, return `c842b404161810b975e81a74dc6e687e5bbb38a6591fce72caf61550a0ca6480`) used its own copy of A at `e8e5203`. It read each entry, each parent and the entries named below whole, re-ran the searches the entries cite, ran its own concept searches, and wrote its entry judgments before it opened this record. It gave HOLDS for PP-292, PP-293, PP-295 and PP-296 and AMEND for PP-294. It agreed with every class (all five BARREN, PP-294 and PP-295 by the half-by-half reading), with every re-point and NO CARRIER slot, with the removal of all five tags (no current pair shares an LL), with the PP-286 sentence, with the overlap lists, with the 95 PI copies per title (no PI line carries an earlier title), with the BARREN count (109) and with 107 remaining, and found no IP, IC or II line citing the five.
+
+Adopted (checked against the parents at `e8e5203`):
+- **PP-294, the italic.** It said a pre-planned route is invalid "because pre-calculating a path is building a static list". LP-66 grounds the impossibility in consciousness: "the consciousness required to make the decision only exists in the present moment of arrival"; the static list is what the attempt amounts to, not its cause. The Irreducible Claim already had it right. The italic now gives LP-66's ground and then the static list.
+- **PP-292, the "proportional" search.** "found PL-77 only and no LP entry" held only with a word bound: LP-478 ("drops proportionally to the strata of consequences") falls in the same frame. OPEN PM re-ran it and confirmed; the sentence now names LP-478 in the first search and drops it from the wider one. The checker also found that PL-106's hit came from its title word "Proportionality" within 40 characters of "Consequence" in its tier label "Tier 3 (Derived Consequence)", not from its body; the entry's sentence on PL-106 states what PL-106 says and is not changed. The batch 23 review bullet "Searches" above says OPEN PM's re-run did not find PL-106; a search over whole entries does find it, through the tier label, so the two differ in scope and not in what PL-106 states.
+- **PP-293, batch 17.** PP-233 (batch 17) named PL-285 and did not adopt it, because PL-285 states a collapse before an aggregate metric signals alarm only as a corollary of independent metabolic rates, which PP-233 does not name. PP-293 adopts PL-285 without saying so. The reason does not apply there, because PP-293's condition names each gradient as a tension subsystem with its own rate; the Irreducibility now says this.
+- **PP-295, two candidates and one quotation.** LP-158 (Pulse-Stopping as Sovereignty Violation, CP-30 × LL-226) joins sovereignty, tension, oscillation and death, and the oscillat-near-dying search misses it because it says "kills" (OPEN PM re-ran the search: no hit in LP-158). It states an act from outside that resolves the tension, not an oscillator that winds down, so LP-541 stands; it is now named and not adopted. PL-65 (Pulse-Consistent Consistency), one of the two PL entries with "oscillat" (PL-17, PL-65; re-run), mentions no sovereignty; now named and not adopted. The condition sentence gave PL-237's corollary as a precursor to death; PL-237 says "a precursor to tension-resolution and death", and the sentence now quotes it.
+- **PP-296, LP-240.** LP-240 (Obligatory Performance Heartbeat, CP-47 × LL-402) applies LL-402 as PL-92 does and states that the physical pulse is the continuous performance of the obligation to sustain truth. It is about the pulse, and it is the above parent of PP-506; it is now named and not adopted. The mark does not change: the claim restated is PL-92's own.
+
+Not adopted:
+- PP-293's title says "Can Be Invisible" without PL-285's "at high speed" and dominance conditions; the italic states both. Left for the title pass.
+- PP-295 omits LP-541's ground that the tension is "permanent and indestructible" (LL-389), next to PL-237's decay. Not a contradiction: PL-237's decay is into complacency, "a precursor to tension-resolution", not a resolution, and LP-541 itself allows the tension to collapse into Dogma; the entry asserts neither as the other's. No change.
+- The PP header's pair filter: already recorded under the batch 04 check; method point 29 stands.
+
+Kernel and IP/IC citations (2026-10-31): the ARC Lead's note `arc-lead-note-kernel-cites-batch23-entries-e8e5203.md` (sha256 `74bbe708f7a7bbcdb5a3dbd3b83e80806d6d8da987c94094b34a37eff41c7852`) found IP and IC byte-identical across `bd7aa2e` → `e8e5203`, and no cite of PP-286, PP-292 to PP-296, PP-260 or PP-297 in the IP file, the IC file or the kernel `src/` tree at kernel `1195baa`. The kernel's requirements file, certification scripts and tests were not searched.
+
+Line references: the amendments change text within six existing lines and add none; no `PP-n (:m)` reference moves.
+
+Loci, not changed here:
+- Four of the five entries carrying the stale PL-305 title also carry a tag PL-305 does not cite: PP-303 `[shared LL-123]`, PP-314 `[shared LL-133]`, PP-346 `[shared LL-151]`, PP-367 `[shared LL-162]` (PL-305 cites LL-386). For the batches that hold their slots.
+- PP-503's `[shared LL-82]` is not cited by PL-92 (LL-402, LL-403, LL-446), and its italic attributes "not a bridge" to PL-92, which has no "bridge".
+- PP-506's Derives-from line names PP-506 itself, not a PL entry.
+- The PP header's method link reads `../processes/dag-crossing-method.md`; the method file is `dag-crossing-method.md` at the repository root.
+- PL-285's corollary (a subsystem decaying "at high speed" hidden when the aggregate is dominated by "faster-metabolizing" subsystems) does not say which rate it means; a PL-layer question, not D19's. PP-293 inherits it unchanged.
+- The checker counted 223 PP entries whose tag does not match the LLs both parents cite; tags outside the slots stay unchanged (related item 1) unless a batch or check takes the entry.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
