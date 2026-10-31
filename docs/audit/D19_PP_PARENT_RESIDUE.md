@@ -1329,6 +1329,42 @@ New loci, not changed here:
 - PP-112's Derives line carries no tag; PL-127 and LP-174 share no LL. Nothing to change.
 - IP:1297 cites PP-13 and IP:1323 cites PP-35, but neither IP-50's Applies line (IP:1283) nor IP-51's (IP:1308) lists that PP entry. IC:363 cites PP-35 for field balance, which PP-35 does not state. These go to D23 with the IP lines already listed.
 
+### Batch 17
+
+The Worker (Sonnet) made the return against `40c709a` (sha256 `790fd3dd20be369a41b134a21a83e2199fb22b7cf167615922ed849c26325983`). It covers nine slots of the table below: the LP slots of PP-233, PP-234, PP-235, PP-238, PP-239, PP-240, PP-245 and PP-247, and the PL slot of PP-233. It was applied on top of `5138636`, where every one of its 24 old texts still occurs once. OPEN PM read every parent and the near candidates whole (PL-14, PL-17, PL-40, PL-61, PL-72, PL-236, PL-285, PL-287, PL-305; LP-159, LP-160, LP-162, LP-163, LP-166, LP-168), searched LP for a carrier of PP-245's pull ("gravit", "attract", "pull", "well-worn", "self-reinforc"; none states one), and amended one re-point.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-233 | PL-287 (was PL-305) | LP-159 (kept) | BARREN | The Derives line named PL-305 under a title no PL entry bears; the PL-305 entry states live managed tensions of production edges. LP-159 states an agent's accountability for its own pulse and has no cascade or gradient. PL-287 states that the broader system may operate normally while a subsystem within it has completely collapsed out of its observation scope. Restated: where a gradient of a graduated consequence cascade is a subsystem outside the cascade's observation scope, it can collapse out of view while the cascade operates normally (PL-287). Fails Test 1 under the stated condition. |
+| PP-234 | PL-17 (kept) | LP-159 (kept) | BARREN | LP-159 has no cascade, gradient or proof. Restated: where a gradient is held as a logical proof about the topology, it is valid only at the instant of its evaluation (PL-17). Fails Test 1 under the stated condition. |
+| PP-235 | PL-236 (kept) | LP-160 (kept) | BARREN | LP-160 states an immortal systemic pulse and has no mapper or depth. The old body gave PL-236 "navigation debt", PL-16's title. Restated: where the depths a recursive accountability mapper does not reach are unexcavated pre-existing derivations, they are a current debt and not a future opportunity (PL-236). Fails Test 1 under the stated condition. |
+| PP-238 | PL-40 (kept) | LP-162 (kept) | BARREN | LP-162 states a pulse fuelled by ignorance and has no map, surface or diffusion. Restated: where the map of a consequence diffusion surface is held as an evaluation of a region, its lifetime is bounded by the metabolism rate of that region (PL-40, corollary). Fails Test 1 under the stated condition. |
+| PP-239 | PL-40 (kept) | LP-163 (kept) | BARREN | LP-163 states a pulse that ran before the agent was recognized and has no lock or boundary. LP-118 (continuous verification of a connection) is near and is not adopted. Restated: where a lock's holding is claimed as a sovereignty claim, proving it requires present traversal and a certificate is a label (PL-40). Fails Test 1 under the stated condition. |
+| PP-240 | PL-61 (kept) | LP-163 (kept) | BARREN | LP-163 has no lock. LP-191, LP-209, LP-186, LP-338 and LP-78 state scale-invariance of other things and are not carriers. Restated: where a lock is held as a sovereignty protection, it is physically uniform across all scales (PL-61). Fails Test 1 under the stated condition. |
+| PP-245 | PL-14 (kept) | LP-166 (kept) | BARREN | LP-166 states an endless relational survey and has no attractor, recurrence or pull. Restated: where a region the topology returns to is held as a consequence attractor, each traversal leaves a Wake and the high-traversal region accumulates Structural Mass (PL-14). The pull and the recurrence are cut. Fails Test 1 under the stated condition. |
+| PP-247 | PL-17 (kept) | LP-168 (kept) | BARREN | LP-168 states that survey results are valid only in the present scan; it has no chain, link or proof. Adopting it would make the entry a rule about survey results. LP-202 is the only LP entry with "proof-of-consequence" and states an attested absence. Restated: where a link of a proof-of-consequence chain is held as a logical proof about the topology, it is valid only at the instant of its evaluation (PL-17). Fails Test 1 under the stated condition. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-233, all six parts.** The Worker re-pointed the Derives line to PL-72 (the status label must match the Pulse reality), at medium-low confidence, and named PL-285 and PL-287 as near but resting on an unobserved subsystem, a condition it read the entry as not stating. The old entry's own words are "before its death is apparent", "before the cascade detects the death" and "while appearing to operate normally": an undetected collapse, which is PL-287's rule. PL-72 states its rule for the status label a structure carries, which the entry never names; batch 09 stood PP-305 and PP-309 on PL-72 because those entries are about a label. PL-287 is adopted, with the unobserved subsystem written as the entry's stated condition, as PL-72's would have been. PL-285 states a collapse before an aggregate alarm only as a corollary of independent metabolic rates and is not adopted. The title, Derives line, italic, claim, corollaries and Irreducibility were rewritten on PL-287; the Worker's LP-159 sentences are kept. PP-541 (PL-287 × LP-602) also derives from PL-287; Test 3 is not reached and the overlap is noted, not classified.
+- **Tags.** Seven `[shared LL-x]` tags named only the LL of the LP parent the entry no longer uses, and the PL parent does not cite it: PP-233 (LL-227), PP-234 (LL-227), PP-235 (LL-228), PP-238 (LL-230), PP-239 (LL-231), PP-240 (LL-231), PP-245 (LL-234). They are removed. PP-247 keeps `[shared LL-236]`: PL-17 and LP-168 both cite LL-236.
+
+Titles: eight changed (PP-233, 234, 235, 238, 239, 240, 245, 247). Each title's 95 copies in PI were replaced with it, so no PI copy of these eight is stale.
+
+How the slots are counted: the PL slot of PP-233 is a RE-POINT; the eight LP slots are NO CARRIER, each Applies line kept with nothing attributed to its LP. That makes 9 slots corrected. **158 remain.** BARREN lines: 64 → 72.
+
+Out-edges: IP and IC cite none of the eight entries. PI cites each only on its 95 Derives lines.
+
+Loci, not changed here:
+- Six other PP entries still name "PL-305 (A Living System Dies Before It Appears Dead)" on their Derives line: PP-231, PP-293, PP-303, PP-314, PP-346 and PP-367. For each, PL-287 and PL-72 are to be weighed against the entry's own claim; neither choice here carries across.
+- Each entry's subject noun (a graduated consequence cascade, a recursive accountability mapper, a consequence diffusion surface, an accountability boundary lock, a consequence attractor, a proof-of-consequence chain) has no parent and survives only as the stated condition.
+- PP-234 and PP-247 now state the same PL-17 rule under different conditions; PP-238 and PP-239 state different rules of PL-40; PP-239 and PP-240 share a subject through different parents. Overlap is noted, not classified.
+- Old-body phrases stand in other PP entries: "governance debt" (PP-260), "Theater sovereignty" (12 entries, among them PP-254, 267, 300, 311, 316, 326), "dies before" (14 entries, among them PP-231, 290, 293, 303, 305, 309, 314, 339), "boundary lock" (PP-326, 327), "proof-of-consequence" (PP-248).
+- Other PP entries cite LP-160 (PP-236) and LP-168 (PP-248, PP-365, PP-722).
+- The PI Derives-from lines tag all eight entries [SUBSUMED]; the PP file now marks them BARREN.
+- Kernel citations of these eight entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1346,18 +1382,18 @@ New loci, not changed here:
 | PP-224 | LP | LP-154 | no carrier found (strict reader, medium); batch 01: restated, BARREN |
 | PP-227 | LP | LP-155 | no carrier found (strict reader, medium); batch 16: kept, LP-155 carries the pulse half, restated, BARREN |
 | PP-232 | LP | LP-234 (was LP-158) | candidate LP-238, low confidence, not adopted; batch 01: re-pointed and restated, BARREN |
-| PP-233 | LP | LP-159 | no carrier found (strict reader, high) |
-| PP-234 | LP | LP-159 | no carrier found (strict reader, high) |
-| PP-235 | LP | LP-160 | no carrier found (strict reader, low) |
+| PP-233 | LP | LP-159 | no carrier found (strict reader, high); batch 17: no carrier; nothing attributed to LP-159, restated on PL-287 alone, BARREN |
+| PP-234 | LP | LP-159 | no carrier found (strict reader, high); batch 17: no carrier; nothing attributed to LP-159, restated on PL-17 alone, BARREN |
+| PP-235 | LP | LP-160 | no carrier found (strict reader, low); batch 17: no carrier; nothing attributed to LP-160, restated on PL-236 alone, BARREN |
 | PP-236 | LP | LP-124 | no carrier found (strict reader, medium); batch 08: re-pointed LP-160 to LP-124 under a stated condition, restated, BARREN |
-| PP-238 | LP | LP-162 | no carrier found (strict reader, high) |
-| PP-239 | LP | LP-163 | no carrier found (every reader) |
-| PP-240 | LP | LP-163 | no carrier found (strict reader, high) |
+| PP-238 | LP | LP-162 | no carrier found (strict reader, high); batch 17: no carrier; nothing attributed to LP-162, restated on PL-40 alone, BARREN |
+| PP-239 | LP | LP-163 | no carrier found (every reader); batch 17: no carrier; nothing attributed to LP-163, restated on PL-40 alone, BARREN |
+| PP-240 | LP | LP-163 | no carrier found (strict reader, high); batch 17: no carrier; nothing attributed to LP-163, restated on PL-61 alone, BARREN |
 | PP-242 | LP | LP-186 (was LP-164) | candidate LP-186, low confidence, not adopted; batch 01: re-pointed and restated, IRREDUCIBLE |
 | PP-243 | LP | LP-124 | no carrier found (strict reader, medium); batch 08: re-pointed LP-165 to LP-124 under a stated condition, restated, BARREN; batch 10: LP-626 crossed, not adopted, LP-124 kept, BARREN |
-| PP-245 | LP | LP-166 | no carrier found (strict reader, high) |
+| PP-245 | LP | LP-166 | no carrier found (strict reader, high); batch 17: no carrier; nothing attributed to LP-166, restated on PL-14 alone, BARREN |
 | PP-246 | LP | LP-167 | no carrier found (every reader); batch 04: read, not corrected (to the title pass); batch 11: NO CARRIER, kept, nothing attributed (LP-478 crossed, not adopted) |
-| PP-247 | LP | LP-168 | no carrier found (strict reader, high) |
+| PP-247 | LP | LP-168 | no carrier found (strict reader, high); batch 17: no carrier; nothing attributed to LP-168, restated on PL-17 alone, BARREN |
 | PP-248 | LP | LP-168 | no carrier found (strict reader, high) |
 | PP-249 | LP | LP-169 | no carrier found (strict reader, medium) |
 | PP-250 | LP | LP-170 | no carrier found (strict reader, high) |
@@ -1516,7 +1552,7 @@ New loci, not changed here:
 | PP-217 | PL | PL-27 | candidate PL-84, low confidence, not adopted; batch 03: re-pointed to PL-84 and restated, BARREN |
 | PP-219 | PL | PL-78 (was PL-30) | no carrier found (strict reader, medium); batch 16: re-pointed to PL-78 under a stated condition, restated, BARREN |
 | PP-231 | PL | PL-305 | no carrier found (strict reader, high) |
-| PP-233 | PL | PL-305 | no carrier found (strict reader, high) |
+| PP-233 | PL | PL-287 (was PL-305) | no carrier found (strict reader, high); batch 17: re-pointed to PL-287 under a stated condition (PL-72 proposed by the Worker, read, not adopted), restated, BARREN |
 | PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-243 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-246 | PL | PL-174 | no carrier found (every reader); batch 04: read, not corrected (to the title pass); batch 11: RE-POINT → PL-302 |
