@@ -2385,6 +2385,31 @@ Loci (not acted on):
 - PL-189 (Co-Evolving Constraints) and PL-303 (the identity chain as foundational paradox) were read by title and italic only; whether a PP entry derives from either was not checked.
 - PP-451's Derives line names PL-188 with `[shared LL-208]`; PL-188 applies LL-203. For the tag sweep.
 
+### Batch 33, independent check
+
+A blind checker (Opus; brief sha256 `ccfc80c9b9d56d80787ba9ab3bb78052fbeb93d1a419c06e5505f8a076ee0cba`, return `a2c8623647104b7898554c744613d950207b13071cc5fb4c06eb10313b67d374`) used its own copy of A at `27b034c`. It read each entry and each parent whole, checked every quotation in the four entries against its source, ran its own concept searches of the LP file for each slot, and wrote its entry judgments before it opened this record. It found all four BARREN and AMEND: PP-695's re-point to LP-112 and the three NO CARRIER slots right, the tags right (`[shared LL-203]` on PP-698, none on the other three; none of LL-109, LL-133, LL-140, LL-58, LL-410, LL-384 or LL-413 derives from another LL), the 10 `PP-n (:m` references in the four right, the 95 PI copies of each title exact, no other PP entry and no IP, IC or II line naming the four. It reported no CLEAN-ROOM EXPOSURE.
+
+Adopted (each checked by me against the parents at `27b034c`):
+- **All four, a stale sentence.** Each Irreducibility ended "The earlier title is not supported by the restated text and is left for the title pass." Batch 33 restated all four titles, so the sentence was false. It now says the earlier title was not supported and that batch 33 restated it to what the italic statement carries. (The same sentence in PP-341, PP-343 and PP-365 stays: those titles are not yet restated.)
+- **PP-695, LP-310.** The claim kept LP-112's own clause "while the global engine is perpetual (LP-310)". LP-310 (Sovereign Composite Pulse) states that a composite entity's shared pulse grants it sovereignty and says nothing of a perpetual engine, and the clause does no work in the entry. It is removed.
+- **PP-695, corollary (1).** "Where a set of open questions is held as a team's gaps, it is such a set" had no antecedent: PL-185's corollary speaks of a team with no open questions. It now reads "Where a team's open questions are held as its gaps, a team that has closed them all is such a team."
+- **PP-695, LP-112's condition** (the checker's optional note, adopted in the body only). The body said traversing the gap "is a combustion event"; LP-112 says the oscillation over the gap is the non-renewable combustion event and that once the gap is traversed and the truth revealed the coordinate can never power the engine again. The body now says so in LP-112's terms. The title and italic keep "traversing it exhausts that coordinate": in LP-112 the traversal is what reveals the gap, and its italic and corollaries treat the crossing as the event, so the short form is LP-112's condition and not a widening.
+- **PP-720, corollaries (1) to (3).** The closing conditions widened PL-211's: "shared with collaborators" for PL-211's "the right collaborators", "what a customer does not know" for "what customers don't know they need", and "a statement of" for proposals that "clearly articulate" what is not known (the third the checker's optional note). All three now carry PL-211's condition.
+- **PP-723, the condition** (the checker's note, low confidence; adopted). "Where a field's foundational paradox is held as a problem to be resolved" put an attitude PL-204 does not condition on into the held-as clause, and wrote as given the part that brings a case under PL-204 (that the paradox is a field's foundational one). The condition now reads "Where a paradox is held as a field's foundational paradox", in the title, the italic, the body and Test 1, as the other three entries' conditions bring their case under the parent's subject; the 95 PI copies follow.
+
+Kept: **PP-695's re-point** to LP-112, at medium confidence, as the checker found it. The checker added that PL-185 (LL-109, LL-133) × LP-112 (LL-140) share no LL and would fail the PP header's filter (PP:10), which PL-185 × LP-551 passed; the method's Zero Pre-Filtering Mandate (§3) governs, so the filter does not decide the slot (the filter itself is an open locus). **PP-698**, whose substance the checker found holds. **PP-723 corollary (3)**, which the checker found carried by PL-204 as amended.
+
+Not adopted, from the checker's out-of-scope notes:
+- PP-718's Derives line names "LP-112 × PL-217" with LP-112 on its Applies-to line too. That is the two-parent form every entry not yet re-crossed carries (PP-695's own earlier line was "LP-551 × PL-185"); it is not a defect of its own.
+
+Line references: the amendments change text within 11 existing PP lines and add none; one title changes, in PP and its 95 PI copies; every `PP-n (:m` reference in the PP file is unchanged (recomputed: none off). BARREN lines 162. The PP file stays 14226 lines.
+
+Loci, not changed here:
+- LP-112 (LP:2112) cites LP-310 for "the global engine is perpetual"; LP-310 does not say it, and LP-110 (LP:2075, the absence-powered oscillation as a perpetual motion machine) is the entry that does. An LP-file correction, outside this pass. PP-718 repeats the clause without the pointer.
+- The PP header's "Entry Count: 724 (Batch 1 …; Batch 2 …; Batch 3 pending)" (PP:14) is stale.
+- PI marks the four, and other BARREN PP entries such as PP-281, " [SUBSUMED]" on its Derives lines; whether that is PI's own classification of its parent or a stale state was not checked.
+- Already open and unchanged: the PP:10 header filter, PP-451's `[shared LL-208]`, and PP-132 and PP-698 on one pair.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
