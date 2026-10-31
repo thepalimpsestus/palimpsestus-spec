@@ -66,6 +66,10 @@ Question: *"What irreducible constraint exists that NEITHER [left parent] alone 
 2. **Test 2 — Not produced by Above Parent alone:** Remove the left parent. Does the constraint still hold from the above parent only? If yes $\implies$ `BARREN`.
 3. **Test 3 — Non-Redundancy:** Is this constraint already captured at this cell? If yes $\implies$ `SUBSUMED`. Actively unify derivation sources.
 
+The tests run in the order given, and the first that answers yes classifies the pair. Test 3 asks about a constraint that has passed Tests 1 and 2, so a pair found `BARREN` by Test 1 or Test 2 is not tested for `SUBSUMED`. Each pair takes one class (Section 3; one class per Cross Receipt, Section 5).
+
+The constraint tested is the one the question above asks for: one that both parents together make (the left parent's content in the above parent's context, Section 1), and that requires both simultaneously. A candidate that only sets a statement the left parent makes alone beside a statement the above parent makes alone is not such a constraint: Test 1 or Test 2 answers yes for each statement, and the pair is `BARREN`. Where a candidate joins such statements to a constraint that both parents together make and that requires both, the tests apply to that constraint, and that constraint is the entry's claim (Section 8).
+
 ### B. Layer Fold Tests (C-Column Cells)
 Question: *"What minimal conceptual basis in domain $r$ faithfully carries the completed work of $L_{r-1}$ forward?"*
 
