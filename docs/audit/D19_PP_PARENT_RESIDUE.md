@@ -1956,6 +1956,28 @@ Loci, not changed here:
 - The Tier line of each of the six still reads "Tier 3 (Derived Consequence)"; for the tier pass. PI's [SUBSUMED] tags on these BARREN entries, as before.
 - Kernel citations of these six entries were not checked.
 
+### Batch 26, independent check
+
+A blind checker (Opus; brief sha256 `c798c6bba43438a5cab2d521b8c8e449e2fb00a390d44c1a0ebec41c74ec2d50`, return `3ced706e9358b9d8a8d5f9cbc820dcc2b60434f9849354c022b457d136a78df1`) used its own copy of A at `2974d72`. It read each entry, each parent and the entries named below whole, re-ran the searches the entries cite, ran its own, and wrote its entry judgments before it opened this record or `DEFECT_LEDGER.md`. It found PP-314, PP-315, PP-317 and PP-346 HOLD (PP-315 high, PP-317 medium-high, PP-314 and PP-346 medium) and PP-316 and PP-318 AMEND in wording only, with the BARREN mark and the kept parent standing (medium-high). It found no IP, IC or II line naming the six, the 95 PI copies of each title exact, and no tag that belongs.
+
+Adopted (checked against the parents at `2974d72`):
+- **PP-316 and PP-318, the cut lists.** Each Irreducibility listed its subject ("consequence-chain anchor", "consequence-propagation attractor") as cut, while the italic, the title and the condition still use it. The term is kept as the subject of a condition that is not asserted; what is cut is the term as an entity that exists and has anchoring power (PP-316) or a pull (PP-318). Both lists now say so.
+- **PP-316 and PP-318, "Neither parent mentions them".** Each entry has one named parent (PL-40); the Applies-to line is the bare "LP (Logical Physical)" and names no entry. Both sentences now read "PL-40 does not mention them, and the Applies-to line names no LP entry".
+- **PP-221, the header numbers.** Its Irreducibility lists the headers of the entries that derive from PL-17 as bare `:m` numbers; six had moved with earlier batches and were not reached by the `PP-n (:m` reference check. They now read :680, :1903, :3502, :4759, :4966, :5028, :11080, :11520 and :11580 (each a heading line at this commit); the LP-152 Applies lines it cites (:4479 and :4500) were already right. Every bare `:m` number in the PP file was then listed: the others are 18 PL or LP line numbers with the file named (each the heading of the entry it follows, at this commit) and PP-34's heading (:700), all right.
+
+Recorded, not changed in the entries:
+- **PP-346's confidence.** The batch 26 section keeps the PL-114 re-point at low-medium, with NO CARRIER as the stated alternative; the checker holds it at medium. The verdict is the same; the record keeps low-medium.
+
+Line references: the amendments change text within five existing lines and add none; every `PP-n (:m` reference equals the entry's heading + 5 (recomputed: none off). BARREN lines 126. The PP file stays 14162 lines.
+
+Loci, not changed here:
+- PP-315 and PP-317 keep LP parents that name an entry and share no LL with their PL parent, where the PP header (line 10) says only pairs sharing an LL ancestor are eligible. That filter conflicts with the method's zero pre-filtering mandate (`dag-crossing-method.md`, lines 52 to 54); the question is the method's, not this batch's, and it stays open with the PP-312 one.
+- The two forms of an LP slot kept as NO CARRIER: a named entry with nothing attributed to it (PP-315, PP-317), and the bare cell line (PP-314, PP-316, PP-318, PP-346).
+- The PP header's own counts are stale: line 14 gives an entry count of 724 and a batch 3 still pending, lines 841, 1538 and 2851 say "pending", and lines 6 and 16 describe LP as 706 entries where 702 are headed. For a header pass.
+- PL-40's third corollary cites PL-40 itself (PL line 1761).
+- PP-343 and PP-367 still have titles about detecting constitutional death; PP-290 records that PP-190, PP-339, PP-349, PP-358 and PP-362 still assert death detection. For the batches that reach them (PP-367 is in the next PL-305 slots).
+- LP-251 against PL-19, as in the batch 26 section; PI's [SUBSUMED] tags on BARREN entries, as before.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
