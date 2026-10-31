@@ -1855,6 +1855,43 @@ Loci, not changed here:
 - PI tags the six entries [SUBSUMED] on their Derives lines, and PP-301's PI copies carry no label; PP marks the six BARREN. For whoever owns PI.
 - The stale PL-305 title on PP-231, PP-314, PP-346 and PP-367 (already a locus of batches 23 and 24).
 
+### Batch 25
+
+The Worker (Sonnet) made the return against `eff9a70` (sha256 `6a339a2c4ad7960fe3060f36d06df3c47cb3141c0241385adb0eacdf820f57ae`). It covers eight slots of the table below: the LP slots of PP-307, PP-311, PP-312, PP-313 and PP-337, and the PL slots of PP-307, PP-313 and PP-337 (PP-311 and PP-312 have no PL slot in the table; their PL parents PL-40 and PL-61 were read whole and the entries restated with them). It was applied on top of `f5be130`, where every one of its 30 old texts still occurs once (`f5be130` changed PP only within PP-297 to PP-304 and on line 9, and added no lines). OPEN PM read every parent and every candidate carrier whole (PL-40, PL-61, PL-108, PL-118, PL-174; LP-23, LP-66, LP-209, LP-211, LP-212, LP-225), checked the Worker's quotations against the text, re-ran its searches and ran one more, rejected one re-point, and amended the tags and two other entries' notes.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-307 | PL-174 (kept, NO CARRIER) | LP-209 (kept, NO CARRIER) | BARREN | Neither parent states an accountability gradient or an accountability map: PL-174 states that excavation conceals what is not selected and disturbs what surrounds it, LP-209 that one verification proves accountability at every level. The entry now records that the claim is not established; the two statements stand side by side, each from one parent alone. |
+| PP-337 | PL-174 (kept, NO CARRIER) | LP-225 (kept, NO CARRIER) | BARREN | As PP-307, with LP-225 (an agent stepping into a void generates the edge it traverses) in place of LP-209. LP-225's two mentions of "map" deny a pre-existing map. |
+| PP-311 | PL-40 (kept, restated) | LP-211 (kept, NO CARRIER) | BARREN | LP-211 states asynchronous paradox resolution and has no sovereignty, enforcement or boundary. Restated: where the enforcement of a sovereignty boundary is held as a sovereignty claim backed by documentation, PL-40's rule applies: proving it requires present traversal, and the documentation is a label. Fails Test 1. |
+| PP-312 | PL-61 (kept, restated) | bare "LP (Logical Physical)" (kept, NO CARRIER) | BARREN | The Applies line names no entry. Restated: where the enforcement of a sovereignty boundary is held as a sovereignty protection, PL-61 says it is physically uniform across all scales, the enforcement mechanics identical at every depth. Fails Test 1. The form of PP-240 (batch 17). |
+| PP-313 | PL-118 (was PL-108) | LP-66 (was LP-212) | BARREN | PL-108 states a gradual half-life and no path or plan; LP-212 a pulse materializing consequences and no navigator. PL-118 states that a structural change invalidates prior evaluations of the region at once, which is the earlier "as soon as the topology shifts"; LP-66 that a valid pre-planned route cannot be constructed and routing must re-evaluate at every junction. Each half holds from one parent alone; a conjunction. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-312, the LP re-point rejected.** The Worker proposed re-pointing the bare Applies line to LP-23 (Scale-Invariant Gate Control) at medium-low, with a second condition, "where it is held as a gate", and a second half from LP-23. LP-23 has 0 mentions of enforcement. The entry's whole claim, the same enforcement at every depth, is already PL-61's ("the enforcement mechanics identical at every depth"), so LP-23 would add a statement about gates that the entry never made, under a condition that would be the re-crossing's own step and not the entry's. The rows file had no carrier for this slot. The slot is NO CARRIER, the bare line is kept, and the entry is restated to PL-61 alone, as PP-240 (PL-61 × LP-163) was in batch 17. OPEN PM wrote the italic, Irreducible Claim, Corollaries, Irreducibility and title; the Irreducibility reports LP-23 as read and not adopted, with the Worker's search over the scale-invariant LP entries.
+- **Tags.** The Worker left every tag and listed them as loci. A tag stays only when both current parents cite the LL. All five are removed, and each Irreducibility now says so: PP-307 `[shared LL-127]` (PL-174 cites PC-11, LL-348 and LL-349; LP-209 CP-37 and LL-66), PP-337 `[shared LL-146]` (LP-225 cites CP-44 and LL-359), PP-311 and PP-312 `[shared LL-132]` (cited by neither PL-40, LP-211 nor PL-61), PP-313 `[shared LL-133]` (cited by neither PL-118 nor LP-66, nor by PL-108 or LP-212).
+- **PP-289 and PP-294 notes.** PP-289's Irreducibility said that PL-118 × LP-66 is not crossed by another entry and listed LP-66's children as PP-95 and PP-250 (already short of PP-294 since batch 23). It now names PP-313 as the other entry on the pair and lists the children as they stand. PP-294's note listed PP-313 among PL-108's children; it now says PP-313 moved to PL-118 in this batch and adds PP-313 to LP-66's children.
+- **Line references.** The batch adds 15 lines to the PP file, all before PP-357. `PP-492 (:9623)` in PP-260's Irreducibility now reads `(:9638)` and `PP-357 (:7177, …)` in PP-262's reads `(:7192, …)`. Every `PP-n (:m` reference in the PP file equals the entry's heading + 5.
+
+Searches re-run by OPEN PM, each giving the Worker's list: the accountability-gradient phrases ("accountability gradient", "accountability map", "navigation gradient", "accountability field", "high-gradient", "greater accountability", "accountability concentration", "responsibility map", "accountability gradient field": none in PL or LP); "gradient", "map", "accountab", "region" and "field" counted in PL-174, LP-209 and LP-225; "sovereign", "enforce", "boundar", "layer" and "travers" in LP-211 (0 each); "enforce" in LP-23 (0); "enforcement layer" (none), "navigation plan", "decision tree", "pre-stored" and "GPS" (none), "pre-planned" (LP-62, LP-66), "expired proof" (PL-17), "theater sovereignty" (PL-20); LL-127, LL-146, LL-132 and LL-133 in each current and former parent (0 each). One more: "sovereignty boundary" in PL gives PL-52, PL-118 and PL-281; PL-52 says an interface needing translation reveals an unhandled sovereign boundary and PL-281 that identity records track the boundary of individual sovereignty, and PL-118 names a boundary shift as a structural change; none states the enforcement of a boundary, so none is a carrier for PP-311 or PP-312.
+
+Verified, not changed: no spec file other than PP and PI names the five entries; PI names each only on its 95 Derives lines. In PP, PP-271's note names PP-307 among LP-209's children and the notes of PP-254, PP-267, PP-283 and PP-291 name PP-311 among PL-40's; those parents are kept, so the notes stay true.
+
+Titles: five changed (PP-307, 311, 312, 313, 337). Each title's 95 copies in PI were replaced with it (475 copies).
+
+How the slots are counted: the LP and PL slots of PP-313 are RE-POINTs; the LP and PL slots of PP-307 and PP-337 and the LP slots of PP-311 and PP-312 are NO CARRIER, each line kept with nothing attributed to it; PP-311 and PP-312 are restated to their kept PL parents. That makes 8 slots corrected. **91 remain.** BARREN lines: 115 → 120.
+
+Out-edges: PL-108 loses PP-313 (its others PP-294, PP-331, PP-361, PP-647, PP-649); LP-212 loses it (PP-270 remains); PL-118 gains it (with PP-289, PP-365, PP-425); LP-66 gains it (with PP-95, PP-250, PP-289, PP-294).
+
+Loci, not changed here:
+- PP-313 and PP-289 now stand on one pair (PL-118 × LP-66) and state the same two halves under two conditions (a navigation plan; a computed flow path). Both are BARREN and neither is SUBSUMED; whether one pair wants two entries is for the title pass.
+- PP-307 and PP-337 are near-duplicates on PL-174, each now recording that its claim is not established. PL-174's other children PP-471 and PP-669, and LP-209's PP-256, PP-271 and PP-335, were not read for this batch.
+- The record's earlier sections still say what was true when written: line 1044 (PP-307 and PP-337 "for a later batch"), line 1256 (PP-307's earlier wording) and line 1755 (PP-313 among PL-108's children). They are kept as written; this section supersedes them.
+- The Tier line of each of the five still reads "Tier 3 (Derived Consequence)"; for the tier pass.
+- Kernel citations of these five entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
