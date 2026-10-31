@@ -1832,6 +1832,29 @@ Loci, not changed here:
 - LP-247 (Provenance-Fuelled Boundary) is named on no PP Derives or Applies line.
 - Kernel citations of these six entries were not checked.
 
+### Batch 24, independent check
+
+A blind checker (Opus; brief sha256 `167767f5e4f401e61862916c1670100528b00d7b6917e650108ddf448ad93f3e`, return `8a1a1a50bb9bcaad55b3b444bd5950271157cb9860ef7bc3cd199cdb35b3dd13`) used its own copy of A at `eff9a70`. It read each entry, each parent and the entries named below whole, re-ran the searches the entries cite, ran its own concept searches, and wrote its entry judgments before it opened this record. It gave HOLDS for PP-297, PP-298 and PP-302 and AMEND for PP-299, PP-303 and PP-304. It agreed with every class (all six BARREN), with every re-point and NO CARRIER slot, with the removal of all six tags, with the three PP notes that name the six (PP-253, PP-262, PP-265), with the 13 line references, with the 95 PI copies per title (no PI line carries an earlier title), with the BARREN count (115) and with 99 remaining, and found no IP, IC or II line citing the six.
+
+Adopted (checked against the parents at `eff9a70`):
+- **PP-299, "mapped".** The Irreducibility says "unmapped link" was the entry's own word with no parent behind it, but the body and corollaries (1) and (3) still said "mapped" and "unmapped". PL-29 says "discovered" and "surfaced" ("Map" is only in the title of LL-474 on its Applies-to line). The body and corollary (1) now say "discovered"; corollary (3) says "Discovering such links" and quotes PL-29's "an accounting event that surfaces a pre-existing obligation" in place of the audit sentence ("audit" is not PL-29's word).
+- **PP-303, corollary (1).** It moved from "its contents are not being traversed" to "it is not being traversed", which holds only if receiving messages is not traversal, and the same corollary said that was not asserted. PL-72 speaks of "a structure" that is not being traversed and says nothing of a queue or its contents. The corollary is now a "Not asserted" sentence.
+- **PP-303, the tag reason.** The sentence compared the new and old PL parents. It now also names the former LP parent LP-206 (LL-149) and says the Applies-to line names no LP entry, so no LL is shared. The removal is unchanged.
+- **PP-304, corollaries (2) and (3).** "Lineage" is not PL-18's word; PL-18 says "The Structural Mass of prior sovereign acts is present in the entity — but as weight, not as credential", and (2) now says that. (3) equated "inherited" with "carried forward", which PL-18 lists as alternatives ("inherited, delegated, or carried forward"); it now gives PL-18's sentence directly.
+- **PP-297, the "sovereignty tension" search.** The exact phrase misses LP-678 (Productive Tension Sovereignty Engagement Protocol), which says "sovereign tension". OPEN PM re-ran "sovereign(ty)? tension": PL unchanged (PL-122, PL-126, PL-150, PL-276, PL-322); LP adds LP-678 and LP-580 to LP-563 and LP-581. LP-580's hit is the "## CL-44: Sovereign Tension — LP Derivations" heading that follows it, not its text. LP-678 was read whole: a tensioned edge not exercised by both endpoints lapses, an engagement-or-lapse rule that names no negotiation. The CL-44 entries (LP-581 to LP-588) were searched for "negotiat": none. The Irreducibility now names LP-678 and CL-44. The outcome is unchanged.
+
+Recorded, not changed in the entries:
+- **The batch 24 table's test words.** For PP-297 it says "Fails Test 1"; the entry reads it half by half (PL-113's half at Test 1, LP-203's at Test 2), and the checker agrees with the entry. For PP-298 the table puts "(PL-24)" after the condition "a proof held as a self-proving record"; the condition is the entry's own and not asserted, and PL-24 carries only its own half (every logical claim costs energy to establish, embed and maintain). The receipt half is LP-124's, at Test 2, as the entry says. The class is the same either way. The table stays as written; this note is the correction.
+- **PP-299, corollary (2)** applies PL-29's "real thermodynamic budget" to one chain's cost. Under the stated condition the links are undiscovered structures, so their cost is part of the invisible portion. Kept.
+
+Header link: the PP header (line 9) and the IP header (line 10) linked `../processes/dag-crossing-method.md`; both now link `dag-crossing-method.md` at the repository root (loci of batches 04, 13, 20, 23 and 24).
+
+Line references: the amendments change text within eight existing lines and add none; no `PP-n (:m)` reference moves (recomputed: none off).
+
+Loci, not changed here:
+- PI tags the six entries [SUBSUMED] on their Derives lines, and PP-301's PI copies carry no label; PP marks the six BARREN. For whoever owns PI.
+- The stale PL-305 title on PP-231, PP-314, PP-346 and PP-367 (already a locus of batches 23 and 24).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.

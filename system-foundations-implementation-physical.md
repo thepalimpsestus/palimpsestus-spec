@@ -7,7 +7,7 @@
 **Feeds:** II (Implementation Implementation — Self-Enforcement & Terminal Closure)  
 **Derivation Formula:** IP = IL × PP (Exhaustive qualitative derivation)  
 **Entry Count:** 64 Atomic Execution Processes (IP-1 through IP-64)  
-**Method:** [DAG Crossing Method](../processes/dag-crossing-method.md)
+**Method:** [DAG Crossing Method](dag-crossing-method.md)
 
 This document produces the Execution Processes (`entityType: "execution-process"`) of Palimpsestus OS. IP = IL × PP: when a Logical Role (IL) is enacted on a substrate whose constitutional physics (PP) are simultaneously true, the crossing forces into existence the concrete processes that role performs. These are not constraints on the role, nor descriptions of the substrate — they are the operational procedures the role carries out, derived from and defined by the collision of the role's logical obligations with the substrate's physical behavior. The processes are substrate-independent in formulation: they belong to the role, and the role performs them wherever those substrate physics hold.
 
