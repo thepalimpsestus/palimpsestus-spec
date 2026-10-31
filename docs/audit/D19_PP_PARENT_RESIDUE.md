@@ -1231,6 +1231,32 @@ Loci, not changed here:
 - Kernel citations of these seven entries were not checked.
 - PP-111 (LP-80 × PL-1) attributes to LP-80 that the edge of the map is located inside every node. LP-80 does not state it; this is the same misreading that PP-112 carried.
 
+### Batch 15, independent check
+
+A blind checker (Opus; brief sha256 `793dc80f…`, return `ff0d85b8b0a4b0a5dbf321b2cec4a3f500acda4b374667b41c1334f448e4bff3`) used its own copy of A at `40c709a`. It read each entry, each parent, each replaced parent and each entry the text names whole, and wrote its entry judgments and out-edge search before it opened this record. It gave HOLDS for PP-305 and PP-309 and AMEND for PP-112, PP-136, PP-256, PP-257 and PP-308. It agreed with every BARREN mark and with every NO CARRIER slot. OPEN PM read each cited line again at `40a6a4b`.
+
+Adopted:
+- **PP-112, title.** The first clause stated without condition that mapping the unknown inside its own interior is a node's sovereign act; PL-127 states the sovereign act of a structure that maintains its own map of what it does not know, and says nothing of a node's interior. The title now puts LP-174's condition first and PL-127's two halves after it in PL-127's terms. Corollary (1) said "A component or team"; PL-127's corollary speaks of a team, and it now says "A team" and cites PL-127's case. LP-181 (Cataloging the Shadows), which the checker found and this record did not read, is now named in the Irreducibility as near and not adopted: it catalogs untested graph positions as a map of negative space, and does not place the map inside a node or speak of sovereignty.
+- **PP-136, Irreducibility.** The record said that PL-198 "states no edge". PL-198 says that the frontier is the field knowing its own edge through the act of crossing, and that the frontier collapses back to where active traversal is occurring. The sentence now says that PL-198 speaks of the field's own edge only as its frontier, and states no probe-made edge, no dissolution when a probe finds nothing and no permanent connection. Corollary (1) now keeps LP-98's "in the database".
+- **PP-256, tag.** `[shared LL-242]` followed the old Applies-to parent, LP-174. LL-66 is named directly by both parents, on PL-1's Applies-to line and on LP-209's Derives-from line, and the tag is now `[shared LL-66]`. Batch 11 dropped tags that matched no shared parent; here a shared parent exists, so the tag is corrected, not dropped.
+- **PP-257, title.** The title put the condition first and PL-145's rule after it. It now follows the italic's order: PL-145's rule, then the condition under which LP-174's every-scale clause applies.
+- **PP-308, title and italic.** The title called "whether an edge still carries internal tension" the structural diagnostic and said "a tensioned edge is a door". PL-82 calls the door/wall distinction the diagnostic, and its door is an edge that enables traversal while carrying productive tension. Title and italic now use PL-82's words.
+- **PP-309, Irreducibility.** The text said that LP-438's flag "names no label". LP-438 says the probe flags a dead edge for garbage collection or revitalization. The sentence now says so, and that LP-438 states no rule that the mark must match the Pulse reality.
+- **PP-305, Irreducibility.** LP-654 (State Verification Freshness Enforcement), which says stale verification results must be labeled historical, is now named as near and not adopted: it speaks of verification results, not of the live or deprecated status of a structure.
+
+Not adopted:
+- **PP-136, "the Irreducibility does not name which test fails".** It does: it says the entry "fails Test 2 (the above parent alone)". No change.
+- **PP-309, "unused" in the italic.** The checker noted that "unused" is not PL-72's word. The italic lists it among the labels a pruner may take as its reason; it is a label in the condition, not a claim attributed to PL-72. No change.
+
+Titles: three changed (PP-112, 257, 308). Each title's 95 copies in PI were replaced with it, so no PI copy of these three is stale. No slot count changes: 167 remain.
+
+New loci, not changed here:
+- The `[shared LL-n]` tags of PP-257 (LL-242), PP-305 and PP-306 (LL-126), and PP-308 and PP-309 (LL-131) match no LL that both parents name directly.
+- The PP file header links `../processes/dag-crossing-method.md`; the method file is at the spec root.
+- PP-307 says "topological accountability gradient", which LP-209 does not state.
+- IP:78 and IP:237 cite PP-136 on their Applies-to lines with no claim attached. IP:87, IP:244 (PP-136) and IC:382 (PP-112) are already listed for D23.
+- LP-80's claim is a generic template ("a unique physical-logical structure emerges … bounded conduit") and carries almost nothing specific. That is the LP file's own matter.
+
 ### Batch 16
 
 The Worker (Sonnet) made the return against `83de0c9` (sha256 `c03061b10311025507bd07aa4ad55c321332b169557c4cfa506fdf55eaa48ee2`). It covers seven slots of the table below: the LP slots of PP-216, PP-220, PP-221, PP-223 and PP-227, and the PL slots of PP-216 and PP-219. It also covers two PL lines outside the table, which batch 12 named as loci: PP-13 and PP-35, whose bodies used PL-40's matter. It was applied on top of `40c709a`, where every one of its 48 old texts still occurs once. OPEN PM read every parent and every named candidate whole (PL-17, PL-18, PL-20, PL-21, PL-22, PL-25, PL-26, PL-30, PL-40, PL-45, PL-78, PL-127, PL-132, PL-219, PL-253, PL-324; LP-1, LP-7, LP-21, LP-151, LP-152, LP-153, LP-155, LP-245, LP-479, LP-581, LP-599, LP-620, LP-662) and amended two re-points.
