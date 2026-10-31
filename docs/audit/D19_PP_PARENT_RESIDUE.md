@@ -2063,6 +2063,32 @@ Loci, not changed here:
 - The Tier line of each of the five still reads "Tier 3 (Derived Consequence)"; for the tier pass. PI's [SUBSUMED] tags on these BARREN entries, as before.
 - Kernel citations of these five entries were not checked.
 
+### Batch 27, independent check
+
+A blind checker (Opus; brief sha256 `054d7e4edc1c5b56ea0aec6bca089182b6a7156015deb74176937483e2029633`, return `bdc503a66e8817a675047ee8f65c9e47a4172d913c22497f27a989b87a9c6114`) used its own copy of A at `9540121`. It read each entry, each parent and the entries named below whole, re-ran the searches the entries cite, ran its own, and wrote its entry judgments before it opened this record or `DEFECT_LEDGER.md`. It found PP-326 and PP-328 HOLD (high) and PP-323 and PP-329 HOLD (medium); PP-319 and PP-324 AMEND (medium); and PP-327 UNRESOLVED (medium), with no PL and no LP parent and a CL entry on its Derives-from line. It found no IP, IC or II line naming the seven, the 95 PI copies of each title exact, and no tag that belongs: none of the seven current pairs shares an LL.
+
+Adopted (checked against the parents at `6f978c8`):
+- **PP-319, corollary (3).** It equated a calibration "set once" with a title "granted once"; PL-248 speaks of a title that is granted, not of a parameter that is set, and neither parent takes the step. The corollary is removed, the step is added to the not-asserted list (now corollary 3) and to the Irreducibility's cut list.
+- **PP-324, "embeds".** LP-124's claim is that the self-proving record "must permanently embed" its cost, and its own corollary rejects a proof without a cost receipt as a forgery, which PP-324's corollary (1) quotes; the title, the italic and the second body paragraph stated the requirement as met. All three now read "must permanently embed", and the 95 PI copies of the title change with it.
+- **PP-324, the tests by halves.** The Irreducibility applied Test 1 to the PL-24 half and Test 2 to the LP-124 half without saying so. It now states, as PP-365 does, that the method's tests are written for a single constraint and are applied here to each half, which the method text does not state.
+- **PP-323, the search counts.** It said "self-certif", "cannot prove its own" and "own completeness" occur in LP-650 alone; "self-certif" occurs in 0 LP entries. It now says so, notes that in PL all three occur in PL-27 itself and "cannot prove its own" also in PL-12 (of legitimacy), and names PL-18 for "proof of sovereignty" (inherited claims are evidence and not current proof of sovereignty; no engine, no completeness; not adopted).
+- **PP-327, "a class entry".** CL-1 is a conceptual-logical entry. The entry now says so; the batch 27 section above (its loci) and the slot table row used the same wrong word, and the row is annotated.
+
+Decided on the UNRESOLVED (PP-327): the entry keeps CL-1 on its Derives-from line and BARREN. The checker is right that the method's tests remove one of two parents and have no pair to run on here, so BARREN is a fallback and not a test result, and that a CL entry is not admitted by the PP header (PP = LP × PL). The entry now says both. The line is not changed in this batch: the checker counts 53 PP entries whose Derives-from line names no PL entry (1 CL, 2 LC, 33 LP, 1 PC, 16 PP), and one decision covers them, not a form invented for one entry (the bare "PL (Physical Logical)" is used 0 times).
+
+Recorded, not changed in the entries:
+- **PP-34 at PP-220's Irreducibility ("PP-34 (PL-25 × LP-20, :700)").** The checker reads it by the `PP-n (:m` standard as off by 5. It is not of that form (the line number follows the pair), and the batch 26 independent check listed it with the bare numbers that name a heading, which :700 is. Kept.
+- **The header filter.** None of the seven pairs shares an LL ancestor; LL-sharing LP candidates exist (LP-120 for PP-323, LP-484 for PP-324, LP-171 and LP-179 for PP-329), and the checker read each whole and found that none carries its entry's claim. The filter question stays with the PP-312 locus.
+- **Wording of the batch 27 table.** It says "fails Test 1/2" where the entries say the test "holds" (the claim holds from one parent alone); both mean BARREN.
+
+Line references: the amendments change text within eight existing lines and add none; every `PP-n (:m` reference equals the entry's heading + 5 (recomputed: none off), and the nine headers at PP line 4510 are the headings they name. BARREN lines 138. The PP file stays 14188 lines.
+
+Loci, not changed here:
+- PP-298's title carries the same "Embeds" for LP-124's "must permanently embed"; PP-365's title is not restated though its body is; PP-325 still attributes to PL-248 a present-tense, not-a-policy statement, and PP-320 to LP-383 a calibrated consequence attenuator, which batch 27 found those parents do not carry. For the batch that reaches them.
+- The 53 PP entries whose Derives-from line names no PL entry (PP-327, PP-722's "LP-168 × PL-209" among them), and PP-1's tag `[shared LL-2]` on PL-42, which cites only LL-14.
+- PP-250's note names only PP-95 as a child of LP-66; PP-289, PP-294 and PP-313 also apply it.
+- The PP header's LP count (706 against 702 headed), as in the batch 26 check.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2285,7 +2311,7 @@ Loci, not changed here:
 | PP-310 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-26 and restated, BARREN |
 | PP-313 | PL | PL-118 (was PL-108) | candidate PL-118, medium confidence, no second reader proposed it; not adopted; batch 25: re-pointed to PL-118 and restated, BARREN |
 | PP-314 | PL | PL-69 (was PL-305) | candidate PL-114, medium confidence, no second reader proposed it; not adopted; batch 26: re-pointed to PL-69 under a stated condition, restated, BARREN |
-| PP-327 | PL | CL-1 (a class entry) | no carrier found (strict reader, medium); batch 27: no carrier; CL-1 kept as named, entry restated to what CL-1 states and the searches, BARREN |
+| PP-327 | PL | CL-1 (a class entry) | no carrier found (strict reader, medium); batch 27: no carrier; CL-1 kept as named, entry restated to what CL-1 states and the searches, BARREN; batch 27 check: CL-1 is a conceptual-logical entry, not a class entry; UNRESOLVED by the tests, kept for the non-PL Derives decision |
 | PP-331 | PL | PL-107 (was PL-108) | candidate PL-17, low confidence, not adopted; batch 28: re-pointed to PL-107 under a stated condition (the Worker's PL-108 restatement not adopted), restated, BARREN |
 | PP-337 | PL | PL-174 | no carrier found (strict reader, medium); batch 25: no carrier; nothing attributed to PL-174 or LP-225, BARREN |
 | PP-340 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 04: re-pointed to PL-140 and restated, BARREN |
