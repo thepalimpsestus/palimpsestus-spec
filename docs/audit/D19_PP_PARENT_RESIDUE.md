@@ -1692,6 +1692,35 @@ Loci, not changed here:
 - The PI Derives-from lines tag all six entries [SUBSUMED]; the PP file now marks them BARREN.
 - Kernel citations of these six entries were not checked.
 
+### Batch 22, independent check
+
+A blind checker (Opus; brief sha256 `26736677d3efd372eb7cb523d1b7449af847011b5f362d4e053132b84814c3cf`, return `0256decc4a0e2e2a8c4a1f4ce504fd0720b56068bb854c5de410b59a4aa2c772`) used its own copy of A at `88784a7`. It read each entry, each parent and the entries named below whole, re-ran every search the entries cite (each reproduced), ran its own concept searches, and wrote its entry judgments before it opened this record. It gave HOLDS for PP-286, PP-287 and PP-289 and AMEND for PP-285, PP-290 and PP-291. It agreed with every class (all six BARREN, by the same tests), with every re-point, with every NO CARRIER slot, with the removal of all six tags (no current pair shares an LL), with the 95 PI copies per title (all `[SUBSUMED]`; no PI line carries an earlier title), with the PP-284 sentence against the current titles, with the BARREN count (104), and found no IP, IC or II line citing the six.
+
+Adopted (checked against the parents at `88784a7`):
+- **PP-285, Irreducibility.** It said the titles of PP-138, PP-141, PP-263 and PP-329 "also carry "Self-Multiplying"". PP-141's title carries "Self-Multiplies". The batch 22 review fixed the same words in PP-284 and missed them here. It now reads "Self-Multiplying" or "Self-Multiplies".
+- **PP-284, overlap note.** "(PP-268's and PP-285's titles carried it until the batch 20 check and batch 22 replaced them)" paired two events with two titles without saying which went with which. It now reads "(PP-268's title carried it until the batch 20 check, and PP-285's until batch 22)".
+- **PP-290, the carrier above.** "No LP entry states a detection duty" was wider than the search behind it, which covered only the death phrases. OPEN PM re-ran the checker's searches over LP: "must be detect" or "must detect" finds LP-590, LP-591, LP-607, LP-655 and LP-698, and "stall", "stopped" or "halt" within 80 characters of "detect" or "warn" finds LP-501 and LP-647. LP-590 requires that a subsumed entity's loss of independent liveness be detectable, LP-647 that a depletion warning arrive before the oscillation engine stalls, LP-655 that a change be detected by the change event itself, and LP-698 that a deferred debt be detected. None states a duty to detect that a flow or a paradox engine has already stopped, so the conclusion (nothing attributed above) stands; the sentence now names the searches and the entries. Claim paragraph 2's "these apply to the flow" now reads "the rules of PL-114 stated above apply to the flow".
+- **PP-291, PL-18 and PP-45.** PL-18 (The Past Is Evidence, Not State — Sovereignty Cannot Be Inherited) applies to LL-6, as LP-27 does, and states that sovereignty cannot be carried forward as a credential from a prior state. PL-18 × LP-27 is PP-45, which states on the same above parent that cached permissions and inherited access rights are invalid and names role-based access control in its corollary 2: the closest existing statement of PP-291's stored-access reading and of its cut RBAC corollary. The Irreducibility now names PL-18 as the alternative left carrier, not adopted because PL-40 states the first half in its own words, and PP-45 as the closest overlap, noted and not classified. PL-4, the other PL entry applying LL-6, is named with its claim.
+- **PP-289, alternatives.** The checker rated this a gap and not an error. Adopted because the review practice names the near candidates read: PL-17 (Logical Proofs About the Topology Expire) is near the first half and not adopted, since PL-118 states the first half as written; LP-340 (Trajectory-Triggered Invalidation, CP-66 × LL-462), which shares LL-462 with PL-118, mentions no route, junction or pre-planning.
+- **Tags outside the slots** (as PP-281's in the batch 21 check). PP-288's Derives line carried `[shared LL-274]`, the LL of LP-196, its above parent before batch 08; PL-266 applies to LL-472 and LP-616 is CP-85 × LL-472, so the tag now reads `[shared LL-472]`. PP-257's `[shared LL-242]` is LP-174's LL (CP-32 × LL-242); PL-145 applies to LL-239 and LL-247, so the tag is removed.
+- **DEFECT_LEDGER.md, the D19 row.** It ended at batches 20 and 21 with "125 remain" and did not name batch 22 or the checks of batches 19, 20 and 21. It now names them and reads "116 remain". (Batch 21 was applied before batch 20, and the row keeps that order.)
+
+Verified, not changed: the D20 record marks LP-616 BARREN (`docs/audit/D20_LP_CP85_RECROSS.md`, its table), as PP-287 states; the checker could not open that file under its brief. Line references were recomputed after the edit; none moved (the edits add no lines).
+
+Not adopted:
+- The PP header's pair filter (PP :10): already recorded under the batch 04 check; method point 29 stands.
+- PP-290's condition "on Which an Optimizer Operates": idle but stated as a condition and not asserted; left for the title pass with the title.
+
+Clean-room: the checker reported that a harness notice named the path of another task's output in this session's own scratch folder. It did not read or use it. The path is inside OPEN PM's own root; no closed-side path or content was involved.
+
+Loci, not changed here:
+- PP-343's title ("Must Detect Constitutional Death Before Attempting Repair") contradicts its own restated body; for the title pass.
+- LP-110 (the engine cannot stall) and LP-647 (a warning before the engine stalls) sit uneasily in LP; an LP-layer question, not D19's.
+- The PP header's "Entry Count: 724 (… Batch 3 pending)" wording is stale.
+- PP-190, PP-339, PP-349, PP-358 and PP-362 (PL-114), PP-345 (stale PL-239 title) and PP-347 (PL-40 × LP-231) are already loci of batch 22.
+
+Note on batch 22 (2026-10-31T03:07:41Z): the ARC Lead searched the kernel for the six batch-22 entries, and PP-284, PP-288 and PP-260 as a check (note `arc-lead-note-kernel-cites-batch22-entries-88784a7.md`, sha256 `c6e0508bf163af7b0e99b5e6390bde0f568872c6e4529d1851bd2af02fc7a52a`): none is cited in the IP, IC or kernel source files at kernel `1195baa`. IP and IC are byte-identical across `0f854bd` → `88784a7`. The kernel rows file, certification and tests were not searched.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
