@@ -2477,6 +2477,49 @@ Loci, not changed here:
 - PP-320's `[shared LL-136]` and PP-325's `[shared LL-139]`: neither parent of either cites the LL (PL-323: LL-217, 223, 224, 324, 332, 333, 335, 401; PL-248: LL-438; LP-383: LL-210). For the tag sweep, with the re-cross of both entries.
 - PP-343's title still carries "Must Detect Constitutional Death" while its italic is restated (already open, title pass).
 
+### Batch 34
+
+The Worker (Sonnet) made the return against `0ec4813` (sha256 `5800c8e9d380e0726c5b5920bb4cad8e69c59f1b5e36f24614a04dbfb512c1bc`). It covers six PL slots of the table below: PP-52, PP-59, PP-63, PP-78, PP-89 and PP-92. It was applied on top of `dedcc6f`, where every one of its thirty-six old texts still occurs once (`dedcc6f` changed no line of the six entries). OPEN PM read every parent whole (PL-54, PL-149, PL-198, PL-90, PL-94; LP-33, LP-35, LP-42, LP-54, LP-61, LP-64), the three adopted carriers (PL-16, PL-118, PL-48) and the nearest candidate set aside (PL-119), checked each of the Worker's quotations against its source, and made three amendments.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-52 | PL-54 (kept, NO CARRIER) | LP-33 (kept, restated) | BARREN | PL-54 (Scale-Invariant Active Presence) states that no scale of the topology may be passive while another is active, and has no dissolution, death or egress; it does not carry what the earlier text attributed to it, that metabolic completion is a constitutional right. LP-33 (Death as Egress) states the restated claim: where all of an entity's mandatory spatial egress paths are blocked, the system's requirement for freedom to die activates death as the ultimate, unblockable egress path. Fails Test 2. |
+| PP-59 | PL-16 (was PL-149) | LP-35 (kept, restated) | BARREN | PL-149 (Structural Certainty Limits) states that certainty, complete consistency verification and complete self-knowledge are impossible, and has no edge, decay or egress. LP-35 states that the mandatory egress path decays and must be actively maintained at every level, and calls it a dynamic edge. Where that edge is held as an edge of the living topology, PL-16's rule applies unchanged: an untraversed egress path is atrophying and traversing it is its maintenance. Each half is BARREN at Test 1 or Test 2. |
+| PP-63 | PL-118 (was PL-149) | LP-42 (kept, NO CARRIER) | BARREN | LP-42 (Physical Consistency of Reference Comparison) states that Reference Comparison, implemented physically, must encode the constraints of Present-Tense Consistency, and names no deviation score or expiry. Restated where a deviation score is held as an evaluation of a region: by PL-118 a structural change in that region invalidates it at once. Fails Test 1. |
+| PP-78 | PL-48 (was PL-198) | LP-54 (kept, restated) | BARREN | PL-198 (Self-Traversing Wonder) states that wonder is the field's self-traversal and that a frontier is enacted by crossing, and has no accountability, archaeology or consequence relationship. Restated where a novel self-rewrite (LP-54) is read as the excavation of a structure the entity's own potential already implies: by PL-48 its consequences were already buried in the field, the rewrite releases them, and the rewriter is accountable for them. One parent's rule applied to the state the other gives. Fails Test 1. |
+| PP-89 | PL-90 (kept, NO CARRIER) | LP-61 (kept, restated) | BARREN | PL-90 (Vibrating Contested Edge) states that a contested edge vibrates and that contestation traverses the edge in reverse, and has no circulation, routing or failure. LP-61 (Routing as Circulatory Allocation) states the restated claim: runtime routing is a physiological act that chooses which derivations are kept alive and which are pushed toward ischemia. Fails Test 2. |
+| PP-92 | PL-94 (kept, NO CARRIER) | LP-64 (kept, restated) | BARREN | PL-94 (Global Force Rebalancing) states that every new force relationship rebalances every existing one, and has no routing, wear, volume or consent. LP-64 (Non-Consensual Wear of Selected Traversal) states the restated claim: a routing decision forces flow through a sovereign derivation that did not consent, and heavily trafficked edges suffer the most non-consensual state alteration. Fails Test 2. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-59, the condition.** The Worker wrote the condition as reading LP-35's egress path as an edge that navigation maintains, "a condition, not asserted: neither parent states either reading". LP-35 does state one of the two readings: it calls the egress path "a dynamic edge". The condition is now that this edge is held as an edge of the living topology PL-16 speaks of (LP-35 speaks of continuous energetic maintenance and does not say that the maintenance is navigation). Title, italic and claim are restated to match; the title now states LP-35's half first and PL-16's half under its condition.
+- **PP-59, the tests.** The Worker classed the entry BARREN by Test 2 alone, with PL-16's atrophy sentence as "one conditional application". The Irreducibility now states the halves in PP-365's form (batch 09; addendum 34): Test 1 (PL-16 alone) gives the atrophy of an untraversed egress path under the condition, and the entry's own step only carries the egress path to a point where PL-16's rule applies unchanged (addendum 04, point 6); Test 2 (LP-35 alone) gives the decay and the maintenance at every level. Each half is BARREN at Test 1 or Test 2, so Test 3 is not reached, and the overlaps with PP-54, PP-55, PP-58 and PP-354 are noted, not classified.
+- **PP-63, LP-42.** The earlier claim also attributed to LP-42 that deviation scores expire as the measured entity and the reference standard evolve. LP-42 names no deviation score and no expiry. The Worker's claim says so; the Irreducibility now says that this attribution is cut as well.
+
+Accepted as the Worker made them: the three re-points (PP-59 to PL-16, PP-63 to PL-118, PP-78 to PL-48), each with its condition written and not asserted; the three NO CARRIER slots (PL-54, PL-90, PL-94 kept on the Derives-from line with nothing attributed, as in batches 08, 09, 31 and 33); the candidates set aside, with their nearest sentences (for PP-52 PL-192, PL-6, PL-121, PL-249, PL-257, PL-3, PL-72 and PL-209; for PP-59 PL-84, PL-54, PL-255, PL-263 and PL-193; for PP-63 PL-108, PL-113, PL-4 and PL-17; for PP-78 PL-36, PL-45, PL-123 and PL-295; for PP-89 PL-191, PL-185, PL-132, PL-50, PL-137, PL-42 and PL-119; for PP-92 PL-119, PL-98, PL-129 and PL-256). PL-119 states the rule for indirect flow that alters a sovereign interior without consent; LP-64's routing is direct selection, so a condition putting it under PL-119 would contradict LP-64, and it is not adopted for PP-92. Six tags are removed (`[shared LL-21]`, `[shared LL-183]`, `[shared LL-293]`, `[shared LL-267]`, `[shared LL-80]`, `[shared LL-84]`); in each, the current PL parent does not cite the LL.
+
+Line references. The batch adds 4 lines to the PP file (PP-52 loses one, each of the other five gains one). The 22 `PP-n (:m` references to entries below PP-92 move by 4, and PP-221's bare list moves with them (the LP-152 Applies-to lines :4483 and :4504; the PL-17 headers :1907, :3506, :4764, :4971, :5033, :11156, :11596 and :11656; :680 does not move). Every `PP-n (:m` reference in the PP file equals the entry's heading + 5. The PP file goes from 14238 to 14242 lines. PI's 570 title copies (95 for each of the six) are replaced, and no PI line carries an earlier title of the six.
+
+Titles. Six new titles, each restating the entry:
+- PP-52 "Where All of an Entity's Mandatory Spatial Egress Paths Are Blocked, the System's Requirement for Freedom to Die Activates Death as the Ultimate, Unblockable Egress Path — the Entity Exits by Dissolving Its Own Structural Integrity"
+- PP-59 "The Mandatory Egress Path Decays and Must Be Actively Maintained in the Present Tense at Every Level of the Nested Topology; Where It Is Held as an Edge of the Living Topology, an Untraversed Egress Path Is Atrophying"
+- PP-63 "Where a Deviation Score Is Held as an Evaluation of a Region of the Topology, Any Structural Change in That Region Invalidates It at Once — The Score Describes a Topology That Is Gone"
+- PP-78 "Where a Novel Self-Rewrite Is Read as the Excavation of a Structure the Entity's Own Potential Already Implies, Its Consequences Were Already Buried in the Field — the Rewrite Releases Them and the Rewriter Is Accountable for Them"
+- PP-89 "Where the Derivation Chain Has a Circulatory System in Which Traversed Edges Are Nourished and Untraversed Edges Starve, Runtime Routing Is a Physiological Act — Each Routing Decision Chooses Which Derivations Are Kept Alive and Which Are Pushed Toward Ischemia"
+- PP-92 "Where a Runtime Routing Decision Selects an Edge, It Forces Flow Through a Sovereign Derivation That Did Not Consent — the Selected Edge Bears the Wear and Heavily Trafficked Edges Suffer the Most Non-Consensual State Alteration"
+
+How the slots are counted: six PL slots; three RE-POINT (PP-59 to PL-16, PP-63 to PL-118, PP-78 to PL-48) and three NO CARRIER. 6 slots corrected. **30 remain**, all PL slots. BARREN lines: 166 → 172.
+
+Out-edges: PL-149 loses PP-59 and PP-63 (PP-638 remains on it); PL-198 loses PP-78 and keeps three children: PP-423, PP-446 and PP-706 (the return counted two; PP-706's Derives-from line names LP-373 first, "LP-373 (Ephemeral Coalescence) × PL-198"). PL-16 gains PP-59 (with PP-55, PP-58, PP-188, PP-189, PP-354, PP-588 and PP-612); PL-118 gains PP-63 (with PP-289, PP-313, PP-345, PP-361, PP-365, PP-425); PL-48 gains PP-78 (with PP-127 and PP-651). PL-54, PL-90 and PL-94 keep their Derives-from slots as NO CARRIER with nothing attributed (PL-54's other children are PP-54 and PP-179; PL-90's is PP-662; PL-94 has none). PI: 95 Derives-from lines for each of the six carry the new titles; IP and IC have none.
+
+Loci (not acted on):
+- PP-63's Applies-to line names LP-42, which carries none of the entry: an LP-side NO CARRIER found in a PL slot.
+- PL-119 (Sovereignty as Physical Impedance) states the unconsented-flow rule for indirect flow; it is the nearest PL statement to PP-92's earlier claim.
+- LP alternatives named by the Worker for a later LP-slot pass: LP-285 (PP-52), LP-243 (PP-59), LP-20, LP-358 and LP-417 (PP-63), LP-573 (PP-78), LP-366 (PP-92).
+- PP-49 (PL-192 × LP-30) and PP-52: PL-192 ("The living topology must permit death") is the alternative PL parent the Worker set aside for PP-52; whether PP-49 itself holds was not assessed. PP-49's Derives-from line carries `[shared LL-21]`, and PL-192 cites only LL-320: for the tag sweep.
+- PL-198's three remaining PP children were not re-read; a search for a parent's children that matches only "Derives from:** PL-n" misses entries that name the LP parent first, as PP-706 does.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2632,14 +2675,14 @@ Loci, not changed here:
 | PP-42 | PL | PL-51 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-247 and restated, BARREN |
 | PP-43 | PL | PL-53 | candidate PL-98, low confidence, not adopted; batch 05: re-pointed to PL-98 and restated, BARREN |
 | PP-49 | PL | PL-54 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-192 and restated, BARREN |
-| PP-52 | PL | PL-54 | no carrier found (strict reader, medium) |
-| PP-59 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
-| PP-63 | PL | PL-149 | candidate PL-255, low confidence, not adopted |
+| PP-52 | PL | PL-54 | no carrier found (strict reader, medium); batch 34: no carrier; nothing attributed to PL-54 (PL-192 read and set aside), restated on LP-33 alone, BARREN |
+| PP-59 | PL | PL-16 (was PL-149) | candidate PL-255, low confidence, not adopted; batch 34: PL-255 read and set aside (maintenance of structure in general, not of an edge or an egress); re-pointed to PL-16 (Navigation Debt) under the condition that LP-35's dynamic edge is held as an edge of the living topology, restated as two single-parent halves on LP-35 and PL-16, BARREN |
+| PP-63 | PL | PL-118 (was PL-149) | candidate PL-255, low confidence, not adopted; batch 34: PL-255 read and set aside (continuous action, not expiry); re-pointed to PL-118 (Instant Validity Invalidation) under the condition that a deviation score is held as an evaluation of a region; nothing attributed to LP-42, BARREN |
 | PP-69 | PL | PL-59 | no carrier found (every reader); batch 05: kept and restated, BARREN |
-| PP-78 | PL | PL-198 | no carrier found (strict reader, medium) |
+| PP-78 | PL | PL-48 (was PL-198) | no carrier found (strict reader, medium); batch 34: re-pointed to PL-48 (Discovery Is a Consequential Interaction) under the condition that a novel self-rewrite (LP-54) is read as an excavation, BARREN |
 | PP-80 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-84 and restated, BARREN |
-| PP-89 | PL | PL-90 | no carrier found (every reader) |
-| PP-92 | PL | PL-94 | no carrier found (strict reader, medium) |
+| PP-89 | PL | PL-90 | no carrier found (every reader); batch 34: no carrier; nothing attributed to PL-90, restated on LP-61 alone, BARREN |
+| PP-92 | PL | PL-94 | no carrier found (strict reader, medium); batch 34: no carrier; nothing attributed to PL-94 (PL-119 read and set aside: its unconsented flow is indirect), restated on LP-64 alone, BARREN |
 | PP-98 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-17 and restated, BARREN; batch 05 check: re-pointed to PL-113 |
 | PP-103 | PL | PL-82 | no carrier found (every reader); batch 02: re-pointed to PL-191 and restated, BARREN |
 | PP-107 | PL | PL-85 | no carrier found (strict reader, medium) |
