@@ -2888,6 +2888,80 @@ Recorded as loci, not acted on here:
 
 Line references: the amendments change text within eight existing PP lines and add none; no title changes; every `PP-n (:m` reference in the PP file is unchanged (recomputed: 23, none off), and PP-221's bare list is unchanged. The PP file stays 14306 lines. No children list changes, and no out-edge moves. BARREN lines 202. **0 remain**, and all 39 batches are now independently checked.
 
+### Batches 01, 01b and 02, independent check
+
+**Correction to the batch 39 check section.** That section ends "all 39 batches are now independently checked". This was wrong. No independent check of batches 01, 01b and 02 had been run. Batch 02 also states that "All eight are corrected". Its Derives lines were corrected, but its entry texts still held statements and tags that no parent carries, as the check below found. The earlier text stays as written, and this section corrects it.
+
+Two blind checkers ran, both Opus. Each used a plain copy of A at `eff5445`. Each read each entry and each named parent whole and ran its own searches. Each wrote its entry judgments before it opened this record.
+- **Batches 01 and 01b** (PP-113, 224, 232, 242, 275, 281, 263, 269): brief sha256 `80d8d290c0fcf430249b706f8f64e52796beea56e4cfb122b613d6ec3b6abb8b`, return `5567ac0d9ee057e8c77a868c7ab63792217d2ba54666135c767a4848beeee1f7`.
+- **Batch 02** (PP-1, 7, 16, 26, 42, 49, 103, 721): brief sha256 `e5c0409c5345c48b029b981c8dbed2c251e97222ef8c6bb1955673a0bf8164b4`, return `48d420daebf45be428d3cdea0013c8871d674e3f65bf03a5b42bfd85f0e0c37d`.
+
+All four files are retained read-only in OPEN PM's `evidence/d19-chk0102/`. During the first check a harness notice named two background-agent output files in OPEN PM's own session folder; they were not opened. The second check had no exposure.
+
+Both checkers found AMEND for every entry. No entry holds as written. In each of the sixteen they found text that neither parent carries: a title, an italic line, claim sentences or corollaries. Fourteen `[shared LL-x]` tags, in thirteen entries, are false, because the PL parent applies no LL that the LP parent derives from. Every judgment below I checked against the files at `eff5445` before applying it.
+
+Adopted, batches 01 and 01b (applied as `da14b12`):
+- **Tags removed:** PP-113 (LL-69), PP-224, PP-232 (LL-226), PP-242, PP-275 and PP-269. PP-263's LL-247 and PP-281's LL-203 hold.
+- **Restated to the parents' words.** The title, italic line and corollaries were restated in PP-113, 224, 232, 242, 275, 263 and 269. For PP-281, the corollaries only: its corollary 1 treated routing metrics as edge scores, against CP-28:597, and corollaries 2 and 3 ("organizational influence weights", "constitutionally expired") had no carrier. PP-224's "load" and PP-232's threshold-triggered response and pre-stored policy are gone. So is PP-263's "self-multiplying", a measure no parent states. So is the converse in PP-269's title, "where no verb is executed, no edge is made". PP-275's absolute "cannot be archived" is gone: LP-483's archiving and pruning corollaries contradict it. PP-224 keeps PL-19's "archived, it is history". PP-275 drops "Wake", which is PL-14's term and is carried by neither parent.
+- **PP-242 marked BARREN by Test 1.** PL-40 alone gives present traversal for sovereignty proof: it names no scale and says there are no permanent trusted states. LP-186 adds the cascade and says nothing about proof. Batch 01 had classed the entry IRREDUCIBLE but wrote no state line. It now has `**Derivational State:** BARREN`, and its Irreducibility names the conjunction. BARREN lines go from 202 to 203.
+- **Knock-ons:** PP-221's list, PP-267, 284, 285, 347 and 355, where they restated or named the earlier texts.
+- **The 250-slots table is corrected here, not in place.** Both PP-269 rows (LP-184 and PL-182) say "no carrier found (every reader)". The checker found, and I confirmed, that LP-184 and PL-182 each carry the part of the entry they are cited for, and batch 01b kept both parents. The two rows should read "carried in part by each parent; batch 01b: restated, BARREN".
+
+Adopted, batch 02 (applied as `cd32b12`):
+- **Tags removed:** both [shared LL-2] tags of PP-1, and the tags of PP-7 (LL-2), PP-16 (LL-52), PP-26 (LL-31), PP-42 (LL-3), PP-49 (LL-21) and PP-103 (LL-61). PP-721's LL-154 holds.
+- **PP-1.** The title spoke of every physical structure, where the parents speak of a boundary and a gate. The title, italic line, claim and corollaries were restated. No parent says that evaluation and contestation are one physical event, so that statement is gone. My refinement: the checker proposed marking the LP-24 × PL-42 clause as sharing no LL. I keep the clause and remove only the tags, because the claim crosses LP-24 with PL-42 just as it crosses LP-1. I also removed a PL-42 clause that the claim stated twice.
+- **PP-7.** Restated. The earlier text made each endpoint's contribution its sovereignty assertion and a stopped endpoint a vacuum of sovereignty; neither parent says so. The claim loses one paragraph and the italic line becomes one line, so the file is 2 lines shorter.
+- **PP-16.** Restated. The joint-traversal condition is stated as a condition. The edge belongs to neither participant; PL-201 does not say it belongs to the field. The corollary that deleting an edge needs both participants' authorization is dropped: no parent says who may delete an edge, and LP-8 calls the edge permanent.
+- **PP-26.** Tag only.
+- **PP-42.** Restated. The gate reads history and is not said to measure mass. The minimum-time, speed-for-depth and biometric statements are dropped.
+- **PP-49.** Restated. No parent names a metabolic completion right. My refinement: PL-192's death is the settlement of a region, a different sense of death from an entity's self-dissolution. The claim now says so, and no longer calls the two "the same idea at a second level". The constraint holds from LP-30 alone (Test 2).
+- **PP-103.** Restated. The isolation condition is stated as a condition. The self-governance the earlier title and all four corollaries drew is dropped. My refinement: the content drawn from LL-61 is attributed to LL-61 as LP-73's own parent, not to either PP parent.
+- **PP-721.** The title, italic line, the claim's second paragraph and the corollaries were restated. No parent speaks of a boundary surface or a traverser approaching it. PL-208's limits are what cannot be known.
+- **Trailing denials.** Where a checker's proposed text ended with a list of what the entry no longer claims, I cut the list to one sentence, or left it to the note.
+- **Titles.** Each changed title has its 95 PI copies changed: seven titles at each check, 1,330 copies. No line anywhere in A still pairs one of these entries with an earlier title.
+
+Not adopted: none of the per-entry amendments. Every finding outside the sixteen entries is recorded as a locus instead.
+
+Recorded as loci, not acted on here:
+- **D22, batch 02.** IP lines that cite these entries for content cut at these checks. For batch 01 and 01b:
+  - "genuinely valid logic": IP:192;
+  - "load": IP:220, 627, 638, 1517, 1528;
+  - Wake: IP:221, 580;
+  - "Self-Multiplying": IP:246;
+  - "pre-stored policy": IP:425;
+  - the PP-242 joint claim: IP:145, 682, which now cite an entry that is BARREN by Test 1.
+  
+  IP:224, 477, 1317 and 1368 lose part of their content. For batch 02:
+  - IP:28: PP-1's one-event content;
+  - IP:32 (deletion half), IP:293 ("belong to the field") and II:281: PP-16's dropped corollary;
+  - IP:63, IP:476 (self-governance half) and IP:1321: PP-103's earlier title.
+  
+  No IP line cites PP-42's speed or biometric content, or PP-7's identity content. IP:1094 is now carried in part: PP-49's corollary (2) returns the mass to the commons (LP-30). Line numbers are those at `eff5445`.
+- **D23.** IP lines that did not match the cited entry's text even before these amendments. The second return lists them at its lines 578-679:
+  - PP-1: IP:57, 320, 344, 396, 472, 713, 781, 805, 907, 1035, 1119, 1212, 1263, 1314, 1347, 1474, 1568, 1594, 1644, 1653, 1657;
+  - PP-7: IP:602, 1042, 1068, 1424, 1576, 1627;
+  - PP-16, the scar and field lines: IP:84, 96, 533, 551, 609, 629, 730, 740, 985, 994, 1017, 1087, 1096, 1111, 1160, 1172, 1213, 1348, 1391, 1401, 1425, 1449, 1475, 1519, 1524, 1603;
+  - PP-26: IP:756;
+  - PP-42: IP:605, 1196, 1450;
+  - PP-49: IP:1602.
+  
+  Lines the checker reads as partly carried are listed in its return. The batch 10 check's evidence already covered PP-1, 7, 16, 26 and 42. These lines go to the ARC Lead with D23.
+- **Outside both checks** (one line each, carried to D19's closure):
+  - PI's " [SUBSUMED]" marks on these entries' Derives-line copies match no PP state line.
+  - The PP header's filter, "Only LP × PL pairs sharing ≥1 LL ancestor are eligible", conflicts with the method's Zero Pre-Filtering Mandate (method:50-54). This record already follows the method.
+  - The PP header's entry count is stale.
+  - PP-114 says LP-81 establishes that tools work identically at every depth; LP-81 does not carry that.
+  - PL-124:4014 attributes to LL-226 content that LL-411 carries.
+  - LP-179:3355 says LL-247 "guarantees incompleteness".
+  - CP-28:597 governs other edge-weight entries besides PP-281.
+  - The method states no rule for a conjunction of two single-parent facts (PP-163 names one).
+  - PP:4502 PP-34 ":700" (as at the batch 37 to 39 checks).
+  - The 106 LP-on-Derives chains and the 51 entries whose Derives line is at heading + 3.
+
+Line references: the PP file went from 14306 to 14307 lines at `da14b12` (PP-242's state line) and to 14305 at `cd32b12` (PP-7's shorter claim). Each `PP-n (:m` reference and PP-221's bare list was recomputed after each commit, and none is off. PP-221's list now reads :4490 and :4511, with headers at :678, :1905, :3511, :4771, :4979, :5041, :8160, :11219, :11659 and :11719. No out-edge moves, and no parent or children list changes. BARREN lines: 203.
+
+With this, batches 01 to 39 have all been independently checked: 01, 01b and 02 here, 03 to 39 at their own checks. 0 slots remain.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
