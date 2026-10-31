@@ -1185,6 +1185,52 @@ New loci, not changed here:
 
 Out-edges: the checker's list agrees with this record's. Its search found IP lines that cite these entries for matter the entries do not carry: PP-17 at `system-foundations-implementation-physical.md:447` (an integrity-scored absence), PP-19 at :1195, :1500 and :1550 (attestation seals and sealed reports), and PP-25 at :40, :754, :762 and :1654 (metabolic energy, obligations and fuel). No removed LP carries them either, so they do not bear on the removals. They are D23 lines. `docs/audit/D20_LP_CP85_RECROSS.md:62` says that PP-22 names LP-616; batch 10 removed it. That record is historical and stays as written.
 
+### Batch 15
+
+The Worker (Sonnet) made the return against `d49c59f` (sha256 `43380020ad35b21c9cdc04e9869bdd2c89d7a17987b7792327556490e7437b5c`). It covers the LP slots of PP-305, PP-308 and PP-309, which the batch 09 check reopened because their NO CARRIER searches were incomplete, the LP slots of PP-256 and PP-257, and the two re-cross questions left on PP-112 (batch 11) and PP-136 (batch 11). It was applied on top of `e6ecd96`, where every one of its 30 old texts still occurs once. OPEN PM read every parent and every named candidate whole (PL-1, PL-72, PL-82, PL-127, PL-145, PL-160, PL-81, PL-198; LP-57, 80, 98, 136, 174, 195, 208, 209, 210, 332, 333, 438, 463, 514, 522, 562, 587, 590, 602, 678, 691) and amended five texts (below). Confidence stays in this record and is not put in A.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-305 | PL-72 (kept) | LP-208 (kept, NO CARRIER) | BARREN | The batch 09 check named LP-438, 562, 590 and 602 as unread. Each was read whole. LP-438 (a probe that hits a dead edge flags it), LP-562 (a settled edge frequency means the edge is dead) and LP-590 (liveness monitoring of subsumed entities) state detection of aliveness or death; LP-602 states detection signals for dark subsystems, which speaks of subsystems and not faults. A re-point to LP-562 would restate a different rule (measure frequency, not position), held by LP-562 alone (Test 2). None carries the entry's constraint, that a status label must match the Pulse reality, which is PL-72's alone. LP-208 (a map of signed attestations of known unknowns) states no detector. NO CARRIER, now after a complete search; nothing is attributed to LP-208. Fails Test 1 under the stated condition. |
+| PP-308 | PL-82 (kept) | LP-210 (kept, NO CARRIER) | BARREN | The batch 09 check found "no LP states a pruner" false. The Irreducibility now names what each pruning entry does state: LP-463 that edge deletion must clear extreme uncertainty thresholds, LP-57 that pruning ghost edges is a necessary function, LP-136 that pruning is driven by starvation, LP-562 that a settled edge is dead. LP-332, 333, 514, 195, 587 and 678 were also read. None states PL-82's door/wall diagnostic, and none is used. LP-210 (scale-invariant measurement) states no pruner. NO CARRIER. Fails Test 1 under the stated condition. |
+| PP-309 | PL-72 (kept) | none (bare, kept, NO CARRIER) | BARREN | As PP-305 for the label rule. LP-57, 136, 463 and 438 state pruning or flagging and name no label. LP-522 (an aliveness check before the final decay step), LP-691 (the burden of proving reducibility on whoever would eliminate) and PL-137 state a check or a burden before an act, which the restated entry does not state. None is a parent and none is used. NO CARRIER. Fails Test 1 under the stated condition. |
+| PP-256 | PL-1 (kept) | LP-209 (LP-174) | BARREN | LP-174 (untested positions at every scale) says nothing of accountability. LP-209 states that one verification proves accountability at every level at once and that accountability cannot be isolated to a single layer. PL-1 states that a logical proof valid at one scale is valid at every scale. Read an accountability proof as such a proof (the entry's condition); then the claim holds from PL-1 alone (Test 1). LP-209 adds a separate fact about verification; the two stand side by side, a conjunction. PL-1's Applies-to list names LL-66, LP-209's LL parent, so the re-point keeps a shared LL ancestor. The `[shared LL-242]` tag is a tag, not evidence, and is left as a locus. The four old corollaries are marked not asserted. |
+| PP-257 | PL-145 (kept) | LP-174 (kept) | BARREN | LP-174 carries that untested positions exist at every scale, which is part of what is left; it is kept, and nothing of accountability is attributed to it. PL-145 carries that every traversal creates more unexplored territory than it resolves; the entry holds from PL-145 alone (Test 1), as PP-263 does. Neither parent mentions accountability or territory revealed at adjacent scales; both claims are cut. LP-297 (a micro-level assumption removal can peel back macro-frontier) is the nearest LP text to the cut cross-scale claim. It speaks of known territory expanded by subtractive excavation, not of unexplored territory that traversal creates, so it is not used. LP-177's adjacency is adjacency in the graph, not between scales. |
+| PP-112 (re-cross) | PL-127 (kept) | LP-174 (LP-80) | BARREN | LP-80 states that fractal frontier value must manifest as self-similar nesting and says nothing of unknown territory or of a node's interior. LP-174 states untested positions at every scale, down to a single line of code, which is nearer to the entry's condition. It does not call them a node's unknown territory, so the claim stays a stated condition. Fails Test 1 under the condition. |
+| PP-136 (re-cross) | PL-160 (kept, NO CARRIER) | LP-98 (kept) | BARREN | PL-198 and PL-81 were read whole against the entry. PL-198 speaks of the frontier of the field and states no edge, probe, dissolution or permanent connection. PL-81 states that an edge exists only while it conducts, a case near the entry's first sentence that PL-81 does not name. Neither carries the entry; the PL slot stays NO CARRIER. Fails Test 2. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-308, Corollary.** "and the entry disclaims any removal duty" is now "and the entry states no removal duty". An entry states what its parents carry. It does not disclaim.
+- **PP-309, Irreducibility.** The Worker wrote that LP-522's aliveness check is "in the sense of a living relationship at last maintenance, which is not PL-72's aliveness at the Pulse". LP-522's text does not support that reading of its sense. The sentence now says what LP-522 states (an aliveness check before the final decay step of an edge left to decay by inaction), that it speaks of decay and not of a pruner removing an element, that it states no label, and that its check is a duty before an act, which the restated entry does not state. It also says what LP-691 and LP-438 state.
+- **PP-136, Irreducibility.** The Worker wrote that PL-81 "keeps a notation record of a non-conducting edge". PL-81 speaks of such a record; it does not keep one. The sentence now says where PL-81 speaks of it.
+- **PP-257, Corollaries.** The Worker's not-asserted list left out one old corollary: that resolving accountability at one level generates more accountability questions at adjacent levels. It is added.
+- **PP-256, Irreducibility.** A comma splice is now a semicolon.
+
+The three NO CARRIER slots are confirmed against PL-72, PL-82, LP-208 and LP-210 and against each named candidate. The re-point of PP-256 to LP-209 is accepted: LP-209 is the LP entry whose text speaks of accountability at every scale, and PL-1 says nothing of accountability, so the condition stays. The PP-112 re-point is accepted. The batch 11 checker objected to LP-80 being kept at all; that objection now falls on LP-174 and is for the batch 15 independent check to test blind.
+
+Titles: six changed (PP-112, 256, 257, 305, 308, 309). Each title's 95 copies in PI were replaced with it, so no PI copy of these six is stale. PP-136's title did not change.
+
+How the slots are counted: the LP slots of PP-305, 308 and 309 (reopened by the batch 09 check) are closed again as NO CARRIER after a complete search; the LP slot of PP-256 is a RE-POINT; and the LP slot of PP-257 is kept as a carrier of part of the restated entry. That makes 5 slots corrected. PP-112's LP parent and PP-136's PL parent are re-crosses of slots already counted in batch 11, so they add no count. **174 remain.** BARREN lines: 54 → 56 (PP-256 and PP-257).
+
+Out-edges:
+- IP:87 and IP:244 still cite PP-136's withdrawn ephemeral-understanding claim (named in batch 11; to D23).
+- IC:382 (IC-20) cites PP-112 among its tags for membrane permeability (as in batch 11; recorded, not changed).
+- No other IP or IC line was checked in this batch for PP-256, 257, 305, 308 or 309.
+
+Loci, not changed here:
+- PP-241 (PL-1 × LP-186) shares PP-256's earlier template.
+- PP-277 was not checked.
+- The `[shared LL-242]` tags on PP-256 and PP-257 no longer match the parents.
+- PP-263, PP-252 and PP-264 derive from PL-145 with PP-257. Their overlap is not classified, because PP-257 is BARREN at Test 1.
+- PP-305 and PP-309 (PL-72), and PP-308, PP-380 and PP-667 (PL-82), are sibling sets. Their overlap is not classified, for the same reason.
+- The bare "LP (Logical Physical)" Applies-to line stands on PP-309 and on other entries.
+- PP-136's Derives-from line still names PL-160, which carries nothing of it.
+- The stale PL-305 title "A Living System Dies Before It Appears Dead" stands on 7 PP Derives-from lines.
+- Kernel citations of these seven entries were not checked.
+- PP-111 (LP-80 × PL-1) attributes to LP-80 that the edge of the map is located inside every node. LP-80 does not state it; this is the same misreading that PP-112 carried.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1222,8 +1268,8 @@ Out-edges: the checker's list agrees with this record's. Its search found IP lin
 | PP-253 | LP | LP-172 | candidate LP-610, low confidence, not adopted |
 | PP-254 | LP | LP-173 | no carrier found (every reader) |
 | PP-255 | LP | LP-613 (was LP-173) | no carrier found (strict reader, high); batch 08: no carrier, nothing attributed to LP-173, BARREN settled; batch 10: re-pointed to LP-613 and restated, BARREN |
-| PP-256 | LP | LP-174 | no carrier found (strict reader, low) |
-| PP-257 | LP | LP-174 | no carrier found (strict reader, low) |
+| PP-256 | LP | LP-174 | no carrier found (strict reader, low); batch 15: RE-POINT → LP-209 under a stated condition, restated, BARREN |
+| PP-257 | LP | LP-174 | no carrier found (strict reader, low); batch 15: LP-174 kept as the carrier of the every-scale part, accountability claims cut, restated, BARREN |
 | PP-258 | LP | LP-175 | no carrier found (strict reader, high) |
 | PP-259 | LP | LP-176 | candidate LP-212, low confidence, not adopted |
 | PP-260 | LP | LP-177 | no carrier found (every reader) |
@@ -1269,11 +1315,11 @@ Out-edges: the checker's list agrees with this record's. Its search found IP lin
 | PP-302 | LP | LP-206 | no carrier found (strict reader, medium) |
 | PP-303 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
 | PP-304 | LP | LP-207 | no carrier found (strict reader, medium) |
-| PP-305 | LP | LP-208 | no carrier found (strict reader, medium); batch 09: no carrier; nothing attributed to LP-208, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, candidates LP-438, 562, 590, 602 not read; for re-cross |
+| PP-305 | LP | LP-208 | no carrier found (strict reader, medium); batch 09: no carrier; nothing attributed to LP-208, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, candidates LP-438, 562, 590, 602 not read; for re-cross; batch 15: LP-438, 562, 590, 602 read, NO CARRIER after a complete search, BARREN |
 | PP-306 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 07: no carrier; body's LP-208 attribution cut and restated on the PL parent alone, BARREN |
 | PP-307 | LP | LP-209 | no carrier found (strict reader, medium) |
-| PP-308 | LP | LP-210 | no carrier found (strict reader, medium); batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, "no LP states a pruner" false (LP-57, 136, 463, 562); for re-cross |
-| PP-309 | LP | none (bare "LP (Logical Physical)") | candidate LP-522, low confidence, not adopted; batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, "no LP states a pruner" false (LP-57, 136, 438, 463; LP-522, 691); for re-cross |
+| PP-308 | LP | LP-210 | no carrier found (strict reader, medium); batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, "no LP states a pruner" false (LP-57, 136, 463, 562); for re-cross; batch 15: LP-57, 136, 463, 562, 332, 333, 514, 195, 587, 678 read, NO CARRIER after a complete search, BARREN |
+| PP-309 | LP | none (bare "LP (Logical Physical)") | candidate LP-522, low confidence, not adopted; batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, "no LP states a pruner" false (LP-57, 136, 438, 463; LP-522, 691); for re-cross; batch 15: LP-57, 136, 438, 463, 522, 691 read, NO CARRIER after a complete search, BARREN |
 | PP-310 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 07: no carrier; body's LP-210 attribution cut and restated on the PL parent alone, BARREN |
 | PP-311 | LP | LP-211 | no carrier found (strict reader, medium) |
 | PP-312 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
