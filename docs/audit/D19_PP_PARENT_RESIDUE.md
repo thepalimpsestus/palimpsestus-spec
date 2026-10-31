@@ -2843,6 +2843,31 @@ Loci (not acted on):
 - PP-455 and PP-472 each set aside PL-56, which applies both LL-278 and LL-350; neither is re-pointed to it.
 - The six entries keep "Tier 3 (Derived Consequence)" while each is now BARREN; the Tier line is left as the file has it for every BARREN entry.
 
+### Batch 38, independent check
+
+A blind checker (Opus; brief sha256 `532887c9a2915496d28ca531ffdafae79ac7b75078320d7892109b97c73550fc`, return `a14cf076a6332b45153490a21a2bb71b8f368a390b09b2a8b0ffe0240834cce3`) used its own copy of A at `d1b9680` (batch 39 already applied). It read each entry and each parent whole, ran its own searches of the PL and LP files for each slot, computed every named parent's children from the Derives and Applies lines, and wrote its entry judgments before it opened this record. It found all six HOLD (PP-413 with medium confidence, the other five high), with one optional amendment to PP-413; no `[shared LL]` tag belonging on any of the six; the 23 `PP-n (:m` references in the PP file and PP-221's bare list right in the tree it read; the 95 PI copies of each title exact; no IP, IC or II line naming the six or their content.
+
+Adopted (each checked by me against the parents at `d1b9680`; every quotation below occurs in its entry or parent, whitespace normalised):
+- **PP-413, "a traversal deposits Traversal Footprint".** PL-14 says this of a read: "A read is not a neutral observation: it is a traversal that deposits Traversal Footprint, modifies the Wake of traversed edges". The claim gave it to every traversal. It now says that a read is a traversal that deposits Traversal Footprint and modifies the Wake of traversed edges, and that all traversals transform (PL-14: "All traversals transform.").
+- **PP-385, corollary (2).** It made the same generalization ("PL-14 says the traversal deposits Traversal Footprint"). It now says PL-14 says all traversals transform and says the footprint of a read, and that applying what PL-14 says of a read to the flow's traversal is the entry's step. The checker named it; PP-385 is batch 36's, and its class (BARREN) is unchanged.
+- **PP-413, the precedent.** The Irreducibility said the re-point "follows batch-36's PP-386". PP-386 restates PL-14's half alone; PP-413 restates two halves, the form PP-365 uses. Both are now named.
+- **PP-412, PL-52.** The set-aside said PL-52 "concerns the protocol for crossing an edge and not a backpressure signal or saturation". PL-52's "The topology requires no translation mechanism between its scales" is near LP-292's signal that crosses hierarchical boundaries "without translation", and the sentence now says so before setting it aside: PL-52 states no backpressure signal or saturation.
+- **PP-436, PL-258.** PL-258 (Initiating an Action Creates a Permanent Accountability Thread — Cessation Is an Event in That Thread) says "initiating an action creates a permanent accountability thread", near LP-653's accountability from the moment spawning is triggered. The entry did not name it. It is now named beside PL-232 as nearest and set aside: it states no spawn, no spawned entity and no window before an entity becomes active. PL-232 stays the recorded alternative.
+- **PP-438, PL-118.** PL-118 (Instant Validity Invalidation) says "Any structural change in the present-tense topology instantly invalidates all prior evaluated states of the affected region.", which gives LP-656's premise that the first verification may be overtaken. The entry did not name it. It is now named and set aside: it states no verification of two entities and no simultaneity.
+- **PP-438, "sequence".** "0 hits each in PL-143" held for the word; the string occurs inside "Consequence" in PL-143's tier label. The sentence now says so, as PP-436 does for PL-142.
+
+Not adopted:
+- **PP-220, ":700".** The checker reads it as off by five. The batch 37 check recorded it: the batch 16 check set it to PP-34's heading, and it stays.
+
+Recorded as loci, not acted on:
+- The checker noted that the batch 38 section says "PL-89 has no list of its children in the PP file" while PP-412's own Irreducibility lists PL-89's other children (PP-142 and PP-672). The section meant no other PP entry lists them; PP-412's list is right. The section stays as written.
+- PP-142 (PL-89 × LP-102, outside the 250) says "PL-89 establishes that exploration IS a primary entity", with "full structural standing". The checker said PL-89 states neither. PL-89's Irreducibility does have "edge as primary entity" (PC-4) and "exploration is force relationship" (LL-359), and its claim has the navigator becoming an edge; "structural standing" is not in it. Whether the attribution goes beyond PL-89 is not settled here. PP-142 is not one of the 250 slots, and the question is carried to D19's closure.
+- 127 PP Derives lines outside these six carry `[shared LL-n]` tags that no LL cited directly by both parents supports; the checker did not test transitive ancestry, and neither does this check. It stays with the batch 04 tag locus.
+- The PP header filter (PP:10) and the PI `[SUBSUMED]` copies of BARREN entries stay with their earlier loci.
+- The record's PP-221 numbers, 14288 lines and 196 BARREN lines describe the tree batch 38 left; the checker read the tree after batch 39 and found the current numbers right.
+
+Line references: the amendments change text within six existing PP lines and add none; no title changes; every `PP-n (:m` reference in the PP file is unchanged (recomputed: 23, none off), and PP-221's bare list is unchanged. The PP file stays 14306 lines. No children list changes, and no out-edge moves. BARREN lines 202. **0 remain.**
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
