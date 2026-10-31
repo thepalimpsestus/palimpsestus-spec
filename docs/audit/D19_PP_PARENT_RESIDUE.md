@@ -16,7 +16,7 @@ Result, in the commits after `e4a4d6a`:
   - In each one the header id changes, together with the same id in that entry's text.
 - **Not changed:** 250 slots, listed below.
   - For each, no entry was confirmed to carry the claim.
-  - Their text stays as written, so no ancestry is erased (No Ancestral Erasure, `dag-crossing-method.md` line 7). Keeping an open or marked entry rests on D20's reading of that invariant (`D20_LP_CP85_RECROSS.md` line 23), not on a rule the method states.
+  - Their text stays as written, so no ancestry is erased (No Ancestral Erasure, `dag-crossing-method.md` line 7). Keeping an open or marked entry first rested on D20's reading of that invariant (`D20_LP_CP85_RECROSS.md` line 23), not on a rule the method states. The Holder answered the question on 2026-10-31 about 03:45Z ("5 keep", HOLDER-QUEUE item 5: keep or remove an entry found BARREN after it was written): entries found BARREN are kept in place and marked.
 
 ## What would close it
 
@@ -1721,6 +1721,48 @@ Loci, not changed here:
 
 Note on batch 22 (2026-10-31T03:07:41Z): the ARC Lead searched the kernel for the six batch-22 entries, and PP-284, PP-288 and PP-260 as a check (note `arc-lead-note-kernel-cites-batch22-entries-88784a7.md`, sha256 `c6e0508bf163af7b0e99b5e6390bde0f568872c6e4529d1851bd2af02fc7a52a`): none is cited in the IP, IC or kernel source files at kernel `1195baa`. IP and IC are byte-identical across `0f854bd` → `88784a7`. The kernel rows file, certification and tests were not searched.
 
+### Batch 23
+
+The Worker (Sonnet) made the return against `88784a7` (sha256 `4796d940231031bd5ce73dd2bb6923d8d94ab96ddadb86b246d6b9d0a428f378`). It covers nine slots of the table below: the LP slots of PP-292, PP-293, PP-294, PP-295 and PP-296, and the PL slots of PP-292, PP-293, PP-294 and PP-295 (PP-296 has no PL slot in the table; its PL-92 side was read whole and restated with the entry). It was applied on top of `bd7aa2e`, where every one of its 15 old texts still occurs once (the batch 22 check changed only PP-257 and PP-284 to PP-291 and added no lines). OPEN PM read every parent and every adopted carrier whole (PL-92, PL-108, PL-237, PL-276, PL-285, PL-287; LP-24, LP-66, LP-199, LP-202, LP-541, LP-542), checked the Worker's quotations of each against the text, re-ran its searches, and amended the tags, one search report, two overlap lists, one alternatives sentence, two test sentences and one stale cross-reference.
+
+The Worker reported a departure in its header: besides the two earlier returns its brief allowed, it opened `out/batch-22.md` (inside its own folder) for the layout of the table, loci and checks sections only, and used nothing in it as evidence about any entry. Its statements about other entries were checked here against those entries; none rests on the batch 22 return.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-292 | PL-276 (kept, NO CARRIER) | LP-24 (was LP-198) | BARREN | PL-276 states that unresolved sovereign tensions are a self-renewing source of fertile absence and has no cost, boundary, access or weight; LP-198 states that the engine's churning vibrates pre-existing derivations loose and has no access, cost, gate or weight. LP-24 states that an interior-controlled gate must expend metabolic energy to re-evaluate its access criteria continuously, and that a gate not actively defending its boundary degrades into an open state. Restated: where an access control boundary is held as such a gate, LP-24's rule applies. Fails Test 2 under the stated condition. The proportion to a consequence weight is cut: no parent states it. |
+| PP-293 | PL-285 (was PL-305) | LP-199 (kept, NO CARRIER) | BARREN | The Derives line named PL-305 under a title no PL entry has ("A Living System Dies Before It Appears Dead"); PL-305 states that production edges are live managed tensions. LP-199 states that the engine's oscillation is maintained by the discharge of accountability and has no cascade or gradient. PL-285 states that tension subsystems decay at their own local metabolic rates and, in a corollary, that a subsystem decaying at high speed will be invisible in aggregate metrics. Restated: where each gradient of a proof-graduated cascade is a tension subsystem, PL-285's rule applies. Fails Test 1 under the stated condition. |
+| PP-294 | PL-108 (kept, restated) | LP-66 (was LP-200) | BARREN | LP-200 states that a derivation chain must integrate signed assertions of its own broken links and has no weight, cache or selection. PL-108 states that a physical state claim decays from the moment it is produced; LP-66 that a valid pre-planned route cannot be constructed and that pre-calculating a path builds a static list and is not navigating. Each half holds from one parent alone (Tests 1 and 2); a conjunction. |
+| PP-295 | PL-237 (was PL-109) | LP-541 (was LP-201) | BARREN | PL-109 states that claiming present-tense validity for a past-tense state generates a physical falsehood and has no oscillation, sovereignty or death; LP-201 states that incomprehension is recorded as a signed artifact and has no oscillation or sovereignty. PL-237 states that the tension that sustains sovereignty decays unless it is actively exercised; LP-541 that a tension-driven oscillator that winds down is dying and not resolving its tension. Each half holds from one parent alone (Tests 1 and 2); a conjunction. |
+| PP-296 | PL-92 (kept, restated) | LP-202 (kept, NO CARRIER) | BARREN | LP-202 states that an attested absence defends itself against unauthorized overwrite and has no bridge, traversal or load. PL-92 states that an obligation is a force relationship that must be actively conducted to remain real, and that accountability is present-tense force conduction and not a historical record. Restated to what PL-92 states. Fails Test 1. "Structural accountability bridge" and "load-bearing" were the entry's own terms, with no parent behind them. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **Tags.** The Worker left every tag and listed them as loci. A tag stays only when both current parents cite the LL (batch 17 on). All five are removed: PP-292 `[shared LL-277]` (PL-276 applies LL-277; LP-24 is CP-5 × LL-2), PP-293 `[shared LL-227]` (PL-285 applies LL-445; LP-199 is CP-35 × LL-227), PP-294 `[shared LL-110]` (PL-108 applies LL-94, LL-208, LL-272 and LL-282; LP-66 is CP-10 × LL-263), PP-295 `[shared LL-111]` (PL-237 applies LL-411 and others, not LL-111; LP-541 is CP-58 × LL-389) and PP-296 `[shared LL-114]` (PL-92 applies LL-402, LL-403 and LL-446; LP-202 is CP-36 × LL-114).
+- **Searches.** In PP-292, the sentence said the stem "proportion" within 40 characters of "consequence" or "weight" found PL-106 with LP-383, LP-478 and PL-296. OPEN PM's re-run found PL-77, PL-296, LP-383 and LP-478 and not PL-106, whose text puts "proportion" near "navigational capability". The sentence now lists the three the search found and names PL-106 (Navigation-Defense Proportionality) separately, with its claim. The other searches the return reports ("access control", "consequence weight", the death phrases, "graduated|cascade", "aggregate", "oscillat" near the death words, "path select|cached|pre-planned", "load-bearing") gave the Worker's lists.
+- **Overlap lists.** PP-292 said no other PP entry applies LP-24; PP-1 does (PL-42 × LP-24, a structure's metabolic evaluation as its sovereignty contestation), as the return's own child list says, and the sentence now names it. PP-294 named PP-95, PP-216, PP-250, PP-289, PP-448 and PP-453 as LP-66's other children; LP-66 is the parent line of PP-95, PP-250 and PP-289 only (the other three cite it in their bodies), and the list now names those three.
+- **Alternatives.** PP-293 named PL-287 and set it aside because the entry's gradients are not said to be isolated from view. Two things were missing. PL-287 is already the carrier of PP-233 (batch 17), which states its rule for a gradient of a graduated consequence cascade held outside the cascade's observation scope; and batch 17 named PL-72 (The Topology Cannot Be Dead and Active Simultaneously) for the lines that carry the stale PL-305 title. PL-72 was read whole: it states that aliveness is binary at any given Pulse and has no rate, aggregate or signal, so it is not adopted. The Irreducibility now says both.
+- **Tests half by half.** PP-294 put the whole conjunction at Test 1 ("BARREN at Test 1; Tests 2 and 3 are not reached"), and PP-295 found it not failing at Test 1 and BARREN at Test 2. A conjunction is tested half by half: each half holds from one parent alone, PL-108's and PL-237's at Test 1, LP-66's and LP-541's at Test 2. Both now read in that form: "The entry is a conjunction of two single-parent facts and not a product of the crossing, so it is marked BARREN; Test 3 is not reached." The class is unchanged.
+- **PP-286.** Its Irreducibility said that PP-292 (PL-276 × LP-198) "states the earlier proportional claim for access control and is not restated here". After this batch PP-292 is restated on LP-24 and the proportion is cut. The sentence now says PP-292 stated it until batch 23, which re-pointed it to LP-24 and cut the proportion. The Worker found this and left it as a locus.
+- **Line reference.** The batch adds 15 lines to the PP file; the reference to PP-492 in PP-260's Irreducibility moved from `:9592` to `:9607`, its Derives line.
+
+Verified, not changed: no spec file other than PP and PI names the five entries (all 16 files searched); PI names each only on its 95 Derives lines. Line references were recomputed after the edit; only the PP-492 reference moved.
+
+Titles: five changed (PP-292, 293, 294, 295, 296). Each title's 95 copies in PI were replaced with it (475 copies).
+
+How the slots are counted: the LP slots of PP-292, PP-294 and PP-295 and the PL slots of PP-293 and PP-295 are RE-POINTs; the PL slot of PP-294 is a RESTATE (PL-108 kept for what it carries); the LP slots of PP-293 and PP-296 and the PL slot of PP-292 are NO CARRIER, each line kept with nothing attributed to it. That makes 9 slots corrected. **107 remain.** BARREN lines: 104 → 109.
+
+Out-edges: no spec file other than PP and PI names the five entries. PI cites each only on its 95 Derives lines. In PP, PP-286's Irreducibility names PP-292 (amended above); the parents' other children are named in each entry's overlap note (LP-24: PP-1; LP-66: PP-95, PP-250, PP-289; PL-285: PP-539; PL-237: PP-199, PP-258; PL-108: PP-313, PP-331, PP-361, PP-647, PP-649; PL-92: PP-503). Each kept parent stays on those lines, so those lists stay true.
+
+Loci, not changed here:
+- Five other PP entries still name PL-305 with a title it does not have ("A Living System Dies Before It Appears Dead", PP-231 with a longer form): PP-231, PP-303, PP-314, PP-346 and PP-367. Each also asserts in its body that a living system dies before it appears dead. Left for the batches that hold their slots (PP-462 names PL-305 with its own title).
+- PL-114's other children PP-190, PP-339, PP-349, PP-358 and PP-362 are already loci of batch 22.
+- PL-109's unrestated corollaries on cached results and stale state are near PP-294's subject; PL-109's own children are PP-439 and PP-626.
+- PP-347 (PL-40 × LP-231): batch 22's loci called it batch 23 work; it is not among this batch's slots and is left for its LP slot in the table below.
+- The PI Derives-from lines tag all five entries [SUBSUMED]; the PP file now marks them BARREN.
+- Kernel citations of these five entries were not checked.
+- The titles of PP-292 and PP-294 are long; for the title pass.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1792,11 +1834,11 @@ Note on batch 22 (2026-10-31T03:07:41Z): the ARC Lead searched the kernel for th
 | PP-289 | LP | LP-197 | no carrier found (every reader); batch 22: re-pointed to LP-66 and restated, BARREN |
 | PP-290 | LP | LP-197 | no carrier found (strict reader, high); batch 22: NO CARRIER, line kept, restated on PL-114, BARREN |
 | PP-291 | LP | LP-198 | no carrier found (strict reader, medium); batch 22: re-pointed to LP-27 and restated, BARREN |
-| PP-292 | LP | LP-198 | no carrier found (strict reader, medium) |
-| PP-293 | LP | LP-199 | no carrier found (strict reader, high) |
-| PP-294 | LP | LP-200 | no carrier found (strict reader, high) |
-| PP-295 | LP | LP-201 | no carrier found (strict reader, medium) |
-| PP-296 | LP | LP-202 | no carrier found (strict reader, high) |
+| PP-292 | LP | LP-198 | no carrier found (strict reader, medium); batch 23: re-pointed to LP-24 and restated, BARREN |
+| PP-293 | LP | LP-199 | no carrier found (strict reader, high); batch 23: no carrier; nothing attributed to LP-199, restated on PL-285 alone, BARREN |
+| PP-294 | LP | LP-200 | no carrier found (strict reader, high); batch 23: re-pointed to LP-66 and restated, BARREN |
+| PP-295 | LP | LP-201 | no carrier found (strict reader, medium); batch 23: re-pointed to LP-541 and restated, BARREN |
+| PP-296 | LP | LP-202 | no carrier found (strict reader, high); batch 23: no carrier; nothing attributed to LP-202, restated on PL-92 alone, BARREN |
 | PP-297 | LP | LP-203 | no carrier found (strict reader, high) |
 | PP-298 | LP | LP-204 | no carrier found (strict reader, high) |
 | PP-299 | LP | LP-204 | no carrier found (strict reader, high) |
@@ -1928,10 +1970,10 @@ Note on batch 22 (2026-10-31T03:07:41Z): the ARC Lead searched the kernel for th
 | PP-287 | PL | PL-276 | no carrier found (strict reader, medium); batch 22: re-pointed to PL-266 and restated, BARREN |
 | PP-288 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-289 | PL | PL-239 | candidate PL-118, medium confidence, no second reader proposed it; not adopted; batch 22: re-pointed to PL-118 and restated, BARREN |
-| PP-292 | PL | PL-276 | no carrier found (strict reader, medium) |
-| PP-293 | PL | PL-305 | no carrier found (strict reader, high) |
-| PP-294 | PL | PL-108 | candidate PL-17, low confidence, not adopted |
-| PP-295 | PL | PL-109 | no carrier found (strict reader, medium) |
+| PP-292 | PL | PL-276 | no carrier found (strict reader, medium); batch 23: no carrier; nothing attributed to PL-276, restated on LP-24 alone, BARREN |
+| PP-293 | PL | PL-285 (was PL-305) | no carrier found (strict reader, high); batch 23: re-pointed to PL-285 under a stated condition (PL-287 and PL-72 read, not adopted), restated, BARREN |
+| PP-294 | PL | PL-108 | candidate PL-17, low confidence, not adopted; batch 23: PL-108 kept for what it carries, restated, BARREN |
+| PP-295 | PL | PL-237 (was PL-109) | no carrier found (strict reader, medium); batch 23: re-pointed to PL-237 and restated, BARREN |
 | PP-297 | PL | PL-113 | no carrier found (every reader) |
 | PP-301 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN |
 | PP-303 | PL | PL-305 | no carrier found (every reader) |
