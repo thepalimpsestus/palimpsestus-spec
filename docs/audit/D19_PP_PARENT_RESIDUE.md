@@ -2344,6 +2344,47 @@ Loci, not changed here:
 - PP-362 names LP-238 in its text while its Applies-to line is bare, and carries `[shared LL-159]`; it is in the batch 32 Worker's scope.
 - Already open and unchanged: the PP:10 header filter (none of the seven pairs shares a directly cited LL; deeper LL ancestry not checked), the titles of PP-343 and PP-365, and LP-251 beside PL-19.
 
+### Batch 33
+
+The Worker (Sonnet) made the return against `b1a7824` (sha256 `183451f59bc335d6f4b5669983393eda7407b65acdf6313b98071f4372208897`). It covers four slots of the table below: the LP slots of PP-695, PP-698, PP-720 and PP-723. It was applied on top of `f7145b7`, where every one of its twenty old texts still occurs once (`30f511b` and `f7145b7` changed no line of the four entries). OPEN PM read every parent whole (PL-185, PL-188, PL-211, PL-204; LP-551, LP-95, LP-581, LP-584), the adopted carrier (LP-112) and the candidates set aside (LP-241, PL-205, LP-29, LP-694), checked each of the Worker's quotations against its source, and made five amendments.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-695 | PL-185 (kept, restated) | LP-112 (was LP-551) | BARREN | LP-551 (Living Absence Attestation) states that a scored absence is a living feature to be kept from being filled, and has no nutrition, perishability or crossing. LP-112 (Non-Renewable Local Oscillation) states that once a gap is traversed "that specific coordinate can never power the engine again". Restated as two single-parent facts: where a gap is held as a gap of the living topology, it is a vital organ and eliminating it is organ removal (PL-185); where a specific gap is held as the local oscillation's fuel, traversing it exhausts that coordinate (LP-112). A conjunction, not a product of the crossing. |
+| PP-698 | PL-188 (kept, restated) | LP-95 (kept, NO CARRIER) | BARREN | LP-95 (Aliveness Gap Metabolic sampling) states that scored gaps are re-sampled because their scores decay, and has no co-evolution engine, mutual adaptation or metric of a system's evolution. Restated where a metric is held as a structural confidence score of the living topology: by PL-188 it is not a stored measurement and decays without fresh traversal. Fails Test 1. |
+| PP-720 | PL-211 (kept, restated) | LP-581 (kept, NO CARRIER) | BARREN | LP-581 (Tension-Identity Enforcement at All Scales) states that tension-constituted entities are protected at every depth of the DAG, and has no gate, transmission or ignorance. Restated where a communication is held as a transmission of what is not known: by PL-211 it carries higher topological energy than a transmission of what is known. Fails Test 1. |
+| PP-723 | PL-204 (kept, restated) | LP-584 (kept, NO CARRIER) | BARREN | LP-584 (Discovery-Driven Tension Transformation Pipeline) states that discovery transforms an entity's tension and does not resolve it, and has no gate, traverser, surface or Theater. Restated where a field's foundational paradox is held as a problem to be resolved: by PL-204 the attempt is an attempt to dissolve the field, and the correct relationship is to manage it. Fails Test 1. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-695, PL-185's condition.** The Worker wrote the condition as "a gap of the living topology held as a vital organ". PL-185 says that every gap of the living topology is a vital organ, so that condition already holds the rule's own term. The condition is now that a gap is held as a gap of the living topology, and the vital organ is PL-185's consequence (italic, claim and Test 1).
+- **PP-695, LP-112's corollary.** LP-112 speaks of "A fully mapped local sector"; the corollary's condition said "a mapped region". It now says a fully mapped region held as a local sector of the oscillation.
+- **PP-695, PP-419.** The Worker listed PP-419 (:8383) among PL-185's children. PP-419 sits on PL-185 and LP-551, the pair PP-695 had, and states what LP-551 does carry (removing a living attested absence is organ failure). The Irreducibility now says so; it weighs for leaving LP-551, not against. The re-point to LP-112 is accepted, confidence medium as the Worker's: PL-185 × LP-112 is the pair of no other entry, and LP-112 carries the earlier text's "the crossed gap can never be re-nutritive" without the nutrition.
+- **PP-698, PP-132.** After this batch PP-698's Derives-from and Applies-to lines (PL-188 `[shared LL-203]`, LP-95) are the same as PP-132's. The Irreducibility now says so; see the loci. The tag stays: PL-188 applies LL-203 and LP-95 derives from it.
+- **PP-723, corollary (3).** "Where a formal system is held as sufficiently powerful, it is such a system" restated its own condition; it now says such a system contains such paradoxes, which is PL-204's corollary.
+- **Line reference.** The Worker's PP-695 text cited PP-718 at `:14088`, its line before this batch; the two state lines above it move it to `:14090`, and the text says so.
+
+Accepted as the Worker made them: the three NO CARRIER slots (LP-95, LP-581, LP-584 kept on the Applies-to line with nothing attributed, as in batches 08, 09 and 31); LP-241 and PL-205 set aside for PP-695 (LP-241's perishable energy is a pulse's; PL-205 states "cannot be stored" but is not a parent); LP-694 set aside for PP-723 (it shares LL-384 with PL-204, but what it would add holds from PL-204 alone, as PP-354 recorded LP-136 in batch 30); three tags removed (`[shared LL-109]`, `[shared LL-58]`, `[shared LL-384]`; in each a current parent does not cite the LL) and one kept (`[shared LL-203]`).
+
+Line references. The batch adds 4 lines to the PP file, one in each entry; all four entries are below every `PP-n (:m` reference except the new one to PP-718, so no earlier reference moves. Every `PP-n (:m` reference in the PP file equals the entry's heading + 5. The PP file goes from 14222 to 14226 lines. PI's 380 title copies (95 for each of the four) are replaced, and no PI line carries an earlier title of the four.
+
+Titles. Four new titles, each restating the entry under its condition:
+- PP-695 "Where a Gap Is Held as a Gap of the Living Topology, Eliminating It Is Organ Removal and Not Healing; Where a Specific Gap Is Held as the Local Oscillation's Fuel, Traversing It Exhausts That Coordinate Permanently"
+- PP-698 "Where a Metric Is Held as a Structural Confidence Score of the Living Topology, It Is Not a Stored Measurement — It Decays Without Fresh Traversal Whatever Its Value"
+- PP-720 "Where a Communication Is Held as a Transmission of What Is Not Known, It Carries Higher Topological Energy Than a Transmission of What Is Known"
+- PP-723 "Where a Field's Foundational Paradox Is Held as a Problem to Be Resolved, Attempts to Resolve It Are Attempts to Dissolve the Field — The Correct Relationship Is to Manage It"
+
+How the slots are counted: four LP slots; one RE-POINT (PP-695 to LP-112) and three NO CARRIER. 4 slots corrected. **40 remain** (batch 32, four LP slots, is still with its Worker). BARREN lines: 158 → 162.
+
+Out-edges: LP-551 loses PP-695 (PP-419 remains on it); LP-112 gains PP-695 on its Applies-to line (with PP-153 and PP-718). LP-95, LP-581 and LP-584 keep their Applies-to slots as NO CARRIER with nothing attributed. PI: 95 Derives-from lines for each of the four carry the new titles; IP and IC have none.
+
+Loci (not acted on):
+- PP-132 and PP-698 sit on the same lines, PL-188 `[shared LL-203]` × LP-95. Not classified (Test 3 not reached).
+- PL-205 (Perishable Fuel) states that fuel "cannot be stored", the claim PP-695's earlier title made; which PP entries derive from PL-205 was not checked.
+- PL-189 (Co-Evolving Constraints) and PL-303 (the identity chain as foundational paradox) were read by title and italic only; whether a PP entry derives from either was not checked.
+- PP-451's Derives line names PL-188 with `[shared LL-208]`; PL-188 applies LL-203. For the tag sweep.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
