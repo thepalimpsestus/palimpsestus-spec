@@ -1653,6 +1653,45 @@ Loci, not changed here:
 - PP-242 (PP :4930, batch-01, PL-40 × LP-186): `[shared LL-232]` matches neither parent (PL-40: LL-8, LL-24; LP-186: LL-254), and the entry has no Derivational State line. PP-267 now shows proof by present traversal at every scale the cascade reaches to come from PL-40 alone under a condition, so PP-242's "only together" may not survive Test 1. For the re-cross of the batch 01 to 06 entries.
 - PP-273: `[shared LL-256]` and its LP-563 attribution (already a batch 20 and batch 21 locus; reached a third time).
 
+### Batch 22
+
+The Worker (Sonnet) made the return against `b326987` (sha256 `93d5c1dd91c204017bc01f30484e13340f8cd673579c5f25a4bdae05b165160f`). It covers nine slots of the table below: the LP slots of PP-285, PP-286, PP-287, PP-289, PP-290 and PP-291, and the PL slots of PP-286, PP-287 and PP-289. It was applied on top of `0f854bd`, where every one of its 18 old texts still occurs once (the batch 20 check changed only PP-267, PP-268, PP-271 and PP-274). OPEN PM read every parent and every adopted carrier whole (PL-40, PL-114, PL-118, PL-145, PL-239, PL-253, PL-266, PL-276; LP-1, LP-27, LP-62, LP-66, LP-195, LP-196, LP-197, LP-198, LP-616), checked the Worker's quotations of each against the text, re-ran its searches, and amended the tags, two search reports, one overlap list, one stale cross-reference, and three corollaries.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-285 | PL-145 (kept) | LP-195 (kept) | BARREN | LP-195 states an oscillation against the boundary of ignorance that maps the shape of what the engine does not know; it has no consequence, weight or cost, and no PL or LP entry has "consequence-weighted". Restated: where the oscillation is a traversal of the topology, it creates more unexplored territory than it maps and every attempt to reach the frontier reveals new frontier beyond it (PL-145). Fails Test 1 under the stated condition. |
+| PP-286 | PL-253 (was PL-276) | LP-1 (was LP-195) | BARREN | PL-276 states that unresolved sovereign tensions are a self-renewing source of fertile absence and has no cost, boundary or weight; LP-195 as PP-285. PL-253 states that a membrane isolating a tension subsystem exists because it is maintained; LP-1 that a self-determined boundary consumes continuous energy. Restated: each rule under its own condition. Each half holds from one parent alone (Tests 1 and 2); a conjunction. |
+| PP-287 | PL-266 (was PL-276) | LP-196 (kept, NO CARRIER) | BARREN | LP-196 states a self-fueling oscillation engine and has no signal, divergence or liability. PL-276 as PP-286. PL-266 states that maintenance cost is present-tense and non-deferrable. Restated: where maintaining a diverged state is maintaining the derivations involved, its cost is incurred now and cannot be deferred (PL-266). Fails Test 1 under the stated condition. |
+| PP-289 | PL-118 (was PL-239) | LP-66 (was LP-197) | BARREN | The Derives line named PL-239 under a title no PL entry has ("… Pre-Computed Optimizations Expire"); PL-239 states that discovery transforms tension. LP-197 states a tension-transforming actuator and has no routing or optimizer. PL-118 states that a structural change instantly invalidates prior evaluations of the region; LP-66 that a pre-planned route cannot be valid and routing re-evaluates at every junction. Each half holds from one parent alone (Tests 1 and 2); a conjunction. |
+| PP-290 | PL-114 (kept) | LP-197 (kept, NO CARRIER) | BARREN | LP-197 as PP-289. PL-114 states that a paradox engine not churning in the present Pulse is stopped; it states no duty to detect a death and not that a living system dies before it appears dead. Restated: where a consequence flow is a paradox engine, a flow not churning is a stopped engine, and restarting it instantiates a new one (PL-114). Fails Test 1 under the stated condition. |
+| PP-291 | PL-40 (kept) | LP-27 (was LP-198) | BARREN | LP-198 states an excavation-driven oscillation and has no access, gate or decision. LP-27 states that an interior-controlled gate re-evaluates a traverser's rights at every micro-step. Restated: where a stored access decision is a sovereignty claim, it is proved by present traversal and a certificate is a label (PL-40); where it is a gate's authorization, the gate re-evaluates at every micro-step (LP-27). Each half holds from one parent alone; a conjunction. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **Tags.** The Worker kept every tag and listed them as loci. A tag stays only when both current parents cite the LL (batch 17 on). All six are removed: PP-285 and PP-286 `[shared LL-273]` (LP-195 cites LL-273; PL-145 cites LL-239 and LL-247, PL-253 cites LL-446, LP-1 cites LL-2), PP-287 `[shared LL-274]` (PL-266 cites LL-472; LP-196 cites LL-274), PP-289 `[shared LL-275]` (PL-118 cites LL-462, LP-66 LL-263), PP-290 `[shared LL-275]` (PL-114 cites LL-301; LP-197 cites LL-275) and PP-291 `[shared LL-277]` (PL-40 cites LL-8, LP-27 LL-6).
+- **Searches.** In PP-286, OPEN PM's re-run of the boundary-or-membrane-near-"maint" search found 27 entries where the Worker listed 14 (PL-27, PL-42, PL-46, PL-92, PL-127, PL-129, PL-150; LP-150, LP-330, LP-448, LP-547, LP-548, LP-696 added); their titles and italics were read, none states what a boundary costs or a proportion, and the Irreducibility now gives the full list and names LP-696 and PL-129, the nearest. The "proportional to" search found PL-77 (a share of accountability proportional to a contribution to the field state), not none; the sentence now says so. The other searches the return reports ("consequence-weighted", "boundary of ignorance", "divergence signal", "governance liability", "diverge", "pre-computed", "optimi", "access control", the death phrases) gave the Worker's lists.
+- **Re-points.** All accepted. PP-289's PL-118 is the candidate this record names at the PL slot; LP-66 is adopted over LP-62, which says that a pre-planned path holds no present-tense truth and not that routing re-evaluates at every junction. PP-286's pair (PL-253, LP-1) and PP-291's pair (PL-40, LP-27) keep the entry's subject and attribute to each parent only its own rule.
+- **Overlap lists.** PP-291 named PP-283 and PP-254 as "the restated ones" among PL-40's children; PP-35, PP-238, PP-239, PP-267 and PP-300 are restated on PL-40 too, and the sentence now names all seven. PP-290 said PP-289 "shares" LP-197; after this batch it does not, and the sentence now says it had the same above parent until its re-point.
+- **Corollaries.** PP-290's (1) and (2) were PL-114's own corollaries on organizational engines and routine processes, stated without the entry's condition; each now gives PL-114's words as PL-114's and then the consequence for a flow under the condition, in PP-343's form. PP-291's (2) said an evaluation lifetime "is bounded" by the metabolism rate; PL-40 says it "must be bounded", as PP-283 has it.
+- **PP-284.** Its Irreducibility listed PP-268 and PP-285 among the entries whose titles carry "Self-Multiplying" or "Self-Multiplies"; neither title does after the batch 20 check and this batch. The clause now names PP-138, PP-141, PP-263 and PP-329 and says the other two carried it until then.
+- **Line reference.** The batch adds 18 lines to the PP file; the reference to PP-492 in PP-260's Irreducibility moved from `:9574` to `:9592`, its Derives line (the method point from the batch 19 check).
+
+Titles: six changed (PP-285, 286, 287, 289, 290, 291). Each title's 95 copies in PI were replaced with it (570 copies).
+
+How the slots are counted: the LP slots of PP-286, PP-289 and PP-291 and the PL slots of PP-286, PP-287 and PP-289 are RE-POINTs; the LP slot of PP-285 is a RESTATE (LP-195 kept for what it carries); the LP slots of PP-287 and PP-290 are NO CARRIER, each line kept with nothing attributed to it. That makes 9 slots corrected. **116 remain.** BARREN lines: 98 → 104.
+
+Out-edges: no spec file other than PP and PI names the six entries. PI cites each only on its 95 Derives lines. In PP, PP-284's Irreducibility names PP-285 (amended above); PP-252 and PP-268 name PP-285 among PL-145's children, PP-254, PP-267 and PP-283 name PP-291 among PL-40's, and PP-343 names PP-290 among PL-114's. Each parent is kept on those lines, so those lists stay true.
+
+Loci, not changed here:
+- PP-345, the other child of PL-239, carries the same stale PL-239 title ("Optimization of the Topology Is a Present-Tense Act — Pre-Computed Optimizations Expire"). It is left for the batch that holds its slot.
+- PL-114's other children PP-190, PP-339, PP-349, PP-358 and PP-362 still assert detecting a death before an apparent death, which PL-114 does not state.
+- PP-290's PL-114 side was misattributed as well (a living system dies before it appears dead); the PL slot of PP-290 is not in the table below, and the correction rides with the LP slot, as at PP-343.
+- PP-292 (PL-276 × LP-198) states PP-286's earlier proportional claim for access control, and PP-347 (PL-40 × LP-231) is PP-291's unrestated near sibling; both are batch 23 work.
+- PP-287 now rests on PL-266 with the same condition as PP-288's second one; the two are close siblings, not classified. PP-287 names LP-616 as the alternative it did not adopt because D20 marks LP-616 BARREN; a change to that disposition reopens the choice.
+- The PI Derives-from lines tag all six entries [SUBSUMED]; the PP file now marks them BARREN.
+- Kernel citations of these six entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1717,13 +1756,13 @@ Loci, not changed here:
 | PP-282 | LP | LP-193 | no carrier found (strict reader, medium); batch 21: re-pointed to LP-383 and restated, BARREN |
 | PP-283 | LP | LP-194 | no carrier found (strict reader, high); batch 21: NO CARRIER, line kept, restated on PL-40, BARREN |
 | PP-284 | LP | LP-194 | no carrier found (strict reader, high); batch 21: LP-194 kept for what it carries, restated, BARREN |
-| PP-285 | LP | LP-195 | no carrier found (strict reader, high) |
-| PP-286 | LP | LP-195 | no carrier found (strict reader, medium) |
-| PP-287 | LP | LP-196 | no carrier found (strict reader, high) |
+| PP-285 | LP | LP-195 | no carrier found (strict reader, high); batch 22: LP-195 kept for what it carries, restated, BARREN |
+| PP-286 | LP | LP-195 | no carrier found (strict reader, medium); batch 22: re-pointed to LP-1 and restated, BARREN |
+| PP-287 | LP | LP-196 | no carrier found (strict reader, high); batch 22: NO CARRIER, line kept, restated on PL-266, BARREN |
 | PP-288 | LP | LP-616 | no carrier found (strict reader, high); batch 08: re-pointed LP-196 to LP-616 (timing half), restated, BARREN |
-| PP-289 | LP | LP-197 | no carrier found (every reader) |
-| PP-290 | LP | LP-197 | no carrier found (strict reader, high) |
-| PP-291 | LP | LP-198 | no carrier found (strict reader, medium) |
+| PP-289 | LP | LP-197 | no carrier found (every reader); batch 22: re-pointed to LP-66 and restated, BARREN |
+| PP-290 | LP | LP-197 | no carrier found (strict reader, high); batch 22: NO CARRIER, line kept, restated on PL-114, BARREN |
+| PP-291 | LP | LP-198 | no carrier found (strict reader, medium); batch 22: re-pointed to LP-27 and restated, BARREN |
 | PP-292 | LP | LP-198 | no carrier found (strict reader, medium) |
 | PP-293 | LP | LP-199 | no carrier found (strict reader, high) |
 | PP-294 | LP | LP-200 | no carrier found (strict reader, high) |
@@ -1856,10 +1895,10 @@ Loci, not changed here:
 | PP-274 | PL | PL-81 | no carrier found (strict reader, medium); batch 20: NO CARRIER, line kept (OPEN PM amendment), BARREN |
 | PP-279 | PL | PL-228 | no carrier found (every reader); batch 21: re-pointed to PL-322 and restated, BARREN |
 | PP-282 | PL | PL-228 | no carrier found (every reader); batch 21: NO CARRIER, line kept, stale title corrected, BARREN |
-| PP-286 | PL | PL-276 | no carrier found (strict reader, medium) |
-| PP-287 | PL | PL-276 | no carrier found (strict reader, medium) |
+| PP-286 | PL | PL-276 | no carrier found (strict reader, medium); batch 22: re-pointed to PL-253 and restated, BARREN |
+| PP-287 | PL | PL-276 | no carrier found (strict reader, medium); batch 22: re-pointed to PL-266 and restated, BARREN |
 | PP-288 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
-| PP-289 | PL | PL-239 | candidate PL-118, medium confidence, no second reader proposed it; not adopted |
+| PP-289 | PL | PL-239 | candidate PL-118, medium confidence, no second reader proposed it; not adopted; batch 22: re-pointed to PL-118 and restated, BARREN |
 | PP-292 | PL | PL-276 | no carrier found (strict reader, medium) |
 | PP-293 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-294 | PL | PL-108 | candidate PL-17, low confidence, not adopted |
