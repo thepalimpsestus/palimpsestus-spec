@@ -1968,23 +1968,23 @@ Loci, not changed here:
 | PP-294 | LP | LP-200 | no carrier found (strict reader, high); batch 23: re-pointed to LP-66 and restated, BARREN |
 | PP-295 | LP | LP-201 | no carrier found (strict reader, medium); batch 23: re-pointed to LP-541 and restated, BARREN |
 | PP-296 | LP | LP-202 | no carrier found (strict reader, high); batch 23: no carrier; nothing attributed to LP-202, restated on PL-92 alone, BARREN |
-| PP-297 | LP | LP-203 | no carrier found (strict reader, high) |
-| PP-298 | LP | LP-204 | no carrier found (strict reader, high) |
-| PP-299 | LP | LP-204 | no carrier found (strict reader, high) |
+| PP-297 | LP | LP-203 | no carrier found (strict reader, high); batch 24: no carrier; nothing attributed to LP-203 or PL-113, BARREN |
+| PP-298 | LP | LP-124 (was LP-204) | no carrier found (strict reader, high); batch 24: re-pointed to LP-124 and restated, BARREN |
+| PP-299 | LP | LP-204 | no carrier found (strict reader, high); batch 24: no carrier; nothing attributed to LP-204, restated on PL-29 alone, BARREN |
 | PP-300 | LP | LP-205 | no carrier found (strict reader, high); batch 07: no carrier found, not corrected (false attribution stays open); batch 08: restated onto PL-40 alone, nothing attributed to LP-205, BARREN |
 | PP-301 | LP | LP-205 | no carrier found (strict reader, high); batch 06: re-pointed to LP-124 and restated, BARREN |
-| PP-302 | LP | LP-206 | no carrier found (strict reader, medium) |
-| PP-303 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-304 | LP | LP-207 | no carrier found (strict reader, medium) |
+| PP-302 | LP | LP-601 (was LP-206) | no carrier found (strict reader, medium); batch 24: re-pointed to LP-601 and restated, BARREN |
+| PP-303 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 24: no carrier; bare line kept, nothing attributed to it, restated on PL-72 alone, BARREN |
+| PP-304 | LP | LP-207 | no carrier found (strict reader, medium); batch 24: no carrier; nothing attributed to LP-207, restated on PL-18 alone, BARREN |
 | PP-305 | LP | LP-208 | no carrier found (strict reader, medium); batch 09: no carrier; nothing attributed to LP-208, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, candidates LP-438, 562, 590, 602 not read; for re-cross; batch 15: LP-438, 562, 590, 602 read, NO CARRIER after a complete search, BARREN |
 | PP-306 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 07: no carrier; body's LP-208 attribution cut and restated on the PL parent alone, BARREN |
-| PP-307 | LP | LP-209 | no carrier found (strict reader, medium) |
+| PP-307 | LP | LP-209 | no carrier found (strict reader, medium); batch 25: no carrier; nothing attributed to LP-209 or PL-174, BARREN |
 | PP-308 | LP | LP-210 | no carrier found (strict reader, medium); batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, "no LP states a pruner" false (LP-57, 136, 463, 562); for re-cross; batch 15: LP-57, 136, 463, 562, 332, 333, 514, 195, 587, 678 read, NO CARRIER after a complete search, BARREN |
 | PP-309 | LP | none (bare "LP (Logical Physical)") | candidate LP-522, low confidence, not adopted; batch 09: no carrier; body's LP-210 attribution cut, restated on the PL parent alone, BARREN; batch 09 check: REOPENED, "no LP states a pruner" false (LP-57, 136, 438, 463; LP-522, 691); for re-cross; batch 15: LP-57, 136, 438, 463, 522, 691 read, NO CARRIER after a complete search, BARREN |
 | PP-310 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 07: no carrier; body's LP-210 attribution cut and restated on the PL parent alone, BARREN |
-| PP-311 | LP | LP-211 | no carrier found (strict reader, medium) |
-| PP-312 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-313 | LP | LP-212 | no carrier found (strict reader, medium) |
+| PP-311 | LP | LP-211 | no carrier found (strict reader, medium); batch 25: no carrier; nothing attributed to LP-211, restated on PL-40 alone, BARREN |
+| PP-312 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 25: no carrier (the Worker's LP-23 re-point not adopted); bare line kept, restated on PL-61 alone, BARREN |
+| PP-313 | LP | LP-66 (was LP-212) | no carrier found (strict reader, medium); batch 25: re-pointed to LP-66 and restated, BARREN |
 | PP-314 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
 | PP-315 | LP | LP-213 | no carrier found (strict reader, medium) |
 | PP-316 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, medium) |
@@ -2002,7 +2002,7 @@ Loci, not changed here:
 | PP-332 | LP | LP-222 | no carrier found (strict reader, medium) |
 | PP-334 | LP | LP-223 | no carrier found (strict reader, medium) |
 | PP-336 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-337 | LP | LP-225 | no carrier found (strict reader, medium) |
+| PP-337 | LP | LP-225 | no carrier found (strict reader, medium); batch 25: no carrier; nothing attributed to LP-225 or PL-174, BARREN |
 | PP-338 | LP | LP-226 | no carrier found (strict reader, medium) |
 | PP-339 | LP | LP-227 | no carrier found (strict reader, medium) |
 | PP-340 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 04: filled with LP-124 and restated, BARREN |
@@ -2103,20 +2103,20 @@ Loci, not changed here:
 | PP-293 | PL | PL-285 (was PL-305) | no carrier found (strict reader, high); batch 23: re-pointed to PL-285 under a stated condition (PL-287 and PL-72 read, not adopted), restated, BARREN |
 | PP-294 | PL | PL-108 | candidate PL-17, low confidence, not adopted; batch 23: PL-108 kept for what it carries, restated, BARREN |
 | PP-295 | PL | PL-237 (was PL-109) | no carrier found (strict reader, medium); batch 23: re-pointed to PL-237 and restated, BARREN |
-| PP-297 | PL | PL-113 | no carrier found (every reader) |
+| PP-297 | PL | PL-113 | no carrier found (every reader); batch 24: no carrier; nothing attributed to PL-113 or LP-203, BARREN |
 | PP-301 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN |
-| PP-303 | PL | PL-305 | no carrier found (every reader) |
+| PP-303 | PL | PL-72 (was PL-305) | no carrier found (every reader); batch 24: re-pointed to PL-72 under a stated condition, restated, BARREN |
 | PP-305 | PL | PL-72 (was PL-305) | no carrier found (strict reader, high); batch 09: re-pointed to PL-72 under a stated condition, restated, BARREN |
 | PP-306 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-115 and restated, BARREN |
-| PP-307 | PL | PL-174 | no carrier found (strict reader, medium) |
+| PP-307 | PL | PL-174 | no carrier found (strict reader, medium); batch 25: no carrier; nothing attributed to PL-174 or LP-209, BARREN |
 | PP-308 | PL | PL-82 | no carrier found (strict reader, medium); batch 09: kept and restated to the door/wall diagnostic, BARREN |
 | PP-309 | PL | PL-72 (was PL-305) | no carrier found (every reader); batch 09: re-pointed to PL-72 under a stated condition, restated, BARREN |
 | PP-310 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-26 and restated, BARREN |
-| PP-313 | PL | PL-108 | candidate PL-118, medium confidence, no second reader proposed it; not adopted |
+| PP-313 | PL | PL-118 (was PL-108) | candidate PL-118, medium confidence, no second reader proposed it; not adopted; batch 25: re-pointed to PL-118 and restated, BARREN |
 | PP-314 | PL | PL-305 | candidate PL-114, medium confidence, no second reader proposed it; not adopted |
 | PP-327 | PL | none | no carrier found (strict reader, medium) |
 | PP-331 | PL | PL-108 | candidate PL-17, low confidence, not adopted |
-| PP-337 | PL | PL-174 | no carrier found (strict reader, medium) |
+| PP-337 | PL | PL-174 | no carrier found (strict reader, medium); batch 25: no carrier; nothing attributed to PL-174 or LP-225, BARREN |
 | PP-340 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 04: re-pointed to PL-140 and restated, BARREN |
 | PP-342 | PL | PL-299 | no carrier found (strict reader, medium); batch 07: re-pointed to PL-37 and restated, BARREN |
 | PP-344 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-140 and restated, BARREN |
