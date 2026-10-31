@@ -1791,6 +1791,47 @@ Loci, not changed here:
 - PL-285's corollary (a subsystem decaying "at high speed" hidden when the aggregate is dominated by "faster-metabolizing" subsystems) does not say which rate it means; a PL-layer question, not D19's. PP-293 inherits it unchanged.
 - The checker counted 223 PP entries whose tag does not match the LLs both parents cite; tags outside the slots stay unchanged (related item 1) unless a batch or check takes the entry.
 
+### Batch 24
+
+The Worker (Sonnet) made the return against `e8e5203` (sha256 `046e9b2cf951f8be3f30daeaa351d8687a0f66c294ba21af1430314fb892619a`). It covers eight slots of the table below: the LP slots of PP-297, PP-298, PP-299, PP-302, PP-303 and PP-304, and the PL slots of PP-297 and PP-303 (PP-298, PP-299, PP-302 and PP-304 have no PL slot in the table; their PL parents PL-24, PL-29, PL-19 and PL-18 were read whole and the entries restated with them). It was applied on top of `7f706ed`, where every one of its 36 old texts still occurs once (`7f706ed` changed PP only within PP-292 to PP-296 and added no lines). OPEN PM read every parent and every adopted carrier whole (PL-18, PL-19, PL-24, PL-29, PL-72, PL-113, PL-305; LP-124, LP-203, LP-204, LP-206, LP-207, LP-601), checked the Worker's quotations of each against the text, re-ran its searches and ran one more, and amended the tags, one corollary, one search report and two line references.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-297 | PL-113 (kept, NO CARRIER) | LP-203 (kept, NO CARRIER) | BARREN | Neither parent states a negotiation protocol or a mechanism for managing sovereignty tension. The entry now records that the claim is not established, with nothing attributed to either parent. Fails Test 1. |
+| PP-298 | PL-24 (kept, restated) | LP-124 (was LP-204) | BARREN | LP-204 states archaeological gap markers and has no chain, link or receipt. LP-124 states that a derivation embeds the thermodynamic cost of its own production as a cost receipt. Restated: where each link of a proof-of-sovereignty chain is a proof held as a self-proving record (PL-24), LP-124's rule applies to it. Each half holds from one parent alone; a conjunction. |
+| PP-299 | PL-29 (kept, restated) | LP-204 (kept, NO CARRIER) | BARREN | LP-204 states gap markers and nothing of a chain's cost. PL-29 states that the thermodynamic cost of undiscovered structures is already being incurred. Restated to PL-29 under the condition that the chain's links are such structures. Fails Test 1. |
+| PP-302 | PL-19 (kept, restated) | LP-601 (was LP-206) | BARREN | LP-206 has no consequence buffer, mass record or archive. LP-601 states that the structural record of absorbed consequences is the zone's accountability history; PL-19 that external audit logs are history, not accountability, and that accountability is live structure. Restated under two conditions (the buffer is a consequence-localization zone; its record is the accountability record of the interactions). Fails Test 1. |
+| PP-303 | PL-72 (was PL-305) | bare "LP (Logical Physical)" (kept, NO CARRIER) | BARREN | The Derives line named PL-305 under a title no PL entry has ("A Living System Dies Before It Appears Dead"); PL-305 states that production edges are live managed tensions. PL-72 states that a status label must match the Pulse reality and that a structure labeled live but not traversed is not live. Restated under the condition that the buffer's liveness is held by a status label. Fails Test 1. No LP entry states a structural consequence buffer. |
+| PP-304 | PL-18 (kept, restated) | LP-207 (kept, NO CARRIER) | BARREN | LP-207 has no inheritance proof or succession. PL-18 states that a claim referencing a past topology state has no standing in the present without present re-derivation, so sovereignty cannot be inherited. Restated to PL-18 under the condition that an inheritance proof is such a claim. Fails Test 1. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **Tags.** The Worker left every tag, said so in each Irreducibility and listed them as loci. A tag stays only when both current parents cite the LL (batch 17 on). All six are removed, and each Irreducibility now says so with the LLs it read: PP-297 `[shared LL-117]` (LP-203 cites LL-117, PL-113 cites LL-293), PP-298 and PP-299 `[shared LL-119]` (LP-204 cites LL-119; PL-24 cites LL-470 and LL-473, LP-124 LL-153, PL-29 LL-474 and LL-475), PP-302 and PP-303 `[shared LL-123]` (PL-19 cites LL-8, LL-152, LL-153 and LL-473, LP-601 LL-448, PL-72 LL-264 and LL-389, PL-305 LL-225, LL-227, LL-275, LL-324, LL-386 and LL-410) and PP-304 `[shared LL-125]` (PL-18 cites LL-6 and LL-12, LP-207 LL-150).
+- **PP-302, corollary 2.** It said that where the conditions hold a zone whose record of absorbed consequences exists only in an external log "has an empty accountability structure of its own". PL-19 says the accountability structure that is then empty is the topology's, and LP-601 does not say it; the sentence moved PL-19's actor from the topology to the zone. It now says only that such a record is history and not accountability, and that the empty structure is not asserted of the zone.
+- **PP-297, one more search.** The Worker searched "negotiat" and found no entry that states a negotiation as a mechanism. OPEN PM also searched "sovereignty tension" over both files: PL-122, PL-126, PL-150, PL-276, PL-322, LP-563 and LP-581. PL-122, PL-150, LP-563 and LP-581 were read; only PL-322 names a negotiation, to say the tension is not resolved by it. The Irreducibility now reports the search.
+- **Line references.** The batch adds 16 lines to the PP file. `PP-492 (:9607)` in PP-260's Irreducibility moved to `(:9623)`. `PP-357 (:7128, …)` in PP-262's Irreducibility had been stale since batch 22: the recompute in batches 22 and 23 matched only the form `(:m)` and missed `(:m, …)`, so the 18 and 15 lines those batches added were not applied to it. It now reads `(:7177, …)`, PP-357's Derives line after this batch. The recompute now matches both forms; every `PP-n (:m` reference in the PP file equals the entry's heading + 5.
+
+Searches re-run by OPEN PM, each giving the Worker's list: "negotiat" (PL-74, PL-274, PL-322; LP-10, LP-21, LP-127, LP-169, LP-246, LP-395, LP-405, LP-540, LP-623), "consequence-aware", "consequence-blind" and "consequence-sensitive" (none), "protocol" near "negotiat" (LP-10), "sovereignty proof" and "sovereignty chain" (PL-18, PL-40, PL-106, PL-122), "thermodynamic receipt" and "cost receipt" (LP-124), "navigation debt" (PL-16), "consequence buffer" (none), "living record" (LP-251), the death phrases (LP-481), "inheritance proof" (none), "successor" (PL-91, LP-616), "status label" (PL-72), "inherit" near "sovereign" (PL-18).
+
+Verified, not changed: no spec file other than PP and PI names the six entries; PI names each only on its 95 Derives lines. In PP, PP-253's and PP-265's notes name PP-299 among the children of PL-29, and PP-262's note names PP-302 among the children of PL-19; the Derives-from parents are kept, so those notes stay true.
+
+Titles: six changed (PP-297, 298, 299, 302, 303, 304). Each title's 95 copies in PI were replaced with it (570 copies).
+
+How the slots are counted: the LP slots of PP-298 and PP-302 and the PL slot of PP-303 are RE-POINTs; the LP slots of PP-297, PP-299, PP-303 and PP-304 and the PL slot of PP-297 are NO CARRIER, each line kept with nothing attributed to it; PP-299 and PP-304 are restated to their kept PL parents. That makes 8 slots corrected. **99 remain.** BARREN lines: 109 → 115.
+
+Out-edges: LP-204 is now applied only by PP-299, which attributes nothing to it; LP-206 by none; LP-124 gains PP-298 (its other children PP-174, PP-175, PP-236, PP-243, PP-301, PP-340); LP-601 gains PP-302 (with PP-540); PL-305 loses PP-303; PL-72 gains it (with PP-305 and PP-309).
+
+Loci, not changed here:
+- PL-72 now carries three PP entries (PP-303, PP-305, PP-309), each for a different act (a buffer's status label, a detector's output, a pruner's reason). None is SUBSUMED; whether one rule wants three entries is for the title pass.
+- The stale PL-305 title still heads the Derives lines of PP-231, PP-314, PP-346 and PP-367, each with a tag PL-305 does not cite. For the batches that hold their slots.
+- PP-303's Applies-to line is the bare "LP (Logical Physical)" and names no entry; kept as the record, nothing attributed.
+- The Tier line of each of the six still reads "Tier 3 (Derived Consequence)"; for the tier pass.
+- The PI Derives lines tag all six [SUBSUMED]; the PP file marks them BARREN. PI's own text says "consequence-aware arbitration engine" (PP-301's earlier wording), not PP-297's.
+- PL-40, PL-107, PL-111 and PL-112 lie near PP-304 on the PL side; PL-18 is the named parent and carries the restated claim.
+- LP-247 (Provenance-Fuelled Boundary) is named on no PP Derives or Applies line.
+- Kernel citations of these six entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
