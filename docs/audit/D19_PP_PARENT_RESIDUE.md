@@ -1538,6 +1538,67 @@ Loci, not changed here:
 
 Note on batch 19 (2026-10-31T01:57:40Z): the ARC Lead searched the kernel for the six batch-19 entries (note `arc-lead-note-kernel-cites-batch19-entries-e5eb97e.md`, sha256 `d32d011c2e72f79467ed3214766033226e958cc9906258fcd894e72b49fe1bcc`): none is cited in the IP, IC or kernel source files at kernel `1195baa`. The kernel rows file, certification and tests were not searched.
 
+### Batch 19, independent check
+
+A blind checker (Opus; brief sha256 `43b984ca2bf6bc35fef0f4701eee59d38ce09307c2c82adb41fb5f168b9a0bd3`, return `6dbe650de4875b04cd353e44500cf453e570624f4844cb659c9072b3b6db0bb8`) used its own copy of A at `e5eb97e`. It read each entry, each parent and the entries named below whole, and wrote its entry judgments before it opened this record. It gave HOLDS for PP-258 and AMEND for PP-259, PP-260, PP-262, PP-264 and PP-265. It agreed with all six BARREN marks, with the re-points of PP-258 and the PL re-point of PP-260, with the five LP slots closed as NO CARRIER, with the tag decisions and with the 570 PI title copies. Each AMEND was read again by OPEN PM at the tip and adopted; the fixes are in the same commit as batch 20.
+
+Adopted:
+- **PP-264 and PP-265, quotations.** Both Irreducibility sections quoted LP-180 as "the most valuable node in the graph". LP-180 says "in its local neighborhood". The batch 19 review said it checked the Worker's quotations against the parent text and missed this one. Both quotations now read as LP-180 does.
+- **Line references.** Five `PP-n (:m)` references in the batch's Irreducibility sections pointed at the wrong line (PP-492 and PP-261 in PP-260, PP-357 in PP-262, PP-263 in PP-264, PP-264 in PP-265). A reference points at the entry's Derives line (heading + 5), and every line inserted earlier in the file moves it. The batch 19 review did not check them. They are recomputed after the batch 20 edits (PP-492 :9574, PP-261 :5321, PP-357 :7128, PP-263 :5363, PP-264 :5382), and from this batch on, the apply step recomputes every `PP-n (:m)` reference in PP and asserts that each one is right.
+- **PP-259, Irreducibility.** It said only PL-83 and PL-94 use "mesh" in PL. PL-88 (PL :3270) also does. The sentence now names PL-83, PL-88 and PL-94.
+- **PP-264, Irreducibility paragraph 2.** It narrowed PL-145's frontier to "the frontier of the layers" and dropped "measured against the full topology". It now states PL-145's frontier as PL-145 does. The checker rated this medium; it is adopted because the narrower reading is not PL-145's.
+- **PP-252, overlap note.** It said PP-257, PP-263, PP-264 and PP-268 "are on the same obligation subject". As restated, PP-263 and PP-264 have no obligation subject, and after batch 20 neither has PP-268. The note now says they apply the same PL-145 rule to other subjects (untested positions, the frontier itself, the layers of a recursive consequence substrate and the reach of a cascade).
+
+Not adopted: none. The checker's notes on the PI `[SUBSUMED]` tag agree with the record's locus and add that every bracketed tag after a title in PI is `[SUBSUMED]` (68,115 of them, no other form): a convention of the PI file, not a stale tag of these six.
+
+Out-edges: the checker also searched II; 0 lines cite the six entries.
+
+New loci, not changed here:
+- PP-261 (PP :5321) carries `[shared LL-245]`, the LL of its old above parent LP-177; its parents PL-266 and LP-616 both cite LL-472, which its own italic cites.
+- PP-357 attributes to LP-236 a "topological consequence integrator", which LP-236 (Perpetual Maintenance Floor) does not state, and to PL-19 a structural mass that is a living record and cannot be archived, which the batch 19 crossing of PP-262 found PL-19 does not carry; its `[shared LL-157]` is cited by neither parent.
+- PL-38's title ("The Logical and Physical Cannot Be Administered Separately") is not carried by its body, which states only that there is no administrative layer above the topology (already a batch 19 locus; the checker reached it on its own path).
+- LP-251's corollary "The system contains no 'living records'" stands against PL-19's living accountability record (already a batch 19 locus; reached again).
+- Method: the apply step of a batch must recompute the line references the batch writes, and the review must check every quotation of a parent word for word against the parent, not only that a quoted phrase occurs in the spec.
+
+### Batch 20
+
+The Worker (Sonnet) made the return against `b806ab9` (sha256 `1301541b98a85b0046a3db0fd8645eb28784c6b20f7d0bd0017d8b124f22ae51`). It covers nine slots of the table below: the LP slots of PP-266, PP-267, PP-268, PP-271, PP-272 and PP-274, and the PL slots of PP-266, PP-272 and PP-274. It was applied on top of `8a0cb25`, where every one of its 36 old texts still occurs once. OPEN PM read every parent and every adopted carrier whole (PL-27, PL-40, PL-81, PL-145, PL-181, PL-228, PL-322; LP-181, LP-182, LP-183, LP-186, LP-187, LP-188, LP-209, LP-397) and the alternatives the entries name (PL-17, LP-391, LP-117, LP-120, LP-480, LP-672), checked the Worker's quotations of each against the text, and amended two PL slots, the tags, three Irreducibility sentences and one italic.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-266 | PL-181 (kept) | LP-181 (kept) | BARREN | LP-181 states that the system catalogs untested graph positions as a map of negative space; PL-181 states metabolic self-correction and the mutual transformation of two traversers. Neither mentions a channel, a direction or a flow. No PL or LP entry found states that a consequence channel is bidirectional. Both lines are kept with nothing attributed to them; the entry says the earlier claim is not established. Each parent's statement holds from it alone (Tests 1 and 2); a conjunction. |
+| PP-267 | PL-40 (kept) | LP-186 (was LP-182) | BARREN | LP-182 states that an untested position is a pre-existing structure and has no obligation, cascade or reach. LP-186 states that a command at the macro scale triggers the same command recursively down through every scale, cascading accountability all the way down. Restated: where the reach of a cascade down through every scale is held as a sovereignty claim, proving it requires present traversal, and a documented reach is a label (PL-40). Fails Test 1 under the stated condition. |
+| PP-268 | PL-145 (kept) | LP-186 (was LP-183) | BARREN | LP-183 states that the agent interface uses the same verbs at every scale and has no obligation, cascade or reach. Restated: where proving the reach of a cascade down through every scale (LP-186) is a traversal, it creates more unexplored territory than it maps (PL-145). Fails Test 1 under the stated condition. |
+| PP-271 | PL-27 (kept) | LP-209 (was LP-186) | BARREN | LP-186 states the cascade of a command down through every scale and has no verification, sovereignty or completeness. LP-209 states the single verification operation that proves accountability at every scale. Restated: where such a verification is held as a claim that the topology is complete, the claim cannot be self-certified (PL-27). Fails Test 1 under the stated condition. |
+| PP-272 | PL-322 (was PL-228) | LP-187 (kept) | BARREN | PL-228 states that the exercise of a right is present-tense and its inherence is not; the Derives line named it under a title no PL entry has ("High-Consequence Intersections Are Constitutionally Priority Governance Sites"). LP-187 states that the most valuable commands are those applied to unknown objects and has no sovereignty, intersection or governance. PL-322 states that the tension between two sovereign derivations at one intersection is irreducible and managed, not resolved. Restated to PL-322's rule; nothing is attributed to LP-187. Fails Test 1 under the stated condition. |
+| PP-274 | PL-81 (kept) | LP-397 (was LP-188) | BARREN | LP-188 states that the agent interface is defined in its own verbs and has no pulse, synchronization or schedule. LP-397 states that a phase-lock between scales cannot be stored or paused and exists only as an active exchange. PL-81 states that an edge exists only while conducting force; it has no synchronization or schedule, and nothing is attributed to it. Restated: where a synchronization of pulses is a phase-lock between scales, it cannot be stored or paused (LP-397). Fails Test 2 under the stated condition. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-272, PL slot.** The Worker closed it as NO CARRIER, kept PL-228 under its stale title and wrote the entry as a claim that is not established. PP-279 (batch 21) had the same stale title on its Derives line and was re-pointed to PL-322, which carries the subject both entries share: sovereignty claims that meet at one intersection. PP-272 is re-pointed the same way, so that one family of entries reads one way. Only PL-322's own rule is attributed, and the title, italic, Irreducible Claim and corollaries are restated to it (the first two corollaries from PL-322, the last one "Not asserted"). LP-563 states the same rule from the LP side and is not adopted for the Applies-to line, since PL-322 × LP-563 is PP-563's pair; LP-187 stays as NO CARRIER. The rule for this family: where a Derives line names PL-228 under the stale title, it is re-pointed to the nearest PL entry when that entry carries the entry's subject (PP-279, PP-272); otherwise PL-228 is kept, with its title corrected and nothing attributed to it (PP-282). PL-228 remains the Derives parent of PP-84, PP-86, PP-282 and PP-487.
+- **PP-274, PL slot.** The Worker kept PL-81 for "a record of a non-conducting edge is not an edge", under the condition that a stored synchronization is such a record. That condition gives PL-81 a role the earlier text never gave it (the earlier text mentioned no edge), and no parent states it. A condition is not invented to keep a parent. The slot is NO CARRIER: the Derives line stays, nothing is attributed to PL-81, the title and the "non-conducting edge" half of the claim are cut, and the entry rests on LP-397 alone (Test 2). PL-17 (Logical Proofs About the Topology Expire) and LP-391 (Present-Tense Rhythm Enforcement) were read as alternatives and are not adopted; the Irreducibility names both and says why PL-17 does not bear the claim.
+- **Tags.** The Worker kept every tag. A tag stays only when both current parents cite the LL (batch 17 on). All six are removed: PP-266 `[shared LL-249]` (LP-181 cites LL-249; PL-181 cites LL-31, LL-42 and LL-453), PP-267 `[shared LL-250]` (PL-40 cites LL-8 and LL-24; LP-186 cites LL-254), PP-268 `[shared LL-251]` (PL-145 cites LL-239 and LL-247), PP-271 `[shared LL-254]` (PL-27 cites LL-10 and LL-26; LP-209 cites LL-66), PP-272 `[shared LL-256]` (PL-322 cites LL-219 and LL-329; LP-187 cites LL-256) and PP-274 `[shared LL-60]` (PL-81 cites LL-73, LL-82, LL-160 and LL-430; LP-397 cites LL-299).
+- **PP-267.** The Irreducibility said that the alternative to the re-point is NO CARRIER with LP-182 kept, which removes the overlap with PP-242. That is a review note and not a statement of the entry, and it is moved here: the re-point is kept (low-medium in the return) because LP-186 carries the reach of a cascade down through every scale, the entry's subject, under a stated condition; its word is accountability and the entry's was obligation, and the entry says so. After the re-point PP-267 sits on PL-40 × LP-186, PP-242's pair; Test 1 decides PP-267 before Test 3 is reached, so the overlap is noted, not classified. The sentence on LP-186's other children now names PP-241 and, after this batch, PP-268.
+- **Openings.** Four Irreducibility sections began "Re-crossed and re-pointed under D19". They now begin "Re-crossed under D19", as every other D19 entry does.
+- **PP-266, italic.** It said "The entry's claim" for the claim the entry says is not established. It now says "The earlier claim", as PP-249's does (batch 18 check).
+
+Titles: six changed (PP-266, 267, 268, 271, 272, 274). Each title's 95 copies in PI were replaced with it (570 copies).
+
+How the slots are counted: the LP slots of PP-267, PP-268, PP-271 and PP-274 and the PL slot of PP-272 are RE-POINTs; the LP and PL slots of PP-266, the LP slot of PP-272 and the PL slot of PP-274 are NO CARRIER, each line kept with nothing attributed to it. That makes 9 slots corrected. **125 remain.** BARREN lines: 92 → 98.
+
+Out-edges: IP and IC cite none of the six entries. PI cites each only on its 95 Derives lines. In PP, PP-252's overlap note named PP-268 on "the same obligation subject" and now names the subjects as they stand (above); PP-254 lists PP-267, and PP-251 and PP-341 list PP-271, among the entries that derive from PL-40 and PL-27; those lists stay true.
+
+Loci, not changed here:
+- PP-273 (PL-323 × LP-563) attributes to LP-563 that "sovereignty gradient intersections are points where sovereignty claims from different domains overlap", the phrase PP-272's earlier claim gave LP-187; "sovereignty gradient" occurs in no LP or PL entry. Its `[shared LL-256]` matches neither parent (batch 21 check, out of scope). It is left for the batch that holds its slot.
+- The batch 21 locus on PP-272's stale PL-228 title is closed by the re-point above. PP-84, PP-86 and PP-487 still name PL-228 and were not read here; whether they carry the stale title is open.
+- PP-242 and PP-267 now sit on the same pair (PL-40 × LP-186); LP-186 is the Applies-to parent of PP-241, PP-242, PP-267 and PP-268. PP-272, PP-279 and PP-563 all state PL-322's rule. Close siblings, not classified.
+- PP-266 and PP-272's LP-187 half rest on NO CARRIER lines; whether such a line should stay is the open method question already named at batch 21.
+- "bidirectional" occurs in LP-630 and in PL-90, PL-99 and PL-209, and LP-120 states verification across blind spots; each was read against its entry and none carries it. They are named so that a later reader does not search again from nothing.
+- PP-267, PP-268, PP-271 and PP-274 now rest on LP-186, LP-209 and LP-397; a later change to any of them reopens these entries.
+- The PI Derives-from lines tag all six entries [SUBSUMED]; the PP file now marks them BARREN (a PI-wide convention, see the batch 19 check).
+- Kernel citations of these six entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1585,14 +1646,14 @@ Note on batch 19 (2026-10-31T01:57:40Z): the ARC Lead searched the kernel for th
 | PP-263 | LP | LP-179 | no carrier found (strict reader, high); batch 01b: restated, BARREN |
 | PP-264 | LP | LP-180 | candidate LP-401, low confidence, not adopted; batch 19: no carrier; nothing attributed to LP-180, restated on PL-145, BARREN |
 | PP-265 | LP | LP-180 | no carrier found (strict reader, high); batch 19: no carrier; nothing attributed to LP-180, restated on PL-29, BARREN |
-| PP-266 | LP | LP-181 | no carrier found (every reader) |
-| PP-267 | LP | LP-182 | no carrier found (every reader) |
-| PP-268 | LP | LP-183 | no carrier found (strict reader, high) |
+| PP-266 | LP | LP-181 | no carrier found (every reader); batch 20: NO CARRIER, line kept, BARREN |
+| PP-267 | LP | LP-182 | no carrier found (every reader); batch 20: re-pointed to LP-186 and restated, BARREN |
+| PP-268 | LP | LP-183 | no carrier found (strict reader, high); batch 20: re-pointed to LP-186 and restated, BARREN |
 | PP-269 | LP | LP-184 | no carrier found (every reader); batch 01b: restated, BARREN |
 | PP-270 | LP | LP-185 | no carrier found (strict reader, high); batch 04: read, not corrected (sense conflicts; to the title pass); batch 11: RE-POINT → LP-212 |
-| PP-271 | LP | LP-186 | no carrier found (strict reader, low) |
-| PP-272 | LP | LP-187 | no carrier found (every reader) |
-| PP-274 | LP | LP-188 | candidate LP-397, low confidence, not adopted |
+| PP-271 | LP | LP-186 | no carrier found (strict reader, low); batch 20: re-pointed to LP-209 and restated, BARREN |
+| PP-272 | LP | LP-187 | no carrier found (every reader); batch 20: NO CARRIER, line kept, BARREN |
+| PP-274 | LP | LP-188 | candidate LP-397, low confidence, not adopted; batch 20: re-pointed to LP-397 and restated, BARREN |
 | PP-275 | LP | LP-483 (was LP-189) | no carrier found (strict reader, low); batch 01: re-pointed and restated, BARREN |
 | PP-276 | LP | LP-190 | no carrier found (strict reader, high); batch 04: read, not corrected (to the title pass); batch 11: RE-POINT → LP-671 |
 | PP-277 | LP | LP-191 | no carrier found (strict reader, medium); batch 21: re-pointed to LP-136 and restated, BARREN |
@@ -1734,11 +1795,11 @@ Note on batch 19 (2026-10-31T01:57:40Z): the ARC Lead searched the kernel for th
 | PP-258 | PL | PL-177 | candidate PL-205, low confidence, not adopted; batch 19: re-pointed to PL-237, restated, BARREN |
 | PP-260 | PL | PL-240 | candidate PL-29, low confidence, not adopted; batch 19: re-pointed to PL-236 (the old title matched no PL entry), restated, BARREN |
 | PP-261 | PL | PL-299 | no carrier found (strict reader, medium); batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
-| PP-266 | PL | PL-181 | no carrier found (strict reader, medium) |
+| PP-266 | PL | PL-181 | no carrier found (strict reader, medium); batch 20: NO CARRIER, line kept, BARREN |
 | PP-269 | PL | PL-182 | no carrier found (every reader); batch 01b: restated, BARREN |
 | PP-270 | PL | PL-183 | no carrier found (strict reader, medium); batch 04: read, not corrected (sense conflicts; to the title pass); batch 11: RE-POINT → PL-77 |
-| PP-272 | PL | PL-228 | no carrier found (every reader) |
-| PP-274 | PL | PL-81 | no carrier found (strict reader, medium) |
+| PP-272 | PL | PL-228 | no carrier found (every reader); batch 20: re-pointed to PL-322 and restated (OPEN PM amendment), BARREN |
+| PP-274 | PL | PL-81 | no carrier found (strict reader, medium); batch 20: NO CARRIER, line kept (OPEN PM amendment), BARREN |
 | PP-279 | PL | PL-228 | no carrier found (every reader); batch 21: re-pointed to PL-322 and restated, BARREN |
 | PP-282 | PL | PL-228 | no carrier found (every reader); batch 21: NO CARRIER, line kept, stale title corrected, BARREN |
 | PP-286 | PL | PL-276 | no carrier found (strict reader, medium) |
