@@ -1365,6 +1365,46 @@ Loci, not changed here:
 - The PI Derives-from lines tag all eight entries [SUBSUMED]; the PP file now marks them BARREN.
 - Kernel citations of these eight entries were not checked.
 
+### Batch 18
+
+The Worker (Sonnet) made the return against `c3dfee5` (sha256 `fa3dc444840432923dcf6a319bb1019ad99e501236682788e3effde70bb8904c`). It covers eight slots of the table below: the LP slots of PP-248, PP-249, PP-250, PP-251, PP-252, PP-253 and PP-254, and the PL slot of PP-249. It was applied on top of `4ad7a0b`, where every one of its 42 old texts still occurs once. OPEN PM read every parent and every adopted carrier whole (PL-27, PL-29, PL-40, PL-124, PL-145, PL-175, PL-313; LP-66, LP-135, LP-168, LP-169, LP-170, LP-171, LP-172, LP-173, LP-491), checked the Worker's quotations of each against the parent files, and amended tags and one title.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-248 | PL-313 (kept) | LP-135 (was LP-168) | BARREN | LP-168 states that survey results are valid only in the present scan and has no chain or proof. LP-135 states that validity is not a stored attribute of a node but a reaction triggered by a freshness query; PL-313 states that validity is a response a derivation generates when queried. Restated: where a proof-of-consequence chain's validity is read as the validity of a derivation or a node, it is a query response and cannot be stored. Fails Test 1 under the stated condition. |
+| PP-249 | PL-175 (kept) | LP-169 (kept) | BARREN | PL-175 states emergence as threshold excavation; LP-169 states the survey as a sequence of sovereignty encounters. Neither states a constraint propagation wave or an enforcement cost. Both slots NO CARRIER: the entry states each parent's own fact and that the old claim is not established. Read as a conjunction of two single-parent facts with no claim left to cross. |
+| PP-250 | PL-124 (kept) | LP-66 (was LP-170) | BARREN | LP-170 states the surveyor's accountability for what it uncovers and has no router or routing. LP-66 states that a routing decision cannot be pre-planned and must be re-evaluated at every junction. Restated: where a consequence router's decision is a routing decision made at a junction, it cannot be pre-planned and must be made on arrival (LP-66). PL-124 is kept and nothing is attributed to it. Fails Test 2 under the stated condition. |
+| PP-251 | PL-27 (kept) | LP-171 (kept) | BARREN | LP-171 states that the survey's non-termination is structurally guaranteed by incompleteness; it is kept for that statement only, and has no obligation or descendant chain. Restated: where charting the descendants of an obligation is a survey and its reach is held as a completeness claim, the reach cannot be proved complete (PL-27) and the survey does not terminate (LP-171). Fails Test 1 under the stated condition. |
+| PP-252 | PL-145 (kept) | LP-172 (kept) | BARREN | LP-172 states that unsurveyed territory holds more value than charted territory and has no obligation or descendant chain. Restated: where tracing obligations through descendant chains is a traversal, it creates more unexplored territory than it resolves (PL-145). Fails Test 1 under the stated condition. |
+| PP-253 | PL-29 (kept) | LP-491 (was LP-172) | BARREN | LP-172 has no thermodynamic cost. LP-491 states that the territory a survey discovers was already accruing its maintenance cost. PL-29 states that undiscovered structures already owe thermodynamic debt. Restated: where unexplored obligation territory is read as undiscovered structure, its thermodynamic cost is already being incurred and discovery reveals it (PL-29). Fails Test 1 under the stated condition. |
+| PP-254 | PL-40 (kept) | LP-173 (kept) | BARREN | LP-173 states the survey revealing a pre-existing infinite topology and has no attractor or force. Restated: where an accountability propagation attractor's force is held as a sovereignty claim, proving it requires present traversal and a certificate is a label (PL-40). Fails Test 1 under the stated condition. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **Tags.** Seven `[shared LL-x]` tags named only the LL of the old LP parent, and no current parent pair shares it: PP-248 (LL-236), PP-249 (LL-237), PP-250 (LL-238), PP-251 (LL-239), PP-252 (LL-240), PP-253 (LL-240), PP-254 (LL-241). They are removed. On the three re-pointed entries the Irreducibility now says why the old tag is not carried over: LP-135 does not cite LL-236 (PP-248); neither PL-124 nor LP-66 cites LL-238 (PP-250); neither PL-29 nor LP-491 cites LL-240 (PP-253).
+- **PP-250 title.** The Worker's title ended "It Must Be Re-Evaluated at Every Junction", LP-66's corollary wording, which reads as an operation on a route. It now reads "Made at a Junction … It Must Be Made on Arrival", which is LP-66's rule under the entry's condition.
+- **PP-365 Irreducibility.** It said that PP-247, PP-248 and PP-722 apply to LP-168. It now says that PP-247 and PP-722 do, and that PP-248 did until this batch re-pointed it to LP-135.
+- **PP-249.** The Worker gave BARREN at medium-low confidence over UNRESOLVED. BARREN is accepted: the restated text asserts no crossing product, so nothing is left for Test 3 to judge. PL-24 was near for the PL slot and is not adopted: it needs the condition that a constraint is a logical claim, which the entry does not state. This is the first entry closed with both slots NO CARRIER and a "Not Established" title; PP-246 and PP-270, the two earlier entries with both slots NO CARRIER, were later given carriers, so this one is a locus for a later carrier search.
+- **Re-points over NO CARRIER.** The Worker rated each of the three re-points low-medium over NO CARRIER. Each is accepted: LP-135, LP-66 and LP-491 each state the rule the restated title states, under the entry's own condition.
+
+Titles: seven changed (PP-248 to PP-254). Each title's 95 copies in PI were replaced with it (665 copies), so no PI copy of these seven is stale.
+
+How the slots are counted: the LP slots of PP-248, PP-250 and PP-253 are RE-POINTs; the LP slot of PP-251 is a RESTATE with LP-171 kept for one statement; the LP slots of PP-249, PP-252 and PP-254 and the PL slot of PP-249 are NO CARRIER, each line kept with nothing attributed to it. That makes 8 slots corrected. **150 remain.** BARREN lines: 72 → 79.
+
+Out-edges: IP and IC cite none of the seven entries. PI cites each only on its 95 Derives lines. In PP, PP-257 names PP-252 and PP-341 names PP-251; neither is changed here.
+
+Loci, not changed here:
+- PP-528's Derives line names PP-528 itself (`PP-528 (Total System Thermodynamic Cost Is Constitutively Uncalculable …) [shared LL-474]`); it applies to LP-491. Its PL parent is not named. Found when LP-491 was read for PP-253.
+- PP-248 now stands on the same pair as PP-186 (PL-313 × LP-135, shared LL-171): a new Test 3 pair PP-248/PP-186. PL-313 is also PP-181's parent.
+- PL-29 and LP-491 share LL-474, which neither PP-253 nor its old tag names. PL-145 cites LL-239, PP-251's old tag LL, not PP-252's.
+- Overlap with siblings, noted and not classified: PP-95 (PL-114 × LP-66) beside PP-250; PP-265 (PL-29 × LP-180, unexplored territory) beside PP-253; PP-318 (PL-40 × a bare "LP") beside PP-254. PL-124 is also the parent of PP-232, PP-328 and PP-363; PL-27 of 13 other entries; PL-145 of 13 others, among them PP-257, 263, 264 and 268, which share the obligation subject; PL-40 of 18 others.
+- Old-body phrases stand in other PP entries: "proof-of-consequence chain" (PP-247), "accountability propagation attractor" (PP-255).
+- Two kept Derives parents carry nothing: PL-124 (PP-250) and PL-175 (PP-249).
+- Each entry's subject noun (a proof-of-consequence chain, a constraint propagation wave, a consequence router, an obligation's descendant chain, an accountability propagation attractor) has no parent and survives only as the stated condition.
+- The PI Derives-from lines tag all seven entries [SUBSUMED]; the PP file now marks them BARREN.
+- Kernel citations of these seven entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1394,13 +1434,13 @@ Loci, not changed here:
 | PP-245 | LP | LP-166 | no carrier found (strict reader, high); batch 17: no carrier; nothing attributed to LP-166, restated on PL-14 alone, BARREN |
 | PP-246 | LP | LP-167 | no carrier found (every reader); batch 04: read, not corrected (to the title pass); batch 11: NO CARRIER, kept, nothing attributed (LP-478 crossed, not adopted) |
 | PP-247 | LP | LP-168 | no carrier found (strict reader, high); batch 17: no carrier; nothing attributed to LP-168, restated on PL-17 alone, BARREN |
-| PP-248 | LP | LP-168 | no carrier found (strict reader, high) |
-| PP-249 | LP | LP-169 | no carrier found (strict reader, medium) |
-| PP-250 | LP | LP-170 | no carrier found (strict reader, high) |
-| PP-251 | LP | LP-171 | no carrier found (strict reader, high) |
-| PP-252 | LP | LP-172 | no carrier found (strict reader, high) |
-| PP-253 | LP | LP-172 | candidate LP-610, low confidence, not adopted |
-| PP-254 | LP | LP-173 | no carrier found (every reader) |
+| PP-248 | LP | LP-168 | no carrier found (strict reader, high); batch 18: re-pointed to LP-135, restated, BARREN |
+| PP-249 | LP | LP-169 | no carrier found (strict reader, medium); batch 18: no carrier; nothing attributed to LP-169, BARREN (both slots no carrier) |
+| PP-250 | LP | LP-170 | no carrier found (strict reader, high); batch 18: re-pointed to LP-66, restated, BARREN |
+| PP-251 | LP | LP-171 | no carrier found (strict reader, high); batch 18: LP-171 kept for the non-termination statement only, restated, BARREN |
+| PP-252 | LP | LP-172 | no carrier found (strict reader, high); batch 18: no carrier; nothing attributed to LP-172, restated on PL-145 alone, BARREN |
+| PP-253 | LP | LP-172 | candidate LP-610, low confidence, not adopted; batch 18: re-pointed to LP-491, restated, BARREN |
+| PP-254 | LP | LP-173 | no carrier found (every reader); batch 18: no carrier; nothing attributed to LP-173, restated on PL-40 alone, BARREN |
 | PP-255 | LP | LP-613 (was LP-173) | no carrier found (strict reader, high); batch 08: no carrier, nothing attributed to LP-173, BARREN settled; batch 10: re-pointed to LP-613 and restated, BARREN |
 | PP-256 | LP | LP-174 | no carrier found (strict reader, low); batch 15: RE-POINT → LP-209 under a stated condition, restated, BARREN |
 | PP-257 | LP | LP-174 | no carrier found (strict reader, low); batch 15: LP-174 kept as the carrier of the every-scale part, accountability claims cut, restated, BARREN |
@@ -1556,7 +1596,7 @@ Loci, not changed here:
 | PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-243 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-246 | PL | PL-174 | no carrier found (every reader); batch 04: read, not corrected (to the title pass); batch 11: RE-POINT → PL-302 |
-| PP-249 | PL | PL-175 | no carrier found (strict reader, medium) |
+| PP-249 | PL | PL-175 | no carrier found (strict reader, medium); batch 18: no carrier; nothing attributed to PL-175, BARREN (both slots no carrier) |
 | PP-255 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-267 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-258 | PL | PL-177 | candidate PL-205, low confidence, not adopted |
 | PP-260 | PL | PL-240 | candidate PL-29, low confidence, not adopted |
