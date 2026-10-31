@@ -2799,6 +2799,50 @@ Loci (not acted on):
 - PP-412 and PP-413 share LL-79 through LP-292 and LP-362, and PL-50 is the one PL entry citing it; neither is re-pointed to it.
 - The six entries keep "Tier 3 (Derived Consequence)" while each is now BARREN; the Tier line is left as the file has it for every BARREN entry.
 
+### Batch 39
+
+The Worker (Sonnet) made the return against `4babb34` (sha256 `2f0d6a22ea7eaa0e76a1058de5fbb53a88b82372ba77e1eb2c507d66fd7aebd4`). It covers the last six PL slots of the table below: PP-444, PP-455, PP-461, PP-472, PP-473 and PP-503. It was applied on top of `6afa224`, where the six entries are as at `4babb34` (no commit since changed a line of them). OPEN PM checked every absence count the Worker gives against the parents' text (PL-156, PL-187, PL-195, PL-209, PL-210, PL-92; LP-659, LP-451, LP-397, LP-224, LP-231, LP-293), read the one PL entry that cites each LP parent's LL (PL-128 for LL-188, PL-56 for LL-278 and LL-350, PL-86 for LL-299, PL-75 for LL-351, PL-81 for LL-82), checked the Worker's quotations and attributions against their sources, and made the amendments listed below.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-444 | PL-156 (kept, NO CARRIER) | LP-659 (kept, restated) | BARREN | PL-156 (Negative Space Energy Economics) states that "the energy economics of the topology are negative-space-centered", and has no conscious moment, discovery or consciousness level. LP-659 states the restated claim: the complexity of knowledge that can be meaningfully accessed in a single attention context is bounded by the entity's consciousness level. Fails Test 2. |
+| PP-455 | PL-187 (kept, NO CARRIER) | LP-451 (kept, restated) | BARREN | PL-187 (Living Contestation Ecology) states that "contestation is the selective pressure that keeps the living topology evolutionarily fit", and has no humility, assertion, challenge or uncertainty. LP-451 states the restated claim: a challenge edge triggers re-derivation only if it carries a physical uncertainty tag detailing the challenger's own epistemic gaps. Fails Test 2. |
+| PP-461 | PL-195 (kept, NO CARRIER) | LP-397 (kept, restated) | BARREN | PL-195 (Field Structure is Truth Structure) states that "The field is truth-bearing before any traverser arrives.", and has no storage, value, synchronization or exchange. LP-397 states the restated claim: the physical phase-lock between scales cannot be stored or paused and drops to zero value if the active oscillation stops. Fails Test 2. |
+| PP-472 | PL-209 (kept, NO CARRIER) | LP-224 (kept, restated) | BARREN | PL-209 (Dynamic Incompleteness Boundary) states that the ignorance boundary moves in both directions as the topology metabolizes, and has no beginner, novice, filter or bypass. LP-224 states the restated claim: newly spawned, context-free agents are physically permitted to challenge and bypass cached validations that would block expert agents. Fails Test 2. |
+| PP-473 | PL-210 (kept, NO CARRIER) | LP-231 (kept, restated) | BARREN | PL-210 (Unreachability-Driven Contestation) states that some truths are contested because they are unreachable, and has no beginner, label, metadata or arrogance. LP-231 states the restated claim: agents in beginner mode are structurally blinded to cached metadata and summary labels. Fails Test 2. |
+| PP-503 | PL-92 (kept, NO CARRIER) | LP-293 (kept, restated) | BARREN | PL-92 (Obligation as Edge) states that "An obligation in this topology is a force relationship.", and has no severance, saturation or backpressure. LP-293 states the restated claim: during active backpressure the edge to a saturated node is treated as if it does not exist for new flow. Fails Test 2. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **The italic is the LP sentence only.** Each italic ended with a second sentence saying what the kept PL parent does not state; it is deleted in all six, so the italic is the LP parent's sentence ending "(LP-n)", as in PP-92 and PP-393.
+- **The kept PL parent has its own claim paragraph.** In all six the Irreducible Claim is split before the kept PL parent's sentence, and the new paragraph opens "PL-n is kept as this entry's PL parent and nothing is attributed to it.", as in PP-412 (batch 38). Each entry gains a second claim paragraph.
+- **PP-473, PL-75.** PL-75 (Field Topology of Agreement) is the one PL entry that cites LL-351, the LL LP-231 cites, and the Worker had not named it. It is now set aside with its nearest sentence ("Agreements, contracts, and consent are not overlay mechanisms for the field — they ARE topological structures within it."), its absence counts (0 mentions of label, summary, metadata, beginner and arrogance) and a note that the tag is not evidence and PL-75 is not this entry's parent.
+- **Tag notes.** PL-128 in PP-444 (LL-188) and PL-86 in PP-461 (LL-299) were named and set aside without a tag note; each now says that it cites the LL, that the tag is not evidence, and (PL-128) that it is not this entry's parent. PL-56 in PP-455 and PP-472 and PL-81 in PP-503 carried a note already.
+- **PP-296's note of its sibling.** PP-296 (batch 23) described PL-92's other PP child, PP-503, as stating "the edge-as-force rule for dynamic severance simulation", the claim cut here. It now says that PP-503 states, from LP-293 alone, that during active backpressure the edge to the saturated node is treated as if it does not exist for new flow.
+
+Accepted as the Worker made them: the six NO CARRIER slots (PL-156, PL-187, PL-195, PL-209, PL-210 and PL-92 kept on the Derives-from line with nothing attributed, as in batches 08, 09, 31, 33 to 38); the candidates set aside, with their nearest sentences (for PP-444 PL-259, PL-217, PL-316 and PL-128, with PL-100, PL-110, PL-233, PL-304 and PL-325 read for the search terms, and PL-259 recorded as the alternative; for PP-455 PL-56, PL-151, PL-159 and PL-125; for PP-461 PL-193, PL-86, PL-205 and PL-219, with PL-193 recorded as the alternative; for PP-472 PL-56, PL-120, PL-161, PL-297 and PL-206; for PP-473 PL-326, PL-13 and PL-298, with PL-247, PL-246, PL-41, PL-30 and PL-139 read; for PP-503 PL-81, PL-323, PL-82, PL-90 and PL-89, with PL-81 recorded as the alternative). Six tags are removed (`[shared LL-188]`, `[shared LL-278]`, `[shared LL-299]`, `[shared LL-350]`, `[shared LL-351]` and `[shared LL-82]`); in each, the current PL parent does not cite the LL, which the LP parent alone cites. The rows file's candidates (PL-259 for PP-444, PL-193 for PP-461, PL-56 for PP-472, PL-81 for PP-503) were each read and not adopted: each would bear the earlier claim only under a condition that neither parent states, or (PL-56) states only the premise its LP parent takes from the same LL.
+
+Line references. The batch adds 18 lines to the PP file (each of the six gains its state line and a second claim paragraph). Of the 23 `PP-n (:m` references in the PP file, 3 move: PP-451 by 3, PP-492 by 15 and PP-718 by 18. PP-221's bare list of PL-17 headers moves with them (:11202, :11642 and :11702 → :11220, :11660 and :11720). Every `PP-n (:m` reference in the PP file equals the entry's heading + 5. The PP file goes from 14288 to 14306 lines. PI's 570 title copies (95 for each of the six) are replaced, and no foundations file carries an earlier title of the six.
+
+Titles. Six new titles, each restating the entry:
+- PP-444 "The Complexity of Knowledge Meaningfully Accessed in a Single Attention Context Is Bounded by the Entity's Consciousness Level — Degraded Comprehension Flags the Processing and Does Not Block the Entity"
+- PP-455 "A Challenge Edge Must Carry a Physical Uncertainty Tag Detailing the Challenger's Own Epistemic Gaps to Trigger Re-Derivation — the System Physically Drops Challenge Edges That Present as 100% Certain Counter-Claims"
+- PP-461 "The Physical Phase-Lock Between Scales Cannot Be Stored or Paused — It Exists Strictly as an Active, Ongoing Exchange of Rhythmic Energy and Drops to Zero Value Instantly if the Active Oscillation Stops"
+- PP-472 "Novice Vectors, Newly Spawned Context-Free Agents, Are Physically Permitted to Challenge and Bypass Cached Validations That Would Block Expert Agents — They Lack the Historical State That Makes Older Agents Blind to Paradigm Flaws"
+- PP-473 "The Physical Implementation Requires Beginner-Mode Agents to Be Structurally Blinded to Cached Metadata and Summary Labels — the Network Refuses to Serve Them Node Summaries, so They Must Traverse the Full Internal Topology of the Node"
+- PP-503 "Dynamic Severance Simulation Treats the Edge to a Saturated Node as Temporarily Severed — During Active Backpressure the Edge Is Treated as If It Does Not Exist for New Flow, Forcing Upstream Traversal Algorithms to Find Entirely New Paths"
+
+How the slots are counted: six PL slots; six NO CARRIER. 6 slots corrected. **0 remain**: every one of the 250 slots has been worked. BARREN lines: 196 → 202.
+
+Out-edges: none change. PL-156 keeps its Derives-from slot in PP-444, PL-187 in PP-455, PL-195 in PP-461, PL-209 in PP-472, PL-210 in PP-473 and PL-92 in PP-503 as NO CARRIER with nothing attributed. PI: 95 Derives-from lines for each of the six carry the new titles; IP and IC have none.
+
+Loci (not acted on):
+- PP-399 (PL-81 × LP-293) is not one of the 250 slots. It attributes to PL-81 that "the edge IS the force field present at every point along its extent" and that there is no separate bridge being blocked; PL-81 says that an edge exists only while it is conducting force, and has no field present at every point and no bridge. PP-399 shares LP-293 with PP-503. It is the same kind of residue as this record's slots, outside its list.
+- LP-659 reports LL-188 as "knowledge access scales with consciousness level", and its Irreducibility says that LL-188 establishes consciousness-scaled access. LL-188 (Consciousness Traversal) says "Every conscious moment discovers something that has never been discovered before because the intersection of system states making up that moment is fundamentally unrepeatable."; it has no consciousness level and no access. PP-444's earlier claim is LL-188's own, and neither of PP-444's parents states it. The attribution is in the LP file and is not a PP parent residue.
+- PP-455 and PP-472 each set aside PL-56, which applies both LL-278 and LL-350; neither is re-pointed to it.
+- The six entries keep "Tier 3 (Derived Consequence)" while each is now BARREN; the Tier line is left as the file has it for every BARREN entry.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -3049,9 +3093,9 @@ Loci (not acted on):
 | PP-436 | PL | PL-142 | candidate PL-266, medium confidence, no second reader proposed it; not adopted; batch 38: NO CARRIER, PL-142 kept with nothing attributed, restated to LP-653 alone, BARREN |
 | PP-437 | PL | PL-143 | no carrier found (every reader); batch 38: NO CARRIER, PL-143 kept with nothing attributed, restated to LP-657 alone, BARREN |
 | PP-438 | PL | PL-143 | no carrier found (every reader); batch 38: NO CARRIER, PL-143 kept with nothing attributed, restated to LP-656 alone, BARREN |
-| PP-444 | PL | PL-156 | candidate PL-259, low confidence, not adopted |
-| PP-455 | PL | PL-187 | no carrier found (every reader) |
-| PP-461 | PL | PL-195 | candidate PL-193, low confidence, not adopted |
-| PP-472 | PL | PL-209 | candidate PL-56, low confidence, not adopted |
-| PP-473 | PL | PL-210 | no carrier found (strict reader, medium) |
-| PP-503 | PL | PL-92 | candidate PL-81, low confidence, not adopted |
+| PP-444 | PL | PL-156 | candidate PL-259, low confidence, not adopted; batch 39: NO CARRIER, PL-156 kept with nothing attributed, restated to LP-659 alone, BARREN |
+| PP-455 | PL | PL-187 | no carrier found (every reader); batch 39: NO CARRIER, PL-187 kept with nothing attributed, restated to LP-451 alone, BARREN |
+| PP-461 | PL | PL-195 | candidate PL-193, low confidence, not adopted; batch 39: NO CARRIER, PL-195 kept with nothing attributed, restated to LP-397 alone, BARREN |
+| PP-472 | PL | PL-209 | candidate PL-56, low confidence, not adopted; batch 39: NO CARRIER, PL-209 kept with nothing attributed, restated to LP-224 alone, BARREN |
+| PP-473 | PL | PL-210 | no carrier found (strict reader, medium); batch 39: NO CARRIER, PL-210 kept with nothing attributed, restated to LP-231 alone, BARREN |
+| PP-503 | PL | PL-92 | candidate PL-81, low confidence, not adopted; batch 39: NO CARRIER, PL-92 kept with nothing attributed, restated to LP-293 alone, BARREN |
