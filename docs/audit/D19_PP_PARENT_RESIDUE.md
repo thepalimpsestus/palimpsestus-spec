@@ -2229,6 +2229,64 @@ Loci, not changed here:
 - The Tier line of each of the six still reads "Tier 3 (Derived Consequence)"; for the tier pass. PI's [SUBSUMED] tags on these BARREN entries, as before.
 - Kernel citations of these six entries were not checked.
 
+### Batch 31
+
+The Worker (Sonnet) made the return against `72531a0` (sha256 `6e95f44532c10ba60525f26c8b2709d74828c5b8e4957b6e34a0584db5d8794d`). It covers eight slots of the table below: the LP slots of PP-355 to PP-361, and the PL slot of PP-361. It was applied on top of `e2d8915`, where every one of its forty-two old texts still occurs once (`bb9c983`, `339d477` and `e2d8915` changed PP lines in the batch 29 and batch 30 entries and their notes, and none of these texts). OPEN PM read every parent whole (PL-40, PL-27, PL-19, PL-114, PL-248, PL-108; LP-235, LP-236, LP-237, LP-238), the adopted carriers (LP-186, PL-118), checked the Worker's quotations against the text, and amended six Irreducibility texts to the current tip.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-355 | PL-40 (kept, restated) | LP-186 (was LP-235) | BARREN | LP-235 (Inherent Structural Incompleteness) states that the complexity floor prevents an entity from being optimized into a complete state and has no cascade, accountability or level. LP-186 (Scale-Invariant Consequence Propagation) states that a command at the macro scale triggers the identical command down through every micro scale, "carrying full accountability at every layer". Restated under the condition that the accountability a cascade carries down to each scale is held as a sovereignty claim backed by a pre-evaluated certificate: PL-40's rule applies, proving it requires present traversal and the certificate is a label. Fails Test 1. |
+| PP-356 | PL-27 (kept, restated) | LP-186 (was bare "LP (Logical Physical)") | BARREN | Restated under the condition that a claim that a cascade has carried accountability down through every scale is held as a claim that the topology is complete: PL-27's rule applies, and the claim cannot be self-certified. LP-186 carries the cascade. Fails Test 1. |
+| PP-357 | PL-19 (kept, restated) | LP-236 (kept, NO CARRIER) | BARREN | LP-236 (Perpetual Maintenance Floor) states that the complexity floor needs perpetual maintenance and has no record, consequence, integration or archive. Restated under the condition that an integrated record of consequences is the accountability record of a topology interaction: PL-19's rule applies, it must be a living structure in the present-tense topology, and an archive of it is history and not accountability. Fails Test 1. |
+| PP-358 | PL-114 (kept, restated) | bare "LP (Logical Physical)" (kept, NO CARRIER) | BARREN | The whole LP file was searched for a carrier of detecting a death in integrated consequences; none. Restated under the condition that a record of consequences is held as showing that a paradox engine is operating: PL-114's rule applies, the engine is operational only while it is churning, and a stopped engine's structural mass residue is not the engine. Fails Test 1. |
+| PP-359 | PL-248 (kept, restated) | LP-237 (kept, NO CARRIER) | BARREN | LP-237 (Scale-Invariant Preemptive Shielding) states that preemptive protection activates uniformly across scales and has no filter, sovereignty or stored configuration. Restated where a structure's sovereignty is claimed on the strength of a stored filter configuration and not performed through active traversal: by PL-248 the claim is a structural-label claim, and sovereignty is not static ownership. Fails Test 1. |
+| PP-360 | PL-27 (kept, restated) | bare "LP (Logical Physical)" (kept, NO CARRIER) | BARREN | Restated under the condition that a claim that all consequences have been filtered is held as a claim that the topology is complete: PL-27's rule applies, and the claim cannot be self-certified. No LP entry carries a consequence filter's completeness. Fails Test 1. |
+| PP-361 | PL-118 (was PL-108) | LP-238 (kept, NO CARRIER) | BARREN | LP-238 (Preemptive Present-Tense Hardening) states that hardening against tension occurs only in the present and has no ordering, event or weight. PL-108 (Decay of Physical State) states that every claim about the physical state ages from the moment it is made; the entry's step is not aging in time. PL-118 (Instant Validity Invalidation) states that "Any structural change in the present-tense topology instantly invalidates all prior evaluated states of the affected region." Restated where a stored ordering of consequence events is held as an evaluation of a region: any structural change in that region invalidates it at once, and the evaluation must run again. Fails Test 1. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **Six Irreducibility texts amended to the current tip.** The return was made at `72531a0`, before batches 29 and 30. PP-356 and PP-360 listed thirteen other PP children of PL-27 including PP-354; batch 30 re-pointed PP-354 to PL-16, so each list is now twelve and says so. PP-360 described PP-348 by its old title; it now describes it by its current claim (the claim that a router has handled all sovereignty cases, held as a claim that the topology is complete). PP-359 described PP-334 the same way; it now reads "the sensitivity calibration of a sovereignty boundary held as a sovereignty claim". PP-361's list of PL-118's PP children now includes PP-345, re-pointed to PL-118 in batch 29. PP-358's list of entries that state PL-114's rule now adds PP-290, PP-339 (batch 29) and PP-349 (batch 30), each under its own condition.
+- **PP-355 and PP-356, the re-point to LP-186.** LP-186 carries accountability cascading down through every scale. The restated texts use LP-186's scales and do not equate a scale with the earlier text's "level"; "constitutional basis" and "some cascade levels are always uncharted" are cut and listed as not asserted. Accepted; OPEN PM's confidence medium, as the Worker's. PP-355 now sits on the same pair as PP-242 (PL-40 × LP-186, no state line) and PP-267 (the same pair, BARREN): see the loci.
+- **PP-361, PL-118 over PL-108.** The Worker's rows file pointed the PL slot to PL-108 kept; the Worker's own reading disagrees, and OPEN PM agrees with the reading. PL-108's rule is aging from the moment of a claim; the entry's rule is expiry on a structural change, which is PL-118's own sentence. PL-107, PL-102, LP-63 and LP-62, named as alternatives, are not adopted: the nearest, PL-107, says a claim's validity must be produced in the present and not inherited from a past evaluation, and none of the four states an evaluation invalidated by a structural change. Accepted, medium.
+- **Tags.** The Worker removed all seven and each Irreducibility says so: PP-355 and PP-356 `[shared LL-156]`, PP-357 and PP-358 `[shared LL-157]`, PP-359 and PP-360 `[shared LL-158]`, PP-361 `[shared LL-159]`. OPEN PM checked each against the current parents: in every case at least one current parent does not cite the LL.
+- **Twelve notes in other entries.** The Worker proposed seven of them as loci (PP-262, PP-267, PP-268, PP-289, PP-290, PP-294, PP-365); OPEN PM applied them in their current-tip form and added the other five:
+  - PP-262 describes PP-357 by its current claim ("an integrated record of consequences held as the accountability record of a topology interaction"), not by the old title's "Topological Consequence Integrator".
+  - PP-267 and PP-268 add PP-355 and PP-356 to LP-186's Applies-to children since batch 31; PP-267 notes that PP-355 is on the same pair as itself.
+  - PP-290 says that PP-339 was restated in batch 29, PP-349 in batch 30 and PP-358 in batch 31, and that PP-190 and PP-362 are not restated.
+  - PP-294 drops PP-361 from PL-108's other children and says it was re-pointed to PL-118 in batch 31.
+  - PP-289 and PP-365 list PP-361 among PL-118's children (PP-289's list also has PP-345).
+  - PP-348's list of PL-27's other children goes from thirteen to twelve and says that PP-354 was re-pointed to PL-16 in batch 30.
+  - PP-349 adds PP-358 to the entries that restate PL-114's rule.
+  - PP-334 and PP-338 say, in their notes on PP-359 and PP-357, that each was restated in batch 31.
+  - PP-339 says that PP-343 and PP-362 carry "Must Detect Constitutional Death", that PP-349 did until batch 30, and PP-358 until batch 31.
+- **Line references.** The batch adds 7 lines to the PP file, one in each entry. The list of header lines on PP line 4510 now reads `:11140, :11580, :11640` for its last three. Two `PP-n (:m` references move: PP-492 (:9697 to :9704, by 7) and PP-357 (:7250 to :7252, by 2, since only PP-355 and PP-356 are above it). Every `PP-n (:m` reference in the PP file (13) equals the entry's heading + 5. The PP file goes from 14215 to 14222 lines. PI's 665 title copies (95 for each of the seven) are replaced, and no PI line carries an earlier title of the seven.
+
+Searches re-run by OPEN PM, each giving the Worker's list: in PL and LP, "consequence-sensitive" (none), "accountability cascade" (none), "integrator" (none), "constitutional death" (none), "sovereignty-sensitive" (none), "own completeness" (PL-27; LP-650), "self-certif" (PL-27), "structural mass residue" (PL-45, PL-114), "living record" (LP-251). The header order on each of the seven is Derives, Derivational State, Applies, as in batch 30, and no Derives line carries a tag.
+
+Verified, not changed: the Applies-to lines of the five NO CARRIER slots stand (PP-357 LP-236, PP-359 LP-237, PP-361 LP-238; PP-358 and PP-360 the bare "LP (Logical Physical)"), kept and marked as in batches 08 and 09. PP-360's old Irreducibility began "LP-237 alone establishes" though its Applies-to line names no LP entry; the line is replaced in full.
+
+Titles. Seven new titles, each restating the entry under its condition:
+- PP-355 "Where the Accountability a Cascade Carries Down to Each Scale Is Held as a Sovereignty Claim Backed by a Pre-Evaluated Certificate, Proving It Requires Present Traversal — The Certificate Is a Label"
+- PP-356 "Where a Claim That a Cascade Has Carried Accountability Down Through Every Scale Is Held as a Claim That the Topology Is Complete, the Claim Cannot Be Self-Certified"
+- PP-357 "Where an Integrated Record of Consequences Is the Accountability Record of a Topology Interaction, It Must Be a Living Structure in the Present-Tense Topology — An Archive of It Is History and Not Accountability"
+- PP-358 "Where a Record of Consequences Is Held as Showing That a Paradox Engine Is Operating, the Engine Is Operational Only While It Is Churning — A Stopped Engine's Structural Mass Residue Is Not the Engine"
+- PP-359 "Where a Structure's Sovereignty Is Claimed on the Strength of a Stored Filter Configuration and Not Performed Through Active Traversal, the Claim Is a Structural-Label Claim — Sovereignty Is Not Static Ownership"
+- PP-360 "Where a Claim That All Consequences Have Been Filtered Is Held as a Claim That the Topology Is Complete, the Claim Cannot Be Self-Certified"
+- PP-361 "Where a Stored Ordering of Consequence Events Is Held as an Evaluation of a Region of the Topology, Any Structural Change in That Region Invalidates It at Once — The Evaluation Must Run Again"
+
+How the slots are counted: seven LP slots (PP-355 to PP-361) and one PL slot (PP-361); three RE-POINT (PP-355 and PP-356 to LP-186, PP-361 to PL-118) and five NO CARRIER. 8 slots corrected. **44 remain.** BARREN lines: 151 → 158.
+
+Out-edges: LP-235 loses PP-355, and PP-356's text no longer attributes anything to it; LP-236, LP-237 and LP-238 keep their Applies-to slots as NO CARRIER with nothing attributed. LP-186 gains PP-355 and PP-356 (its Applies-to children are now PP-241, PP-242, PP-267, PP-268, PP-355 and PP-356). PL-108 loses PP-361 (its PP children are now PP-294, PP-647 and PP-649). PL-118 gains PP-361 (PP-289, PP-313, PP-345, PP-361, PP-365 and PP-425). PI: 95 Derives-from lines for each of the seven carry the new titles; IP and IC have none.
+
+Loci (not acted on):
+- PP-242, PP-267 and PP-355 sit on one pair, PL-40 × LP-186; PP-242 has no state line. Not classified (Test 3 not reached).
+- LP-650 states that an audit trail must self-prove its completeness; PL-27 states that the topology cannot make a valid claim of its own completeness. PP-356 and PP-360 rest on PL-27; neither relies on LP-650.
+- LP-251 ("no living records, only living processes and dead records") beside PL-19 (the accountability record must be living): different subjects; PP-357 does not rely on LP-251.
+- PL-118's children: PL-17, PL-260 and PL-107, carried as a locus from earlier batches, were not examined in this batch.
+- "Must Detect Constitutional Death" is now only in the PP-343 and PP-362 titles.
+- Other "Consequence-Aware" titles in the PP file are untouched; Tier lines and kernel citations in the seven were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2357,13 +2415,13 @@ Loci, not changed here:
 | PP-352 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low); batch 30: re-pointed to LP-600 under the same condition as PP-351, restated by halves on PL-18 and LP-600, BARREN |
 | PP-353 | LP | LP-234 | no carrier found (every reader); batch 30: re-pointed to LP-335 (Topological Incompleteness Map) under the condition that a consequence propagation is a traversal, restated on LP-335 alone, BARREN |
 | PP-354 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low); batch 30: no carrier; bare line kept, nothing attributed to it, restated on PL-16 alone, BARREN |
-| PP-355 | LP | LP-235 | no carrier found (every reader) |
-| PP-356 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-357 | LP | LP-236 | no carrier found (strict reader, medium) |
-| PP-358 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-359 | LP | LP-237 | no carrier found (strict reader, medium) |
-| PP-360 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-361 | LP | LP-238 | no carrier found (strict reader, medium) |
+| PP-355 | LP | LP-235 | no carrier found (every reader); batch 31: re-pointed to LP-186 (Scale-Invariant Consequence Propagation), which carries accountability cascading through every scale; restated on PL-40 under a stated condition, BARREN |
+| PP-356 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 31: re-pointed to LP-186 as for PP-355; restated on PL-27 under a stated condition, BARREN |
+| PP-357 | LP | LP-236 | no carrier found (strict reader, medium); batch 31: no carrier; nothing attributed to LP-236, restated on PL-19 alone, BARREN |
+| PP-358 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 31: no carrier; bare line kept, nothing attributed to it, restated on PL-114 alone, BARREN |
+| PP-359 | LP | LP-237 | no carrier found (strict reader, medium); batch 31: no carrier; nothing attributed to LP-237, restated on PL-248 alone, BARREN |
+| PP-360 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 31: no carrier; bare line kept, nothing attributed to it, restated on PL-27 alone, BARREN |
+| PP-361 | LP | LP-238 | no carrier found (strict reader, medium); batch 31: no carrier; nothing attributed to LP-238, restated on PL-118 alone, BARREN |
 | PP-362 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
 | PP-363 | LP | LP-239 | no carrier found (strict reader, medium) |
 | PP-364 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
@@ -2461,7 +2519,7 @@ Loci, not changed here:
 | PP-346 | PL | PL-114 (was PL-305) | no carrier found (every reader); batch 26: re-pointed to PL-114 under a stated condition, restated, BARREN |
 | PP-353 | PL | PL-22 | no carrier found (every reader); batch 30: no carrier; PL-22 kept on the Derives line, nothing attributed to it, restated on LP-335 alone, BARREN |
 | PP-354 | PL | PL-27 | candidate PL-84, low confidence, not adopted; batch 30: PL-84 read whole and set aside (its added sovereignty standing is not the entry's); re-pointed to PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy), restated on PL-16 alone, BARREN |
-| PP-361 | PL | PL-108 | candidate PL-118, medium confidence, no second reader proposed it; not adopted |
+| PP-361 | PL | PL-108 | candidate PL-118, medium confidence, no second reader proposed it; not adopted; batch 31: PL-108 read whole and set aside (aging from a claim, not invalidation on a structural change); re-pointed to PL-118 (Instant Validity Invalidation), restated on PL-118 alone, BARREN |
 | PP-366 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-140 and restated, BARREN |
 | PP-367 | PL | PL-287 (was PL-305) | no carrier found (strict reader, high); batch 28: re-pointed to PL-287 under a stated condition, restated, BARREN |
 | PP-382 | PL | PL-60 | no carrier found (strict reader, medium) |
