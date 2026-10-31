@@ -1231,6 +1231,49 @@ Loci, not changed here:
 - Kernel citations of these seven entries were not checked.
 - PP-111 (LP-80 × PL-1) attributes to LP-80 that the edge of the map is located inside every node. LP-80 does not state it; this is the same misreading that PP-112 carried.
 
+### Batch 16
+
+The Worker (Sonnet) made the return against `83de0c9` (sha256 `c03061b10311025507bd07aa4ad55c321332b169557c4cfa506fdf55eaa48ee2`). It covers seven slots of the table below: the LP slots of PP-216, PP-220, PP-221, PP-223 and PP-227, and the PL slots of PP-216 and PP-219. It also covers two PL lines outside the table, which batch 12 named as loci: PP-13 and PP-35, whose bodies used PL-40's matter. It was applied on top of `40c709a`, where every one of its 48 old texts still occurs once. OPEN PM read every parent and every named candidate whole (PL-17, PL-18, PL-20, PL-21, PL-22, PL-25, PL-26, PL-30, PL-40, PL-45, PL-78, PL-127, PL-132, PL-219, PL-253, PL-324; LP-1, LP-7, LP-21, LP-151, LP-152, LP-153, LP-155, LP-245, LP-479, LP-581, LP-599, LP-620, LP-662) and amended two re-points.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-13 | PL-20 (kept) | LP-7 (kept) | BARREN | The body gave PL-20 a certificate, an attestation, proof by live traversal and expiry at issuance. PL-20 states that sovereignty is derived from constitutional foundations along a provenance chain and not declared, and uses none of those words. Proof by traversal is PL-40's matter, and PL-40 × LP-7 is PP-15's cell, so PL-40 is not adopted here. Restated: where a protocol endpoint's reciprocity claim is held as a sovereignty claim, it must be derived and cannot be declared (PL-20). Fails Test 1 under the stated condition. |
+| PP-35 | PL-40 (PL-21) | LP-21 (kept) | BARREN | PL-21 states the due process of a correction (reducibility of the original, or irreducibility of the correction) and mentions no constitutional foundations, certificate or traversal. The body's claim is PL-40's, nearly in its words. Re-pointed to PL-40 under the stated condition that the correction is held as a sovereignty claim; LP-21 is kept for the restorative force that must present proof. Fails Test 1. |
+| PP-216 | PL-127 (PL-22) | LP-662 (LP-151) | BARREN | LP-151 (a self-declaration is partial) states no limit-testing; the same attribution was removed from PP-217 and PP-218 in batch 03. PL-22 (no path for sovereignty bypass) states no map and no navigation. LP-662 states that a probe updates the representation of a knowledge boundary; PL-127 states that mapping what is unknown is a sovereign navigational act. Under the condition that the probing of a sovereignty limit is held as a frontier probe, the two halves stand side by side: a conjunction. |
+| PP-219 | PL-78 (PL-30) | LP-245 (kept) | BARREN | PL-30 states that the boundary is the topology's most honest statement and says nothing of Structural Mass or dissolution. The Worker proposed PL-219; PL-219 speaks of memory and mentions no dissolution, so OPEN PM re-pointed to PL-78, which states that the residue of a dissolved topology entity is Structural Mass. Under the condition that a dissolved boundary is held as such an entity, PL-78's residue and LP-245's latent trace stand side by side: a conjunction. That they are one thing is in neither parent and is not claimed. |
+| PP-220 | PL-25 (kept) | LP-152 (kept, NO CARRIER) | BARREN | LP-152 (declared ignorance) mentions no boundary and no dissolution. LP-245, LP-138, LP-243, LP-247 and LP-30 were read; none carries permanence. NO CARRIER; nothing is attributed to LP-152. Restated on PL-25: a dissolution held as a topology interaction cannot be undone, and a rollback is a forward action. Fails Test 1. |
+| PP-221 | PL-17 (kept) | LP-152 (kept, NO CARRIER) | BARREN | LP-152 mentions no boundary and no dissolution. LP-243, LP-245, LP-246, LP-247 and the six LP entries containing "expir" were read; none carries proof expiry on dissolution. NO CARRIER; nothing is attributed to LP-152. PL-17 says every proof about topology state is valid only at the instant of evaluation; it names no trigger and no simultaneous expiry, so "mass, simultaneous proof expiry" is cut. Fails Test 1. |
+| PP-223 | PL-18 (kept) | LP-599 (LP-153) | BARREN | LP-153 (discovered identity) mentions no maintenance and no membrane. The Worker proposed LP-1 and named LP-599 as a close alternative. OPEN PM re-pointed to LP-599, because the entry turns on a record of a past boundary against a present one, and LP-599 states exactly that: a boundary registered but not performed is a historical record, not a current structural fact. LP-1 and LP-479 state maintenance cost and decay and no record; PL-18 × LP-1 is PP-222's cell. The credential half (PL-18) and the record half (LP-599) stand side by side: a conjunction. |
+| PP-227 | PL-324 (kept) | LP-155 (kept) | BARREN | LP-155 states that the pulse is the maintenance of derivational tension and that a derivation that collapses into resolution ceases to exist as an agent. It carries the pulse half; it does not use "paradox-resistant", "competing paths" or "structure", and states no replacement by Structural Mass. PL-324 carries the derivation as sustained tension. Both lines kept; the halves stand side by side. Fails Test 1. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-219, all six parts.** The Worker re-pointed the Derives line to PL-219 (Structural Mass of a past topology state, as memory). PL-219 mentions no boundary and no dissolution. PL-78 states the residue of a dissolved topology entity, which is the matter the restated entry needs. The title, parent lines, italic, claim, corollaries and Irreducibility were rewritten on PL-78. The Irreducibility names PL-219, PL-45 (Edge Fossil, near; it speaks of an edge), PL-253 (the mass of maintenance before dissolution) and PL-18 and PL-132 as read and not adopted. It also notes that PL-26 says dissolving a structure releases Structural Mass, which is not reconciled with PL-78's residue here.
+- **PP-223, all six parts.** The Worker re-pointed the Applies line to LP-1 and called LP-599 a close alternative. OPEN PM chose LP-599: its text states the record-versus-present distinction the title turns on, while LP-1 states only the energy of maintenance. LP-1 and LP-479 are named as near and not adopted. Test 3 is not reached; the overlap with PP-222 (PL-18 × LP-1) and PP-514 (PL-253 × LP-599) is noted, not classified.
+- **PP-227, Irreducibility.** A missing comma in a quoted list ("competing paths simultaneously", "replaces …") is added.
+
+Titles: eight changed (PP-13, 35, 216, 219, 220, 221, 223, 227). Each title's 95 copies in PI were replaced with it, so no PI copy of these eight is stale.
+
+How the slots are counted: four table slots are RE-POINTs (PP-216 LP and PL, PP-219 PL, PP-223 LP); the LP slots of PP-220 and PP-221 are NO CARRIER; and the LP slot of PP-227 is kept as a carrier of part of the restated entry. That makes 7 slots corrected. PP-13 and PP-35 are not table slots (they were batch 12 loci), so they add no count. **167 remain.** BARREN lines: 56 → 64.
+
+Out-edges:
+- IP cites PP-13 on four lines: :673 (an Applies-to list), :679, :689 and :1297. IP:679 and IP:689 give PP-13 authority "derived from live traversal"; the restated PP-13 carries derivation along a provenance chain and not live traversal, which is PL-40's matter (to D23). IP:1297 cites PP-13 for fuel diffusing across adjacent pulser nodes, which PP-13 never stated (to D23).
+- 31 IP lines of the form "PP-35 Invariant (...)" cite PP-35 for thermodynamic-work invariants, which PP-35 does not state (to D23).
+- IC:363 lists PP-35 among its Applies-to tags (recorded, not changed). IP and IC carry no mention of PP-216, 219, 220, 221, 223 or 227.
+
+Loci, not changed here:
+- PP-222 (PL-18 × LP-1) attributes "continuously re-derived" to PL-18, which does not state it.
+- The PI Derives-from lines tag all eight entries [SUBSUMED]; the PP file now marks them BARREN.
+- The `[shared LL-x]` tags on PP-35 (LL-36), PP-216 (LL-10) and PP-219 (LL-11) no longer match the parents.
+- LP-245 says a dissolved boundary reactivates on resumed use; the old PP-220 said no dissolution is reversible. The restated PP-220 does not make the old claim. Whether LP-245 and PL-25 agree is for whoever owns LP-245.
+- PL-26 ("releases" Structural Mass on dissolution) and PL-78 ("residue" is Structural Mass) are not reconciled.
+- PL-45 (Edge Fossil) is near PP-219 and is the parent of no PP entry on this cell.
+- PP-514 (PL-253 × LP-599) states matter near PP-223.
+- The cell PL-21 × LP-21 is empty after PP-35's re-point; PL-21's due-process rule is now a parent statement of no PP entry.
+- The corollaries of all eight entries read examples (SLAs, audits, deprecated APIs, mergers, contracts, compliance history, consensus) as the entry's own step; neither parent states them.
+- Kernel citations of these eight entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1239,14 +1282,14 @@ Loci, not changed here:
 | :--- | :---: | :--- | :--- |
 | PP-102 | LP | LP-72 | no carrier found (strict reader, low); batch 04: kept and restated, BARREN |
 | PP-113 | LP | LP-216 (was LP-81) | candidate LP-210, low confidence, not adopted; batch 01: re-pointed and restated, BARREN |
-| PP-216 | LP | LP-151 | no carrier found (strict reader, medium) |
+| PP-216 | LP | LP-662 (was LP-151) | no carrier found (strict reader, medium); batch 16: re-pointed to LP-662 under a stated condition, restated, BARREN |
 | PP-217 | LP | LP-151 | candidate LP-243, low confidence, not adopted; batch 03: re-pointed to LP-246 and restated, BARREN |
 | PP-218 | LP | LP-151 | no carrier found (strict reader, medium); batch 03: kept and restated, BARREN |
-| PP-220 | LP | LP-152 | no carrier found (strict reader, medium) |
-| PP-221 | LP | LP-152 | no carrier found (strict reader, medium) |
-| PP-223 | LP | LP-153 | candidate LP-1, medium confidence, no second reader proposed it; not adopted |
+| PP-220 | LP | LP-152 | no carrier found (strict reader, medium); batch 16: no carrier; nothing attributed to LP-152, restated on PL-25 alone, BARREN |
+| PP-221 | LP | LP-152 | no carrier found (strict reader, medium); batch 16: no carrier; nothing attributed to LP-152, restated on PL-17 alone, BARREN |
+| PP-223 | LP | LP-599 (was LP-153) | candidate LP-1, medium confidence, no second reader proposed it; not adopted; batch 16: re-pointed to LP-599 (LP-1 read, not adopted) under stated conditions, restated, BARREN |
 | PP-224 | LP | LP-154 | no carrier found (strict reader, medium); batch 01: restated, BARREN |
-| PP-227 | LP | LP-155 | no carrier found (strict reader, medium) |
+| PP-227 | LP | LP-155 | no carrier found (strict reader, medium); batch 16: kept, LP-155 carries the pulse half, restated, BARREN |
 | PP-232 | LP | LP-234 (was LP-158) | candidate LP-238, low confidence, not adopted; batch 01: re-pointed and restated, BARREN |
 | PP-233 | LP | LP-159 | no carrier found (strict reader, high) |
 | PP-234 | LP | LP-159 | no carrier found (strict reader, high) |
@@ -1414,9 +1457,9 @@ Loci, not changed here:
 | PP-192 | PL | PL-154 | no carrier found (strict reader, medium) |
 | PP-196 | PL | PL-198 | no carrier found (every reader); batch 05: read, not corrected (to the title pass); batch 11: RE-POINT → PL-36 |
 | PP-199 | PL | PL-50 | no carrier found (strict reader, high); batch 03: re-pointed to PL-237 and restated, BARREN |
-| PP-216 | PL | PL-22 | no carrier found (every reader) |
+| PP-216 | PL | PL-127 (was PL-22) | no carrier found (every reader); batch 16: re-pointed to PL-127 under a stated condition, restated, BARREN |
 | PP-217 | PL | PL-27 | candidate PL-84, low confidence, not adopted; batch 03: re-pointed to PL-84 and restated, BARREN |
-| PP-219 | PL | PL-30 | no carrier found (strict reader, medium) |
+| PP-219 | PL | PL-78 (was PL-30) | no carrier found (strict reader, medium); batch 16: re-pointed to PL-78 under a stated condition, restated, BARREN |
 | PP-231 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-233 | PL | PL-305 | no carrier found (strict reader, high) |
 | PP-236 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-140 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
