@@ -1499,6 +1499,45 @@ Loci, not changed here:
 - The PI Derives-from lines tag all six entries [SUBSUMED]; the PP file now marks them BARREN.
 - Kernel citations of these six entries were not checked.
 
+### Batch 21
+
+The Worker (Sonnet) made the return against `f38b73c` (sha256 `bc37066adb94f30d77bcbff02dc0a39aadb47ab931b3c614cc33553b821de333`). It covers eight slots of the table below: the LP slots of PP-277, PP-278, PP-280, PP-282, PP-283 and PP-284, and the PL slots of PP-279 and PP-282. It was applied on top of `e5eb97e`, where every one of its 42 old texts still occurs once. OPEN PM read every parent and every adopted carrier whole (PL-1, PL-40, PL-145, PL-228, PL-255, PL-322, PL-323; LP-23, LP-136, LP-192, LP-193, LP-194, LP-383), checked the Worker's quotations of each against the text, and amended the tags, four Irreducibility test readings, two other Irreducibility sentences and six sets of corollaries.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-277 | PL-1 (kept) | LP-136 (was LP-191) | BARREN | LP-191 states that the verbs of accountability are the same at every scale and has no connection, atrophy or edge. LP-136 states that an edge needs continuous traversal and starves when traversal stops. Restated: where a test for connection atrophy is a test of structural integrity, it meets the same standard at every scale (PL-1). Each half holds from one parent alone (Tests 1 and 2); a conjunction. |
+| PP-278 | PL-255 (kept) | LP-136 (was LP-191) | BARREN | As PP-277 for LP-191. Restated: where a connection is a structure maintained by continuous action, no depth is exempt from that action (PL-255), and an edge is kept by traversal (LP-136). Each half holds from one parent alone; a conjunction. |
+| PP-279 | PL-322 (was PL-228) | LP-23 (kept) | BARREN | PL-228 states that the exercise of a right is present-tense and its inherence is not; the Derives line named it under a title no PL entry has ("High-Consequence Intersections Are Constitutionally Priority Governance Sites"). No PL entry states that such intersections are priority governance sites. PL-322 states that the tension between two sovereign derivations at one intersection is irreducible and managed, not resolved. Restated: where a boundary between nodes is such an intersection, the tension is managed (PL-322), and each node has its own gate (LP-23). Each half holds from one parent alone; a conjunction. |
+| PP-280 | PL-323 (kept) | LP-192 (kept) | BARREN | LP-192 states that an agent is constituted by its active derivation work and has no mesh, sovereignty claim or tension. LP-563 is near and is not adopted: PL-323 × LP-563 is PP-273's pair. Restated: where a truth is the tension between overlapping sovereignty claims, resolving or extracting the tension leaves a dead truth (PL-323). Fails Test 1 under the stated condition. |
+| PP-282 | PL-228 (kept; title corrected) | LP-383 (was LP-193) | BARREN | LP-193 states that an agent is the ongoing process of comprehension and has no edge, weight or consequence. LP-383 states that a consequence crossing an edge is modulated by the edge's confidence score. PL-228 carries nothing of the entry; its Derives line is kept with nothing attributed to it, and its stale title is replaced by its own. Restated: where an edge's weight is its confidence score, consequences cross high-weight edges with high fidelity and are dampened by low-weight edges (LP-383). Fails Test 2 under the stated condition. |
+| PP-283 | PL-40 (kept) | LP-194 (kept) | BARREN | LP-194 states that the paradox engine's oscillation at the boundaries generates new edges and has no cascade, trigger, response or sovereignty claim. Restated: where a triggered response acts on a sovereignty claim, the claim is proved by present traversal at the trigger, and a stored certificate is a label (PL-40). Fails Test 1 under the stated condition. |
+| PP-284 | PL-145 (kept) | LP-194 (kept) | BARREN | LP-194 carries a boundary that generates edges and has no cascade or response. Restated: where a response to a cascade is a traversal, it creates more unexplored territory than it maps (PL-145), and a boundary it reaches generates new edges (LP-194). Each half holds from one parent alone; a conjunction. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **Tags.** The Worker kept every tag. A tag stays only when both current parents cite the LL (batch 17, batch 18, batch 19). All seven are removed: PP-277 and PP-278 `[shared LL-66]` (LP-136 cites LL-177; PL-1 cites LL-66 and PL-255 cites LL-452), PP-279 `[shared LL-259]` (PL-322 cites LL-329 and LL-219; LP-23 cites LL-1), PP-280 `[shared LL-259]` (LP-192 cites LL-259; PL-323 does not), PP-282 `[shared LL-262]` (PL-228 cites LL-262; LP-383 cites LL-210), PP-283 `[shared LL-270]` (LP-194 cites LL-270; PL-40 cites LL-8) and PP-284 `[shared LL-270]` (PL-145 cites LL-239 and LL-247). The Worker's flag 1 had said the last three still match; they match only the LP parent.
+- **Test reading.** PP-277, PP-278, PP-279 and PP-284 are conjunctions. The Worker classed each by Test 1 and said "Tests 2 and 3 are not reached". Under the reading adopted at the batch 18 check, a conjunction is tested half by half: each Irreducibility now says which half holds from which parent alone (Tests 1 and 2), and that Test 3 is not reached. PP-283's "Test 3: eighteen other PP entries …" now says Test 3 is not reached before it lists the overlaps; PP-282's Test 1 sentence now says only that PL-228 gives nothing and is not used.
+- **PP-279's re-point.** The Worker rated it low-medium. It is accepted: PL-322 keeps the entry's subject (sovereign derivations at an intersection) and only PL-322's own rule is attributed. OPEN PM's own search, recorded in the Irreducibility: PL entries with "priority" and "intersection" or "consequence" are PL-23, PL-165, PL-213, PL-252, PL-259, PL-275, PL-309 and PL-311, none of which states that intersections are priority governance sites, and "governance site" occurs in neither PL nor LP. The alternative was NO CARRIER with the entry on LP-23 alone, which would restate LP-23 and keep nothing of the entry's subject.
+- **Corollaries.** Each entry now has one last "Not asserted" corollary. In PP-277 and PP-278, corollary (2) was a statement about the entry's own reading (traffic as scale, monitoring as maintenance) and not a corollary; it is folded with (3) and (4) into (2). In PP-279, PP-280, PP-282 and PP-284, the two "Not asserted" corollaries are folded into (3).
+
+Titles: seven changed (PP-277, 278, 279, 280, 282, 283, 284). Each title's 95 copies in PI were replaced with it (665 copies).
+
+How the slots are counted: the LP slots of PP-277, PP-278 and PP-282 and the PL slot of PP-279 are RE-POINTs; the LP slot of PP-284 is a RESTATE (LP-194 kept for what it carries); the LP slots of PP-280 and PP-283 and the PL slot of PP-282 are NO CARRIER, each line kept with nothing attributed to it. That makes 8 slots corrected. **134 remain.** BARREN lines: 85 → 92.
+
+Out-edges: IP and IC cite none of the seven entries. PI cites each only on its 95 Derives lines. In PP, PP-283 is named in the overlap list at PP-254 and PP-284 in the list at PP-252; they stay true.
+
+Loci, not changed here:
+- PP-272's Derives line still names PL-228 under the title "High-Consequence Intersections Are Constitutionally Priority Governance Sites", which no PL entry has. It is left for the batch that holds PP-272's slot.
+- PP-282 rests on LP-383 alone; whether PL-228 should stay on its Derives line is a question for the method (the same holds for every NO CARRIER line kept).
+- Close siblings, not classified: PP-280 and PP-273 (PL-323); PP-279 and PP-563 (PL-322); PP-277, PP-278, PP-187 and PP-188 (LP-136); PP-278 and PP-516 (PL-255); PP-283 and PP-254 (PL-40); PP-284 and PP-252 (PL-145), and the "Self-Multiplying" titles of PP-263, PP-264, PP-268 and PP-285.
+- PP-277, PP-278 and PP-282 now rest on LP-136 and LP-383; a later change to either reopens them.
+- Each entry's reading (scale as depth, monitoring as maintenance, a boundary as an intersection, weight as confidence, a response as a traversal) has no parent and survives only as the stated condition. CP-28 is the source of LP-383's confidence score and is not a parent of PP-282.
+- The PI Derives-from lines tag all seven entries [SUBSUMED]; the PP file now marks them BARREN.
+- Kernel citations of these seven entries were not checked.
+
+Note on batch 19 (2026-10-31T01:57:40Z): the ARC Lead searched the kernel for the six batch-19 entries (note `arc-lead-note-kernel-cites-batch19-entries-e5eb97e.md`, sha256 `d32d011c2e72f79467ed3214766033226e958cc9906258fcd894e72b49fe1bcc`): none is cited in the IP, IC or kernel source files at kernel `1195baa`. The kernel rows file, certification and tests were not searched.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1556,13 +1595,13 @@ Loci, not changed here:
 | PP-274 | LP | LP-188 | candidate LP-397, low confidence, not adopted |
 | PP-275 | LP | LP-483 (was LP-189) | no carrier found (strict reader, low); batch 01: re-pointed and restated, BARREN |
 | PP-276 | LP | LP-190 | no carrier found (strict reader, high); batch 04: read, not corrected (to the title pass); batch 11: RE-POINT → LP-671 |
-| PP-277 | LP | LP-191 | no carrier found (strict reader, medium) |
-| PP-278 | LP | LP-191 | no carrier found (strict reader, medium) |
-| PP-280 | LP | LP-192 | no carrier found (strict reader, medium) |
+| PP-277 | LP | LP-191 | no carrier found (strict reader, medium); batch 21: re-pointed to LP-136 and restated, BARREN |
+| PP-278 | LP | LP-191 | no carrier found (strict reader, medium); batch 21: re-pointed to LP-136 and restated, BARREN |
+| PP-280 | LP | LP-192 | no carrier found (strict reader, medium); batch 21: NO CARRIER, line kept, restated on PL-323, BARREN |
 | PP-281 | LP | LP-376 (was LP-193) | no carrier found (strict reader, medium); batch 01: re-pointed and restated, BARREN |
-| PP-282 | LP | LP-193 | no carrier found (strict reader, medium) |
-| PP-283 | LP | LP-194 | no carrier found (strict reader, high) |
-| PP-284 | LP | LP-194 | no carrier found (strict reader, high) |
+| PP-282 | LP | LP-193 | no carrier found (strict reader, medium); batch 21: re-pointed to LP-383 and restated, BARREN |
+| PP-283 | LP | LP-194 | no carrier found (strict reader, high); batch 21: NO CARRIER, line kept, restated on PL-40, BARREN |
+| PP-284 | LP | LP-194 | no carrier found (strict reader, high); batch 21: LP-194 kept for what it carries, restated, BARREN |
 | PP-285 | LP | LP-195 | no carrier found (strict reader, high) |
 | PP-286 | LP | LP-195 | no carrier found (strict reader, medium) |
 | PP-287 | LP | LP-196 | no carrier found (strict reader, high) |
@@ -1700,8 +1739,8 @@ Loci, not changed here:
 | PP-270 | PL | PL-183 | no carrier found (strict reader, medium); batch 04: read, not corrected (sense conflicts; to the title pass); batch 11: RE-POINT → PL-77 |
 | PP-272 | PL | PL-228 | no carrier found (every reader) |
 | PP-274 | PL | PL-81 | no carrier found (strict reader, medium) |
-| PP-279 | PL | PL-228 | no carrier found (every reader) |
-| PP-282 | PL | PL-228 | no carrier found (every reader) |
+| PP-279 | PL | PL-228 | no carrier found (every reader); batch 21: re-pointed to PL-322 and restated, BARREN |
+| PP-282 | PL | PL-228 | no carrier found (every reader); batch 21: NO CARRIER, line kept, stale title corrected, BARREN |
 | PP-286 | PL | PL-276 | no carrier found (strict reader, medium) |
 | PP-287 | PL | PL-276 | no carrier found (strict reader, medium) |
 | PP-288 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
