@@ -1,6 +1,6 @@
-# D19: PP parent slots with no confirmed carrier (open)
+# D19: PP parent slots with no confirmed carrier (closed)
 
-Ledger entry: `DEFECT_LEDGER.md`, D19. Status: **OPEN**. Corpus file: `system-foundations-physical-physical.md`.
+Ledger entry: `DEFECT_LEDGER.md`, D19. Status: **CLOSED**. Every batch was independently checked; the side items it did not settle are in `docs/audit/D19_CLOSURE_LOCI.md` (section "Closure", at the end). Corpus file: `system-foundations-physical-physical.md`.
 
 ## The defect
 
@@ -3218,3 +3218,13 @@ With this, batches 01 to 39 have all been independently checked: 01, 01b and 02 
 | PP-472 | PL | PL-209 | candidate PL-56, low confidence, not adopted; batch 39: NO CARRIER, PL-209 kept with nothing attributed, restated to LP-224 alone, BARREN |
 | PP-473 | PL | PL-210 | no carrier found (strict reader, medium); batch 39: NO CARRIER, PL-210 kept with nothing attributed, restated to LP-231 alone, BARREN |
 | PP-503 | PL | PL-92 | candidate PL-81, low confidence, not adopted; batch 39: NO CARRIER, PL-92 kept with nothing attributed, restated to LP-293 alone, BARREN |
+
+## Closure
+
+D19 is closed at this commit.
+
+- **The 250 slots.** All 250 were worked in batches 01 to 39 (01b included), each entry read against its parents' text, and every batch was checked by a reader who had not worked it; the batch 01, 01b and 02 checks are the last section under "Correction batches". 0 slots remain. The table of the 250 is the section "The 250 slots" above.
+- **Side items.** Everything this record found and did not settle where it found it is listed, with where it stands now, in `docs/audit/D19_CLOSURE_LOCI.md`. The list was compiled at `eff5445` from this record by a reader who had not worked the batches, re-read against the files at `fd26756`, given a disposition for each item, and then checked for completeness against this record by a second reader, whose 12 uncovered items and 9 undecided groups were read against this record and A and added as rows 125-142. An item listed there is not thereby confirmed as a defect; it is where the next reading starts.
+- **New ledger rows.** The items not settled here open six rows: D24 (the crossing method's text), D25 (the `[shared LL-n]` tag sweep), D26 (PP entries outside the 250, their titles, and sibling entries not yet tested for Test 3), D27 (the PP file's form), D28 (PL, LP, II and LI entries' own text and citations) and D29 (PI's " [SUBSUMED]" marks and PI text that restates corrected PP claims).
+- **D22 and D23.** IP lines that cite a PP entry for text it does not carry stay with D22 (the eight PPs it names) and D23 (all others). D23 now also holds IP:169's citation of PP-210, IP:1605's citations of PP-64 and PP-68, and IP lines 34, 150 and 302's citations of PP-58, none of which was checked here.
+- **The kernel.** Citations of A entries in the kernel's own records are the kernel's to correct, not A's; they were carried to the ARC Lead.
