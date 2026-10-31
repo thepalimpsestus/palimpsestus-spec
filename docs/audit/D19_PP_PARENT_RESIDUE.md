@@ -2753,6 +2753,52 @@ Recorded as loci, not acted on:
 
 Line references: the amendments change text within three existing PP lines and add none; no title changes; every `PP-n (:m` reference in the PP file is unchanged (recomputed: 23, none off), and PP-221's bare list is unchanged. The PP file stays 14272 lines. No children list changes, and no out-edge moves. BARREN lines 190. The count of remaining slots is unchanged: **12 remain**.
 
+### Batch 38
+
+The Worker (Sonnet) made the return against `4babb34` (sha256 `dd0eb07543f50e7c851d09dfcba051dc0ecc550bdcf828e4c6b0d3f92cf36502`). It covers six PL slots of the table below: PP-412, PP-413, PP-425, PP-436, PP-437 and PP-438. It was applied on top of `354953e`, where the six entries are as at `4babb34` (`b24438f`, `e4871d3`, `73c6596` and `354953e` changed no line of them). OPEN PM read every parent whole (PL-89, PL-118, PL-142, PL-143; LP-292, LP-362, LP-643, LP-653, LP-656, LP-657), the adopted carrier (PL-14), and the one PL entry that cites each LP parent's LL (PL-50 for LL-79, PL-198 for LL-124, PL-161 for LL-164, PL-180 for LL-175, PL-209 for LL-173), checked the Worker's quotations and attributions against their sources, and made the amendments listed below.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-412 | PL-89 (kept, NO CARRIER) | LP-292 (kept, restated) | BARREN | PL-89 (Spatial Navigation Force) states that navigation is a force relationship and that the navigator becomes an edge, and has no depth, cost, compounding, backpressure or signal. LP-292 states the restated claim: backpressure signals propagate scale-invariantly, crossing hierarchical boundaries without translation. Fails Test 2. |
+| PP-413 | PL-14 (was PL-89) | LP-362 (kept, restated) | BARREN | PL-89 as for PP-412. LP-362 states that the arrow of traversal pierces depth boundaries without slowing down, diffusing, or requiring specialized depth-translation protocols. Where the depth-piercing arrow LP-362 names is held as a traversal of the topology, PL-14 states that it leaves a Wake and is not free. Each half is BARREN at Test 1 or Test 2. |
+| PP-425 | PL-118 (kept, NO CARRIER) | LP-643 (kept, restated) | BARREN | PL-118 (Instant Validity Invalidation) states that any structural change in the present-tense topology instantly invalidates all prior evaluated states of the affected region, and has no question, obligation or record. LP-643 states the restated claim: every question the active questioning engine generates creates an open obligation record. Fails Test 2. |
+| PP-436 | PL-142 (kept, NO CARRIER) | LP-653 (kept, restated) | BARREN | PL-142 (Incompleteness as Thermodynamic Source) states that the topology's constitutional incompleteness guarantees an infinite fuel supply, and has no spawning and no accountability. LP-653 states the restated claim: accountability for the spawned entity begins the instant spawning is triggered. Fails Test 2. |
+| PP-437 | PL-143 (kept, NO CARRIER) | LP-657 (kept, restated) | BARREN | PL-143 (Tension Conservation and Transformation) states that total tension in the topology is conserved and that traversal redistributes it without consuming it, and has no stale state and no attribution of consequence. LP-657 states the restated claim: an entity that acts on stale state owns the consequences. Fails Test 2. |
+| PP-438 | PL-143 (kept, NO CARRIER) | LP-656 (kept, restated) | BARREN | PL-143 as for PP-437; it has no verification and no simultaneity. LP-656 states the restated claim: mutual verification must be simultaneous to be valid. Fails Test 2. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **The PL entry that cites the LP parent's LL.** For each slot the one PL entry that cites the LL its LP parent cites is now named as set aside, with its nearest sentence and a note that the tag is not evidence and the entry is not this entry's parent: PL-50 for PP-412 (LL-79; "In a self-similar topology, navigability cannot be scale-specific — a wall at any scale is a global wall."; it concerns navigational barriers and states no cost, compounding, backpressure or signal) and for PP-413 (its "flow has no depth barriers (LL-41)" is LP-362's half again and states no Wake or cost); PL-198 for PP-425 (LL-124; "Wonder is the field knowing itself through a traverser."; no question, obligation or record); PL-180 for PP-437 (LL-175; "the current truth is the dig, not the artifact (LL-175)"); PL-209 for PP-438 (LL-173; "The boundary between known and unknown is itself a living, dynamic structure."). The Worker had named PL-161 for PP-436 (LL-164) already.
+- **PP-413, the italic and the two halves.** The italic is now the two halves in order: LP-362's sentence as LP-362 states it, then the condition and PL-14's half. The Irreducibility now ends in PP-365's form: each half is BARREN at Test 1 or Test 2, so Test 3 is not reached; the overlaps are noted, not classified; LP-362 is kept on the Applies-to line and its half is stated as LP-362 states it. The Worker's sentence citing this record's batch 08 independent check is replaced: A does not cite the audit's working sections for a test.
+- **PP-425, the set-aside list.** PL-305 ("settle the question") and PL-324 ("CL-1 is not the answer to the question posed by CC-7 × CC-4; it is the sustained tension of the question.") are the other PL entries that join a question with a force relationship; each is quoted, and neither concerns an obligation.
+- **PP-437, PL-114.** PL-114 is now quoted ("A governance process that has stopped challenging the topology it governs"), so a reader can see that it concerns governance and not stale state.
+- **The crossing sign.** "(PL-n x LP-m)" is written "(PL-n × LP-m)" in PP-413, PP-436, PP-437 and PP-438, as elsewhere in the PP file.
+- **Children lists.** PL-14 gains PP-413, and three lists of PL-14's children were made false by the re-point: PP-317's and PP-350's "nine other PP children" now read ten, with PP-413, and PP-385's list of PL-14's other PP children gains PP-413. PL-89 has no list of its children in the PP file.
+
+Accepted as the Worker made them: the re-point of PP-413 to PL-14 under the condition that the depth-piercing arrow LP-362 names is held as a traversal of the topology, which is written and not asserted and follows PP-385 and PP-386 (batch 36), where PL-14's rule is stated under a condition that a flow or a transit is held as a traversal; the five NO CARRIER slots (PL-89, PL-118, PL-142 and PL-143 twice kept on the Derives-from line with nothing attributed, as in batches 08, 09, 31, 33, 34, 35, 36 and 37); the candidates set aside, with their nearest sentences (for PP-412 PL-14, PL-52, PL-100, PL-292, PL-226 and PL-90; for PP-413 PL-52, PL-100, PL-292 and PL-226; for PP-425 PL-101, PL-159 and PL-158; for PP-436 PL-232, PL-274, PL-266, PL-71, PL-161 and PL-64, with PL-232 recorded as the alternative; for PP-437 PL-18, PL-228, PL-109, PL-220, PL-218, PL-267 and PL-261; for PP-438 PL-260, PL-51, PL-69 and PL-312). Six tags are removed (`[shared LL-79]` twice, `[shared LL-124]`, `[shared LL-164]`, `[shared LL-175]` and `[shared LL-173]`); in each, the current PL parent does not cite the LL, which the LP parent alone cites. PP-412 is NO CARRIER and not re-pointed to PL-14 because LP-292 names no traversal, so a re-point would need a condition on a subject its LP parent does not name. The rows file found no carrier for the six slots; the Worker differs on PP-413, whose re-point rests on a condition, and NO CARRIER is its recorded alternative.
+
+Line references. The batch adds 16 lines to the PP file (PP-413 gains its state line; each of the other five gains its state line and a second claim paragraph). Of the 23 `PP-n (:m` references in the PP file, 4 move: PP-419 by 4, and PP-451, PP-492 and PP-718 by 16. PP-221's bare list of PL-17 headers moves with them (:11186, :11626 and :11686 → :11202, :11642 and :11702). Every `PP-n (:m` reference in the PP file equals the entry's heading + 5. The PP file goes from 14272 to 14288 lines. PI's 570 title copies (95 for each of the six) are replaced, and no foundations file carries an earlier title of the six.
+
+Titles. Six new titles, each restating the entry:
+- PP-412 "Backpressure Signals Must Propagate Scale-Invariantly, Crossing Hierarchical Boundaries Without Translation"
+- PP-413 "A Depth-Piercing Arrow Pierces Depth Boundaries Without Slowing Down — Where It Is Held as a Traversal, It Leaves a Wake"
+- PP-425 "Every Question the Active Questioning Engine Generates Creates an Open Obligation Record — Questions Cannot Be Generated Without Incurring the Obligation to Receive Their Answers"
+- PP-436 "Accountability for the Spawned Entity Begins the Instant Spawning Is Triggered — Not When the Spawned Entity Becomes Active"
+- PP-437 "An Entity That Acts on Stale State Owns the Consequences — The Consequences Belong to the Actor, Not to the State That Changed"
+- PP-438 "Mutual Verification Must Be Simultaneous to Be Valid — Sequential Verification of Two Entities Introduces Temporal Inconsistency"
+
+How the slots are counted: six PL slots; one RE-POINT and five NO CARRIER. 6 slots corrected. **6 remain**, all PL slots. BARREN lines: 190 → 196.
+
+Out-edges: PL-89 loses PP-413 (PP-142, PP-412 and PP-672 remain). PL-14 gains PP-413 (with PP-23, PP-118, PP-125, PP-245, PP-317, PP-350, PP-385, PP-386, PP-577 and PP-590). PL-89 keeps its Derives-from slot in PP-412, PL-118 in PP-425, PL-142 in PP-436 and PL-143 in PP-437 and PP-438 as NO CARRIER with nothing attributed. PI: 95 Derives-from lines for each of the six carry the new titles; IP and IC have none.
+
+Loci (not acted on):
+- PP-437 and PP-438 share PL-143 and are each NO CARRIER; PP-441 (PL-180 × LP-657) and PP-440 (PL-209 × LP-656) share their LP parents and cite the PL entries that cite those LPs' LLs. A re-point of PP-437 to PL-180 or of PP-438 to PL-209 would restate PP-441 or PP-440; each overlap is noted and not classified.
+- For PP-437 the nearest statement found is on the LP side, LP-250 (Challengeable Snapshot); it is not a PL carrier. For PP-438 PL-260 is the one PL entry joining verification, the present tense and staleness, and was set aside.
+- PL-232 is the recorded alternative for PP-436; PL-266, the record's candidate, was read and not adopted.
+- PP-412 and PP-413 share LL-79 through LP-292 and LP-362, and PL-50 is the one PL entry citing it; neither is re-pointed to it.
+- The six entries keep "Tier 3 (Derived Consequence)" while each is now BARREN; the Tier line is left as the file has it for every BARREN entry.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2996,13 +3042,13 @@ Line references: the amendments change text within three existing PP lines and a
 | PP-400 | PL | PL-159 (was PL-96) | no carrier found (strict reader, medium); batch 37: re-pointed to PL-159 (Discovery Value Economics) under the condition that the undiscovered channels LP-295 names are the absent regions and uninstantiated edges PL-159 speaks of, restated as two single-parent halves, BARREN |
 | PP-405 | PL | PL-17 (was PL-100) | no carrier found (strict reader, medium); batch 37: re-pointed to PL-17 (Logical Proofs About the Topology Expire) under the condition that the logical proof LP-417 names is a logical proof about topology state, restated as two single-parent halves, BARREN |
 | PP-406 | PL | PL-100 | no carrier found (strict reader, medium); batch 37: NO CARRIER, PL-100 kept with nothing attributed, restated to LP-255 alone, BARREN |
-| PP-412 | PL | PL-89 | no carrier found (strict reader, medium) |
-| PP-413 | PL | PL-89 | no carrier found (strict reader, medium) |
+| PP-412 | PL | PL-89 | no carrier found (strict reader, medium); batch 38: NO CARRIER, PL-89 kept with nothing attributed, restated to LP-292 alone, BARREN |
+| PP-413 | PL | PL-14 (was PL-89) | no carrier found (strict reader, medium); batch 38: re-pointed to PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) under the condition that the depth-piercing arrow LP-362 names is held as a traversal of the topology, restated as two single-parent halves, BARREN |
 | PP-415 | PL | PL-48 (was PL-103) | no carrier found (strict reader, medium); batch 37: re-pointed to PL-48 (Discovery Is a Consequential Interaction — Excavation Is Never Free) under the condition that the removal of a false assumption LP-636 names is a subtractive discovery, restated as two single-parent halves, BARREN |
-| PP-425 | PL | PL-118 | no carrier found (strict reader, medium) |
-| PP-436 | PL | PL-142 | candidate PL-266, medium confidence, no second reader proposed it; not adopted |
-| PP-437 | PL | PL-143 | no carrier found (every reader) |
-| PP-438 | PL | PL-143 | no carrier found (every reader) |
+| PP-425 | PL | PL-118 | no carrier found (strict reader, medium); batch 38: NO CARRIER, PL-118 kept with nothing attributed, restated to LP-643 alone, BARREN |
+| PP-436 | PL | PL-142 | candidate PL-266, medium confidence, no second reader proposed it; not adopted; batch 38: NO CARRIER, PL-142 kept with nothing attributed, restated to LP-653 alone, BARREN |
+| PP-437 | PL | PL-143 | no carrier found (every reader); batch 38: NO CARRIER, PL-143 kept with nothing attributed, restated to LP-657 alone, BARREN |
+| PP-438 | PL | PL-143 | no carrier found (every reader); batch 38: NO CARRIER, PL-143 kept with nothing attributed, restated to LP-656 alone, BARREN |
 | PP-444 | PL | PL-156 | candidate PL-259, low confidence, not adopted |
 | PP-455 | PL | PL-187 | no carrier found (every reader) |
 | PP-461 | PL | PL-195 | candidate PL-193, low confidence, not adopted |
