@@ -1978,6 +1978,50 @@ Loci, not changed here:
 - PP-343 and PP-367 still have titles about detecting constitutional death; PP-290 records that PP-190, PP-339, PP-349, PP-358 and PP-362 still assert death detection. For the batches that reach them (PP-367 is in the next PL-305 slots).
 - LP-251 against PL-19, as in the batch 26 section; PI's [SUBSUMED] tags on BARREN entries, as before.
 
+### Batch 27
+
+The Worker (Sonnet) made the return against `2974d72` (sha256 `02c864dfa37b6847c1f18675bd82aa08631e5475ca197de4c1dff3a5b0a0dc6f`). It covers eight slots of the table below: the LP slots of PP-319, PP-323, PP-324, PP-326, PP-327, PP-328 and PP-329, and the PL slot of PP-327 (PP-319 to PP-326, PP-328 and PP-329 have no PL slot in the table; their PL parents PL-248, PL-27, PL-24, PL-40, PL-124 and PL-145 were read whole and the entries restated with them). It was applied on top of `cea1d34`, where every one of its 21 old texts still occurs once (`cea1d34` changed PP only on line 4510 and within PP-316 and PP-318, and added none). OPEN PM read every parent and every adopted or weighed carrier whole (PL-24, PL-27, PL-40, PL-124, PL-145, PL-248, CL-1; LP-124, LP-166, LP-168, LP-215, LP-217, LP-219, LP-220), checked the Worker's quotations against the text, re-ran its searches, and amended two entries (PP-324, PP-329) and five other entries' notes.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-319 | PL-248 (kept, restated) | LP-215 (kept, NO CARRIER) | BARREN | LP-215 states real-time certification of an absence and has no attenuator or calibration. Restated: where an attenuator's calibration is held as a sovereignty claim, PL-248's rule applies: sovereignty is performed through active traversal, not held as a title once granted. Fails Test 1. |
+| PP-323 | PL-27 (kept, restated) | LP-217 (kept, NO CARRIER) | BARREN | LP-217 states a pulse striking against paradoxes and has no proof, verification or completeness. Restated: where an engine's verification is held as a claim that the topology is complete, the claim cannot be self-certified (PL-27). Fails Test 1. The form of PP-251 and PP-271. |
+| PP-324 | PL-24 (kept, restated) | LP-124 (was bare "LP (Logical Physical)") | BARREN | Where each proof the engine generates is embedded in the topology, its thermodynamic cost is part of the claim (PL-24); where it is held as a self-proving record, it embeds the cost of its own derivation in its payload (LP-124). A conjunction of two single-parent facts. The pair of PP-298 (batch 24). Low-medium. |
+| PP-326 | PL-40 (kept, restated) | LP-219 (kept, NO CARRIER) | BARREN | LP-219 states navigation instruments shaped by their architects and has no lock. Restated: where a lock force is held as a sovereignty claim backed by documentation, proving it requires present traversal, and the documentation is a label (PL-40). Fails Test 1. The form of PP-254, PP-283, PP-311, PP-316 and PP-318. |
+| PP-327 | CL-1 (kept; PL slot NO CARRIER) | bare "LP (Logical Physical)" (kept, NO CARRIER) | BARREN | No PL or LP entry searched states that a lock force is proportional to consequence weight. The entry is restated to what CL-1 states and to the record of the searches, the "Neither … Nor … — The Claim Is Not Established" form of PP-307 and PP-337 (batch 25). Kept and marked, per the Holder's 10-30 answer on entries found barren after writing. |
+| PP-328 | PL-124 (kept, not used) | LP-168 (was LP-220) | BARREN | LP-220 states forensic telemetry and has no sensing or present. LP-168 states that what we know is valid only at the moment of the scan and that a cached index is false the moment it is written. Restated under the condition that the sensed topology state is held as a scan result, the form of PP-365 (batch 9); fails Test 2. PL-124 stays on the line with nothing attributed to it. Low-medium. |
+| PP-329 | PL-145 (kept, restated) | bare "LP (Logical Physical)" (kept, NO CARRIER) | BARREN | Restated: where a sensing act of a consequence router is held as a traversal of the topology, it creates more unexplored territory than it maps (PL-145). "Self-multiplying" is cut. Fails Test 1. The form of PP-257, PP-263 and PP-264. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-324, the PL-24 condition.** The Worker restated PL-24 under the condition "where each proof a sovereignty proof engine generates is a proof", which is true of every proof and so states no condition. PL-24's own scope is "every logical claim embedded in the topology"; the condition is now "is embedded in the topology" in the italic, the second paragraph of the claim and corollary (2), the sentence on conditions not asserted now adds that neither parent says such a proof is embedded in the topology, and the Irreducibility says the condition is PL-24's own scope. The LP-124 re-point is accepted at low-medium, as PP-298 (batch 24) took the same pair for the links of a proof-of-sovereignty chain; the Worker found it where the table had none (every reader), through the earlier text's own claim that each proof carries its cost, which is LP-124's "cost receipt" and occurs in no other PL or LP entry.
+- **PP-329, the LP-166 re-point rejected.** The Worker proposed re-pointing the bare Applies line to LP-166 (Relational Survey Expansion) at low-medium, with a second condition, "where the router's sensing is held as the survey", and a second half from LP-166. The entry's whole claim, that each sensing act reveals more frontier than it resolves, is already PL-145's ("every traversal creates more unexplored territory than it resolves"); LP-166's rule, that the survey finds new relational edges between existing nodes, is a statement the entry never made, under a condition that would be this re-crossing's own step. That is the PP-312 precedent (batch 25). The slot is NO CARRIER, the bare line is kept, and the entry is restated to PL-145 alone, as PP-257, PP-263 and PP-264. The title, italic, claim, corollaries and Irreducibility drop the LP-166 half; the Irreducibility names LP-166 as read and not adopted, and the tag sentence now rests on PL-145 alone.
+- **PP-328, the LP-168 re-point kept.** The earlier text's own claim was that a router's pre-sensed topology state is expired; LP-168 states it ("Previous scan results are immediately stale", and its corollary "A cached index is structurally false the moment it is written"), and "scan result" and "cached index" occur in no other PL or LP entry. Unlike PP-329, the kept PL parent (PL-124) does not carry the claim, so the re-point adds no second statement. The condition (the sensed state held as a scan result) is the one PP-365 (batch 9) took for a view. Kept at low-medium; NO CARRIER is the stated alternative. That PL-124 stays on the Derives line contributing nothing is the Worker's locus 11 and is carried below.
+- **PP-319, PP-323, PP-326, PP-327.** Accepted as returned. PP-327's Derives line names CL-1, a class entry, in a PL slot; it is kept as named and listed as a locus.
+- **Tags.** All seven tags are removed, as the Worker returned (LL-136, LL-138, LL-140 and LL-141 in each current parent: 0 each; re-run by OPEN PM).
+- **Notes in other entries.** PP-284 and PP-285 no longer say that PP-329's title carries "Self-Multiplying" (each now says it did until batch 27); PP-298's list of LP-124's other children adds PP-324; PP-365's list of LP-168's adds PP-328; PP-291's list of PL-40 children already restated adds "PP-326 since batch 27". The first four were the Worker's proposed same-line edits; the fifth is OPEN PM's.
+- **Line references.** The batch adds 21 lines to the PP file, all after PP-318. `PP-492 (:9644)` in PP-260's Irreducibility now reads `(:9665)` and `PP-357 (:7198, …)` in PP-262's reads `(:7219, …)`. The list of header lines on PP line 4510 now reads `:11101, :11541, :11601` for its last three. Every `PP-n (:m` reference in the PP file (13, in the forms `(:m)`, `(:m,` and `(:m;`) equals the entry's heading + 5.
+
+Searches re-run by OPEN PM over the PL file (327 entries) and the LP file (702 entries), case-insensitive, entry text including headings, each giving the Worker's list: "proof engine", "consequence router", "topology-sensing", "topology sensing", "sensing", "self-multipl", "boundary lock", "lock force" and "pre-sensed" (none in either file); "sovereignty proof" (PL-40, PL-122; LP none); "attenuat" (LP-271, LP-274, LP-542, LP-674) and "calibrat" (LP-116, LP-214, LP-543, LP-550, LP-556, LP-560, LP-583, LP-697) in LP; "cost receipt", "thermodynamic receipt" (LP-124 only), "cached index" and "scan result" (LP-168 only); "relational edge" (LP-166, LP-184, LP-225, LP-389). Every double-quoted string in the seven entries occurs in PL, LP, CL or the earlier PP text; no doubled word.
+
+Verified, not changed: no spec file other than PP and PI names the seven entries; PI names each only on its 95 Derives lines. The notes naming PP-323 among PL-27's children (PP-251, PP-271, PP-341), PP-326 among PL-40's (PP-254, PP-267, PP-283, PP-311, PP-316, PP-318) and PP-328 among PL-124's (PP-250) stay true, since those parents are kept.
+
+Titles: seven changed (PP-319, 323, 324, 326, 327, 328, 329). Each title's 95 copies in PI were replaced with it (665 copies, on 95 lines).
+
+How the slots are counted: the LP slots of PP-324 and PP-328 are RE-POINTs; the LP slots of PP-319, PP-323, PP-326, PP-327 and PP-329 and the PL slot of PP-327 are NO CARRIER, each line kept with nothing attributed to it; PP-319 to PP-326, PP-328 and PP-329 are restated to their kept PL parents. That makes 8 slots corrected. **75 remain.** BARREN lines: 126 → 133.
+
+Out-edges: LP-220 loses PP-328, its only PP child; LP-168 gains PP-328 (with PP-247, PP-365 and PP-722); LP-124 gains PP-324 (with PP-174, PP-175, PP-236, PP-243, PP-298, PP-301 and PP-340); the bare "LP (Logical Physical)" line loses PP-324.
+
+Loci, not changed here:
+- PP-327: a class entry (CL-1) on a Derives line, and an entry with no claim of its own left, marked BARREN as the nearest value (the schema has none for "no claim remains"). PP-307 and PP-337 (batch 25) are the same form. Whether such entries stay, and whether a CL entry may stand on that line, are for the title and schema pass.
+- PP-328: PL-124 is on the Derives line and contributes nothing; the PL file was not searched for a PL parent that carries sensing (PL-3, PL-13, PL-119, PL-325 and PL-327 name routing and were not read whole).
+- PP-324 and PP-298 share PL-24 × LP-124 for different subjects; the PL-40 family (PP-326 joins PP-254, PP-283, PP-311, PP-316 and PP-318), the PL-27 family (PP-323 with PP-251 and PP-271), PL-248 (PP-24, PP-325, PP-334, PP-359, PP-509), PL-124 (PP-232, PP-250, PP-363) and PL-145 (13 others) are noted, not classified.
+- PP-722 names LP-168 on both its Derives and Applies lines. PP-245 and PP-247 keep LP-166 and LP-168 as Applies parents with nothing attributed to them.
+- PL-122 names a sovereignty proof and was not read whole.
+- The Tier line of each of the seven still reads "Tier 3 (Derived Consequence)"; for the tier pass. PI's [SUBSUMED] tags on these BARREN entries, as before.
+- Kernel citations of these seven entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2076,13 +2120,13 @@ Loci, not changed here:
 | PP-316 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, medium); batch 26: no carrier; bare line kept, nothing attributed to it, restated on PL-40 alone, BARREN |
 | PP-317 | LP | LP-214 | no carrier found (strict reader, medium); batch 26: no carrier; nothing attributed to LP-214, restated on PL-14 alone, BARREN |
 | PP-318 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 26: no carrier; bare line kept, nothing attributed to it, restated on PL-40 alone, BARREN |
-| PP-319 | LP | LP-215 | no carrier found (strict reader, medium) |
-| PP-323 | LP | LP-217 | no carrier found (strict reader, medium) |
-| PP-324 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-326 | LP | LP-219 | no carrier found (strict reader, medium) |
-| PP-327 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-328 | LP | LP-220 | no carrier found (strict reader, medium) |
-| PP-329 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low) |
+| PP-319 | LP | LP-215 | no carrier found (strict reader, medium); batch 27: no carrier; nothing attributed to LP-215, restated on PL-248 alone, BARREN |
+| PP-323 | LP | LP-217 | no carrier found (strict reader, medium); batch 27: no carrier; nothing attributed to LP-217, restated on PL-27 alone, BARREN |
+| PP-324 | LP | LP-124 (was bare "LP (Logical Physical)") | no carrier found (every reader); batch 27: re-pointed to LP-124 under a stated condition, restated with PL-24, BARREN |
+| PP-326 | LP | LP-219 | no carrier found (strict reader, medium); batch 27: no carrier; nothing attributed to LP-219, restated on PL-40 alone, BARREN |
+| PP-327 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 27: no carrier; bare line kept, nothing attributed to it, BARREN |
+| PP-328 | LP | LP-168 (was LP-220) | no carrier found (strict reader, medium); batch 27: re-pointed to LP-168 under a stated condition, restated, PL-124 kept and not used, BARREN |
+| PP-329 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low); batch 27: no carrier (the Worker's LP-166 re-point not adopted); bare line kept, restated on PL-145 alone, BARREN |
 | PP-330 | LP | LP-221 | no carrier found (strict reader, medium) |
 | PP-331 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low) |
 | PP-332 | LP | LP-222 | no carrier found (strict reader, medium) |
@@ -2200,7 +2244,7 @@ Loci, not changed here:
 | PP-310 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-26 and restated, BARREN |
 | PP-313 | PL | PL-118 (was PL-108) | candidate PL-118, medium confidence, no second reader proposed it; not adopted; batch 25: re-pointed to PL-118 and restated, BARREN |
 | PP-314 | PL | PL-69 (was PL-305) | candidate PL-114, medium confidence, no second reader proposed it; not adopted; batch 26: re-pointed to PL-69 under a stated condition, restated, BARREN |
-| PP-327 | PL | none | no carrier found (strict reader, medium) |
+| PP-327 | PL | CL-1 (a class entry) | no carrier found (strict reader, medium); batch 27: no carrier; CL-1 kept as named, entry restated to what CL-1 states and the searches, BARREN |
 | PP-331 | PL | PL-108 | candidate PL-17, low confidence, not adopted |
 | PP-337 | PL | PL-174 | no carrier found (strict reader, medium); batch 25: no carrier; nothing attributed to PL-174 or LP-225, BARREN |
 | PP-340 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 04: re-pointed to PL-140 and restated, BARREN |
