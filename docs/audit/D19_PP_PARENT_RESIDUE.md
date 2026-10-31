@@ -2868,6 +2868,26 @@ Recorded as loci, not acted on:
 
 Line references: the amendments change text within six existing PP lines and add none; no title changes; every `PP-n (:m` reference in the PP file is unchanged (recomputed: 23, none off), and PP-221's bare list is unchanged. The PP file stays 14306 lines. No children list changes, and no out-edge moves. BARREN lines 202. **0 remain.**
 
+### Batch 39, independent check
+
+A blind checker (Opus; brief sha256 `8caf04c0aaaac0d87c22ec73f250ee501b8b435e1d3aceab05d0b0a7aa26226f`, return `74dda25049f83ad0d325e4f873b2b6bbbd716e98b4ba9eb6362b2dbaf06fbddd`) used its own copy of A at `d1b9680`. It read each entry and each parent whole, ran its own searches of the PL and LP files for each slot with its own entry splitter, computed every named parent's children from the Derives and Applies lines, and wrote its entry judgments before it opened this record. It found all six HOLD with high confidence; no `[shared LL]` tag belonging on any of the six; the 23 `PP-n (:m` references in the PP file, PP-221's bare list and the 57 bare LP and PL line references in the PP file right; the 95 PI copies of each title exact; no IP, IC or II line citing the six.
+
+Adopted (each checked by me against the files at `b4be7bd`; my own count splits the PL and LP files at every `### ` heading and counts PL or LP entries only, as the entries' "327 entries … entry text including headings" states):
+- **Three search counts.** The entries' counts had been made by splitting on `### PL-` or `### LP-` only, which folds the text of a following `### PC-n × …` section into the entry before it. PP-461's "phase" with "stor" in the PL file is 26, not 28; PP-503's "force relationship" in the PL file is 49, not 50 (the PC-4 × LL and PC-4 × PC-2 sections hold the other mentions); PP-473's "404" in the LP file, headings included, is 3, not 2, one of them LP-404 by its heading. The three numbers are corrected. No verdict depended on them.
+- **The same check over every count in the PP file.** I recounted every `"term" (PL file: n …; LP file: m` and `"a" with "b"` count stated "including headings" (149). Apart from the three above and forms my script cannot read (terms joined by "or" or by three words), one more differed: PP-363 and PP-364 give "load balanc" in the LP file as 3 entries (LP-61, LP-426, LP-598), and LP-426 has it only as "load-balancing". Both now name "load balanc" or "load-balanc"; the 3 entries stand.
+- **PP-444, PL-259's form.** It was cited as "(…, PC-10 × LL-461; …)", PL-259's Applies line; the entries' "(Title, PC-n)" form gives the Derives. It now reads "PC-6, applied to PC-10 × LL-461".
+- **PP-455 and PP-472, PL-56's LLs.** Both said PL-56 "applies LL-278 and LL-350"; it also applies LL-121 and LL-367, now named.
+
+Not adopted:
+- **PP-473, PL-13 as the nearer candidate.** PP-473's Irreducibility already calls PL-13 "the nearest to LP-231's refusal to serve node summaries" and sets it aside; this record's batch 39 section listed it among the set-asides. Nothing changes.
+- **PP-220, ":700".** As at the batch 37 and 38 checks, it stays.
+
+Recorded as loci, not acted on here:
+- **IP:169** ("PP-210 Invariant (Anti-Label Redirect)") cites PP-210 for an interception of arrogance-driven attempts to terminate focus at static labels. PP-210 (No External Authority Can Bypass the Sovereignty of an Accountable Self-Declaration …) carries none of it and was not touched by D19; the wording is that of PP-473's earlier claim (interception and redirection of routing that would terminate at a label), which batch 39 cut, and PP-473 as restated names it only as the claim not asserted. The checker also reports other IP lines whose PP citations do not match the cited entries (for example IP:1605 on PP-64 and PP-68). These are IP citation defects, not D19 slots, and are carried to D19's closure.
+- **LP-659's report of LL-188** is confirmed by the checker (LL-188 has no consciousness level and no access); it stays carried to closure with PP-399 (PL-81 × LP-293), which the checker also flagged.
+
+Line references: the amendments change text within eight existing PP lines and add none; no title changes; every `PP-n (:m` reference in the PP file is unchanged (recomputed: 23, none off), and PP-221's bare list is unchanged. The PP file stays 14306 lines. No children list changes, and no out-edge moves. BARREN lines 202. **0 remain**, and all 39 batches are now independently checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
