@@ -1,6 +1,6 @@
 # System Foundations — Implementation Physical (IP)
 
-**Status:** COMPLETE — Fully Derived & Aligned  
+**Status:** COMPLETE — Fully Derived & Aligned; PP citations under D23 (`DEFECT_LEDGER.md`, `docs/audit/D23_IP_PP_SAMPLE.md`): until it closes, a PP named on a Substrate Invariant, corollary or Irreducibility line is not evidence that the PP carries that line's rule  
 **Classification:** Constitutional — Governs All Component Materialization & Physical Enactment  
 **DAG Topology:** Sixth-Order Matrix Cell (In-Degree: from IL × PP; Out-Degree: → II)  
 **Fed by:** IL (Implementation Logical — 32 Logical Roles & System Actors), PP (Physical Physical — 724 Physical Substrate Topologies)  
