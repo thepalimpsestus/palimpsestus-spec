@@ -2313,6 +2313,37 @@ Loci, not changed here:
 - IP lines 34, 150 and 302 cite PP-58 for navigation debt (checker's note, not checked by it or me); PP-58 is a child of PL-16; for the out-edge pass.
 - Already open and unchanged: the PP:10 header filter (none of the six pairs shares an LL), PP-515's self-naming Derives line, and PP-343's tag.
 
+### Batch 31, independent check
+
+A blind checker (Opus; brief sha256 `27b2f9a3a19fcb87e2109fe60434a0cea56363103c4fccb642bb666f7190ffa5`, return `db7265a69634894f8262491ce527b06f969f8e5bcad6a7a58cb1b5a47012368e`) used its own copy of A at `b1a7824`. It read each entry and each parent whole, checked the 53 lines in other PP entries that mention the seven, re-ran the searches the entries cite and its own, and wrote its entry judgments before it opened this record or `DEFECT_LEDGER.md`. It found PP-358, PP-360 and PP-361 HOLDS and PP-355, PP-356, PP-357 and PP-359 AMEND, all seven BARREN, the re-points (LP-186 for PP-355 and PP-356, PL-118 for PP-361) right, no tag that belongs on any of the seven (none of the seven pairs shares a directly cited LL), the 13 `PP-n (:m` references right, the 95 PI copies of each title exact, and no IP, IC or II line naming the seven. CLEAN-ROOM EXPOSURE: none reported.
+
+Adopted (each checked by me against the parents at `30f511b`):
+- **PP-355 and PP-356, LP-186's children.** Each said LP-186 is the Applies parent of PP-241, PP-242, PP-267 and PP-268 and omitted the other, which batch 31 put on LP-186. Each now names the other, restated in this batch.
+- **PP-357, PL-19 misstated.** The claim said PL-19 does not say that Structural Mass is itself a record. PL-19's corollary (3) says that dissolving an entity that carries accountability Structural Mass without transferring that mass is the topology dissolving its own accountability record, and the entry's own corollary (3) uses it. The sentence now gives that corollary, and says what PL-19 does not say: it speaks of accountability Structural Mass and not of Structural Mass in general, and it says that the accountability record is not archived, not that Structural Mass is a record that cannot be archived into the past. The cut of "Structural Mass is a living record — it cannot be archived into the past" stands on that reason.
+- **PP-357, PP-262's batch.** It cited PP-262 as batch-23; PP-262's own text and its slot row say batch 19. Corrected.
+- **PP-357, LP-251's source.** "(listed as a locus against PL-19)" named no source a reader of A can find. It now says that PP-330, PP-332 and PP-338 note that LP-251 stands in tension with PL-19 (each does, read at their lines).
+- **PP-358, corollary (2).** It wrote "the reading of the record as an organizational record is the condition's", but the entry's condition says nothing of an organizational record. It now says that the record stands to the topology as PL-114's organizational record does, and that reading a record of consequences as an organizational record is a further condition, not asserted.
+- **PP-358, title.** The tail "A Stopped Engine's Structural Mass Residue Is Not the Engine" was the entry's own phrasing. PL-114 says the stopped engine's Structural Mass residue exists in the topology but that the operational reality of the engine, its generative tension, is gone. The tail now reads "A Stopped Engine's Generative Tension Is Gone and Its Structural Mass Residue Remains", in PP and in the 95 PI copies. The batch 31 table above keeps the earlier title as history.
+- **PP-358 and PP-360, "Neither parent".** Each has one named parent (the Applies-to line is bare). Each now reads "No parent".
+- **PP-359, PL-248 misstated.** The claim said PL-248 says nothing of sovereignty maintenance as an active present-tense response. PL-248 says that sovereignty must be maintained through active metabolic engagement (PC-7, PL-227). The sentence now says so, and that PL-248 says nothing of a present-tense response, of a policy, or of filtering (PL-248 has 0 "present-tense", 0 "polic", 0 "filter"; counted by me).
+- **PP-359, LP-1.** The checker's "permeab" and "selective" searches surfaced LP-1 (Active Boundary Metabolism, CP-1 × LL-2), which the entry did not consider. I read it whole: a self-determined boundary is an active metabolic process that expends continuous energy to maintain its selective permeability; outside its Tier line it mentions no consequence, no filter and no stored configuration. The Irreducibility now records it as read and set aside for the reason it gives LP-24, with its nearest sentence, and names this check.
+- **PP-365, PL-118's children** (found by the checker; the line names PP-361). It listed PP-425 and PP-361; PP-289, PP-313 and PP-345 (re-pointed from PL-239 in batch 29) also derive from PL-118 (Derives lines recounted: PP-289, PP-313, PP-345, PP-361, PP-365, PP-425). All are now named.
+- **PP-319, PP-359's restatement** (found by the checker). PP-319's batch-27 sentence says PP-325, PP-334 and PP-359 were read at their title and header lines only. Like PP-334's note, it now adds that PP-334 and PP-359 were restated in batches 29 and 31.
+
+Kept: **PP-357's title**, which says the record "Is" the accountability record where the body says "is read as": the title states the entry's condition, as the other restated titles do. **PP-361**, as the checker found it; PL-102, LP-63 and LP-62, which the checker did not read, are already recorded in the batch 31 notes as read and not adopted. **PP-358's survey**: the checker also read PL-45 (edge residue after a dissolved relationship), which the "structural mass residue" search returned; it carries no paradox-engine content.
+
+Not adopted, from the checker's out-of-scope notes:
+- PP-360's double blank line before its closing rule (PP:7320–7321). Removing it would move every later `PP-n (:m` reference by one line; it carries no content.
+- PP:4489 cites "PP-34 (PL-25 × LP-20, :700)", the heading line and not the Derives line. That list gives heading lines throughout; it is right on its own form.
+
+Line references: the amendments change text within 11 existing PP lines and add none; one title changes, in PP and its 95 PI copies; every `PP-n (:m` reference is unchanged (recomputed: none off). BARREN lines 158. The PP file stays 14222 lines.
+
+Loci, not changed here:
+- Tag sweep: PP-242 carries `[shared LL-232]`, which neither PL-40 (LL-8, LL-24) nor LP-186 (LL-254) cites; it came from the earlier parent LP-164 (checker's note; already listed at the batch 20 check). PP-241 carries the same tag; PL-1 cites LL-232 and LP-186 does not (found by me). Both go with PP-224, PP-275 and PP-343 to the tag sweep.
+- PP-242, PP-267 and PP-355 sit on one pair, PL-40 × LP-186; the overlap is not classified.
+- PP-362 names LP-238 in its text while its Applies-to line is bare, and carries `[shared LL-159]`; it is in the batch 32 Worker's scope.
+- Already open and unchanged: the PP:10 header filter (none of the seven pairs shares a directly cited LL; deeper LL ancestry not checked), the titles of PP-343 and PP-365, and LP-251 beside PL-19.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
