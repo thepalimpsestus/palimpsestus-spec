@@ -2454,6 +2454,29 @@ Loci, not changed here:
 - PI marks the four, and other BARREN PP entries such as PP-281, " [SUBSUMED]" on its Derives lines; whether that is PI's own classification of its parent or a stale state was not checked.
 - Already open and unchanged: the PP:10 header filter, PP-451's `[shared LL-208]`, and PP-132 and PP-698 on one pair.
 
+### Batch 32, independent check
+
+A blind checker (Opus; brief sha256 `331499db582b9865c41e8a9fea17584af86adf86e981c718b53eb09967144e9a`, return `d33950aed9187302ef4fccf759192cdb9c23e1537905daacf38c1d18a6597c79`) used its own copy of A at `0ec4813`. It read each entry and each parent whole, checked every quotation in the six entries against its source, ran its own searches of the PL and LP files, and wrote its entry judgments before it opened this record. It found PP-362 HOLDS and the other five AMEND: the four BARREN classes, the four NO CARRIER slots and the four tag removals right; no `PP-n (:m` reference in the six; every mention of the six in other PP entries true as they now stand; the 95 PI copies of each of the six titles exact and none of an earlier title; no IP, IC or II line naming the six. It reported no CLEAN-ROOM EXPOSURE. It noted that a harness notice (not a tool output) named a background task output path outside its roots, and that it did not read or use it.
+
+Adopted (each checked by me against the parents at `0ec4813`):
+- **PP-363, PP-364 and PP-368, the cut sentence.** Each Irreducibility listed the condition's own words as "Cut" ("topology-aware" and "distributor"; with "correctly distributed" in PP-364; "consequence-aware" and "topology engine" in PP-368), while the title, the italic and the condition still carry them inside the condition, which is not asserted. They are now listed as kept only as the subject of the condition, the entry's own words with no parent behind them; the words cut from what is asserted stay listed as cut. PP-367 already had this form ("topology engine" cut only "as more than the condition's subject"); PP-362's cut "topology sequencer" is not in its condition, which says "a Sequencer".
+- **PP-364 and PP-368, the "coverage" count.** "LP file: 1 entry (LP-619)" counted the section heading "## Pass 3 — Remaining Gap Coverage" (LP:11624), which follows LP-619 and is not its text. LP-619 itself has no "coverage" (checked to the next heading). Both now say 0 entries and name the heading.
+- **Tense.** "the earlier body names LP-n" now reads "named" in PP-364 and PP-368 (the checker's note) and also in PP-348 (LP-231) and PP-362 (LP-238), which had the same present tense for a body that no longer names it; "the entry the body names" reads "the entry the earlier body named" in PP-364 and PP-368.
+- **PP-363, corollary (2)** (the checker's optional note, adopted). "are sovereignty rights in potential, as weak as the performance" put PL-124's "as weak as the performance" on the rights; PL-124 (PL:4018) puts it on the privacy protection. It now follows PL-124: "architecturally established but physically non-performant; the privacy protection is as weak as the performance."
+- **PP-320 and PP-325, "Only their intersection establishes …".** Batch 32 changed what these two entries attribute to LP-383 and PL-248 and left the later steps for the re-cross. But each Irreducibility still said the parents' intersection establishes the entry's step, while the same paragraph says neither parent makes it. That sentence is an attribution to the parents, so it is in scope: each now says neither parent, alone or with the other, states the step, and that the step is the entry's own.
+
+Not adopted:
+- The checker's difference 6: that this record's PP-320 row says LP-383 states consequences propagate "in proportion to their confidence scores" and LP-383 does not say "in proportion". LP-383's italic (LP:7132) says they "propagate across edges in direct proportion to their confidence scores". The row stands.
+
+Line references: the amendments change text within 8 existing PP lines and add none; no title changes; every `PP-n (:m` reference in the PP file equals the entry's heading + 5 (recomputed: none off). BARREN lines 166. The PP file stays 14238 lines. The Reading column of the table below now carries batches 32 and 33, which the batch 32 and 33 commits left out.
+
+Loci, not changed here:
+- PP-711 names LP-241 on both its Derives and its Applies-to lines.
+- A whole-entry search that does not stop at `##` headings gives a section heading's words to the entry before it (as LP:11624 to LP-619). Counts in earlier batches made that way may carry the same artifact.
+- In PP-362 and PP-363 the "Under the condition above …" sentence sits inside a corollary labelled with the parent, so it reads as the parent's.
+- PP-320's `[shared LL-136]` and PP-325's `[shared LL-139]`: neither parent of either cites the LL (PL-323: LL-217, 223, 224, 324, 332, 333, 335, 401; PL-248: LL-438; LP-383: LL-210). For the tag sweep, with the re-cross of both entries.
+- PP-343's title still carries "Must Detect Constitutional Death" while its italic is restated (already open, title pass).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2589,18 +2612,18 @@ Loci, not changed here:
 | PP-359 | LP | LP-237 | no carrier found (strict reader, medium); batch 31: no carrier; nothing attributed to LP-237, restated on PL-248 alone, BARREN |
 | PP-360 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 31: no carrier; bare line kept, nothing attributed to it, restated on PL-27 alone, BARREN |
 | PP-361 | LP | LP-238 | no carrier found (strict reader, medium); batch 31: no carrier; nothing attributed to LP-238, restated on PL-118 alone, BARREN |
-| PP-362 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-363 | LP | LP-239 | no carrier found (strict reader, medium) |
-| PP-364 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
+| PP-362 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 32: no carrier; bare line kept, nothing attributed to it, restated on PL-114 alone, BARREN |
+| PP-363 | LP | LP-239 | no carrier found (strict reader, medium); batch 32: no carrier; nothing attributed to LP-239, restated on PL-124 alone, BARREN |
+| PP-364 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 32: no carrier; bare line kept, nothing attributed to it, restated on PL-27 alone, BARREN |
 | PP-365 | LP | LP-168 (was LP-240) | no carrier found (every reader); batch 09: re-pointed to LP-168 under a stated condition, restated, BARREN |
 | PP-366 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 07: no carrier; body's LP-240 attribution cut and restated on the PL parent alone, BARREN |
 | PP-367 | LP | LP-514 (was LP-241) | no carrier found (every reader); batch 28: re-pointed to LP-514 under a stated condition, restated with PL-287, BARREN |
-| PP-368 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-695 | LP | LP-551,LP-551 | candidate LP-241, medium confidence, no second reader proposed it; not adopted |
-| PP-698 | LP | LP-95,LP-95 | no carrier found (strict reader, medium) |
-| PP-720 | LP | LP-581,LP-581 | no carrier found (every reader) |
+| PP-368 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 32: no carrier; bare line kept, nothing attributed to it, restated on PL-27 alone, BARREN |
+| PP-695 | LP | LP-112 (was LP-551, twice) | candidate LP-241, medium confidence, no second reader proposed it; not adopted; batch 33: LP-241 read and set aside (its perishable energy is a pulse's); re-pointed to LP-112 (Non-Renewable Local Oscillation), restated as two single-parent facts on PL-185 and LP-112, BARREN |
+| PP-698 | LP | LP-95,LP-95 | no carrier found (strict reader, medium); batch 33: no carrier; nothing attributed to LP-95, restated on PL-188 alone, BARREN |
+| PP-720 | LP | LP-581,LP-581 | no carrier found (every reader); batch 33: no carrier; nothing attributed to LP-581, restated on PL-211 alone, BARREN |
 | PP-721 | LP | LP-582,LP-582 | candidate LP-649, low confidence, not adopted; batch 02: re-pointed to LP-649 and restated, BARREN |
-| PP-723 | LP | LP-584,LP-584 | candidate LP-694, low confidence, not adopted |
+| PP-723 | LP | LP-584,LP-584 | candidate LP-694, low confidence, not adopted; batch 33: LP-694 read and set aside (what it would add holds from PL-204 alone); no carrier; nothing attributed to LP-584, restated on PL-204 alone, BARREN |
 | PP-1 | PL | PL-50,PL-50 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-42 and restated, BARREN |
 | PP-7 | PL | PL-50 | no carrier found (every reader); batch 02: re-pointed to PL-227 and restated, BARREN |
 | PP-16 | PL | PL-74 | no carrier found (strict reader, medium); batch 02: re-pointed to PL-201 and restated, BARREN |
