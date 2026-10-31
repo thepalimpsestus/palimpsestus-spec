@@ -2163,6 +2163,49 @@ Loci, not changed here:
 - The Tier line of each of the seven still reads "Tier 3 (Derived Consequence)"; for the tier pass. PI's [SUBSUMED] tags on these BARREN entries, as before.
 - Kernel citations of these seven entries were not checked.
 
+### Batch 30
+
+The Worker (Sonnet) made the return against `5ab2933` (sha256 `06283392de3a530c19ba71c7d27dc02d0b6946efe862e1dd1dc0ea163f817b97`). It covers eight slots of the table below: the LP slots of PP-349 to PP-354, and the PL slots of PP-353 and PP-354. It was applied on top of `bb9c983`, where every one of its thirty old texts still occurs once (`72531a0` and `bb9c983` changed PP lines in the batch 28 and batch 29 entries and their notes, and none of these texts). The return discloses that the Worker read two other batches' returns (`out/batch-08.md` and `out/batch-09.md`), for the form of a return only; those files hold proposals for entries this batch does not touch, and OPEN PM found nothing in this return that rests on them. OPEN PM read every parent whole (PL-114, PL-14, PL-18, PL-22, PL-27; LP-232, LP-233, LP-234), the adopted carriers (LP-600, LP-335, PL-16) and the alternatives (LP-247, LP-248, LP-599, PL-84, PL-129, PL-254), checked the Worker's quotations against the text, re-ran its searches and ran more, and amended one entry to the current tip.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-349 | PL-114 (kept, restated) | LP-232 (kept, NO CARRIER) | BARREN | LP-232 states consciousness-mutating edges and has no resonance, death or detection. Restated: where a consequence-chain resonance structure is a paradox engine, PL-114's rule applies: whether it is operational is a present-tense fact; an engine not churning is stopped, and restarting it instantiates a new engine. Fails Test 1. |
+| PP-350 | PL-14 (kept, restated) | bare "LP (Logical Physical)" (kept, NO CARRIER) | BARREN | Restated: where each resonance cycle is a traversal, PL-14's rule applies: the cycle leaves a wake and changes the structural mass distribution of the region it traverses; a region traversed many times accumulates structural mass. Fails Test 1. |
+| PP-351 | PL-18 (kept, restated) | LP-600 (was LP-233) | BARREN | LP-233 states that entering missing data zones generates pathways and has no membrane or sovereignty. LP-600 (Membrane Sovereignty Rights Enforcement) is the only LP entry with "membrane sovereignty". Restated by halves under the condition that the membrane is an entity in PL-18's sense: PL-18 says sovereignty cannot be inherited, delegated or carried forward as a credential and must be demonstrated in the present; LP-600 says the membrane is itself sovereign. Test 1 holds for the first half, Test 2 for the second. |
+| PP-352 | PL-18 (kept, restated) | LP-600 (was bare "LP (Logical Physical)") | BARREN | Under the same condition: PL-18 says the structural mass of prior sovereign acts is weight, not credential; LP-600 carries the membrane's own sovereignty. Test 1 and Test 2 by halves. |
+| PP-353 | PL-22 (kept, NO CARRIER) | LP-335 (was LP-234) | BARREN | LP-234 states that the complexity floor is the boundary of sovereignty and has no map, navigation or propagation; PL-22 states that the topology cannot permit its own sovereignty bypass and has none either. LP-335 (Topological Incompleteness Map) states that the wake of traversal acts as a structural map of the graph's incompleteness. Restated under the condition that a consequence propagation through a topology is a traversal; nothing attributed to PL-22. Fails Test 2. |
+| PP-354 | PL-16 (was PL-27) | bare "LP (Logical Physical)" (kept, NO CARRIER) | BARREN | PL-27 states that the topology cannot prove its own completeness and has no debt, atrophy or untraversed region. PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy) states the entry's step: an untraversed edge is atrophying, its wake fading, its weight weakening, its pulse declining. Restated where a path of a consequence-propagation topology is not traversed. Fails Test 1. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-349, the list of PL-114's restated children.** The Worker's Irreducibility, made at `5ab2933`, said that PP-290, PP-343 and PP-346 already restate PL-114's rule. Batch 29 (`bb9c983`) restated PP-339 to PL-114 as well; the sentence now reads "PP-290, PP-339 (since batch 29), PP-343 and PP-346".
+- **PP-351 and PP-352, the re-point to LP-600.** The earlier table proposed LP-599 (Boundary Performance Register) for PP-351 and did not adopt it. LP-599 says a boundary not currently performed is a historical record, not a current structural fact; it has no sovereignty. LP-600 has the membrane's sovereignty and no present-tense rule; PL-18 has the present-tense rule and no membrane. Each entry is a conjunction of the two under a condition that neither parent states (that the membrane is an entity in PL-18's sense), and each Irreducibility says so; Tests 1 and 2 are read half by half, as for PP-248, PP-249, PP-251, PP-294 and PP-324 (the method text writes them for one constraint; see that locus above). Accepted; OPEN PM's confidence medium-low, as the Worker's.
+- **PP-353, the re-point to LP-335.** LP-335's "the wake of traversal acts as a structural map" is the entry's own predicate ("navigation IS the production of its constitutional map"); "constitutional" and the claim that a map made without traversal is hypothetical are cut and listed as not asserted. PL-22 stays on the Derives line with nothing attributed to it. Accepted, medium-low.
+- **PP-354, PL-16 over PL-84.** PL-84 (Edge Decay and Atrophy) states atrophy and adds that an edge's sovereignty standing degrades with it. The entry's title, italic and claim are navigation debt and atrophy, which is PL-16's own title; the earlier "applies to sovereignty" part is cut. The title keeps "Navigation Debt" because PL-16's title has it. Accepted; OPEN PM's confidence medium, the Worker's low-medium.
+- **Tags.** The Worker removed all six and each Irreducibility says so: PP-349 and PP-350 `[shared LL-153]`, PP-351 and PP-352 `[shared LL-154]`, PP-353 and PP-354 `[shared LL-155]`. OPEN PM checked each against the current parents: LL-153, LL-154 and LL-155 are cited in PL only by PL-19, PL-71, PL-74, PL-162, PL-208, PL-245 and PL-314, and in LP only by LP-124, LP-215, LP-649 and LP-650; none of these is a parent of the six.
+- **Seven notes in other entries.** PP-290's note that PP-349 is not restated now says that batch 30 restated it. PP-339's note that PP-349 carries "Must Detect Constitutional Death" now says it did until batch 30 restated and retitled it. The lists of PL-27's other children in PP-251, PP-271, PP-323, PP-336 and PP-341 drop PP-354, go from thirteen to twelve, and say that PP-354 was re-pointed to PL-16 in batch 30.
+- **Line references.** The batch adds 6 lines to the PP file, one in each entry. The list of header lines on PP line 4510 now reads `:11133, :11573, :11633` for its last three. Two `PP-n (:m` references move by 6: PP-492 (:9697) and PP-357 (:7250, …). Every `PP-n (:m` reference in the PP file (13) equals the entry's heading + 5. The PP file goes from 14209 to 14215 lines. PI's 570 title copies (95 for each of the six) are replaced, and no PI line carries an earlier title of the six.
+
+Searches re-run by OPEN PM, each giving the Worker's list: in PL and LP, "membrane sovereignty" (PL-129, PL-254; LP-600), "sovereignty membrane" (none), "consequence-aware" (none), "constitutional map" (none), "structural map" (PL-240; LP-335, LP-513), "navigation debt" (PL-16), "navigational atrophy" (PL-14, PL-16). More: "third sovereign" (LP-600 only), "untraversed path" (PL-16; LP-454, LP-472), "unmapped" (9 PL entries, 21 LP entries including LP-335), "weight, not credential" or "not as credential" (PL-18 only). PL-129 (subsumption is limited by continuous consent and membrane sovereignty) and PL-254 (isolation boundaries are sovereign entities) were read whole: each has the membrane's sovereignty and neither has the present-tense rule; not adopted, PL-18 kept as the Derives parent.
+
+Verified, not changed: no spec file other than PP and PI names the six entries; PI names each only on its 95 Derives lines, with the `[SUBSUMED]` tag, as before.
+
+Titles: six changed (PP-349 to PP-354), each the Worker's. Each title's 95 copies in PI were replaced with it (570 copies).
+
+How the slots are counted: the LP slots of PP-351, PP-352 and PP-353 and the PL slot of PP-354 are RE-POINTs; the LP slots of PP-349, PP-350 and PP-354 and the PL slot of PP-353 are NO CARRIER, each line kept (two of them the bare "LP (Logical Physical)") with nothing attributed to it. Every entry is restated. That makes 8 slots corrected. **52 remain.** BARREN lines: 145 → 151.
+
+Out-edges: LP-233 loses PP-351 and has no PP child left. LP-600 gains PP-351 and PP-352 (with PP-515). LP-234 keeps PP-232. LP-335 gains PP-353, its first PP child on an Applies line (PP-658 names it on its Derives line). PL-27 loses PP-354 and keeps thirteen children. PL-16 gains it (seven children).
+
+Loci, not changed here:
+- LP-247 (Provenance-Fuelled Boundary: a sovereign boundary persists only by the present-tense re-derivation of its entity's right to exist), LP-248 (Momentary Sovereign Surface: the boundary exists only while it is exercised) and LP-599 (Boundary Performance Register: a boundary not currently performed is a historical record) each carry the present-tense half of PP-351 and PP-352 for a boundary, and none has the membrane's own sovereignty. The Worker names LP-247 and LP-248 as a strict reader's alternatives; PP-351's earlier title ("Must Continuously Re-Derive Its Sovereignty") is nearest LP-247. If a later reading prefers one of them, PP-351 and PP-352 move together.
+- PL-84 (Edge Decay and Atrophy) against PL-16 for PP-354, as above.
+- PP-343's list of PL-114's restated children omits PP-346 (restated in batch 26).
+- PP-515's Derives line names PP-515 itself where PL-254 is expected; for the batch that crosses PP-515.
+- "Must Detect Constitutional Death" stands in the titles of PP-343, PP-358 and PP-362; "Consequence-Sensitive" in PP-343, PP-355 and PP-356; "Consequence-Aware" in PP-297, PP-326, PP-341, PP-361, PP-362, PP-365 and PP-368. PP-217 and PP-299 speak of "navigation debt" and are not PL-16's children. For the batches that cross them and the title pass.
+- The Tier line of each of the six still reads "Tier 3 (Derived Consequence)"; for the tier pass. PI's [SUBSUMED] tags on these BARREN entries, as before.
+- Kernel citations of these six entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2285,12 +2328,12 @@ Loci, not changed here:
 | PP-346 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 26: no carrier; bare line kept, nothing attributed to it, restated on PL-114 alone, BARREN |
 | PP-347 | LP | LP-231 | candidate LP-620, low confidence, not adopted; batch 29: no carrier; LP-620 read and not adopted, nothing attributed to LP-231, restated on PL-40 alone, BARREN |
 | PP-348 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 29: no carrier; bare line kept, nothing attributed to it, restated on PL-27 alone, BARREN |
-| PP-349 | LP | LP-232 | no carrier found (strict reader, medium) |
-| PP-350 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
-| PP-351 | LP | LP-233 | candidate LP-599, medium confidence, no second reader proposed it; not adopted |
-| PP-352 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low) |
-| PP-353 | LP | LP-234 | no carrier found (every reader) |
-| PP-354 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low) |
+| PP-349 | LP | LP-232 | no carrier found (strict reader, medium); batch 30: no carrier; nothing attributed to LP-232, restated on PL-114 alone, BARREN |
+| PP-350 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader); batch 30: no carrier; bare line kept, nothing attributed to it, restated on PL-14 alone, BARREN |
+| PP-351 | LP | LP-233 | candidate LP-599, medium confidence, no second reader proposed it; not adopted; batch 30: LP-599 read whole and set aside (no sovereignty); re-pointed to LP-600 (Membrane Sovereignty Rights Enforcement) under the condition that the membrane is an entity in PL-18's sense, restated by halves on PL-18 and LP-600, BARREN |
+| PP-352 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low); batch 30: re-pointed to LP-600 under the same condition as PP-351, restated by halves on PL-18 and LP-600, BARREN |
+| PP-353 | LP | LP-234 | no carrier found (every reader); batch 30: re-pointed to LP-335 (Topological Incompleteness Map) under the condition that a consequence propagation is a traversal, restated on LP-335 alone, BARREN |
+| PP-354 | LP | none (bare "LP (Logical Physical)") | no carrier found (strict reader, low); batch 30: no carrier; bare line kept, nothing attributed to it, restated on PL-16 alone, BARREN |
 | PP-355 | LP | LP-235 | no carrier found (every reader) |
 | PP-356 | LP | none (bare "LP (Logical Physical)") | no carrier found (every reader) |
 | PP-357 | LP | LP-236 | no carrier found (strict reader, medium) |
@@ -2393,8 +2436,8 @@ Loci, not changed here:
 | PP-344 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-140 and restated, BARREN |
 | PP-345 | PL | PL-118 (was PL-239) | candidate PL-17, low confidence, not adopted; batch 29: PL-239 does not bear the stale title; re-pointed to PL-118 under a stated condition, restated, BARREN |
 | PP-346 | PL | PL-114 (was PL-305) | no carrier found (every reader); batch 26: re-pointed to PL-114 under a stated condition, restated, BARREN |
-| PP-353 | PL | PL-22 | no carrier found (every reader) |
-| PP-354 | PL | PL-27 | candidate PL-84, low confidence, not adopted |
+| PP-353 | PL | PL-22 | no carrier found (every reader); batch 30: no carrier; PL-22 kept on the Derives line, nothing attributed to it, restated on LP-335 alone, BARREN |
+| PP-354 | PL | PL-27 | candidate PL-84, low confidence, not adopted; batch 30: PL-84 read whole and set aside (its added sovereignty standing is not the entry's); re-pointed to PL-16 (Navigation Debt — Untraversed Paths Carry Logical Atrophy), restated on PL-16 alone, BARREN |
 | PP-361 | PL | PL-108 | candidate PL-118, medium confidence, no second reader proposed it; not adopted |
 | PP-366 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-140 and restated, BARREN |
 | PP-367 | PL | PL-287 (was PL-305) | no carrier found (strict reader, high); batch 28: re-pointed to PL-287 under a stated condition, restated, BARREN |
