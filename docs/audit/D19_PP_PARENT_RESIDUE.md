@@ -1300,6 +1300,35 @@ Loci, not changed here:
 - The corollaries of all eight entries read examples (SLAs, audits, deprecated APIs, mergers, contracts, compliance history, consensus) as the entry's own step; neither parent states them.
 - Kernel citations of these eight entries were not checked.
 
+### Batch 16, independent check
+
+A blind checker (Opus; brief sha256 `fa8633fe…`, return `79fd8a88e7b79fa48206985b7c0e70196b33db329a004691aa7eec1b9b8dfa1e`) used its own copy of A at `40a6a4b`. It read each entry, each parent, each replaced parent and each entry the text names whole, and wrote its entry judgments and out-edge search before it opened this record. It gave HOLDS for PP-13 and PP-227 and AMEND for PP-35, PP-216, PP-219, PP-220, PP-221 and PP-223. It agreed with every BARREN mark, with the four re-points (PL-40, PL-127 and LP-662, PL-78, LP-599), with both NO CARRIER slots and with keeping LP-155. OPEN PM read each cited line again at `c3dfee5` (PL-17, 18, 25, 40, 45, 78, 127 and 324, LP-21, 152, 155, 245, 599 and 662, and the PP lines named below).
+
+Adopted:
+- **Tags.** No `[shared LL-n]` tag on the six AMEND entries names an LL that both current parents cite. PP-35's LL-36 is LP-21's only (PL-40 cites LL-8). PP-216's LL-10 is on neither PL-127 (LL-209, 273, 422) nor LP-662 (LL-199). PP-219's LL-11 is on neither PL-78 (LL-354, 390, 461) nor LP-245 (LL-183). PP-220's and PP-221's LL-11 is LP-152's only. PP-223's LL-12 is PL-18's only. Three of the six (PP-35, PP-216 and PP-223) were tags the old pair shared, left on the line when the parent was re-pointed. The six tags are removed, as batch 11 removed tags that matched no shared parent. Whether the PP header's filter (PP:10, "sharing ≥1 LL ancestor") admits these cells is the question of related item 1: the method's Zero Pre-Filtering Mandate (`dag-crossing-method.md` §3, lines 50-56) bars skipping a pair on shared ancestry, and the header filter and §3 still disagree. This check does not settle that.
+- **PP-35.** PL-40 speaks of a sovereignty certificate, not of a certificate of the thing claimed: the body and corollary (1) now say "a sovereignty certificate for the correction". Corollary (2) turned PL-40's "no permanent trusted states" into a statement that a claim is not a state; it now says that the sovereignty claimed for such a correction must also be continuously demonstrated by traversal. Corollary (3) merged LP-21's two conditions; it now gives them apart: the force is blocked where the entity's boundary rejects the proof, and the entity can choose to remain "broken" where the process fails to mathematically prove the necessity of the fix.
+- **PP-216.** The Irreducibility said PL-127 is a Derives parent of PP-112 "with LP-80"; PP-112's Applies line is LP-174 since batch 15, and the text now says so. The body said PL-127 mentions no representation of a limit; PL-127's corollary speaks of an explicit ignorance map (a known-unknowns inventory) and of sovereignty over one's own knowledge boundary. The body now says that PL-127 mentions no probe and no sovereignty limit, and names the ignorance map and the knowledge boundary.
+- **PP-219.** The title said "What Remains of It Is Structural Mass"; PL-78 says the residue is not the entity but what remains of the field's geometry after the pattern is gone. The title now says "Its Residue Is Structural Mass, Not the Boundary", and the body and corollaries (1) and (2) use "residue". The record set PL-45 aside because it speaks of an edge and the entry of a boundary; the checker noted that PL-78 speaks of an entity, so that reason applies to both. The Irreducibility now gives the reason that holds: PL-45 would serve under the narrower condition that the boundary is held as an edge, and PL-78 states the residue of any dissolved topology entity.
+- **PP-220.** PP-34's header is PP:700, not :704. "(flag, below)" pointed to nothing in the entry. LP-245 says a dissolved boundary reconstitutes itself along the historical fault lines on resumed use; it does not say the reconstituted boundary is the prior state. It stood against the cut claim that no dissolution is reversible and does not contradict the restated entry, and the sentence now says so. This closes the batch 16 locus on LP-245.
+- **PP-221.** The LP-152 Applies lines are PP:4479 and PP:4500, not :4474 and :4494. The nine other PL-17 entries' line numbers pointed to blank lines; they are now the entries' header lines (:680, :1903, :3502, :4758, :4960, :5021, :10950, :11390, :11450).
+- **PP-223, title.** LP-599 states the record of a past boundary of a boundary *registered* but not performed, and its own corollary puts a boundary that stops being performed without being formally dissolved in an ambiguous state. The title dropped "registered"; it now says "a Membrane Registered but No Longer Performed".
+- **PP-227.** The body's "not asserted" sentence spoke of "a paradox-resistant structure" and "competing paths", words the restated condition no longer uses. It now says that the conditions stay close to the parents' own words: PL-324 says the structure sustaining the tension is the derivation, and LP-155 that the pulse is the maintenance of internal derivational tension.
+
+Not adopted:
+- **Re-pointing PP-219 to PL-45.** The checker called PL-45 at least as good a carrier and kept its verdict on PL-78. PL-78 carries the residue of a dissolved whole; PL-45 the fossil of a dissolved edge. No change beyond the reason above.
+
+Corrected in this record: the batch 16 locus 3 says "31 IP lines of the form 'PP-35 Invariant (...)'". 31 IP lines cite PP-35; 14 of them are of that form, 14 are Applies-to lists, and three are IP:941, IP:1274 and IP:1323.
+
+Titles: two changed (PP-219, PP-223). Each title's 95 copies in PI were replaced with it. The checker found all 760 PI copies of the eight batch 16 titles exact before this change. No slot count changes: 167 remain.
+
+New loci, not changed here:
+- The method's Tests 1 and 2 do not say how a constraint that is a conjunction of two single-parent statements is tested. The batch 16 entries take the governing question per conjunct.
+- PP-219 and PP-223 say "BARREN at Test 1, so Test 3 is not reached" and then report Test 3's finding; the other batch 16 entries run Test 3 after Test 1. The method does not say whether Test 3 is run after a BARREN at Test 1.
+- LP-21's italic line says "proof of reducibility" and its claim "irreducibility proof". That is the LP file's own matter.
+- PP-707's Derives line names "LP-155 × PL-200", a cross, where the left parent should be one PL entry.
+- PP-112's Derives line carries no tag; PL-127 and LP-174 share no LL. Nothing to change.
+- IP:1297 cites PP-13 and IP:1323 cites PP-35, but neither IP-50's Applies line (IP:1283) nor IP-51's (IP:1308) lists that PP entry. IC:363 cites PP-35 for field balance, which PP-35 does not state. These go to D23 with the IP lines already listed.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
