@@ -1461,6 +1461,44 @@ New loci, not changed here:
 - PP-257 names PP-252 and PP-341 names PP-251. Those PP-internal citations were not checked against the restated text.
 - The checker cited the method tests as M:71-73. In `dag-crossing-method.md` at `b806ab9` and at `f38b73c`, lines 71-73 are the Fold tests and the crossing tests are at lines 65-67. The checker's reading of the tests is right, and only its line numbers are off.
 
+### Batch 19
+
+The Worker (Sonnet) made the return against `b806ab9` (sha256 `86369fa2376457d95554c0c161b69095b7c76784e747245a121546c841bf4ff0`). It covers eight slots of the table below: the LP slots of PP-258, PP-259, PP-260, PP-262, PP-264 and PP-265, and the PL slots of PP-258 and PP-260. It was applied on top of `190a57b`, where every one of its 36 old texts still occurs once. OPEN PM read every parent and every adopted carrier whole (PL-19, PL-29, PL-38, PL-145, PL-177, PL-236, PL-237, PL-240, PL-16; LP-175, LP-176, LP-177, LP-178, LP-180, LP-582), checked the Worker's quotations of each against the text, and amended the tags, one Irreducibility, one set of corollaries and the form of all six Irreducibility sections.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-258 | PL-237 (was PL-177) | LP-582 (was LP-175) | BARREN | PL-177 states that a partial excavation honest about its incompleteness is legitimate; LP-175 states that an untested position is alive and shifting before it is visited. Neither has tension measurement. LP-582 states that tension-coherence measurement must be a passive continuous signal and not an on-demand check, because the decay occurs between checks; PL-237 states that the tension that sustains sovereignty decays unless it is exercised. Restated: where the tension a meter reads is the tension that sustains an entity's sovereignty and also constitutes the entity, its measurement must be continuous. Each half holds from one parent alone (Tests 1 and 2); the two share LL-411; a conjunction. |
+| PP-259 | PL-38 (kept) | LP-176 (kept) | BARREN | LP-176 states that an untested position's derivation path is unknown until traversed and has no mesh or administration. Restated: where the topology is read as a distributed consequence mesh, there is no administrative layer above it (PL-38). Fails Test 1 under the stated condition. |
+| PP-260 | PL-236 (was PL-240) | LP-177 (kept) | BARREN | The Derives line named PL-240 under a title no PL entry bears; PL-240 states map incompleteness as a discovery engine and has no debt. LP-177 states the relational pull of an unvisited node and has no cascade or interference. PL-236 states that unexcavated pre-existing derivations are a current debt. Restated: where the territory opened at a point of cascade interference is unexcavated pre-existing derivations, it is a current debt that existed before the interference (PL-236). Fails Test 1 under the stated condition. |
+| PP-262 | PL-19 (kept) | LP-178 (kept) | BARREN | LP-178 states the sovereignty of an unvisited node and has no record, integrator or mass. Restated: where the record of accumulated consequence mass is the accountability record of topology interactions, it must be a living structure carried as Structural Mass (PL-19). Fails Test 1 under the stated condition. |
+| PP-264 | PL-145 (kept) | LP-180 (kept) | BARREN | LP-180 states the value of an untested position as fuel and has no recursion or layers. LP-401, LP-164 and LP-301 are near and are not adopted: each would import a condition (scales of tension, a survey, assumptions) the entry does not state. Restated: where the layers of a recursive consequence substrate are territory that traversal explores, every traversal creates more unexplored territory than it resolves (PL-145). Fails Test 1 under the stated condition. |
+| PP-265 | PL-29 (kept) | LP-180 (kept) | BARREN | LP-180 has no cost that precedes discovery. LP-491 states PL-29's rule for a survey's territory and is not adopted: the entry names no survey. Restated: where unexplored levels of a recursive consequence substrate are undiscovered structures, they are already incurring thermodynamic cost and discovery does not start the meter (PL-29). Fails Test 1 under the stated condition. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **Irreducibility form.** All six new Irreducibility sections began "Re-crossed under D19" without the `**Irreducibility:**` label that the 79 earlier restated entries carry. The label is added.
+- **PP-258 test reading.** The Worker classed PP-258 by Test 2 and said Test 1 "does not decide". Under the reading adopted at the batch 18 check (PP-248), a conjunction is tested half by half: the measurement holds from LP-582 alone (Test 2) and the decay unless exercised from PL-237 alone (Test 1). The sentence now says so.
+- **Re-points over NO CARRIER.** The Worker rated PP-258's two re-points low-medium and medium-low, and PP-260's PL re-point medium-low. Each is accepted. LP-582's corollary that measurement must be continuous because the decay occurs between checks is the rule the old title reached for with "archived readings are expired"; PL-177 and LP-175 state nothing of it. For PP-260, the old Derives title ("Navigation Debt … Governance Debt") matches no PL entry, and the entry's claim is a debt for unmapped territory, which is PL-236's rule and not PL-240's. PL-240 does cite LL-245, the LL of LP-177 and of the old tag, so the id may be the one meant; the Irreducibility now records that, and that PL-240's rule is still not the entry's. The rows file's candidates (PL-205 for PP-258, PL-29 for PP-260) are not adopted, for the Worker's reasons.
+- **Tags.** The Worker kept every tag. A tag stays only when both current parents cite the LL (batch 17, batch 18). PP-258's `[shared LL-243]` becomes `[shared LL-411]` (PL-237 and LP-582 both cite LL-411, neither cites LL-243; the Irreducibility says so). Five tags are removed, because the PL parent does not cite the LP parent's LL: PP-259 (LL-244; PL-38 cites LL-3), PP-260 (LL-245; PL-236 cites LL-409), PP-262 (LL-246; PL-19 cites LL-8, LL-473, LL-152, LL-153), PP-264 (LL-248; PL-145 cites LL-239, LL-247) and PP-265 (LL-248; PL-29 cites LL-475, LL-474).
+- **PP-260 corollaries.** The Worker's corollary (3) was a statement about PL-236's wording and not a corollary. It is folded into the "Not asserted" corollary, which is now (3).
+
+Titles: six changed (PP-258, 259, 260, 262, 264, 265). Each title's 95 copies in PI were replaced with it (570 copies), so no PI copy of these six is stale. The Worker had left them, which is not the practice.
+
+How the slots are counted: the LP slot of PP-258 and the PL slots of PP-258 and PP-260 are RE-POINTs; the LP slots of PP-259, PP-260, PP-262, PP-264 and PP-265 are NO CARRIER, each Applies line kept with nothing attributed to it. That makes 8 slots corrected. **142 remain.** BARREN lines: 79 → 85.
+
+Out-edges: IP and IC cite none of the six entries. PI cites each only on its 95 Derives lines. In PP, PP-264 is named in overlap notes at PP-252 and PP-257, and PP-265 at PP-253; they stay true.
+
+Loci, not changed here:
+- PL-38's title names the logical and the physical, and its body uses neither word; it states that there is no administrative layer above the topology. PP-41, PP-164 and PP-200 also derive from PL-38 and may read the title as the rule.
+- LP-251 states that a captured record is born stale; PL-19 requires the accountability record to be a living structure. Two entries in tension; PP-262 uses PL-19 only.
+- PP-264 and PP-265 apply the same LP-180 with nothing attributed to it, over PL-145 and PL-29; whoever passes LP-180 sees both.
+- Each entry's subject noun (a meter, a distributed consequence mesh, cascade interference, a consequence mass integrator, a recursive consequence substrate) has no parent and survives only as the stated condition.
+- PP-258 is the only PP entry on LP-582; PP-721 names LP-582 only to record that it does not carry a boundary-surface mechanic. PP-199 also derives from PL-237.
+- PP-262 overlaps thirteen other PP entries on PL-19, PP-357 ("Topological Consequence Integrator") nearest; PP-260 overlaps PP-235 and PP-492 on PL-236; overlap is noted, not classified.
+- The PI Derives-from lines tag all six entries [SUBSUMED]; the PP file now marks them BARREN.
+- Kernel citations of these six entries were not checked.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -1500,14 +1538,14 @@ New loci, not changed here:
 | PP-255 | LP | LP-613 (was LP-173) | no carrier found (strict reader, high); batch 08: no carrier, nothing attributed to LP-173, BARREN settled; batch 10: re-pointed to LP-613 and restated, BARREN |
 | PP-256 | LP | LP-174 | no carrier found (strict reader, low); batch 15: RE-POINT → LP-209 under a stated condition, restated, BARREN |
 | PP-257 | LP | LP-174 | no carrier found (strict reader, low); batch 15: LP-174 kept as the carrier of the every-scale part, accountability claims cut, restated, BARREN |
-| PP-258 | LP | LP-175 | no carrier found (strict reader, high) |
-| PP-259 | LP | LP-176 | candidate LP-212, low confidence, not adopted |
-| PP-260 | LP | LP-177 | no carrier found (every reader) |
+| PP-258 | LP | LP-175 | no carrier found (strict reader, high); batch 19: re-pointed to LP-582, restated, BARREN |
+| PP-259 | LP | LP-176 | candidate LP-212, low confidence, not adopted; batch 19: no carrier; nothing attributed to LP-176, restated on PL-38, BARREN |
+| PP-260 | LP | LP-177 | no carrier found (every reader); batch 19: no carrier; nothing attributed to LP-177, BARREN |
 | PP-261 | LP | LP-616 | no carrier found (strict reader, high); batch 08: re-pointed LP-177 to LP-616 (timing half), restated, BARREN |
-| PP-262 | LP | LP-178 | no carrier found (every reader) |
+| PP-262 | LP | LP-178 | no carrier found (every reader); batch 19: no carrier; nothing attributed to LP-178, restated on PL-19, BARREN |
 | PP-263 | LP | LP-179 | no carrier found (strict reader, high); batch 01b: restated, BARREN |
-| PP-264 | LP | LP-180 | candidate LP-401, low confidence, not adopted |
-| PP-265 | LP | LP-180 | no carrier found (strict reader, high) |
+| PP-264 | LP | LP-180 | candidate LP-401, low confidence, not adopted; batch 19: no carrier; nothing attributed to LP-180, restated on PL-145, BARREN |
+| PP-265 | LP | LP-180 | no carrier found (strict reader, high); batch 19: no carrier; nothing attributed to LP-180, restated on PL-29, BARREN |
 | PP-266 | LP | LP-181 | no carrier found (every reader) |
 | PP-267 | LP | LP-182 | no carrier found (every reader) |
 | PP-268 | LP | LP-183 | no carrier found (strict reader, high) |
@@ -1654,8 +1692,8 @@ New loci, not changed here:
 | PP-246 | PL | PL-174 | no carrier found (every reader); batch 04: read, not corrected (to the title pass); batch 11: RE-POINT → PL-302 |
 | PP-249 | PL | PL-175 | no carrier found (strict reader, medium); batch 18: no carrier; nothing attributed to PL-175, BARREN (both slots no carrier) |
 | PP-255 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 06: re-pointed to PL-267 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
-| PP-258 | PL | PL-177 | candidate PL-205, low confidence, not adopted |
-| PP-260 | PL | PL-240 | candidate PL-29, low confidence, not adopted |
+| PP-258 | PL | PL-177 | candidate PL-205, low confidence, not adopted; batch 19: re-pointed to PL-237, restated, BARREN |
+| PP-260 | PL | PL-240 | candidate PL-29, low confidence, not adopted; batch 19: re-pointed to PL-236 (the old title matched no PL entry), restated, BARREN |
 | PP-261 | PL | PL-299 | no carrier found (strict reader, medium); batch 06: re-pointed to PL-266 and restated, BARREN (provisional: LP slot open); batch 08: LP slot settled, BARREN |
 | PP-266 | PL | PL-181 | no carrier found (strict reader, medium) |
 | PP-269 | PL | PL-182 | no carrier found (every reader); batch 01b: restated, BARREN |
