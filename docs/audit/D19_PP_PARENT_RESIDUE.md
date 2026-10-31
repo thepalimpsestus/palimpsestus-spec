@@ -2591,6 +2591,51 @@ Loci (not acted on):
 - LP-24 and LP-28 concern the interior-controlled gate (CP-5), not the transforming gate LP-82 and LP-85 name; a later LP-slot pass that reads them as the transforming gate would need a condition.
 - No sentence of PL or LP names a gate and an edge as one thing; PP-119's condition is the only bridge.
 
+### Batch 36
+
+The Worker (Sonnet) made the return against `bfeea91` (sha256 `83886e58982451544f25e8de68139d47dbd957037ddeeeae23f7e0f5889c5d2f`). It covers six PL slots of the table below: PP-166, PP-184, PP-192, PP-382, PP-385 and PP-386. It was applied on top of `f4fe4f6`, where every one of its thirty-six old texts still occurs once (`4e42b2a` and `f4fe4f6` changed no line of the six entries). OPEN PM read every parent whole (PL-51, PL-144, PL-154, PL-60, PL-65; LP-119, LP-133, LP-139, LP-356, LP-420, LP-429) and the four adopted carriers (PL-20, PL-107, PL-11, PL-14), checked the Worker's quotations and attributions against their sources, and made the amendments listed below.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-166 | PL-20 (was PL-51) | LP-119 (kept, restated) | BARREN | PL-51 (Scale-Invariant Failure Propagation) states that a structural failure at any scale is identical to one at every other scale, and has no identity as structural mass, no verifier and no authority. LP-119 states that the mutual verification rests on the endpoint's derivation provenance graph and rejects self-declared identifiers. Where a verifier's claim of authority to verify in that handshake is held as a sovereignty claim, PL-20's rule applies unchanged: it must be derived along a provenance chain and cannot be declared. Fails Test 1. |
+| PP-184 | PL-107 (was PL-144) | LP-133 (kept, restated) | BARREN | PL-144 (Permanent Frontier) states that the frontier is a permanent structural feature, and has no truth pulse and no evaluation. LP-133 states that querying creates a cyclical pulse after which the truth is alive and then decays. Where that pulse is held as PL-107's Pulse and the truth as its validity, PL-107's rule applies unchanged: validity is generated at the current Pulse and none persists from prior Pulses. Fails Test 1. |
+| PP-192 | PL-154 (kept, NO CARRIER) | LP-139 (kept, restated) | BARREN | PL-154 (Unmapped Traversal Obligation) states that navigation into unmapped territory is a constitutional obligation, and has no attention, buffer, horizon or edge configuration. LP-139 (Topological Sight Horizon) states the restated claim: the finite attention buffer dictates the horizon of visibility, and a navigator cannot perceive edges beyond the limit of their buffer. Fails Test 2. |
+| PP-382 | PL-11 (was PL-60) | LP-356 (kept, restated) | BARREN | PL-60 (Scale-Invariant Topological Comprehension) states that comprehension at one scale is comprehension at all scales, and has no failure, standing or dissolution. LP-356 states that routing a failure as input permanently instantiates a new edge; PL-11 states that edges cannot be dissolved without the proof-of-redundancy requirement that governs node dissolution. Each half is BARREN at Test 1 or Test 2. |
+| PP-385 | PL-14 (was PL-65) | LP-420 (kept, restated) | BARREN | PL-65 (Pulse-Consistent Consistency) states that consistency is pulse-relative, and has no depth, flow, cost or transformation. LP-420 states that the knowledge gradient crosses abstraction boundaries without translation pressure loss. Where that knowledge flow is held as a traversal, PL-14's rule applies unchanged: it leaves a Wake, and traversals are not free. Fails Test 1. |
+| PP-386 | PL-14 (was PL-65) | LP-429 (kept, restated) | BARREN | PL-65 as for PP-385. LP-429 states that the membrane passes knowledge regardless of depth, without 'depth friction'. Where a transit through that membrane is held as a traversal, PL-14's rule applies unchanged: it leaves a Wake, and traversals are not free. Fails Test 1. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-166, PP-184, PP-385 and PP-386, the subject.** A condition uses the parent's own word where the parent states it (batch 34, PP-59; batch 35). The conditions are now "a verifier's claim of authority to verify in the provenance-based handshake LP-119 names", "the cardiac evaluation pulse LP-133 names" (PP-184's title had "the Pulse Created by Querying"), "the knowledge flow that the physical knowledge gradient LP-420 names drives across depths" (the Worker's "cross-depth knowledge flow") and "the depth-agnostic membrane LP-429 names". Title, italic, claim and Irreducibility are restated to match where the condition appears in them.
+- **PP-385 and PP-386, corollary 1.** Each quoted a sentence of the earlier cut corollary 2 ("The gradient flows automatically so there's no cost"; "The membrane handles the cross-depth transit seamlessly") as though a parent said it. Each now uses its LP parent's own words: the flow is not free "even where it irrigates automatically (LP-420)"; the membrane's "translating the flow smoothly across the gradient without 'depth friction' (LP-429)" does not make the transit free.
+- **PP-382, the two halves.** The Irreducibility now ends in PP-365's form: neither parent adds to the other, so the entry is a conjunction of two single-parent facts and not a product of a crossing.
+- **PP-192, NO CARRIER.** "No PL entry states it either" is now in PP-92's form: PL-11, PL-13, PL-23, PL-319 and PL-146 were read and set aside, LP-368 (an LP statement) is recorded as the alternative, and not found is not proof of absence.
+- **The cut corollaries.** The Worker named the cut corollaries only inside the Irreducibility. Each entry's Corollaries now ends in the form used elsewhere in the PP file: the earlier corollaries, named, are not carried by the two parents and are not asserted.
+- **Children lists.** PP-184's "Entries on PL-107 are" is now "PL-107's other PP children are". PP-385's list of PL-14's other children now includes PP-386. Three lists in earlier entries were made false by the re-points and are corrected: PP-317's and PP-350's "PL-14 has seven other PP children" now read nine, with PP-385 and PP-386; PP-331's "PL-107's other PP children are PP-106, PP-193 and PP-447" now includes PP-184.
+
+Accepted as the Worker made them: the five re-points (PP-166 to PL-20, PP-184 to PL-107, PP-382 to PL-11, PP-385 and PP-386 to PL-14), each with its condition (none for PP-382) written and not asserted; the NO CARRIER slot (PL-154 kept on the Derives-from line with nothing attributed, as in batches 08, 09, 31, 33, 34 and 35); the candidates set aside, with their nearest sentences (for PP-166 LP-634; for PP-184 PL-17, PL-4 and PL-65; for PP-192 PL-11, PL-13, PL-23, PL-319, PL-146 and LP-368; for PP-382 PL-5, PL-6 and PL-26; for PP-385 and PP-386 PL-51, PL-50, PL-131, LP-494 and, for PP-386, LP-480). Six tags are removed (`[shared LL-3]`, `[shared LL-167]`, `[shared LL-185]`, `[shared LL-33]` and `[shared LL-41]` twice); in each, the current PL parent does not cite the LL, which the LP parent alone cites. The rows file found no carrier for all six; the five re-points rest on a condition each except PP-382's, and NO CARRIER is the recorded alternative for each.
+
+Line references. The batch adds 6 lines to the PP file (each of the six entries gains its state line). Of the 23 `PP-n (:m` references in the PP file, 17 move: the 11 to entries between PP-192 and PP-382 (PP-199, PP-200, PP-235, PP-252, PP-253, PP-257, PP-261, PP-263, PP-264, PP-281, PP-357) by 3, and the six to entries below PP-386 (PP-411 twice, PP-419, PP-451, PP-492, PP-718) by 6. PP-221's bare list moves with them (the LP-152 Applies-to lines :4489 → :4492 and :4510 → :4513; the PL-17 headers :3512 → :3513, :4770, :4977 and :5039 by 3, :11162, :11602 and :11662 by 6; :680 and :1907 do not move). Every `PP-n (:m` reference in the PP file equals the entry's heading + 5. The PP file goes from 14248 to 14254 lines. PI's 570 title copies (95 for each of the six) and LI-27's copy of PP-184's title are replaced, and no foundations file carries an earlier title of the six.
+
+Titles. Six new titles, each restating the entry:
+- PP-166 "Where a Verifier's Claim of Authority to Verify in the Provenance-Based Handshake Is Held as a Sovereignty Claim, It Must Be Derived Along a Provenance Chain — It Cannot Be Declared"
+- PP-184 "Where the Cardiac Evaluation Pulse Is Held as the Topology's Pulse, Validity Is Generated at Each Pulse and None Persists From the Prior One"
+- PP-192 "The Finite Attention Buffer Sets the Sight Horizon — A Navigator Cannot Perceive Edges Beyond the Limit of Its Buffer"
+- PP-382 "A Structural Failure-Tether Is a Permanent Edge — An Edge Cannot Be Dissolved Without Proof of Redundancy"
+- PP-385 "Where the Knowledge Flow That the Physical Knowledge Gradient Drives Across Depths Is Held as a Traversal, It Leaves a Wake — Traversals Are Not Free"
+- PP-386 "Where a Transit Through the Depth-Agnostic Membrane Is Held as a Traversal, It Leaves a Wake — Traversals Are Not Free"
+
+How the slots are counted: six PL slots; five RE-POINT and one NO CARRIER. 6 slots corrected. **18 remain**, all PL slots. BARREN lines: 178 → 184.
+
+Out-edges: PL-51 loses PP-166 (PP-25, PP-68, PP-620 remain); PL-144 loses PP-184 (PP-448, PP-682 remain); PL-60 loses PP-382 (PP-685 remains); PL-65 loses PP-385 and PP-386 and has no PP child left. PL-20 gains PP-166 (with PP-13, PP-109, PP-157, PP-210, PP-570, PP-598, PP-615, PP-642); PL-107 gains PP-184 (with PP-106, PP-193, PP-331, PP-447); PL-11 gains PP-382 (with PP-39, PP-156, PP-160, PP-613, PP-614); PL-14 gains PP-385 and PP-386 (with PP-23, PP-118, PP-125, PP-245, PP-317, PP-350, PP-577, PP-590). PL-154 keeps its Derives-from slot in PP-192 as NO CARRIER with nothing attributed. PI: 95 Derives-from lines for each of the six carry the new titles; LI-27 carries PP-184's; IP and IC have none.
+
+Loci (not acted on):
+- PP-157 (PL-20 × LP-115) and PP-166 both apply PL-20 to a verifier that cannot show its own provenance chain; the overlap is noted and not classified.
+- PP-331 (PL-107 × LP-62) and PP-184 both apply PL-107's caching rule; LP-368 (Structural Comprehension State) and PP-192 both bound what a navigator can comprehend; PP-385 and PP-386 apply PL-14 under conditions near those of PP-245, PP-317 and PP-350, and near LP-494's "depth does not discount the thermodynamic obligation" and PP-390 and PP-395. Each overlap is noted and not classified.
+- PL-65 now has no PP child; that is recorded, not a defect.
+- PP-184's condition holds two things as one each (the pulse as the Pulse, the truth as the validity); if refused, LP-133 alone carries the restated claim and the slot is NO CARRIER.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2769,9 +2814,9 @@ Loci (not acted on):
 | PP-154 | PL | PL-130 | no carrier found (strict reader, medium); batch 05: re-pointed to PL-81 and restated, BARREN |
 | PP-158 | PL | PL-126 (was PL-133) | no carrier found (strict reader, medium); batch 35: re-pointed to PL-126 (Sovereign Tension Fields) under the condition that the two endpoints of LP-116's mutual verification are held as sovereign topological structures, restated as two single-parent halves on PL-126 and LP-116, BARREN |
 | PP-163 | PL | PL-227 (was PL-50) | no carrier found (every reader); batch 35: re-pointed to PL-227 (Active Rights Atrophy Without Metabolic Exercise — Inherent Rights Persist) under the condition that LP-118's continuous verification is held as the entity's active exercise of its sovereign rights, restated as two single-parent halves on PL-227 and LP-118, BARREN |
-| PP-166 | PL | PL-51 | no carrier found (strict reader, medium) |
-| PP-184 | PL | PL-144 | no carrier found (strict reader, high) |
-| PP-192 | PL | PL-154 | no carrier found (strict reader, medium) |
+| PP-166 | PL | PL-20 (was PL-51) | no carrier found (strict reader, medium); batch 36: re-pointed to PL-20 (Sovereignty Must Be Derived, Not Declared — At Every Scale) under the condition that a verifier's claim of authority to verify in the provenance-based handshake LP-119 names is held as a sovereignty claim, BARREN |
+| PP-184 | PL | PL-107 (was PL-144) | no carrier found (strict reader, high); batch 36: re-pointed to PL-107 (Position-Present Validity) under the condition that the cardiac evaluation pulse LP-133 names is held as PL-107's Pulse and its truth as PL-107's validity, BARREN |
+| PP-192 | PL | PL-154 | no carrier found (strict reader, medium); batch 36: no carrier; nothing attributed to PL-154 (PL-11, PL-13, PL-23, PL-319 and PL-146 read and set aside; LP-368 recorded as the alternative), restated on LP-139 alone, BARREN |
 | PP-196 | PL | PL-198 | no carrier found (every reader); batch 05: read, not corrected (to the title pass); batch 11: RE-POINT → PL-36 |
 | PP-199 | PL | PL-50 | no carrier found (strict reader, high); batch 03: re-pointed to PL-237 and restated, BARREN |
 | PP-216 | PL | PL-127 (was PL-22) | no carrier found (every reader); batch 16: re-pointed to PL-127 under a stated condition, restated, BARREN |
@@ -2826,9 +2871,9 @@ Loci (not acted on):
 | PP-361 | PL | PL-108 | candidate PL-118, medium confidence, no second reader proposed it; not adopted; batch 31: PL-108 read whole and set aside (aging from a claim, not invalidation on a structural change); re-pointed to PL-118 (Instant Validity Invalidation), restated on PL-118 alone, BARREN |
 | PP-366 | PL | PL-299 | candidate PL-267, low confidence, not adopted; batch 07: re-pointed to PL-140 and restated, BARREN |
 | PP-367 | PL | PL-287 (was PL-305) | no carrier found (strict reader, high); batch 28: re-pointed to PL-287 under a stated condition, restated, BARREN |
-| PP-382 | PL | PL-60 | no carrier found (strict reader, medium) |
-| PP-385 | PL | PL-65 | no carrier found (strict reader, medium) |
-| PP-386 | PL | PL-65 | no carrier found (strict reader, medium) |
+| PP-382 | PL | PL-11 (was PL-60) | no carrier found (strict reader, medium); batch 36: re-pointed to PL-11 (Logical Sovereignty Lives in the Edge, Not the Node), restated as two single-parent halves on LP-356 and PL-11, BARREN |
+| PP-385 | PL | PL-14 (was PL-65) | no carrier found (strict reader, medium); batch 36: re-pointed to PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) under the condition that the knowledge flow the physical knowledge gradient LP-420 names drives across depths is held as a traversal, BARREN |
+| PP-386 | PL | PL-14 (was PL-65) | no carrier found (strict reader, medium); batch 36: re-pointed to PL-14 (Every Logical Operation Is a Navigation — and Leaves a Wake) under the condition that a transit through the depth-agnostic membrane LP-429 names is held as a traversal, BARREN |
 | PP-388 | PL | PL-67 | candidate PL-195, medium confidence, no second reader proposed it; not adopted |
 | PP-393 | PL | PL-68 | no carrier found (strict reader, medium) |
 | PP-400 | PL | PL-96 | no carrier found (strict reader, medium) |
