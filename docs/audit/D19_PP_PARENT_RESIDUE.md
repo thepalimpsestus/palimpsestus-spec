@@ -1431,6 +1431,36 @@ New loci, not changed here:
 - PP-309's Applies line is "LP (Logical Physical)", with no entry id; the batch 15 record names PP-309 only for its closure.
 - The PI Derives-from lines tag all eight entries [SUBSUMED] on every copy (760 lines), where PP marks them BARREN; this widens the batch 17 locus to every copy.
 
+### Batch 18, independent check
+
+A blind checker (Opus; brief sha256 `1469d79c…`, return `8df75a173bd4eda0cc20bd2d0a31e2ae6cadf39b15ea8d57d11de5dac5efa323`) used its own copy of A at `b806ab9`. It read each entry, each parent and the entries named below whole, and wrote its entry judgments before it opened this record. It gave HOLDS for PP-250, PP-252 and PP-254, and AMEND for PP-248, PP-249, PP-251 and PP-253. It agreed with the three re-points (PP-248 to LP-135, PP-250 to LP-66, PP-253 to LP-491), with NO CARRIER on the other LP slots and on both slots of PP-249, with all seven BARREN marks, with the seven titles and their 665 PI copies, with PP-365's corrected sentence, with 0 IP and IC out-edges, and with the count (BARREN 72 → 79; 150 remain). OPEN PM read each cited line again at `f38b73c` (PL-27, PL-29 at PL:1561-1604, PL-313 and LP-135's Derives and Applies lines, LP-491 at LP:9073-9090, PP-186's and PP-528's tags, LP-625, LP-171, the PL hit for "accountability propagation", and `dag-crossing-method.md` lines 65-67).
+
+Adopted:
+- **PP-253, Irreducible Claim.** The entry said that "neither parent mentions an obligation". PL-29 does: discovery "surfaces a pre-existing obligation", and the invisible budget is "a standing obligation" (PL-29's Irreducible Claim and corollary 1). The batch 18 review said it checked the Worker's quotations against the parent files and missed this sentence. The sentence now says that PL-29 calls the cost of an undiscovered structure a pre-existing obligation of the topology, and that neither parent mentions an obligated party or an obligation territory. The condition is still not asserted, and the mark is unchanged.
+- **PP-253, italic.** "A newly discovered territory's cost was already accruing (LP-491)" dropped LP-491's condition, a territory a non-terminating survey discovers. The italic now names it.
+- **PP-248 and PP-253, tags.** PL-313 and LP-135 both cite LL-171, and PP-186 carries `[shared LL-171]` for the same pair; PL-29 and LP-491 both cite LL-474. Batch 18 named both shared LLs as loci and left the tags off. Each Derives line now carries its tag, and each Irreducibility says why. The checker also pointed to PP-528's `[shared LL-474]`. That is not cited as the precedent, because PP-528's Derives line names PP-528 itself (an open locus).
+- **PP-248 and PP-251, test sentences.** Each said the entry "fails Test 1 (the left parent alone)" and that Tests 2 and 3 were not reached. Each entry is a conjunction whose second half (LP-135's, LP-171's) holds from the above parent alone, which is Test 2. Each sentence now tests half by half, as PP-249 and PP-365 already do: Test 1 for the left half, Test 2 for the above half, and Test 3 not reached. The BARREN marks are unchanged. The batch 18 receipts above ("Fails Test 1 under the stated condition") stand as written. This note corrects them.
+- **PP-251, title and corollary 2.** Both said "a completeness claim". PL-27's rule is about the topology's claim of its own completeness, and the italic and the Irreducible Claim already say "a claim of the topology's completeness". The title is now "Where Charting the Descendants of an Obligation Is a Survey, and Its Reach Is Held as a Claim of the Topology's Completeness, That Claim Cannot Be Self-Certified — The Survey Does Not Terminate". Its 95 PI copies were replaced. Corollary 2 now says "a claim of the topology's completeness".
+- **PP-249, italic.** It said "The entry's claim" for the claim the entry says is not established. It now says "The earlier claim", as the Irreducible Claim does.
+
+Not adopted: none. PP-365's parenthesis calls LP-135 "the parent of PP-186". The checker found it true and incomplete, because LP-135 is now also PP-248's parent; the same sentence already says so. It is left as it stands.
+
+Strengthening the search receipt (read again by OPEN PM; none is a carrier, and no verdict changes):
+- For PP-250, LP-625 (Freedom-Preserving Consequence Routing, LP:11721) uses "consequence routing" for consequences that follow an exiting entity. It says nothing of pre-planning.
+- For PP-252, LP-171's corollary at LP:3209 ("The system is mathematically proven to outgrow any survey attempt") is the nearest LP statement to PL-145's. Not adopted: the entry's rule is PL-145's ratio, which LP-171 does not state.
+- For PP-254, "accountability propagation" occurs once in PL, at PL:3037 in PL-77, as the name of LL-346. PL-77 states no attractor and no force. The batch 18 search for the phrase was scoped to LP only.
+
+Out-edges: the checker also searched II; 0 lines cite the seven entries. This extends the batch 18 note on IP and IC.
+
+Titles: one changed (PP-251), with 95 PI copies. No slot count changes: 150 remain.
+
+New loci, not changed here:
+- `dag-crossing-method.md` lines 65-67 write the three tests for one constraint. The half-by-half reading that PP-248, 249, 251 and 365 now use is not stated by the method. Whether a conjunction is tested whole or by halves is open.
+- PP-365's title still says "Consequence-Aware", which its own Irreducibility says has no parent behind it (already left for the title pass).
+- PP-249 keeps Tier 3 on an entry that says its claim is not established. This is a case of the open locus on Tier for BARREN entries.
+- PP-257 names PP-252 and PP-341 names PP-251. Those PP-internal citations were not checked against the restated text.
+- The checker cited the method tests as M:71-73. In `dag-crossing-method.md` at `b806ab9` and at `f38b73c`, lines 71-73 are the Fold tests and the crossing tests are at lines 65-67. The checker's reading of the tests is right, and only its line numbers are off.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
