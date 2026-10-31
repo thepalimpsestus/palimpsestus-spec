@@ -1405,6 +1405,32 @@ Loci, not changed here:
 - The PI Derives-from lines tag all seven entries [SUBSUMED]; the PP file now marks them BARREN.
 - Kernel citations of these seven entries were not checked.
 
+### Batch 17, independent check
+
+A blind checker (Opus; brief sha256 `850ea197…`, return `095ba748637f01dc2cb089c91d67b8114df09f1b8d47db489788787ef9dd1172`) used its own copy of A at `4ad7a0b`. It read each entry, each parent and the LP entries named below whole, and wrote its entry judgments before it opened this record. It gave HOLDS for PP-233, PP-234, PP-235, PP-238, PP-239 and PP-245, and AMEND for PP-240 and PP-247. It agreed with the PL-305 → PL-287 re-point of PP-233 and with not adopting PL-72 or PL-285, with NO CARRIER on all eight LP slots, with BARREN by Test 1 for all eight, with removing the seven tags and keeping LL-236 on PP-247, with the eight titles and their 760 PI copies, and with the slot count of 9. OPEN PM read each cited line again at `b806ab9` (PL-61 corollary 3 at PL:2669, PL-236 at PL:6612-6617, PL-184, PL-258 at PL:7382, LP-202, the LP entries named below, and `dag-crossing-method.md` §7 and §8).
+
+Adopted:
+- **PP-240, italic.** PL-61's corollary (PL:2669) speaks of "a sovereignty protection protocol"; the italic said "a protection protocol", which widens PL-61's rule to protocols that protect anything. The italic now says "a sovereignty protection protocol", as the Irreducible Claim already does.
+- **PP-247, Irreducibility.** The sentence said that "proof-of-consequence", "chain of custody" and "consequence provenance" appear only in LP-202. In LP at `b806ab9`, "proof-of-consequence" and "consequence provenance" have 0 hits, and "chain of custody" has one, at LP:3782 in LP-202. The sentence now says so. The conclusion, no LP carrier, is unaffected.
+- **PP-235, IC paragraph 2.** The entry said that treating the depths as a future opportunity "undercharges the system"; PL-236 (PL:6614-6615) says that those who treat undiscovered knowledge as opportunity "are undercharging themselves", and the entry's corollary 2 already uses those words. The checker gave HOLDS and offered the exact wording as optional; it is taken, as "whoever treats them as a future opportunity is undercharging themselves (PL-236)", so the paragraph names no subject PL-236 does not.
+
+Correction, 2026-10-31 (dated note; the batch 17 text above stands as written): the batch 17 receipt for PP-247 says "LP-202 is the only LP entry with 'proof-of-consequence'". No LP entry has that phrase; LP-202 is the only LP entry with "chain of custody". The NO CARRIER finding does not rest on the phrase and stands.
+
+Not adopted: none. The checker's PP-235 confidence (medium, from the wording gap now closed, not from a carrier doubt) is noted; the slot row keeps the reader's own confidence.
+
+Strengthening the search receipt (read again by OPEN PM; none is a carrier, and no verdict changes): near-concept LP entries the batch 17 receipts did not name are LP-500 (Precautionary Boundary Hardening) and LP-237 (Scale-Invariant Preemptive Shielding) for PP-240, which share LL-375 with PL-61; LP-513 (Unassumed Excavation Protocol) for PP-238; LP-242 (Archaeological Pulse Debt) and LP-460 (Excavation Depth Tagging) for PP-235; and LP-597 (Scale-Invariant Subsystem Collapse Protocol) for PP-233. LP-26, which the checker raised for PP-239, is among the "lock" entries the batch 17 review read whole.
+
+Out-edges: the checker also searched II; 0 lines cite the eight, which extends the batch 17 note on IP and IC. The ARC Lead's kernel-citation notes for the batch 17 and batch 18 entries (`~/Documents/Workstream-dispatch/arc-lead-note-kernel-cites-batch17-entries-4ad7a0b.md`, sha256 `8bad94d2…`; `arc-lead-note-kernel-cites-batch18-entries-b806ab9.md`, sha256 `ab049575…`) found no citation of the fifteen entries in the kernel source at its HEAD `1195baa`, and IP and IC byte-identical between the two tips; the kernel's rows file, certification and tests were not searched. This closes the "kernel citations were not checked" locus of batches 17 and 18 for the kernel source only.
+
+Titles: none changed. No slot count changes: 150 remain.
+
+New loci, not changed here:
+- PL:7382, in PL-258, cites PL-184 for "the full consequence cascade"; PL-184 is Active Vitality Assessment and states no consequence cascade. That is the PL file's own matter.
+- The BARREN entries carry "**Epistemic Tier:** Tier 3 (Derived Consequence)"; `dag-crossing-method.md` §7 (line 97) gives the dual classification to every surviving entry. Whether a BARREN entry keeps a tier is not settled by the method.
+- The PP entries give Epistemic Tier before Derives from; the §8 template (lines 127-138) orders Derives from, Applies to, Derivational State, Epistemic Tier.
+- PP-309's Applies line is "LP (Logical Physical)", with no entry id; the batch 15 record names PP-309 only for its closure.
+- The PI Derives-from lines tag all eight entries [SUBSUMED] on every copy (760 lines), where PP marks them BARREN; this widens the batch 17 locus to every copy.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
