@@ -1892,6 +1892,28 @@ Loci, not changed here:
 - The Tier line of each of the five still reads "Tier 3 (Derived Consequence)"; for the tier pass.
 - Kernel citations of these five entries were not checked.
 
+### Batch 25, independent check
+
+A blind checker (Opus; brief sha256 `9c3599a35a1f11f4751eae412977165ad5ffb65c3c33109d45d8ca2d9b9d0812`, return `fb231135b001890c9a1d29260564e509137a6739552d8bd6fbb87c51fad9c349`) used its own copy of A at `eaeaefd`. It read each entry, each parent and the entries named below whole, re-ran the searches the entries cite, ran its own concept searches, and wrote its entry judgments before it opened the batch 25 section. It found all five entries HOLD (PP-312 at medium, the others high), no IP, IC or II line naming the five, every `PP-n (:m` reference correct, the 95 PI copies of each title exact, and no tag that belongs.
+
+Adopted (checked against the parents at `eaeaefd`):
+- **PP-307, "the same identity".** PP-246 withdrew "a consequence topology gradient IS the present-tense accountability map"; PP-307's earlier claim was that a navigation gradient is the accountability map. The identity is alike, not the same. The Irreducibility now says "a like identity" and states which.
+- **PP-307 and PP-337, two nearer PL entries.** PL-286 (Tension Subsystems Create Consequence-Trapping Zones That Force Local Accountability) states that an isolation membrane traps consequences so local components bear their own accountability, and that designing isolation is a distribution-of-accountability choice; PL-77 (Field Propagation of Consequence) states that consequence propagates through the whole field and every entity carries accountability in proportion to its contribution. OPEN PM read both whole: neither states a gradient or an accountability map. PP-307 now names both and why neither is adopted; PP-337 points to it.
+- **PP-311, "sovereign boundary".** The entry searched "sovereignty boundary" and "enforcement layer" only. OPEN PM re-ran "sovereign boundary" and "boundary" next to "enforce" in LP: LP-21, LP-28, LP-29, LP-150, LP-169, LP-245, LP-247 and LP-628. The nearest is LP-247 (Provenance-Fuelled Boundary, CP-48 × LL-3), which states that a sovereign boundary persists only through continuous present-tense re-derivation of its provenance: a boundary's persistence, not its enforcement or how an enforcement is proved. LP-628 states the direction of knowledge flow across a gradient boundary. None is a carrier; the Irreducibility now names the search, the list and LP-247.
+- **PP-312, LP-237.** LP-237 (Scale-Invariant Preemptive Shielding, CP-46 × LL-375) shares LL-375 with PL-61 and states that preemptive protection activates uniformly across all scales. It is shielding, not enforcement, and reading the enforcement as a shielding would be a condition this re-crossing introduces (the precedent of the rejected LP-23 re-point). Named in the Irreducibility, not adopted.
+- **PP-291, PL-40's restated children.** Its sentence listing the children already restated on PL-40 was written before batch 25 and omits PP-311. It was stale, not false; it now adds "(and PP-311 since batch 25)".
+- **The slot table.** Batches 24 and 25 had not annotated their rows in the table below. Fixed before this check was adjudicated (16 rows; 91 unannotated = 91 remain).
+
+Recorded, not changed in the entries:
+- **PP-337, "which I read".** First person in an entry; it is widespread in the D19 entries. Locus only.
+
+Line references: the amendments change text within five existing lines and add none; no `PP-n (:m)` reference moves (recomputed: none off). BARREN lines 120.
+
+Loci, not changed here:
+- PP-359 and PP-360 attribute a "sovereignty-sensitive consequence filter" to LP-237, which states preemptive shielding (above). For the batch that reaches them.
+- PP-312's Applies line still names the cell and not an entry, against `dag-crossing-method.md` (line 130). Kept as NO CARRIER under this batch; the method question stays open.
+- PP-313's Irreducibility cites this record; PI's [SUBSUMED] tags on BARREN entries and its runs of empty items (as before).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
