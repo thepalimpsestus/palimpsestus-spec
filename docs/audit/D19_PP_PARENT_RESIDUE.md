@@ -1599,6 +1599,35 @@ Loci, not changed here:
 - The PI Derives-from lines tag all six entries [SUBSUMED]; the PP file now marks them BARREN (a PI-wide convention, see the batch 19 check).
 - Kernel citations of these six entries were not checked.
 
+### Batch 21, independent check
+
+A blind checker (Opus; brief sha256 `96df7b24c601388d1a23d1d95794c886c798fa745707430522a884bd364d2087`, return `5d2f84ebe66402337d50cc0d4b8a45c842ed64b1a4b347806d50b50638de4c6d`) used its own copy of A at `8a0cb25`. It read each entry, each parent and the entries named below whole, and wrote its entry judgments before it opened this record. It gave HOLDS for PP-277, PP-278, PP-279, PP-280 and PP-282 and AMEND for PP-283 and PP-284. It agreed with every class (all seven BARREN, by the same tests), with the removal of every tag, with the re-point of PP-279 to PL-322 and with the 665 PI copies. It disclosed that an early recursive search printed three truncated lines of this record; it read nothing more of the record until its entry sections were written.
+
+Adopted (checked against the parents at `8c49634`):
+- **PP-284, LP-194's actor.** The title, italic, claim and Test 2 sentence said that a boundary the response's traversal reaches generates new edges (LP-194). LP-194 states edge generation only for the paradox engine's oscillation acting on the system's boundaries (its claim and its Irreducibility); it never says a traversal makes a boundary generate edges. The reading of the traversal as that oscillation is now part of the stated condition, in all four places, and the title is restated ("Where That Traversal Is Read as the Engine's Oscillation at a Boundary, the Boundary Generates New Edges"). The class is unchanged. The batch 21 review restated LP-194's rule without its actor and missed this.
+- **PP-284, overlap note.** It said PP-263, PP-264, PP-268 and PP-285 carry "Self-Multiplying" or "Self-Multiplies" in their titles. PP-264's title has neither word; PP-138, PP-141 and PP-329 also carry it. It now names PP-138, PP-141, PP-263, PP-268, PP-285 and PP-329, and names PP-252, PP-257 and PP-264 as stating the same PL-145 rule over a different traversal. This record's batch 21 sibling line repeats the old list; that line stands as written and is corrected here.
+- **PP-283, PL-40's words.** "A pre-stored basis for the claim" (claim paragraph 2 and corollary 1) is not PL-40's phrase, and "basis" is the word the entry's own Irreducibility cuts. Both now read "a pre-evaluated sovereignty certificate", PL-40's phrase; the italic's "stored sovereignty certificate" also reads "pre-evaluated". Corollary 2 said evaluation lifetimes "are bounded" by the metabolism rate; PL-40 says they "must be bounded". It now says "must be bounded", and the gloss "so a basis stored for such a region expires faster" is cut. The title's "A Stored Certificate Is a Label" is left: the checker read "stored" as a near paraphrase of "pre-evaluated" and did not amend it.
+- **PP-283, candidates.** LP-21 (Sovereign-Bound Restorative Force), the closest LP in kind, is now named as read and not adopted: it states that a restorative process presents an irreducibility proof at an entity's interior-controlled gate and mentions no cascade and no trigger.
+- **PP-279, LP-23's word.** LP-23 speaks of sub-components, not nodes. The title, italic, claim, corollaries and Test 2 sentence now say "sub-component(s)"; the earlier text's "every node maintains its own sovereignty" stays quoted as the earlier text. The Irreducibility now also states that LP-23 grounds its gates in "sovereignty cannot be suspended at any depth" (LL-1), the nearest LP text to that earlier phrase, which the batch understated.
+- **PP-280, candidates.** LP-23 is now named as read: it mentions no overlapping claims and no tension, so the constraint would still hold from PL-323 alone.
+- **PP-282, candidates.** PL-14, PL-77 and PL-286 are now named with their titles and the reason they are not adopted: none states that a consequence crossing an edge is modulated by the edge's confidence or weight.
+- **PP-277, wording.** LP-136 does not use the word "atrophy"; the claim now says LP-136 supplies what the entry calls an atrophied connection and that LP-136 says the edge starves and its structural integrity collapses. Corollary 1's "a health check for connections" now reads "a test for connection atrophy". The candidate summary now covers LP-108 (the engine converting unresolved gaps into new structure) and LP-245 (the reactivation of dissolved boundaries), which the old summary did not fit.
+- **PP-278, PP-279, PP-282, tense.** "The entry's own words" for words the restated entries no longer use now reads "the earlier text's words".
+- **PP-281, tag.** Its Derives line carried `[shared LL-262]`, the LL of its old above parent LP-193. PL-188 applies to LL-203 and LP-376 is CP-28 × LL-203, which its own Irreducibility names. The tag now reads `[shared LL-203]`.
+
+PI: the two changed titles (PP-279 and PP-284) were replaced in all 95 PI copies each (190). Line references were recomputed after the edit: every `PP-n (:m)` reference in PP points at its entry's heading + 5.
+
+Not adopted: PP-280's italic says "a boundary between sovereignty claims" where its claim says "the truth a system holds"; neither statement of the condition adds a rule, and the checker did not amend it.
+
+Out-edges: the checker also searched II; 0 lines cite the seven entries (II has uncited "priority governance" wording, with no PP citation).
+
+Loci, not changed here:
+- PP-273 (PP :5555): `[shared LL-256]` matches neither PL-323 nor LP-563 (CP-40 × LL-329), and its claim describes LP-563 as stating that gradient intersections are where sovereignty claims overlap, which LP-563 does not state (already a batch 20 locus; reached again).
+- PP-285: it says LP-195 establishes consequence-weighted boundaries; LP-195 is "Topology-Mapping Oscillation". For its own batch.
+- PL-40's Derives and Applies lines carry a doubled LL slot ("PC-5 (× LL: Phase 2 — Uncited LL Entries) × LL-8"). LP-194 is followed by two `---` separators.
+- PP-272's stale PL-228 title and its description of LP-187, found by the checker at `8a0cb25`, were resolved by batch 20.
+- Method: a review must check every statement an entry makes about other entries (titles, overlap lists) against those entries, and must keep a parent's actor when it restates the parent's rule (LP-194's edges come from the engine's oscillation, not from whatever reaches the boundary).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
