@@ -1628,6 +1628,31 @@ Loci, not changed here:
 - PP-272's stale PL-228 title and its description of LP-187, found by the checker at `8a0cb25`, were resolved by batch 20.
 - Method: a review must check every statement an entry makes about other entries (titles, overlap lists) against those entries, and must keep a parent's actor when it restates the parent's rule (LP-194's edges come from the engine's oscillation, not from whatever reaches the boundary).
 
+### Batch 20, independent check
+
+A blind checker (Opus; brief sha256 `ef90f431071f427a9455e05f694e85697c6fc62f95b9b00ab7b49a75906fc484`, return `16d4634a0f101b0083e1465126c8461acf6a0ae834d43ad826c7e7d3d11f1786`) used its own copy of A at `8c49634`. It read each entry, each parent and the entries named below whole, re-ran every search the entries cite (each reproduced), and wrote its entry judgments before it opened this record. It gave HOLDS for PP-266, PP-267, PP-271, PP-272 and PP-274 and AMEND for PP-268. It agreed with every class (all six BARREN, by the same tests), with every re-point, with every NO CARRIER slot, with the removal of all six tags, with the 95 PI copies per title (all `[SUBSUMED]`) and with the BARREN count (98).
+
+Adopted (checked against the parents at `b326987`):
+- **PP-268, title.** Its second clause, "Proving Reach at One Depth Reveals More Beyond It", recast PL-145's frontier ("every attempt to reach the frontier reveals new frontier beyond it") as a depth, and so restated in the title the depth N+1 claim the body cuts. It now reads "The Ratio of Explored to Total Territory Does Not Improve", PL-145's own words; the Irreducibility says so.
+- **PP-267, corollary 5.** It listed as not asserted "that listing a cascade's reach in documentation leaves sovereignty over the cascade unproved", which corollary 4 and the claim do assert under the condition. It now reads "that, outside the condition above, listing …".
+- **PP-271, PL-27's ancestry.** PL-27 was described as "PC-9"; its header also applies to LL-10 and LL-26. It now reads "PC-9 with LL-10 and LL-26".
+- **PP-271, candidates.** LP-650 (Audit-Trail Completeness Verification, CP-21 × LL-155) is now named as read and not adopted: it states that an audit trail must self-prove its completeness, mentions no scale, and holds the reverse of PL-27's stance.
+- **PP-274, PL candidates.** PL-110 (fuel not consumed in the present Pulse is lost), PL-113 (no consistency snapshot can certify future consistency) and PL-86 (Edge-Exclusive Force Transmission, which shares LL-299 with LP-397: value is realized only through active edge transmission) are now named as read and not adopted. None mentions synchronization or a schedule; PL-86 would bear the entry only under a further condition neither parent states, so the PL slot stays NO CARRIER and PL-81 stays named.
+
+PI: PP-268's changed title was replaced in all 95 PI copies. Line references were recomputed after the edit: every `PP-n (:m)` reference in PP points at its entry's heading + 5.
+
+Not adopted:
+- PP-272, dropping "From Different Domains" (the checker's optional amend, low confidence). The phrase is the entry's own subject, kept as a stated condition and marked not asserted ("PL-322 does not speak of domains"), as restated entries keep their subject; it attributes nothing to a parent.
+- PP-267, naming PL-130 and PL-54. PL-130 is already among the five PL "cascade" hits the entry read; PL-54 states obligation at every depth with no cascade and no reach. The entry's sentence stands as true.
+- PP-266, the wording "the first test that gives a class deciding": loose, the checker gives it low weight, and the class (BARREN, two single-parent facts) is right.
+- The PP header's pair filter (PP :10): none of the six current pairs shares an LL. Method point 29 stands: the filter and the `[shared LL-x]` tag are not evidence, and the method's Zero Pre-Filtering Mandate (§3) stands against the filter. Kept BARREN entries are not removed for failing it.
+
+Out-edges: the checker also searched II; 0 lines cite the six entries (II-26 uses "priority governance" with no PP citation; already noted in the batch 21 check).
+
+Loci, not changed here:
+- PP-242 (PP :4930, batch-01, PL-40 × LP-186): `[shared LL-232]` matches neither parent (PL-40: LL-8, LL-24; LP-186: LL-254), and the entry has no Derivational State line. PP-267 now shows proof by present traversal at every scale the cascade reaches to come from PL-40 alone under a condition, so PP-242's "only together" may not survive Test 1. For the re-cross of the batch 01 to 06 entries.
+- PP-273: `[shared LL-256]` and its LP-563 attribution (already a batch 20 and batch 21 locus; reached a third time).
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
