@@ -2730,6 +2730,29 @@ Loci (not acted on):
 - PP-678 (PL-96) and PP-680 (PL-67) keep the parents PP-400 and PP-388 left; PP-408 (PL-29 × LP-295) and PP-398 (LP-255) share an LP parent with PP-400 and PP-406. Each overlap is noted and not classified.
 - The six entries keep "Tier 3 (Derived Consequence)" while each is now BARREN; the Tier line is left as the file has it for every BARREN entry.
 
+### Batch 37, independent check
+
+A blind checker (Opus; brief sha256 `162e88f463d1d28e8b0b4e28eaad59b4d034aceb9234f65c2d1952f4c0094f22`, return `2751e3b120a657cc2083cb455dd700f4a5814c25c2c5b47e5e0acdbdd396b62f`) used its own copy of A at `e4871d3`. It read each entry and each parent whole, ran its own searches of the PL and LP files for each slot, computed every named parent's children from the Derives and Applies lines, and wrote its entry judgments before it opened this record. It found all six HOLD (PP-393 and PP-406 with high confidence, the four two-halves entries with medium), with one optional amendment to PP-388; the tag decisions right (five removed, `[shared LL-87]` kept on PP-400); the 23 `PP-n (:m` references in the PP file, PP-221's bare list and PP-129's list right; the 95 PI copies of each title exact; no IP, IC, II or IL line naming the six.
+
+Adopted (each checked by me against the parents at `73c6596`; every quotation below occurs in its entry, whitespace normalised):
+- **PP-388, "the rows file's candidate".** The Irreducibility named PL-195 as "the rows file's candidate". The rows file is a working file of this audit, not part of A, and a reader of A cannot resolve it. The phrase is deleted; PL-195 stays read and not adopted, with its line.
+- **PP-388, PL-50.** PL-50 (Scale-Invariant Navigability) is the only PL entry that cites LL-41, the LL that LP-420 cites, so it is the one re-point that would give the pair a shared LL; the entry did not name it. Its claim says "flow has no depth barriers (LL-41)" in a rule that the topology cannot generate scale-specific navigational barriers: near LP-420's own half, and nothing of knowledge constituted by traversal. It is now named as set aside. The checker said PL-50 carries no gradient content; I wrote that it is near LP-420's half, since its LL-41 clause is the LL that half rests on.
+- **PP-415, PL-176.** PL-176 (Pre-Existing Topology Identity and Architecture) is the only PL entry with "false assumption": its corollary has the architect excavating a pre-existing structure, "removing false assumptions that obscure it". It does not say that the removal changes what it uncovers or destroys the layer removed. It is now named as set aside.
+- **PP-405, the condition paragraph.** "LP-417 does not mention metabolism or a rate" was true word for word, but LP-417's half-life is itself a decay rate. The sentence now says LP-417 does not mention metabolism, and that the half-life it names is based on traversal staleness (LP-417: "LL-94 states that discoveries have a half-life based on traversal staleness"), not on a rate of metabolic activity. The checker proposed no change; the earlier sentence left a reader to find that half-life is a rate.
+
+Not adopted:
+- None of the checker's proposals was declined.
+
+Recorded as loci, not acted on:
+- PP-400's and PP-415's conditions each join two senses: LP-295's undiscovered channels are paths that exist and are not yet known, PL-159's uninstantiated edges are not yet manifest; under PP-415's condition the layer destroyed is the false assumption, in PL-48 it is the layer of unmanifested potential. Each condition is written and not asserted, so neither is asserted as the same thing; the joins are recorded here.
+- 51 PP entries have their Derives line at heading + 3, not heading + 5 (for example PP-42, PP-571, PP-593, PP-596). The heading + 5 standard is for `PP-n (:m` references, and none of the 23 points to such an entry; PP-221's bare list gives heading lines. Nothing is off.
+- PP-622's Derives line reads "PL-193 (…) [shared LL-43]; LP-422 (…) × PL-193 [shared LL-43]": an LP entry inside the Derives-from slot, while LP-422 is also its Applies parent.
+- PP-220's "PP-34 (PL-25 × LP-20, :700)" gives PP-34's heading; the batch 16 check set it to :700, and the batch 27 and batch 31 checks read it as intended; it stays.
+- The PP header filter (PP:10): after the batch five of the six pairs share no cited LL. It stays with the batch 04 locus.
+- The method's tests are written for a single constraint; each of the four two-halves entries (PP-388, PP-400, PP-405, PP-415) says it applies them to each half, which the method text does not state. It stays as the batch 37 section records it.
+
+Line references: the amendments change text within three existing PP lines and add none; no title changes; every `PP-n (:m` reference in the PP file is unchanged (recomputed: 23, none off), and PP-221's bare list is unchanged. The PP file stays 14272 lines. No children list changes, and no out-edge moves. BARREN lines 190. The count of remaining slots is unchanged: **12 remain**.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
