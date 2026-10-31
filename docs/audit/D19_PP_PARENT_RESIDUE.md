@@ -2545,6 +2545,52 @@ Loci, not changed here:
 - PP-354's Applies-to line with no LP number.
 - PL-54's "has violate" (PL file) and LP-35's separator spacing (LP file).
 
+### Batch 35
+
+The Worker (Sonnet) made the return against `bfeea91` (sha256 `aaf8f561529042e248b05226f78cfff9711688fd80d125a0be27c7ed5a4d4cad`). It covers six PL slots of the table below: PP-107, PP-115, PP-119, PP-129, PP-158 and PP-163. It was applied on top of `4e42b2a`, where every one of its thirty-six old texts still occurs once (`4e42b2a` changed no line of the six entries). OPEN PM read every parent whole (PL-85, PL-86, PL-87, PL-110, PL-133, PL-50; LP-77, LP-82, LP-85, LP-92, LP-116, LP-118), the five adopted carriers (PL-119, PL-181, PL-84, PL-126, PL-227) and the nearest candidates set aside (PL-16, PL-100, PL-322, PL-40), checked the Worker's zero counts and quotations against their sources, and made the amendments listed below.
+
+`CrossReceipt(PP, left, above, class, justification)`:
+
+| Entry | Left (was) | Above (was) | Class | Justification |
+| :-- | :-- | :-- | :-- | :-- |
+| PP-107 | PL-119 (was PL-85) | LP-77 (kept; its name for the subject only) | BARREN | PL-85 (Symmetric Scale-Invariant Edges) states that the two terminals of every force relationship have symmetric standing at every scale, and has no sovereignty, depth, nesting, due process or bypass. LP-77 states that irreducibility sovereignty must physically manifest as self-similar nesting. Where each depth of that self-similar nesting is held as a structure of the topology, PL-119's rule applies unchanged: each depth is sovereign over its own interior geometry and force cannot bypass it. Fails Test 1. |
+| PP-115 | PL-181 (was PL-86) | LP-82 (kept; its name for the subject only) | BARREN | PL-86 (Edge-Exclusive Force Transmission) states that force, value and consequence travel only through edges, and has no metabolism and no execution. LP-82 states that presenttense relationship scaleinvariance must physically manifest as a transforming gate. Where an entity's traversal of that gate is held as a mutual traversal between two topology entities, PL-181's rule applies unchanged: it is a metabolic event that transforms both parties. Fails Test 1. |
+| PP-119 | PL-84 (was PL-87) | LP-85 (kept; its name for the subject only) | BARREN | PL-87 (Probabilistic Force Field) states that every force relationship carries a probability amplitude, and has no dormancy and no death. LP-85 states that data that is not executing must physically manifest as a transforming gate. Where that gate is held as an edge of the topology, PL-84's rule applies unchanged: a gate that is not traversed is not a stable dormant entity waiting to be reactivated but is actively atrophying. Fails Test 1. |
+| PP-129 | PL-110 (kept, NO CARRIER) | LP-92 (kept, restated) | BARREN | PL-110 (Fuel Dynamics of the Present-Tense Topology) states that the present-tense topology runs on perishable fuel, and has no routing, gap, imperfection, comprehension, density or friction. LP-92 (Friction-Density Routing) states the restated claim: routing mechanisms prioritize paths containing scored gaps over smooth, complete paths, and algorithms designed for deep discovery seek out the highest concentration of measured absence. Fails Test 2. |
+| PP-158 | PL-126 (was PL-133) | LP-116 (kept, restated) | BARREN | PL-133 (Honest Provenance Wake Management) states that declaring gaps discharges Wake, and has no tension, elimination, handshake or friction. LP-116 states that the mutual verification does not establish a frictionless connection and calibrates the structural tension between the two endpoints to manageable parameters. Where the endpoints are held as sovereign topological structures, PL-126 gives that their tension is not a defect to resolve but a structural truth that must be sustained. Each half is BARREN at Test 1 or Test 2. |
+| PP-163 | PL-227 (was PL-50) | LP-118 (kept, restated) | BARREN | PL-50 (Scale-Invariant Navigability) states that in a self-similar topology a wall at any scale is a global wall, and has no contest, metabolism, verification or sovereignty. LP-118 states that the mutual verification is a continuous, high-frequency contest and not a discrete initialization event. Where that verification is held as the entity's active exercise of its sovereign rights, PL-227 gives that the exercise requires ongoing metabolic maintenance. Each half is BARREN at Test 1 or Test 2. |
+
+OPEN PM's review. The Worker's text is kept except where listed:
+- **PP-107, PP-115 and PP-119, the subject.** The Worker wrote each condition in its own words ("each nested depth", "a gate's traversal of an entity", "a gate"). LP-77 names the subject self-similar nesting, and LP-82 and LP-85 name it the transforming gate; a condition uses the parent's own word where the parent states it (batch 34, PP-59). The conditions are now "each depth of the self-similar nesting LP-77 names", "an entity's traversal of the transforming gate LP-82 names" (which also puts the entity, not the gate, as the one that traverses) and "the transforming gate LP-85 names". Title, italic, claim and Test 1 are restated to match. The Irreducibility no longer says the LP parent is kept "with nothing attributed to it": it says the only thing taken from it is its name for the subject, and every earlier attribution to it is cut.
+- **PP-158, the condition.** The Worker's condition held the endpoints "as two sovereign structures in tension". LP-116 itself gives the structural tension between the two endpoints, so the tension comes out of the condition, which is now only that the endpoints are held as sovereign topological structures. The title, which had lost the antecedent of "Their", is restated to match.
+- **PP-158 and PP-163, the two halves.** The Worker wrote "so the entry is two halves and not a conjunction of two single-parent facts", the form cut from PP-59 and PP-78 by the batch 34 check. Both now say, in PP-365's form, that neither parent adds to the other, so the entry is a conjunction of two single-parent facts and not a product of a crossing.
+- **PP-129, NO CARRIER.** "No PL entry was found that carries the claim in its own word (see the return)" pointed at the return. The Irreducibility now states the search in PP-92's form: PL-100 and PL-157 were read and set aside, PL-100 is recorded as the alternative, and not found is not proof of absence.
+- **The cut corollaries.** The Worker wrote "Not claimed, and cut from the earlier text: …; neither parent states them." Each is now in the form used elsewhere in the PP file: the earlier corollaries, named, are not carried by the two parents and are not asserted.
+- **PP-266's children list.** "PL-181 is also the Derives parent of PP-387, PP-621 and PP-691" now includes PP-115.
+
+Accepted as the Worker made them: the five re-points (PP-107 to PL-119, PP-115 to PL-181, PP-119 to PL-84, PP-158 to PL-126, PP-163 to PL-227), each with its condition written and not asserted; the NO CARRIER slot (PL-110 kept on the Derives-from line with nothing attributed, as in batches 08, 09, 31, 33 and 34); the candidates set aside, with their nearest sentences (for PP-107 PL-21, PL-22, PL-120, PL-61, PL-223 and PL-310; for PP-115 PL-244, PL-289 and PL-72; for PP-119 PL-16, PL-5, PL-186, PL-72 and PL-63, the rows file's candidate; for PP-129 PL-100 and PL-157; for PP-158 PL-322 and PL-147; for PP-163 PL-40, PL-248 and PL-42). Six tags are removed (`[shared LL-65]`, `[shared LL-70]`, `[shared LL-73]`, `[shared LL-112]`, `[shared LL-146]`, `[shared LL-2]`); in each, the current PL parent does not cite the LL, which the LP parent alone cites. The rows file found no carrier for five of the six; the five re-points rest on a condition each, which the Worker rated low or low to medium, and NO CARRIER is the recorded alternative for each.
+
+Line references. The batch adds 6 lines to the PP file (each of the six entries gains its state line). The 22 `PP-n (:m` references to entries below PP-107 move: 18 by 6, and the four to PP-132, PP-149 and PP-153 (between PP-129 and PP-158) by 4. PP-221's bare list moves with them (the LP-152 Applies-to lines :4483 → :4489 and :4504 → :4510; the PL-17 headers :3506, :4764, :4971, :5033, :11156, :11596 and :11656 by 6; :680 and :1907 do not move). Every `PP-n (:m` reference in the PP file equals the entry's heading + 5. The PP file goes from 14242 to 14248 lines. PI's 570 title copies (95 for each of the six) are replaced, and no PI line carries an earlier title of the six.
+
+Titles. Six new titles, each restating the entry:
+- PP-107 "Where Each Depth of a Self-Similar Nesting Is Held as a Structure of the Topology, Each Is Sovereign Over Its Own Interior Geometry — Force Cannot Bypass a Sovereign Structure"
+- PP-115 "Where an Entity's Traversal of a Transforming Gate Is Held as a Mutual Traversal Between Two Topology Entities, It Is a Metabolic Event That Transforms Both Parties"
+- PP-119 "Where a Transforming Gate Is Held as an Edge of the Topology, One That Is Not Traversed Is Not a Stable Dormant Entity Waiting to Be Reactivated — It Is Actively Atrophying"
+- PP-129 "Physical Routing Mechanisms Prioritize Paths Containing Scored Gaps Over Smooth, Complete Paths — Algorithms Designed for Deep Discovery Seek Out the Highest Concentration of Measured Absence"
+- PP-158 "Where the Two Endpoints of a Mutual Verification Are Held as Sovereign Topological Structures, Their Tension Is Not a Defect to Resolve but a Structural Truth That Must Be Sustained — The Handshake Calibrates It to Manageable Parameters and Does Not Establish a Frictionless Connection"
+- PP-163 "Where Continuous Contested Verification Is Held as an Entity's Active Exercise of Its Sovereign Rights, That Exercise Requires Ongoing Metabolic Maintenance — Verification Is a Continuous Contest, Not a Discrete Initialization Event"
+
+How the slots are counted: six PL slots; five RE-POINT and one NO CARRIER. 6 slots corrected. **24 remain**, all PL slots. BARREN lines: 172 → 178.
+
+Out-edges: PL-85 loses PP-107 (PP-201 remains); PL-86 loses PP-115 (PP-465, PP-656 remain); PL-87 loses PP-119 (PP-459, PP-637 remain); PL-133 loses PP-158 (PP-420, PP-681 remain); PL-50 loses PP-163 (PP-619 remains). PL-119 gains PP-107 (with PP-389, PP-397, PP-401); PL-181 gains PP-115 (with PP-266, PP-387, PP-621, PP-691); PL-84 gains PP-119 (with PP-80, PP-185, PP-217); PL-126 gains PP-158, its first PP child; PL-227 gains PP-163 (with PP-7, PP-82, PP-83). PL-110 keeps its Derives-from slot in PP-129 as NO CARRIER with nothing attributed. PI: 95 Derives-from lines for each of the six carry the new titles; IP and IC have none.
+
+Loci (not acted on):
+- LP-77, LP-82 and LP-85 are template entries that carry nothing of PP-107, PP-115 and PP-119 but the name of the subject; if the three conditions are refused, those entries have no carrier on either side and are UNRESOLVED.
+- PP-7 keeps `[shared LL-2]` on its PL-227 Derives-from line, and PL-227 does not cite LL-2 (for the tag sweep).
+- Alternative carriers named by the Worker: PL-100 (PP-129, under a condition; it cites LL-112, as LP-92 does), PL-16 and PL-72 (PP-119), PL-322 (PP-158), PL-40 (PP-163), PL-120 (PP-107; it cites LL-65, as LP-77 does, and states no bypass).
+- LP-24 and LP-28 concern the interior-controlled gate (CP-5), not the transforming gate LP-82 and LP-85 name; a later LP-slot pass that reads them as the transforming gate would need a condition.
+- No sentence of PL or LP names a gate and an edge as one thing; PP-119's condition is the only bridge.
+
 ## The 250 slots
 
 "Candidate … not adopted" means one reader proposed an entry but the pick did not meet the rule above.
@@ -2710,19 +2756,19 @@ Loci, not changed here:
 | PP-92 | PL | PL-94 | no carrier found (strict reader, medium); batch 34: no carrier; nothing attributed to PL-94 (PL-119 read and set aside: its unconsented flow is indirect), restated on LP-64 alone, BARREN |
 | PP-98 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 05: re-pointed to PL-17 and restated, BARREN; batch 05 check: re-pointed to PL-113 |
 | PP-103 | PL | PL-82 | no carrier found (every reader); batch 02: re-pointed to PL-191 and restated, BARREN |
-| PP-107 | PL | PL-85 | no carrier found (strict reader, medium) |
+| PP-107 | PL | PL-119 (was PL-85) | no carrier found (strict reader, medium); batch 35: re-pointed to PL-119 (Sovereignty as Physical Impedance) under the condition that each depth of the self-similar nesting LP-77 names is held as a structure of the topology; only LP-77's name for the subject is taken, BARREN |
 | PP-112 | PL | PL-50 | no carrier found (every reader); batch 05: read, not corrected (to the title pass); batch 11: RE-POINT → PL-127 |
-| PP-115 | PL | PL-86 | no carrier found (strict reader, medium) |
-| PP-119 | PL | PL-87 | candidate PL-63, low confidence, not adopted |
-| PP-129 | PL | PL-110 | no carrier found (strict reader, medium) |
+| PP-115 | PL | PL-181 (was PL-86) | no carrier found (strict reader, medium); batch 35: re-pointed to PL-181 (Corrective Metabolism) under the condition that an entity's traversal of the transforming gate LP-82 names is held as a mutual traversal between two topology entities; only LP-82's name for the subject is taken, BARREN |
+| PP-119 | PL | PL-84 (was PL-87) | candidate PL-63, low confidence, not adopted; batch 35: PL-63 read and set aside (a starving derivation, not a gate); re-pointed to PL-84 (Edge Decay and Atrophy) under the condition that the transforming gate LP-85 names is held as an edge of the topology; only LP-85's name for the subject is taken, BARREN |
+| PP-129 | PL | PL-110 | no carrier found (strict reader, medium); batch 35: no carrier; nothing attributed to PL-110 (PL-100 and PL-157 read and set aside), restated on LP-92 alone, BARREN |
 | PP-130 | PL | PL-111 | no carrier found (strict reader, medium); batch 05: re-pointed to PL-46 and restated, BARREN |
 | PP-131 | PL | PL-113 | candidate PL-226, low confidence, not adopted; batch 03: re-pointed to PL-226 and restated, BARREN |
 | PP-136 | PL | PL-160 | no carrier found (strict reader, medium); batch 03: read, not corrected (restatement would contradict the title; to the title pass); batch 11: NO CARRIER, kept, nothing attributed |
 | PP-140 | PL | PL-149 | candidate PL-255, low confidence, not adopted; batch 03: re-pointed to PL-130 and restated, BARREN |
 | PP-145 | PL | PL-216 | no carrier found (strict reader, medium); batch 03: re-pointed to PL-150 and restated, BARREN |
 | PP-154 | PL | PL-130 | no carrier found (strict reader, medium); batch 05: re-pointed to PL-81 and restated, BARREN |
-| PP-158 | PL | PL-133 | no carrier found (strict reader, medium) |
-| PP-163 | PL | PL-50 | no carrier found (every reader) |
+| PP-158 | PL | PL-126 (was PL-133) | no carrier found (strict reader, medium); batch 35: re-pointed to PL-126 (Sovereign Tension Fields) under the condition that the two endpoints of LP-116's mutual verification are held as sovereign topological structures, restated as two single-parent halves on PL-126 and LP-116, BARREN |
+| PP-163 | PL | PL-227 (was PL-50) | no carrier found (every reader); batch 35: re-pointed to PL-227 (Active Rights Atrophy Without Metabolic Exercise — Inherent Rights Persist) under the condition that LP-118's continuous verification is held as the entity's active exercise of its sovereign rights, restated as two single-parent halves on PL-227 and LP-118, BARREN |
 | PP-166 | PL | PL-51 | no carrier found (strict reader, medium) |
 | PP-184 | PL | PL-144 | no carrier found (strict reader, high) |
 | PP-192 | PL | PL-154 | no carrier found (strict reader, medium) |
