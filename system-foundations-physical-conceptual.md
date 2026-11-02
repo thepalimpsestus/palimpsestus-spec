@@ -31,7 +31,7 @@ applied to a living topology of edges and nodes with mass, force, Pulse, Wake,
 and geometric structure?" Record the irreducible claim. Test: can this PC entry
 be derived from other PC entries? If yes, it is not irreducible.
 
-**Relationship to the QRB Question:** This is the layer the entire derivation
+**Relationship to the Reality Graph:** This is the layer the entire derivation
 chain was built to reach. LC answered what derivation's logic requires. PC
 answers what the physical topology must BE for that logic to live in it.
 

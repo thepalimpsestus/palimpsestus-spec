@@ -25,7 +25,7 @@ Implementation Conceptual (IC) specifies Level 5 Skills and Baseline Capability 
 **Irreducible Claim:** The `scribe` capability operationalizes physical graph creation. Ingesting an entity or process definition is not a file write or database insert; `scribe` binds the ingested structure directly into the graph under non-transferable actor stewardship, enforcing live edge tension that persists until explicit metabolic dissolution.
 
 **Corollaries:**
-- CLI invocations (`tp scribe <entity>`) execute `scribe` capabilities to bind structures into the QRB.
+- CLI invocations (`tp scribe <entity>`) execute `scribe` capabilities to bind structures into the reality graph.
 - Ingested entities cannot exist without an assigned, accountable actor identity.
 - Ingestion errors release stored topological tension and feed failure inputs into the next iteration.
 
